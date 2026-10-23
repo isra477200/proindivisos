@@ -121,7 +121,9 @@ def _to_draft(post_id):
 def run(spec, publish=True):
     _to_draft(spec['post_id'])
     payload=build(spec)
-    out=subprocess.run(['./emcp.sh','elementor-build-composition',json.dumps(payload,ensure_ascii=False)],capture_output=True,text=True).stdout
+    import tempfile
+    tf=tempfile.NamedTemporaryFile('w',suffix='.json',delete=False,dir=os.path.dirname(os.path.abspath(__file__))); json.dump(payload,tf,ensure_ascii=False); tf.close()
+    out=subprocess.run(['./emcp.sh','elementor-build-composition','@'+tf.name],capture_output=True,text=True).stdout; os.unlink(tf.name)
     ok='"success":true' in out
     warn=re.findall(r'"warnings":\[(.*?)\]',out)
     print(spec['post_id'], 'OK' if ok else 'FAIL', '' if ok else out[:400], ('WARN '+warn[0][:300]) if warn else '', flush=True)

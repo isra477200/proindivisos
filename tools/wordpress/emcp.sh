@@ -7,8 +7,10 @@ if [ ! -s "$SID_FILE" ]; then
 fi
 SID=$(cat "$SID_FILE")
 ARGS="${2:-}"; [ -z "$ARGS" ] && ARGS="{}"
-BODY=$(python3 -I -c 'import json,sys; print(json.dumps({"jsonrpc":"2.0","id":9,"method":"tools/call","params":{"name":sys.argv[1],"arguments":json.loads(sys.argv[2])}}))' "$1" "$ARGS")
-curl -sS --max-time 180 -u "$P1" -X POST -H "Content-Type: application/json" -H "Accept: application/json, text/event-stream" -H "Mcp-Session-Id: $SID" "$WP/wp-json/elementor/mcp/" -d "$BODY" | python3 -I -c '
+BODYF="$(dirname "$0")/.emcp_body_$$.json"
+if [ "${ARGS#@}" != "$ARGS" ]; then ARGF="${ARGS#@}"; else ARGF="$(dirname "$0")/.emcp_args_$$.json"; printf '%s' "$ARGS" > "$ARGF"; fi
+python3 -I -c 'import json,sys; json.dump({"jsonrpc":"2.0","id":9,"method":"tools/call","params":{"name":sys.argv[1],"arguments":json.load(open(sys.argv[2]))}}, open(sys.argv[3],"w"), ensure_ascii=False)' "$1" "$ARGF" "$BODYF"
+curl -sS --max-time 300 -u "$P1" -X POST -H "Content-Type: application/json" -H "Accept: application/json, text/event-stream" -H "Mcp-Session-Id: $SID" "$WP/wp-json/elementor/mcp/" --data-binary "@$BODYF" | python3 -I -c '
 import json,sys
 raw=sys.stdin.read()
 if raw.startswith("event:") or raw.startswith("data:"): raw=[l[5:] for l in raw.splitlines() if l.startswith("data:")][-1]
@@ -20,3 +22,4 @@ for c in r.get("content",[]):
     else: print(json.dumps(c, ensure_ascii=False)[:2000])
 if r.get("isError"): print("isError: true")
 '
+rm -f "$BODYF" "$(dirname "$0")/.emcp_args_$$.json"

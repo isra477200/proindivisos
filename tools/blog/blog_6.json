@@ -1,0 +1,2906 @@
+[
+ {
+  "slug": "cuanto-me-dan-por-mi-parte-de-un-piso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Precio de tu parte",
+  "h1": "¿Cuánto me dan por mi parte de un piso? Cálculo rápido con ejemplos",
+  "sub": "Por tu parte de un piso te dan entre el 40 % y el 70 % de lo que vale esa parte en el mercado. Si el piso vale 200.000 euros y tienes el 50 %, tu cuota vale 100.000 y la oferta se mueve entre 40.000 y 70.000 euros. Aquí tienes la fórmula, cuatro ejemplos con cifras y lo que haríamos nosotros con tu caso.",
+  "checks": [
+   "Fórmula en tres pasos",
+   "Cuatro ejemplos con cifras",
+   "Oferta por escrito en 48 h"
+  ],
+  "card_title": "Calcula lo que te daríamos hoy",
+  "card_text": "Dirección del piso, tu porcentaje y si está vacío u ocupado. Con eso te mandamos una oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Respuesta corta",
+    "h2": "Cuánto me dan por mi parte de un piso: la fórmula",
+    "type": "text",
+    "intro": [
+     "La cifra sale de tres números: el valor de mercado del piso entero, tu porcentaje y un factor de descuento. Valor de mercado por tu cuota te da el valor proporcional. Ese valor proporcional multiplicado por un factor que va del 0,40 al 0,70 es lo que paga un comprador profesional de cuotas. Nosotros compramos dentro de esa horquilla, con fondos propios, y el dinero se cobra al contado en la notaría.",
+     "El descuento no es un capricho. Quien compra tu parte no puede entrar a vivir, no puede alquilar sin mayoría y no puede vender el piso entero sin acuerdo o sin juicio. Compra un porcentaje y una situación. Cuanto más limpia sea la situación, más cerca del 70 % se queda la oferta. Cuanto más complicada, más cerca del 40 %.",
+     "Si lo que buscas es la horquilla general del mercado, en nuestra página sobre cuánto pagan por un proindiviso la tienes detallada. Aquí vamos a lo concreto: cómo se calcula tu cifra y qué haríamos con tu caso."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo calcular lo que vale tu parte en tres pasos",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Averigua lo que vale el piso entero",
+      "p": "Mira anuncios de pisos parecidos en la misma zona y resta un 5 % o un 10 %, porque el precio de anuncio casi nunca es el de cierre. Si tienes una tasación reciente, mejor. No uses el valor catastral: suele estar muy por debajo del mercado."
+     },
+     {
+      "t": "Aplica tu porcentaje",
+      "p": "Tu cuota está en la escritura o en la nota simple del Registro. Un 50 %, un tercio, un 25 %. Multiplica el valor del piso por esa cuota y obtienes el valor proporcional. Es el máximo teórico que nadie pagará por una parte."
+     },
+     {
+      "t": "Aplica el factor de descuento",
+      "p": "Entre 0,40 y 0,70 según ciudad, ocupación, cargas y número de copropietarios. Piso vacío en capital con dos dueños y sin deudas: factor alto. Piso ocupado por un hermano, con IBI atrasado y cinco herederos: factor bajo. El resultado es la oferta orientativa."
+     }
+    ],
+    "outro": [
+     "Un ejemplo sencillo: piso que vale 180.000 euros, tienes el 50 % y está vacío. Valor proporcional 90.000. Factor 0,60. Oferta orientativa 54.000 euros. Si el piso está ocupado por el otro copropietario y no paga nada, el factor baja a 0,45 y la oferta ronda los 40.000."
+    ]
+   },
+   {
+    "overline": "Ejemplos",
+    "h2": "Cuatro ejemplos reales de cuánto pagan por una parte de un piso",
+    "intro": [
+     "Las cifras son orientativas y están redondeadas. Cambian con la calle, el estado del piso y la situación de cada comunidad, pero sirven para que te hagas una idea de lo que te daríamos."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Caso",
+      "Cálculo y oferta orientativa"
+     ],
+     [
+      "Madrid, barrio de Salamanca, 50 % de piso de 90 m2 heredado, vacío, dos hermanos",
+      "Valor de mercado 650.000 euros. Valor proporcional 325.000. Situación limpia, zona muy líquida: factor 0,65. Oferta orientativa entre 195.000 y 215.000 euros."
+     ],
+     [
+      "Ciudad media (Valladolid), un tercio de piso de 100 m2, ocupado por un hermano que no paga",
+      "Valor de mercado 150.000 euros. Valor proporcional 50.000. Ocupación sin renta y tres copropietarios: factor 0,45. Oferta orientativa entre 21.000 y 25.000 euros."
+     ],
+     [
+      "Pueblo de 3.000 habitantes en Jaén, 25 % de casa de 140 m2, cerrada, cuatro herederos",
+      "Valor de mercado 60.000 euros. Valor proporcional 15.000. Mercado poco líquido y cuatro dueños: factor 0,40. Oferta orientativa entre 6.000 y 7.500 euros."
+     ],
+     [
+      "Costa (Torrevieja), 50 % de apartamento de 65 m2 tras divorcio, vacío, con hipoteca de 40.000 euros",
+      "Valor de mercado 140.000 euros. Valor proporcional 70.000. Factor 0,60: 42.000 euros. Se descuenta la mitad de la hipoteca pendiente (20.000). Neto orientativo 22.000 euros, y tu nombre sale de la deuda si el banco lo acepta."
+     ]
+    ],
+    "outro": [
+     "Fíjate en que el porcentaje importa menos que la situación. El 25 % de una casa de pueblo vale menos de lo que cuesta un coche usado, y aun así la compramos. El 50 % de un piso en Madrid vale más que una vivienda entera en muchas provincias."
+    ]
+   },
+   {
+    "overline": "Factores",
+    "h2": "Qué sube y qué baja la cifra que te dan",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Si está vacío",
+      "p": "Es el escenario que más paga. Un piso vacío permite al comprador negociar con el resto o pedir la división sin esperar. Factor alto, cerca del 65 % o el 70 %."
+     },
+     {
+      "t": "Si vive un copropietario",
+      "p": "Baja la cifra, sobre todo si no paga nada por el uso. Aun así compramos y nos ocupamos nosotros del tema. Tienes más detalle en la página sobre cuotas con inquilino u okupa.",
+      "url": "/vender-proindiviso-con-inquilino-u-okupa/",
+      "cta": "Piso ocupado →"
+     },
+     {
+      "t": "Si hay hipoteca o deudas",
+      "p": "No impiden la venta. Se descuenta de tu precio la parte de la carga que corresponde a tu cuota y se cancela o se subroga en la misma firma.",
+      "url": "/vender-proindiviso-con-hipoteca/",
+      "cta": "Vender con hipoteca →"
+     },
+     {
+      "t": "Cuántos dueños hay",
+      "p": "Dos copropietarios es lo más sencillo. Cinco o seis herederos, alguno ilocalizable, complica cualquier acuerdo posterior y baja el factor."
+     },
+     {
+      "t": "La ciudad",
+      "p": "Madrid, Barcelona, Valencia, Sevilla, Málaga y las capitales de provincia pagan más porque el piso se vende rápido después. Un pueblo pequeño paga menos.",
+      "url": "/vender-proindiviso/",
+      "cta": "Compramos en toda España →"
+     }
+    ],
+    "outro": [
+     "Hay un factor más que depende de ti: la documentación. Una cuota inscrita en el Registro, con la herencia liquidada y el IBI al día, se paga mejor que una cuota que todavía figura a nombre del fallecido. Si te falta algún paso, no pasa nada, lo resolvemos nosotros, pero cuenta con que el precio lo refleje."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Primero te pedimos tres datos: la dirección, tu porcentaje y quién usa el piso hoy. Con eso consultamos la nota simple, miramos el mercado de la zona y te mandamos una oferta por escrito en 48 horas. Sin visita previa en la mayoría de los casos y sin que nadie más tenga que enterarse.",
+     "Si la cifra te encaja, pedimos la documentación básica, preparamos la escritura y firmamos en la notaría que prefieras en dos a cuatro semanas. Cobras al contado en el mismo acto. Los gastos de notaría y gestión son nuestros. No hay exclusividad ni compromiso hasta que firmas."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Pide tu cifra concreta, no una horquilla",
+     "p": "Dinos la dirección y tu porcentaje. En 48 horas tendrás una oferta por escrito que puedes comparar con calma.",
+     "cta": "Quiero saber cuánto me dan"
+    }
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Vender tu parte frente a las otras salidas",
+    "type": "list",
+    "items": [
+     "<strong>Que te compre el otro copropietario.</strong> Es la opción que más dinero deja si tiene el dinero y quiere. En una extinción de condominio puedes acercarte al 100 % del valor proporcional. El problema es que la mayoría de las veces no quiere, no puede o quiere pagarte a plazos.",
+     "<strong>Vender el piso entero entre todos.</strong> Precio de mercado completo menos gastos. Necesita la firma de todos y meses de visitas. Si uno se niega, no hay venta.",
+     "<strong>División judicial y subasta.</strong> Un juez ordena vender. Tarda de uno a tres años, cuesta abogado y procurador y el precio de subasta queda muchas veces por debajo del 60 % del mercado. Lo explicamos en la página sobre división de cosa común.",
+     "<strong>Vendernos tu parte.</strong> Entre el 40 % y el 70 % del valor proporcional, en semanas, sin depender de nadie y con los gastos a nuestro cargo. Es menos dinero que la primera opción y mucho más seguro que la tercera."
+    ],
+    "outro": [
+     "No es la salida para todo el mundo. Si tu hermano te ofrece el 90 % de tu parte y paga en un mes, acepta. Si llevas dos años esperando una respuesta, ya sabes lo que vale esa espera."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto vale mi parte de un piso si tengo el 50 %?",
+    "La mitad del valor de mercado del piso es el valor proporcional. Un comprador de cuotas paga entre el 40 % y el 70 % de esa mitad. En un piso de 200.000 euros, entre 40.000 y 70.000 euros según ocupación, cargas y ciudad."
+   ],
+   [
+    "¿Cuánto pagan por un proindiviso en un pueblo?",
+    "Menos que en una capital, porque luego cuesta más vender el inmueble. En pueblos pequeños el factor se queda cerca del 40 % o el 45 % del valor proporcional. Aun así compramos cuotas en cualquier municipio de España."
+   ],
+   [
+    "¿Me dan menos si mi hermano vive en el piso?",
+    "Sí. Un piso ocupado por un copropietario que no paga baja el factor hasta el 40 % o el 50 %. Si paga una compensación mensual por el uso, la cifra mejora."
+   ],
+   [
+    "¿Podéis darme una cifra sin ver el piso?",
+    "Sí. Con la dirección, la nota simple y fotos, si las tienes, calculamos el valor de mercado y te damos precio por escrito en 48 horas. Visitamos solo si hace falta para afinar."
+   ],
+   [
+    "¿La oferta es neta o tengo que pagar algo?",
+    "Es neta de gastos de notaría y gestión, que van a nuestro cargo. Tú asumes tus impuestos: plusvalía municipal si hay incremento y la ganancia en el IRPF si la hay. Te lo detallamos antes de firmar."
+   ],
+   [
+    "¿Y si quiero más de lo que ofrecéis?",
+    "No hay compromiso. Puedes comparar con otras empresas, con lo que te ofrezca el otro copropietario o con lo que esperarías de una subasta. Si vuelves, la oferta sigue en pie dentro de su plazo de validez."
+   ]
+  ],
+  "faq_title": "Preguntas sobre cuánto dan por una parte de un piso",
+  "related": [
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Cómo se calcula la cuota de un proindiviso",
+    "/blog/como-se-calcula-la-cuota-de-un-proindiviso/"
+   ],
+   [
+    "Vender a un familiar o a una empresa",
+    "/blog/vender-proindiviso-a-un-familiar-o-a-una-empresa/"
+   ],
+   [
+    "Empresas que compran proindivisos",
+    "/empresas-que-compran-proindivisos/"
+   ]
+  ],
+  "cta_title": "Tu cifra, por escrito, en 48 horas",
+  "cta_text": "Compramos tu parte del piso con fondos propios. Firma en notaría en dos a cuatro semanas, cobro al contado y gastos a nuestro cargo. Sin compromiso.",
+  "yoast_title": "Cuánto me dan por mi parte de un piso: cálculo y ejemplos",
+  "meta_desc": "Cuánto me dan por mi parte de un piso: entre el 40 % y el 70 % del valor de tu cuota. Fórmula en tres pasos, cuatro ejemplos con cifras y oferta en 48 h.",
+  "focus_kw": "cuanto me dan por mi parte de un piso",
+  "title_corto": "Cuánto me dan por mi parte"
+ },
+ {
+  "slug": "pacto-de-indivision-que-es-y-cuanto-dura",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Pacto de indivisión",
+  "h1": "Pacto de indivisión: qué es, cuánto dura y cómo salir aunque exista",
+  "sub": "El pacto de indivisión es el acuerdo por el que los copropietarios se comprometen a no dividir el inmueble durante un tiempo, con un máximo de diez años según el artículo 400 del Código Civil. Bloquea la acción de división, pero no te impide vender tu cuota. Nosotros compramos cuotas con pacto de indivisión vigente.",
+  "checks": [
+   "Artículo 400 del Código Civil",
+   "Máximo diez años, prorrogable",
+   "Compramos aunque haya pacto"
+  ],
+  "card_title": "¿Atado por un pacto de indivisión?",
+  "card_text": "Mándanos la escritura o la nota simple. Te decimos si el pacto afecta a la venta de tu cuota y te damos precio en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un pacto de indivisión",
+    "type": "text",
+    "intro": [
+     "La regla general en una copropiedad es que nadie está obligado a seguir en ella: cualquier copropietario puede pedir la división en cualquier momento. Así lo dice el artículo 400 del Código Civil en su primer párrafo. El segundo párrafo añade la excepción: será válido el pacto de conservar la cosa indivisa por tiempo determinado, que no exceda de diez años, y ese plazo podrá prorrogarse por nueva convención.",
+     "Eso es un pacto de indivisión. Un acuerdo entre todos los copropietarios por el que renuncian temporalmente a pedir la división. Se firma normalmente en la misma escritura de compra o de herencia, aunque también puede hacerse después en documento aparte. Si se inscribe en el Registro de la Propiedad, afecta a quien compre una cuota más tarde.",
+     "Hay una figura parecida en las herencias: el testador puede prohibir la división de la herencia en el testamento, según el artículo 1051 del Código Civil. La doctrina aplica a esa prohibición el mismo límite temporal de diez años por analogía con el artículo 400."
+    ]
+   },
+   {
+    "overline": "Por qué se firma",
+    "h2": "Para qué sirve y cuándo se usa",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Para que los padres sigan en casa",
+      "p": "Es el caso más frecuente. Los hermanos heredan la vivienda donde vive la madre y pactan no dividir mientras ella viva o durante diez años, para que nadie fuerce una venta."
+     },
+     {
+      "t": "Para esperar a vender mejor",
+      "p": "Socios o hermanos que compran un local o un terreno y acuerdan mantenerlo cinco años hasta que el mercado suba o llegue la recalificación."
+     },
+     {
+      "t": "Para proteger a un menor",
+      "p": "Cuando uno de los copropietarios es menor de edad, el pacto evita que un tercero fuerce la venta antes de que cumpla dieciocho años."
+     },
+     {
+      "t": "Para dar estabilidad a una pareja",
+      "p": "Parejas que compran sin casarse y pactan no dividir durante los primeros años de hipoteca. Si rompen, el pacto sigue vigente hasta su plazo."
+     }
+    ]
+   },
+   {
+    "overline": "Plazo",
+    "h2": "Cuánto dura un pacto de indivisión",
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Qué dice la ley y qué pasa en la práctica"
+     ],
+     [
+      "Pacto con plazo concreto",
+      "Vale hasta ese plazo, con el tope de diez años. Si se firmó por quince, los tribunales lo reducen a diez. Pasado el plazo, cualquiera puede pedir la división."
+     ],
+     [
+      "Pacto sin plazo",
+      "La doctrina mayoritaria lo entiende sujeto al máximo legal de diez años desde la firma. No existe el pacto de indivisión perpetuo: sería contrario al artículo 400."
+     ],
+     [
+      "Pacto ligado a un hecho (mientras viva la madre)",
+      "Se admite, pero con el mismo límite de diez años. Si la madre vive más, el pacto decae a los diez años, aunque en la práctica los hermanos suelen renovarlo."
+     ],
+     [
+      "Prórroga",
+      "Necesita nueva convención, es decir, acuerdo de todos los copropietarios otra vez. No se prorroga sola. Puede firmarse por otros diez años como máximo."
+     ],
+     [
+      "Prohibición testamentaria de dividir",
+      "Mismo límite de diez años por analogía. Se puede saltar si concurre una causa de extinción de sociedad, como la muerte o la incapacidad de un copropietario."
+     ]
+    ]
+   },
+   {
+    "overline": "Lo importante",
+    "h2": "El pacto de indivisión no te impide vender tu cuota",
+    "type": "text",
+    "intro": [
+     "Aquí está la clave que muchos desconocen. El pacto de indivisión limita una sola cosa: la facultad de pedir la división de la cosa común. No toca el artículo 399 del Código Civil, que permite a cada copropietario vender, ceder o hipotecar su cuota sin consentimiento de los demás. Son derechos distintos.",
+     "Puedes vender tu parte a un tercero aunque el pacto esté vigente. El comprador entra en la comunidad en tu lugar y, si el pacto está inscrito, queda sujeto a él: tampoco podrá pedir la división hasta que venza. Por eso un comprador profesional lo tiene en cuenta en el precio, pero no es un obstáculo para la compra.",
+     "Distinto sería que en la escritura se hubiera pactado además una prohibición de vender la cuota. Ese tipo de prohibiciones, en actos a título oneroso, no tienen acceso al Registro y solo generan una obligación personal entre quienes la firmaron. En herencias y donaciones sí pueden inscribirse con límites. Si tu escritura contiene una cláusula así, mándanosla y te decimos qué alcance tiene en tu caso."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Un ejemplo con cifras. Tres hermanos heredan una casa en Toledo valorada en 210.000 euros con pacto de indivisión por diez años firmado hace cuatro, para que la madre siga viviendo en ella. Uno de los hermanos necesita el dinero ahora. Su tercio vale 70.000 euros. Como quedan seis años de pacto y la casa está ocupada por la madre, el factor se sitúa en torno al 0,45: oferta orientativa de 31.000 euros, al contado, sin que la madre tenga que salir de la casa ni los hermanos firmar nada.",
+     "Antes de ofertar leemos el pacto completo. Comprobamos el plazo, si está inscrito y si hay alguna cláusula de preferencia a favor de los otros hermanos. Si existe retracto, se respeta: se les notifica la venta y tienen nueve días para igualar la oferta. Si no lo ejercen, firmamos."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te decimos si tu pacto afecta a la venta",
+     "p": "Envíanos la escritura o la nota simple. En 48 horas tienes un informe corto y una oferta por escrito por tu cuota.",
+     "cta": "Pedir precio con pacto de indivisión"
+    }
+   },
+   {
+    "overline": "Comprobación",
+    "h2": "Cómo saber si tu escritura tiene un pacto de indivisión",
+    "type": "text",
+    "intro": [
+     "Busca en la escritura de herencia o de compra una cláusula con expresiones como \"los comparecientes se obligan a mantener la finca en proindiviso\", \"pactan la indivisión por plazo de\" o \"renuncian a ejercitar la acción de división\". Suele estar en los pactos finales, después de la adjudicación de los bienes. En los testamentos aparece como \"prohíbo la división de\" o \"es mi voluntad que la casa no se divida mientras\".",
+     "Pide después una nota simple del Registro de la Propiedad. Si el pacto está inscrito, aparecerá en la descripción de la finca o en las cargas. Si no aparece, el pacto sigue valiendo entre quienes lo firmaron, pero no afecta a un comprador que no lo conozca. Nosotros revisamos los dos documentos antes de hacer la oferta."
+    ]
+   },
+   {
+    "overline": "Otras salidas",
+    "h2": "Cómo salir del proindiviso mientras dura el pacto",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Pide a los demás que te compren",
+      "p": "El pacto no impide una extinción de condominio voluntaria. Si uno de los copropietarios se queda tu parte y te compensa, la comunidad sigue y el pacto se cumple. Tributa por AJD en lugar de ITP."
+     },
+     {
+      "t": "Propón dejar el pacto sin efecto",
+      "p": "Lo que se firmó entre todos se deshace entre todos. Un documento con la firma de todos los copropietarios extingue el pacto. Si uno se niega, no hay forma de anularlo salvo causa grave."
+     },
+     {
+      "t": "Alega una causa de extinción",
+      "p": "La doctrina admite que se pueda pedir la división antes de plazo cuando concurre una causa justa, como la muerte o incapacidad de un copropietario o un cambio radical en las circunstancias. Es un pleito con resultado incierto."
+     },
+     {
+      "t": "Vende tu cuota a un tercero",
+      "p": "La vía que no depende de nadie. Vendes tu porcentaje, cobras y sales. El comprador asume el pacto. Es lo que hacemos nosotros, con fondos propios y en semanas."
+     }
+    ],
+    "outro": [
+     "Si lo que quieres es que el pacto se respete porque proteges a alguien, no hagas nada: funciona solo hasta su plazo. Si lo que quieres es salir, el camino más corto es la venta de tu cuota. Tienes más opciones en la entrada sobre cómo salir de una propiedad compartida."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Un pacto de indivisión puede durar más de diez años?",
+    "No. El artículo 400 del Código Civil fija el máximo en diez años. Si se pactó un plazo mayor, se reduce a diez. Lo que sí cabe es prorrogarlo por acuerdo de todos cuando venza, por otros diez años como máximo."
+   ],
+   [
+    "¿Puedo vender mi parte si hay pacto de indivisión?",
+    "Sí. El pacto impide pedir la división, no vender la cuota. El comprador entra en la comunidad y queda sujeto al pacto si está inscrito. Nosotros compramos cuotas con pacto vigente."
+   ],
+   [
+    "¿El pacto de indivisión tiene que estar en el Registro?",
+    "No es obligatorio, pero si no está inscrito solo obliga a quienes lo firmaron. Un comprador de buena fe que no lo conoce podría pedir la división. Por eso conviene inscribirlo si se quiere que afecte a terceros."
+   ],
+   [
+    "¿Qué pasa si uno de los copropietarios muere durante el pacto?",
+    "Sus herederos ocupan su lugar en la comunidad y en el pacto. La doctrina admite que la muerte de un comunero pueda ser causa para pedir la división anticipada, pero no es automático."
+   ],
+   [
+    "¿Mi padre prohibió en el testamento dividir la casa. Es para siempre?",
+    "No. La prohibición testamentaria de dividir se entiende limitada a diez años por analogía con el artículo 400. Además cede ante causas de extinción como la muerte o la incapacidad de un heredero."
+   ],
+   [
+    "¿Compráis cuotas aunque queden varios años de pacto?",
+    "Sí. Lo tenemos en cuenta en el precio porque tardaremos más en recuperar la inversión, pero compramos. Oferta en 48 horas y firma en dos a cuatro semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el pacto de indivisión",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Cómo salir de una propiedad compartida",
+    "/blog/como-salir-de-una-propiedad-compartida/"
+   ],
+   [
+    "Se puede obligar a vender a un copropietario",
+    "/blog/se-puede-obligar-a-vender-a-un-copropietario/"
+   ],
+   [
+    "Vender proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ]
+  ],
+  "cta_title": "El pacto no te ata a tu cuota",
+  "cta_text": "Compramos tu parte aunque exista un pacto de indivisión vigente. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Pacto de indivisión: qué es, cuánto dura y cómo salir",
+  "meta_desc": "El pacto de indivisión bloquea la división hasta diez años (art. 400 CC), pero no impide vender tu cuota. Qué es, prórroga y cómo salir: la compramos.",
+  "focus_kw": "pacto de indivisión",
+  "title_corto": "Pacto de indivisión"
+ },
+ {
+  "slug": "comunidad-hereditaria-vs-proindiviso",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Comunidad hereditaria y proindiviso: diferencias y qué puedes vender en cada caso",
+  "sub": "La comunidad hereditaria existe desde que muere el causante hasta que se reparte la herencia: cada heredero tiene una cuota sobre el conjunto, no sobre cada bien. El proindiviso nace cuando un bien concreto se adjudica a varios. En la primera vendes derechos hereditarios; en el segundo, una cuota del inmueble. Compramos en los dos casos.",
+  "checks": [
+   "Diferencias explicadas con ejemplos",
+   "Qué se vende en cada fase",
+   "Compramos antes y después de partir"
+  ],
+  "card_title": "¿Herencia sin repartir o cuota ya adjudicada?",
+  "card_text": "Cuéntanos en qué punto está la herencia. Te decimos qué puedes vender hoy y te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Dos fases",
+    "h2": "Comunidad hereditaria y proindiviso no son lo mismo",
+    "type": "text",
+    "intro": [
+     "Cuando alguien fallece y deja varios herederos, se forma una comunidad hereditaria. Dura desde la aceptación de la herencia hasta la partición. En esa fase ningún heredero es dueño de un tercio del piso, del coche o de la cuenta del banco: cada uno tiene una cuota sobre la herencia como conjunto, una universalidad con activos y deudas.",
+     "El proindiviso ordinario, la comunidad de bienes de los artículos 392 a 406 del Código Civil, aparece después. Si en la partición el piso se adjudica a los tres hermanos por terceras partes, desde ese momento cada uno tiene una cuota concreta sobre ese inmueble, inscribible en el Registro a su nombre.",
+     "Muchas familias se quedan años en la primera fase sin saberlo. Han firmado la aceptación, han pagado el impuesto de sucesiones, pero nunca han hecho la escritura de partición y adjudicación. Siguen en comunidad hereditaria aunque hablen de su parte del piso."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Diferencias entre comunidad hereditaria y proindiviso",
+    "type": "table",
+    "items": [
+     [
+      "Aspecto",
+      "Comunidad hereditaria frente a proindiviso ordinario"
+     ],
+     [
+      "Sobre qué recae la cuota",
+      "Hereditaria: sobre toda la herencia, bienes y deudas. Proindiviso: sobre un bien concreto, por ejemplo el 33 % de un piso."
+     ],
+     [
+      "Qué puedes vender",
+      "Hereditaria: tus derechos hereditarios, la cuota global. Proindiviso: tu cuota sobre el inmueble, según el artículo 399 del Código Civil."
+     ],
+     [
+      "Derecho de adquisición de los demás",
+      "Hereditaria: retracto de coherederos, un mes desde que se les notifica (artículo 1067). Proindiviso: retracto de comuneros, nueve días desde que conocen la venta (artículo 1522)."
+     ],
+     [
+      "Cómo se sale",
+      "Hereditaria: partición, voluntaria o judicial, con posible intervención de contador partidor. Proindiviso: extinción de condominio, venta de la cuota o división de cosa común."
+     ],
+     [
+      "Inscripción en el Registro",
+      "Hereditaria: el inmueble sigue a nombre del fallecido o con anotación de derecho hereditario. Proindiviso: cada cuota inscrita a nombre de su titular."
+     ],
+     [
+      "Responsabilidad por deudas",
+      "Hereditaria: las deudas del causante gravan la herencia entera antes del reparto. Proindiviso: cada uno responde de los gastos del bien según su cuota (artículo 393)."
+     ]
+    ]
+   },
+   {
+    "overline": "Venta en cada fase",
+    "h2": "Qué puedes vender según el punto en que esté la herencia",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Herencia sin aceptar",
+      "p": "Todavía no hay nada que vender: tienes un derecho a aceptar o repudiar. Lo primero es aceptar, en escritura o en el mismo acto de la venta. Nosotros lo preparamos en la misma notaría."
+     },
+     {
+      "t": "Herencia aceptada, sin partir",
+      "p": "Vendes tus derechos hereditarios, es decir, tu cuota sobre el conjunto. Es la cesión de derechos hereditarios. El comprador ocupa tu lugar en la partición. Lo explicamos a fondo en nuestra página sobre vender derechos hereditarios.",
+      "url": "/vender-derechos-hereditarios/",
+      "cta": "Vender derechos hereditarios →"
+     },
+     {
+      "t": "Partición hecha, piso adjudicado en proindiviso",
+      "p": "Vendes tu cuota del inmueble, con escritura e inscripción a nombre del comprador. Es la operación más limpia y la que mejor precio tiene.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender parte de casa heredada →"
+     },
+     {
+      "t": "Un heredero bloquea todo",
+      "p": "Si uno no firma la partición, puedes vender igualmente tus derechos hereditarios a un tercero. No necesitas su consentimiento. Tienes la página sobre qué hacer cuando un heredero no quiere vender.",
+      "url": "/un-heredero-no-quiere-vender/",
+      "cta": "Un heredero no quiere vender →"
+     }
+    ]
+   },
+   {
+    "overline": "Precio",
+    "h2": "Cuánto vale una cuota en cada caso: ejemplo con cifras",
+    "type": "text",
+    "intro": [
+     "Herencia de un padre con tres hijos. Activos: piso en Zaragoza de 180.000 euros y cuenta con 15.000 euros. Deudas: 9.000 euros entre hipoteca residual y gastos de última enfermedad. Herencia neta 186.000 euros. Cada cuota hereditaria vale 62.000 euros.",
+     "Si uno de los hijos vende sus derechos hereditarios antes de partir, el comprador asume la incertidumbre de la partición, el impuesto de sucesiones si no está pagado y el trato con dos hermanos. El factor es más bajo: entre el 40 % y el 55 %. Oferta orientativa entre 25.000 y 34.000 euros.",
+     "Si antes se parte la herencia, se liquida la cuenta y el piso se adjudica por terceras partes, ese hijo vende el 33 % de un inmueble concreto que vale 60.000 euros proporcionales. Si el piso está vacío, el factor sube al 60 % o el 65 %: entre 36.000 y 39.000 euros, además de los 5.000 euros en metálico que le tocaron de la cuenta. Por eso, cuando es viable, te recomendamos partir antes de vender. Y si no es viable porque alguien no firma, compramos igual en la fase anterior."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Lo primero que miramos es si existe escritura de partición. Si la hay, pedimos la nota simple y hacemos la oferta sobre tu cuota del inmueble. Si no la hay, pedimos el testamento o la declaración de herederos, el certificado de últimas voluntades y la liquidación del impuesto de sucesiones, y hacemos la oferta sobre tus derechos hereditarios.",
+     "En los dos casos el proceso es el mismo para ti: oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, cobro al contado y gastos de notaría y gestión a nuestro cargo. Si hace falta aceptar la herencia en el mismo acto, lo coordinamos con el notario."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Dinos en qué fase está tu herencia",
+     "p": "Con el testamento o la escritura de herencia te decimos qué puedes vender hoy y cuánto te daríamos. Sin compromiso.",
+     "cta": "Pedir precio por mi parte de la herencia"
+    }
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Cómo pasar de comunidad hereditaria a proindiviso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Reúne los documentos de la sucesión",
+      "p": "Certificado de defunción, certificado de últimas voluntades y copia autorizada del testamento. Si no hay testamento, acta notarial de declaración de herederos abintestato."
+     },
+     {
+      "t": "Haz el inventario y valora los bienes",
+      "p": "Piso, cuentas, vehículos, deudas. Cada bien con su valor de referencia o de mercado. De aquí sale la base del impuesto de sucesiones y la cuota de cada heredero."
+     },
+     {
+      "t": "Liquida el impuesto de sucesiones y la plusvalía",
+      "p": "Plazo de seis meses desde el fallecimiento, prorrogable otros seis si se pide a tiempo. Bonificaciones muy distintas según comunidad autónoma."
+     },
+     {
+      "t": "Firma la escritura de partición y adjudicación",
+      "p": "Todos los herederos ante notario. El piso se adjudica, por ejemplo, a los tres hijos por terceras partes indivisas. Desde este momento hay proindiviso."
+     },
+     {
+      "t": "Inscribe en el Registro",
+      "p": "Con la escritura y los impuestos liquidados, la cuota de cada uno se inscribe a su nombre. Ya puedes vender tu parte del inmueble como cualquier copropietario."
+     }
+    ],
+    "outro": [
+     "Con acuerdo entre hermanos, el proceso completo tarda entre uno y tres meses. Sin acuerdo, la partición judicial se alarga de uno a tres años. En ese escenario, vender tus derechos hereditarios es la forma de no esperar."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores habituales al confundir las dos figuras",
+    "type": "list",
+    "items": [
+     "<strong>Creer que ya tienes el 33 % del piso.</strong> Sin partición, tienes el 33 % de la herencia. Si hay deudas, acreedores o legados, tu parte del piso puede acabar siendo otra.",
+     "<strong>Intentar vender la cuota del piso sin partir.</strong> El notario no autorizará una venta de cuota sobre un bien que no está adjudicado. Lo que se vende es el derecho hereditario.",
+     "<strong>Ignorar el retracto de coherederos.</strong> Si vendes derechos hereditarios a un extraño, los demás pueden subrogarse en un mes desde que se les notifica. Nosotros notificamos y esperamos el plazo.",
+     "<strong>Dejar pasar la prescripción del impuesto sin partir.</strong> Pasados los plazos sin liquidar, la herencia sigue sin repartir y el piso sigue a nombre del fallecido. Cuanto más tiempo, más herederos y más difícil."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué diferencia hay entre comunidad hereditaria y proindiviso?",
+    "La comunidad hereditaria recae sobre toda la herencia, antes de repartirla; el proindiviso recae sobre un bien concreto ya adjudicado a varios. En la primera vendes derechos hereditarios y en el segundo una cuota del inmueble."
+   ],
+   [
+    "¿Puedo vender mi parte de la herencia antes de la partición?",
+    "Sí. Se llama cesión de derechos hereditarios y se hace en escritura pública tras aceptar la herencia. Los demás coherederos tienen retracto durante un mes desde que se les notifica. Compramos derechos hereditarios en toda España."
+   ],
+   [
+    "¿Cuánto tarda en pasar una herencia a proindiviso?",
+    "Depende de que los herederos firmen la escritura de partición y adjudicación. Con acuerdo, semanas. Sin acuerdo, la partición judicial puede tardar de uno a tres años."
+   ],
+   [
+    "¿Quién paga el IBI de un piso en comunidad hereditaria?",
+    "La herencia, es decir, todos los herederos en proporción a su cuota. El Ayuntamiento puede dirigirse contra cualquiera de ellos por el total y ese heredero repite contra los demás."
+   ],
+   [
+    "¿Se puede partir la herencia si un hermano no firma?",
+    "Sí, por vía judicial o mediante contador partidor si el testamento lo nombra. También puedes vender tus derechos hereditarios sin su firma y dejar que el comprador siga la partición."
+   ],
+   [
+    "¿Compráis derechos hereditarios con el impuesto de sucesiones sin pagar?",
+    "Sí, en muchos casos. Calculamos el impuesto pendiente y lo descontamos del precio, o lo liquidamos en la misma operación. Te lo dejamos claro en la oferta."
+   ]
+  ],
+  "faq_title": "Preguntas sobre comunidad hereditaria y proindiviso",
+  "related": [
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Qué es una cuota hereditaria",
+    "/blog/que-es-una-cuota-hereditaria/"
+   ],
+   [
+    "Vender parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Empresas que compran herencias",
+    "/empresas-que-compran-herencias/"
+   ],
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Antes o después de partir, compramos tu parte",
+  "cta_text": "Derechos hereditarios o cuota del inmueble: precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Comunidad hereditaria y proindiviso: diferencias y venta",
+  "meta_desc": "Comunidad hereditaria frente a proindiviso: en qué se diferencian, qué puedes vender en cada fase y cuánto vale tu cuota. Compramos en las dos fases.",
+  "focus_kw": "comunidad hereditaria",
+  "title_corto": "Comunidad hereditaria vs proindiviso"
+ },
+ {
+  "slug": "compensacion-por-uso-exclusivo-de-la-vivienda-comun",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Uso exclusivo",
+  "h1": "Compensación por el uso exclusivo de la vivienda común: cuándo se puede reclamar",
+  "sub": "Si un copropietario vive solo en el piso común, puedes reclamarle una compensación equivalente a la parte de renta que te corresponde, pero solo desde que le exiges por escrito que pague o que te deje usarlo. Antes de ese requerimiento, el uso se presume tolerado. Si no quieres pelear por la renta, compramos tu cuota y nos ocupamos nosotros.",
+  "checks": [
+   "Doctrina del Tribunal Supremo",
+   "Ejemplo con cifras reales",
+   "Compramos cuotas ocupadas"
+  ],
+  "card_title": "¿Otro vive en el piso y tú no cobras nada?",
+  "card_text": "Dinos la dirección y tu porcentaje. Te damos precio por tu cuota en 48 horas, con el piso ocupado tal y como está.",
+  "sections": [
+   {
+    "overline": "La regla",
+    "h2": "Cuándo puedes reclamar compensación por el uso exclusivo",
+    "type": "text",
+    "intro": [
+     "El artículo 394 del Código Civil permite a cada copropietario servirse de la cosa común siempre que no impida a los demás usarla según su derecho. Cuando uno ocupa el piso entero y los demás no pueden usarlo, ese uso deja de ser compatible y nace el derecho a reclamar una compensación.",
+     "El Tribunal Supremo ha fijado la doctrina en los últimos años: el copropietario que usa el inmueble en exclusiva con la tolerancia de los demás no debe nada por el pasado. La obligación de compensar surge desde que otro copropietario se opone de forma clara, normalmente mediante un requerimiento fehaciente en el que pide que cese el uso exclusivo, que se le permita usarlo o que se le pague una renta. Desde esa fecha, y no antes, se puede reclamar.",
+     "La compensación suele calcularse como la parte proporcional de la renta de mercado del inmueble. Si tienes el 50 % y el piso se alquilaría por 900 euros, la referencia son 450 euros al mes. No es una renta de alquiler en sentido estricto, es una indemnización por el uso que te están privando."
+    ]
+   },
+   {
+    "overline": "Casos",
+    "h2": "Situaciones en las que sí y en las que no",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Hermano que se quedó en la casa de los padres",
+      "p": "Sí. Es el caso típico. Desde que le mandas el burofax exigiendo renta o uso compartido, acumula deuda contigo. Antes de eso, nada."
+     },
+     {
+      "t": "Excónyuge con uso atribuido por sentencia",
+      "p": "No, mientras dure la atribución del artículo 96 del Código Civil. El uso por sentencia es gratuito. Cuando se extingue, por ejemplo al independizarse los hijos, vuelve la regla general."
+     },
+     {
+      "t": "Pareja de hecho que sigue en el piso tras la ruptura",
+      "p": "Sí, si no hay resolución judicial que le atribuya el uso. Requerimiento y, desde entonces, compensación proporcional."
+     },
+     {
+      "t": "Copropietario que lo usa como segunda residencia",
+      "p": "Depende de si impide tu uso. Si te deja la llave y puedes ir cuando quieras, no hay exclusividad. Si cambia la cerradura, sí."
+     }
+    ]
+   },
+   {
+    "overline": "Procedimiento",
+    "h2": "Cómo reclamar la compensación paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Envía un requerimiento fehaciente",
+      "p": "Burofax con certificación de contenido y acuse de recibo. Pide que cese el uso exclusivo o que pague una compensación mensual concreta. Esta fecha es la que marca el inicio de la deuda."
+     },
+     {
+      "t": "Documenta la renta de mercado",
+      "p": "Guarda anuncios de alquiler de pisos similares en la misma zona o encarga un informe de valoración de renta. Será la prueba del importe."
+     },
+     {
+      "t": "Intenta un acuerdo por escrito",
+      "p": "Muchos casos se cierran con un pago mensual pactado o con la compra de tu parte por quien vive allí. Si acepta pagarte, firma un documento con importe y fecha."
+     },
+     {
+      "t": "Demanda si no hay respuesta",
+      "p": "Reclamación de cantidad por las mensualidades vencidas y, en su caso, acción de división de cosa común. Las cantidades prescriben a los cinco años según el artículo 1964 del Código Civil."
+     }
+    ]
+   },
+   {
+    "overline": "Requerimiento",
+    "h2": "Qué debe decir el burofax para que cuente",
+    "type": "list",
+    "intro": [
+     "El requerimiento es la pieza que lo cambia todo. Un burofax mal redactado puede dejarte sin fecha de inicio de la deuda. Estos son los puntos que no pueden faltar."
+    ],
+    "items": [
+     "<strong>Identificación del inmueble y de tu cuota.</strong> Dirección, referencia catastral y porcentaje que te corresponde según escritura o herencia.",
+     "<strong>Oposición expresa al uso exclusivo.</strong> Una frase clara: desde esta fecha no consientes que use el inmueble en exclusiva.",
+     "<strong>Alternativa concreta.</strong> O te entrega llaves y comparte el uso, o te paga una cantidad mensual que fijas tú con referencia a la renta de mercado.",
+     "<strong>Plazo de respuesta.</strong> Diez o quince días es razonable. Pasado el plazo, anuncias que reclamarás judicialmente y que pedirás la división de cosa común.",
+     "<strong>Envío con prueba.</strong> Burofax con certificación de texto y acuse de recibo. Un WhatsApp o un correo pueden servir como prueba, pero son más discutibles."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: lo que se cobra y lo que cuesta cobrarlo",
+    "type": "table",
+    "items": [
+     [
+      "Concepto",
+      "Cifra orientativa"
+     ],
+     [
+      "Piso en Sevilla ocupado por un hermano, valor 160.000 euros, tu cuota 50 %",
+      "Renta de mercado 850 euros al mes. Compensación reclamable: 425 euros al mes."
+     ],
+     [
+      "Deuda acumulada desde el burofax",
+      "Dos años sin pagar: 10.200 euros. Los cinco años anteriores al burofax no se pueden reclamar."
+     ],
+     [
+      "Coste del pleito",
+      "Abogado y procurador entre 2.500 y 5.000 euros según la plaza, más tasas si procede. De doce a veinticuatro meses hasta sentencia firme."
+     ],
+     [
+      "Cobro efectivo",
+      "Depende de la solvencia del hermano. Si no tiene nómina ni bienes, la sentencia no se cobra. Y el piso sigue sin venderse."
+     ],
+     [
+      "Venta de tu cuota a nosotros",
+      "Valor proporcional 80.000 euros. Factor 0,45 por ocupación sin renta: oferta orientativa 36.000 euros, al contado, en dos a cuatro semanas."
+     ]
+    ],
+    "outro": [
+     "La compensación es un derecho real y vale la pena ejercerlo cuando el ocupante tiene solvencia y tú puedes esperar. Pero no resuelve el fondo: sigues siendo dueño de un piso en el que no vives y que no puedes vender. Por eso muchos copropietarios usan el requerimiento como palanca de negociación y acaban vendiendo."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Si nos pides precio, no te vamos a pedir que eches a nadie ni que ganes un pleito antes. Compramos la cuota con el piso ocupado por tu hermano, tu expareja o quien sea. Calculamos el valor de mercado, aplicamos tu porcentaje y un factor que tiene en cuenta la ocupación. Te mandamos la oferta por escrito en 48 horas.",
+     "A partir de la firma, la reclamación de compensación, la negociación con el ocupante o la división de cosa común son asunto nuestro. Tú cobras al contado en la notaría y te desvinculas. Si ya habías enviado el burofax, mejor: la deuda devengada hasta la fecha de venta sigue siendo tuya y puedes reclamarla aparte."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Cobra por tu parte sin esperar al juzgado",
+     "p": "Te damos precio por tu cuota aunque otro copropietario viva en el piso y no pague. Oferta en 48 horas, sin compromiso.",
+     "cta": "Pedir precio por mi cuota ocupada"
+    }
+   },
+   {
+    "overline": "Matices",
+    "h2": "Detalles que cambian el resultado",
+    "type": "list",
+    "items": [
+     "<strong>Si el ocupante paga el IBI y la comunidad.</strong> Puede compensar esos pagos con la renta que le reclamas. Lleva las cuentas al día antes de demandar.",
+     "<strong>Si hay usufructo de un padre.</strong> Mientras viva el usufructuario, el uso es suyo y no cabe reclamar a quien vive con él.",
+     "<strong>Si la ocupación es de un tercero que entró con permiso de un copropietario.</strong> Hay que mirar si hubo contrato y si se adoptó por mayoría. Lo explicamos en la entrada sobre alquilar un piso en proindiviso.",
+     "<strong>Si vendes tu cuota.</strong> El comprador no puede reclamar las mensualidades anteriores a la compra salvo que se las cedas expresamente en la escritura.",
+     "<strong>Si el ocupante ha hecho obras.</strong> Las mejoras necesarias pueden compensarse con la renta; las de puro gusto, no. Pide facturas antes de aceptar ningún descuento."
+    ],
+    "outro": [
+     "En resumen: tienes derecho a cobrar por el uso que otro hace de tu parte, pero solo desde que lo exiges por escrito, y cobrarlo puede llevar años. Si prefieres convertir ese derecho en dinero ya, vender la cuota es la vía directa. Tienes la horquilla de precios en nuestra página sobre cuánto pagan por un proindiviso."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo cobrar un alquiler a mi hermano por vivir en la casa heredada?",
+    "Puedes reclamarle una compensación proporcional a tu cuota desde que le requieres por escrito. No es un alquiler en sentido técnico, sino una indemnización por el uso exclusivo que te priva del tuyo."
+   ],
+   [
+    "¿Desde cuándo se puede reclamar la compensación por uso exclusivo?",
+    "Desde la fecha del requerimiento fehaciente en que te opones al uso exclusivo. Los años anteriores se consideran uso tolerado y no generan deuda, según la doctrina del Tribunal Supremo."
+   ],
+   [
+    "¿Cuánto se puede reclamar por el uso exclusivo de la vivienda común?",
+    "La referencia es la renta de mercado del inmueble multiplicada por tu cuota. Si el piso se alquilaría por 1.000 euros y tienes un tercio, unos 333 euros al mes, orientativamente."
+   ],
+   [
+    "¿Mi exmarido tiene el uso de la casa por sentencia. Puedo reclamarle renta?",
+    "No mientras dure la atribución judicial del uso. Cuando se extinga, por ejemplo al cumplir los hijos la mayoría de edad con independencia económica, podrás requerirle y reclamar desde entonces."
+   ],
+   [
+    "¿Puedo vender mi parte aunque mi hermano siga viviendo en el piso?",
+    "Sí. El artículo 399 del Código Civil te lo permite sin su consentimiento. Compramos cuotas de pisos ocupados por otros copropietarios y nos ocupamos del resto."
+   ],
+   [
+    "¿La compensación por uso exclusivo tributa?",
+    "Las cantidades que cobras son rendimiento para el IRPF, orientativamente como renta del capital inmobiliario. Consulta tu caso con un asesor antes de declararlas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la compensación por uso exclusivo",
+  "related": [
+   [
+    "Vender proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Proindiviso tras el divorcio sin acuerdo",
+    "/blog/proindiviso-por-divorcio-sin-acuerdo/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ]
+  ],
+  "cta_title": "Que otro viva en el piso no te quita el derecho a vender",
+  "cta_text": "Compramos tu cuota con el inmueble ocupado. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Compensación por uso exclusivo de la vivienda común: guía",
+  "meta_desc": "Compensación por uso exclusivo de la vivienda común: desde cuándo se reclama, cuánto y ejemplo con cifras. O vende tu cuota ocupada: la compramos.",
+  "focus_kw": "compensación por uso exclusivo de la vivienda común",
+  "title_corto": "Compensación por uso exclusivo"
+ },
+ {
+  "slug": "ibi-y-gastos-en-un-proindiviso-quien-paga",
+  "kind": "post",
+  "category": "impuestos-y-tramites",
+  "kicker": "Gastos compartidos",
+  "h1": "IBI, comunidad y derramas en un proindiviso: quién paga y cómo reclamar",
+  "sub": "En un proindiviso cada copropietario paga el IBI, la comunidad y las derramas en proporción a su cuota, según el artículo 393 del Código Civil. Pero el Ayuntamiento y la comunidad de vecinos pueden cobrar el total a cualquiera de los dueños. Quien paga de más reclama a los demás. Si estás harto de adelantar gastos de un piso que no usas, compramos tu cuota.",
+  "checks": [
+   "Artículo 393 del Código Civil",
+   "Ejemplo con cifras y plazos",
+   "Compramos y liquidamos cuentas"
+  ],
+  "card_title": "¿Pagas gastos de un piso que no usas?",
+  "card_text": "Dinos cuánto llevas adelantado y tu porcentaje. Te damos precio por tu cuota en 48 horas y dejas de pagar por otros.",
+  "sections": [
+   {
+    "overline": "La regla",
+    "h2": "Quién paga el IBI y los gastos en un proindiviso",
+    "type": "text",
+    "intro": [
+     "El artículo 393 del Código Civil es claro: el concurso de los partícipes en las cargas será proporcional a sus respectivas cuotas. Si tienes el 50 %, pagas la mitad del IBI, de la comunidad, de las derramas, del seguro y de las reparaciones necesarias. Si tienes el 20 %, la quinta parte. No importa quién use el piso: la obligación nace de la cuota, no del uso.",
+     "El problema es que las entidades que cobran no funcionan así. El Ayuntamiento liquida un solo recibo de IBI por inmueble y puede exigirlo entero a cualquiera de los titulares, porque la Ley General Tributaria establece la responsabilidad solidaria de los cotitulares. La comunidad de vecinos tampoco divide: la cuota de comunidad es una, y la deuda queda afecta al piso. Así que es habitual que uno de los copropietarios acabe pagando todo para evitar recargos y embargos.",
+     "Ese copropietario tiene derecho a repetir contra los demás por la parte de cada uno, con intereses desde la reclamación. Y los demás no pueden negarse alegando que no usan el inmueble. El artículo 395 lo remata: todo copropietario tiene derecho a obligar a los demás a contribuir a los gastos de conservación, y solo puede eximirse quien renuncie a su cuota."
+    ]
+   },
+   {
+    "overline": "Reparto",
+    "h2": "Qué gasto es de quién: tabla rápida",
+    "type": "table",
+    "items": [
+     [
+      "Gasto",
+      "Quién lo paga y qué pasa si no se paga"
+     ],
+     [
+      "IBI",
+      "Todos según cuota. El Ayuntamiento puede ir contra cualquier titular por el total. Si se divide el recibo a petición de los cotitulares, cada uno recibe el suyo, aunque no todos los ayuntamientos lo hacen."
+     ],
+     [
+      "Cuota de comunidad de vecinos",
+      "Todos según cuota. La deuda sigue al piso: el comprador responde de la anualidad en curso y las tres anteriores. La comunidad puede demandar a cualquiera de los dueños."
+     ],
+     [
+      "Derramas de obras",
+      "Todos según cuota, aunque la obra la haya votado uno solo en la junta. Si es una mejora no necesaria, el que votó en contra puede quedar exento en los términos de la Ley de Propiedad Horizontal."
+     ],
+     [
+      "Reparaciones necesarias",
+      "Todos según cuota. Una reparación urgente hecha por un copropietario se puede reclamar a los demás aunque no la hayan autorizado."
+     ],
+     [
+      "Suministros (luz, agua, gas)",
+      "Quien los consume. Si uno vive en el piso, son suyos. Los demás no tienen por qué pagarlos."
+     ],
+     [
+      "Seguro de hogar",
+      "Todos según cuota si cubre el continente. Si solo cubre el contenido del que vive allí, lo paga él."
+     ]
+    ],
+    "outro": [
+     "Una matización sobre las obras. Las reparaciones necesarias para conservar el inmueble las puede hacer cualquier copropietario y reclamar su parte a los demás. Las mejoras, como cambiar la cocina o poner aire acondicionado, necesitan acuerdo de la mayoría de cuotas; si uno las hace por su cuenta, no puede exigir a los demás que paguen."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: tres hermanos y una casa cerrada",
+    "type": "text",
+    "intro": [
+     "Casa en un pueblo de Cáceres heredada por tres hermanos a partes iguales, cerrada desde hace cuatro años. IBI de 420 euros al año, seguro de 240, una derrama de 1.800 euros por el tejado del edificio y una reparación urgente de una bajante de 650 euros. Total en cuatro años: 1.680 de IBI, 960 de seguro, 1.800 de derrama y 650 de la bajante. Son 5.090 euros, que ha pagado uno solo de los hermanos porque es el único que vive cerca.",
+     "A cada hermano le corresponden 1.697 euros. El que ha pagado puede reclamar 3.393 euros a los otros dos, más intereses desde que se lo exigió por escrito. Las cantidades anteriores a cinco años prescriben, así que conviene reclamar antes de que se acumulen.",
+     "Mientras tanto, la casa sigue cerrada, sigue generando 660 euros al año solo en IBI y seguro, y ninguno de los tres la quiere para vivir. El hermano que paga está financiando un bien que no usa y que no puede vender sin la firma de los otros dos."
+    ]
+   },
+   {
+    "overline": "Reclamar",
+    "h2": "Cómo reclamar a los demás copropietarios los gastos adelantados",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Reúne los justificantes",
+      "p": "Recibos del IBI, cargos de la comunidad, facturas de la derrama y de las reparaciones, con el comprobante bancario de que los pagaste tú. Sin prueba de pago no hay reclamación."
+     },
+     {
+      "t": "Haz la cuenta por cuota",
+      "p": "Total pagado multiplicado por la cuota de cada uno. Separa los últimos cinco años del resto: lo anterior puede estar prescrito según el artículo 1964 del Código Civil."
+     },
+     {
+      "t": "Envía un burofax a cada copropietario",
+      "p": "Con el desglose, el importe que le corresponde, el número de cuenta y un plazo de pago. Esta fecha interrumpe la prescripción y hace correr los intereses."
+     },
+     {
+      "t": "Juicio verbal si no pagan",
+      "p": "Hasta 6.000 euros no hace falta abogado ni procurador, aunque conviene. Por encima, juicio ordinario. De seis a dieciocho meses hasta sentencia, orientativamente."
+     },
+     {
+      "t": "Compensa en la salida",
+      "p": "Si al final el inmueble se vende o se hace una extinción de condominio, lo adelantado se descuenta del precio de quien no pagó. Es la forma más habitual de cobrar."
+     }
+    ],
+    "outro": [
+     "Un consejo práctico: no esperes a que la deuda sea grande. Reclamar 800 euros a un hermano se resuelve con una transferencia. Reclamar 5.000 acumulados en seis años acaba en el juzgado y con una parte prescrita."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Si eres el que paga, tienes dos opciones. Reclamar y seguir dentro, o salir. Cuando nos pides precio por tu cuota, miramos la nota simple, pedimos el estado de deudas de IBI y de comunidad y te hacemos una oferta por escrito en 48 horas. Lo que tú hayas adelantado por los demás es un crédito tuyo contra ellos: lo puedes reclamar aparte o cedérnoslo en la escritura y lo gestionamos nosotros.",
+     "Si eres el que no paga porque no usas la casa y no quieres saber nada, también compramos tu parte. En ese caso descontamos de la oferta lo que debas de IBI y comunidad y lo liquidamos en la firma, para que salgas sin deudas pendientes con nadie. En el ejemplo anterior, con la casa valorada en 75.000 euros, la cuota de cada hermano vale 25.000 proporcionales y la oferta orientativa se mueve entre 10.000 y 12.500 euros, menos lo que cada uno deba."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Deja de adelantar gastos por otros",
+     "p": "Te damos precio por tu cuota en 48 horas. Liquidamos las cuentas en la firma y cobras al contado. Sin compromiso.",
+     "cta": "Pedir precio y dejar de pagar"
+    }
+   },
+   {
+    "overline": "Dudas frecuentes",
+    "h2": "Situaciones que generan discusión",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Uno vive en el piso y no quiere pagar IBI",
+      "p": "El IBI va por cuota, no por uso. Quien vive allí paga su parte del IBI y además los suministros. Si quieres cobrarle por el uso exclusivo, tienes una vía aparte que explicamos en otra entrada.",
+      "url": "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/",
+      "cta": "Compensación por uso exclusivo →"
+     },
+     {
+      "t": "La herencia no está repartida",
+      "p": "Mientras no haya partición, los gastos los paga la herencia, es decir, todos los herederos según su cuota hereditaria. La regla es la misma, con el añadido de que el recibo sigue saliendo a nombre del fallecido."
+     },
+     {
+      "t": "Un copropietario está en paradero desconocido",
+      "p": "Sus gastos se acumulan como deuda a su cargo. Cuando el inmueble se venda o se divida, se descuentan de su parte. Nosotros compramos cuotas aunque otro copropietario no aparezca."
+     },
+     {
+      "t": "El Ayuntamiento me embarga por el IBI de todos",
+      "p": "Puede hacerlo. Paga, pide la división del recibo para el futuro y reclama a los demás su parte. Si prefieres salir, vende tu cuota: lo adelantado sigue siendo tuyo.",
+      "url": "/blog/embargo-de-una-cuota-de-proindiviso/",
+      "cta": "Embargo de una cuota →"
+     }
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién paga el IBI en un proindiviso?",
+    "Todos los copropietarios en proporción a su cuota, según el artículo 393 del Código Civil. El Ayuntamiento puede exigir el recibo completo a cualquiera de ellos, y quien lo paga reclama después a los demás su parte."
+   ],
+   [
+    "¿Puedo pedir que el Ayuntamiento divida el recibo del IBI?",
+    "Sí. Los cotitulares pueden solicitar la división de la liquidación aportando los datos de todos y sus cuotas. Muchos ayuntamientos lo aceptan, aunque no están obligados en todos los casos. Consulta tu ordenanza."
+   ],
+   [
+    "¿Tengo que pagar la comunidad de un piso en el que no vivo?",
+    "Sí. La cuota de comunidad se debe por ser propietario, no por usar el piso. Si otro copropietario vive allí, los suministros son suyos, pero la comunidad se reparte por cuotas."
+   ],
+   [
+    "¿Cuánto tiempo tengo para reclamar los gastos que adelanté?",
+    "Cinco años desde cada pago, orientativamente, según el artículo 1964 del Código Civil. Un burofax interrumpe la prescripción y vuelve a contar el plazo desde cero."
+   ],
+   [
+    "¿Puedo negarme a pagar una derrama en un proindiviso?",
+    "No frente a la comunidad de vecinos: la deuda es del piso. Entre copropietarios, pagas según tu cuota salvo que puedas eximirte por tratarse de una mejora no exigible en los términos de la Ley de Propiedad Horizontal."
+   ],
+   [
+    "Si vendo mi cuota, ¿quién paga el IBI de ese año?",
+    "Legalmente el IBI lo paga quien sea titular a 1 de enero, pero en la escritura se puede pactar el prorrateo. Nosotros ajustamos en la firma lo pendiente para que salgas sin deudas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el IBI y los gastos en un proindiviso",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Riesgos de un proindiviso",
+    "/blog/riesgos-de-un-proindiviso/"
+   ],
+   [
+    "Embargo de una cuota de proindiviso",
+    "/blog/embargo-de-una-cuota-de-proindiviso/"
+   ],
+   [
+    "Vender tu parte de una casa con deudas o embargo",
+    "/blog/vender-casa-con-deudas-o-embargo-mi-parte/"
+   ],
+   [
+    "Vender parte de casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Un piso que no usas no debería costarte dinero",
+  "cta_text": "Compramos tu cuota y liquidamos las cuentas en la firma. Precio por escrito en 48 horas, notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "IBI y gastos en un proindiviso: quién paga y cómo reclamar",
+  "meta_desc": "IBI, comunidad y derramas en un proindiviso: cada copropietario paga según su cuota (art. 393 CC). Cómo reclamar lo adelantado, con ejemplo y cifras.",
+  "focus_kw": "gastos proindiviso",
+  "title_corto": "IBI y gastos en proindiviso"
+ },
+ {
+  "slug": "alquilar-un-piso-en-proindiviso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Alquiler compartido",
+  "h1": "Alquilar un piso en proindiviso: qué mayoría hace falta y cómo se reparte la renta",
+  "sub": "Para alquilar un piso en proindiviso hace falta el acuerdo de la mayoría de cuotas, no de personas, según el artículo 398 del Código Civil. La renta se reparte en proporción a la cuota de cada uno. Si no hay mayoría o no quieres ser casero con tus hermanos, compramos tu parte y nos ocupamos nosotros del alquiler.",
+  "checks": [
+   "Artículo 398 del Código Civil",
+   "Reparto de renta con ejemplo",
+   "Compramos cuotas alquiladas"
+  ],
+  "card_title": "¿No os ponéis de acuerdo para alquilar?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, esté el piso vacío o alquilado. Cobras al contado y dejas la gestión a otros.",
+  "sections": [
+   {
+    "overline": "Mayoría",
+    "h2": "Qué mayoría hace falta para alquilar un piso en proindiviso",
+    "type": "text",
+    "intro": [
+     "Alquilar es un acto de administración, no de disposición. Por eso no requiere unanimidad. El artículo 398 del Código Civil dice que para la administración y mejor disfrute de la cosa común serán obligatorios los acuerdos de la mayoría de los partícipes, y aclara que no hay mayoría si el acuerdo no lo toman quienes representan la mayor cantidad de los intereses que constituyen el objeto de la comunidad. Es decir, mayoría de cuotas.",
+     "Dos hermanos con el 25 % cada uno no pueden imponer el alquiler a un tercero con el 50 %. Un copropietario con el 60 % sí puede decidirlo solo frente a otro con el 40 %. Y si las cuotas son del 50 % y 50 %, no hay mayoría posible: o acuerdo o juez.",
+     "La excepción está en los alquileres muy largos. La doctrina y la jurisprudencia consideran que un arrendamiento que supera los seis años, o que se inscribe en el Registro de la Propiedad, deja de ser administración y pasa a ser un acto de disposición que necesita unanimidad. Un alquiler de vivienda habitual ordinario, de cinco o siete años con las prórrogas legales, se mueve en zona gris: la mayoría de notarios y tribunales lo admiten por mayoría, pero conviene que firmen todos si es posible."
+    ]
+   },
+   {
+    "overline": "Reparto",
+    "h2": "Cómo se reparte la renta entre copropietarios",
+    "type": "table",
+    "intro": [
+     "Los frutos de la cosa común se reparten según la cuota, igual que los gastos. Si el piso se alquila por 900 euros y tienes un tercio, te corresponden 300 euros brutos. De ahí se restan, también por cuota, el IBI, la comunidad, el seguro y las reparaciones que paga el propietario. Lo normal es que uno de los copropietarios cobre la renta, pague los gastos y liquide al resto cada mes o cada trimestre, con rendición de cuentas.",
+     "Cada copropietario declara en su IRPF su parte de la renta y de los gastos deducibles, con la reducción por alquiler de vivienda habitual que le corresponda. No hace falta constituir una comunidad de bienes con CIF para un solo piso, aunque algunas familias lo hacen para simplificar la gestión y las facturas."
+    ],
+    "items": [
+     [
+      "Concepto mensual (ejemplo con tres hermanos, 33 % cada uno)",
+      "Importe"
+     ],
+     [
+      "Renta cobrada",
+      "900 euros"
+     ],
+     [
+      "IBI prorrateado",
+      "45 euros"
+     ],
+     [
+      "Comunidad",
+      "70 euros"
+     ],
+     [
+      "Seguro y pequeñas reparaciones",
+      "35 euros"
+     ],
+     [
+      "Neto a repartir",
+      "750 euros"
+     ],
+     [
+      "Neto por hermano",
+      "250 euros al mes, 3.000 euros al año antes de impuestos"
+     ]
+    ]
+   },
+   {
+    "overline": "Otros alquileres",
+    "h2": "Alquiler de temporada, turístico o de habitaciones en proindiviso",
+    "type": "text",
+    "intro": [
+     "El alquiler de temporada y el turístico siguen la misma regla de mayoría de cuotas, con dos añadidos. El turístico necesita además licencia o declaración responsable según la comunidad autónoma y, en muchos edificios, el permiso de la comunidad de propietarios por mayoría cualificada. Si uno de los copropietarios lo explota por su cuenta sin informar a los demás, estos pueden reclamar su parte de los ingresos brutos, no solo de un alquiler convencional.",
+     "El alquiler por habitaciones genera más conflicto porque el copropietario que vive en el piso suele alquilar las habitaciones sobrantes y quedarse el dinero. Esos ingresos son frutos de la cosa común y se reparten por cuota. Si estás en el lado que no cobra, el requerimiento por escrito es el primer paso y la venta de tu parte, el último.",
+     "En cualquiera de estas modalidades, un contrato inscrito en el Registro de la Propiedad o con duración superior a seis años exige la firma de todos. Si falta una, el Registro no lo inscribe y los copropietarios ausentes pueden impugnarlo."
+    ]
+   },
+   {
+    "overline": "Conflictos",
+    "h2": "Qué pasa cuando no hay acuerdo o uno alquila por su cuenta",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Un copropietario alquila sin mayoría",
+      "p": "El contrato no es nulo por sí mismo, pero los demás pueden impugnarlo y pedir el desalojo del inquilino o exigir su parte de la renta. La jurisprudencia tiende a proteger al inquilino de buena fe y a dejar la cuenta entre comuneros."
+     },
+     {
+      "t": "Mayoría que perjudica a la minoría",
+      "p": "Si el acuerdo de la mayoría es gravemente perjudicial, el minoritario puede acudir al juez, que puede incluso nombrar un administrador. Lo prevé el propio artículo 398."
+     },
+     {
+      "t": "Bloqueo al 50 % y 50 %",
+      "p": "Sin mayoría no hay alquiler. Cualquiera de los dos puede pedir al juez que decida sobre la administración o directamente la división de cosa común."
+     },
+     {
+      "t": "Uno cobra y no rinde cuentas",
+      "p": "Puedes exigir la rendición de cuentas y tu parte de la renta desde que se cobró, con intereses. Es una reclamación de cantidad ordinaria, con prescripción de cinco años."
+     },
+     {
+      "t": "Uno vive en el piso y no quiere alquilar",
+      "p": "No puede impedir que la mayoría de cuotas decida alquilar, pero no se le puede echar sin un procedimiento. En la práctica, el bloqueo acaba en división o en venta de cuotas."
+     }
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Si tienes una cuota minoritaria y la mayoría ha alquilado sin contar contigo, o si eres tú el que quiere alquilar y los demás no responden, el alquiler no te va a sacar del proindiviso. Te da 250 euros al mes en el mejor de los casos y una relación mensual con hermanos que ya no te hablan.",
+     "Nosotros compramos tu cuota con el piso alquilado o sin alquilar. Con contrato en vigor, nos subrogamos en tu posición de arrendador para tu porcentaje y pasamos a cobrar tu parte de la renta. En el ejemplo de los tres hermanos, con un piso valorado en 165.000 euros, tu tercio vale 55.000 euros proporcionales. Con inquilino que paga y contrato correcto, el factor ronda el 0,55: oferta orientativa de 30.000 euros, al contado, en dos a cuatro semanas. Son diez años de renta neta cobrados de golpe y sin más gestión.",
+     "Si el piso está alquilado por uno de los hermanos sin contrato escrito ni mayoría, también compramos, con un factor más bajo, y nos encargamos nosotros de regularizar la situación."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Cobra tu parte de golpe en lugar de mes a mes",
+     "p": "Dinos la dirección, tu porcentaje y si hay inquilino. Oferta por escrito en 48 horas, sin compromiso.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   },
+   {
+    "overline": "Si decidís alquilar",
+    "h2": "Checklist para alquilar bien entre copropietarios",
+    "type": "list",
+    "items": [
+     "<strong>Acuerdo por escrito de todos los que forman la mayoría.</strong> Un documento privado con fecha, cuotas y quién gestiona. Evita discusiones después.",
+     "<strong>Todos los copropietarios como arrendadores en el contrato.</strong> Aunque firme uno con poder de los demás. Así el inquilino sabe a quién paga y los demás pueden reclamar directamente.",
+     "<strong>Cuenta bancaria común o liquidación mensual con extracto.</strong> Transparencia desde el primer mes.",
+     "<strong>Fianza depositada en el organismo autonómico.</strong> Es obligatoria y las sanciones por no hacerlo se reparten también por cuota.",
+     "<strong>Plazo inferior a seis años si no firman todos.</strong> Así evitas que el contrato se califique como acto de disposición.",
+     "<strong>Pacto sobre qué pasa si uno quiere vender su cuota.</strong> El comprador se subroga como arrendador por su porcentaje. Si lo tenéis previsto, nadie se sorprende."
+    ],
+    "outro": [
+     "Alquilar en proindiviso funciona cuando la relación entre copropietarios es buena y las cuotas están claras. Cuando no es el caso, suele ser un parche que alarga el problema. Si estás en ese punto, en nuestra entrada sobre cómo salir de una propiedad compartida tienes todas las alternativas."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede alquilar un piso en proindiviso sin el consentimiento de todos?",
+    "Sí, con el acuerdo de la mayoría de cuotas, según el artículo 398 del Código Civil. Un copropietario con más del 50 % puede decidirlo solo. Si las cuotas son del 50 % y 50 %, hace falta acuerdo o decisión judicial."
+   ],
+   [
+    "¿Cómo se reparte el alquiler de un piso heredado entre hermanos?",
+    "En proporción a la cuota de cada uno, después de restar los gastos comunes como IBI, comunidad y seguro. Cada hermano declara su parte en el IRPF."
+   ],
+   [
+    "¿Puede un copropietario alquilar su parte del piso?",
+    "No en sentido estricto: no puede ceder el uso de una habitación o de una parte física porque no es dueño de ninguna parte concreta. Lo que puede hacer es vender su cuota, y nosotros la compramos."
+   ],
+   [
+    "¿Qué pasa si mi hermano ha alquilado el piso sin preguntarme?",
+    "Si no tenía mayoría de cuotas, puedes impugnar el contrato o, más práctico, exigir tu parte de la renta y la rendición de cuentas. También puedes vender tu cuota con el piso alquilado."
+   ],
+   [
+    "¿Compráis cuotas de pisos alquilados?",
+    "Sí. Nos subrogamos en tu posición de arrendador por tu porcentaje y cobramos tu parte de la renta. El contrato en vigor no impide la compra; lo tenemos en cuenta en el precio."
+   ],
+   [
+    "¿Hace falta crear una comunidad de bienes con CIF para alquilar?",
+    "No es obligatorio para un solo piso. Cada copropietario declara su parte en su IRPF. Algunas familias constituyen la comunidad de bienes para simplificar facturas y retenciones, pero es opcional."
+   ]
+  ],
+  "faq_title": "Preguntas sobre alquilar un piso en proindiviso",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Vender proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Cómo salir de una propiedad compartida",
+    "/blog/como-salir-de-una-propiedad-compartida/"
+   ],
+   [
+    "Compensación por uso exclusivo",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "No tienes que ser casero con tus hermanos",
+  "cta_text": "Compramos tu cuota con el piso vacío o alquilado. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Gastos a nuestro cargo, sin exclusividad.",
+  "yoast_title": "Alquilar un piso en proindiviso: mayoría y reparto de renta",
+  "meta_desc": "Alquilar un piso en proindiviso exige mayoría de cuotas (art. 398 CC) y la renta se reparte por cuota. Ejemplo con cifras, conflictos y venta de tu parte.",
+  "focus_kw": "alquilar piso en proindiviso",
+  "title_corto": "Alquilar en proindiviso"
+ },
+ {
+  "slug": "vender-proindiviso-a-un-familiar-o-a-una-empresa",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "A quién vender",
+  "h1": "Vender tu parte a un familiar o a una empresa: diferencias de precio, impuestos y plazos",
+  "sub": "Vender tu parte a un hermano suele dejar más dinero si paga, y tributa menos si se hace como extinción de condominio. Vender a una empresa compradora deja entre el 40 % y el 70 % del valor proporcional, pero cobras en semanas y no dependes de nadie. Aquí tienes la comparativa completa y lo que haríamos en tu caso.",
+  "checks": [
+   "Comparativa con tabla",
+   "Impuestos de cada opción",
+   "Oferta nuestra en 48 h"
+  ],
+  "card_title": "¿Tu hermano no se decide? Nosotros sí",
+  "card_text": "Pide nuestra oferta por escrito y úsala como referencia. Si tu familiar la iguala, perfecto. Si no, firmamos nosotros.",
+  "sections": [
+   {
+    "overline": "Punto de partida",
+    "h2": "Vender mi parte a mi hermano o a una empresa: qué cambia",
+    "type": "text",
+    "intro": [
+     "El artículo 399 del Código Civil te permite vender tu cuota a quien quieras. Puedes vendérsela a otro copropietario, que suele ser un hermano, un excónyuge o un socio, o a un tercero ajeno a la comunidad, que en la práctica casi siempre es una empresa compradora de proindivisos. Las dos ventas son válidas. Lo que cambia es el precio que puedes conseguir, los impuestos que se pagan, el plazo y la seguridad de cobrar.",
+     "Hay una tercera vía que mezcla las dos: pedir una oferta a una empresa y usarla para que el familiar se decida. Muchas de las operaciones que estudiamos acaban así. El hermano que llevaba dos años sin contestar aparece cuando sabe que la cuota se va a vender a un desconocido. Ya sea para igualar la oferta o para ejercer el retracto, el resultado es que tú cobras."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Familiar frente a empresa: la tabla completa",
+    "type": "table",
+    "items": [
+     [
+      "Aspecto",
+      "Venta a un familiar copropietario frente a venta a una empresa compradora"
+     ],
+     [
+      "Precio",
+      "Familiar: en teoría hasta el 100 % del valor proporcional, en la práctica suele ofrecer entre el 60 % y el 90 % y a plazos. Empresa: entre el 40 % y el 70 %, al contado."
+     ],
+     [
+      "Plazo",
+      "Familiar: de un mes a varios años, según cuánto tarde en decidirse y en conseguir financiación. Empresa: oferta en 48 horas y firma en dos a cuatro semanas."
+     ],
+     [
+      "Impuestos del comprador",
+      "Familiar que se queda el 100 %: extinción de condominio, AJD entre el 0,5 % y el 1,5 % según comunidad autónoma. Familiar que no llega al 100 % o empresa: ITP sobre la cuota, entre el 6 % y el 10 % según comunidad. Lo paga el comprador."
+     ],
+     [
+      "Impuestos del vendedor",
+      "Iguales en los dos casos: IRPF por la ganancia patrimonial si la hay y plusvalía municipal si ha subido el valor del suelo. En la extinción de condominio con compensación en metálico no hay plusvalía municipal en la mayoría de ayuntamientos."
+     ],
+     [
+      "Retracto",
+      "Familiar copropietario: no hay retracto, porque el comprador ya es comunero. Empresa: los demás copropietarios tienen nueve días desde que conocen la venta para quedarse la cuota al mismo precio (artículo 1522)."
+     ],
+     [
+      "Riesgo de impago",
+      "Familiar: si paga a plazos y deja de pagar, tienes que demandarle. Empresa: cobro al contado en la notaría, sin riesgo."
+     ],
+     [
+      "Hipoteca pendiente",
+      "Familiar: tiene que subrogarse y el banco debe aceptarlo, o cancelar. Empresa: se descuenta tu parte de la deuda y se cancela o se subroga en la firma."
+     ],
+     [
+      "Relación familiar",
+      "Familiar: cualquier desacuerdo sobre el precio se convierte en un conflicto personal. Empresa: la operación es neutra y los demás solo tienen que decidir si retraen o no."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: piso de 200.000 euros al 50 %",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Tu hermano te compra por extinción de condominio",
+      "p": "Valor de tu mitad: 100.000 euros. Os ponéis de acuerdo en 85.000. Él paga AJD de unos 1.200 euros según comunidad y asume la hipoteca entera si la hay. Tú cobras 85.000 si tiene el dinero o consigue el préstamo. Plazo real: de dos a seis meses si el banco colabora."
+     },
+     {
+      "t": "Tu hermano te compra sin llegar al 100 %",
+      "p": "Si hay un tercer copropietario y tu hermano solo pasa del 25 % al 50 %, no es extinción sino compraventa de cuota. Paga ITP de entre 5.100 y 8.500 euros según comunidad. Muchos hermanos se echan atrás en este punto."
+     },
+     {
+      "t": "Nos la vendes a nosotros",
+      "p": "Valor proporcional 100.000 euros. Piso vacío, dos copropietarios, sin cargas: factor 0,65. Oferta orientativa de 65.000 euros, por escrito en 48 horas, firma en dos a cuatro semanas, cobro al contado y notaría a nuestro cargo. Tu hermano tiene nueve días para igualarla si quiere.",
+      "url": "/cuanto-pagan-por-un-proindiviso/",
+      "cta": "Ver cómo calculamos →"
+     }
+    ],
+    "outro": [
+     "La diferencia entre 85.000 y 65.000 euros es real. La pregunta es si esos 85.000 van a llegar y cuándo. Si tu hermano tiene el dinero y la voluntad, véndele a él. Si lleva tiempo dando largas, los 65.000 en un mes valen más que los 85.000 que no llegan."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Te pediríamos la dirección, tu porcentaje y una idea de la situación con el otro copropietario. Con la nota simple y el mercado de la zona te mandamos una oferta por escrito en 48 horas. Esa oferta es tuya: puedes enseñársela a tu hermano y darle un plazo para igualarla. No hay exclusividad ni compromiso, así que no pierdes nada si al final cierra con él.",
+     "Si decides firmar con nosotros, notificamos la venta a los demás copropietarios para que puedan ejercer el retracto en los nueve días que marca la ley. Si lo ejercen, cobras exactamente lo mismo de tu familiar. Si no, firmamos en la notaría que elijas, cobras al contado y nos ocupamos del resto. En las dos salidas has cobrado en semanas."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Pide una oferta y ponle fecha a la decisión de tu familia",
+     "p": "Precio por escrito en 48 horas. Lo usas como referencia con tu hermano o lo firmas con nosotros. Tú eliges.",
+     "cta": "Quiero una oferta por escrito"
+    }
+   },
+   {
+    "overline": "Precauciones",
+    "h2": "Errores al vender tu parte a un familiar",
+    "type": "list",
+    "items": [
+     "<strong>Vender por debajo del valor para ahorrar impuestos.</strong> Hacienda comprueba el valor de referencia. Si el precio es muy inferior, puede liquidar como donación encubierta, con el impuesto correspondiente para quien compra.",
+     "<strong>Aceptar pagos a plazos sin garantía.</strong> Si tu hermano te paga en cinco años, pide condición resolutoria inscrita o una garantía real. Sin ella, el impago te deja con un pleito y sin la cuota.",
+     "<strong>Firmar sin resolver la hipoteca.</strong> Si vendes tu mitad y sigues en el préstamo, respondes de la deuda de un piso que ya no es tuyo. Exige la liberación bancaria en la misma firma.",
+     "<strong>No documentar las cuentas pendientes.</strong> IBI, derramas y gastos adelantados por uno u otro se liquidan en la escritura. Si no se escriben, se olvidan y luego se discuten.",
+     "<strong>Confundir compraventa de cuota con extinción de condominio.</strong> Solo hay extinción cuando el inmueble pasa a un único dueño. Con tres copropietarios y uno que vende a otro, es compraventa y paga ITP. Lo explicamos en la página sobre extinción de condominio entre hermanos.",
+     "<strong>Dejar la venta en un acuerdo verbal.</strong> Una cuota se transmite en escritura pública ante notario. Un papel firmado en la cocina con el precio y un adelanto puede obligar, pero no inscribe nada y abre la puerta a años de discusión."
+    ],
+    "outro": [
+     "Ninguno de estos errores aparece cuando vendes a una empresa, porque el precio es de mercado, se paga al contado y la escritura la prepara el notario con todas las cuentas liquidadas. Es una de las razones por las que algunas familias, aunque podrían arreglarlo entre ellas, prefieren que entre un tercero."
+    ]
+   },
+   {
+    "overline": "Decisión",
+    "h2": "Cuándo conviene cada opción",
+    "type": "text",
+    "intro": [
+     "Vende a tu familiar si cumple tres condiciones: tiene el dinero o una hipoteca aprobada, está dispuesto a firmar en un plazo concreto y el precio que ofrece supera claramente lo que te daría una empresa. Si se cumplen, es la mejor salida y además la más barata en impuestos para él.",
+     "Vende a una empresa si falla cualquiera de las tres. Si no tiene el dinero, si no pone fecha o si su oferta es parecida a la nuestra pero a plazos, el riesgo no compensa. Y si ni siquiera contesta, no hay decisión que tomar. En nuestra página sobre vender un proindiviso entre hermanos tienes más casos resueltos."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es mejor vender mi parte a mi hermano o a una empresa?",
+    "A tu hermano si tiene el dinero, firma en plazo y ofrece claramente más que una empresa. A una empresa si quieres cobrar en semanas, al contado y sin depender de su decisión. Nuestra oferta no te compromete: puedes usarla para que él se decida."
+   ],
+   [
+    "¿Qué impuestos paga mi hermano si me compra mi parte?",
+    "Si se queda el 100 % del inmueble, AJD por extinción de condominio, entre el 0,5 % y el 1,5 % según comunidad autónoma. Si no llega al 100 %, ITP sobre el valor de tu cuota, entre el 6 % y el 10 % según comunidad. Orientativo."
+   ],
+   [
+    "¿Mi hermano puede impedir que venda mi parte a una empresa?",
+    "No. Puede ejercer el retracto de comuneros y quedarse la cuota pagando el mismo precio en nueve días desde que conoce la venta, pero no puede bloquearla. Si no retrae, la venta queda firme."
+   ],
+   [
+    "¿Puedo vender mi parte a mi hermano por un euro?",
+    "Legalmente es una donación encubierta. Hacienda puede liquidar el impuesto de donaciones y en algunas comunidades sale muy caro. Si quieres regalarle tu parte, hazlo como donación y mira las bonificaciones de tu comunidad."
+   ],
+   [
+    "¿Cuánto tarda cada opción?",
+    "Con un familiar, de uno a seis meses si consigue financiación, y a veces años si no se decide. Con nosotros, oferta en 48 horas y firma en dos a cuatro semanas, más los nueve días de retracto para los demás."
+   ],
+   [
+    "¿Vuestra oferta sirve como tasación para negociar con mi familia?",
+    "Sirve como referencia de lo que vale tu cuota en el mercado profesional, por escrito y con validez de varias semanas. No es una tasación oficial, pero es un precio real al que nosotros firmamos."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender tu parte a un familiar o a una empresa",
+  "related": [
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Extinción de condominio entre hermanos",
+    "/extincion-de-condominio/entre-hermanos/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Empresas que compran proindivisos",
+    "/empresas-que-compran-proindivisos/"
+   ]
+  ],
+  "cta_title": "Una oferta real para decidir con tu familia",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Sin exclusividad ni compromiso.",
+  "yoast_title": "Vender tu parte a un familiar o a una empresa: comparativa",
+  "meta_desc": "Vender tu parte a un hermano o a una empresa: precio, impuestos, plazos y retracto comparados con tabla y ejemplo de 200.000 euros. Nuestra oferta en 48 h.",
+  "focus_kw": "vender mi parte a mi hermano",
+  "title_corto": "Familiar o empresa"
+ },
+ {
+  "slug": "vender-parte-de-un-garaje-o-trastero",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Garajes y trasteros",
+  "h1": "Vender tu parte de un garaje o trastero: sí se puede y así lo compramos",
+  "sub": "Puedes vender tu cuota de una plaza de garaje o de un trastero sin el permiso de los demás copropietarios, igual que la de un piso. Compramos cuotas de garajes y trasteros en toda España, solos o junto con la vivienda, con oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas.",
+  "checks": [
+   "Plazas y trasteros en proindiviso",
+   "Precios orientativos por ciudad",
+   "Compramos cuotas pequeñas"
+  ],
+  "card_title": "¿Tienes parte de una plaza que no usas?",
+  "card_text": "Dinos dónde está el garaje o el trastero y tu porcentaje. Te damos precio en 48 horas, aunque sea una cuota pequeña.",
+  "sections": [
+   {
+    "overline": "Dos formas de proindiviso",
+    "h2": "Qué es una plaza de garaje en proindiviso",
+    "type": "text",
+    "intro": [
+     "Hay dos situaciones distintas que la gente llama igual. La primera es un garaje comunitario inscrito como una sola finca registral: cada propietario tiene una participación indivisa, por ejemplo 1/80, con derecho al uso exclusivo de la plaza número tal. Es muy frecuente en edificios construidos hasta los años 2000. Esa participación es una cuota de proindiviso y se vende como tal, con su derecho de uso adscrito.",
+     "La segunda es una plaza o un trastero inscrito como finca independiente que pertenece a varias personas. Lo habitual es que venga de una herencia: tres hermanos heredan el piso, la plaza y el trastero, y los tres bienes quedan en proindiviso. O de un divorcio en el que la plaza se compró a medias. Aquí cada uno tiene su cuota sobre la plaza concreta.",
+     "En los dos casos el artículo 399 del Código Civil te permite vender tu cuota sin pedir permiso a nadie. Y en los dos casos los demás copropietarios tienen retracto de comuneros durante nueve días desde que conocen la venta, según el artículo 1522."
+    ]
+   },
+   {
+    "overline": "Precio",
+    "h2": "Cuánto vale tu parte de un garaje o de un trastero",
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Valor orientativo de la plaza entera, valor de tu cuota y oferta orientativa"
+     ],
+     [
+      "50 % de plaza en Madrid centro, garaje de edificio, vacía",
+      "Plaza 35.000 euros. Tu cuota 17.500. Oferta entre 9.500 y 12.000 euros."
+     ],
+     [
+      "33 % de plaza en Zaragoza heredada, la usa un hermano",
+      "Plaza 18.000 euros. Tu cuota 6.000. Oferta entre 2.500 y 3.500 euros."
+     ],
+     [
+      "50 % de plaza y trastero juntos en Alicante tras divorcio",
+      "Plaza 16.000 y trastero 7.000 euros. Tu cuota 11.500. Oferta entre 5.500 y 7.500 euros."
+     ],
+     [
+      "25 % de trastero en Valladolid, cuatro herederos",
+      "Trastero 8.000 euros. Tu cuota 2.000. Oferta entre 800 y 1.200 euros."
+     ],
+     [
+      "50 % de piso con plaza y trastero vinculados en Sevilla",
+      "Conjunto 190.000 euros. Tu cuota 95.000. Oferta entre 50.000 y 65.000 euros por el lote completo."
+     ]
+    ],
+    "outro": [
+     "Las cifras son orientativas. Los garajes de rotación en centros de ciudad y los de edificios nuevos con plazas grandes valen más; las plazas en sótanos antiguos con maniobra difícil, menos. El factor que aplicamos es el mismo que en viviendas: entre el 40 % y el 70 % del valor proporcional, según si la plaza está libre, ocupada por un copropietario y cuántos dueños hay."
+    ]
+   },
+   {
+    "overline": "Casos",
+    "h2": "Situaciones típicas que resolvemos",
+    "intro": [
+     "Las cuotas de garaje y trastero rara vez llegan solas. Casi siempre son el resto de una herencia o de una separación en la que el piso ya se resolvió y la plaza se quedó atrás. Estos son los casos que más vemos."
+    ],
+    "type": "cards",
+    "items": [
+     {
+      "t": "Plaza heredada que usa un hermano",
+      "p": "Él aparca, tú pagas la mitad de la comunidad del garaje y del IBI. Puedes reclamarle compensación por el uso o vender tu cuota y olvidarte. Compramos con él dentro.",
+      "url": "/vender-proindiviso-entre-hermanos/",
+      "cta": "Proindiviso entre hermanos →"
+     },
+     {
+      "t": "Plaza comprada a medias con la expareja",
+      "p": "Tras la ruptura, uno sigue aparcando y el otro no tiene coche en esa ciudad. La extinción de condominio por una plaza suele no compensar el notario. Vender la cuota es más rápido.",
+      "url": "/vender-proindiviso-divorcio/",
+      "cta": "Proindiviso por divorcio →"
+     },
+     {
+      "t": "Participación en garaje comunitario con uso de plaza",
+      "p": "Tienes una fracción de la finca garaje con derecho a la plaza 23. Se vende igual: tu participación con su derecho de uso. Si además esa participación está compartida con otros, compramos tu parte de ella."
+     },
+     {
+      "t": "Trastero vinculado a un piso que ya se vendió",
+      "p": "A veces el trastero quedó fuera de la venta del piso por error registral y sigue a nombre de varios. Compramos la cuota y resolvemos la discordancia."
+     },
+     {
+      "t": "Piso, plaza y trastero en el mismo lote",
+      "p": "Si tu cuota afecta a los tres bienes, hacemos una sola oferta por el conjunto y una sola escritura. Sale mejor que vender por separado.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender tu parte de un piso →"
+     }
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Pedimos la nota simple de la plaza o del trastero, que suele tener su propia finca registral o estar vinculada al piso, y comprobamos tu cuota y las cargas. Miramos el precio de plazas similares en el mismo garaje o en la misma calle. Con eso te mandamos oferta por escrito en 48 horas.",
+     "Somos sinceros con los importes pequeños. Una cuota cuyo valor proporcional no llega a 2.000 euros da ofertas de unos cientos de euros, y aun así la compramos si está dentro de un lote con la vivienda o si resuelve una situación que te cuesta dinero cada año. Si solo tienes esa cuota pequeña y suelta, te diremos con claridad lo que podemos pagar y si compensa. Los gastos de notaría y gestión son nuestros en cualquier caso, lo que en una operación pequeña es una parte importante del valor."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Pide precio por tu plaza o trastero",
+     "p": "Dirección del garaje, número de plaza y tu porcentaje. Oferta por escrito en 48 horas, sin compromiso.",
+     "cta": "Quiero vender mi parte del garaje"
+    }
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se vende una cuota de garaje paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Localiza la finca registral",
+      "p": "En la escritura de compra o de herencia aparece si la plaza es finca independiente, anejo del piso o participación en el garaje común. La nota simple lo confirma."
+     },
+     {
+      "t": "Comprueba cargas y gastos",
+      "p": "IBI de la plaza, cuota de la comunidad del garaje y posibles derramas. Lo pendiente se liquida en la firma y se descuenta de quien lo deba."
+     },
+     {
+      "t": "Recibe la oferta y acéptala si te encaja",
+      "p": "Por escrito, con el precio neto y el plazo de validez. Sin exclusividad: puedes compararla con lo que te ofrezca otro copropietario."
+     },
+     {
+      "t": "Firma en notaría",
+      "p": "En dos a cuatro semanas, en la notaría que prefieras. Si vives lejos, se puede firmar por poder. Cobras al contado en el acto."
+     },
+     {
+      "t": "Notificación a los demás copropietarios",
+      "p": "Les comunicamos la venta para que puedan ejercer el retracto en nueve días. Si lo hacen, cobras lo mismo de ellos. Si no, la venta es firme."
+     }
+    ],
+    "outro": [
+     "Si la plaza es una participación en un garaje comunitario, comprobamos además los estatutos del garaje: algunos limitan la venta de participaciones a propietarios del edificio o exigen comunicar al administrador. No suelen impedir la venta, pero conviene saberlo antes de firmar."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Qué impuestos lleva la venta de una cuota de garaje",
+    "type": "list",
+    "items": [
+     "<strong>ITP para el comprador.</strong> Entre el 6 % y el 10 % del valor de la cuota según comunidad autónoma. Lo pagamos nosotros.",
+     "<strong>IRPF para ti.</strong> Solo si vendes por más de lo que te costó o del valor por el que heredaste. En cuotas pequeñas de garaje la ganancia suele ser mínima o nula.",
+     "<strong>Plusvalía municipal.</strong> Depende de si el valor del suelo ha subido desde que adquiriste la cuota. En plazas heredadas hace pocos años, a menudo no hay incremento.",
+     "<strong>Gastos de notaría y Registro.</strong> A nuestro cargo. En operaciones pequeñas esto supone varios cientos de euros que no salen de tu bolsillo."
+    ],
+    "outro": [
+     "Si vendes la plaza junto con tu cuota del piso, los impuestos se calculan sobre el lote completo en una sola escritura, lo que simplifica y abarata el trámite. Tienes más detalle sobre impuestos y notaría en nuestra página sobre extinción de condominio, que recoge los costes de cada vía."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo vender mi parte de una plaza de garaje sin el permiso del otro dueño?",
+    "Sí. El artículo 399 del Código Civil permite vender tu cuota sin consentimiento de los demás. El otro copropietario solo tiene derecho de retracto durante nueve días desde que conoce la venta."
+   ],
+   [
+    "¿Cuánto vale la mitad de una plaza de garaje?",
+    "La mitad del valor de mercado de la plaza es el valor proporcional. Un comprador de cuotas paga entre el 40 % y el 70 % de esa mitad. En una plaza de 20.000 euros, entre 4.000 y 7.000 euros orientativamente."
+   ],
+   [
+    "¿Compráis cuotas de trastero solas, sin piso?",
+    "Sí, aunque en importes muy pequeños te diremos con claridad lo que podemos ofrecer. Si el trastero va con una cuota de piso o de garaje, hacemos una oferta por el conjunto."
+   ],
+   [
+    "¿Qué pasa si mi hermano aparca en la plaza y no me paga nada?",
+    "Puedes reclamarle una compensación por el uso exclusivo desde que se lo exiges por escrito, o vender tu cuota. Compramos la cuota con él usando la plaza y nos ocupamos nosotros."
+   ],
+   [
+    "¿Hay que pagar plusvalía municipal al vender la cuota de un garaje?",
+    "Solo si el valor del suelo ha subido desde que la adquiriste. Si heredaste hace poco o compraste a un precio superior al actual, normalmente no se paga. Depende del ayuntamiento."
+   ],
+   [
+    "¿Cuánto tarda la venta de una cuota de garaje?",
+    "Oferta en 48 horas y firma en dos a cuatro semanas. Los demás copropietarios tienen nueve días para ejercer el retracto tras la notificación de la venta."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender tu parte de un garaje o trastero",
+  "related": [
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Cuánto me dan por mi parte de un piso",
+    "/blog/cuanto-me-dan-por-mi-parte-de-un-piso/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Compramos en toda España",
+    "/vender-proindiviso/"
+   ]
+  ],
+  "cta_title": "Tu parte de la plaza, vendida en semanas",
+  "cta_text": "Compramos cuotas de garajes y trasteros en toda España. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Notaría y gestión a nuestro cargo.",
+  "yoast_title": "Vender tu parte de un garaje o trastero: así lo compramos",
+  "meta_desc": "Vender tu parte de un garaje o trastero es posible sin permiso de los demás. Precios orientativos, trámite e impuestos. Compramos tu cuota: oferta en 48 h.",
+  "focus_kw": "plaza de garaje en proindiviso",
+  "title_corto": "Parte de garaje o trastero"
+ },
+ {
+  "slug": "vender-parte-de-un-terreno-rustico-heredado",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Fincas rústicas",
+  "h1": "Vender tu parte de un terreno rústico heredado: fincas, olivar, viñedo y parcelas",
+  "sub": "Puedes vender tu cuota de una finca rústica heredada sin dividirla y sin el permiso de tus hermanos. No te afecta la unidad mínima de cultivo, porque no segregas nada, y el retracto de colindantes solo entra en fincas pequeñas. Compramos cuotas de olivar, viñedo, secano, regadío y parcelas en toda España.",
+  "checks": [
+   "Olivar, viñedo, secano y regadío",
+   "Precios orientativos por hectárea",
+   "Compramos sin dividir la finca"
+  ],
+  "card_title": "¿Heredaste parte de una finca que no trabajas?",
+  "card_text": "Dinos el municipio, el polígono y la parcela, y tu porcentaje. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Se puede vender la parte de una finca rústica heredada",
+    "type": "text",
+    "intro": [
+     "Sí. Una vez aceptada y adjudicada la herencia, tu cuota sobre la finca es tuya y el artículo 399 del Código Civil te permite venderla sin consentimiento de los demás coherederos. Si la herencia no está partida todavía, lo que vendes son tus derechos hereditarios, y también se puede. Lo que no puedes hacer solo es vender la finca entera ni trocearla para quedarte con un pedazo.",
+     "La duda más repetida es si hace falta dividir la finca para vender. No. Vender una cuota indivisa no es una segregación: la finca sigue siendo una sola, con los mismos linderos y la misma referencia catastral, solo cambia uno de los titulares. Por eso no se aplica la unidad mínima de cultivo, que solo limita las divisiones físicas.",
+     "Las fincas rústicas heredadas tienen una particularidad: suelen llevar décadas sin actualizar en el Registro y en el Catastro, con titulares fallecidos y superficies que no coinciden. Eso no impide la venta de la cuota, pero afecta al precio y al tiempo de preparación. Nosotros nos encargamos de esa parte."
+    ]
+   },
+   {
+    "overline": "Lo que hay que saber",
+    "h2": "Retracto de colindantes, unidad mínima de cultivo y otros límites",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Retracto de colindantes",
+      "p": "El artículo 1523 del Código Civil da a los dueños de fincas colindantes derecho a quedarse una finca rústica vendida cuando su cabida no supera una hectárea, en nueve días desde la inscripción. No se aplica si las fincas están separadas por caminos, acequias o servidumbres aparentes. Al vender una cuota, prima el retracto de comuneros de tus hermanos (artículo 1522)."
+     },
+     {
+      "t": "Retracto de coherederos",
+      "p": "Si vendes derechos hereditarios antes de la partición, tus coherederos pueden subrogarse en un mes desde que se les notifica (artículo 1067). Notificamos siempre y esperamos el plazo."
+     },
+     {
+      "t": "Unidad mínima de cultivo",
+      "p": "La fija cada comunidad autónoma, por ejemplo entre 0,25 y 3 hectáreas en secano según zona. Prohíbe dividir fincas en parcelas más pequeñas. No afecta a la venta de cuotas, porque la finca no se divide."
+     },
+     {
+      "t": "Explotaciones prioritarias",
+      "p": "La Ley de Modernización de Explotaciones Agrarias da preferencia a los titulares de explotaciones prioritarias colindantes en ciertas ventas de fincas pequeñas. Lo comprobamos caso por caso."
+     },
+     {
+      "t": "Derechos de la PAC y arrendamientos rústicos",
+      "p": "Los derechos de pago básico van ligados al agricultor, no a la tierra, y un arrendatario rústico con contrato tiene derecho de adquisición preferente sobre la finca entera. Hay que mirar si existe contrato en vigor."
+     }
+    ]
+   },
+   {
+    "overline": "Precio",
+    "h2": "Cuánto vale tu parte: precios orientativos por tipo de finca",
+    "type": "table",
+    "items": [
+     [
+      "Tipo de finca y ejemplo",
+      "Valor orientativo, valor de tu cuota y oferta"
+     ],
+     [
+      "Secano cerealista en Castilla, 6 hectáreas, 4.000 euros por hectárea, 33 % de cuota",
+      "Finca 24.000 euros. Tu cuota 8.000. Oferta entre 3.200 y 4.800 euros."
+     ],
+     [
+      "Olivar tradicional en Jaén, 3 hectáreas, 18.000 euros por hectárea, 50 % de cuota, lo trabaja un hermano",
+      "Finca 54.000 euros. Tu cuota 27.000. Oferta entre 11.000 y 15.000 euros, según si el hermano paga algo por el uso."
+     ],
+     [
+      "Viñedo con denominación de origen en La Rioja, 1,5 hectáreas, 40.000 euros por hectárea, 25 % de cuota, cuatro herederos",
+      "Finca 60.000 euros. Tu cuota 15.000. Oferta entre 6.000 y 8.500 euros."
+     ],
+     [
+      "Regadío con almendros en Murcia, 2 hectáreas, 30.000 euros por hectárea, 50 % de cuota, con derechos de agua",
+      "Finca 60.000 euros. Tu cuota 30.000. Oferta entre 14.000 y 19.000 euros."
+     ],
+     [
+      "Parcela rústica de 2.000 m2 con cortijo en ruinas en Granada, 50 % de cuota",
+      "Finca 35.000 euros. Tu cuota 17.500. Oferta entre 7.000 y 10.000 euros."
+     ]
+    ],
+    "outro": [
+     "Los precios por hectárea varían mucho con la comarca, el acceso, el agua y el estado de la plantación. Un olivar superintensivo con riego puede valer tres veces más que uno tradicional de secano a diez kilómetros. Consulta las estadísticas de precios de la tierra que publica el Ministerio de Agricultura para tu provincia y resta algo por la falta de liquidez de las fincas pequeñas."
+    ]
+   },
+   {
+    "overline": "Documentos",
+    "h2": "Qué documentos hacen falta y qué pasa si no coinciden",
+    "type": "list",
+    "items": [
+     "<strong>Nota simple del Registro.</strong> Si la finca está inscrita, confirma la titularidad y la cuota. Muchas fincas rústicas no están inmatriculadas: entonces se trabaja con la escritura de herencia y el Catastro.",
+     "<strong>Certificación catastral descriptiva y gráfica.</strong> Polígono, parcela, superficie y cultivo. Es la referencia que usan los notarios y Hacienda.",
+     "<strong>Escritura de herencia o de partición.</strong> Donde conste que la finca te fue adjudicada en proindiviso. Si está sin escriturar, se puede resolver en la misma operación.",
+     "<strong>Recibos del IBI rústico.</strong> Pequeños, pero acumulan deuda si llevan años sin pagarse.",
+     "<strong>Contratos de arrendamiento o aparcería.</strong> Si alguien cultiva la finca, hay que saber en qué condiciones y si tiene derecho de adquisición preferente.",
+     "<strong>Diferencias de superficie entre Registro y Catastro.</strong> Si superan el 10 %, conviene tramitar una rectificación antes o después de la venta. No impide la compra de la cuota."
+    ],
+    "outro": [
+     "Si la finca sigue a nombre de tu abuelo porque nadie hizo la herencia de tu padre, hay dos sucesiones que escriturar. Es más papel, no un impedimento: lo hemos resuelto muchas veces y el coste lo asumimos en la operación."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Con el municipio, el polígono y la parcela consultamos el Catastro y el Registro, vemos el cultivo, el acceso y las ventas recientes en la comarca, y te mandamos una oferta por escrito en 48 horas. Si la herencia está sin escriturar o la finca sin inmatricular, te decimos qué hace falta y lo preparamos nosotros, con los gastos de notaría y gestión a nuestro cargo.",
+     "Tomemos el olivar de Jaén de la tabla. Tres hectáreas, 54.000 euros, dos hermanos al 50 %. Uno lleva veinte años recogiendo la aceituna y no paga nada al otro. El que no cobra tiene 27.000 euros proporcionales y una finca que no puede vender ni dividir sin pleito. Le ofrecemos en torno a 13.000 euros, firmamos en cuatro semanas en la notaría del pueblo o por poder si vive lejos, y a partir de ahí somos nosotros quienes tratamos con el hermano agricultor: compensación por el uso, compra de nuestra cuota o división."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Precio por tu parte de la finca en 48 horas",
+     "p": "Polígono, parcela y porcentaje. Sin compromiso y sin que tus hermanos tengan que firmar nada.",
+     "cta": "Pedir precio por mi finca heredada"
+    }
+   },
+   {
+    "overline": "Alternativas",
+    "h2": "Qué otras salidas tienes y por qué suelen fallar en rústico",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Que el hermano que cultiva te compre",
+      "p": "Es la salida natural. El problema es que los agricultores suelen tener la liquidez en maquinaria y campaña, no en el banco. Si puede pagar, acepta un precio razonable y hazlo en escritura."
+     },
+     {
+      "t": "Dividir la finca en dos",
+      "p": "Solo si cada parte resultante supera la unidad mínima de cultivo de tu comunidad y hay acuerdo. En fincas pequeñas es imposible por ley."
+     },
+     {
+      "t": "Vender la finca entera",
+      "p": "Requiere la firma de todos los herederos y un comprador, normalmente un agricultor de la zona. Lleva meses y uno solo puede bloquearlo."
+     },
+     {
+      "t": "División judicial y subasta",
+      "p": "Un juez declara la finca indivisible y ordena venderla. De uno a tres años y precios de subasta muy bajos en rústico, donde hay pocos postores."
+     },
+     {
+      "t": "Vender tu cuota",
+      "p": "La única vía que no depende de nadie. La compramos en semanas, con fondos propios, y nos ocupamos del resto."
+     }
+    ],
+    "outro": [
+     "En nuestra página sobre vender un terreno en proindiviso tienes el caso de los solares y parcelas urbanizables, que funcionan de forma parecida pero con otros precios."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo vender mi parte de una finca rústica sin dividirla?",
+    "Sí. Vendes tu cuota indivisa y la finca sigue siendo una sola. No es una segregación, así que no se aplica la unidad mínima de cultivo. Tus coherederos tienen retracto de comuneros durante nueve días."
+   ],
+   [
+    "¿Qué es el retracto de colindantes y me afecta?",
+    "Es el derecho del dueño de una finca rústica colindante a quedarse la finca vendida si no supera una hectárea, según el artículo 1523 del Código Civil. En ventas de cuota, el retracto de los demás copropietarios tiene preferencia."
+   ],
+   [
+    "¿Cuánto vale una hectárea de olivar o de viñedo?",
+    "Orientativamente, un olivar tradicional entre 10.000 y 25.000 euros por hectárea; un viñedo con denominación de origen entre 15.000 y 45.000; secano cerealista entre 3.000 y 8.000; regadío entre 20.000 y 50.000. Varía mucho por comarca."
+   ],
+   [
+    "¿Compráis fincas rústicas que no están en el Registro?",
+    "Sí, si hay escritura de herencia y la finca consta en el Catastro. Preparamos la inmatriculación o trabajamos con la documentación disponible, y lo tenemos en cuenta en el plazo y en el precio."
+   ],
+   [
+    "¿Mi hermano cultiva la finca y no me paga nada. Puedo venderle a otro?",
+    "Sí. Puedes vender tu cuota a un tercero sin su permiso. Él tendrá nueve días para igualar el precio. Si no lo hace, el comprador pasa a ser su copropietario."
+   ],
+   [
+    "¿Qué impuestos pago al vender mi parte de una finca heredada?",
+    "IRPF por la ganancia entre el valor de herencia y el de venta, si la hay. La plusvalía municipal no se aplica a suelo rústico. El ITP lo paga el comprador. Orientativo: consulta tu caso."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender tu parte de una finca rústica heredada",
+  "related": [
+   [
+    "Vender terreno en proindiviso",
+    "/vender-terreno-proindiviso/"
+   ],
+   [
+    "Vender parte de casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Comunidad hereditaria y proindiviso",
+    "/blog/comunidad-hereditaria-vs-proindiviso/"
+   ],
+   [
+    "Empresas que compran herencias",
+    "/empresas-que-compran-herencias/"
+   ]
+  ],
+  "cta_title": "Tu parte del olivar, cobrada en semanas",
+  "cta_text": "Compramos cuotas de fincas rústicas heredadas en toda España. Precio por escrito en 48 horas, firma en notaría o por poder y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Vender tu parte de un terreno rústico heredado: guía y precios",
+  "meta_desc": "Vender tu parte de un terreno rústico heredado sin dividir la finca: retracto de colindantes, unidad mínima de cultivo, precios por hectárea y oferta.",
+  "focus_kw": "vender parte de un terreno rústico heredado",
+  "title_corto": "Parte de finca rústica"
+ },
+ {
+  "slug": "proindiviso-por-divorcio-sin-acuerdo",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Tras el divorcio",
+  "h1": "Proindiviso tras el divorcio sin acuerdo: salir de la casa sin volver al juzgado",
+  "sub": "Tras el divorcio, la casa sigue siendo de los dos aunque uno tenga el uso y aunque la hipoteca siga a nombre de ambos. Si tu ex no quiere comprar ni vender, puedes vender tu mitad a un tercero sin su firma. Compramos mitades de viviendas de divorciados, con uso atribuido y con hipoteca, y cobras en semanas.",
+  "checks": [
+   "Con uso atribuido por sentencia",
+   "Con hipoteca a nombre de los dos",
+   "Sin la firma de tu ex"
+  ],
+  "card_title": "¿Tu ex no quiere ni comprar ni vender?",
+  "card_text": "Dinos la dirección, tu porcentaje y quién vive en la casa. Te damos precio por tu mitad en 48 horas.",
+  "sections": [
+   {
+    "overline": "Qué queda tras el divorcio",
+    "h2": "La casa tras el divorcio sin acuerdo: qué tienes y qué no",
+    "type": "text",
+    "intro": [
+     "La sentencia de divorcio disuelve el matrimonio, pero no reparte la casa. Si compraste en gananciales, la vivienda pasa a una comunidad postganancial hasta que liquidéis la sociedad; si compraste en separación de bienes o antes de casarte, es un proindiviso ordinario desde el principio. En los dos casos tienes un porcentaje, normalmente el 50 %, sobre un inmueble que no puedes usar, vender ni alquilar sin tu ex.",
+     "Con hijos menores, el juez suele atribuir el uso de la vivienda al progenitor custodio según el artículo 96 del Código Civil. Eso no cambia la propiedad: tu ex usa la casa, pero la mitad sigue siendo tuya. El uso suele durar hasta la mayoría de edad de los hijos o el plazo que fije la sentencia, y en custodia compartida los juzgados tienden a limitarlo a dos o tres años.",
+     "La hipoteca sigue a nombre de los dos. Al banco le da igual el divorcio: si tu ex deja de pagar su parte, te reclama a ti. Esta es la razón por la que muchos divorciados no pueden comprar otra vivienda: la deuda de la casa anterior sigue computando en su capacidad de endeudamiento."
+    ]
+   },
+   {
+    "overline": "Las salidas",
+    "h2": "Cómo salir del proindiviso cuando tu ex no colabora",
+    "type": "table",
+    "items": [
+     [
+      "Vía",
+      "Qué necesita, cuánto tarda y qué cobras"
+     ],
+     [
+      "Extinción de condominio",
+      "Que tu ex se quede la casa y te compense, y que el banco le deje la hipoteca solo a él. Si el banco no lo aprueba o tu ex no quiere, no hay extinción. Con acuerdo, uno a tres meses. Cobras lo pactado, a menudo cerca del valor proporcional."
+     ],
+     [
+      "Venta de la casa entera",
+      "La firma de los dos y un comprador. Si hay uso atribuido, el comprador adquiere con ese uso y el precio cae. Tu ex puede negarse sin dar razones."
+     ],
+     [
+      "División de cosa común",
+      "Demanda, abogado y procurador. El juez ordena vender, normalmente en subasta, respetando el uso atribuido. De uno a tres años. El precio de subasta suele ser bajo y el uso lo baja más."
+     ],
+     [
+      "Liquidación de gananciales judicial",
+      "Si compraste en gananciales y no habéis liquidado, el procedimiento de liquidación reparte todos los bienes. Lento, con contador partidor, de uno a dos años."
+     ],
+     [
+      "Venta de tu mitad a un tercero",
+      "Solo tu firma. Oferta en 48 horas, notaría en dos a cuatro semanas, cobro al contado. Entre el 40 % y el 70 % del valor de tu mitad, menos tu parte de la hipoteca. Tu ex tiene nueve días de retracto para igualar el precio."
+     ]
+    ],
+    "outro": [
+     "Las cuatro primeras necesitan la colaboración de tu ex o un juzgado. La quinta, no. En nuestra página sobre vender un proindiviso por divorcio tienes el proceso completo; aquí nos centramos en el caso sin acuerdo."
+    ]
+   },
+   {
+    "overline": "Obstáculos",
+    "h2": "Uso atribuido e hipoteca: cómo afectan a la venta de tu mitad",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Uso atribuido a tu ex con los hijos",
+      "p": "La venta de tu cuota es válida. El comprador respeta el uso mientras dure la atribución y no puede echar a nadie. El precio baja porque la espera es larga: factor cercano al 40 % o 45 % si quedan muchos años, más alto si la atribución está próxima a extinguirse."
+     },
+     {
+      "t": "Hipoteca a nombre de los dos",
+      "p": "De la oferta se descuenta la mitad de la deuda pendiente. En la notaría, esa cantidad va a amortizar el préstamo o el comprador se subroga en tu parte si el banco lo acepta. En nuestra página sobre vender un proindiviso con hipoteca está el detalle.",
+      "url": "/vender-proindiviso-con-hipoteca/",
+      "cta": "Vender con hipoteca →"
+     },
+     {
+      "t": "Tu ex paga la hipoteca entera",
+      "p": "Si lleva años pagando toda la cuota, puede reclamarte la mitad de lo pagado al liquidar. Esa cuenta se cierra en la escritura o queda para la liquidación entre vosotros. Lo tenemos en cuenta en la oferta."
+     },
+     {
+      "t": "Gananciales sin liquidar",
+      "p": "Para vender tu mitad primero hay que liquidar la sociedad de gananciales, aunque sea solo respecto de la vivienda. Si tu ex no firma, cabe liquidación judicial. Compramos tras la liquidación, o compramos derechos sobre la comunidad postganancial según el caso."
+     },
+     {
+      "t": "Tu ex vive en la casa sin atribución de uso",
+      "p": "Si no hay sentencia que le dé el uso, o ya ha vencido, puedes requerirle por escrito y reclamar compensación. Tienes la entrada sobre compensación por uso exclusivo. O vendes y el comprador se ocupa.",
+      "url": "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/",
+      "cta": "Compensación por uso →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: piso de 240.000 euros, hipoteca de 90.000 y uso atribuido",
+    "type": "text",
+    "intro": [
+     "Piso en Valencia valorado en 240.000 euros. Hipoteca pendiente de 90.000. Divorcio hace dos años, dos hijos de 10 y 13 años, uso atribuido a la madre hasta la mayoría de edad del menor. El padre tiene el 50 %, vive de alquiler y no puede pedir otra hipoteca.",
+     "Valor proporcional de su mitad: 120.000 euros. Uso atribuido durante al menos ocho años más: factor 0,45, que da 54.000 euros. Mitad de la hipoteca: 45.000. Oferta neta orientativa: 9.000 euros al contado y, lo más importante para él, su nombre fuera del préstamo si el banco acepta la subrogación o se amortiza su parte. Si el banco no libera, la operación se estructura para que el comprador asuma el pago y responda frente a él.",
+     "¿Es poco dinero? Es menos que los 120.000 teóricos. Pero esos 120.000 no existen hasta dentro de ocho años, mientras tanto paga 350 euros al mes de hipoteca de una casa en la que no vive y no puede comprar otra. Con la misma situación pero sin hipoteca, la oferta rondaría los 54.000 euros. Y si el uso atribuido terminara en dos años, subiría hacia los 70.000."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Te pediríamos la sentencia o el convenio, para ver el uso atribuido y su plazo, la nota simple y el último recibo de la hipoteca. Con eso calculamos el valor de tu mitad, el descuento por el uso y la deuda, y te mandamos la oferta por escrito en 48 horas con el neto que cobrarías y el tratamiento de la hipoteca.",
+     "Si te encaja, hablamos con tu banco sobre la subrogación o la amortización parcial, preparamos la escritura y firmamos en dos a cuatro semanas. Notificamos a tu ex la venta para que pueda ejercer el retracto; si lo ejerce, cobras lo mismo de tu ex, que es lo que llevabas tiempo pidiendo. Si no, firmamos nosotros. Después, la relación con tu ex sobre la casa pasa a ser nuestra: esperar al fin del uso, negociar la compra o pedir la división."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Sal de la casa del divorcio sin pasar otra vez por el juzgado",
+     "p": "Oferta por escrito en 48 horas por tu mitad, con el uso atribuido y la hipoteca ya descontados. Sin compromiso.",
+     "cta": "Pedir precio por mi mitad"
+    }
+   },
+   {
+    "overline": "Antes de vender",
+    "h2": "Tres cosas que conviene revisar antes de firmar nada",
+    "type": "list",
+    "items": [
+     "<strong>El convenio regulador.</strong> A veces incluye un pacto de venta de la vivienda a plazo o una prohibición temporal de disponer. Si existe, hay que mirar su alcance; la mayoría no impiden la venta de la cuota.",
+     "<strong>La liquidación de gananciales.</strong> Si la vivienda era ganancial y no se ha liquidado, no tienes todavía una cuota del 50 % sobre la casa sino una participación en la comunidad postganancial. Hay que liquidar primero, de mutuo acuerdo o judicialmente.",
+     "<strong>Las cuentas pendientes con tu ex.</strong> Hipoteca pagada de más, IBI, derramas, reformas. Lo que te deba se reclama aparte o se compensa. Lo que debas tú se descuenta. Déjalo por escrito para que no vuelva en forma de demanda."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo vender mi mitad de la casa si mi ex tiene el uso por sentencia?",
+    "Sí. La atribución del uso no te quita la propiedad ni la facultad de vender tu cuota. El comprador respeta el uso mientras dure. El precio es menor cuanto más tiempo quede de atribución."
+   ],
+   [
+    "¿Puedo vender mi parte si la hipoteca sigue a nombre de los dos?",
+    "Sí. De la oferta se descuenta tu parte de la deuda y en la firma se amortiza o el comprador se subroga en ella si el banco lo acepta. Buscamos que tu nombre salga del préstamo."
+   ],
+   [
+    "¿Mi ex puede impedir que venda mi mitad?",
+    "No. Solo tiene derecho de retracto: quedarse tu mitad al mismo precio en nueve días desde que conoce la venta. Si no lo ejerce, la venta a un tercero es firme."
+   ],
+   [
+    "¿Qué pasa si compramos en gananciales y no hemos liquidado?",
+    "Primero hay que liquidar la sociedad de gananciales, por acuerdo o por vía judicial. Hasta entonces no hay cuota concreta sobre la casa. Te ayudamos a ver la vía más corta."
+   ],
+   [
+    "¿Es mejor pedir la división de cosa común que vender mi mitad?",
+    "La división judicial tarda de uno a tres años, cuesta abogado y procurador y acaba en subasta con el uso atribuido como carga. Vender tu mitad te da menos que el valor teórico, pero cobras en semanas y sales de la hipoteca."
+   ],
+   [
+    "¿Tengo que decírselo a mi ex antes de vender?",
+    "No necesitas su permiso. Sí se le notifica la venta para que pueda ejercer el retracto. Nos encargamos nosotros de la comunicación de forma formal y sin conflicto."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el proindiviso tras el divorcio",
+  "related": [
+   [
+    "Vender proindiviso por divorcio",
+    "/vender-proindiviso-divorcio/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Extinción de condominio con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Uno quiere vender y el otro no",
+    "/blog/uno-quiere-vender-y-el-otro-no/"
+   ],
+   [
+    "Vender la mitad de una casa",
+    "/vender-la-mitad-de-una-casa/"
+   ]
+  ],
+  "cta_title": "Tu mitad de la casa, resuelta sin tu ex",
+  "cta_text": "Compramos mitades de viviendas tras el divorcio, con uso atribuido y con hipoteca. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Proindiviso tras el divorcio sin acuerdo: cómo salir",
+  "meta_desc": "Proindiviso tras el divorcio sin acuerdo: qué pasa con el uso atribuido y la hipoteca y cómo vender tu mitad sin la firma de tu ex. Ejemplo con cifras.",
+  "focus_kw": "casa tras divorcio sin acuerdo",
+  "title_corto": "Divorcio sin acuerdo"
+ },
+ {
+  "slug": "testamento-con-usufructo-universal-puede-vender-el-viudo",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Usufructo del viudo",
+  "h1": "Usufructo universal del viudo: ¿puede vender la casa? ¿Y los hijos su parte?",
+  "sub": "El viudo con usufructo universal no puede vender la casa: solo tiene el uso y disfrute, y la propiedad es de los hijos. Los hijos sí pueden vender su parte de la nuda propiedad, sin permiso del viudo ni de los hermanos. Para vender el pleno dominio hace falta la firma de todos. Compramos cuotas de nuda propiedad y participamos en ventas conjuntas.",
+  "checks": [
+   "Usufructo, nuda propiedad y cautela socini",
+   "Reparto del precio con ejemplo",
+   "Compramos nuda propiedad por cuotas"
+  ],
+  "card_title": "¿Nuda propiedad heredada con tu madre en la casa?",
+  "card_text": "Dinos la edad del usufructuario, tu porcentaje y la dirección. Te damos precio por tu nuda propiedad en 48 horas.",
+  "sections": [
+   {
+    "overline": "Qué significa",
+    "h2": "Qué es el usufructo universal del viudo y la cautela socini",
+    "type": "text",
+    "intro": [
+     "Es la cláusula más habitual en los testamentos de matrimonios con hijos: cada cónyuge deja al otro el usufructo universal y vitalicio de toda la herencia, y a los hijos la nuda propiedad. El viudo puede vivir en la casa, cobrar los alquileres y los intereses, pero no es dueño. Los hijos son dueños, pero no pueden usar ni disfrutar mientras el viudo viva.",
+     "Por ley, el viudo solo tiene derecho al usufructo del tercio de mejora, según el artículo 834 del Código Civil. Dejarle el usufructo de todo invade la legítima de los hijos. Para que funcione, el testamento añade la cautela socini: los hijos pueden aceptar el usufructo universal del viudo y recibir toda la nuda propiedad, o bien oponerse y recibir solo su legítima estricta en pleno dominio, quedando el resto para el viudo en plena propiedad. Casi todos aceptan, porque oponerse les deja menos.",
+     "El resultado práctico es una casa con dos capas: el usufructo del padre o la madre que queda, y la nuda propiedad repartida entre los hijos por cuotas. Es un proindiviso de nuda propiedad con un usufructo encima."
+    ]
+   },
+   {
+    "overline": "Quién puede vender qué",
+    "h2": "Qué puede vender cada uno sin el permiso de los demás",
+    "type": "table",
+    "items": [
+     [
+      "Quién y qué",
+      "Puede o no, y con qué efecto"
+     ],
+     [
+      "El viudo, la casa entera",
+      "No. Solo tiene el usufructo. Para vender el pleno dominio necesita la firma de todos los nudos propietarios."
+     ],
+     [
+      "El viudo, su usufructo",
+      "Sí. El artículo 480 del Código Civil permite al usufructuario enajenar su derecho. El comprador lo disfruta mientras viva el viudo, no más. Tiene poco mercado."
+     ],
+     [
+      "Un hijo, su cuota de nuda propiedad",
+      "Sí, sin permiso del viudo ni de los hermanos, según el artículo 399. Los hermanos tienen retracto de comuneros durante nueve días. El comprador será pleno propietario de esa cuota cuando se extinga el usufructo."
+     ],
+     [
+      "Un hijo, la casa entera",
+      "No. Ni siquiera todos los hijos juntos pueden vender el pleno dominio sin el viudo, porque el usufructo seguiría gravando la casa."
+     ],
+     [
+      "Todos juntos, el pleno dominio",
+      "Sí. Es la venta conjunta: viudo y todos los hijos firman, el comprador adquiere la casa libre y el precio se reparte entre usufructo y nuda propiedad."
+     ],
+     [
+      "El viudo, renunciar al usufructo",
+      "Sí. Puede renunciar gratuitamente a favor de los hijos, que consolidan el pleno dominio. Tributa en donaciones para ellos en la mayoría de comunidades, con bonificaciones según cuál."
+     ]
+    ]
+   },
+   {
+    "overline": "Reparto",
+    "h2": "Cómo se reparte el precio entre el viudo y los hijos: ejemplo con cifras",
+    "type": "text",
+    "intro": [
+     "Cuando se vende el pleno dominio, hay que valorar cuánto vale el usufructo y cuánto la nuda propiedad. La regla fiscal, que suele usarse también para el reparto, es sencilla: el usufructo vitalicio vale el 70 % del valor del bien si el usufructuario tiene menos de 20 años, y baja un 1 % por cada año que supere los 19, con un mínimo del 10 %. La fórmula rápida es 89 menos la edad del usufructuario, en porcentaje.",
+     "Casa en Alicante vendida por 200.000 euros. Viuda de 75 años y tres hijos. Usufructo: 89 menos 75 es 14 %, es decir, 28.000 euros para la madre. Nuda propiedad: 172.000 euros, 57.333 para cada hijo. Si la madre tuviera 82 años, el usufructo bajaría al 10 % por el mínimo legal: 20.000 para ella y 60.000 para cada hijo.",
+     "Nada impide que la familia reparta de otra forma por acuerdo, por ejemplo dando a la madre más dinero para una residencia. Pero si el reparto se aleja mucho de la regla, Hacienda puede entender que hay una donación entre ellos."
+    ]
+   },
+   {
+    "overline": "Casos reales",
+    "h2": "Situaciones que vemos a diario",
+    "type": "cards",
+    "items": [
+     {
+      "t": "La madre vive en la casa y un hijo necesita dinero",
+      "p": "No puede obligar a vender la casa. Puede vender su cuota de nuda propiedad a un tercero. El comprador espera a la extinción del usufructo. Nosotros compramos esa cuota.",
+      "url": "/vender-nuda-propiedad/",
+      "cta": "Vender nuda propiedad →"
+     },
+     {
+      "t": "La madre quiere vender e irse a una residencia",
+      "p": "Necesita la firma de todos los hijos. Si uno se niega, no hay venta. Una opción: ese hijo vende su nuda propiedad a quien sí firme, o la madre renuncia al usufructo y los demás hijos compran la cuota del que bloquea."
+     },
+     {
+      "t": "Un hijo vive con la madre y los otros no",
+      "p": "Mientras viva la madre, el uso es suyo y el hijo que vive con ella no debe nada a los hermanos. Cuando ella fallezca, nacerá el derecho a compensación por uso exclusivo si sigue allí."
+     },
+     {
+      "t": "El viudo se ha vuelto a casar",
+      "p": "El usufructo no se pierde por contraer nuevo matrimonio salvo que el testamento lo diga. Su nuevo cónyuge no adquiere nada sobre la casa.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender parte de casa heredada →"
+     }
+    ],
+    "outro": [
+     "En todos estos casos hay una constante: el usufructo no se puede tocar sin el viudo, y la nuda propiedad de cada hijo no se puede tocar sin ese hijo. Quien quiera moverse tiene que mover lo suyo."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Si eres uno de los hijos y quieres vender tu cuota de nuda propiedad, te pedimos el testamento, la escritura de herencia si existe, la nota simple y la edad del usufructuario. El valor de tu nuda propiedad es el valor de la casa menos el usufructo, multiplicado por tu cuota. Sobre esa cifra aplicamos un factor que depende sobre todo de la edad del viudo, porque marca cuánto tiempo tardará el comprador en consolidar el pleno dominio.",
+     "Con la casa del ejemplo, 200.000 euros, madre de 75 años y tres hijos: nuda propiedad total 172.000, tu tercio 57.333. Factor en torno al 0,45 por la espera: oferta orientativa de 25.000 euros, por escrito en 48 horas, firma en dos a cuatro semanas y cobro al contado. Tu madre sigue en su casa exactamente igual, con los mismos derechos, y tus hermanos no tienen que firmar nada. Solo se les notifica por si quieren ejercer el retracto.",
+     "Si toda la familia quiere vender el pleno dominio pero necesita que alguien compre rápido y sin visitas, también estudiamos la compra completa."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Precio por tu nuda propiedad en 48 horas",
+     "p": "Tu madre o tu padre siguen en casa. Tú cobras tu parte ahora, sin esperar y sin discutir con nadie.",
+     "cta": "Pedir precio por mi nuda propiedad"
+    }
+   },
+   {
+    "overline": "Fiscalidad",
+    "h2": "Impuestos a tener en cuenta",
+    "type": "list",
+    "items": [
+     "<strong>Impuesto de sucesiones al heredar.</strong> El viudo tributa por el valor del usufructo y los hijos por la nuda propiedad. Cuando se extinga el usufructo, los hijos liquidarán por la consolidación con las reglas vigentes al fallecimiento del primer causante.",
+     "<strong>IRPF al vender la nuda propiedad.</strong> Ganancia entre el valor declarado en la herencia y el precio de venta, si la hay. Si vendes por debajo del valor de herencia, no hay ganancia.",
+     "<strong>Plusvalía municipal.</strong> Se devenga si el valor del suelo ha subido desde la herencia. En herencias recientes es frecuente que no haya incremento.",
+     "<strong>Renuncia del viudo al usufructo.</strong> Si renuncia a favor de los hijos, estos tributan en donaciones por el valor del usufructo en ese momento. En algunas comunidades está muy bonificado y en otras no. Consulta tu caso."
+    ],
+    "outro": [
+     "Todo lo anterior es orientativo y cambia según comunidad autónoma. Antes de firmar te damos un desglose de lo que te corresponde pagar para que la oferta sea un neto real."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede el viudo con usufructo universal vender la casa?",
+    "No. Solo puede vender su derecho de usufructo, que se extingue con su muerte. Para vender la casa en pleno dominio hace falta la firma del viudo y de todos los hijos nudos propietarios."
+   ],
+   [
+    "¿Pueden los hijos vender su parte si la madre tiene el usufructo?",
+    "Sí. Cada hijo puede vender su cuota de nuda propiedad sin permiso de la madre ni de los hermanos. El comprador respeta el usufructo mientras viva la madre. Nosotros compramos esas cuotas."
+   ],
+   [
+    "¿Qué es la cautela socini?",
+    "Una cláusula del testamento que permite al viudo recibir el usufructo de toda la herencia, más de lo que la ley le da, a cambio de que los hijos lo acepten. Si un hijo se opone, recibe solo su legítima estricta y el resto va al viudo en propiedad."
+   ],
+   [
+    "¿Cuánto vale el usufructo de una viuda de 80 años?",
+    "Orientativamente el 10 % del valor de la casa, que es el mínimo legal. La fórmula es 89 menos la edad, con un máximo del 70 % y un mínimo del 10 %. A los 70 años sería el 19 %; a los 60, el 29 %."
+   ],
+   [
+    "¿Puede la madre obligar a los hijos a vender?",
+    "No. Ni la madre a los hijos ni los hijos a la madre. La venta del pleno dominio es voluntaria para todos. Quien quiera salir puede vender su propio derecho: el usufructo o la cuota de nuda propiedad."
+   ],
+   [
+    "¿Cuánto me dais por mi parte de nuda propiedad?",
+    "Depende del valor de la casa, de tu cuota y de la edad del usufructuario. En una casa de 200.000 euros con usufructuaria de 75 años y tres hijos, la oferta por un tercio de nuda propiedad ronda los 25.000 euros, orientativamente."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el usufructo universal del viudo",
+  "related": [
+   [
+    "Vender nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ],
+   [
+    "Vender parte de casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Qué es una cuota hereditaria",
+    "/blog/que-es-una-cuota-hereditaria/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "Tu nuda propiedad, cobrada hoy",
+  "cta_text": "Compramos cuotas de nuda propiedad con el viudo en la casa. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Usufructo universal del viudo: quién puede vender la casa",
+  "meta_desc": "Usufructo universal del viudo: no puede vender la casa, pero los hijos sí su nuda propiedad. Cautela socini, reparto del precio con ejemplo y oferta.",
+  "focus_kw": "usufructo universal del viudo",
+  "title_corto": "Usufructo universal del viudo"
+ },
+ {
+  "slug": "que-es-una-cuota-hereditaria",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Qué es una cuota hereditaria y cómo se vende sin esperar a la partición",
+  "sub": "La cuota hereditaria es la parte que te corresponde de toda la herencia, expresada en una fracción: un tercio, un cuarto, la mitad. Se puede vender antes de repartir la herencia mediante una cesión de derechos hereditarios en escritura pública. Compramos cuotas hereditarias en toda España, con oferta por escrito en 48 horas.",
+  "checks": [
+   "Explicado con ejemplo numérico",
+   "Cesión de derechos paso a paso",
+   "Compramos cuotas hereditarias"
+  ],
+  "card_title": "¿Tienes una cuota de herencia sin repartir?",
+  "card_text": "Dinos qué hay en la herencia, cuántos herederos sois y tu fracción. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es una cuota hereditaria",
+    "type": "text",
+    "intro": [
+     "La cuota hereditaria es la proporción de la herencia que corresponde a cada heredero. Viene fijada por el testamento, por ejemplo \"instituyo herederos a mis tres hijos por partes iguales\", o por la ley cuando no hay testamento, en la declaración de herederos abintestato. Se expresa como fracción: un tercio, un medio, una quinta parte.",
+     "La cuota recae sobre el conjunto, no sobre cada bien. Si la herencia tiene un piso, una cuenta corriente, un coche y una deuda, tu tercio es un tercio del resultado de sumar todo y restar las deudas, no un tercio del piso. Solo cuando se hace la partición y el piso se adjudica a los tres herederos, tu cuota hereditaria se convierte en una cuota concreta sobre el inmueble.",
+     "Por eso se habla de cuota hereditaria mientras la herencia está indivisa, y de cuota de proindiviso o cuota indivisa una vez repartida. Son dos cosas distintas con reglas distintas, aunque en la práctica mucha gente las confunde. Tienes la comparativa completa en la entrada sobre comunidad hereditaria y proindiviso."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el valor de una cuota hereditaria",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Suma el activo",
+      "p": "Inmuebles por su valor de mercado o de referencia, saldos bancarios a fecha de fallecimiento, vehículos, participaciones, seguros de vida que entren en la herencia. Todo lo que tenía el fallecido."
+     },
+     {
+      "t": "Resta el pasivo",
+      "p": "Hipotecas, préstamos, deudas con Hacienda o la Seguridad Social, gastos de última enfermedad y entierro. Las deudas se pagan antes de repartir."
+     },
+     {
+      "t": "Aplica los legados",
+      "p": "Si el testamento deja un bien concreto a alguien, un legado, sale de la herencia antes de calcular las cuotas de los herederos."
+     },
+     {
+      "t": "Divide por la fracción",
+      "p": "El resultado es el valor bruto de tu cuota. De ahí saldrán todavía el impuesto de sucesiones, que es personal de cada heredero, y la plusvalía municipal de los inmuebles urbanos."
+     }
+    ],
+    "outro": [
+     "Ejemplo. Herencia de un padre con cuatro hijos. Piso en Málaga de 260.000 euros, cuenta con 22.000, coche de 6.000. Hipoteca pendiente de 38.000 y gastos de entierro de 5.000. Activo 288.000, pasivo 43.000, herencia neta 245.000. Cuota hereditaria de cada hijo: 61.250 euros brutos, antes de impuestos.",
+     "Fíjate en que ninguno de los cuatro tiene todavía 65.000 euros del piso ni 5.500 de la cuenta. Tienen 61.250 euros de herencia. Qué bien concreto acaba en manos de cada uno se decide en la partición, y hasta entonces la cuota es una proporción sobre el total."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Cómo se vende una cuota hereditaria",
+    "type": "text",
+    "intro": [
+     "La cuota hereditaria se vende mediante la cesión de derechos hereditarios. Es un contrato en escritura pública por el que un heredero transmite a otra persona, coheredero o tercero, su posición en la herencia. El comprador pasa a ocupar su lugar: participa en la partición, recibe lo que le corresponda por esa cuota y responde de las deudas en la misma medida.",
+     "Hace falta haber aceptado la herencia, porque no se puede ceder lo que aún no es tuyo. La aceptación puede hacerse en la misma escritura de cesión. No hace falta que la herencia esté partida, ni que el impuesto de sucesiones esté pagado si se liquida en la operación, ni que los demás herederos estén de acuerdo. Los coherederos tienen un derecho de retracto: pueden subrogarse en la cesión pagando lo mismo, en el plazo de un mes desde que se les notifica, según el artículo 1067 del Código Civil.",
+     "La cesión tributa por ITP para el comprador, sobre el valor de los derechos cedidos. El vendedor declara en el IRPF la diferencia entre el valor por el que recibió la herencia y el precio de venta, si hay ganancia. En herencias recientes vendidas con descuento, lo normal es que no la haya."
+    ]
+   },
+   {
+    "overline": "Precio",
+    "h2": "Cuánto vale una cuota hereditaria en el mercado",
+    "type": "table",
+    "items": [
+     [
+      "Factor",
+      "Efecto en el precio que paga un comprador"
+     ],
+     [
+      "Valor neto de la cuota",
+      "Punto de partida. En el ejemplo, 61.250 euros."
+     ],
+     [
+      "Impuesto de sucesiones pendiente",
+      "Se descuenta si no está pagado. En Andalucía, con las bonificaciones actuales entre padres e hijos, puede ser cero; en otras comunidades, varios miles de euros. Orientativo."
+     ],
+     [
+      "Número de herederos y relación",
+      "Cuatro hermanos que no se hablan: más tiempo hasta la partición, factor más bajo."
+     ],
+     [
+      "Ocupación del piso",
+      "Si un heredero vive en él, el comprador tardará más en convertir la cuota en dinero."
+     ],
+     [
+      "Estado de la documentación",
+      "Testamento, certificado de últimas voluntades e inventario claros: factor más alto. Herencia sin aceptar, con bienes sin localizar: más bajo."
+     ],
+     [
+      "Oferta orientativa sobre 61.250 euros",
+      "Entre el 40 % y el 60 % en cesión de derechos: de 24.500 a 36.750 euros. Si antes se hace la partición y se vende la cuota del piso, la horquilla sube hacia el 60 % o el 70 %."
+     ]
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Primero te diríamos si conviene vender antes o después de partir. Si tus hermanos firman la partición en semanas, te interesa esperar y vender luego tu cuota del piso, que vale más. Si uno bloquea o nadie mueve ficha, te interesa ceder los derechos ahora y que el comprador se ocupe de la partición.",
+     "En el segundo caso pedimos el testamento o la declaración de herederos, el certificado de defunción y de últimas voluntades, el inventario que tengas y la situación del impuesto. Con eso calculamos tu cuota neta y te mandamos una oferta por escrito en 48 horas. Firmamos en notaría en dos a cuatro semanas, con aceptación de herencia y cesión en el mismo acto si hace falta, notificamos a tus coherederos por el retracto de un mes y cobras al contado. Notaría y gestión, a nuestro cargo."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Convierte tu cuota hereditaria en dinero",
+     "p": "Sin esperar a que tus hermanos firmen la partición. Oferta por escrito en 48 horas y sin compromiso.",
+     "cta": "Pedir precio por mi cuota hereditaria"
+    }
+   },
+   {
+    "overline": "Dudas",
+    "h2": "Lo que suele confundir sobre la cuota hereditaria",
+    "type": "list",
+    "items": [
+     "<strong>Cuota hereditaria no es legítima.</strong> La legítima es la parte mínima que la ley reserva a los hijos, dos tercios de la herencia en el Código Civil. La cuota es lo que de hecho te toca según el testamento, que puede ser más que la legítima.",
+     "<strong>Vender la cuota no te libra de las deudas ya reclamadas.</strong> Frente a los acreedores de la herencia, el heredero cedente sigue respondiendo salvo que ellos acepten al cesionario. Entre tú y el comprador, él asume las deudas en la medida de la cuota.",
+     "<strong>No puedes vender solo tu parte del piso de la herencia.</strong> Antes de la partición no tienes cuota sobre el piso. O cedes los derechos sobre toda la herencia o esperas a la adjudicación.",
+     "<strong>El retracto de coherederos dura un mes, no nueve días.</strong> Es el plazo del artículo 1067, distinto del retracto de comuneros del 1522. Cuenta desde la notificación fehaciente.",
+     "<strong>Renunciar no es lo mismo que vender.</strong> La renuncia pura a la herencia es gratuita y acrece a los demás herederos. Si renuncias a cambio de dinero, es una cesión y tributa como tal.",
+     "<strong>La cuota puede cambiar después de aceptar.</strong> Si aparece un testamento posterior, un hijo no reconocido o una deuda desconocida, las cuotas se recalculan. El comprador de derechos hereditarios asume ese riesgo, y por eso paga con descuento."
+    ],
+    "outro": [
+     "Si tras leer esto tienes claro que lo tuyo es una cuota hereditaria y que la partición no va a llegar pronto, pide precio. Si crees que la partición está cerca, espera y vende después tu cuota del inmueble: te lo diremos nosotros mismos si es lo que más te conviene."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué es la cuota hereditaria?",
+    "Es la fracción de la herencia que corresponde a cada heredero según el testamento o la ley: un tercio, un cuarto, la mitad. Recae sobre el conjunto de la herencia, bienes y deudas, no sobre cada bien concreto."
+   ],
+   [
+    "¿Se puede vender una cuota hereditaria antes de repartir la herencia?",
+    "Sí, mediante la cesión de derechos hereditarios en escritura pública, tras aceptar la herencia. Los coherederos tienen retracto durante un mes. Nosotros compramos cuotas hereditarias en toda España."
+   ],
+   [
+    "¿Cuánto vale mi cuota hereditaria?",
+    "El valor neto de la herencia, activo menos deudas y legados, multiplicado por tu fracción, y menos el impuesto de sucesiones pendiente. Un comprador paga entre el 40 % y el 60 % de esa cifra, orientativamente."
+   ],
+   [
+    "¿Qué diferencia hay entre cuota hereditaria y legítima?",
+    "La legítima es el mínimo que la ley reserva a los herederos forzosos. La cuota hereditaria es lo que realmente te asigna el testamento o la ley, que puede coincidir con la legítima o superarla."
+   ],
+   [
+    "¿Necesito el acuerdo de mis hermanos para vender mi cuota hereditaria?",
+    "No. Puedes ceder tus derechos a un tercero sin su consentimiento. Solo tienen derecho a subrogarse en la venta pagando lo mismo, dentro del mes siguiente a la notificación."
+   ],
+   [
+    "¿Qué impuestos pago al vender mi cuota hereditaria?",
+    "IRPF por la ganancia si vendes por más del valor declarado en la herencia, lo que es raro en ventas con descuento. El ITP lo paga el comprador. El impuesto de sucesiones sigue siendo tuyo si no se ha liquidado, y lo descontamos o lo liquidamos en la operación."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la cuota hereditaria",
+  "related": [
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Comunidad hereditaria y proindiviso",
+    "/blog/comunidad-hereditaria-vs-proindiviso/"
+   ],
+   [
+    "Empresas que compran herencias",
+    "/empresas-que-compran-herencias/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Vender parte de casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Tu cuota hereditaria, cobrada en semanas",
+  "cta_text": "Compramos cuotas hereditarias antes de la partición. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Qué es una cuota hereditaria y cómo se vende antes de partir",
+  "meta_desc": "Qué es una cuota hereditaria, cómo se calcula con ejemplo y cómo se vende por cesión de derechos antes de la partición. Compramos tu cuota: oferta en 48 h.",
+  "focus_kw": "cuota hereditaria",
+  "title_corto": "Cuota hereditaria"
+ },
+ {
+  "slug": "vender-casa-con-deudas-o-embargo-mi-parte",
+  "kind": "post",
+  "category": "impuestos-y-tramites",
+  "kicker": "Cargas y deudas",
+  "h1": "Vender tu parte de una casa con deudas o embargo: qué se puede hacer",
+  "sub": "Puedes vender tu parte de una casa con hipoteca, embargo o deudas de IBI y comunidad. Las cargas no impiden la venta: se calculan, se descuentan del precio y se cancelan en la misma firma. Compramos cuotas con cargas en toda España y te decimos el neto que cobrarías en 48 horas.",
+  "checks": [
+   "Hipoteca, embargo, IBI y comunidad",
+   "Cancelación de cargas en la firma",
+   "Precio neto por escrito"
+  ],
+  "card_title": "¿Una casa con deudas y tu nombre en ella?",
+  "card_text": "Mándanos la nota simple o la dirección. Te decimos qué cargas pesan sobre tu parte y cuánto cobrarías limpio.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Sí se puede vender una parte de una casa con deudas o embargo",
+    "type": "text",
+    "intro": [
+     "Una cuota de proindiviso con cargas se vende igual que una sin ellas. El artículo 399 del Código Civil te permite transmitir tu parte, y las cargas que la graven acompañan a la cuota o se cancelan en la venta. Lo que cambia es la aritmética: del precio de tu cuota se resta lo que haga falta para dejarla limpia, y el resto es lo que cobras.",
+     "Hay que distinguir entre cargas que pesan sobre toda la casa, como una hipoteca firmada por todos o una deuda de comunidad, y cargas que pesan solo sobre tu cuota, como un embargo por una deuda tuya. Las primeras se reparten según el porcentaje de cada uno; las segundas son tuyas y se descuentan enteras de tu precio.",
+     "Lo que no se puede hacer es vender como si las cargas no existieran. El notario pide la nota simple el mismo día de la firma y cualquier anotación aparece. Por eso lo primero que hacemos nosotros es un cuadro de cargas: qué hay, a quién afecta y cuánto cuesta cancelarlo."
+    ]
+   },
+   {
+    "overline": "Tipos de carga",
+    "h2": "Qué cargas puede tener tu parte y cómo se resuelve cada una",
+    "type": "table",
+    "items": [
+     [
+      "Carga",
+      "A quién afecta y cómo se trata en la venta de tu cuota"
+     ],
+     [
+      "Hipoteca firmada por todos los copropietarios",
+      "Grava toda la casa. Se descuenta de tu precio la parte proporcional a tu cuota y en la firma se amortiza o el comprador se subroga en tu posición si el banco lo acepta. La hipoteca sigue vigente sobre el resto."
+     ],
+     [
+      "Embargo sobre tu cuota por una deuda tuya",
+      "Solo afecta a tu parte. Se paga la deuda con parte del precio en la propia notaría, se obtiene la carta de pago y se cancela la anotación. Si la deuda supera el valor de tu cuota, hay que negociar una quita con el acreedor."
+     ],
+     [
+      "Embargo sobre toda la casa por una deuda del fallecido",
+      "Es una deuda de la herencia. Se reparte entre los herederos por cuota y se cancela en la partición o en la venta. Si la herencia no está partida, se trata en la cesión de derechos."
+     ],
+     [
+      "IBI atrasado",
+      "El Ayuntamiento puede ir contra cualquier titular por el total, y el inmueble queda afecto al pago. Se liquida lo pendiente en la firma y cada uno responde de su parte."
+     ],
+     [
+      "Deudas con la comunidad de vecinos",
+      "El piso responde de la anualidad en curso y las tres anteriores. El comprador exige certificado de deuda y se retiene del precio lo que corresponda a tu cuota."
+     ],
+     [
+      "Deudas con Hacienda o Seguridad Social anotadas",
+      "Funcionan como un embargo. Se piden las cartas de pago actualizadas y se cancela en la firma. Suelen admitir pago en el acto con mandamiento de cancelación."
+     ],
+     [
+      "Condición resolutoria o afección fiscal",
+      "Son cargas formales que a veces siguen inscritas aunque ya no tengan efecto. Se cancelan por caducidad o con un documento sencillo. No bajan el precio."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: cuota del 50 % con hipoteca y embargo",
+    "type": "text",
+    "intro": [
+     "Casa en Murcia valorada en 170.000 euros. Dos hermanos al 50 %. Hipoteca pendiente de 30.000 euros firmada por los dos. Embargo sobre la cuota de uno de los hermanos por 9.000 euros de un préstamo personal impagado. IBI atrasado de 1.400 euros. Deuda de comunidad de 900 euros.",
+     "Valor proporcional de la cuota del hermano embargado: 85.000 euros. Casa vacía y dos copropietarios: factor 0,60, que da 51.000 euros. De ahí se descuentan 15.000 de hipoteca (su mitad), 9.000 del embargo, 700 de IBI y 450 de comunidad. Neto orientativo: 25.850 euros, que cobra al contado en la notaría, con el embargo cancelado, el IBI y la comunidad al día y su nombre fuera de la hipoteca si el banco acepta la subrogación.",
+     "Sin vender, ese hermano tenía una cuota embargada que el acreedor podía sacar a subasta por mucho menos, una hipoteca que seguía pagando a medias y una deuda de IBI con recargos. Tras la venta, tiene dinero y ninguna deuda ligada a esa casa."
+    ]
+   },
+   {
+    "overline": "Firma",
+    "h2": "Cómo se cancelan las cargas en la notaría",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Nota simple actualizada y certificados de deuda",
+      "p": "Nota del Registro con todas las cargas, certificado del banco con el saldo de la hipoteca, certificado del administrador de la comunidad y consulta de deudas de IBI en el Ayuntamiento."
+     },
+     {
+      "t": "Cuadro de cargas y precio neto",
+      "p": "Con esos datos te damos el precio de tu cuota, el detalle de cada descuento y el neto final por escrito. Sin sorpresas el día de la firma."
+     },
+     {
+      "t": "Contacto con los acreedores",
+      "p": "Pedimos al acreedor del embargo la cantidad exacta para cancelar y, si procede, negociamos una quita. Pedimos al banco la carta de cancelación parcial o la subrogación."
+     },
+     {
+      "t": "Pagos en el acto de la firma",
+      "p": "En la notaría se entregan cheques o transferencias a cada acreedor por su importe y a ti por el neto. El notario incorpora las cartas de pago a la escritura."
+     },
+     {
+      "t": "Cancelación registral",
+      "p": "Con las cartas de pago y los mandamientos judiciales, se cancelan las anotaciones en el Registro. Lo tramitamos nosotros; a ti no te cuesta nada."
+     }
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Lo primero es ver la nota simple. Con ella sabemos qué cargas hay y si son de toda la casa o solo de tu cuota. Después calculamos el valor de mercado y aplicamos el factor según la situación. Te mandamos la oferta por escrito en 48 horas con el cuadro de cargas y el neto que cobrarías, para que puedas decidir con los números delante.",
+     "Si el embargo es por una deuda que está en vía ejecutiva, nos movemos rápido para evitar que se señale subasta de tu cuota: hablamos con el acreedor, acordamos el importe de cancelación y firmamos en dos a cuatro semanas. Si la suma de las cargas supera el valor de tu cuota, te lo decimos con claridad y vemos si una quita hace viable la venta. Los gastos de notaría, gestión y cancelaciones registrales van a nuestro cargo."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Averigua cuánto cobrarías limpio",
+     "p": "Mándanos la nota simple o la dirección. En 48 horas tienes el cuadro de cargas y el precio neto por escrito.",
+     "cta": "Pedir precio neto por mi parte"
+    }
+   },
+   {
+    "overline": "Casos especiales",
+    "h2": "Situaciones que requieren más cuidado",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Ya hay fecha de subasta de tu cuota",
+      "p": "Todavía se puede vender hasta que se celebre, pagando al acreedor con el precio. Hay que actuar en días, no en semanas. Llámanos cuanto antes.",
+      "url": "/blog/embargo-de-una-cuota-de-proindiviso/",
+      "cta": "Embargo de una cuota →"
+     },
+     {
+      "t": "La hipoteca está impagada",
+      "p": "Si el banco ha iniciado ejecución sobre toda la casa, la venta de tu cuota tiene que incluir la regularización de la deuda o un acuerdo con el banco. Estudiamos cada caso con la entidad.",
+      "url": "/vender-proindiviso-con-hipoteca/",
+      "cta": "Vender con hipoteca →"
+     },
+     {
+      "t": "Las deudas son del otro copropietario",
+      "p": "Un embargo sobre su cuota no afecta a la tuya. Vendes tu parte limpia y el comprador convive con el embargo del otro. Tu precio no baja por sus deudas."
+     },
+     {
+      "t": "Deudas de la herencia sin partir",
+      "p": "Antes de vender tu cuota hay que saber si la herencia tiene más deudas que bienes. Se puede aceptar a beneficio de inventario para no responder con tu patrimonio. Lo vemos antes de ofertar."
+     }
+    ]
+   },
+   {
+    "overline": "Cierre",
+    "h2": "Lo que conviene tener claro antes de empezar",
+    "type": "list",
+    "items": [
+     "<strong>El precio neto es el que importa.</strong> Una oferta más alta con cargas sin calcular puede acabar en menos dinero que una oferta neta clara.",
+     "<strong>Las cargas no se esconden.</strong> Aparecen en la nota simple el día de la firma. Mejor tenerlas en el cuadro desde el principio.",
+     "<strong>El tiempo juega en contra con un embargo.</strong> Cada mes suma intereses y costas, y acerca la subasta. Cuanto antes se cierre, más cobras.",
+     "<strong>Vender tu cuota no te libra de deudas que no estén ligadas a ella.</strong> Un préstamo personal sin embargo anotado sigue siendo tuyo. Lo que se cancela es lo que grava la cuota.",
+     "<strong>Puedes comparar.</strong> Nuestra oferta es por escrito, sin exclusividad ni compromiso. Tienes la horquilla general en la página sobre cuánto pagan por un proindiviso."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender la parte de una casa que tiene un embargo?",
+    "Sí. El embargo se cancela en la misma firma pagando al acreedor con parte del precio. Si el embargo es sobre la cuota de otro copropietario, no afecta a la tuya."
+   ],
+   [
+    "¿Qué pasa con la hipoteca si vendo mi parte de la casa?",
+    "Se descuenta de tu precio la parte proporcional de la deuda pendiente y en la notaría se amortiza o el comprador se subroga en tu lugar, siempre que el banco lo acepte. El objetivo es que tu nombre salga del préstamo."
+   ],
+   [
+    "¿Quién paga el IBI atrasado al vender mi parte?",
+    "Lo pendiente se liquida en la firma y se descuenta de quien lo deba según su cuota. El Ayuntamiento puede reclamar el total a cualquier titular, por eso conviene dejarlo a cero antes de transmitir."
+   ],
+   [
+    "¿Puedo vender mi parte si las deudas superan lo que vale?",
+    "Solo si el acreedor acepta una quita o si tú aportas la diferencia. Lo estudiamos con el acreedor antes de hacerte la oferta y te decimos con claridad si es viable."
+   ],
+   [
+    "¿Cuánto tardan en cancelar un embargo tras la venta?",
+    "El pago se hace el día de la firma y la cancelación registral tarda entre dos y ocho semanas, según el juzgado o la administración que emita el mandamiento. Lo tramitamos nosotros."
+   ],
+   [
+    "¿Me podéis dar precio sin tener la nota simple?",
+    "Podemos darte una horquilla con la dirección, pero el precio neto exige ver las cargas. La nota simple cuesta unos euros y la pedimos nosotros si nos autorizas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender tu parte de una casa con deudas o embargo",
+  "related": [
+   [
+    "Embargo de una cuota de proindiviso",
+    "/blog/embargo-de-una-cuota-de-proindiviso/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Extinción de condominio: impuestos y notario",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ]
+  ],
+  "cta_title": "Deudas canceladas y dinero en tu cuenta el mismo día",
+  "cta_text": "Compramos tu parte con hipoteca, embargo o deudas. Precio neto por escrito en 48 horas, cancelación de cargas en la firma y cobro al contado. Gastos a nuestro cargo.",
+  "yoast_title": "Vender tu parte de una casa con deudas o embargo: guía",
+  "meta_desc": "Vender tu parte de una casa con deudas o embargo es posible: hipoteca, IBI, comunidad y embargos se cancelan en la firma. Ejemplo con cifras y precio neto.",
+  "focus_kw": "vender casa con deudas",
+  "title_corto": "Casa con deudas o embargo"
+ },
+ {
+  "slug": "multipropiedad-como-vender",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Multipropiedad",
+  "h1": "Multipropiedad o aprovechamiento por turno: cómo salir y qué compramos (y qué no)",
+  "sub": "La multipropiedad no es un proindiviso: es un derecho a usar un apartamento turístico una semana al año, regulado por la Ley 4/2012. No compramos semanas de multipropiedad. Sí compramos cuotas indivisas reales sobre apartamentos, incluidas las antiguas multipropiedades inscritas como copropiedad. Te explicamos cómo distinguirlas y cómo salir de cada una.",
+  "checks": [
+   "Ley 4/2012 explicada",
+   "Diferencias con el proindiviso",
+   "Claridad sobre qué compramos"
+  ],
+  "card_title": "¿Multipropiedad o cuota indivisa? Lo comprobamos",
+  "card_text": "Mándanos la escritura o el contrato. Te decimos qué tienes exactamente y si podemos comprarlo. Respuesta en 48 horas.",
+  "sections": [
+   {
+    "overline": "Primero, qué tienes",
+    "h2": "Multipropiedad y proindiviso no son lo mismo",
+    "type": "text",
+    "intro": [
+     "Cuando alguien dice \"vendo multipropiedad\" suele referirse a un derecho de aprovechamiento por turno: la facultad de ocupar un apartamento en un complejo turístico durante una semana concreta cada año, a cambio de una cuota anual de mantenimiento. Hoy lo regula la Ley 4/2012, de contratos de aprovechamiento por turno de bienes de uso turístico. Antes lo reguló la Ley 42/1998, y antes de esa no había ley específica y se usaban fórmulas de copropiedad.",
+     "Un proindiviso es otra cosa: una cuota de propiedad sobre un inmueble, inscrita en el Registro a tu nombre, que te hace dueño de un porcentaje del piso, de la casa o del apartamento. Puedes venderla, hipotecarla, heredarla y pedir la división. Los demás copropietarios tienen retracto. Es lo que compramos.",
+     "La confusión viene de que las primeras multipropiedades de los años ochenta y noventa se montaron precisamente como proindivisos: cada comprador adquiría una cuota indivisa del apartamento, por ejemplo 1/52, con un pacto de uso por turnos. Esas sí son copropiedad, y esas sí las estudiamos. Por eso lo primero es leer tu escritura o tu contrato."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Cómo saber qué tienes: aprovechamiento por turno frente a cuota indivisa",
+    "type": "table",
+    "items": [
+     [
+      "Pregunta",
+      "Aprovechamiento por turno (Ley 4/2012 o Ley 42/1998) frente a cuota indivisa (proindiviso)"
+     ],
+     [
+      "Qué dice el documento",
+      "Turno: contrato o escritura de \"derecho de aprovechamiento por turno\", \"semana\", \"turno\", \"club\", \"trust\" o \"certificado de socio\". Cuota: escritura de compraventa de una \"participación indivisa\" de un apartamento, con porcentaje o fracción."
+     ],
+     [
+      "Dónde está inscrito",
+      "Turno: en el Registro como derecho real limitado sobre el régimen del complejo, o no inscrito si es sistema de club o fiducia extranjera. Cuota: como titular de un porcentaje de la finca, en la nota simple del apartamento."
+     ],
+     [
+      "Duración",
+      "Turno: de 1 a 50 años según la Ley 4/2012; los contratos indefinidos posteriores a 1999 han sido declarados nulos por la doctrina del Tribunal Supremo. Cuota: perpetua, como cualquier propiedad."
+     ],
+     [
+      "Qué pagas cada año",
+      "Turno: cuota de mantenimiento a la empresa explotadora, revisable. Cuota: tu parte de IBI, comunidad y gastos, según el artículo 393 del Código Civil."
+     ],
+     [
+      "Qué puedes vender",
+      "Turno: el derecho de uso, con un mercado de reventa casi inexistente y precios que rondan cero. Cuota: tu porcentaje de propiedad, con un mercado profesional que paga entre el 40 % y el 70 % de su valor proporcional."
+     ],
+     [
+      "Puedes pedir la división",
+      "Turno: no. Cuota: sí, según el artículo 400 del Código Civil, aunque un pacto de uso por turnos puede limitarla temporalmente."
+     ],
+     [
+      "Lo compramos",
+      "Turno: no. Cuota: sí, tras estudiar la escritura y el régimen de uso."
+     ]
+    ]
+   },
+   {
+    "overline": "Salir del turno",
+    "h2": "Cómo salir de una multipropiedad de aprovechamiento por turno",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Revisar si el contrato es nulo",
+      "p": "Contratos firmados tras la entrada en vigor de la Ley 42/1998 con duración indefinida, sin identificar el apartamento o con pagos anticipados prohibidos pueden ser nulos según la doctrina reiterada del Tribunal Supremo. La nulidad permite reclamar lo pagado, con límites temporales. Necesitas un abogado especializado."
+     },
+     {
+      "t": "Renunciar al derecho",
+      "p": "Algunas explotadoras aceptan la renuncia a cambio de estar al corriente de cuotas y a veces de una cantidad. Es la salida más rápida cuando el contrato es válido y no hay nulidad que alegar."
+     },
+     {
+      "t": "Devolverlo o venderlo por un euro",
+      "p": "Hay mercados de segunda mano donde las semanas se ceden sin precio solo para dejar de pagar mantenimiento. Cuidado con las empresas que piden dinero por adelantado para revender: es una estafa habitual."
+     },
+     {
+      "t": "Dejar de pagar",
+      "p": "No es una salida: la explotadora reclama las cuotas y puede acabar en embargo. Antes de dejar de pagar, consulta con un abogado la vía de nulidad o resolución."
+     }
+    ],
+    "outro": [
+     "Ninguna de estas vías es la nuestra. No compramos derechos de aprovechamiento por turno ni semanas de club. Si tu documento encaja en esta descripción, te lo diremos en la primera respuesta para que no pierdas tiempo con nosotros."
+    ]
+   },
+   {
+    "overline": "Lo que sí compramos",
+    "h2": "Cuotas indivisas de apartamentos turísticos: qué compramos y a qué precio",
+    "type": "text",
+    "intro": [
+     "Compramos cuotas indivisas de apartamentos y casas en zonas turísticas cuando la cuota está inscrita a tu nombre como porcentaje de la finca. Los casos habituales son tres. El apartamento de la playa heredado entre hermanos. El apartamento comprado a medias con otra familia o con la expareja. Y las antiguas multipropiedades estructuradas como copropiedad, en las que tienes, por ejemplo, 1/26 del apartamento con derecho a dos semanas de uso.",
+     "En los dos primeros casos la cuota se valora como cualquier proindiviso: valor de mercado del apartamento, tu porcentaje y un factor del 40 % al 70 %. Apartamento en Benidorm de 150.000 euros heredado por tres hermanos: tu tercio vale 50.000 proporcionales y la oferta orientativa va de 22.000 a 32.000 euros según uso y cargas.",
+     "En el tercer caso, la cuota es muy pequeña y el régimen de uso la limita. Compramos si el complejo funciona, las cuotas de comunidad están al día y hay viabilidad de agrupar participaciones. Con 1/26 de un apartamento de 130.000 euros, la cuota vale 5.000 euros proporcionales y la oferta se mueve entre 1.500 y 2.500 euros. No es mucho, pero es dinero en lugar de una cuota anual de mantenimiento de por vida."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Nos mandas la escritura o el contrato y, si la tienes, la nota simple del apartamento. En 48 horas te decimos una de dos cosas. O que lo tuyo es un derecho de aprovechamiento por turno y no podemos comprarlo, en cuyo caso te orientamos sobre la vía de nulidad o renuncia sin cobrarte nada. O que tienes una cuota indivisa real, y entonces te hacemos una oferta por escrito con precio, plazo y gastos.",
+     "Si es cuota y aceptas, firmamos en notaría en dos a cuatro semanas, notificamos a los demás copropietarios para el retracto y cobras al contado. Los gastos de notaría y gestión son nuestros, lo que en cuotas pequeñas de apartamentos turísticos es una parte importante de la operación."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te decimos en 48 horas si lo tuyo se puede vender",
+     "p": "Escritura o contrato y te respondemos con claridad: qué tienes, si lo compramos y por cuánto. Sin compromiso.",
+     "cta": "Comprobar mi multipropiedad"
+    }
+   },
+   {
+    "overline": "Antes de firmar nada",
+    "h2": "Señales de alarma en el mercado de multipropiedad",
+    "type": "list",
+    "items": [
+     "<strong>Te piden dinero por adelantado para vender tu semana.</strong> Tasas de gestión, de publicación, de notaría anticipada. Es el fraude más frecuente del sector. Un comprador serio no te cobra nada.",
+     "<strong>Te prometen un comprador que ya existe.</strong> Llamadas en las que alguien tiene un cliente interesado en tu semana y solo falta que pagues un depósito. No existe.",
+     "<strong>Te ofrecen cambiar tu semana por puntos o por otro complejo.</strong> Suele ser un nuevo contrato con nuevas cuotas, no una salida.",
+     "<strong>Te dicen que una cuota indivisa de apartamento es multipropiedad y no vale nada.</strong> Si tu escritura dice participación indivisa inscrita, es propiedad y tiene precio. Pídenos oferta.",
+     "<strong>Te aseguran una nulidad sin leer el contrato.</strong> La nulidad depende de la fecha, la duración y las cláusulas concretas. Desconfía de quien la garantiza antes de verlas."
+    ],
+    "outro": [
+     "Si tras leer esto sigues sin saber qué tienes, es normal: los contratos de los años noventa mezclan conceptos a propósito. Mándanos el documento y te lo decimos. En nuestra página sobre qué es un proindiviso tienes la definición completa de lo que sí compramos."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿La multipropiedad es un proindiviso?",
+    "No en la mayoría de los casos. La multipropiedad actual es un derecho de aprovechamiento por turno regulado por la Ley 4/2012, no una cuota de propiedad. Solo las antiguas multipropiedades estructuradas como participaciones indivisas inscritas son copropiedad."
+   ],
+   [
+    "¿Compráis semanas de multipropiedad?",
+    "No. No compramos derechos de aprovechamiento por turno ni participaciones en clubes o trusts. Sí compramos cuotas indivisas reales sobre apartamentos turísticos, incluidas las antiguas multipropiedades inscritas como copropiedad."
+   ],
+   [
+    "¿Cómo puedo salir de una multipropiedad que no uso?",
+    "Revisa con un abogado si el contrato es nulo por duración indefinida o por otras causas que ha fijado el Tribunal Supremo. Si es válido, negocia la renuncia con la explotadora o cede el derecho sin precio para dejar de pagar mantenimiento."
+   ],
+   [
+    "¿Cuánto vale una semana de multipropiedad?",
+    "En el mercado de reventa, casi nada. Muchas se ceden gratis para dejar de pagar la cuota anual. Si lo que tienes es una cuota indivisa inscrita, sí tiene valor: entre el 40 % y el 70 % de su parte proporcional."
+   ],
+   [
+    "¿Qué dice la Ley 4/2012 sobre la duración?",
+    "Los derechos de aprovechamiento por turno tienen una duración de entre uno y cincuenta años. Los contratos indefinidos firmados bajo la Ley 42/1998 han sido declarados nulos en numerosas ocasiones por el Tribunal Supremo."
+   ],
+   [
+    "¿Cómo sé si mi escritura es de cuota indivisa o de turno?",
+    "Si dice que compras una participación indivisa de un apartamento con un porcentaje o fracción y aparece en la nota simple como titular, es cuota. Si habla de derecho de aprovechamiento por turno, semana, club o certificado, es turno. Te lo confirmamos en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre multipropiedad y aprovechamiento por turno",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Compramos en la Comunidad Valenciana",
+    "/vender-proindiviso/comunidad-valenciana/valencia/"
+   ],
+   [
+    "Compramos en Málaga",
+    "/vender-proindiviso/andalucia/malaga/"
+   ]
+  ],
+  "cta_title": "Si es una cuota indivisa, la compramos",
+  "cta_text": "Comprobamos tu documento en 48 horas. Si es copropiedad, oferta por escrito, firma en notaría y cobro al contado. Si es aprovechamiento por turno, te lo decimos sin rodeos.",
+  "yoast_title": "Multipropiedad: cómo salir y qué compramos (y qué no)",
+  "meta_desc": "Multipropiedad o aprovechamiento por turno (Ley 4/2012) no es un proindiviso. Cómo salir, diferencias con la cuota indivisa y qué compramos. En 48 h.",
+  "focus_kw": "vendo multipropiedad",
+  "title_corto": "Multipropiedad"
+ },
+ {
+  "slug": "preguntas-antes-de-vender-tu-parte",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Preguntas frecuentes",
+  "h1": "Las 20 preguntas que nos hacen antes de vender su parte (con respuestas claras)",
+  "sub": "Precio, plazos, retracto, hipoteca, okupas, gastos, impuestos, documentos, firma a distancia y confidencialidad. Estas son las veinte dudas que nos plantean cada semana quienes quieren vender su parte de un piso, una casa o una herencia, respondidas sin rodeos. Y al final, cómo pedir tu oferta.",
+  "checks": [
+   "Veinte respuestas directas",
+   "Sin letra pequeña",
+   "Oferta por escrito en 48 h"
+  ],
+  "card_title": "¿Tu pregunta no está? Hazla aquí",
+  "card_text": "Cuéntanos tu caso en dos líneas. Te respondemos con una oferta por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Precio",
+    "h2": "Sobre el precio: cuánto, por qué y cómo se calcula",
+    "type": "list",
+    "intro": [
+     "Las cuatro primeras preguntas son siempre sobre dinero. Es lógico. Aquí van las respuestas con los números que usamos nosotros."
+    ],
+    "items": [
+     "<strong>1. ¿Cuánto me dais por mi parte?</strong> Entre el 40 % y el 70 % del valor proporcional de tu cuota. Si el inmueble vale 150.000 euros y tienes el 50 %, tu cuota vale 75.000 y la oferta se mueve entre 30.000 y 52.500 euros, según ocupación, cargas, ciudad y número de copropietarios.",
+     "<strong>2. ¿Por qué no pagáis el 100 %?</strong> Porque compramos un porcentaje, no un piso. No podemos entrar a vivir, alquilar sin mayoría ni vender el inmueble entero sin acuerdo o juicio. Asumimos ese tiempo y ese riesgo, y el descuento lo refleja.",
+     "<strong>3. ¿Cómo sabéis lo que vale el inmueble?</strong> Con ventas cerradas en la zona, la nota simple, el Catastro y, si hace falta, una visita. No usamos el valor catastral porque está por debajo del mercado.",
+     "<strong>4. ¿La oferta es negociable?</strong> Es nuestra mejor cifra con los datos que tenemos. Si aportas algo que la cambie, como una tasación reciente, que el ocupante va a salir o que las cargas son menores, la revisamos. No jugamos a ofrecer bajo para subir luego."
+    ]
+   },
+   {
+    "overline": "Plazos y proceso",
+    "h2": "Sobre los plazos: cuánto tarda cada paso",
+    "type": "list",
+    "items": [
+     "<strong>5. ¿Cuánto tardáis en darme precio?</strong> 48 horas desde que tenemos la dirección, tu porcentaje y la situación del inmueble. La oferta llega por escrito, con validez de varias semanas.",
+     "<strong>6. ¿Cuánto tarda la firma?</strong> De dos a cuatro semanas desde que aceptas, según lo que tarde la documentación. Si la herencia está sin escriturar o hay cargas que cancelar, puede alargarse unas semanas más; te lo decimos antes.",
+     "<strong>7. ¿Cuándo cobro?</strong> En la notaría, en el momento de la firma, mediante cheque bancario o transferencia inmediata. No hay pagos aplazados ni retenciones salvo las que marque la ley para cancelar una carga concreta.",
+     "<strong>8. ¿Tengo que firmar alguna exclusividad?</strong> No. Ni exclusividad ni reserva ni compromiso. Puedes comparar nuestra oferta con otras y decidir. Solo firmas en la notaría, el día que cobras."
+    ]
+   },
+   {
+    "overline": "Legal",
+    "h2": "Sobre los demás copropietarios, el retracto, la hipoteca y los ocupantes",
+    "type": "list",
+    "items": [
+     "<strong>9. ¿Necesito el permiso de mis hermanos o de mi ex?</strong> No. El artículo 399 del Código Civil te permite vender tu cuota sin consentimiento de nadie. Tienes la explicación completa en la página sobre vender un proindiviso sin avisar.",
+     "<strong>10. ¿Qué es el retracto y cómo me afecta?</strong> Los demás copropietarios pueden quedarse tu cuota pagando el mismo precio en nueve días desde que conocen la venta, según el artículo 1522. En herencias sin partir, un mes según el artículo 1067. Si lo ejercen, cobras lo mismo de ellos. Si no, la venta es firme.",
+     "<strong>11. ¿Y si hay hipoteca?</strong> Se descuenta tu parte de la deuda y en la firma se amortiza o nos subrogamos si el banco lo acepta. El objetivo es que tu nombre salga del préstamo. Está detallado en la página sobre vender un proindiviso con hipoteca.",
+     "<strong>12. ¿Compráis si vive alguien en el piso, un hermano, un inquilino o un okupa?</strong> Sí. El precio baja según el caso, pero compramos y nos ocupamos nosotros de la situación después de la firma. Tú no tienes que echar a nadie ni ganar ningún pleito antes."
+    ]
+   },
+   {
+    "overline": "Gastos e impuestos",
+    "h2": "Sobre lo que cuesta vender y lo que se paga a Hacienda",
+    "type": "list",
+    "items": [
+     "<strong>13. ¿Qué gastos tengo?</strong> Ninguno de notaría ni de gestión: van a nuestro cargo. El ITP de la compra también lo pagamos nosotros. Si hace falta escriturar una herencia pendiente para poder vender, lo hablamos y normalmente lo asumimos en la operación.",
+     "<strong>14. ¿Qué impuestos pago yo?</strong> IRPF por la ganancia patrimonial si vendes por más de lo que te costó o del valor por el que heredaste, lo que es poco habitual al vender con descuento. Y plusvalía municipal si el valor del suelo ha subido desde que adquiriste la cuota. Te damos un desglose orientativo antes de firmar.",
+     "<strong>15. ¿Qué pasa con el IBI y la comunidad pendientes?</strong> Se liquidan en la firma. Lo que debas se descuenta de tu precio; lo que hayas adelantado por los demás sigue siendo un crédito tuyo que puedes reclamar o cedernos.",
+     "<strong>16. ¿Es mejor hacer una extinción de condominio?</strong> Si otro copropietario quiere quedarse el 100 % y tiene el dinero, sí: cobrarás más y él pagará menos impuestos. Si no quiere, no puede o no se decide, vender tu cuota es la vía que no depende de él."
+    ]
+   },
+   {
+    "overline": "Documentos y trámite",
+    "h2": "Sobre documentos, firma a distancia y confidencialidad",
+    "type": "list",
+    "items": [
+     "<strong>17. ¿Qué documentos necesito?</strong> DNI, escritura o nota simple de tu cuota, último recibo de IBI y, si viene de herencia, testamento o declaración de herederos y liquidación del impuesto de sucesiones. Si te falta algo, lo pedimos nosotros con tu autorización.",
+     "<strong>18. ¿Puedo firmar sin desplazarme?</strong> Sí. Con un poder notarial otorgado en la notaría más cercana a tu casa, o en el consulado si vives fuera de España, firmamos por ti en la notaría donde esté el inmueble. También podemos firmar en tu ciudad y tramitar después la inscripción.",
+     "<strong>19. ¿Se van a enterar los demás copropietarios antes de que firme?</strong> No. Hasta la firma no contactamos con nadie. Después se les notifica la venta para el retracto, porque la ley lo exige. La oferta y las conversaciones previas son confidenciales.",
+     "<strong>20. ¿Y si al final no quiero vender?</strong> No pasa nada. No hay compromiso hasta la escritura. Muchas personas piden la oferta para saber cuánto vale su parte y negociar con su familia. Si vuelves más adelante, la actualizamos."
+    ]
+   },
+   {
+    "overline": "Tu caso",
+    "h2": "Qué haríamos nosotros en tu caso",
+    "intro": [
+     "Un caso para unir las veinte respuestas. Piso en Sevilla de 150.000 euros, tres hermanos, uno vive en él y no paga nada, IBI de dos años pendiente de 900 euros, herencia escriturada. Tu tercio vale 50.000 euros proporcionales. Ocupación por un hermano y tres copropietarios: factor 0,45, que da 22.500 euros. Menos 300 euros de tu parte del IBI: oferta neta orientativa de 22.200 euros.",
+     "Te la mandamos por escrito en 48 horas. Si aceptas, pedimos la nota simple y la escritura de herencia, preparamos la compraventa y firmamos en tres semanas en una notaría de Sevilla o por poder desde donde vivas. Cobras 22.200 euros ese día. Al día siguiente notificamos a tus hermanos; tienen nueve días para igualar. Si lo hacen, cobras lo mismo de ellos. Si no, el hermano que vive en el piso pasa a tratar con nosotros."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Tu pregunta número 21 tiene respuesta",
+     "p": "Cuéntanos tu situación en dos líneas. En 48 horas tienes una oferta por escrito y la respuesta a lo que te preocupe.",
+     "cta": "Pedir mi oferta por escrito"
+    }
+   },
+   {
+    "overline": "Cierre",
+    "h2": "Lo que no te vamos a decir",
+    "type": "text",
+    "intro": [
+     "No te vamos a decir que pagamos el valor de mercado, porque nadie paga eso por una cuota. No te vamos a enseñar testimonios de clientes felices ni cifras de operaciones que no puedas comprobar. No te vamos a presionar con que la oferta caduca mañana. Y no te vamos a poner en contacto con nadie: compramos nosotros, con fondos propios, y firmamos nosotros.",
+     "Lo que sí: una cifra por escrito, un plazo concreto, los gastos a nuestro cargo y la libertad de decir que no. Si eso te sirve, pide tu oferta. Si quieres leer más antes, en la página sobre opiniones de empresas que compran proindivisos explicamos cómo comparar ofertas y qué preguntar a cualquier comprador, incluidos nosotros."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo pedir una oferta solo para saber cuánto vale mi parte?",
+    "Sí. La oferta es gratuita y sin compromiso. Muchas personas la usan como referencia para negociar con sus hermanos o con su expareja antes de decidir."
+   ],
+   [
+    "¿Compráis en cualquier ciudad de España?",
+    "Sí, en cualquier provincia y municipio, de Madrid a un pueblo de 500 habitantes. El precio cambia con la liquidez de la zona, pero compramos en toda España."
+   ],
+   [
+    "¿Compráis cuotas muy pequeñas, como un 10 % o un 5 %?",
+    "Sí, siempre que el valor proporcional justifique la operación. En cuotas muy pequeñas te decimos con claridad la cifra y si compensa, antes de que pierdas tiempo."
+   ],
+   [
+    "¿Qué pasa si la herencia no está escriturada?",
+    "Se puede escriturar la herencia y vender la cuota en la misma notaría, o vender los derechos hereditarios antes de partir. Te decimos qué vía es mejor en tu caso y nos encargamos del papeleo."
+   ],
+   [
+    "¿Tengo que pagar algo si al final no vendo?",
+    "Nada. No hay honorarios, tasaciones ni reservas. Si decides no firmar, no debes nada."
+   ],
+   [
+    "¿Puedo vender solo una parte de mi cuota?",
+    "Sí. Puedes vender la mitad de tu 50 %, por ejemplo, y conservar el resto. Es poco habitual, pero legalmente posible y lo estudiamos si tiene sentido en tu caso."
+   ]
+  ],
+  "faq_title": "Seis preguntas más que también nos hacen",
+  "related": [
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Vender proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ],
+   [
+    "Opiniones de empresas que compran proindivisos",
+    "/opiniones-empresas-que-compran-proindivisos/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Contacto",
+    "/contacto/"
+   ]
+  ],
+  "cta_title": "Todas las respuestas, y la oferta, en 48 horas",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito, firma en notaría en dos a cuatro semanas, cobro al contado y gastos a nuestro cargo. Sin exclusividad.",
+  "yoast_title": "20 preguntas antes de vender tu parte, con respuestas claras",
+  "meta_desc": "Las 20 preguntas que nos hacen antes de vender su parte de un piso o herencia: precio, plazos, retracto, hipoteca, okupas, impuestos y firma a distancia.",
+  "focus_kw": "preguntas antes de vender tu parte",
+  "title_corto": "20 preguntas antes de vender"
+ }
+]

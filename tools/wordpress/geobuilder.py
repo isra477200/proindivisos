@@ -15,7 +15,7 @@ def api(method,path,body=None):
     except Exception: return {'_raw':out[:300]}
 def load_places():
     P=[]
-    for f in sorted(glob.glob(os.path.join(HERE,'geo','geo_[A-D].json'))): P+=json.load(open(f))
+    for f in sorted(glob.glob(os.path.join(HERE,'geo','geo_[A-F].json'))): P+=json.load(open(f))
     by={p['slug']:p for p in P}
     for p in P:
         p['hijos']=[q for q in P if q.get('padre')==p['slug']]
