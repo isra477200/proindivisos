@@ -92,3 +92,11 @@ Con 1-4 arranco; 5-8 se añaden después en ajustes sin tocar nada.
 - Enlazado: menú y pie v4 (4 columnas + comunidades), bloque "Guías" en la home, related de las páginas de intención apuntando a páginas y entradas nuevas.
 - Incidencia resuelta: LiteSpeed/CDN de Hostinger servía en `/` una copia antigua de la instalación por defecto ("Hello world"). Snippet global con `X-LiteSpeed-Cache-Control: no-cache` + purga y `Cache-Control: no-cache` para HTML. Conviene purgar el CDN desde hPanel una vez.
 - QA automático: 43 URL nuevas, 0 problemas (200, FAQPage, extensión). Total publicado: 183 URL indexables.
+
+## Incidencia de CSS de Elementor y revisión responsive (23/10/2026, noche)
+
+- Síntoma: home y páginas principales sin estilos (bloques azules, columnas rotas) en escritorio y móvil.
+- Causa: al recomponer documentos ya publicados con el MCP (build-composition + publish-document), el HTML publicado llevaba clases de estilo nuevas y el CSS local (`uploads/elementor/css/local-{id}-*.css`) seguía con las antiguas. Limpiar la caché de Elementor no bastaba.
+- Solución: regrabar cada documento con la API de Elementor (`$doc->save()` en `tools/wordpress/resave_all.php`, por lotes de 45 vía snippet de un solo uso) y comprobar con `tools/wordpress/cssqa.sh` (ratio de clases de estilo del HTML presentes en el CSS). Regla nueva: tras cualquier recomposición masiva, ejecutar el regrabado y la QA.
+- Responsive: scroll horizontal (menú desplegable y barra fija), preguntas del acordeón en columna estrecha (icono con 200 px) y botones de llamada sin número con texto ilegible. Arreglado en el snippet CSS global: `overflow-x:hidden`, flex del título del acordeón, icono a 22 px y ocultar botones sin `href` (aparecen solos cuando Isra ponga teléfono y WhatsApp).
+- SEO técnico añadido: schema Service enlazado a la Organization de Yoast, nombre de organización y logo corregidos, imagen OG por defecto, /gracias/ en noindex, archivos de categoría/autor/fecha redirigidos a /blog/.
