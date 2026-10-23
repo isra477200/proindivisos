@@ -6,6 +6,25 @@ Fecha: 23/10/2026 · Repo: `isra477200/isra` · Rama: `claude/proindivisos-resea
 
 ---
 
+## ✅ Decisiones tomadas por Isra (23/10/2026)
+
+| # | Decisión | Resultado |
+|---|---|---|
+| 1 | Nombre y dominio | **zonaproindiviso.com** (a 23/10 sin registro DNS ni RDAP: parece libre, registrar cuanto antes). |
+| 2 | Titular legal | **Israel Domingo Gaitán** (persona física). |
+| 3 | Destino de los leads | Sin decidir. La web los guarda en su propio backend y el reparto se configura después. |
+| 4 | Registro de leads | **En el propio backend de la web** (WordPress, tipo de contenido "Leads"). |
+| 5 | Clientes de proindivisos | **No se les informa.** |
+| 6 | Stack | **WordPress** (Isra lo instala). Sin Cloudflare de pago. Sustituye a Astro + Cloudflare Pages de §8. |
+| 7 | Imágenes | **MiniMax**, excepción de este proyecto. La norma OpenRouter del Contexto Maestro no cambia. |
+| 8 | Hub extinción de condominio | Sí, pero orientado a captar, no a informar: cada página del hub empuja a "vende tu parte". Las keywords transaccionales de las campañas mandan en la estructura. |
+| 9 | Rama `main` | Creada el 23/10 desde el mismo commit; la rama de trabajo abre PR contra ella. |
+| 10 | WordPress | Isra lo monta cuando se le pida (ver docs/PLAN-WORDPRESS.md, sección "Qué necesito de Isra"). |
+
+Donde este documento diga Astro/Cloudflare, prevalece **WordPress** según `docs/PLAN-WORDPRESS.md`. La arquitectura definitiva está en `docs/ARQUITECTURA-URLS.md`.
+
+---
+
 ## 0. Qué cambia respecto a la v1
 
 | Punto v1 | Qué faltaba o qué se mejora |
@@ -112,7 +131,9 @@ WhatsApp: enlace `wa.me` con mensaje prerrellenado que incluye la página y la c
 
 ## 8. Stack técnico
 
-**Recomendación:** sitio estático generado (Astro) + contenido y configuración en este repo de GitHub + despliegue automático en Cloudflare Pages (gratis, CDN global, HTTPS).
+> **Superado por la decisión 6 (23/10/2026): WordPress.** Se conserva el texto como registro de la alternativa descartada.
+
+**Recomendación inicial:** sitio estático generado (Astro) + contenido y configuración en este repo de GitHub + despliegue automático en Cloudflare Pages (gratis, CDN global, HTTPS).
 
 Motivo: cientos de URLs con Core Web Vitals perfectos sin servidor que mantener; todo el contenido es texto en el repo, así que Claude/ChatGPT lo editan por MCP y cada cambio queda versionado; el teléfono/WhatsApp se inyecta en el HTML en el build (Google lo ve en el código, no en JavaScript).
 
