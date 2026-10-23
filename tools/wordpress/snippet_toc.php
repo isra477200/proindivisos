@@ -57,6 +57,18 @@ add_filter( 'elementor/frontend/the_content', function ( $content ) {
 	}
 	return $content;
 }, 20 );
+// Carga diferida: en el documento principal, todas las imágenes de widget salvo la primera (la banda bajo el hero) van con loading="lazy".
+add_filter( 'elementor/frontend/the_content', function ( $content ) {
+	if ( is_admin() || wp_doing_ajax() || ! is_singular() || isset( $_GET['elementor-preview'] ) ) { return $content; }
+	$id = get_queried_object_id();
+	if ( ! $id || strpos( $content, 'data-elementor-id="' . $id . '"' ) === false ) { return $content; }
+	$n = 0;
+	return preg_replace_callback( '/<img\b[^>]*\bclass="[^"]*\be-image-base\b[^"]*"[^>]*>/i', function ( $m ) use ( &$n ) {
+		$n++;
+		if ( $n === 1 || strpos( $m[0], 'loading=' ) !== false ) { return $m[0]; }
+		return str_replace( '<img ', '<img loading="lazy" ', $m[0] );
+	}, $content );
+}, 30 );
 add_action( 'wp_head', function () {
 	if ( ! is_singular() || ! zp_toc_aplica( get_queried_object_id() ) ) { return; }
 	$t = 'sty' . 'le';

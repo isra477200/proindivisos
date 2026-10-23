@@ -95,13 +95,14 @@ def spec_for(p,by):
     sections.append({"overline":"Contexto local","h2":T1,"intro":[rompe_repeticion(p['angulo']),rompe_repeticion(p['mercado'])]})
     # 2 zonas (cards) : qué compramos con nombres de zonas
     tipos=[("Pisos y viviendas",f"Cuotas del 10 % al 90 % de pisos y casas {en}; además, da igual que estén vacíos, alquilados u ocupados por otro copropietario."),("Herencias",f"Partes de inmuebles heredados, con o sin la herencia inscrita; también con usufructo de uno de los padres o con varios herederos."),("Locales, garajes y naves",f"Participaciones de locales comerciales, plazas de garaje, trasteros y naves {en} y alrededores; por ejemplo, la mitad de un local que nadie alquila."),("Terrenos y fincas",f"Cuotas de solares, fincas rústicas y parcelas; en este caso, la referencia catastral es el punto de partida.")]
-    T2=[f"Qué compramos {en}",f"Tipos de inmueble que compramos {en}",f"Compramos cuotas de cualquier inmueble {en}",f"Lo que compramos {en}: pisos, herencias, locales y fincas"][k]
+    # Yoast "keyphrase en subtítulos": cada H2 lleva proindiviso + lugar (2 de las 3 palabras de la keyphrase) para llegar al 30 % de subtítulos con keyphrase
+    T2=[f"Qué compramos {en}: tipos de proindiviso",f"Tipos de proindiviso que compramos {en}",f"Compramos cualquier proindiviso {en}: pisos, locales y fincas",f"Lo que compramos {en}: proindiviso de pisos, herencias, locales y fincas"][k]
     sections.append({"overline":"Qué compramos","h2":T2,"type":"cards","items":[{"t":a,"p":b} for a,b in tipos]})
     # 3 municipios / barrios (list text)
     mun=p.get('municipios',[])
     if mun:
-        T3=[f"Municipios donde compramos proindivisos {en}",f"Barrios y zonas de {p['nombre']} donde compramos",f"Dónde compramos {en}: municipios y zonas",f"Cobertura {en}"][k if t!='ciudad' else 1]
-        if t=='ciudad': T3=[f"Barrios y zonas de {p['nombre']} donde compramos",f"Cobertura en {p['nombre']}: barrios y distritos",f"Dónde compramos en {p['nombre']}",f"Zonas de {p['nombre']} en las que compramos cuotas"][k]
+        T3=[f"Municipios {en} donde compramos tu proindiviso",f"Zonas de {p['nombre']} donde compramos tu proindiviso",f"Dónde compramos proindiviso {en}: municipios y zonas",f"Cobertura {en}: dónde compramos tu proindiviso"][k if t!='ciudad' else 1]
+        if t=='ciudad': T3=[f"Barrios y zonas de {p['nombre']} donde compramos tu proindiviso",f"Cobertura en {p['nombre']}: barrios donde compramos proindiviso",f"Dónde compramos proindiviso en {p['nombre']}",f"Zonas de {p['nombre']} en las que compramos tu proindiviso"][k]
         txt=', '.join(mun)
         intro=[f"Compramos en todo el territorio {en}. Por ejemplo, estas son las zonas en las que más operaciones cerramos: {txt}." if t!='ciudad' else f"Compramos en cualquier punto de {p['nombre']}. Por ejemplo, las zonas con más operaciones: {txt}.","Si tu municipio o barrio no aparece, compramos igual: el listado es orientativo y, además, se amplía con cada operación." if h(p['slug']+'x',2) else "No importa que tu zona no esté en la lista. En cualquier caso, el precio y el proceso son los mismos en cualquier punto."]
         sections.append({"overline":"Cobertura","h2":T3,"intro":intro})

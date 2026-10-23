@@ -2,6 +2,10 @@ import sys, os; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import json, re, subprocess
 from design import *
 DATED_PAGES={617,620,623,587,590,593,596}  # páginas de cola larga tipo guía: llevan fecha de actualización como las entradas
+def _images2():
+    # segunda imagen (banda editorial antes del FAQ): post_id -> media_id
+    f=os.path.join(os.path.dirname(os.path.abspath(__file__)),'images2.json')
+    return json.load(open(f)) if os.path.exists(f) else {}
 def _images():
     f=os.path.join(os.path.dirname(os.path.abspath(__file__)),'images.json')
     return {int(k):v for k,v in json.load(open(f)).items()} if os.path.exists(f) else {}
@@ -126,6 +130,16 @@ def build(spec):
             cc=f"{sc} outro {k}"; parts.append(f'<e-paragraph configuration-id="{cc}"></e-paragraph>'); c.p(cc,para,"font-size: 17px; line-height: 1.75; color: var(--ink); max-width: 820px;")
         c.add(f'<e-div-block configuration-id="{sc}"><e-flexbox configuration-id="{ic}">{"".join(parts)}</e-flexbox></e-div-block>')
         c.cfg(sc,{"tag":"section"}); section(c,sc,bg,pad="var(--space-l)"); inner(c,ic,gap="24px")
+    # FIGURA 2 (imagen editorial a mitad de página, antes del FAQ; mismo fondo que la última sección; lazy por el snippet 45)
+    img2=_images2().get(str(spec['post_id']))
+    if img2 and spec.get('sections'):
+        bg2="var(--white)" if (len(spec['sections'])-1)%2==0 else "var(--surface-soft)"
+        c.add('<e-div-block configuration-id="Figura 2"><e-flexbox configuration-id="Figura 2 inner"><e-image configuration-id="Figura 2 img"></e-image></e-flexbox></e-div-block>')
+        c.cfg("Figura 2",{"tag":"div"})
+        c.st("Figura 2",f"display:flex; flex-direction:column; align-items:center; width:100%; padding: 0px 24px var(--space-l) 24px; background-color: {bg2};")
+        c.st("Figura 2 inner","display:flex; flex-direction:column; width:100%; max-width: 860px; padding:0px;")
+        c.cfg("Figura 2 img",{"image":{"src":{"id":int(img2)},"size":"full"}})
+        c.st("Figura 2 img","display:block; width:100%; height:auto; aspect-ratio: 2 / 1; object-fit: cover; object-position: center; border-radius: 18px; box-shadow: 0 16px 40px rgba(9,58,90,0.14); @media(--mobile){ aspect-ratio: 16 / 9; border-radius: 14px; }")
     # FAQ
     faqs=spec.get('faqs',[])
     if faqs:
@@ -188,8 +202,14 @@ def run(spec, publish=True):
     payload=build(spec)
     import tempfile
     tf=tempfile.NamedTemporaryFile('w',suffix='.json',delete=False,dir=os.path.dirname(os.path.abspath(__file__))); json.dump(payload,tf,ensure_ascii=False); tf.close()
-    out=subprocess.run(['./emcp.sh','elementor-build-composition','@'+tf.name],capture_output=True,text=True).stdout; os.unlink(tf.name)
-    ok='"success":true' in out
+    import time
+    for intento in range(3):
+        out=subprocess.run(['./emcp.sh','elementor-build-composition','@'+tf.name],capture_output=True,text=True).stdout
+        ok='"success":true' in out
+        # fallo transitorio del servidor bajo carga: todos los ajustes dinámicos (shortcode, enlaces tel/WhatsApp) salen como invalid_value a la vez
+        if ok or 'invalid_value' not in out: break
+        print(spec['post_id'],'reintento',intento+1,flush=True); time.sleep(8)
+    os.unlink(tf.name)
     warn=re.findall(r'"warnings":\[(.*?)\]',out)
     print(spec['post_id'], 'OK' if ok else 'FAIL', '' if ok else out[:400], ('WARN '+warn[0][:300]) if warn else '', flush=True)
     if ok and publish:
@@ -223,7 +243,7 @@ def build_simple(spec):
     c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-paragraph configuration-id="Hero migas"></e-paragraph><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading><e-paragraph configuration-id="Hero sub"></e-paragraph></e-flexbox></e-div-block>')
     c.cfg("Hero",{"tag":"section"}); c.st("Hero","display:flex; flex-direction:column; align-items:center; width:100%; padding: 56px 24px 56px 24px; background-color: var(--brand-primary-dark); @media(--mobile){ padding: 36px 18px 40px 18px; }")
     c.st("Hero inner","display:flex; flex-direction:column; gap: 14px; width:100%; max-width: 860px; padding:0px;")
-    c.cfg("Hero migas",{"tag":"p","paragraph":{"name":"shortcode","settings":{"shortcode":"[zp_migas]"}}}); c.st("Hero migas","font-size: 13px; color: rgba(255,255,255,0.7);")
+    c.cfg("Hero migas",{"tag":"p","paragraph":{"name":"shortcode","settings":{"shortcode":"[wpseo_breadcrumb]"}}}); c.st("Hero migas","font-size: 13px; color: rgba(255,255,255,0.7);")
     overline(c,"Hero overline",spec.get('kicker',''),light=True)
     c.h("Hero titulo",spec['h1'],"h1","font-size: clamp(1.8rem, 1.2rem + 2vw, 2.6rem); color: var(--white); line-height: 1.12;")
     c.p("Hero sub",spec.get('sub',''),"font-size: 17px; line-height: 1.6; color: rgba(255,255,255,0.84);")
