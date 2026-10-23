@@ -15,7 +15,7 @@ def api(method,path,body=None):
     except Exception: return {'_raw':out[:300]}
 def load_places():
     P=[]
-    for f in sorted(glob.glob(os.path.join(HERE,'geo','geo_*.json'))): P+=json.load(open(f))
+    for f in sorted(glob.glob(os.path.join(HERE,'geo','geo_[A-D].json'))): P+=json.load(open(f))
     by={p['slug']:p for p in P}
     for p in P:
         p['hijos']=[q for q in P if q.get('padre')==p['slug']]
@@ -32,12 +32,21 @@ def ensure_pages(P,by):
         r=api('GET',f"/wp/v2/pages?slug={p['slug']}&parent={parent}&status=any&_fields=id,slug")
         if isinstance(r,list) and r: ids[p['slug']]=r[0]['id']
         else:
-            r=api('POST','/wp/v2/pages',{'title':h1_corto(p),'slug':p['slug'],'parent':parent,'status':'draft','template':'elementor_canvas' if False else ''})
+            out=subprocess.run(['./emcp.sh','elementor-create-page',json.dumps({'title':h1_corto(p),'post_type':'page'})],capture_output=True,text=True).stdout
+            m=re.search(r'"post_id":\s*(\d+)',out) or re.search(r'"id":\s*(\d+)',out)
+            if not m: print('CREATE FAIL',p['slug'],out[:200]); continue
+            pid=int(m.group(1)); r=api('POST',f'/wp/v2/pages/{pid}',{'title':h1_corto(p),'slug':p['slug'],'parent':parent,'status':'draft'})
             if 'id' in r: ids[p['slug']]=r['id']
             else: print('CREATE FAIL',p['slug'],r); continue
         json.dump(ids,open(IDS_FILE,'w'),ensure_ascii=False,indent=0)
         print('page',p['slug'],ids[p['slug']],flush=True)
     return ids
+def excerpt(t,n=170):
+    t=t.strip()
+    first=t.split('. ')[0].rstrip('.')+'.'
+    if len(first)<=n: return first
+    cut=t[:n].rsplit(' ',1)[0].rstrip(',;:')
+    return cut+'…'
 def h(s,n): return int(hashlib.md5(s.encode()).hexdigest(),16)%n
 def h1_corto(p):
     return f"Vender proindiviso en {p['nombre']}" if p['tipo']!='ccaa' or p['slug'] in ('ceuta','melilla') else f"Vender proindiviso en {nombre_h1(p)}"
@@ -90,12 +99,12 @@ def spec_for(p,by):
     if p['hijos']:
         T5={'ccaa':f"Provincias y ciudades de {n} donde compramos",'provincia':f"Ciudades de la provincia de {p['nombre']} con página propia",'ciudad':""}[t]
         if p['slug'] in ('madrid','murcia','asturias','cantabria','navarra','la-rioja','baleares'): T5=f"Ciudades de {n} con página propia"
-        for q in p['hijos']: links.append({"t":q['nombre'],"p":(q.get('mercado','').split('. ')[0]+'.')[:160],"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
+        for q in p['hijos']: links.append({"t":q['nombre'],"p":excerpt(q.get('mercado','')),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
         sections.append({"overline":"Por zonas","h2":T5,"type":"cards","items":links})
     elif p.get('padre'):
         par=by[p['padre']]; sib=[q for q in par['hijos'] if q['slug']!=p['slug']][:6]
         items=[{"t":par['nombre'] if par['tipo']!='ccaa' else nombre_h1(par),"p":f"Cobertura completa {par['en']}: municipios, trámites y precios.","url":url(par,by),"cta":"Ver →"}]
-        items+=[{"t":q['nombre'],"p":(q.get('angulo','').split('. ')[0]+'.')[:160],"url":url(q,by),"cta":f"Vender en {q['nombre']} →"} for q in sib]
+        items+=[{"t":q['nombre'],"p":excerpt(q.get('angulo','')),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"} for q in sib]
         sections.append({"overline":"Cerca de ti","h2":f"También compramos cerca de {p['nombre']}","type":"cards","items":items})
     # 6 callout
     sections.append({"type":"callout","items":{"t":[f"Pide precio por tu parte {en}",f"Tu cuota {en} tiene precio hoy",f"Vende tu proindiviso {en} sin esperar a nadie",f"Precio por escrito en 48 horas, {en} y en toda la provincia"][k],"p":"Dinos la dirección del inmueble, tu porcentaje y cómo llegaste a ser copropietario. Te llamamos en menos de 24 horas laborables.","cta":"Pedir oferta ahora"}})

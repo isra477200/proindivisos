@@ -75,3 +75,11 @@ Rastreo completo, Lighthouse móvil en 10 URLs de cada tipo, prueba real de lead
 8. Claves de **hCaptcha** (gratuitas) o me dices que las cree con tu email.
 
 Con 1-4 arranco; 5-8 se añaden después en ajustes sin tocar nada.
+
+## Estado de construcción (23/10/2026, tarde)
+
+- Publicadas 140 páginas: home, 15 de intención (hub extinción de condominio con 3 hijas, qué es, división de cosa común, etc.), contacto, 3 legales, hub geo `/vender-proindiviso/` y 118 páginas geo (19 CCAA y ciudades autónomas, 43 provincias, 56 ciudades) con texto local único (`tools/geo/geo_*.json`, 300-350 palabras propias por lugar) y FAQ local con schema FAQPage.
+- Jerarquía geo real en WordPress (página hija), migas de Yoast en el hero, títulos cortos para las migas, metas únicas por página, sitemap en https (snippet para el proxy de Hostinger), archivos de autor desactivados.
+- Pie v3 (site part 544) con enlace a las 19 comunidades. Cabecera 20, popup 22, componentes de formulario 83 (corto) y 85 (completo).
+- Pendiente de Isra: teléfono y WhatsApp (ajustes de "Zona Proindiviso" en WP), NIF y correo para aviso legal/privacidad/cookies, GTM/GA4 y banner de cookies (Complianz), revocar las dos contraseñas de aplicación sobrantes.
+- Siguiente: Search Console + envío del sitemap, Lighthouse móvil, y ampliar a municipios según consultas reales.
