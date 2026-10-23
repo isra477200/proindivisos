@@ -72,9 +72,9 @@ Fuentes, en este orden:
 | Home | 1 | "Vender proindiviso" nacional. |
 | Intención | 5-8 | vender parte de piso/casa, vender proindiviso heredado, vender proindiviso con hipoteca, proindiviso con okupas/inquilino, valorar proindiviso (lead magnet), comprar mi parte el otro propietario, extinción de condominio (informativa con CTA). Se cierra con datos de fase 1. |
 | Situación | 4-6 | herencia, divorcio/separación, copropiedad con desconocidos, desacuerdo entre hermanos. |
-| Informativa | 8-15 | qué es un proindiviso, cuánto vale mi parte, impuestos (plusvalía, IRPF), división de cosa común, usufructo, subasta, etc. Cada una con CTA y enlazado al nivel intención. |
+| Informativa | 8-15 | **Hub "extinción de condominio" (8.100 búsquedas/mes, la mayor del nicho) con subpáginas: entre hermanos, con hipoteca, impuestos y notario.** Además: qué es un proindiviso (3.600 + 2.400), división de cosa común, usufructo, subasta. Cada una con CTA "si no hay acuerdo, vende tu parte" y enlazado al nivel intención. |
 | Geo nivel 1 | 17 CCAA + 50 provincias | Página real: datos de la provincia, tiempos, plusvalía orientativa, enlace a ciudades. |
-| Geo nivel 2 | ciudades > 50.000 hab (aprox. 150) | Solo si la página tiene al menos 300 palabras únicas y datos locales reales (barrios, Registro de la Propiedad, precio medio m², ayuntamiento/plusvalía). |
+| Geo nivel 2 | capitales y ciudades grandes de las 10-12 provincias con más demanda (aprox. 25; Madrid, Barcelona, Valencia, Sevilla, Málaga, Alicante, Bilbao, Cádiz, Las Palmas, Murcia…) | Solo si la página tiene al menos 300 palabras únicas y datos locales reales. El Planner (docs/investigacion-keyword-planner.md) muestra que las ciudades medianas no tienen búsqueda propia. |
 | Geo nivel 3 | resto de municipios | **No se crean** salvo que la fase 1 muestre búsqueda. Si se crean, `noindex` hasta tener contenido propio. |
 
 Reglas fijas: ninguna página geo es la plantilla con el nombre cambiado; cada una tiene título, H1, meta, FAQ y bloque de datos locales distintos. Breadcrumb CCAA → provincia → ciudad. Sitemap por secciones. Publicación progresiva (lotes de 50-100 URLs) para que Google no la lea como contenido escalado.
