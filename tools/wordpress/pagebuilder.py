@@ -103,7 +103,23 @@ def build(spec):
     c.st("CTA tarjeta","display:flex; flex-direction:column; flex-grow:1; flex-shrink:1; flex-basis:0px; width:auto; min-width:0; padding: 32px; background-color: var(--surface-soft); border: 1px solid var(--line); border-radius: 20px; @media(--mobile){ width:100%; padding: 20px; }")
     c.cfg("CTA formulario",{"component_id":85})
     return c.payload()
+def _env():
+    import os
+    env={}
+    for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'wp.env')):
+        if '=' in l: k,v=l.strip().split('=',1); env[k]=v.strip().strip('"').strip("'")
+    return env
+def _to_draft(post_id):
+    # build-composition sobre un documento publicado no actualiza la versión publicada: pasar a borrador antes de componer.
+    env=_env()
+    for ep in ('pages','posts'):
+        out=subprocess.run(['curl','-sS','--max-time','60','-u',env['P1'],'-X','POST','-H','Content-Type: application/json',f"{env['WP']}/wp-json/wp/v2/{ep}/{post_id}",'-d','{"status":"draft"}'],capture_output=True,text=True).stdout
+        try:
+            if json.loads(out).get('status')=='draft': return ep
+        except Exception: pass
+    return None
 def run(spec, publish=True):
+    _to_draft(spec['post_id'])
     payload=build(spec)
     out=subprocess.run(['./emcp.sh','elementor-build-composition',json.dumps(payload,ensure_ascii=False)],capture_output=True,text=True).stdout
     ok='"success":true' in out

@@ -10,4 +10,4 @@ Scripts usados para construir la web con el MCP oficial de Elementor (editor V4)
 - `gen_home.py`, `gen_hf_body.py` — home (23), cabecera (20) y pie (105).
 - `snippet_zp.php` — snippet (Code Snippets, global) con teléfono/WhatsApp como ajustes, shortcodes, tags dinámicos de Elementor, teléfono en el schema Organization de Yoast y metas de Yoast expuestas a REST.
 
-Lecciones del MCP de Elementor V4: `style` no admite selectores anidados; `flex` abreviado no es fiable; email.to del formulario debe ser estático; no reconstruir con build-composition una site part publicada (CSS obsoleto): crear nueva en borrador, publicar y borrar la vieja; el WAF de Hostinger devuelve 403 a cuerpos PUT con `<style`.
+Lecciones del MCP de Elementor V4: `style` no admite selectores anidados; `flex` abreviado no es fiable; email.to del formulario debe ser estático; build-composition sobre un documento ya publicado (página o site part) no actualiza la versión publicada: `run()` pasa la página a borrador antes de componer; para site parts, crear una nueva en borrador, publicar y borrar la vieja; el WAF de Hostinger devuelve 403 a cuerpos PUT con `<style`.
