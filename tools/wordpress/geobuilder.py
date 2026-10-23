@@ -106,6 +106,22 @@ def spec_for(p,by):
         items=[{"t":par['nombre'] if par['tipo']!='ccaa' else nombre_h1(par),"p":f"Cobertura completa {par['en']}: municipios, trámites y precios.","url":url(par,by),"cta":"Ver →"}]
         items+=[{"t":q['nombre'],"p":excerpt(q.get('angulo','')),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"} for q in sib]
         sections.append({"overline":"Cerca de ti","h2":f"También compramos cerca de {p['nombre']}","type":"cards","items":items})
+    # 5b guías del blog (solo CCAA y provincias): 3 entradas afines, rotadas por hash para que no se repitan en todas
+    if t in ('ccaa','provincia'):
+        G=[("Vender tu parte de un piso heredado entre hermanos cuando uno no quiere","Qué pasa con la herencia bloqueada y cómo cobras tu parte sin esperar a nadie.","/vender-proindiviso-entre-hermanos/"),
+           ("¿Cuánto me dan por mi parte de un piso?","La fórmula, cuatro ejemplos con cifras y lo que pagamos nosotros.","/blog/cuanto-me-dan-por-mi-parte-de-un-piso/"),
+           ("Cuánto tarda vender un proindiviso","Plazos reales paso a paso: de la nota simple a la firma en notaría.","/blog/cuanto-tarda-vender-un-proindiviso/"),
+           ("Documentos para vender tu parte de un piso","La lista completa de papeles y dónde conseguir cada uno.","/blog/documentos-para-vender-tu-parte-de-un-piso/"),
+           ("Vender un piso heredado: impuestos","Plusvalía, IRPF y sucesiones: qué paga quien vende su cuota heredada.","/blog/vender-un-piso-heredado-impuestos/"),
+           ("Qué pasa si uno quiere vender y el otro no","Tus tres salidas cuando el otro copropietario se niega.","/blog/uno-quiere-vender-y-el-otro-no/"),
+           ("Vender tu parte de una herencia desde el extranjero","Poderes, firma a distancia y cobro sin viajar a España.","/blog/vender-parte-herencia-desde-el-extranjero/"),
+           ("Mi hermano vive en la casa de mis padres y no quiere vender","Qué puedes hacer y cómo compramos tu cuota aunque él siga dentro.","/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/"),
+           ("Nota simple: cómo pedirla y leer tu cuota","Dónde aparece tu porcentaje y qué cargas mirar antes de vender.","/blog/nota-simple-como-pedirla-y-leerla/"),
+           ("Vender tu parte de un terreno rústico heredado","Fincas, olivar, viñedo y parcelas: cómo se valora y qué compramos.","/blog/vender-parte-de-un-terreno-rustico-heredado/"),
+           ("Piso heredado con hipoteca: vender tu parte","Cómo salir sin asumir la deuda del resto.","/blog/piso-heredado-con-hipoteca-vender-mi-parte/"),
+           ("Extinción de condominio o vender tu parte: qué conviene","Comparativa con cifras para decidir en tu caso.","/blog/vender-o-hacer-extincion-de-condominio/")]
+        g0=h(p['slug']+'g',len(G)); pick=[G[(g0+j*5)%len(G)] for j in range(3)]
+        sections.append({"overline":"Guías","h2":f"Guías para vender tu parte {en}","intro":[f"Antes de pedir precio, estas tres guías resuelven las dudas más habituales de quien vende una cuota {en}."],"type":"cards","items":[{"t":a,"p":b,"url":u,"cta":"Leer la guía →"} for a,b,u in pick]})
     # 6 callout
     sections.append({"type":"callout","items":{"t":[f"Pide precio por tu parte {en}",f"Tu cuota {en} tiene precio hoy",f"Vende tu proindiviso {en} sin esperar a nadie",f"Precio por escrito en 48 horas, {en} y en toda la provincia"][k],"p":"Dinos la dirección del inmueble, tu porcentaje y cómo llegaste a ser copropietario. Te llamamos en menos de 24 horas laborables.","cta":"Pedir oferta ahora"}})
     faqs=[tuple(x) for x in p.get('faq',[])]

@@ -1,0 +1,7 @@
+tools/wordpress/wp.env
+tools/wordpress/emcp_sid
+tools/wordpress/.emcp_*
+tools/wordpress/tmp*.json
+tools/wordpress/.gracias_payload.json
+tools/wordpress/snippet_resave_recent.json
+__pycache__/

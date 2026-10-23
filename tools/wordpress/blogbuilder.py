@@ -33,10 +33,51 @@ def ensure(spec,ids):
         r=api('POST',f'/wp/v2/{ep}/{pid}',body)
         if 'id' not in r: print('SET FAIL',spec['slug'],r); return None
     ids[spec['slug']]=pid; json.dump(ids,open(IDS_FILE,'w'),ensure_ascii=False,indent=0); return pid
+_GEO=None
+def geo_places():
+    """[(nombre, url)] de CCAA, provincias y capitales con página geo, para enlazar desde las entradas que las mencionan."""
+    global _GEO
+    if _GEO is not None: return _GEO
+    P=[]
+    for f in sorted(glob.glob(os.path.join(HERE,'geo','geo_[A-F].json'))): P+=json.load(open(f))
+    by={p['slug']:p for p in P}
+    def url(p):
+        parts=[]; q=p
+        while q: parts.append(q['slug']); q=by.get(q.get('padre')) if q.get('padre') else None
+        return '/vender-proindiviso/'+'/'.join(reversed(parts))+'/'
+    skip={'León','Soria','Palencia','Lugo','Jaén','Toledo','Cuenca','Ávila','Teruel','Huesca','Girona','Lleida','Ourense','Granada','Burgos','Segovia','Zamora','Salamanca','Badajoz','Cáceres','Albacete','Guadalajara','Ciudad Real','Melilla','Ceuta','Castellón','Tarragona','Cádiz','Huelva','Almería','Córdoba','Pontevedra','A Coruña','Álava','Gipuzkoa','Bizkaia','Navarra','Cantabria','La Rioja','Murcia','Asturias'}
+    out=[]
+    for p in P:
+        if p['tipo'] in ('ccaa','provincia') or p['slug'] in ('barcelona','valencia','sevilla','malaga','bilbao','zaragoza','alicante','palma','las-palmas-de-gran-canaria','santa-cruz-de-tenerife'):
+            n=p['nombre']
+            if n in skip or len(n)<5: continue
+            out.append((n,url(p),p['en']))
+    _GEO=out; return out
+def geo_related(spec, maxn=2):
+    import re
+    txt=[spec.get('sub','')]
+    for sec in spec['sections']:
+        txt+=sec.get('intro',[]) if isinstance(sec.get('intro',[]),list) else [sec.get('intro','')]
+        txt+=sec.get('outro',[]) if isinstance(sec.get('outro',[]),list) else [sec.get('outro','')]
+        it=sec.get('items',[])
+        if isinstance(it,dict): it=[it]
+        for x in it:
+            if isinstance(x,dict): txt+=[x.get('t',''),x.get('p','')]
+            elif isinstance(x,(list,tuple)): txt+=[str(y) for y in x]
+            else: txt.append(str(x))
+    for q,a in spec.get('faqs',[]): txt+=[q,a]
+    T=' '.join(txt); have={u for _,u in spec.get('related',[])}
+    hits=[]
+    for n,u,en in geo_places():
+        if u in have: continue
+        if re.search(r'(?<![\w])'+re.escape(n)+r'(?![\w])',T): hits.append((len(re.findall(re.escape(n),T)),n,u,en))
+    hits.sort(reverse=True)
+    return [(f"Vender proindiviso {en}",u) for _,n,u,en in hits[:maxn]]
 def normalize(spec):
     s=dict(spec); s['faqs']=[tuple(x) for x in s.get('faqs',[])]; s['related']=[tuple(x) for x in s.get('related',[])]
     for sec in s['sections']:
         if sec.get('type')=='table': sec['items']=[tuple(x) for x in sec['items']]
+    s['related']=s['related']+geo_related(s)
     return s
 def build_one(spec,ids):
     pid=ensure(spec,ids)

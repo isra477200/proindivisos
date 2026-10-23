@@ -1,15 +1,23 @@
 import sys, os; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import json, re, subprocess
 from design import *
+DATED_PAGES={617,620,623,587,590,593,596}  # páginas de cola larga tipo guía: llevan fecha de actualización como las entradas
+def _images():
+    f=os.path.join(os.path.dirname(os.path.abspath(__file__)),'images.json')
+    return {int(k):v for k,v in json.load(open(f)).items()} if os.path.exists(f) else {}
 def build(spec):
     c=Comp(spec['post_id'])
+    img=spec.get('image_id') or _images().get(int(spec['post_id']))
+    dated=spec.get('dated', spec.get('kind')=='post' or int(spec['post_id']) in DATED_PAGES)
     # HERO (azul oscuro, con tarjeta)
-    c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero migas"></e-paragraph><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading><e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks"><e-paragraph configuration-id="Hero check 1"></e-paragraph><e-paragraph configuration-id="Hero check 2"></e-paragraph><e-paragraph configuration-id="Hero check 3"></e-paragraph></e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-heading configuration-id="Hero tarjeta titulo"></e-heading><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
+    c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero migas"></e-paragraph>'+('<e-paragraph configuration-id="Hero fecha"></e-paragraph>' if dated else '')+'<e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading><e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks"><e-paragraph configuration-id="Hero check 1"></e-paragraph><e-paragraph configuration-id="Hero check 2"></e-paragraph><e-paragraph configuration-id="Hero check 3"></e-paragraph></e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-heading configuration-id="Hero tarjeta titulo"></e-heading><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
     c.cfg("Hero",{"tag":"section"})
     c.st("Hero",f"display:flex; flex-direction:column; align-items:center; width:100%; padding: 72px 24px 80px 24px; background-color: var(--brand-primary-dark); background-image: linear-gradient(100deg, rgba(9,58,90,1) 0%, rgba(9,58,90,0.97) 50%, rgba(13,79,120,0.82) 100%), url('{HERO}'); background-size: cover; background-position: right center; @media(--tablet){{ padding: 56px 24px 64px 24px; }} @media(--mobile){{ padding: 40px 18px 48px 18px; background-image: linear-gradient(180deg, rgba(9,58,90,0.97) 0%, rgba(9,58,90,0.97) 100%), url('{HERO}'); }}")
     c.st("Hero inner","display:flex; flex-direction:row; align-items:center; gap: 56px; width:100%; max-width: 1200px; padding:0px; @media(--tablet){ gap: 32px; } @media(--mobile){ flex-direction:column; gap: 32px; }")
     c.st("Hero texto","display:flex; flex-direction:column; gap: 20px; flex-grow:1; flex-shrink:1; flex-basis:0px; width:auto; min-width:0; padding:0px;")
     c.cfg("Hero migas",{"tag":"p","paragraph":{"name":"shortcode","settings":{"shortcode":"[wpseo_breadcrumb]"}}}); c.st("Hero migas","font-size: 13px; color: rgba(255,255,255,0.7); margin-bottom: 4px; @media(--mobile){ font-size: 12px; }")
+    if dated:
+        c.cfg("Hero fecha",{"tag":"p","paragraph":{"name":"shortcode","settings":{"shortcode":"[zp_actualizado]"}}}); c.st("Hero fecha","font-size: 13px; font-weight: 600; color: rgba(255,255,255,0.62); margin-top: -10px; margin-bottom: 2px; @media(--mobile){ font-size: 12px; }")
     overline(c,"Hero overline",spec['kicker'],light=True)
     c.h("Hero titulo",spec['h1'],"h1","font-size: clamp(2rem, 1.3rem + 2.8vw, 3.1rem); color: var(--white); max-width: 640px; line-height: 1.08;")
     c.p("Hero sub",spec['sub'],"font-size: 18px; line-height: 1.6; color: rgba(255,255,255,0.84); max-width: 580px;")
@@ -23,6 +31,14 @@ def build(spec):
     c.h("Hero tarjeta titulo",spec.get('card_title',"Te llamamos nosotros"),"h3","font-size: 23px; color: var(--brand-primary);")
     c.p("Hero tarjeta texto",spec.get('card_text',"Tu nombre y tu teléfono. Te llamamos en menos de 24 horas laborables con una oferta."),"font-size: 14px; color: var(--ink-muted); margin-bottom: 6px;")
     c.cfg("Hero formulario",{"component_id":83})
+    # IMAGEN DESTACADA (banda que solapa el borde inferior del hero; media library id → alt del adjunto)
+    if img:
+        c.add('<e-div-block configuration-id="Figura"><e-flexbox configuration-id="Figura inner"><e-image configuration-id="Figura img"></e-image></e-flexbox></e-div-block>')
+        c.cfg("Figura",{"tag":"div"})
+        c.st("Figura","display:flex; flex-direction:column; align-items:center; width:100%; padding: 0px 24px; background-image: linear-gradient(180deg, var(--brand-primary-dark) 0%, var(--brand-primary-dark) 52%, var(--white) 52%, var(--white) 100%); @media(--mobile){ padding: 0px 18px; }")
+        c.st("Figura inner","display:flex; flex-direction:column; width:100%; max-width: 1200px; padding:0px;")
+        c.cfg("Figura img",{"image":{"src":{"id":int(img)},"size":"full"}})
+        c.st("Figura img","display:block; width:100%; height:auto; aspect-ratio: 2.4 / 1; object-fit: cover; object-position: center; border-radius: 20px; box-shadow: 0 24px 60px rgba(9,58,90,0.28); @media(--tablet){ aspect-ratio: 2 / 1; } @media(--mobile){ aspect-ratio: 16 / 9; border-radius: 14px; }")
     # SECCIONES
     for si,sec in enumerate(spec['sections']):
         bg="var(--white)" if si%2==0 else "var(--surface-soft)"
