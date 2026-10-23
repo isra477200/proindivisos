@@ -43,7 +43,7 @@ Fecha: 23/10/2026 · Repo: `isra477200/isra` · Rama: `claude/proindivisos-resea
 
 Fuentes, en este orden:
 
-1. **Búsquedas observadas (campañas).** Las 7 cuentas de proindivisos del MCC, vía Google Ads API (skill `google-ads-api`, n8n). Query a `search_term_view` y `keyword_view` de los últimos 12 meses: término, impresiones, clics, coste, conversiones, geo. Cuentas:
+1. **Búsquedas observadas (campañas).** Las 9 cuentas de proindivisos (8 en el MCC + Proindiviso Directo, que está fuera de este MCC; ver docs/investigacion-cuentas-proindivisos.md), vía Google Ads API (skill `google-ads-api`, n8n). Query a `search_term_view` y `keyword_view` de los últimos 12 meses: término, impresiones, clics, coste, conversiones, geo. Cuentas:
 
    | Cliente | Web | CID |
    |---|---|---|
@@ -54,6 +54,8 @@ Fuentes, en este orden:
    | Proindivisos Gestión Propiedades (Virginia) | proindivisosgestionpropiedades.com | 851-660-5362 |
    | Sal del Proindiviso (Pilar) | saldelproindiviso.com | 930-792-9427 |
    | Soluciones Proindiviso (Pilar) | solucionesproindiviso.com | 707-824-2970 |
+   | Compramos Proindivisos (no está en Notion) | ? | 463-061-4423 |
+   | Fin del Proindiviso (no está en Notion) | ? | 746-018-9091 |
 
    Limitaciones a declarar: las campañas están muy centradas en Madrid (sesgo geográfico), Google oculta términos de poco volumen, y las conversiones de estas cuentas no están validadas como contacto real (aviso repetido en las rondas del Ads Center).
 2. **Volumen general nacional.** `KeywordPlanIdeaService` de la misma API (1 petición/segundo): volumen mensual por provincia y a nivel España de cada término semilla y sus ideas. Esto separa "lo que compran los clientes en Ads" de "lo que busca España".
