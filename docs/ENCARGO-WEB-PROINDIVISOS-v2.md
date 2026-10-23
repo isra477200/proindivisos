@@ -20,6 +20,8 @@ Fecha: 23/10/2026 · Repo: `isra477200/isra` · Rama: `claude/proindivisos-resea
 | 8 | Hub extinción de condominio | Sí, pero orientado a captar, no a informar: cada página del hub empuja a "vende tu parte". Las keywords transaccionales de las campañas mandan en la estructura. |
 | 9 | Rama `main` | Creada el 23/10 desde el mismo commit; la rama de trabajo abre PR contra ella. |
 | 10 | WordPress | Isra lo monta cuando se le pida (ver docs/PLAN-WORDPRESS.md, sección "Qué necesito de Isra"). |
+| 12 | Posicionamiento (23/10) | **Comprador directo**, no intermediario. Todo el copy, metas y legales reescritos en esa línea. |
+| 13 | Geo (23/10) | CCAA + provincias + ciudades grandes ahora (unas 118 páginas con texto local único); pueblos más adelante a partir de Search Console, no en bloque (riesgo doorway). |
 | 11 | Constructor y SEO (tarde del 23/10) | **Elementor Pro + Hello Elementor** con el MCP oficial de Elementor; **Yoast SEO**; **Elementor Forms** sustituye a Web3Forms; **sin plugin propio** (solo un snippet en WPCode para teléfono/WhatsApp); **sin ACF** (campos nativos). |
 
 Donde este documento diga Astro/Cloudflare, prevalece **WordPress** según `docs/PLAN-WORDPRESS.md`. La arquitectura definitiva está en `docs/ARQUITECTURA-URLS.md`.
@@ -45,8 +47,8 @@ Donde este documento diga Astro/Cloudflare, prevalece **WordPress** según `docs
 
 ## 1. Objetivo y modelo de negocio
 
-- **Qué es:** web de captación para particulares que quieren vender su parte de un proindiviso. Los contactos se pasan a empresas compradoras. No vende servicios de marketing.
-- **Posicionamiento recomendado:** "recibe ofertas de varias empresas compradoras" (intermediario/comparador). Es honesto, diferencia de las webs de un solo comprador y convierte mejor (el usuario percibe más precio). Evita prometer cosas que dependen del comprador ("pago en 48 h", "hasta el 95 %").
+- **Qué es:** web de captación para particulares que quieren vender su parte de un proindiviso. **Compramos nosotros** las cuotas con fondos propios; no es un comparador ni se pasan contactos a terceros (corrección de Isra, 23/10: "no somos unos intermediarios, nosotros compramos los proindivisos").
+- **Posicionamiento (vigente):** comprador directo. Promesas que sí se cumplen y se repiten en toda la web: oferta por escrito en 48 h, pago al contado en notaría, firma en 2-4 semanas, gastos de notaría y gestión a nuestro cargo, sin exclusividad, horquilla 40-70 % del valor proporcional de la cuota. Nunca "intermediario", "varias ofertas" ni "te ponemos en contacto".
 - **Qué hace falta decidir del lead:**
   - **[DECISIÓN] Destino de los leads:** a qué empresas, en exclusiva o compartido, por provincia o nacional, precio por lead o comisión.
   - **Segmentación por origen** (herencia / divorcio / compra conjunta / otros): no todos los compradores aceptan herencias (Soluciones Proindiviso, según su ficha, no las trabaja). El formulario captura el origen para enrutar.
@@ -106,7 +108,7 @@ Orden fijo, mobile first:
 1. Hero: H1 con la keyword, subtítulo con el beneficio, formulario corto o botón WhatsApp visible sin scroll.
 2. Barra fija inferior en móvil: Llamar · WhatsApp · Formulario. En escritorio, pestaña lateral derecha "Te llamamos nosotros" (nombre + teléfono).
 3. Cómo funciona (3 pasos).
-4. Señales de confianza reales: número de empresas compradoras, zonas cubiertas, proceso, sin testimonios inventados.
+4. Señales de confianza reales: compra con fondos propios, zonas cubiertas, proceso con plazos, sin testimonios inventados.
 5. Bloque específico de la keyword (situación, ciudad, datos).
 6. FAQ (schema FAQPage) con 4-6 preguntas de la keyword.
 7. CTA final + formulario completo.
@@ -206,7 +208,8 @@ Herramienta: API de MiniMax, como pide el encargo. **[DECISIÓN]** el Contexto M
 ## 13. Legal
 
 - Aviso legal, política de privacidad y cookies con el titular de §2.
-- Consentimiento explícito en el formulario para la **cesión de datos a empresas compradoras** (finalidad, destinatarios, derechos). Sin esto el modelo de negocio no es legal en RGPD.
+- Consentimiento en el formulario para el contacto y el estudio de la oferta (medidas precontractuales). Sin cesión a terceros: los datos solo van a proveedores encargados (hosting, formularios, n8n, WhatsApp Business) y, si hay operación, a notaría y administraciones.
+- El nombre del titular (Israel Domingo Gaitán) aparece **solo** en aviso legal, privacidad y cookies. Pendiente que Isra facilite NIF y correo de contacto: las tres páginas llevan "[pendiente de completar]".
 - Banner de cookies con Consent Mode v2.
 - Textos de marketing sin promesas que no se puedan cumplir.
 

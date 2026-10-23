@@ -67,8 +67,8 @@ andalucia · aragon · asturias* · baleares* · canarias · cantabria* · casti
 | pais-vasco | alava, bizkaia, gipuzkoa |
 | uniprovinciales | madrid, murcia, asturias, cantabria, navarra, la-rioja, baleares |
 
-### 5.3 Ciudades (25, solo si su nombre no coincide con la provincia)
-bilbao (bizkaia) · palma (baleares) · las-palmas-de-gran-canaria (las-palmas) · jerez-de-la-frontera (cadiz) · algeciras (cadiz) · vigo (pontevedra) · elche (alicante) · torrevieja (alicante) · gijon (asturias) · oviedo (asturias) · marbella (malaga) · dos-hermanas (sevilla) · sabadell, terrassa, badalona, hospitalet-de-llobregat (barcelona) · mostoles, alcala-de-henares, fuenlabrada, getafe (madrid) · cartagena (murcia) · santander (cantabria) · pamplona (navarra) · logrono (la-rioja) · donostia-san-sebastian (gipuzkoa) · vitoria-gasteiz (alava)
+### 5.3 Ciudades (ampliado el 23/10 a 56, solo si su nombre no coincide con la provincia)
+bilbao, barakaldo, getxo (bizkaia) · palma (baleares) · telde (las-palmas) · san-cristobal-de-la-laguna (santa-cruz-de-tenerife) · mijas, fuengirola, torremolinos, velez-malaga (malaga) · san-fernando, el-puerto-de-santa-maria, chiclana-de-la-frontera (cadiz) · merida (badajoz) · lorca (murcia) · mataro, santa-coloma-de-gramenet, cornella-de-llobregat (barcelona) · reus (tarragona) · orihuela, benidorm (alicante) · torrent, gandia (valencia) · leganes, alcorcon, torrejon-de-ardoz, parla, alcobendas (madrid) · talavera-de-la-reina (toledo) · santiago-de-compostela, ferrol (a-coruna) · aviles (asturias) · · las-palmas-de-gran-canaria (las-palmas) · jerez-de-la-frontera (cadiz) · algeciras (cadiz) · vigo (pontevedra) · elche (alicante) · torrevieja (alicante) · gijon (asturias) · oviedo (asturias) · marbella (malaga) · dos-hermanas (sevilla) · sabadell, terrassa, badalona, hospitalet-de-llobregat (barcelona) · mostoles, alcala-de-henares, fuenlabrada, getafe (madrid) · cartagena (murcia) · santander (cantabria) · pamplona (navarra) · logrono (la-rioja) · donostia-san-sebastian (gipuzkoa) · vitoria-gasteiz (alava)
 
 ### 5.4 Contenido obligatorio de cada página geo (mínimo 350 palabras propias)
 1. H1 "Vender proindiviso en {lugar}" + subtítulo con la cobertura (comarcas/barrios).
@@ -78,7 +78,7 @@ bilbao (bizkaia) · palma (baleares) · las-palmas-de-gran-canaria (las-palmas) 
 5. Enlaces: padre (CCAA/provincia), hermanas (provincias de la misma CCAA), 2 páginas transaccionales.
 
 ## 6. Páginas de soporte (noindex salvo legales)
-`/gracias/` (noindex) · `/aviso-legal/` · `/politica-de-privacidad/` (con cesión a compradoras) · `/politica-de-cookies/` · `/contacto/` (index, keyword "contacto zona proindiviso").
+`/gracias/` (noindex) · `/aviso-legal/` · `/politica-de-privacidad/` (sin cesión a terceros: compramos nosotros) · `/politica-de-cookies/` · `/contacto/` (index, keyword "contacto zona proindiviso").
 
 ## 7. Enlazado interno (regla fija)
 - Cabecera: Home · Empresas que compran · Cuánto pagan · Herencia · Sin avisar · Dónde (geo) · Contacto.

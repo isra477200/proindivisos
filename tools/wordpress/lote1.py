@@ -1,0 +1,112 @@
+import sys, os; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from pagebuilder import run
+P=[]
+# ---------- 25 EMPRESAS QUE COMPRAN PROINDIVISOS ----------
+P.append({"post_id":25,"kicker":"Empresas que compran proindivisos","h1":"Empresas que compran proindivisos: qué hacen, qué pagan y cómo elegir bien",
+"sub":"Si buscas quién compra tu parte de un piso, aquí tienes la respuesta clara: compramos proindivisos directamente, con fondos propios y firma en notaría. Y te explicamos cómo comparar antes de decidir.",
+"checks":["Compramos directamente","Precio por escrito en 48 h","Sin exclusividad"],
+"sections":[
+ {"overline":"Qué son","h2":"Qué hacen las empresas que compran proindivisos","intro":["Una empresa compradora de proindivisos adquiere la cuota de un copropietario que quiere salir de una propiedad compartida: la mitad de un piso heredado, el 25 % de la casa de los padres, la parte de una vivienda tras un divorcio. Paga esa cuota al contado y pasa a ser copropietaria en lugar del vendedor.","A partir de ahí la empresa negocia con el resto de propietarios: les ofrece comprarles su parte, venderles la suya o vender el inmueble entero de mutuo acuerdo. Si no hay acuerdo, es la empresa, y no tú, quien inicia la división judicial de la cosa común. Por eso estas empresas compran con descuento: asumen el tiempo, el riesgo y el conflicto que tú no quieres asumir."]},
+ {"overline":"Lo que importa","h2":"Las 6 cosas que debes mirar antes de vender tu proindiviso a una empresa","type":"cards","items":[
+  {"t":"Que compre con fondos propios","p":"Muchas webs que salen en Google son captadoras: recogen tu contacto y lo revenden a inversores. Pregunta siempre quién firma en notaría y de dónde sale el dinero."},
+  {"t":"Oferta por escrito y con fecha","p":"Una oferta seria lleva precio neto, plazo de validez y una fecha estimada de firma. Si solo hay promesas por teléfono, desconfía."},
+  {"t":"Quién paga los gastos","p":"Notaría, gestión documental, tasación y cancelación de cargas. En nuestro caso corren por nuestra cuenta; en otros, se descuentan del precio sin avisar."},
+  {"t":"Sin exclusividad ni señales","p":"No firmes ningún documento de reserva o exclusiva para recibir una oferta. Pedir precio no debe comprometerte a nada."},
+  {"t":"Experiencia con tu tipo de caso","p":"No es lo mismo una herencia sin aceptar que una vivienda con hipoteca o con inquilino. Pregunta cuántas operaciones así ha cerrado."},
+  {"t":"Trato directo y rápido","p":"Si tardan una semana en contestarte antes de comprar, imagina después. Nosotros damos precio en 48 horas y una persona de contacto fija."}]},
+ {"overline":"Nuestra forma de comprar","h2":"Cómo compramos nosotros tu parte","type":"steps","items":[
+  {"t":"Estudio del caso","p":"Nos cuentas qué inmueble es, qué porcentaje tienes y cuál es la situación con los demás propietarios. Revisamos nota simple y cargas."},
+  {"t":"Oferta en 48 horas","p":"Te enviamos un precio neto por escrito. Lo que ves es lo que cobras: sin comisiones ni gastos ocultos."},
+  {"t":"Firma y cobro","p":"Fijamos fecha en la notaría que prefieras. Firmas la escritura de compraventa de tu cuota y cobras en el acto."}],
+  "outro":["Desde ese momento, el conflicto con los demás copropietarios deja de ser tuyo. Nosotros nos entendemos con ellos."]},
+ {"overline":"Precio","h2":"Cuánto pagan las empresas compradoras de proindivisos","intro":["La horquilla habitual del mercado está entre el 40 % y el 70 % del valor de la parte, según el inmueble, la ciudad, las cargas y el grado de conflicto entre propietarios. Una cuota minoritaria en una vivienda ocupada por otro copropietario vale menos que la mitad de un piso vacío y sin cargas en una capital.","Te explicamos cada factor, con ejemplos, en nuestra página sobre <a href=\"/cuanto-pagan-por-un-proindiviso/\">cuánto pagan por un proindiviso</a>."],
+  "type":"callout","items":{"t":"¿Quieres saber qué te daríamos por tu parte?","p":"Cuéntanos el caso en dos minutos. Precio por escrito en 48 horas, sin compromiso y sin que tengas que avisar a nadie.","cta":"Pedir mi oferta"}}],
+"faqs":[("¿Las empresas que compran proindivisos son legales?","Sí. Comprar la cuota de un copropietario es una compraventa normal, regulada por el Código Civil, que se firma ante notario y se inscribe en el Registro de la Propiedad. Lo que cambia es que el comprador adquiere una parte indivisa, no el inmueble entero."),
+("¿Qué pasa con los demás propietarios cuando vendo a una empresa?","Siguen siendo propietarios de su parte. La empresa pasa a ocupar tu lugar y les propondrá comprarles, venderles o vender todo. Si no hay acuerdo, podrá pedir la división judicial, pero tú ya habrás cobrado y estarás fuera."),
+("¿Tienen derecho de retracto mis hermanos o mi expareja?","Sí. Los demás copropietarios pueden ejercer el retracto de comuneros: quedarse con tu parte al mismo precio y condiciones en el plazo legal desde que conocen la venta. En la práctica, si tenían ese dinero y esa intención, ya te habrían comprado."),
+("¿Por qué no me pagan el 100 % del valor de mi parte?","Porque la empresa compra una cuota que no puede usar ni vender fácilmente, asume el conflicto con los demás propietarios y, en muchos casos, un proceso judicial de más de un año. El descuento es el precio de la rapidez y la tranquilidad."),
+("¿Puedo pedir oferta a varias empresas a la vez?","Por supuesto, y te lo recomendamos. Nuestra oferta no te compromete a nada y no exige exclusividad.")],
+"related":[("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Opiniones sobre empresas compradoras","/opiniones-empresas-que-compran-proindivisos/"),("Vender sin avisar a los demás","/vender-proindiviso-sin-avisar/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/")],
+"cta_title":"Pide tu oferta a una empresa que compra de verdad"})
+# ---------- 27 CUÁNTO PAGAN ----------
+P.append({"post_id":27,"kicker":"Precio de un proindiviso","h1":"Cuánto pagan por un proindiviso: la horquilla real y de qué depende",
+"sub":"Entre el 40 % y el 70 % del valor de tu parte. Te explicamos qué sube y qué baja ese porcentaje, con ejemplos, y te damos tu precio por escrito en 48 horas.",
+"checks":["Precio neto, sin sorpresas","Valoración en 48 h","Explicamos cada descuento"],
+"sections":[
+ {"overline":"La cifra","h2":"Cuánto se paga por un proindiviso en España","intro":["Las empresas que compran proindivisos pagan, de media, entre el 40 % y el 70 % de lo que vale la parte que compran. Si un piso vale 200.000 € y tienes la mitad, tu cuota vale 100.000 € sobre el papel; una oferta de compra se moverá entre 40.000 € y 70.000 €.","¿Por qué no el 100 %? Porque quien compra no se lleva un piso: se lleva el derecho a una parte de un piso que no puede usar, alquilar ni vender sin el acuerdo de los demás, y con frecuencia tendrá que ir a juicio para convertir esa parte en dinero. El descuento paga ese tiempo, ese riesgo y esa gestión."]},
+ {"overline":"Factores","h2":"Qué hace que te paguen más o menos por tu parte","type":"table","items":[
+  ("Factor","Cómo afecta al precio"),
+  ("Porcentaje que tienes","Una mitad vale proporcionalmente más que un tercio o un cuarto: con el 50 % el comprador puede bloquear decisiones y forzar la venta del conjunto con más facilidad."),
+  ("Quién vive en el inmueble","Si está vacío, el precio sube. Si lo ocupa otro copropietario, un inquilino o un okupa, baja: el comprador tardará más en disponer de él."),
+  ("Cargas","Hipoteca, embargos o deudas de comunidad se descuentan del precio. Una parte sin cargas se paga mejor."),
+  ("Ciudad y zona","En Madrid, Barcelona, Valencia, Sevilla o Málaga la demanda es alta y el porcentaje sube. En municipios pequeños o zonas rurales, baja."),
+  ("Estado de la herencia","Si la herencia no está aceptada ni inscrita, hay trámite por delante. Lo podemos gestionar, pero influye en el precio."),
+  ("Grado de conflicto","Si los demás propietarios están dispuestos a negociar, el comprador cobra antes y paga más. Si hay bloqueo total, el precio recoge el coste de ir a juicio.")]},
+ {"overline":"Ejemplos","h2":"Tres ejemplos reales de cuánto se paga","type":"cards","items":[
+  {"t":"Mitad de un piso vacío en Madrid","p":"Valor del piso: 300.000 €. Cuota del 50 % sin cargas, herencia aceptada, hermano dispuesto a negociar. Oferta orientativa: 95.000 a 105.000 €, un 63 a 70 % del valor de la parte."},
+  {"t":"Un tercio de la casa de los padres, ocupada","p":"Valor: 180.000 €. Cuota del 33 % en una casa donde vive un hermano que no quiere vender ni comprar. Oferta orientativa: 25.000 a 32.000 €, un 42 a 53 %."},
+  {"t":"Mitad de un piso con hipoteca tras divorcio","p":"Valor: 220.000 €, hipoteca pendiente de 90.000 €. Cuota del 50 %: valor neto de la parte 65.000 €. Oferta orientativa: 33.000 a 42.000 €, y la deuda se cancela en la firma."}],
+  "outro":["Son orientaciones para que sepas dónde estás. Tu precio exacto depende de la nota simple, de la situación del inmueble y de lo que nos cuentes. Lo tienes por escrito en 48 horas."]},
+ {"overline":"Alternativas","h2":"¿Te compensa vender con descuento o esperar?","intro":["Antes de decidir, compara con las otras dos salidas. La <a href=\"/extincion-de-condominio/\">extinción de condominio</a> solo funciona si alguien de la familia puede y quiere comprarte, y lleva impuestos y notaría. La <a href=\"/division-de-cosa-comun/\">división de cosa común</a> por vía judicial tarda entre uno y tres años, cuesta abogado y procurador y suele terminar en una subasta donde el inmueble se vende por debajo de mercado.","Vender tu parte hoy con un 40-70 % es, en muchos casos, más dinero neto que un 100 % teórico que nunca llega. Y, sobre todo, es dinero ya y un problema menos."],
+  "type":"callout","items":{"t":"Calcula lo que cobrarías","p":"Dinos el inmueble, tu porcentaje y la situación. En 48 horas tienes un precio neto por escrito, sin compromiso.","cta":"Quiero mi valoración"}}],
+"faqs":[("¿El precio que me ofrecen es neto?","En nuestro caso, sí: notaría, gestión y documentación corren por nuestra cuenta. Pregunta siempre si la cifra incluye o descuenta gastos, porque no todas las empresas lo hacen igual."),
+("¿Tengo que pagar impuestos al vender mi parte de un proindiviso?","Como en cualquier venta de inmueble: IRPF por la ganancia patrimonial, si la hay, y plusvalía municipal si el valor del suelo ha subido desde que adquiriste la parte. En herencias recientes la ganancia suele ser pequeña o nula."),
+("¿Puedo negociar la oferta?","Sí. Si tienes documentación que mejore el caso (herencia ya aceptada, inmueble vacío, otro copropietario dispuesto a vender) dínoslo: puede subir el precio."),
+("¿Cuánto tardo en cobrar?","El precio lo tienes en 48 horas. La firma en notaría, normalmente entre dos y cuatro semanas, según la documentación. Cobras en el momento de la firma."),
+("¿Y si solo quiero saber cuánto vale mi parte para negociar con mi familia?","Pide la oferta igualmente. No te compromete a nada y muchas personas la usan como referencia para vender su parte a un hermano o a su expareja.")],
+"related":[("Empresas que compran proindivisos","/empresas-que-compran-proindivisos/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/")],
+"cta_title":"Tu precio por escrito en 48 horas"})
+# ---------- 29 SIN AVISAR ----------
+P.append({"post_id":29,"kicker":"Vender sin el permiso de los demás","h1":"Vender tu proindiviso sin avisar a los demás propietarios: qué dice la ley",
+"sub":"Puedes vender tu parte sin pedir permiso a nadie. Lo que sí existe es el derecho de retracto de los otros copropietarios. Te explicamos cómo se hace bien, sin broncas y sin sorpresas.",
+"checks":["Sin consentimiento de los demás","Compramos aunque haya conflicto","Firma discreta en notaría"],
+"sections":[
+ {"overline":"Lo que dice la ley","h2":"¿Se puede vender un proindiviso sin avisar?","intro":["Sí. El artículo 399 del Código Civil es claro: cada copropietario tiene la plena propiedad de su parte y puede venderla, cederla o hipotecarla sin el consentimiento de los demás. No necesitas su firma, su permiso ni su opinión para vender tu cuota a quien quieras.","Lo que la ley protege es el derecho de los otros copropietarios a quedarse con esa parte si lo prefieren, en las mismas condiciones. Es el llamado retracto de comuneros del artículo 1522. No impide la venta: la condiciona después."]},
+ {"overline":"El retracto","h2":"Qué es el derecho de retracto y cómo te afecta","intro":["Una vez vendida tu parte, los demás copropietarios disponen de nueve días desde que la venta se inscribe en el Registro de la Propiedad, o desde que tienen conocimiento de ella, para ejercer el retracto: pagar al comprador lo mismo que te pagó y quedarse con tu cuota.","En la práctica ocurre muy pocas veces. Quien no ha querido o no ha podido comprarte antes, rara vez reúne el dinero en nueve días. Y si lo hace, para ti no cambia nada: ya has cobrado y estás fuera."],
+  "type":"list","items":["<strong>No es un veto.</strong> Nadie puede impedir que vendas; solo pueden sustituir al comprador.","<strong>Mismo precio.</strong> Si retraen, pagan exactamente lo que te pagó la empresa. Tú no devuelves nada.","<strong>Plazo corto.</strong> Nueve días. Pasado el plazo, la venta es definitiva.","<strong>Discreción.</strong> La compraventa se firma en notaría sin la presencia de los demás; se enteran por la notificación o por el Registro."]},
+ {"overline":"Por qué la gente vende sin avisar","h2":"Casos en los que vender sin avisar es lo más sensato","type":"cards","items":[
+  {"t":"Hermanos que bloquean","p":"Llevas años pidiendo vender la casa de los padres y siempre hay una excusa. Vender tu parte corta el bucle sin discutir más."},
+  {"t":"Expareja que no responde","p":"Tras la separación, la vivienda sigue a nombre de los dos y la otra persona no contesta ni al abogado. Tu parte se puede vender igual."},
+  {"t":"Copropietarios que no conoces","p":"Herencias con primos, tíos o cuotas compradas en subasta: no hay relación ni forma de negociar. La venta de tu cuota es la salida limpia."},
+  {"t":"Quieres evitar el conflicto","p":"No te apetece el enfrentamiento familiar ni el juicio. Prefieres cobrar y que sea otro quien se entienda con ellos."}]},
+ {"overline":"Cómo lo hacemos","h2":"Cómo vendemos tu parte con discreción","type":"steps","items":[
+  {"t":"Nos cuentas el caso en privado","p":"Nadie recibe llamadas ni visitas. Solo necesitamos los datos del inmueble y tu porcentaje; la nota simple la pedimos nosotros."},
+  {"t":"Oferta por escrito","p":"En 48 horas tienes el precio. Decides con calma, sin que nadie más sepa que estás valorando vender."},
+  {"t":"Firma en notaría","p":"Firmas tú y firmamos nosotros. Cobras en el acto. Después, la notificación legal a los demás copropietarios la gestionamos nosotros."}],
+  "outro":["Si prefieres avisar antes para dar a tu familia la opción de comprarte, también te ayudamos: con nuestra oferta en la mano tienen un precio de referencia claro."]},
+ {"type":"callout","items":{"t":"¿Quieres salir sin más discusiones?","p":"Cuéntanos tu caso con total confidencialidad. Precio en 48 horas y firma cuando tú decidas.","cta":"Pedir oferta confidencial"}}],
+"faqs":[("¿Es legal vender mi parte sin decírselo a mis hermanos?","Sí. El Código Civil permite a cada copropietario vender su cuota libremente. La ley solo exige que, una vez vendida, los demás puedan ejercer el retracto si quieren."),
+("¿Pueden anular la venta?","No pueden anularla. Pueden sustituir al comprador pagando el mismo precio dentro del plazo de retracto. Para ti el resultado es idéntico: cobras y sales."),
+("¿Tengo que notificar la venta yo?","La notificación formal la hacemos nosotros como compradores, normalmente por burofax o a través del propio Registro. Tú no tienes que hablar con nadie si no quieres."),
+("¿Y si la vivienda la ocupa el otro propietario?","Puedes vender igual. Compramos partes de viviendas ocupadas por otro copropietario; el precio lo tiene en cuenta y el resto es asunto nuestro."),
+("¿Puedo vender solo una parte de mi parte?","Sí, aunque es poco habitual. Lo normal es vender la cuota completa para salir del todo de la copropiedad.")],
+"related":[("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Qué es un proindiviso","/que-es-un-proindiviso/")],
+"cta_title":"Vende tu parte sin pedir permiso a nadie"})
+# ---------- 31 HERENCIA ----------
+P.append({"post_id":31,"kicker":"Herencias compartidas","h1":"Vender tu parte de una casa heredada aunque los demás herederos no quieran",
+"sub":"Has heredado una parte de un piso o una casa y uno de tus hermanos bloquea la venta. Compramos tu cuota hereditaria con pago al contado, sin pleitos y sin esperar al acuerdo de nadie.",
+"checks":["Herencias aceptadas o pendientes","Varios herederos, sin acuerdo","Oferta en 48 h"],
+"sections":[
+ {"overline":"La situación","h2":"Puedo vender mi parte de una casa heredada: sí, y sin el consentimiento de tus hermanos","intro":["Cuando una vivienda se hereda entre varios hermanos nace un proindiviso: todos sois dueños de todo, en la proporción que marca la herencia, y nadie es dueño de una habitación concreta. Para vender la casa entera hace falta que todos firmen. Para vender tu parte, no.","El artículo 399 del Código Civil te permite vender tu cuota a un tercero. Los demás herederos solo tienen derecho de retracto: pueden quedarse con tu parte pagando el mismo precio. Si no lo hacen, la venta es firme. Esa es la salida cuando un hermano no quiere vender, no quiere comprar y tampoco quiere hablar."]},
+ {"overline":"Antes de vender","h2":"Qué tiene que estar hecho para vender tu parte de la herencia","type":"steps","items":[
+  {"t":"Aceptar la herencia","p":"La herencia debe estar aceptada y adjudicada, al menos tu parte. Si aún no está hecha, lo gestionamos contigo: a veces basta con que aceptes tú tu cuota."},
+  {"t":"Liquidar el impuesto de sucesiones","p":"Sin la liquidación del impuesto de sucesiones (y de la plusvalía municipal, si aplica) el Registro no inscribe. En muchas comunidades hay bonificaciones importantes entre padres e hijos."},
+  {"t":"Inscribir en el Registro","p":"Con la herencia inscrita a nombre de los herederos, tu cuota ya es vendible. Si falta este paso, lo incluimos en el proceso y descontamos solo el coste real."}],
+  "outro":["¿No sabes en qué punto está vuestra herencia? Cuéntanoslo igualmente. Vemos casos a medio hacer todas las semanas y sabemos desatascarlos."]},
+ {"overline":"Casos típicos","h2":"Casos de herencia que compramos","type":"cards","items":[
+  {"t":"Un hermano vive en la casa y no paga nada","p":"Ocupa la vivienda de los padres desde hace años, no quiere comprar tu parte ni vender. Tú pagas IBI y derramas de algo que no usas. Vende tu cuota y deja de poner dinero."},
+  {"t":"Herencia entre tres o más hermanos","p":"Cuanta más gente, más difícil el acuerdo. Compramos cuotas de un tercio, un cuarto o menos, incluso si varios hermanos quieren vender a la vez."},
+  {"t":"Herencia con usufructo del padre o la madre","p":"Si uno de los padres conserva el usufructo, tu nuda propiedad también se puede vender. El precio tiene en cuenta la edad del usufructuario."},
+  {"t":"Piso heredado con hipoteca o deudas","p":"Hipoteca sin terminar de pagar, deudas de comunidad o un embargo no impiden la venta de tu parte. Se liquidan en la firma."},
+  {"t":"Herencia de tíos o abuelos con muchos herederos","p":"Primos que no conoces, cuotas pequeñas, nadie que lidere. Compramos tu parte y nos entendemos nosotros con el resto."},
+  {"t":"Casa de pueblo o finca rústica heredada","p":"También compramos en municipios pequeños: casas de pueblo, fincas, locales y naves. La oferta refleja el mercado de la zona."}]},
+ {"overline":"Cuánto","h2":"Cuánto pagan por una parte de herencia","intro":["Igual que en cualquier proindiviso: entre el 40 % y el 70 % del valor de tu cuota, según el inmueble, la ciudad, si está ocupado y si la herencia está o no inscrita. Si tus hermanos están dispuestos a negociar, el porcentaje sube; si hay bloqueo total, baja.","Una ventaja de las herencias recientes: la ganancia patrimonial en IRPF suele ser mínima, porque el valor de adquisición es el declarado en la herencia. Lo vemos contigo caso por caso."],
+  "type":"callout","items":{"t":"Deja de pagar por una casa que no usas","p":"Dinos qué habéis heredado, cuántos sois y en qué punto está la herencia. Precio por escrito en 48 horas, sin compromiso.","cta":"Pedir oferta por mi parte"}}],
+"faqs":[("¿Puedo vender mi parte de la herencia si mi hermano no quiere?","Sí. No necesitas su consentimiento para vender tu cuota a un tercero. Él tendrá derecho de retracto durante nueve días desde que conozca la venta, pagando el mismo precio."),
+("¿Y si la herencia todavía no está aceptada?","Hay que aceptarla antes. Si los demás no quieren aceptar, tú puedes aceptar y adjudicarte tu cuota; nosotros te orientamos y, si hace falta, gestionamos el trámite."),
+("¿Se puede vender la parte de un piso heredado si uno de los herederos vive en él?","Sí. La venta de tu cuota no depende de quién ocupe la vivienda. El precio sí lo tiene en cuenta, porque el comprador tardará más en disponer del inmueble."),
+("¿Qué impuestos pago al vender mi parte heredada?","IRPF por la diferencia entre el valor declarado en la herencia y el precio de venta (suele ser baja), y plusvalía municipal si el suelo se ha revalorizado desde la fecha del fallecimiento."),
+("¿Y si somos varios hermanos los que queremos vender?","Mejor todavía. Compramos varias cuotas a la vez y, si sumáis mayoría, la operación es más sencilla y el precio suele ser mejor.")],
+"related":[("Vender entre hermanos","/vender-proindiviso-entre-hermanos/"),("Extinción de condominio entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/")],
+"cta_title":"Vende tu parte de la herencia y cobra en notaría"})
+for s in P: run(s)
