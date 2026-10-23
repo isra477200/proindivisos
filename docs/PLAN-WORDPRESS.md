@@ -1,51 +1,77 @@
-# Plan técnico WordPress — zonaproindiviso.com (23/10/2026)
+# Plan técnico WordPress — zonaproindiviso.com (v2, 23/10/2026)
 
-Sustituye al stack Astro/Cloudflare del encargo v2 (decisión 6 de Isra). Todo lo que pide el encargo se cumple dentro de WordPress con un tema propio y un plugin propio; no se depende de constructores ni de servicios de pago.
+Sustituye al stack Astro/Cloudflare del encargo v2 (decisión 6 de Isra) y a la v1 de este plan (tema y plugin propios). Decisiones de Isra del 23/10 por la tarde: **Elementor Pro con su MCP oficial, Yoast SEO, sin plugin propio, sin ACF**.
 
 ## 1. Hosting y base
-- Hosting propio de WebSEO (el que usáis con clientes). PHP 8.2+, HTTPS, HTTP/2, caché de página (LiteSpeed Cache si el servidor es LiteSpeed; si no, WP Super Cache). Sin Cloudflare de pago; el plan gratuito de Cloudflare como DNS/CDN es opcional.
-- WordPress limpio, idioma es_ES, enlaces permanentes `/%postname%/`, sin plugins de constructor.
+- Hosting propio de WebSEO. PHP 8.2+, HTTPS, HTTP/2, caché de página (LiteSpeed Cache si el servidor es LiteSpeed; si no, WP Super Cache). Sin Cloudflare de pago.
+- WordPress limpio, es_ES, enlaces permanentes `/%postname%/`.
 - Dominio: zonaproindiviso.com (a 23/10 sin DNS ni RDAP: registrar).
 
-## 2. Piezas que construyo yo
-### 2.1 Tema propio `zonaproindiviso` (ligero, sin jQuery)
-- Plantillas: portada, página transaccional, página hub, página geo (jerárquica), legales, 404, gracias.
-- Patrón de landing del encargo §5: hero + formulario corto, barra fija móvil (Llamar · WhatsApp · Formulario), pestaña lateral "Te llamamos nosotros" en escritorio, cómo funciona, confianza, bloque específico, FAQ, CTA final.
-- Colores de compramostucoche.es (`#0d4f78`, `#e87524`, `#eff5f8`) sobre blanco; tipografía Manrope (self-hosted, no Google Fonts para evitar cookies y latencia).
-- CSS crítico inline, un solo CSS, un JS mínimo (formularios, pestaña, consent). Objetivo LCP < 2,5 s móvil.
+## 2. Stack cerrado
 
-### 2.2 Plugin propio `zp-core` (toda la lógica, independiente del tema)
-- **Ajustes únicos** (una pantalla): teléfono, WhatsApp, email de leads, titular legal, clave Web3Forms, claves hCaptcha, ID de GTM, URL del webhook n8n. Se exponen como `[zp_telefono]`, `[zp_whatsapp]` y funciones de tema. **Cambiar el teléfono aquí lo cambia en toda la web** (incluidos schema y botones).
-- **Leads**: tipo de contenido `zp_lead` (privado) con nombre, teléfono, provincia/ciudad, origen del proindiviso, % propiedad, comentario, URL de origen, página, UTM, dispositivo, IP anonimizada, consentimiento y fecha. Listado y exportación CSV desde el admin. **Este es "su propio backend" (decisión 4).**
-- **Endpoint** `POST /wp-json/zp/v1/lead`: valida (nonce, honeypot, hCaptcha, teléfono ES), guarda el lead, envía email al gestor **vía Web3Forms** (transporte pedido en el encargo), dispara el webhook n8n para el aviso por WhatsApp (`whatsapp-send`, ya operativo) y devuelve la URL de `/gracias/`.
-- **Formularios**: bloque/shortcode corto (nombre + teléfono) y completo. Mismo endpoint.
-- **SEO en el propio plugin**: title y meta por página (campos propios), canonical, Open Graph, JSON-LD (Organization/WebSite en todo, Service en transaccionales, FAQPage donde hay FAQ, BreadcrumbList en geo), `noindex` por página, sitemap por secciones (core WP + filtro), robots.txt. Sin Yoast ni Rank Math: menos peso y nada que se desincronice.
-- **Generador geo**: comando WP-CLI `wp zp geo generar` que lee `docs/datos/geo.json` (CCAA → provincias → ciudades con sus datos locales) y crea/actualiza la jerarquía de páginas en borrador. Las páginas se publican por lotes cuando pasan el checklist.
-- **Consent Mode v2 + GTM**: banner propio mínimo (aceptar/rechazar/configurar) que fija `gtag('consent', ...)` antes de cargar GTM. Eventos: `lead_corto`, `lead_completo`, `click_tel`, `click_whatsapp`, `abrir_pestana`.
+| Pieza | Para qué | Coste |
+|---|---|---|
+| **Hello Elementor** (tema) | Base vacía, cero CSS/JS propio. | Gratis |
+| **Elementor Pro** | Theme Builder (cabecera, pie, plantilla geo), widgets globales (barra fija móvil, pestaña "Te llamamos nosotros", botones de llamada/WhatsApp), Elementor Forms (leads), acordeón con schema FAQ, popup. | Licencia anual (la aporta Isra) |
+| **Elementor MCP** (oficial, dentro de Elementor) | Claude/ChatGPT crean y editan páginas en el editor. Se activa en el admin y genera el prompt de conexión. | Incluido |
+| **WordPress MCP** (Automattic, gratuito) | Lo que Elementor MCP no toca: ajustes, Yoast, leads, usuarios. Conectado a Claude y ChatGPT como conector remoto con token. | Gratis |
+| **Yoast SEO** (gratuito) | Títulos, metas, canonical, Open Graph, sitemap, breadcrumbs, schema Organization/WebPage/Breadcrumb, noindex por página, robots. | Gratis |
+| **Complianz** (gratuito) | Banner de cookies con Consent Mode v2 + carga de GTM condicionada. | Gratis |
+| **WPCode** (gratuito) | Un snippet de ~50 líneas: ajuste único de **teléfono y WhatsApp** y sus dos etiquetas dinámicas para Elementor. Visible y editable desde el admin, sin plugin propio. | Gratis |
 
-### 2.3 Conexión MCP (decisión del encargo §8)
-- Opción A (recomendada): plugin **WordPress MCP de Automattic** (gratuito, código abierto). Expone la REST de WordPress como servidor MCP remoto con token. Se conecta a Claude (conector personalizado) y a ChatGPT (conectores en modo desarrollador). Con él, Claude/ChatGPT crean y editan páginas, cambian ajustes del plugin (teléfono/WhatsApp vía REST de `zp-core`) y leen leads.
-- Opción B (si A no cubre algo): servidor MCP propio en el VPS de Hostinger (junto a n8n) que envuelve la REST de WordPress con una Application Password. Mismas herramientas: `get_config`, `set_config`, `list_pages`, `update_page`, `create_geo_page`, `seo_check`, `list_leads`.
-- En ambos casos la REST de `zp-core` registra sus ajustes y metadatos SEO con `show_in_rest`, así que cualquier cliente MCP puede tocarlos.
+**Fuera:** ACF (Elementor Pro lee los campos personalizados nativos de WordPress; ACF solo aportaría una interfaz de edición, se añade si algún día el equipo quiere editar datos geo a mano), Web3Forms (lo sustituye Elementor Forms), Rank Math, packs de addons de Elementor, constructores adicionales, Google Fonts remotas, reCAPTCHA de Google.
 
-### 2.4 Imágenes (MiniMax, decisión 7)
-- 12 piezas del encargo §11, generadas con la API de MiniMax (clave: la que ya vive en n8n para `panel-creativos`, o una clave nueva que me pases). Sin caras. Conversión a WebP/AVIF, nombres con keyword, `alt` escrito a mano, dimensiones declaradas, lazy salvo hero.
-- Páginas geo: foto de la ciudad vía webhook de Pixabay (ya operativo) o ninguna.
+## 3. Cómo se cumple cada punto del encargo
 
-## 3. Lo que NO se instala
-Constructores (Elementor, Divi), plugins de SEO, plugins de formularios, sliders, Google Fonts remotas, reCAPTCHA de Google (se usa hCaptcha, gratuito y sin cookies de perfilado).
+### 3.1 Teléfono y WhatsApp en un único sitio (encargo §7)
+- Snippet WPCode: registra dos opciones (`zp_telefono`, `zp_whatsapp`), una página de ajustes mínima (Ajustes → Zona Proindiviso) y dos **etiquetas dinámicas de Elementor** ("Teléfono", "WhatsApp" con mensaje prerrellenado por página).
+- En todos los widgets el número nunca se escribe: se elige Dinámico → Teléfono / WhatsApp. Los bloques que lo contienen (barra móvil, pestaña, botones) son **widgets globales**, así que el cambio es doble: un ajuste y, si hiciera falta, un global.
+- Yoast toma el teléfono del mismo ajuste para el schema Organization (filtro en el mismo snippet).
+- Cambio de propietario = cambiar dos campos + nombre/logo en Yoast.
+
+### 3.2 Formularios y leads (encargo §5-6, decisión 4)
+- **Elementor Forms**: formulario corto (nombre + teléfono) en la pestaña "Te llamamos nosotros" y en el hero; formulario completo (nombre, teléfono, provincia, origen del proindiviso, % de propiedad, comentario) al final de cada página.
+- Campos ocultos con etiquetas dinámicas: URL de la página, título, UTM (parámetros de URL), dispositivo.
+- Acciones tras enviar: **Guardar envío** (Submissions = backend propio, exportable a CSV), **Email** al gestor de leads, **Webhook** al n8n que avisa por WhatsApp (`whatsapp-send`) y redirección a `/gracias/`.
+- Antispam: honeypot de Elementor + hCaptcha (gratuito, integración nativa de Elementor Forms).
+
+### 3.3 Pestaña "Te llamamos nosotros" (encargo §6)
+Widget global dentro de un popup de Elementor Pro anclado al lateral derecho en escritorio; en móvil se sustituye por la barra fija inferior (Llamar · WhatsApp · Formulario). Solo nombre y teléfono.
+
+### 3.4 Páginas geo (arquitectura §5)
+- Páginas normales de WordPress en jerarquía `/vender-proindiviso/{ccaa}/{provincia}/{ciudad}/`.
+- Datos locales (registros de la propiedad, €/m², plusvalía orientativa, comarcas, FAQ locales) en **campos personalizados nativos** de cada página. Las 90 páginas las crea Claude por la API REST una sola vez a partir de `docs/datos/geo.json`, en borrador.
+- Una **plantilla única del Theme Builder** (condición: páginas hijas de "Vender proindiviso") lee esos campos con la etiqueta dinámica "Campo personalizado". Una plantilla, 90 URLs, contenido propio en cada una.
+- Publicación por lotes según `ARQUITECTURA-URLS.md` §8; solo se publica lo que pasa el checklist SEO.
+
+### 3.5 SEO por URL (encargo §9)
+- Yoast: title, meta, canonical, breadcrumbs, sitemap por tipo, noindex en `/gracias/`.
+- Elementor: un solo H1 por página, acordeón FAQ con schema, imágenes con alt y dimensiones, widgets globales para no repetir CSS.
+- Rendimiento: Hello + contenedores Flexbox, experimentos de Elementor activados (DOM optimizado, carga CSS mejorada, iconos inline, lazy de fondos), Manrope alojada en local, caché de página, sin addons. Objetivo LCP < 2,5 s e INP < 200 ms en móvil, medido página a página.
+- Auditoría final con rastreador (Screaming Frog gratuito hasta 500 URLs): cero títulos duplicados, cero metas vacías, cero 4xx internos. Se entrega el informe; no se promete "SEO perfecto".
+
+### 3.6 Medición (encargo v2 §7)
+GTM cargado por Complianz tras consentimiento; GA4 con eventos `lead_corto`, `lead_completo`, `click_tel`, `click_whatsapp`, `abrir_pestana` (los clics se capturan en GTM por atributos de los widgets globales). Conversiones de Google Ads preparadas aunque no haya campaña. Search Console con sitemap de Yoast.
+
+### 3.7 Imágenes (decisión 7)
+12 piezas del encargo §11 generadas con la API de MiniMax, sin caras; WebP, nombre con keyword, alt manual. Geo: foto de ciudad vía webhook de Pixabay o ninguna.
+
+### 3.8 MCP (encargo §8)
+- Elementor MCP oficial: construir y editar páginas, plantillas y widgets globales desde Claude o ChatGPT.
+- WordPress MCP (Automattic): ajustes del snippet (teléfono/WhatsApp vía REST), metas de Yoast, lectura de envíos de formularios, creación masiva de páginas geo.
+- Ambos remotos (HTTP) con token; se conectan como conector en Claude y en ChatGPT.
 
 ## 4. QA antes de dar nada por terminado
-Rastreo completo (Screaming Frog gratuito hasta 500 URLs o `wp zp seo auditar`), Lighthouse móvil en 10 URLs de cada tipo, prueba real de lead (email + WhatsApp + fila en Leads), prueba de cambio de teléfono desde ajustes y desde MCP, validación de schema en Rich Results Test, Search Console con sitemap enviado.
+Rastreo completo, Lighthouse móvil en 10 URLs de cada tipo, prueba real de lead (envío guardado + email + WhatsApp), prueba de cambio de teléfono desde ajustes y desde MCP, Rich Results Test, Search Console con sitemap enviado.
 
 ## 5. Qué necesito de Isra para la fase 3
 1. **Registrar zonaproindiviso.com** y apuntarlo al hosting.
-2. **WordPress instalado** en el dominio (o en un subdominio de pruebas, p. ej. `dev.zonaproindiviso.com`) con PHP 8.2+.
-3. **Usuario administrador** para mí + **Application Password** (Usuarios → Perfil → Contraseñas de aplicación). Con eso subo tema y plugin por la REST/WP-CLI sin pedir SFTP. Si el hosting tiene WP-CLI por SSH, mejor: dame acceso SSH.
-4. **Teléfono y WhatsApp** que irán en la web, y el **email** que recibe los leads.
-5. **Clave de Web3Forms** (gratuita, se crea con el email de leads en web3forms.com).
-6. **Clave de MiniMax** (o confirmación de que use la de n8n `panel-creativos`).
-7. **ID de GTM y propiedad GA4** (si quieres que los cree yo, acceso a la cuenta de Google de WebSEO).
-8. Claves de **hCaptcha** (gratuitas, 2 minutos en hcaptcha.com) o me dices que las cree con tu email.
+2. **WordPress instalado** en el dominio (o en `dev.zonaproindiviso.com`) con PHP 8.2+.
+3. **Elementor Pro** con licencia activa en ese sitio.
+4. **Usuario administrador** para mí + **Application Password** (Usuarios → Perfil → Contraseñas de aplicación). Con eso instalo el resto (Hello, Yoast, Complianz, WPCode) y trabajo por REST/MCP. SSH con WP-CLI si lo hay, mejor.
+5. **Teléfono y WhatsApp** de la web y el **email** que recibe los leads.
+6. **Clave de MiniMax** (o confirmación de usar la de n8n `panel-creativos`).
+7. **ID de GTM y propiedad GA4**, o acceso para crearlos.
+8. Claves de **hCaptcha** (gratuitas) o me dices que las cree con tu email.
 
-Con 1-3 arranco el tema, el plugin y el contenido; 4-8 se pueden añadir después en la pantalla de ajustes sin tocar código.
+Con 1-4 arranco; 5-8 se añaden después en ajustes sin tocar nada.

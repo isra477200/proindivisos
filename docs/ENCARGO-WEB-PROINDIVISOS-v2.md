@@ -20,6 +20,7 @@ Fecha: 23/10/2026 · Repo: `isra477200/isra` · Rama: `claude/proindivisos-resea
 | 8 | Hub extinción de condominio | Sí, pero orientado a captar, no a informar: cada página del hub empuja a "vende tu parte". Las keywords transaccionales de las campañas mandan en la estructura. |
 | 9 | Rama `main` | Creada el 23/10 desde el mismo commit; la rama de trabajo abre PR contra ella. |
 | 10 | WordPress | Isra lo monta cuando se le pida (ver docs/PLAN-WORDPRESS.md, sección "Qué necesito de Isra"). |
+| 11 | Constructor y SEO (tarde del 23/10) | **Elementor Pro + Hello Elementor** con el MCP oficial de Elementor; **Yoast SEO**; **Elementor Forms** sustituye a Web3Forms; **sin plugin propio** (solo un snippet en WPCode para teléfono/WhatsApp); **sin ACF** (campos nativos). |
 
 Donde este documento diga Astro/Cloudflare, prevalece **WordPress** según `docs/PLAN-WORDPRESS.md`. La arquitectura definitiva está en `docs/ARQUITECTURA-URLS.md`.
 
