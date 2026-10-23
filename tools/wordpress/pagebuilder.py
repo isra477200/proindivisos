@@ -207,7 +207,7 @@ def run(spec, publish=True):
         out=subprocess.run(['./emcp.sh','elementor-build-composition','@'+tf.name],capture_output=True,text=True).stdout
         ok='"success":true' in out
         # fallo transitorio del servidor bajo carga: todos los ajustes dinámicos (shortcode, enlaces tel/WhatsApp) salen como invalid_value a la vez
-        if ok or 'invalid_value' not in out: break
+        if ok or not ('invalid_value' in out or not out.strip()): break  # reintenta también si el MCP no devolvió nada (corte de red / tiempo)
         print(spec['post_id'],'reintento',intento+1,flush=True); time.sleep(8)
     os.unlink(tf.name)
     warn=re.findall(r'"warnings":\[(.*?)\]',out)

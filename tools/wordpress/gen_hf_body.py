@@ -51,6 +51,6 @@ c.st("Barra movil","display:none; flex-direction:row; gap: 8px; width:100%; padd
 c.btn("Barra llamar","Llamar",TEL,"outline","sm","flex-grow:1; flex-basis:0px; padding: 13px 6px; font-size: 14px;")
 c.btn("Barra whatsapp","WhatsApp",WA,"wa","sm","flex-grow:1; flex-basis:0px; padding: 13px 6px; font-size: 14px;")
 c.btn("Barra oferta","Pedir oferta",POPUP,"accent","sm","flex-grow:1.2; flex-basis:0px; padding: 13px 6px; font-size: 14px;")
-c.btn("Pestana","Te llamamos nosotros",POPUP,"accent","sm","position: fixed; right: 0px; top: 50%; z-index: 90; transform: translateY(-50%) rotate(-90deg); transform-origin: right bottom; font-size: 14px; letter-spacing: 0.02em; padding: 12px 22px; border-radius: 12px 12px 0 0; box-shadow: 0 -6px 18px rgba(0,0,0,0.18); @media(--mobile){ display:none; }")
+c.btn("Pestana","Te llamamos nosotros",POPUP,"accent","sm","position: fixed; right: 0px; top: 50%; z-index: 90; transform: translateY(-50%) rotate(-90deg); transform-origin: right bottom; font-size: 14px; letter-spacing: 0.02em; padding: 12px 22px; border-radius: 12px 12px 0 0; box-shadow: 0 -6px 18px rgba(0,0,0,0.18); &:hover { transform: translateY(-50%) rotate(-90deg); } @media(--mobile){ display:none; }")  # el hover genérico de "accent" (translateY(-1px)) sustituía la rotación y la pestaña saltaba al pasar el ratón
 c.save('comp_footer.json')
 print('json ok')

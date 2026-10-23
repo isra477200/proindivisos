@@ -57,18 +57,24 @@ add_filter( 'elementor/frontend/the_content', function ( $content ) {
 	}
 	return $content;
 }, 20 );
-// Carga diferida: en el documento principal, todas las imágenes de widget salvo la primera (la banda bajo el hero) van con loading="lazy".
-add_filter( 'elementor/frontend/the_content', function ( $content ) {
+// Carga diferida determinista en el documento principal: la 1ª imagen de widget (banda bajo el hero) va sin lazy; el resto con loading="lazy".
+// (WordPress a veces añade loading="lazy" por su cuenta según el umbral de imágenes; aquí se normaliza para no duplicar el atributo.)
+add_filter( 'the_content', function ( $content ) {
 	if ( is_admin() || wp_doing_ajax() || ! is_singular() || isset( $_GET['elementor-preview'] ) ) { return $content; }
 	$id = get_queried_object_id();
 	if ( ! $id || strpos( $content, 'data-elementor-id="' . $id . '"' ) === false ) { return $content; }
 	$n = 0;
 	return preg_replace_callback( '/<img\b[^>]*\bclass="[^"]*\be-image-base\b[^"]*"[^>]*>/i', function ( $m ) use ( &$n ) {
 		$n++;
-		if ( $n === 1 || strpos( $m[0], 'loading=' ) !== false ) { return $m[0]; }
-		return str_replace( '<img ', '<img loading="lazy" ', $m[0] );
+		$tag = preg_replace( '/\s+loading="[^"]*"/i', '', $m[0] );
+		return $n === 1 ? $tag : str_replace( '<img ', '<img loading="lazy" ', $tag );
 	}, $content );
-}, 30 );
+}, 99 ); // en the_content, después de wp_filter_content_tags (prioridad 12), que es quien duplicaba el atributo
+// Pestaña fija "Te llamamos nosotros" (pie 684): su hover heredaba transform:translateY(-1px) y perdía la rotación, así que saltaba al pasar el ratón. Se fuerza la transformación original.
+add_action( 'wp_head', function () {
+	$t = 'sty' . 'le';
+	echo '<' . $t . ' id="zp-tab-fix">.elementor .e-4873204c-47a7:hover,.elementor .e-4873204c-47a7:focus-visible{transform:translate3d(0,-50%,0) rotateZ(-90deg) !important}</' . $t . '>';
+}, 98 );
 add_action( 'wp_head', function () {
 	if ( ! is_singular() || ! zp_toc_aplica( get_queried_object_id() ) ) { return; }
 	$t = 'sty' . 'le';
