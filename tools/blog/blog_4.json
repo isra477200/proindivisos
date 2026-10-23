@@ -839,7 +839,7 @@
   "cta_title": "Vende tu cuota aunque el piso esté ocupado",
   "cta_text": "Compramos proindivisos con inquilino, okupa o copropietario dentro. Precio por escrito en 48 horas, firma en notaría y cobro al contado. El procedimiento lo llevamos nosotros.",
   "yoast_title": "Vender proindiviso con inquilino u okupa: lo compramos",
-  "meta_desc": "¿Tu proindiviso está alquilado, okupado o lo ocupa otro copropietario? Vende tu cuota igual. Compramos pisos ocupados: oferta en 48 h y pago al contado.",
+  "meta_desc": "Vender un proindiviso con inquilino, okupa u ocupado por otro copropietario: vende tu cuota igual. Compramos pisos ocupados con oferta en 48 h.",
   "focus_kw": "vender proindiviso con inquilino",
   "title_corto": "Proindiviso ocupado"
  },
@@ -1040,9 +1040,9 @@
   ],
   "cta_title": "Si tu ex no te compra, lo hacemos nosotros",
   "cta_text": "Compramos tu parte de la casa con fondos propios. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Sin exclusividad.",
-  "yoast_title": "Vender tu parte de la casa a tu pareja o ex: pasos e impuestos",
+  "yoast_title": "Vender tu parte de la casa a tu pareja: pasos e impuestos",
   "meta_desc": "Cómo vender tu parte de la casa a tu pareja o expareja: extinción o compraventa, hipoteca e impuestos. Y si no puede comprarte, compramos tu parte.",
-  "focus_kw": "vender mi parte de la casa a mi pareja",
+  "focus_kw": "vender tu parte de la casa a tu pareja",
   "title_corto": "Vender tu parte a tu pareja"
  },
  {
@@ -1422,8 +1422,8 @@
   "cta_title": "Deshaz el proindiviso por la puerta rápida",
   "cta_text": "Compramos tu parte con fondos propios, sin acuerdo de los demás. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
   "yoast_title": "Cómo salir de una propiedad compartida: 4 vías comparadas",
-  "meta_desc": "Cómo deshacer un proindiviso: extinción, venta conjunta, venta de tu parte o división judicial. Plazos, costes y cuál elegir. Compramos tu parte.",
-  "focus_kw": "deshacer un proindiviso",
+  "meta_desc": "Cómo salir de una propiedad compartida: extinción, venta conjunta, venta de tu parte o división judicial. Plazos, costes y cuál elegir. Compramos tu parte.",
+  "focus_kw": "salir de una propiedad compartida",
   "title_corto": "Salir de una propiedad compartida"
  },
  {
@@ -1621,8 +1621,8 @@
   "cta_title": "Un embargo no te impide vender tu parte",
   "cta_text": "Compramos cuotas con embargo propio o ajeno. Estudiamos las cargas, cancelamos lo que haga falta en notaría y te pagamos el resto al contado.",
   "yoast_title": "Embargo de un proindiviso: qué pasa con la cuota y el resto",
-  "meta_desc": "Si un copropietario tiene deudas solo se embarga su cuota, no la tuya. Qué dice la nota simple, cómo va la subasta y qué hacer. Compramos con embargo.",
-  "focus_kw": "embargo proindiviso",
+  "meta_desc": "Embargo de un proindiviso: si un copropietario tiene deudas solo se embarga su cuota, no la tuya. Nota simple, subasta y qué hacer. Compramos con embargo.",
+  "focus_kw": "embargo de un proindiviso",
   "title_corto": "Embargo de un proindiviso"
  },
  {

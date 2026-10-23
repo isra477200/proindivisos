@@ -3,19 +3,21 @@ import json
 from design import *
 c=Comp(23)
 # ---------- HERO oscuro ----------
-c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading><e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks"><e-paragraph configuration-id="Hero check 1"></e-paragraph><e-paragraph configuration-id="Hero check 2"></e-paragraph><e-paragraph configuration-id="Hero check 3"></e-paragraph></e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-heading configuration-id="Hero tarjeta titulo"></e-heading><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
+c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading><e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks">'+''.join(f'<e-flexbox configuration-id="Hero check {i}"><e-paragraph configuration-id="Hero check {i} icono"></e-paragraph><e-paragraph configuration-id="Hero check {i} texto"></e-paragraph></e-flexbox>' for i in range(1,4))+'</e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-heading configuration-id="Hero tarjeta titulo"></e-heading><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
 c.cfg("Hero",{"tag":"section"})
 c.st("Hero",f"display:flex; flex-direction:column; align-items:center; width:100%; padding: 88px 24px 120px 24px; background-color: var(--brand-primary-dark); background-image: linear-gradient(100deg, rgba(9,58,90,1) 0%, rgba(9,58,90,0.96) 48%, rgba(13,79,120,0.78) 100%), url('{HERO}'); background-size: cover; background-position: right center; @media(--tablet){{ padding: 64px 24px 110px 24px; }} @media(--mobile){{ padding: 44px 18px 96px 18px; background-image: linear-gradient(180deg, rgba(9,58,90,0.97) 0%, rgba(9,58,90,0.97) 100%), url('{HERO}'); }}")
 c.st("Hero inner","display:flex; flex-direction:row; align-items:center; gap: 64px; width:100%; max-width: 1200px; padding:0px; @media(--tablet){ gap: 36px; } @media(--mobile){ flex-direction:column; gap: 36px; }")
 c.st("Hero texto","display:flex; flex-direction:column; gap: 22px; flex-grow:1; flex-shrink:1; flex-basis:0px; width:auto; min-width:0; padding:0px;")
-overline(c,"Hero overline","Compramos proindivisos en toda España",light=True)
+overline(c,"Hero overline","Vender proindiviso en toda España",light=True)
 c.h("Hero titulo","Vende tu parte de un piso sin esperar al acuerdo de los demás","h1","font-size: clamp(2.3rem, 1.4rem + 3.4vw, 3.6rem); color: var(--white); max-width: 640px; line-height: 1.06;")
 c.p("Hero sub","Compramos tu proindiviso directamente, con pago al contado en notaría. Te damos un precio por escrito en 48 horas. Sin agencias, sin gastos y sin compromiso.","font-size: 19px; line-height: 1.6; color: rgba(255,255,255,0.82); max-width: 560px; @media(--mobile){ font-size: 17px; }")
 c.st("Hero botones","display:flex; flex-direction:row; flex-wrap:wrap; gap: 12px; width:100%; padding:0px;")
 c.btn("Hero wa","Escribir por WhatsApp",WA,"wa","lg"); c.btn("Hero tel","Llamar ahora",TEL,"outline-white","lg")
 c.st("Hero checks","display:flex; flex-direction:row; flex-wrap:wrap; gap: 8px 26px; width:100%; padding: 6px 0px 0px 0px;")
 for i,t in enumerate(["Oferta en 48 h","Pago al contado en notaría","Gastos a nuestro cargo"],1):
-    c.p(f"Hero check {i}",f"<strong>✓</strong>&nbsp; {t}","font-size: 15px; font-weight: 700; color: rgba(255,255,255,0.9); strong { color: var(--brand-accent); }".replace(" strong { color: var(--brand-accent); }",""))
+    c.st(f"Hero check {i}","display:flex; flex-direction:row; align-items:center; gap: 6px; width:auto; padding:0px;")
+    c.p(f"Hero check {i} icono","✓","font-size: 15px; font-weight: 800; color: var(--brand-accent);",tag="span")
+    c.p(f"Hero check {i} texto",t,"font-size: 15px; font-weight: 700; color: rgba(255,255,255,0.9);")
 c.st("Hero tarjeta","display:flex; flex-direction:column; gap: 8px; flex-grow:0; flex-shrink:0; flex-basis: 440px; width: 440px; max-width:100%; padding: 0px 30px 30px 30px; background-color: var(--white); border-radius: 20px; box-shadow: 0 30px 80px rgba(0,0,0,0.35); overflow:hidden; @media(--tablet){ flex-basis: 380px; width: 380px; } @media(--mobile){ flex-basis:auto; width:100%; padding: 0px 22px 24px 22px; }")
 c.st("Hero tarjeta franja","width: calc(100% + 60px); height: 8px; margin: 0px 0px 22px -30px; padding:0px; background-color: var(--brand-accent); @media(--mobile){ width: calc(100% + 44px); margin-left: -22px; }")
 c.h("Hero tarjeta titulo","Te llamamos nosotros","h3","font-size: 24px; color: var(--brand-primary);")
@@ -87,17 +89,17 @@ faqs=[("¿Puedo vender mi parte si los demás propietarios no quieren?","Sí. Ca
 ("¿Qué pasa si hay una hipoteca sobre el inmueble?","Compramos igual. La parte proporcional de la deuda se cancela en la firma con el dinero de la venta y tú recibes el resto."),
 ("¿Y si hay un inquilino o un okupa?","Compramos también en esos casos; es nuestra especialidad. El precio baja algo, pero vendes y dejas de pagar gastos de algo que no usas."),
 ("¿Puedo pedir una oferta solo para saber cuánto vale mi parte?","Sí. Pedir oferta no te compromete a nada. Muchas personas la usan para negociar con sus propios hermanos o con su expareja.")]
-items=''.join(f'<e-accordion-item configuration-id="FAQ item {i}"><e-accordion-item-header configuration-id="FAQ header {i}"><e-accordion-item-title configuration-id="FAQ titulo {i}"><e-paragraph configuration-id="FAQ pregunta {i}"></e-paragraph></e-accordion-item-title><e-accordion-item-icon configuration-id="FAQ icono {i}"></e-accordion-item-icon></e-accordion-item-header><e-accordion-item-content configuration-id="FAQ contenido {i}"><e-paragraph configuration-id="FAQ respuesta {i}"></e-paragraph></e-accordion-item-content></e-accordion-item>' for i in range(1,len(faqs)+1))
+items=''.join(f'<e-accordion-item configuration-id="FAQ item {i}"><e-accordion-item-header configuration-id="FAQ header {i}"><e-accordion-item-title configuration-id="FAQ titulo {i}"><e-heading configuration-id="FAQ pregunta {i}"></e-heading></e-accordion-item-title><e-accordion-item-icon configuration-id="FAQ icono {i}"></e-accordion-item-icon></e-accordion-item-header><e-accordion-item-content configuration-id="FAQ contenido {i}"><e-paragraph configuration-id="FAQ respuesta {i}"></e-paragraph></e-accordion-item-content></e-accordion-item>' for i in range(1,len(faqs)+1))
 c.add(f'<e-div-block configuration-id="FAQ"><e-flexbox configuration-id="FAQ inner"><e-flexbox configuration-id="FAQ cabecera"><e-paragraph configuration-id="FAQ overline"></e-paragraph><e-heading configuration-id="FAQ titulo"></e-heading></e-flexbox><e-accordion configuration-id="FAQ acordeon">{items}</e-accordion></e-flexbox></e-div-block>')
 c.cfg("FAQ",{"tag":"section"}); section(c,"FAQ","var(--surface-soft)"); inner(c,"FAQ inner",maxw="860px",gap="28px")
 c.st("FAQ cabecera","display:flex; flex-direction:column; gap: 12px; width:100%; padding:0px;")
 overline(c,"FAQ overline","Preguntas frecuentes")
-c.h("FAQ titulo","Lo que nos preguntan antes de vender","h2")
+c.h("FAQ titulo","Preguntas sobre vender un proindiviso","h2")
 c.cfg("FAQ acordeon",{"default_state":"all_collapsed","max_expanded":"one","show_icon":True,"faq_schema":True}); c.st("FAQ acordeon","display:flex; flex-direction:column; gap: 10px; width:100%;")
 for i,(q,a) in enumerate(faqs,1):
     c.st(f"FAQ item {i}","width:100%; background-color: var(--white); border: 1px solid var(--line); border-radius: 14px; overflow:hidden;")
     c.st(f"FAQ header {i}","padding: 18px 22px; gap: 12px;")
-    c.p(f"FAQ pregunta {i}",q,"font-size: 17px; font-weight: 700; color: var(--brand-primary);")
+    c.h(f"FAQ pregunta {i}",q,"h3","font-size: 17px; font-weight: 700; line-height: 1.4; color: var(--brand-primary); margin: 0px;")
     c.st(f"FAQ icono {i}","color: var(--brand-accent);"); c.st(f"FAQ contenido {i}","padding: 0px 22px 20px 22px;")
     c.p(f"FAQ respuesta {i}",a,"font-size: 16px; line-height: 1.7; color: var(--ink-muted);")
 # ---------- CTA FINAL ----------
@@ -117,10 +119,17 @@ c.cfg("CTA final",{"tag":"section"}); section(c,"CTA final","var(--white)")
 c.st("CTA inner","display:flex; flex-direction:row; align-items:flex-start; gap: 56px; width:100%; max-width: 1200px; padding:0px; @media(--mobile){ flex-direction:column; gap: 28px; }")
 c.st("CTA texto","display:flex; flex-direction:column; gap: 16px; flex-grow:0; flex-shrink:0; flex-basis: 40%; width: 40%; padding:0px; position: sticky; top: 100px; @media(--mobile){ flex-basis:auto; width:100%; position: static; }")
 overline(c,"CTA overline","Pide tu oferta")
-c.h("CTA titulo","Gratis, por escrito y sin compromiso","h2")
-c.p("CTA p","Rellena el formulario y te llamamos en menos de 24 horas laborables con una oferta. Si lo prefieres, llámanos o escríbenos ahora.","font-size: 17px; line-height: 1.6; color: var(--ink-muted);")
+c.h("CTA titulo","Vender tu proindiviso: gratis, por escrito y sin compromiso","h2")
+c.p("CTA p","Rellena el formulario y te llamamos en menos de 24 horas laborables con una oferta. Si lo prefieres, llámanos o escríbenos ahora. La venta de tu cuota la regula el <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763\" target=\"_blank\" rel=\"noopener\">artículo 399 del Código Civil</a>.","font-size: 17px; line-height: 1.6; color: var(--ink-muted);")
 c.cfg("CTA tel",{"tag":"span","paragraph":{"name":"shortcode","settings":{"shortcode":"[zp_telefono]"}},"link":{"destination":TEL,"tag":"a"}}); c.st("CTA tel","font-family: var(--font-heading); font-size: 30px; font-weight: 800; color: var(--brand-primary); text-decoration:none; letter-spacing: -0.02em;")
 c.btn("CTA wa","Escribir por WhatsApp",WA,"wa","md","align-self:flex-start;")
 c.st("CTA tarjeta","display:flex; flex-direction:column; flex-grow:1; flex-shrink:1; flex-basis:0px; width:auto; min-width:0; padding: 34px; background-color: var(--surface-soft); border: 1px solid var(--line); border-radius: 20px; @media(--mobile){ width:100%; padding: 20px; }")
 c.cfg("CTA formulario",{"component_id":85})
 c.save('comp_home.json'); print('home json ok')
+if __name__=='__main__' and '--run' in sys.argv:
+    import subprocess
+    from pagebuilder import _to_draft
+    _to_draft(23)
+    out=subprocess.run(['./emcp.sh','elementor-build-composition','@comp_home.json'],capture_output=True,text=True).stdout
+    print('home', 'OK' if '"success":true' in out else out[:300])
+    if '"success":true' in out: subprocess.run(['./emcp.sh','elementor-publish-document',json.dumps({"post_id":23})],capture_output=True,text=True)

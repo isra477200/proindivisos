@@ -268,7 +268,7 @@
     "h2": "Ventajas y desventajas según tu situación",
     "type": "cards",
     "intro": [
-     "El mismo proindiviso pesa distinto según quién lo mira. Para un heredero que vive lejos, la cuota es un gasto fijo y una fuente de discusiones familiares. Para quien vive en el piso, es la forma de tener una casa entera pagando una parte. Para un inversor, es un activo ilíquido con un socio que no eligió. Estas son las cuatro situaciones más habituales."
+     "El mismo proindiviso pesa distinto según quién lo mira. Para un heredero que vive lejos, la cuota es un gasto fijo y una fuente de discusiones familiares. Si vives en el piso, es la forma de tener una casa entera pagando una parte. Como inversor, es un activo ilíquido con un socio que no eligió. Estas son las cuatro situaciones más habituales."
     ],
     "items": [
      {
@@ -407,7 +407,7 @@
   ],
   "cta_title": "Quédate con lo bueno: cobra tu parte y olvida el resto",
   "cta_text": "Compramos tu cuota de proindiviso con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
-  "yoast_title": "Proindiviso: ventajas y desventajas de la propiedad compartida",
+  "yoast_title": "Proindiviso: ventajas y desventajas de compartir propiedad",
   "meta_desc": "Proindiviso: ventajas y desventajas para herederos, parejas e inversores, con tabla comparativa. Si pesan más los problemas, compramos tu cuota en semanas.",
   "focus_kw": "proindiviso ventajas y desventajas",
   "title_corto": "Ventajas y desventajas"
@@ -587,7 +587,7 @@
   "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado y sin exclusividad.",
   "yoast_title": "Proindiviso, condominio y comunidad de bienes: diferencias",
   "meta_desc": "Proindiviso, condominio, copropiedad y comunidad de bienes son lo mismo en España. Te explicamos cada término y compramos tu cuota si quieres salir.",
-  "focus_kw": "condominio vivienda",
+  "focus_kw": "proindiviso condominio comunidad de bienes",
   "title_corto": "Condominio y comunidad de bienes"
  },
  {
@@ -791,9 +791,9 @@
   ],
   "cta_title": "Ejerce tu derecho del artículo 399: vende tu cuota",
   "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
-  "yoast_title": "Proindiviso en el Código Civil: artículos 392 a 406 explicados",
+  "yoast_title": "Proindiviso en el Código Civil: artículos 392 a 406",
   "meta_desc": "El proindiviso en el Código Civil: artículos 392 a 406 explicados con ejemplos, derechos y obligaciones de cada copropietario. Compramos tu cuota en 48 h.",
-  "focus_kw": "proindiviso codigo civil",
+  "focus_kw": "proindiviso en el Código Civil",
   "title_corto": "Proindiviso en el Código Civil"
  },
  {
@@ -1110,7 +1110,7 @@
     "h2": "El tiempo es el factor que multiplica todos los demás",
     "type": "text",
     "intro": [
-     "Un ejemplo real con cifras orientativas. Tres hermanos heredan un piso de 180.000 euros en 2015. Ninguno lo usa, ninguno quiere venderlo por debajo de lo que creen que vale y uno de ellos no contesta. En 2020 fallece uno de los hermanos y entran su viuda y dos hijos. En 2023 la comunidad de vecinos reclama 4.000 euros de derramas impagadas. En 2025 el piso, sin reformar y con humedades, vale 150.000 euros y la cuota de cada hermano original, que en 2015 habría vendido por unos 36.000 euros, hoy se compra por unos 22.000 euros.",
+     "Un ejemplo real con cifras orientativas. Tres hermanos heredan un piso de 180.000 euros en 2015. Ninguno lo usa, ninguno quiere venderlo por debajo de lo que creen que vale y uno de ellos no contesta. En 2020 fallece uno de los hermanos y entran su viuda y dos hijos. Tres años más tarde, la comunidad de vecinos reclama 4.000 euros de derramas impagadas. Ya en 2025, el piso, sin reformar y con humedades, vale 150.000 euros y la cuota de cada hermano original, que en 2015 habría vendido por unos 36.000 euros, hoy se compra por unos 22.000 euros.",
      "Nadie hizo nada mal. Simplemente, nadie hizo nada. Por eso la decisión más rentable en un proindiviso suele ser la primera que se toma, no la que se toma después de diez años de espera. Si uno de los tres hubiera vendido su cuota en 2016, habría cobrado más, no habría pagado derramas y no tendría hoy a cinco personas al otro lado de la mesa."
     ]
    },
@@ -1389,9 +1389,9 @@
   ],
   "cta_title": "Si tienes una cuota, nosotros somos el comprador",
   "cta_text": "Compramos proindivisos con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
-  "yoast_title": "¿Merece la pena comprar un proindiviso? Riesgos y rentabilidad",
+  "yoast_title": "¿Merece la pena comprar un proindiviso? Riesgos reales",
   "meta_desc": "Comprar un proindiviso es legal, pero es negocio de profesionales: capital, abogados y años de espera. Cuentas reales. Nosotros compramos tu cuota en 48 h.",
-  "focus_kw": "comprar proindiviso",
+  "focus_kw": "comprar un proindiviso",
   "title_corto": "Comprar un proindiviso"
  },
  {
@@ -1593,9 +1593,9 @@
   ],
   "cta_title": "Ahórrate la minuta: vende tu cuota y cobra en semanas",
   "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
-  "yoast_title": "Abogado para un proindiviso: cuándo hace falta y cuánto cuesta",
+  "yoast_title": "Abogado para un proindiviso: cuándo hace falta y qué cuesta",
   "meta_desc": "Abogado proindiviso: cuándo lo necesitas, minuta orientativa de la división de cosa común por fases y cuándo no hace falta. Compramos tu cuota sin juicio.",
-  "focus_kw": "abogado proindiviso",
+  "focus_kw": "abogado para un proindiviso",
   "title_corto": "Abogado para proindiviso"
  },
  {
@@ -1777,8 +1777,8 @@
   "cta_title": "No esperes a la subasta: cobra tu parte en semanas",
   "cta_text": "Compramos tu cuota con fondos propios en toda España, incluso con juicio iniciado. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado.",
   "yoast_title": "Subasta en la división de cosa común: cómo funciona y precio",
-  "meta_desc": "Subasta proindiviso: cómo funciona la división de cosa común en el Portal del BOE, tasación, posturas y a cuánto se adjudica. Compramos tu cuota antes.",
-  "focus_kw": "subasta proindiviso",
+  "meta_desc": "Subasta en la división de cosa común: cómo funciona en el Portal del BOE, tasación, posturas y a cuánto se adjudica. Compramos tu cuota antes del remate.",
+  "focus_kw": "subasta en la división de cosa común",
   "title_corto": "Subasta división cosa común"
  },
  {
@@ -1976,9 +1976,9 @@
   ],
   "cta_title": "Él puede negarse a vender. Tú no necesitas su permiso",
   "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
-  "yoast_title": "¿Se puede obligar a vender a un copropietario? Qué dice la ley",
+  "yoast_title": "Se puede obligar a vender a un copropietario: la ley",
   "meta_desc": "Se puede obligar a vender a un copropietario: no su cuota, pero sí a dividir el inmueble (art. 400). Qué hacer si uno no quiere vender: compramos tu parte.",
-  "focus_kw": "se puede obligar a vender a un copropietario",
+  "focus_kw": "obligar a vender a un copropietario",
   "title_corto": "Obligar a vender"
  },
  {
@@ -2154,7 +2154,7 @@
   "cta_text": "Compramos tu parte con fondos propios en toda España y gestionamos el retracto. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado.",
   "yoast_title": "Tanteo y retracto entre copropietarios: plazos y precio",
   "meta_desc": "Derecho de tanteo y retracto entre copropietarios: 9 días del art. 1522, un mes del 1067, precio y cómo se ejerce. Compramos tu cuota y gestionamos todo.",
-  "focus_kw": "retracto de comuneros",
+  "focus_kw": "tanteo y retracto entre copropietarios",
   "title_corto": "Tanteo y retracto"
  }
 ]

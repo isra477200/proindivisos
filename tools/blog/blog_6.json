@@ -197,7 +197,7 @@
   "cta_text": "Compramos tu parte del piso con fondos propios. Firma en notaría en dos a cuatro semanas, cobro al contado y gastos a nuestro cargo. Sin compromiso.",
   "yoast_title": "Cuánto me dan por mi parte de un piso: cálculo y ejemplos",
   "meta_desc": "Cuánto me dan por mi parte de un piso: entre el 40 % y el 70 % del valor de tu cuota. Fórmula en tres pasos, cuatro ejemplos con cifras y oferta en 48 h.",
-  "focus_kw": "cuanto me dan por mi parte de un piso",
+  "focus_kw": "cuánto me dan por mi parte de un piso",
   "title_corto": "Cuánto me dan por mi parte"
  },
  {
@@ -809,7 +809,7 @@
   "cta_text": "Compramos tu cuota con el inmueble ocupado. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
   "yoast_title": "Compensación por uso exclusivo de la vivienda común: guía",
   "meta_desc": "Compensación por uso exclusivo de la vivienda común: desde cuándo se reclama, cuánto y ejemplo con cifras. O vende tu cuota ocupada: la compramos.",
-  "focus_kw": "compensación por uso exclusivo de la vivienda común",
+  "focus_kw": "compensación por uso exclusivo de la vivienda",
   "title_corto": "Compensación por uso exclusivo"
  },
  {
@@ -1009,8 +1009,8 @@
   "cta_title": "Un piso que no usas no debería costarte dinero",
   "cta_text": "Compramos tu cuota y liquidamos las cuentas en la firma. Precio por escrito en 48 horas, notaría en dos a cuatro semanas y cobro al contado. Gastos a nuestro cargo.",
   "yoast_title": "IBI y gastos en un proindiviso: quién paga y cómo reclamar",
-  "meta_desc": "IBI, comunidad y derramas en un proindiviso: cada copropietario paga según su cuota (art. 393 CC). Cómo reclamar lo adelantado, con ejemplo y cifras.",
-  "focus_kw": "gastos proindiviso",
+  "meta_desc": "IBI, comunidad y derramas: gastos en un proindiviso que cada copropietario paga según su cuota (art. 393 CC). Cómo reclamar lo adelantado, con ejemplo.",
+  "focus_kw": "ibi en un proindiviso",
   "title_corto": "IBI y gastos en proindiviso"
  },
  {
@@ -1385,8 +1385,8 @@
   "cta_title": "Una oferta real para decidir con tu familia",
   "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y cobro al contado. Sin exclusividad ni compromiso.",
   "yoast_title": "Vender tu parte a un familiar o a una empresa: comparativa",
-  "meta_desc": "Vender tu parte a un hermano o a una empresa: precio, impuestos, plazos y retracto comparados con tabla y ejemplo de 200.000 euros. Nuestra oferta en 48 h.",
-  "focus_kw": "vender mi parte a mi hermano",
+  "meta_desc": "Vender tu parte a un familiar o a una empresa: precio, impuestos, plazos y retracto comparados con tabla y ejemplo de 200.000 euros. Nuestra oferta en 48 h.",
+  "focus_kw": "vender tu parte a un familiar",
   "title_corto": "Familiar o empresa"
  },
  {
@@ -1596,7 +1596,7 @@
   "cta_text": "Compramos cuotas de garajes y trasteros en toda España. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Notaría y gestión a nuestro cargo.",
   "yoast_title": "Vender tu parte de un garaje o trastero: así lo compramos",
   "meta_desc": "Vender tu parte de un garaje o trastero es posible sin permiso de los demás. Precios orientativos, trámite e impuestos. Compramos tu cuota: oferta en 48 h.",
-  "focus_kw": "plaza de garaje en proindiviso",
+  "focus_kw": "vender parte de un garaje",
   "title_corto": "Parte de garaje o trastero"
  },
  {
@@ -1797,9 +1797,9 @@
   ],
   "cta_title": "Tu parte del olivar, cobrada en semanas",
   "cta_text": "Compramos cuotas de fincas rústicas heredadas en toda España. Precio por escrito en 48 horas, firma en notaría o por poder y cobro al contado. Gastos a nuestro cargo.",
-  "yoast_title": "Vender tu parte de un terreno rústico heredado: guía y precios",
+  "yoast_title": "Vender tu parte de un terreno rústico heredado: guía",
   "meta_desc": "Vender tu parte de un terreno rústico heredado sin dividir la finca: retracto de colindantes, unidad mínima de cultivo, precios por hectárea y oferta.",
-  "focus_kw": "vender parte de un terreno rústico heredado",
+  "focus_kw": "vender terreno rústico heredado",
   "title_corto": "Parte de finca rústica"
  },
  {
@@ -1980,7 +1980,7 @@
   "cta_text": "Compramos mitades de viviendas tras el divorcio, con uso atribuido y con hipoteca. Precio por escrito en 48 horas, firma en notaría y cobro al contado. Gastos a nuestro cargo.",
   "yoast_title": "Proindiviso tras el divorcio sin acuerdo: cómo salir",
   "meta_desc": "Proindiviso tras el divorcio sin acuerdo: qué pasa con el uso atribuido y la hipoteca y cómo vender tu mitad sin la firma de tu ex. Ejemplo con cifras.",
-  "focus_kw": "casa tras divorcio sin acuerdo",
+  "focus_kw": "proindiviso tras el divorcio",
   "title_corto": "Divorcio sin acuerdo"
  },
  {
@@ -2747,7 +2747,7 @@
   "cta_text": "Comprobamos tu documento en 48 horas. Si es copropiedad, oferta por escrito, firma en notaría y cobro al contado. Si es aprovechamiento por turno, te lo decimos sin rodeos.",
   "yoast_title": "Multipropiedad: cómo salir y qué compramos (y qué no)",
   "meta_desc": "Multipropiedad o aprovechamiento por turno (Ley 4/2012) no es un proindiviso. Cómo salir, diferencias con la cuota indivisa y qué compramos. En 48 h.",
-  "focus_kw": "vendo multipropiedad",
+  "focus_kw": "multipropiedad cómo salir",
   "title_corto": "Multipropiedad"
  },
  {

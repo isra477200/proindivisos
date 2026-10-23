@@ -72,7 +72,8 @@ def geo_related(spec, maxn=2):
         if u in have: continue
         if re.search(r'(?<![\w])'+re.escape(n)+r'(?![\w])',T): hits.append((len(re.findall(re.escape(n),T)),n,u,en))
     hits.sort(reverse=True)
-    return [(f"Vender proindiviso {en}",u) for _,n,u,en in hits[:maxn]]
+    L=[f"Vender proindiviso {{en}}",f"Compramos proindivisos {{en}}"]
+    return [(L[k].format(en=en),u) for k,(_,n,u,en) in enumerate(hits[:maxn])]
 def normalize(spec):
     s=dict(spec); s['faqs']=[tuple(x) for x in s.get('faqs',[])]; s['related']=[tuple(x) for x in s.get('related',[])]
     for sec in s['sections']:
@@ -86,8 +87,7 @@ def build_one(spec,ids):
     ok=run(s)
     if ok:
         ep='posts' if spec['kind']=='post' else 'pages'
-        yt=spec['yoast_title'].strip()
-        if 'Zona Proindiviso' not in yt: yt+=' · Zona Proindiviso'
+        yt=spec['yoast_title'].strip()  # sin sufijo de marca: Yoast exige ≤ 600 px (~60 caracteres); la marca va en og:site_name
         extra={}
         if spec['kind']=='post': extra={'categories':[CATS[spec['category']]]}
         meta(pid,title=spec['title_corto'],yt=yt,yd=spec['meta_desc'],kw=spec['focus_kw'],status='publish',ptype=ep,extra=extra)

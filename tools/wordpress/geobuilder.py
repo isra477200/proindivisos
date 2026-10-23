@@ -48,6 +48,26 @@ def excerpt(t,n=170):
     cut=t[:n].rsplit(' ',1)[0].rstrip(',;:')
     return cut+'…'
 def h(s,n): return int(hashlib.md5(s.encode()).hexdigest(),16)%n
+def rompe_repeticion(text):
+    """Si tres frases seguidas empiezan por la misma palabra (Yoast: "frases consecutivas"), antepone un conector a la tercera."""
+    if not text: return text
+    parts=re.split(r'(?<=[.!?])\s+',text.strip())
+    first=lambda x: re.sub(r'[^\wáéíóúüñ]','',x.split()[0].lower()) if x.split() else ''
+    ops=["Además, ","Por otro lado, ","Asimismo, "]; k=0
+    for i in range(2,len(parts)):
+        if first(parts[i]) and first(parts[i])==first(parts[i-1])==first(parts[i-2]):
+            parts[i]=conecta(ops[k%3],parts[i]); k+=1
+    return ' '.join(parts)
+def conecta(op,ex):
+    """Antepone un conector al extracto. Pasa a minúscula la primera palabra si es preposición/adverbio/verbo común, o un artículo seguido de
+    minúscula; los nombres propios (Jerez, El Puerto, San Fernando) se quedan como están."""
+    if not ex: return ex
+    w=ex.split()
+    SIEMPRE={'En','A','Con','Desde','Hasta','Por','Para','Sin','Sobre','Hoy','Aquí','Cada','Más','Menos','Pocos','Pocas','Varios','Varias','Todo','Toda','Todos','Todas','Media','Medio','Quien','Quienes','Cuando','Donde','Como','Si','No','Ni','Ya','Aún','Tras','Según','Hace','Hacen','Falta','Faltan','Sobran','Hay','Es','Son','Tiene','Tienen','Abundan','Predominan','Dominan','Conviven','Muchos','Muchas','Casi','Gran','Buena','Mucho','Mucha','Parte','Entre','Este','Esta','Estos','Estas','Su','Sus','Aunque','Mientras','Al','Del'}
+    ARTICULOS={'El','La','Los','Las','Un','Una','Unos','Unas'}
+    if w[0] in SIEMPRE or (w[0] in ARTICULOS and len(w)>1 and w[1][:1].islower()):
+        ex=ex[0].lower()+ex[1:]
+    return op+ex
 def h1_corto(p):
     return f"Vender proindiviso en {p['nombre']}" if p['tipo']!='ccaa' or p['slug'] in ('ceuta','melilla') else f"Vender proindiviso en {nombre_h1(p)}"
 def nombre_h1(p):
@@ -59,22 +79,22 @@ def url(p,by):
 def spec_for(p,by):
     n=nombre_h1(p); en=p['en']; t=p['tipo']; k=h(p['slug'],4)
     H1=[f"Vender proindiviso {en}: compramos tu parte con oferta por escrito en 48 horas",
-        f"Compramos proindivisos {en}: vende tu parte del piso o la casa sin esperar a los demás",
+        f"Compramos tu proindiviso {en}: vender tu parte del piso o la casa sin esperar a los demás",
         f"Vender tu proindiviso {en}: precio en 48 horas y firma en notaría en semanas",
-        f"Empresa que compra proindivisos {en}: te damos precio por tu cuota en 48 horas"][k]
+        f"Empresa que compra tu proindiviso {en}: vender tu cuota con precio en 48 horas"][k]
     zonas=p.get('zonas',[])
     z4=', '.join(zonas[:4]) if zonas else n
-    SUB=[f"Tienes una parte de un piso, una casa o un terreno {en} y quieres venderla. La compramos nosotros, con fondos propios, aunque el resto de copropietarios no esté de acuerdo. {z4} y el resto de la zona: precio por escrito en 48 horas.",
-         f"Compramos cuotas indivisas de viviendas, locales, garajes y fincas {en}: {z4} y toda la zona. Sin intermediarios, sin exclusiva y sin que los demás copropietarios tengan que firmar. Oferta en 48 horas y pago al contado en notaría.",
-         f"Si heredaste una parte, te separaste o tienes un socio que no quiere vender, {en} compramos tu cuota directamente. Precio neto por escrito en 48 horas, notaría y gestión a nuestro cargo. Cubrimos {z4} y el resto de la zona.",
-         f"Somos compradores, no un portal de contactos. Pagamos tu parte del inmueble {en} al contado en notaría, en dos a cuatro semanas desde la oferta. {z4} y toda la zona."][k]
+    SUB=[f"Tienes una parte de un piso, una casa o un terreno {en} y quieres venderla. Pues bien: vender tu proindiviso {en} es posible aunque el resto de copropietarios no esté de acuerdo, porque lo compramos nosotros con fondos propios. {z4} y el resto de la zona: precio por escrito en 48 horas.",
+         f"Compramos cuotas indivisas de viviendas, locales, garajes y fincas {en}: {z4} y toda la zona. Así puedes vender tu proindiviso {en} sin intermediarios, sin exclusiva y sin que los demás copropietarios tengan que firmar. Además, la oferta llega en 48 horas y el pago es al contado en notaría.",
+         f"Si heredaste una parte, te separaste o tienes un socio que no quiere vender, puedes vender tu proindiviso {en} directamente a nosotros. Precio neto por escrito en 48 horas; además, notaría y gestión corren de nuestra cuenta. Cubrimos {z4} y el resto de la zona.",
+         f"Somos compradores, no un portal de contactos. Por eso vender tu proindiviso {en} con nosotros es rápido: pagamos tu parte al contado en notaría, en dos a cuatro semanas desde la oferta. {z4} y toda la zona."][k]
     kicker={'ccaa':f"Compramos en {n}",'provincia':f"Provincia de {p['nombre']}",'ciudad':f"{p['nombre']}"}[t]
     sections=[]
     # 1 por qué / mercado
-    T1=[f"Por qué hay tantos proindivisos {en}",f"Proindivisos {en}: de dónde salen y qué compramos",f"El mercado de las cuotas indivisas {en}",f"Situaciones habituales {en} que acaban en proindiviso"][k]
-    sections.append({"overline":"Contexto local","h2":T1,"intro":[p['angulo'],p['mercado']]})
+    T1=[f"Por qué se vende tanto proindiviso {en}",f"Vender un proindiviso {en}: de dónde salen y qué compramos",f"El mercado del proindiviso {en}: por qué se vende",f"Situaciones habituales {en} que acaban en vender el proindiviso"][k]
+    sections.append({"overline":"Contexto local","h2":T1,"intro":[rompe_repeticion(p['angulo']),rompe_repeticion(p['mercado'])]})
     # 2 zonas (cards) : qué compramos con nombres de zonas
-    tipos=[("Pisos y viviendas",f"Cuotas del 10 % al 90 % de pisos y casas {en}, vacíos, alquilados u ocupados por otro copropietario."),("Herencias",f"Partes de inmuebles heredados, con o sin la herencia inscrita, con usufructo de uno de los padres o con varios herederos."),("Locales, garajes y naves",f"Participaciones de locales comerciales, plazas de garaje, trasteros y naves {en} y alrededores."),("Terrenos y fincas",f"Cuotas de solares, fincas rústicas y parcelas, con la referencia catastral como punto de partida.")]
+    tipos=[("Pisos y viviendas",f"Cuotas del 10 % al 90 % de pisos y casas {en}; además, da igual que estén vacíos, alquilados u ocupados por otro copropietario."),("Herencias",f"Partes de inmuebles heredados, con o sin la herencia inscrita; también con usufructo de uno de los padres o con varios herederos."),("Locales, garajes y naves",f"Participaciones de locales comerciales, plazas de garaje, trasteros y naves {en} y alrededores; por ejemplo, la mitad de un local que nadie alquila."),("Terrenos y fincas",f"Cuotas de solares, fincas rústicas y parcelas; en este caso, la referencia catastral es el punto de partida.")]
     T2=[f"Qué compramos {en}",f"Tipos de inmueble que compramos {en}",f"Compramos cuotas de cualquier inmueble {en}",f"Lo que compramos {en}: pisos, herencias, locales y fincas"][k]
     sections.append({"overline":"Qué compramos","h2":T2,"type":"cards","items":[{"t":a,"p":b} for a,b in tipos]})
     # 3 municipios / barrios (list text)
@@ -83,29 +103,35 @@ def spec_for(p,by):
         T3=[f"Municipios donde compramos proindivisos {en}",f"Barrios y zonas de {p['nombre']} donde compramos",f"Dónde compramos {en}: municipios y zonas",f"Cobertura {en}"][k if t!='ciudad' else 1]
         if t=='ciudad': T3=[f"Barrios y zonas de {p['nombre']} donde compramos",f"Cobertura en {p['nombre']}: barrios y distritos",f"Dónde compramos en {p['nombre']}",f"Zonas de {p['nombre']} en las que compramos cuotas"][k]
         txt=', '.join(mun)
-        intro=[f"Compramos en todo el territorio {en}. Estas son las zonas en las que más operaciones cerramos: {txt}." if t!='ciudad' else f"Compramos en cualquier punto de {p['nombre']}. Las zonas con más operaciones: {txt}.","Si tu municipio o barrio no aparece, compramos igual: el listado es orientativo y se amplía con cada operación." if h(p['slug']+'x',2) else "No importa que tu zona no esté en la lista. El precio y el proceso son los mismos en cualquier punto."]
+        intro=[f"Compramos en todo el territorio {en}. Por ejemplo, estas son las zonas en las que más operaciones cerramos: {txt}." if t!='ciudad' else f"Compramos en cualquier punto de {p['nombre']}. Por ejemplo, las zonas con más operaciones: {txt}.","Si tu municipio o barrio no aparece, compramos igual: el listado es orientativo y, además, se amplía con cada operación." if h(p['slug']+'x',2) else "No importa que tu zona no esté en la lista. En cualquier caso, el precio y el proceso son los mismos en cualquier punto."]
         sections.append({"overline":"Cobertura","h2":T3,"intro":intro})
     # 4 trámites + datos (table)
-    T4=[f"Trámites, impuestos y datos útiles {en}",f"Notaría, Registro e impuestos {en}",f"Qué hay que saber de los trámites {en}",f"Datos prácticos para vender tu cuota {en}"][k]
+    T4=[f"Trámites e impuestos para vender tu proindiviso {en}",f"Notaría, Registro e impuestos al vender un proindiviso {en}",f"Qué hay que saber para vender un proindiviso {en}",f"Datos prácticos para vender tu proindiviso {en}"][k]
     rows=[("Dato","Detalle")]
     if p.get('poblacion'): rows.append(("Población",p['poblacion']))
     if p.get('precio_m2'): rows.append(("Precio medio de la vivienda",p['precio_m2']))
-    rows.append(("Lo que pagamos por tu cuota","Entre el 40 % y el 70 % del valor proporcional de tu parte, según zona, ocupación y cargas. Cifra neta por escrito en 48 h."))
-    rows.append(("Plazo de firma","De 2 a 4 semanas desde la oferta, en una notaría cercana a ti."))
-    rows.append(("Gastos para ti","Ninguno. Notaría, gestión e impuestos de la compra los asumimos nosotros. Tú solo tributas en tu IRPF si hay ganancia."))
-    sections.append({"overline":"Trámites","h2":T4,"intro":[p['tramites']],"type":"table","items":rows})
+    rows.append(("Lo que pagamos por tu cuota","Por lo general, entre el 40 % y el 70 % del valor proporcional de tu parte, según zona, ocupación y cargas. Además, la cifra neta va por escrito en 48 h."))
+    rows.append(("Plazo de firma","Por lo general, de 2 a 4 semanas desde la oferta, en una notaría cercana a ti."))
+    rows.append(("Gastos para ti","Ninguno. Notaría, gestión e impuestos de la compra los asumimos nosotros; por tanto, tú solo tributas en tu IRPF si hay ganancia."))
+    sections.append({"overline":"Trámites","h2":T4,"intro":[rompe_repeticion(p['tramites'])],"type":"table","items":rows,"outro":["En resumen: tú no adelantas nada; nosotros nos ocupamos de la notaría, el Registro y los impuestos de la compra."]})
     # 5 enlaces a hijos / hermanos
     links=[]
     if p['hijos']:
         T5={'ccaa':f"Provincias y ciudades de {n} donde compramos",'provincia':f"Ciudades de la provincia de {p['nombre']} con página propia",'ciudad':""}[t]
         if p['slug'] in ('madrid','murcia','asturias','cantabria','navarra','la-rioja','baleares'): T5=f"Ciudades de {n} con página propia"
-        for q in p['hijos']: links.append({"t":q['nombre'],"p":excerpt(q.get('mercado','')),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
-        sections.append({"overline":"Por zonas","h2":T5,"type":"cards","items":links})
+        OP=["Además, ","Por ejemplo, ","Por su parte, ","Asimismo, "]  # conectores rotados en los extractos (palabras de transición para Yoast sin repetir inicio de frase)
+        for j,q in enumerate(p['hijos']):
+            links.append({"t":q['nombre'],"p":conecta(OP[j%4],excerpt(q.get('mercado',''))),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
+            continue
+            links.append({"t":q['nombre'],"p":ex,"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
+        sections.append({"overline":"Por zonas","h2":T5,"intro":[f"Además de {p['nombre'] if t!='ccaa' else 'la capital'}, estas son las zonas con página propia; en cada una explicamos el mercado, los trámites y lo que pagamos."],"type":"cards","items":links})
     elif p.get('padre'):
         par=by[p['padre']]; sib=[q for q in par['hijos'] if q['slug']!=p['slug']][:6]
         items=[{"t":par['nombre'] if par['tipo']!='ccaa' else nombre_h1(par),"p":f"Cobertura completa {par['en']}: municipios, trámites y precios.","url":url(par,by),"cta":"Ver →"}]
-        items+=[{"t":q['nombre'],"p":excerpt(q.get('angulo','')),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"} for q in sib]
-        sections.append({"overline":"Cerca de ti","h2":f"También compramos cerca de {p['nombre']}","type":"cards","items":items})
+        OP=["Además, ","Por ejemplo, ","Por su parte, ","Asimismo, "]
+        for j,q in enumerate(sib):
+            items.append({"t":q['nombre'],"p":conecta(OP[j%4],excerpt(q.get('angulo',''))),"url":url(q,by),"cta":f"Vender en {q['nombre']} →"})
+        sections.append({"overline":"Cerca de ti","h2":f"También compramos cerca de {p['nombre']}","intro":[f"Si tu inmueble no está exactamente en {p['nombre']}, también compramos en los municipios de alrededor; por ejemplo, en estos."],"type":"cards","items":items})
     # 5b guías del blog (solo CCAA y provincias): 3 entradas afines, rotadas por hash para que no se repitan en todas
     if t in ('ccaa','provincia'):
         G=[("Vender tu parte de un piso heredado entre hermanos cuando uno no quiere","Qué pasa con la herencia bloqueada y cómo cobras tu parte sin esperar a nadie.","/vender-proindiviso-entre-hermanos/"),
@@ -123,26 +149,31 @@ def spec_for(p,by):
         g0=h(p['slug']+'g',len(G)); pick=[G[(g0+j*5)%len(G)] for j in range(3)]
         sections.append({"overline":"Guías","h2":f"Guías para vender tu parte {en}","intro":[f"Antes de pedir precio, estas tres guías resuelven las dudas más habituales de quien vende una cuota {en}."],"type":"cards","items":[{"t":a,"p":b,"url":u,"cta":"Leer la guía →"} for a,b,u in pick]})
     # 6 callout
-    sections.append({"type":"callout","items":{"t":[f"Pide precio por tu parte {en}",f"Tu cuota {en} tiene precio hoy",f"Vende tu proindiviso {en} sin esperar a nadie",f"Precio por escrito en 48 horas, {en} y en toda la provincia"][k],"p":"Dinos la dirección del inmueble, tu porcentaje y cómo llegaste a ser copropietario. Te llamamos en menos de 24 horas laborables.","cta":"Pedir oferta ahora"}})
-    faqs=[tuple(x) for x in p.get('faq',[])]
-    rel=[("Cuánto pagamos","/cuanto-pagan-por-un-proindiviso/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Vender sin avisar a los demás","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender tu parte de un piso","/vender-parte-de-un-piso/"),("Cómo trabajamos","/empresas-que-compran-proindivisos/")]
+    sections.append({"type":"callout","items":{"t":[f"Pide precio para vender tu proindiviso {en}",f"Vender tu proindiviso {en} tiene precio hoy",f"Vender tu proindiviso {en} sin esperar a nadie",f"Vender tu proindiviso {en}: precio por escrito en 48 horas"][k],"p":"Dinos la dirección del inmueble, tu porcentaje y cómo llegaste a ser copropietario. Después, te llamamos en menos de 24 horas laborables.","cta":"Pedir oferta ahora"}})
+    faqs=[(q,rompe_repeticion(a)) for q,a in p.get('faq',[])]
+    rel=[("Cuánto pagamos","/cuanto-pagan-por-un-proindiviso/"),("Tu parte de una herencia","/vender-parte-casa-heredada/"),("Sin avisar a los demás","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("Tu parte de un piso","/vender-parte-de-un-piso/"),("Cómo trabajamos","/empresas-que-compran-proindivisos/")]
     rel=rel[k:]+rel[:k]; rel=rel[:4]
     if p.get('padre'): rel.insert(0,(f"Vender proindiviso {by[p['padre']]['en']}",url(by[p['padre']],by)))
     else: rel.insert(0,("Toda España","/vender-proindiviso/"))
     return {"post_id":None,"kicker":kicker,"h1":H1,"sub":SUB,"checks":[f"Compramos {en}","Oferta por escrito en 48 h","Pago al contado en notaría"],
             "card_title":[f"Precio por tu parte {en}",f"Te llamamos y te damos precio",f"Oferta en 48 h, {en}",f"Cuéntanos tu caso {en}"][k],
-            "card_text":"Nombre y teléfono. Te llamamos en menos de 24 horas laborables y te decimos cuánto pagamos por tu cuota.",
+            "card_text":"Nombre y teléfono. Te llamamos en menos de 24 horas laborables y, además, te decimos cuánto pagamos por tu cuota.",
             "sections":sections,"faqs":faqs,"faq_title":f"Preguntas sobre vender un proindiviso {en}","related":rel,
-            "cta_title":[f"Vende tu proindiviso {en} en semanas, no en años",f"Cobra por tu parte {en} sin esperar al acuerdo de nadie",f"Tu cuota {en}: precio neto por escrito en 48 horas",f"Compramos tu parte {en}: pide precio sin compromiso"][k],
-            "cta_text":"Rellena el formulario con la dirección y tu porcentaje. En 48 horas tienes una oferta por escrito, válida 30 días, sin exclusiva."}
+            "cta_title":[f"Vender tu proindiviso {en} en semanas, no en años",f"Vender tu proindiviso {en} sin esperar al acuerdo de nadie",f"Vender tu proindiviso {en}: precio neto por escrito en 48 horas",f"Compramos tu parte: vender tu proindiviso {en} sin compromiso"][k],
+            "cta_text":"Rellena el formulario con la dirección y tu porcentaje. Así, en 48 horas tienes una oferta por escrito, válida 30 días y sin exclusiva.","kw":kw_for(p)}
+def kw_for(p):
+    # keyphrase exacta tal y como aparece en los textos (con acentos): "vender proindiviso en Cádiz"; Yoast ignora las palabras vacías (en, la, de)
+    return f"vender proindiviso en {p['nombre']}"
 def meta_for(p,by):
-    n=p['nombre']; en=p['en']; k=h(p['slug'],3)
-    yt=[f"Vender proindiviso {en}: oferta en 48 h · Zona Proindiviso",f"Compramos proindivisos {en} · precio en 48 h · Zona Proindiviso",f"Vender tu parte de un piso {en} · Zona Proindiviso"][k]
-    m1=p['mercado'].split('. ')[0]
-    yd=(f"Compramos tu parte de piso, casa o terreno {en} con fondos propios. {m1}. Oferta por escrito en 48 h, firma en notaría y gastos a nuestro cargo.")
-    if len(yd)>158: yd=f"Compramos tu parte de piso, casa o terreno {en} con fondos propios, aunque los demás no quieran vender. Oferta por escrito en 48 h y gastos a nuestro cargo."
-    kw=f"vender proindiviso {en}".replace(' la provincia de ',' ').replace(' el ',' ').replace(' la ',' ')
-    return dict(title=h1_corto(p),yt=yt,yd=yd,kw=kw.lower())
+    n=p['nombre']; en=p['en']
+    # título SEO: empieza por la keyphrase exacta y cabe en 600 px (≈ 60 caracteres); sin sufijo de marca (va en og:site_name)
+    for tail in (": oferta por escrito en 48 h",": oferta en 48 h",": precio en 48 h",""):
+        yt=f"Vender proindiviso {en}{tail}"
+        if len(yt)<=60: break
+    for tail in (" Oferta por escrito en 48 h, firma en notaría y gastos a nuestro cargo."," Oferta por escrito en 48 h y gastos a nuestro cargo."," Oferta en 48 h."):
+        yd=f"Vender proindiviso {en}: compramos tu parte de piso, casa o terreno con fondos propios, aunque los demás no quieran.{tail}"
+        if len(yd)<=156: break
+    return dict(title=h1_corto(p),yt=yt,yd=yd,kw=kw_for(p))
 if __name__=='__main__':
     P,by=load_places()
     only=sys.argv[1:]  # slugs opcionales

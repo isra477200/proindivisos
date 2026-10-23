@@ -603,7 +603,7 @@
   ],
   "cta_title": "Vende tu parte de la herencia sin la firma de nadie más",
   "cta_text": "Compramos tu cuota con fondos propios. Precio en 48 horas, firma en notaría en dos a cuatro semanas y pago al contado. Gastos a nuestro cargo.",
-  "yoast_title": "Un heredero no quiere vender: qué hacer y cómo vender tu parte",
+  "yoast_title": "Un heredero no quiere vender: qué hacer con tu parte",
   "meta_desc": "Si un heredero no quiere vender, nadie puede obligarle, pero tú puedes vender tu parte sin su firma. Las 4 salidas legales y cómo compramos tu cuota.",
   "focus_kw": "un heredero no quiere vender",
   "title_corto": "Un heredero no quiere vender"
@@ -821,7 +821,7 @@
   "cta_text": "Si la herencia está sin tramitar, te acompañamos en los pasos y después compramos tu cuota. Precio en 48 horas, pago al contado en notaría.",
   "yoast_title": "Vender una casa heredada sin escrituras: qué hacer antes",
   "meta_desc": "No se puede vender una casa heredada sin escrituras: hay que aceptar, escriturar, liquidar Sucesiones e inscribir. Pasos, plazos, costes y cómo ayudamos.",
-  "focus_kw": "se puede vender una casa heredada sin escrituras",
+  "focus_kw": "vender casa heredada sin escrituras",
   "title_corto": "Vender herencia sin escriturar"
  },
  {
@@ -1236,8 +1236,8 @@
   "cta_title": "Rompe el empate: vende tu cuota de la herencia",
   "cta_text": "Compramos las partes de los hermanos que quieren salir, con fondos propios. Precio en 48 horas, firma en notaría y pago al contado.",
   "yoast_title": "Herencia de 4 hermanos: dos quieren vender y dos no",
-  "meta_desc": "Herencia de 4 hermanos, dos quieren vender y dos no: por qué no sirve la mayoría, qué pasa con gastos y uso, y cómo compramos las cuotas de los que salen.",
-  "focus_kw": "herencia 4 hermanos 2 quieren vender y dos no",
+  "meta_desc": "Herencia de 4 hermanos y solo dos quieren vender: por qué no sirve la mayoría, qué pasa con gastos y uso, y cómo compramos las cuotas de los que salen.",
+  "focus_kw": "herencia de 4 hermanos",
   "title_corto": "Herencia de 4 hermanos"
  },
  {
@@ -1442,7 +1442,7 @@
   "cta_text": "Si el reparto te ha dejado una cuota que no quieres, la compramos. Precio por escrito en 48 horas, firma en notaría y gastos a nuestro cargo.",
   "yoast_title": "Cómo se reparte una herencia de una casa entre hermanos",
   "meta_desc": "Cómo se reparte una herencia de una casa entre hermanos: legítimas, testamento, valor de la vivienda, adjudicación y proindiviso. Compramos tu parte.",
-  "focus_kw": "como se reparte una herencia de una casa entre hermanos",
+  "focus_kw": "reparte una herencia entre hermanos",
   "title_corto": "Repartir una casa heredada"
  },
  {
@@ -1847,9 +1847,9 @@
   ],
   "cta_title": "Tu herencia en España, resuelta desde donde vivas",
   "cta_text": "Compramos tu parte con poder notarial y pago por transferencia. Precio por escrito en 48 horas, notaría y gestión a nuestro cargo.",
-  "yoast_title": "Vender tu parte de una herencia en España desde el extranjero",
+  "yoast_title": "Vender tu parte de una herencia desde el extranjero",
   "meta_desc": "Vender tu parte de una herencia en España desde el extranjero: NIE, poder notarial en consulado o apostillado, retención del 3 % y compra a distancia.",
-  "focus_kw": "vender herencia desde el extranjero",
+  "focus_kw": "vender herencia en el extranjero",
   "title_corto": "Vender desde el extranjero"
  },
  {

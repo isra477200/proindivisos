@@ -5,3 +5,4 @@ tools/wordpress/tmp*.json
 tools/wordpress/.gracias_payload.json
 tools/wordpress/snippet_resave_recent.json
 __pycache__/
+tools/wordpress/comp_home.json

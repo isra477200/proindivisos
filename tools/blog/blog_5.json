@@ -612,8 +612,8 @@
   "cta_title": "Deja de pagar por una casa que no usas",
   "cta_text": "Compramos tu parte de la casa de tus padres aunque tu hermano viva en ella. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
   "yoast_title": "Mi hermano vive en la casa de mis padres y no quiere vender",
-  "meta_desc": "Tu hermano vive en la casa heredada y no quiere vender: compensación por uso exclusivo, gastos, división judicial o vender tu parte. Oferta en 48 h.",
-  "focus_kw": "mi hermano vive en la casa de mis padres y no quiere vender",
+  "meta_desc": "Mi hermano vive en la casa de mis padres y no quiere vender: compensación por uso exclusivo, gastos, división judicial o vender tu parte. Oferta en 48 h.",
+  "focus_kw": "mi hermano vive en la casa de mis padres",
   "title_corto": "Hermano que no quiere vender"
  },
  {
@@ -804,9 +804,9 @@
   ],
   "cta_title": "Convierte tu nuda propiedad en dinero sin esperar",
   "cta_text": "Compramos tu cuota de nuda propiedad con fondos propios, respetando el usufructo de tu madre. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
-  "yoast_title": "¿Puedo vender la casa de mi madre si tiene el usufructo?",
-  "meta_desc": "Si tu madre tiene el usufructo, puedes vender tu nuda propiedad sin su permiso. Cuánto vale, cómo se calcula y cómo te la compramos con oferta en 48 h.",
-  "focus_kw": "puedo vender la casa de mi madre",
+  "yoast_title": "Puedo vender la casa de mi madre si tiene el usufructo",
+  "meta_desc": "Vender la casa de mi madre con usufructo: puedes vender tu nuda propiedad sin su permiso. Cuánto vale, cómo se calcula y cómo te la compramos en 48 h.",
+  "focus_kw": "vender la casa de mi madre con usufructo",
   "title_corto": "Casa de mi madre con usufructo"
  },
  {
@@ -1787,8 +1787,8 @@
   "cta_title": "Tu parte no necesita permiso del juzgado",
   "cta_text": "Compramos la cuota de los herederos mayores de edad con fondos propios, sin esperar la autorización judicial del menor. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
   "yoast_title": "Heredero menor o incapacitado: cómo se vende la casa",
-  "meta_desc": "Heredero menor o con discapacidad: autorización judicial, tutor, curador y defensor judicial. Tu parte se vende sin permiso: oferta por escrito en 48 h.",
-  "focus_kw": "heredero menor venta casa",
+  "meta_desc": "Heredero menor o incapacitado: autorización judicial, tutor, curador y defensor judicial. Tu parte se vende sin permiso: oferta por escrito en 48 h.",
+  "focus_kw": "heredero menor o incapacitado",
   "title_corto": "Heredero menor o incapacitado"
  },
  {
@@ -2413,8 +2413,8 @@
   "cta_title": "Un PDF de 10 euros y un precio en 48 horas",
   "cta_text": "Compramos tu cuota con fondos propios. Con la nota simple te damos oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado con las cargas resueltas en el mismo acto.",
   "yoast_title": "Nota simple del Registro: cómo pedirla y leer tu cuota",
-  "meta_desc": "Cómo pedir la nota simple online por unos 10 euros y cómo leer titularidad, cuota y cargas. Es lo único que necesitamos para darte precio en 48 h.",
-  "focus_kw": "nota simple registro propiedad",
+  "meta_desc": "Nota simple del Registro: cómo pedirla online por unos 10 euros y cómo leer titularidad, cuota y cargas. Es lo único que necesitamos para darte precio.",
+  "focus_kw": "nota simple del Registro",
   "title_corto": "Nota simple del Registro"
  },
  {
@@ -2608,9 +2608,9 @@
   ],
   "cta_title": "Tu precio es neto: el ITP lo pagamos nosotros",
   "cta_text": "Compramos tu cuota con fondos propios y asumimos el ITP sobre el valor de referencia, la notaría y la inscripción. Oferta por escrito en 48 horas, firma en 2-4 semanas y cobro al contado.",
-  "yoast_title": "Valor de referencia catastral: cómo afecta a vender tu parte",
+  "yoast_title": "Valor de referencia del Catastro: cómo afecta a tu venta",
   "meta_desc": "Valor de referencia del Catastro: base mínima de ITP y sucesiones, no del IRPF. Cómo afecta a vender tu parte, cuándo impugnarlo y qué impuestos asumimos.",
-  "focus_kw": "valor de referencia catastral",
+  "focus_kw": "valor de referencia del Catastro",
   "title_corto": "Valor de referencia catastral"
  },
  {
@@ -2808,7 +2808,7 @@
   "cta_text": "Compramos tu parte de garajes, trasteros, locales y naves heredados con fondos propios. Oferta por escrito en 48 horas, una sola escritura para todos los inmuebles, firma en 2-4 semanas y cobro al contado.",
   "yoast_title": "Vender tu parte de un garaje, trastero o local heredado",
   "meta_desc": "Vender tu parte de un garaje, trastero o local heredado entre hermanos: cómo está inscrito, cuánto vale la cuota y cómo la compramos con oferta en 48 h.",
-  "focus_kw": "garaje heredado entre hermanos",
+  "focus_kw": "vender parte de un garaje heredado",
   "title_corto": "Garaje o local heredado"
  },
  {
