@@ -1,0 +1,2160 @@
+[
+ {
+  "slug": "que-significa-proindiviso-en-una-escritura",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Leer una escritura",
+  "h1": "Qué significa proindiviso en una escritura (y qué es una mitad indivisa)",
+  "sub": "Cuando una escritura dice que un inmueble pertenece a dos personas \"por mitad y proindiviso\", cada una es dueña del 50 % de todo el inmueble, no de una parte física. Te explicamos cómo leer esa fórmula, qué es una mitad indivisa o una tercera parte indivisa y cómo localizar tu cuota en la nota simple. Si quieres vender esa cuota, nosotros la compramos.",
+  "checks": [
+   "Fórmulas notariales explicadas",
+   "Ejemplos con cuotas reales",
+   "Compramos tu cuota indivisa"
+  ],
+  "card_title": "¿Tienes una mitad indivisa que no usas?",
+  "card_text": "Dinos la dirección y el porcentaje que figura en tu escritura. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Significado",
+    "h2": "Qué significa proindiviso en una escritura",
+    "type": "text",
+    "intro": [
+     "Proindiviso significa \"sin dividir\". Cuando aparece en una escritura de compraventa, de herencia o de donación, indica que el inmueble tiene varios dueños y que ninguno de ellos tiene asignada una parte concreta. Cada uno es titular de una cuota ideal, expresada como fracción o como porcentaje, sobre la totalidad de la finca. Una mitad indivisa de un piso no es el salón ni dos de las cuatro habitaciones: es el 50 % de cada metro cuadrado, del garaje vinculado y del trastero.",
+     "La palabra viene del latín pro indiviso y los notarios la usan desde hace siglos. En el Registro de la Propiedad verás variantes como \"pro indiviso\", \"proindiviso\" o \"en proindivisión\". Todas significan lo mismo. Lo que define tu posición no es la palabra, sino la cuota que la acompaña. Si quieres repasar la figura completa, con los derechos de cada copropietario y las formas de salir, tienes nuestra guía sobre <a href=\"/que-es-un-proindiviso/\">qué es un proindiviso</a>. Aquí nos centramos en el documento: cómo está escrito y qué quiere decir cada expresión."
+    ]
+   },
+   {
+    "overline": "La fórmula clásica",
+    "h2": "\"Por mitad y proindiviso\": qué dice exactamente el notario",
+    "type": "text",
+    "intro": [
+     "La cláusula habitual en una compra de pareja es esta: \"Don A y doña B adquieren la finca descrita por mitad y proindiviso\". Se descompone en dos partes. \"Por mitad\" fija la cuota: 50 % cada uno. \"Proindiviso\" fija el régimen: ninguna de esas mitades está localizada físicamente. Si la escritura dijera \"por terceras e iguales partes indivisas\", serían tres dueños con un 33,33 % cada uno. Si dijera \"en la proporción de un 70 % y un 30 %\", los porcentajes serían desiguales, pero igual de indivisos.",
+     "Conviene fijarse en tres detalles. Primero, la cuota se refiere a la finca registral completa, incluidos anejos inseparables como plaza de garaje o trastero si están vinculados en la misma finca. Segundo, cuando la escritura no fija cuotas, el artículo 393 del Código Civil presume que son iguales. Tercero, la cuota no depende de quién pagó más: si uno puso el 80 % del dinero y la escritura dice \"por mitad\", cada uno tiene el 50 % y el que pagó de más solo podría reclamar, en su caso, un crédito contra el otro. Por eso una escritura mal redactada en el momento de comprar genera discusiones años después, sobre todo en un divorcio o en una separación de pareja de hecho."
+    ]
+   },
+   {
+    "overline": "Cuotas",
+    "h2": "Mitad indivisa, tercera parte indivisa y participación indivisa: tabla de equivalencias",
+    "type": "table",
+    "intro": [
+     "Las escrituras expresan la cuota de tres maneras: en fracción, en porcentaje o en palabras. Esta tabla te ayuda a traducirlas y a calcular cuánto representa tu parte sobre un inmueble de 200.000 euros de valor de mercado."
+    ],
+    "items": [
+     [
+      "Expresión en la escritura",
+      "Cuota y valor proporcional sobre 200.000 €"
+     ],
+     [
+      "Mitad indivisa / por mitad y proindiviso",
+      "50 %. Valor proporcional: 100.000 €. Es la fórmula de parejas y de herencias con dos hijos."
+     ],
+     [
+      "Una tercera parte indivisa",
+      "33,33 %. Valor proporcional: 66.667 €. Típica de tres hermanos que heredan a partes iguales."
+     ],
+     [
+      "Una cuarta parte indivisa",
+      "25 %. Valor proporcional: 50.000 €. Cuatro herederos o dos parejas que compran juntas."
+     ],
+     [
+      "Una sexta parte indivisa",
+      "16,67 %. Valor proporcional: 33.333 €. Tres hijos que heredan la mitad de un piso ganancial mientras la madre conserva la otra mitad."
+     ],
+     [
+      "Participación indivisa del 12,5 %",
+      "Un octavo. Valor proporcional: 25.000 €. Aparece cuando un heredero fallece y su cuota se reparte entre sus propios hijos."
+     ],
+     [
+      "Nuda propiedad de una mitad indivisa",
+      "50 % sin el derecho de uso, que lo conserva el usufructuario. Vale menos que la cuota plena mientras viva el usufructuario."
+     ]
+    ],
+    "outro": [
+     "El valor proporcional no es lo que te pagarían por la cuota. Un comprador profesional paga entre el 40 % y el 70 % de esa cifra, porque adquiere una parte que no puede usar ni vender en solitario. Tienes la horquilla detallada en <a href=\"/cuanto-pagan-por-un-proindiviso/\">cuánto pagan por un proindiviso</a>."
+    ]
+   },
+   {
+    "overline": "Nota simple",
+    "h2": "Cómo leer tu cuota en la nota simple del Registro",
+    "type": "steps",
+    "intro": [
+     "La nota simple es el extracto del Registro de la Propiedad. Cuesta unos 10 euros, se pide por internet y es el documento que te permitirá comprobar qué figura exactamente a tu nombre. Sigue estos pasos."
+    ],
+    "items": [
+     {
+      "t": "Localiza el apartado \"Titularidades\"",
+      "p": "Suele ir después de la descripción de la finca. Ahí aparecen todos los titulares con su DNI, el título por el que adquirieron (compraventa, herencia, adjudicación) y la fecha de inscripción."
+     },
+     {
+      "t": "Busca la expresión de la cuota",
+      "p": "Verás frases como \"una mitad indivisa en pleno dominio\" o \"33,33 % del pleno dominio con carácter privativo\". El porcentaje o fracción es tu cuota. Si pone \"con carácter ganancial\", esa cuota pertenece al matrimonio, no a una sola persona."
+     },
+     {
+      "t": "Comprueba si es pleno dominio, nuda propiedad o usufructo",
+      "p": "No es lo mismo tener el 50 % en pleno dominio que el 50 % de la nuda propiedad. En el segundo caso hay un usufructuario con derecho a vivir en el inmueble o a cobrar el alquiler."
+     },
+     {
+      "t": "Revisa el apartado \"Cargas\"",
+      "p": "Hipotecas, embargos y afecciones fiscales recaen sobre la finca o sobre cuotas concretas. Un embargo sobre la cuota de otro copropietario no afecta a la tuya, pero complica una venta conjunta."
+     },
+     {
+      "t": "Suma todas las cuotas",
+      "p": "Deben dar el 100 %. Si no cuadran, suele ser porque una herencia está sin inscribir o porque un titular fallecido sigue apareciendo. En ese caso, antes de vender habrá que inscribir la aceptación de herencia."
+     }
+    ]
+   },
+   {
+    "overline": "Casos frecuentes",
+    "h2": "Qué significa tu cuota según cómo la adquiriste",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Herencia entre hermanos",
+      "p": "El cuaderno particional o la escritura de adjudicación asigna a cada heredero una participación indivisa. Tres hermanos a partes iguales tienen un tercio cada uno. Mientras no se adjudique a uno solo, el piso de los padres queda en proindiviso.",
+      "url": "/vender-proindiviso-entre-hermanos/",
+      "cta": "Vender mi parte heredada →"
+     },
+     {
+      "t": "Compra en pareja",
+      "p": "Lo normal es \"por mitad y proindiviso\". Si os separáis, cada uno conserva su 50 % aunque uno siga viviendo en la casa o pagando la hipoteca. Puedes vender tu mitad sin que el otro esté de acuerdo.",
+      "url": "/vender-proindiviso-divorcio/",
+      "cta": "Vender mi mitad tras la separación →"
+     },
+     {
+      "t": "Matrimonio en gananciales",
+      "p": "La escritura dice \"con carácter ganancial\" y no fija cuotas individuales. Al divorciarse o al fallecer uno de los dos, se liquida la sociedad de gananciales y entonces sí nacen mitades indivisas."
+     },
+     {
+      "t": "Donación de los padres",
+      "p": "Los padres donan a sus hijos participaciones indivisas, a veces reservándose el usufructo. El hijo tiene la nuda propiedad de su cuota y solo podrá usar el inmueble cuando se extinga el usufructo."
+     }
+    ]
+   },
+   {
+    "overline": "Qué hacer con ella",
+    "h2": "Tienes una mitad indivisa: qué puedes hacer y qué no",
+    "type": "callout",
+    "intro": [
+     "Con una cuota indivisa puedes hacer tres cosas por tu cuenta, sin pedir permiso. Venderla a quien quieras, porque el artículo 399 del Código Civil te lo permite; los demás solo tienen derecho de retracto. Pedir la división de la cosa común, porque el artículo 400 dice que nadie está obligado a seguir en la comunidad. Y usar el inmueble, siempre que no impidas a los demás usarlo también. Lo que no puedes hacer solo es vender el inmueble entero, alquilarlo sin mayoría ni echar a un copropietario que vive en él.",
+     "Si tu escritura dice \"mitad indivisa\" de una vivienda que no usas, que ocupa otra persona o que lleva años sin venderse por falta de acuerdo, la salida más rápida es vender esa cuota. Nosotros la compramos con fondos propios, en toda España, con escritura en notaría en dos a cuatro semanas y pago al contado. Tienes más detalle en <a href=\"/vender-la-mitad-de-una-casa/\">vender la mitad de una casa</a> y en <a href=\"/vender-parte-de-un-piso/\">vender tu parte de un piso</a>."
+    ],
+    "items": {
+     "t": "Te decimos cuánto vale tu cuota indivisa",
+     "p": "Mándanos la nota simple o la página de la escritura donde aparece tu porcentaje. En 48 horas tienes una oferta por escrito, sin compromiso.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué significa una mitad indivisa de una vivienda?",
+    "Que eres dueño del 50 % de toda la vivienda, sin que ninguna habitación ni planta sea solo tuya. El otro 50 % pertenece a otra persona y ambos tenéis los mismos derechos de uso sobre el conjunto."
+   ],
+   [
+    "¿Es lo mismo \"pro indiviso\" que \"proindiviso\"?",
+    "Sí. Son dos grafías de la misma expresión latina. En escrituras antiguas aparece separado y en las actuales suele ir junto. También se usa \"en proindivisión\" con idéntico significado."
+   ],
+   [
+    "¿Qué es una participación indivisa del inmueble?",
+    "Es la cuota que una persona tiene sobre un bien compartido, expresada como porcentaje o fracción. Participación indivisa, cuota indivisa y parte indivisa se usan como sinónimos en escrituras y notas simples."
+   ],
+   [
+    "Si en la escritura pone \"por mitad y proindiviso\" pero yo pagué más, ¿tengo más del 50 %?",
+    "No. La cuota registral es la que manda: 50 %. Lo que pagaste de más podrías reclamarlo como deuda a la otra parte, pero no te convierte en dueño de un porcentaje mayor salvo que firméis una nueva escritura."
+   ],
+   [
+    "¿Puedo vender mi tercera parte indivisa sin que mis hermanos estén de acuerdo?",
+    "Sí. El artículo 399 del Código Civil te permite vender tu cuota a un tercero. Tus hermanos tienen derecho de retracto durante nueve días desde que conocen la venta, pero no pueden impedirla."
+   ],
+   [
+    "¿Cuánto me pagaríais por una mitad indivisa?",
+    "Entre el 40 % y el 70 % del valor proporcional, según ciudad, estado de ocupación, cargas y número de copropietarios. Con la dirección y tu porcentaje te damos cifra por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el proindiviso en escrituras",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Cómo se calcula tu cuota",
+    "/blog/como-se-calcula-la-cuota-de-un-proindiviso/"
+   ],
+   [
+    "Vender la mitad de una casa",
+    "/vender-la-mitad-de-una-casa/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ]
+  ],
+  "cta_title": "Convierte tu mitad indivisa en dinero en semanas",
+  "cta_text": "Compramos cuotas indivisas de pisos, casas, locales y terrenos en toda España. Oferta en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Gastos de notaría a nuestro cargo.",
+  "yoast_title": "Qué significa proindiviso en una escritura y mitad indivisa",
+  "meta_desc": "Qué significa proindiviso en una escritura, qué es una mitad indivisa y cómo leer tu cuota en la nota simple. Compramos tu parte: precio en 48 h.",
+  "focus_kw": "que significa proindiviso en una escritura",
+  "title_corto": "Proindiviso en escritura"
+ },
+ {
+  "slug": "proindiviso-ventajas-y-desventajas",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Pros y contras",
+  "h1": "Proindiviso: ventajas y desventajas de tener una propiedad compartida",
+  "sub": "Un proindiviso permite acceder a un inmueble con menos dinero y repartir gastos, pero cualquier decisión importante exige acuerdo y basta con que uno se niegue para bloquearlo todo. Repasamos ventajas y desventajas para herederos, parejas e inversores. Y si la balanza ya se ha inclinado hacia las desventajas, te compramos tu cuota.",
+  "checks": [
+   "Tabla de pros y contras",
+   "Casos de herederos y parejas",
+   "Compramos tu parte si quieres salir"
+  ],
+  "card_title": "¿El proindiviso te da más problemas que beneficios?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Sin esperar al acuerdo de los demás y sin pasar por un juzgado.",
+  "sections": [
+   {
+    "overline": "Punto de partida",
+    "h2": "Por qué el proindiviso casi nunca se elige",
+    "type": "text",
+    "intro": [
+     "La mayoría de los proindivisos no nacen de una decisión, sino de una circunstancia: unos padres que fallecen y dejan el piso a tres hijos, una pareja que compra a medias y después se separa, un socio que deja el negocio y conserva su parte del local. Por eso conviene analizar ventajas y desventajas con honestidad: no para decidir si entras, que casi nunca lo decides, sino para saber si te interesa seguir dentro o salir.",
+     "La regla básica está en los artículos 392 a 406 del Código Civil. Cada copropietario tiene una cuota, participa en gastos y beneficios en proporción a ella y puede vender esa cuota cuando quiera. Para los actos importantes sobre el inmueble entero hace falta mayoría o unanimidad. Ahí nacen a la vez la principal ventaja y la principal desventaja: nadie decide por ti, pero tú tampoco decides por nadie."
+    ]
+   },
+   {
+    "overline": "Balance",
+    "h2": "Tabla de ventajas y desventajas del proindiviso",
+    "type": "table",
+    "intro": [
+     "Hemos emparejado cada ventaja con la desventaja que suele acompañarla, porque en un proindiviso rara vez tienes una sin la otra. Lee las dos columnas pensando en tu caso concreto: cuánto usas el inmueble, cuánto pagas y qué relación tienes con los demás copropietarios."
+    ],
+    "items": [
+     [
+      "Ventaja",
+      "Desventaja que va en el mismo paquete"
+     ],
+     [
+      "Acceso a un inmueble con menos capital: dos parejas compran una segunda residencia que ninguna podría pagar sola.",
+      "Para venderla, alquilarla o reformarla hace falta el acuerdo de la mayoría o de todos. Un solo copropietario en contra bloquea la operación."
+     ],
+     [
+      "Gastos repartidos: IBI, comunidad, seguro y reparaciones se dividen según la cuota (artículo 393).",
+      "Si uno no paga, los demás tienen que adelantar su parte y reclamarla después. Las deudas de IBI y comunidad afectan al inmueble entero."
+     ],
+     [
+      "Conservas el patrimonio familiar: el piso de los padres sigue en la familia sin que nadie tenga que comprar a los demás.",
+      "El uso suele quedarse uno solo, sin pagar renta, y el resto ni disfruta ni cobra. Los conflictos entre hermanos crecen con los años."
+     ],
+     [
+      "Libertad de salida individual: puedes vender tu cuota sin permiso de nadie (artículo 399).",
+      "Esa cuota vale menos que su proporción matemática. El mercado profesional paga entre el 40 % y el 70 % del valor proporcional."
+     ],
+     [
+      "Nadie puede obligarte a comprar la parte de los otros.",
+      "Tampoco puedes obligar a nadie a comprarte la tuya. Si no hay acuerdo, la única vía forzosa es el juicio de división de cosa común, con subasta."
+     ],
+     [
+      "Fiscalidad favorable para pasar a un solo dueño: la extinción de condominio tributa por AJD, no por ITP.",
+      "Solo funciona si uno tiene el dinero o consigue la hipoteca para compensar al resto, y si todos firman."
+     ]
+    ]
+   },
+   {
+    "overline": "Según quién eres",
+    "h2": "Ventajas y desventajas según tu situación",
+    "type": "cards",
+    "intro": [
+     "El mismo proindiviso pesa distinto según quién lo mira. Para un heredero que vive lejos, la cuota es un gasto fijo y una fuente de discusiones familiares. Para quien vive en el piso, es la forma de tener una casa entera pagando una parte. Para un inversor, es un activo ilíquido con un socio que no eligió. Estas son las cuatro situaciones más habituales."
+    ],
+    "items": [
+     {
+      "t": "Herederos",
+      "p": "Ventaja: no hay que vender deprisa ni comprar a los hermanos; el inmueble espera. Desventaja: con el tiempo entran cuñados, sobrinos y herederos de herederos. Una comunidad de tres se convierte en una de ocho y el acuerdo se vuelve imposible.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte de la casa heredada →"
+     },
+     {
+      "t": "Parejas no casadas",
+      "p": "Ventaja: cada uno es dueño de su mitad con independencia del otro, lo que protege frente a una ruptura. Desventaja: tras la ruptura, uno sigue viviendo en la casa y el otro sigue pagando la mitad de la hipoteca sin disfrutar nada.",
+      "url": "/vender-proindiviso-divorcio/",
+      "cta": "Vender tu mitad tras una separación →"
+     },
+     {
+      "t": "Inversores y socios",
+      "p": "Ventaja: diversificas con menos dinero y compartes riesgos. Desventaja: tu socio puede vender su cuota a un desconocido, puede ser embargado o puede fallecer y dejarte con sus herederos como nuevos socios."
+     },
+     {
+      "t": "Quien vive en el inmueble",
+      "p": "Ventaja: usas una vivienda entera pagando solo tu parte. Desventaja: cualquier copropietario puede pedir la división en cualquier momento y acabar forzando la venta de tu casa en subasta."
+     }
+    ]
+   },
+   {
+    "overline": "Cuándo compensa",
+    "h2": "Situaciones en las que el proindiviso sí merece la pena mantenerse",
+    "type": "list",
+    "intro": [
+     "No todo proindiviso es un problema. Mantenerlo tiene sentido cuando se cumplen varias de estas condiciones a la vez."
+    ],
+    "items": [
+     "<strong>Hay un fin común y un plazo.</strong> Por ejemplo, alquilar el piso heredado cinco años y venderlo después. El artículo 400 permite pactar la indivisión hasta diez años, prorrogables.",
+     "<strong>Existe un acuerdo escrito de uso y gastos.</strong> Quién lo usa, cuánto compensa a los demás, quién gestiona el alquiler y cómo se reparten las derramas.",
+     "<strong>Todos los copropietarios pagan.</strong> Sin morosos, sin adelantos permanentes de uno solo.",
+     "<strong>El inmueble genera renta.</strong> Un local o un piso alquilado reparte beneficios; una casa de pueblo cerrada solo reparte gastos.",
+     "<strong>No hay cargas cruzadas.</strong> Ningún copropietario tiene deudas que puedan acabar en un embargo de su cuota.",
+     "<strong>Los copropietarios son pocos y estables.</strong> Dos o tres personas con relación fluida, no una comunidad de diez con tres ramas familiares."
+    ],
+    "outro": [
+     "Si fallan dos o más de estas condiciones, el proindiviso suele costar más de lo que aporta. Y cada año que pasa, la salida es más cara: más herederos, más gastos acumulados y un inmueble más deteriorado."
+    ]
+   },
+   {
+    "overline": "Salir",
+    "h2": "Cómo convertir las desventajas en una salida ordenada",
+    "type": "steps",
+    "intro": [
+     "Si has llegado a la conclusión de que el proindiviso te cuesta más de lo que te da, el orden en que intentes las salidas importa. Empieza por las que reparten más dinero y requieren acuerdo, y deja para el final las que no dependen de nadie."
+    ],
+    "items": [
+     {
+      "t": "Valora el inmueble con criterio de mercado",
+      "p": "Consulta testigos de pisos vendidos en la zona o pide una tasación. Sin un valor de referencia aceptado por todos, ninguna negociación avanza."
+     },
+     {
+      "t": "Propón una extinción de condominio",
+      "p": "Si uno de los copropietarios quiere quedarse el inmueble y tiene capacidad económica, es la salida más barata: tributa por AJD y se firma ante notario en semanas. Tienes el detalle en nuestra guía de <a href=\"/extincion-de-condominio/\">extinción de condominio</a>."
+     },
+     {
+      "t": "Intenta la venta conjunta a un tercero",
+      "p": "Es la que más dinero reparte, porque se vende el 100 % a precio de mercado. Requiere que todos firmen y acepten el mismo precio y plazo."
+     },
+     {
+      "t": "Si no hay acuerdo, vende tu cuota",
+      "p": "No necesitas el consentimiento de nadie. Nosotros compramos cuotas de pisos, casas, locales, garajes y terrenos en toda España, con oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas."
+     },
+     {
+      "t": "Último recurso: división judicial",
+      "p": "La acción de división de cosa común obliga a vender en subasta. Tarda entre uno y tres años y el precio de adjudicación suele ser bajo. Lo explicamos en <a href=\"/division-de-cosa-comun/\">división de cosa común</a>."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "Cuando las desventajas pesan más, compramos tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos la parte de quien quiere salir con fondos propios, sin intermediarios, sin exclusividad y sin que el resto de copropietarios tenga que estar de acuerdo. Pagamos entre el 40 % y el 70 % del valor proporcional de la cuota, al contado en la notaría, y asumimos los gastos de notaría y gestión."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Dirección del inmueble, tu porcentaje y si está vacío u ocupado. Con eso te damos una oferta por escrito en 48 horas.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuáles son las principales desventajas de un proindiviso?",
+    "El bloqueo de las decisiones cuando no hay acuerdo, el reparto de gastos aunque no uses el inmueble, el riesgo de que un copropietario sea embargado o fallezca y la pérdida de valor de la cuota frente al inmueble completo."
+   ],
+   [
+    "¿Qué ventajas tiene comprar una vivienda en proindiviso con otra persona?",
+    "Accedes a un inmueble que no podrías pagar solo, repartes los gastos y cada uno conserva una cuota propia que puede vender o heredar. A cambio, cualquier decisión sobre el inmueble entero exige acuerdo."
+   ],
+   [
+    "¿Es mejor un proindiviso o una comunidad de bienes con CIF para alquilar un piso heredado?",
+    "Jurídicamente es la misma copropiedad. La comunidad de bienes con CIF solo añade una obligación fiscal y de gestión cuando hay actividad económica. Para un alquiler entre hermanos, lo relevante es firmar un acuerdo de reparto de rentas y gastos."
+   ],
+   [
+    "¿Puedo obligar a mis hermanos a vender el piso heredado?",
+    "No puedes obligarles a vender su cuota, pero sí puedes pedir la división de la cosa común. Si el piso no se puede dividir, un juez ordenará venderlo en subasta y repartir el precio. Antes de llegar ahí puedes vender tu parte a un comprador profesional."
+   ],
+   [
+    "¿Cuánto pierdo si vendo mi cuota en lugar de esperar a vender el piso entero?",
+    "Un comprador profesional paga entre el 40 % y el 70 % del valor proporcional. A cambio cobras en semanas, sin abogados ni juicio y sin seguir pagando gastos de un inmueble que no usas. Compáralo con el coste real de esperar años."
+   ],
+   [
+    "¿Compráis cuotas aunque los demás copropietarios no quieran vender?",
+    "Sí. Compramos solo tu cuota. Los demás conservan la suya y pasan a compartir el inmueble con nosotros. Firma en notaría en dos a cuatro semanas y pago al contado."
+   ]
+  ],
+  "faq_title": "Preguntas sobre ventajas y desventajas del proindiviso",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Los riesgos de un proindiviso",
+    "/blog/riesgos-de-un-proindiviso/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Quédate con lo bueno: cobra tu parte y olvida el resto",
+  "cta_text": "Compramos tu cuota de proindiviso con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
+  "yoast_title": "Proindiviso: ventajas y desventajas de la propiedad compartida",
+  "meta_desc": "Proindiviso: ventajas y desventajas para herederos, parejas e inversores, con tabla comparativa. Si pesan más los problemas, compramos tu cuota en semanas.",
+  "focus_kw": "proindiviso ventajas y desventajas",
+  "title_corto": "Ventajas y desventajas"
+ },
+ {
+  "slug": "proindiviso-condominio-comunidad-de-bienes-diferencias",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Terminología",
+  "h1": "Proindiviso, condominio y comunidad de bienes: diferencias (y por qué es lo mismo)",
+  "sub": "En España, proindiviso, condominio, copropiedad y comunidad de bienes designan la misma situación: un bien con varios dueños por cuotas sin dividir, regulada en los artículos 392 a 406 del Código Civil. Lo que cambia es el contexto en que se usa cada palabra. Te lo aclaramos y, si tienes una cuota de la que quieres salir, te la compramos.",
+  "checks": [
+   "Cuatro palabras, una sola figura",
+   "Diferencias con Latinoamérica",
+   "Compramos cuotas de condominio"
+  ],
+  "card_title": "¿Quieres salir de un condominio?",
+  "card_text": "Compramos tu cuota, se llame como se llame en tu escritura. Precio por escrito en 48 horas y firma en notaría en semanas.",
+  "sections": [
+   {
+    "overline": "Respuesta corta",
+    "h2": "Qué es un condominio en España",
+    "type": "text",
+    "intro": [
+     "Un condominio es, en España, la situación en la que un bien pertenece a varias personas a la vez sin estar dividido. La palabra viene del latín con dominium, \"dominio compartido\". Es exactamente lo que el Código Civil llama comunidad de bienes en su artículo 392, lo que los notarios escriben como proindiviso y lo que en lenguaje corriente llamamos copropiedad. Cuatro términos, una misma figura jurídica, un mismo régimen legal.",
+     "La confusión viene de dos fuentes. La primera es el uso en Latinoamérica, donde condominio significa un edificio o urbanización de viviendas con zonas comunes, algo que aquí llamamos comunidad de propietarios y que regula la Ley de Propiedad Horizontal. La segunda es que \"comunidad de bienes\" también se usa en el ámbito fiscal para una forma de ejercer una actividad económica entre varios, con CIF propio. Vamos por partes."
+    ]
+   },
+   {
+    "overline": "Los cuatro términos",
+    "h2": "Proindiviso, condominio, copropiedad y comunidad de bienes: cuándo se usa cada palabra",
+    "type": "cards",
+    "intro": [
+     "Las cuatro palabras describen la misma cosa, pero cada una vive en un ambiente distinto: la notaría, el juzgado, la conversación de familia o la declaración de la renta. Saber cuál usa quién te ayuda a entender documentos y a buscar la información correcta."
+    ],
+    "items": [
+     {
+      "t": "Proindiviso",
+      "p": "Es el término notarial y registral. Aparece en escrituras y notas simples para indicar que las cuotas no están localizadas físicamente: \"por mitad y proindiviso\". También se usa como sustantivo: \"tengo un proindiviso con mis hermanos\". Es la palabra más buscada en Google por quien quiere vender su parte.",
+      "url": "/que-es-un-proindiviso/",
+      "cta": "Qué es un proindiviso →"
+     },
+     {
+      "t": "Condominio",
+      "p": "Es el término técnico que usan abogados y jueces, sobre todo en la expresión \"extinción de condominio\": la operación por la que un copropietario se queda el bien entero y compensa a los demás. En el lenguaje notarial de la operación aparece también como \"disolución de comunidad\".",
+      "url": "/extincion-de-condominio/",
+      "cta": "Extinción de condominio →"
+     },
+     {
+      "t": "Copropiedad",
+      "p": "Es la palabra de uso general y la que emplea la doctrina para referirse al derecho de cada copropietario. En sentido estricto, copropiedad es la propiedad compartida sobre una cosa concreta, mientras que comunidad puede recaer sobre cualquier derecho, por ejemplo un usufructo o un crédito."
+     },
+     {
+      "t": "Comunidad de bienes",
+      "p": "Es el nombre que da el Código Civil a la figura en el título III del libro II. Pero en Hacienda y en la Seguridad Social se usa para una entidad sin personalidad jurídica con CIF que agrupa a varias personas para una actividad económica. Son dos realidades distintas con el mismo nombre."
+     }
+    ]
+   },
+   {
+    "overline": "Fuera de España",
+    "h2": "Condominio en España no es lo mismo que en Latinoamérica",
+    "type": "text",
+    "intro": [
+     "Si buscas \"condominio vivienda\" y encuentras artículos sobre torres con piscina, gimnasio y cuota de mantenimiento mensual, estás leyendo contenido de México, Chile, Argentina o Estados Unidos. Allí, condominio es un régimen de propiedad horizontal: cada vecino es dueño de su apartamento y copropietario de los elementos comunes. En España eso se llama comunidad de propietarios, lo regula la Ley 49/1960 de Propiedad Horizontal y el artículo 396 del Código Civil, y nadie en una escritura española lo llama condominio.",
+     "Aquí, cuando un abogado habla de condominio, se refiere a que un piso, una casa, un local o un terreno tiene dos o más dueños por cuotas. No hay administrador de fincas ni junta de vecinos ni cuota mensual de mantenimiento. Hay copropietarios que tienen que ponerse de acuerdo sobre un único bien. Esa diferencia importa a la hora de buscar ayuda: si tienes un problema con tu comunidad de vecinos, necesitas la Ley de Propiedad Horizontal; si tu problema es que tu hermano no quiere vender el piso heredado, necesitas los artículos 392 a 406 del Código Civil y, si quieres salir rápido, a alguien que compre tu cuota."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Tres cosas distintas que la gente llama comunidad",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "Qué es, qué ley la regula y cómo se sale"
+     ],
+     [
+      "Comunidad de bienes como copropiedad (proindiviso, condominio)",
+      "Varios dueños de un mismo bien por cuotas. Artículos 392 a 406 del Código Civil. Se sale vendiendo la cuota, por extinción de condominio o por división de cosa común. No necesita CIF ni estatutos."
+     ],
+     [
+      "Comunidad de bienes con CIF (actividad económica)",
+      "Dos o más personas que ejercen juntas una actividad y tributan por atribución de rentas. La regula la normativa fiscal y, en lo civil, los mismos artículos 392 a 406. Se disuelve liquidando la actividad y repartiendo bienes. Un piso heredado alquilado puede obligar a constituirla a efectos fiscales."
+     ],
+     [
+      "Comunidad de propietarios (propiedad horizontal)",
+      "Vecinos de un edificio, cada uno dueño de su piso y copropietario de portal, ascensor y tejado. Ley de Propiedad Horizontal y artículo 396 del Código Civil. No se sale: se vende el piso y el comprador ocupa tu lugar."
+     ]
+    ],
+    "outro": [
+     "La primera fila es la que nos ocupa. Si estás en ella, tu escritura dirá proindiviso, tu abogado dirá condominio y Hacienda dirá comunidad de bienes. Da igual: el régimen es el mismo y tus derechos también. Un matiz práctico: si tres hermanos alquilan el piso heredado, Hacienda puede exigir que la comunidad tenga CIF y presente declaraciones informativas, pero eso no convierte la copropiedad en otra cosa ni impide que cualquiera venda su cuota."
+    ]
+   },
+   {
+    "overline": "Lo que no cambia",
+    "h2": "Lo que tienes en un condominio, lo llames como lo llames",
+    "type": "list",
+    "intro": [
+     "Más allá de la terminología, lo que importa es el contenido de tu derecho. Estos seis puntos se aplican a cualquier condominio sobre un inmueble en España, salvo que un pacto entre los copropietarios o una norma autonómica, como el Código Civil de Cataluña, diga otra cosa."
+    ],
+    "items": [
+     "<strong>Una cuota ideal sobre el todo.</strong> Porcentaje o fracción. Si la escritura no la fija, se presume igual para todos (artículo 393).",
+     "<strong>Derecho a vender tu cuota sin permiso.</strong> Artículo 399. Los demás solo tienen un derecho de retracto de nueve días para comprarla al mismo precio.",
+     "<strong>Derecho a pedir la división en cualquier momento.</strong> Artículo 400. Nadie puede obligarte a seguir en la comunidad.",
+     "<strong>Obligación de contribuir a los gastos según tu cuota.</strong> Artículo 393. Aunque no uses el inmueble.",
+     "<strong>Necesidad de mayoría para administrar y de unanimidad para alterar.</strong> Artículos 397 y 398. Alquilar requiere mayoría de cuotas; reformar la estructura o vender el todo, unanimidad.",
+     "<strong>Derecho de uso compartido.</strong> Artículo 394. Puedes usar la cosa según su destino sin impedir que los demás la usen."
+    ],
+    "outro": [
+     "En la práctica, el punto que más se usa es el segundo. Un copropietario cansado de esperar vende su cuota a un comprador profesional y deja de pagar gastos de un inmueble que no disfruta. Es una operación normal, con escritura pública, que no necesita el permiso de los demás ni cambia los derechos del resto de copropietarios."
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "Compramos tu cuota de condominio, proindiviso o comunidad de bienes",
+    "type": "callout",
+    "intro": [
+     "Nos da igual la palabra que use tu escritura. Si tienes una participación indivisa de una vivienda, un local, un garaje o un terreno y quieres salir sin esperar a que los demás se decidan, la compramos con fondos propios. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría y gestión a nuestro cargo. Puedes ver cómo trabajamos en <a href=\"/empresas-que-compran-proindivisos/\">empresas que compran proindivisos</a>."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos qué inmueble es, qué porcentaje tienes y cómo lo adquiriste. Te respondemos con una oferta en 48 horas, sin compromiso.",
+     "cta": "Quiero saber cuánto vale mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Condominio es lo mismo que proindiviso?",
+    "Sí. En España ambas palabras designan un bien con varios dueños por cuotas sin dividir. Condominio es el término más usado por abogados, y proindiviso el que aparece en escrituras y notas simples."
+   ],
+   [
+    "¿Qué es un condominio vivienda en España?",
+    "Una vivienda que pertenece a dos o más personas en proindiviso, por ejemplo un piso heredado por tres hermanos o comprado por una pareja. No es un edificio con zonas comunes, que aquí se llama comunidad de propietarios."
+   ],
+   [
+    "¿Una comunidad de bienes necesita CIF?",
+    "Solo cuando desarrolla una actividad económica, como alquilar varios inmuebles o explotar un negocio. Un proindiviso sobre un piso vacío o usado por la familia no necesita CIF ni estatutos."
+   ],
+   [
+    "¿Qué diferencia hay entre copropiedad y comunidad de bienes?",
+    "En la práctica ninguna. Técnicamente la copropiedad recae sobre una cosa concreta y la comunidad puede recaer sobre cualquier derecho, pero el Código Civil regula ambas en los artículos 392 a 406."
+   ],
+   [
+    "¿Cómo se disuelve un condominio en España?",
+    "Por acuerdo, mediante extinción de condominio, con un copropietario que se queda el bien y compensa a los demás; vendiendo el inmueble entero; o, sin acuerdo, con la acción judicial de división de cosa común. Cada copropietario puede además vender su cuota por separado."
+   ],
+   [
+    "¿Compráis cuotas de una comunidad de bienes con CIF?",
+    "Sí, si la comunidad recae sobre inmuebles y tu participación está identificada. Estudiamos el caso con la escritura y la situación fiscal de la comunidad antes de dar precio."
+   ]
+  ],
+  "faq_title": "Preguntas sobre condominio y comunidad de bienes",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "El proindiviso en el Código Civil",
+    "/blog/proindiviso-codigo-civil/"
+   ],
+   [
+    "Qué significa proindiviso en una escritura",
+    "/blog/que-significa-proindiviso-en-una-escritura/"
+   ],
+   [
+    "Empresas que compran proindivisos",
+    "/empresas-que-compran-proindivisos/"
+   ]
+  ],
+  "cta_title": "Sal del condominio sin esperar a nadie",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado y sin exclusividad.",
+  "yoast_title": "Proindiviso, condominio y comunidad de bienes: diferencias",
+  "meta_desc": "Proindiviso, condominio, copropiedad y comunidad de bienes son lo mismo en España. Te explicamos cada término y compramos tu cuota si quieres salir.",
+  "focus_kw": "condominio vivienda",
+  "title_corto": "Condominio y comunidad de bienes"
+ },
+ {
+  "slug": "proindiviso-codigo-civil",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Marco legal",
+  "h1": "El proindiviso en el Código Civil: artículos 392 a 406 explicados en lenguaje claro",
+  "sub": "El Código Civil regula el proindiviso en quince artículos, del 392 al 406, bajo el nombre de comunidad de bienes. Ahí están tus derechos como copropietario, tus obligaciones y la forma de salir. Te los explicamos uno a uno con ejemplos reales de pisos, casas y terrenos. Y si prefieres salir ya, compramos tu cuota.",
+  "checks": [
+   "Artículo por artículo",
+   "Ejemplos con pisos y terrenos",
+   "Compramos tu cuota si quieres salir"
+  ],
+  "card_title": "¿Quieres ejercer tu derecho a salir?",
+  "card_text": "El artículo 399 te permite vender tu cuota sin permiso de nadie. Nosotros la compramos: precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Dónde está",
+    "h2": "Dónde regula el Código Civil el proindiviso",
+    "type": "text",
+    "intro": [
+     "El proindiviso no aparece con ese nombre en el Código Civil. La ley lo llama comunidad de bienes y lo regula en el título III del libro II, artículos 392 a 406. Son quince artículos de 1889 que siguen vigentes casi sin cambios y que se aplican a cualquier bien con varios dueños: un piso heredado por hermanos, una casa comprada en pareja, un terreno familiar o un local entre socios.",
+     "Hay que tener en cuenta dos cosas antes de leerlos. La primera es que son normas supletorias: el artículo 392 dice que se aplican a falta de contrato o de disposiciones especiales, así que un pacto entre copropietarios puede modificar casi todo lo que viene después. La segunda es que en Cataluña rige el Código Civil catalán, cuyo libro V regula la comunidad ordinaria indivisa con algunas diferencias, por ejemplo en los derechos de adquisición preferente. Aquí explicamos el Código Civil estatal, que es el que se aplica en el resto de España."
+    ]
+   },
+   {
+    "overline": "Artículos 392 a 396",
+    "h2": "Qué es la comunidad y cómo se reparten gastos y uso",
+    "type": "table",
+    "items": [
+     [
+      "Artículo",
+      "Qué dice y qué significa para ti"
+     ],
+     [
+      "392. Definición",
+      "Hay comunidad cuando la propiedad de una cosa o de un derecho pertenece pro indiviso a varias personas. Es la única vez que el Código usa la palabra. Lo primero que manda es el pacto entre copropietarios; el Código solo entra si no hay pacto."
+     ],
+     [
+      "393. Cuotas",
+      "Beneficios y cargas se reparten en proporción a las cuotas, y las cuotas se presumen iguales mientras no se pruebe lo contrario. Si tu escritura no fija porcentajes y sois tres, cada uno tiene un tercio y paga un tercio del IBI."
+     ],
+     [
+      "394. Uso",
+      "Cada copropietario puede servirse de la cosa según su destino, sin perjudicar el interés de la comunidad ni impedir a los demás usarla. Puedes entrar en el piso heredado y usarlo, pero no cambiar la cerradura para que tus hermanos no entren."
+     ],
+     [
+      "395. Gastos de conservación",
+      "Todo copropietario puede obligar a los demás a contribuir a los gastos de conservación. El que no quiera pagar solo puede librarse renunciando a su parte. Si arreglas el tejado de la casa común, puedes reclamar a cada uno su proporción."
+     ],
+     [
+      "396. Propiedad horizontal",
+      "Regula los elementos comunes de los edificios de pisos. No se refiere al proindiviso sobre un piso concreto, sino a la comunidad de vecinos. Se desarrolla en la Ley de Propiedad Horizontal."
+     ]
+    ],
+    "outro": [
+     "Ejemplo del artículo 393 con números: un piso cuya cuota de IBI es de 900 euros al año, con una copropietaria del 50 % y dos del 25 %. La primera paga 450 euros y cada uno de los otros 225. Si solo paga ella durante tres años, puede reclamar 1.350 euros a cada hermano."
+    ]
+   },
+   {
+    "overline": "Artículos 397 a 399",
+    "h2": "Qué decisiones necesitan unanimidad, cuáles mayoría y cuáles puedes tomar solo",
+    "type": "cards",
+    "items": [
+     {
+      "t": "397. Alteraciones: unanimidad",
+      "p": "Ningún copropietario puede hacer alteraciones en la cosa común sin el consentimiento de los demás, aunque resulten ventajosas para todos. Tirar un tabique, cerrar una terraza o cambiar el uso de un local de tienda a vivienda exige que todos firmen. Vender el inmueble entero, también."
+     },
+     {
+      "t": "398. Administración: mayoría",
+      "p": "Para administrar y disfrutar mejor la cosa común basta la mayoría de cuotas, no de personas. Alquilar el piso, contratar un seguro o pintar la fachada se decide por quienes sumen más del 50 %. Si no hay mayoría o el acuerdo perjudica gravemente a alguno, el juez puede decidir e incluso nombrar un administrador."
+     },
+     {
+      "t": "399. Tu cuota es tuya: libre disposición",
+      "p": "Cada copropietario tiene la plena propiedad de su parte y puede venderla, cederla o hipotecarla sin permiso de los demás. Es el artículo que nos permite comprar tu cuota. El único límite es el retracto de comuneros del artículo 1522, que da a los demás nueve días para quedarse la cuota pagando el mismo precio.",
+      "url": "/vender-proindiviso-sin-avisar/",
+      "cta": "Vender mi cuota sin avisar →"
+     }
+    ],
+    "outro": [
+     "La combinación de estos tres artículos explica la mayoría de los bloqueos. Un hermano con el 40 % no puede impedir que los otros dos, con el 60 %, alquilen el piso. Pero sí puede impedir que lo vendan o lo reformen. Y ninguno puede impedir que cualquiera de ellos venda su cuota a un tercero."
+    ]
+   },
+   {
+    "overline": "Artículos 400 a 404",
+    "h2": "La salida: nadie está obligado a permanecer en la comunidad",
+    "type": "steps",
+    "intro": [
+     "Los artículos 400 a 404 regulan la división de la cosa común. Son los que convierten el proindiviso en una situación transitoria por ley: cualquiera puede pedir que termine. Los ordenamos como un recorrido."
+    ],
+    "items": [
+     {
+      "t": "400. Derecho a pedir la división en cualquier momento",
+      "p": "Ningún copropietario está obligado a permanecer en la comunidad y cada uno puede pedir la división cuando quiera. Solo cabe pactar mantener la indivisión por un plazo máximo de diez años, prorrogable. Esta acción no prescribe."
+     },
+     {
+      "t": "401. Límite: que la cosa no quede inservible",
+      "p": "No se puede exigir la división física cuando la cosa quedaría inservible para su uso. Un piso de 70 metros no se puede partir en dos viviendas. Si se trata de un edificio, cabe constituirlo en propiedad horizontal y adjudicar pisos a cada uno."
+     },
+     {
+      "t": "402. Quién divide",
+      "p": "La división pueden hacerla los propios interesados o árbitros y amigables componedores que nombren. Deben formar partes proporcionales a las cuotas. Es la vía amistosa, con un terreno que se segrega en parcelas o con una herencia con varios inmuebles que se reparten."
+     },
+     {
+      "t": "403. Los acreedores pueden intervenir",
+      "p": "Los acreedores y cesionarios de cada copropietario pueden concurrir a la división y oponerse a que se haga sin ellos. Si un hermano tiene un embargo sobre su cuota, el acreedor entra en la partición. Es uno de los riesgos ocultos del proindiviso."
+     },
+     {
+      "t": "404. Si es indivisible, se vende y se reparte el precio",
+      "p": "Cuando la cosa es esencialmente indivisible y los copropietarios no acuerdan adjudicarla a uno indemnizando a los demás, se vende y se reparte el precio. Es la base del juicio de división de cosa común y de la subasta judicial. Lo explicamos en nuestra guía de <a href=\"/division-de-cosa-comun/\">división de cosa común</a>."
+     }
+    ]
+   },
+   {
+    "overline": "Artículos 405 y 406",
+    "h2": "Qué pasa con terceros y con las reglas de la herencia",
+    "type": "text",
+    "intro": [
+     "El artículo 405 protege a quienes no son copropietarios: la división no perjudica a terceros, que conservan la hipoteca, la servidumbre o cualquier otro derecho real que tuvieran sobre la cosa. Si el piso está hipotecado y se adjudica a un hermano, la hipoteca sigue ahí; el banco no tiene que aceptar nada. Lo mismo ocurre con un inquilino con contrato en vigor.",
+     "El artículo 406 remite a las reglas de la partición de la herencia, artículos 1051 y siguientes. De ahí entra en juego el 1062: si el bien es indivisible o desmerece mucho al dividirlo, puede adjudicarse a uno que pague en dinero el exceso a los demás, y basta que uno solo pida la venta en pública subasta con admisión de licitadores extraños para que deba hacerse. También el 1067, que da a los coherederos un mes para retraer la cuota hereditaria vendida a un extraño antes de la partición."
+    ]
+   },
+   {
+    "overline": "Caso práctico",
+    "h2": "Terreno en proindiviso: derechos y obligaciones aplicados",
+    "type": "list",
+    "intro": [
+     "Cuatro hermanos heredan una finca rústica de 20.000 metros con una pequeña casa de aperos. Uno la cultiva, otro vive en el extranjero y los otros dos no se hablan. Así se aplica el Código Civil."
+    ],
+    "items": [
+     "<strong>El que cultiva puede hacerlo (artículo 394)</strong>, pero no puede impedir que los demás entren ni cercar la finca para su uso exclusivo. Si obtiene cosecha en exclusiva, los demás pueden reclamar su parte de los frutos.",
+     "<strong>El IBI rústico y la limpieza de cortafuegos se pagan por cuartas partes (artículos 393 y 395).</strong> Quien pague por todos puede reclamar al resto.",
+     "<strong>Para arrendarla a un agricultor hace falta el 51 % de las cuotas (artículo 398)</strong>: tres hermanos de cuatro, si las cuotas son iguales.",
+     "<strong>Para segregarla en cuatro parcelas hay que cumplir la unidad mínima de cultivo de la comunidad autónoma (artículos 401 y 402).</strong> Si no se alcanza, la finca es indivisible y la salida es la venta.",
+     "<strong>Cualquiera puede vender su cuarta parte (artículo 399)</strong> y cualquiera puede pedir la división (artículo 400). Tenemos una página sobre <a href=\"/vender-terreno-proindiviso/\">vender un terreno en proindiviso</a>."
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "El artículo 399 en la práctica: compramos tu cuota",
+    "type": "callout",
+    "intro": [
+     "Todo lo anterior se resume en una idea: el Código Civil no te obliga a seguir en un proindiviso, pero las salidas que ofrece pasan por el acuerdo de los demás o por un juzgado. La excepción es el artículo 399. Vender tu cuota es la única salida que depende solo de ti. Nosotros compramos cuotas indivisas de viviendas, locales, garajes y terrenos en toda España, con fondos propios, oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y pago al contado."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota hoy",
+     "p": "Dinos qué inmueble es y qué porcentaje tienes. Sin compromiso y sin que los demás copropietarios tengan que estar de acuerdo.",
+     "cta": "Quiero una oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué artículos del Código Civil regulan el proindiviso?",
+    "Los artículos 392 a 406, bajo el nombre de comunidad de bienes. Además se aplican el 1062 y siguientes sobre partición de herencia, el 1522 sobre retracto de comuneros y el 1067 sobre retracto de coherederos."
+   ],
+   [
+    "¿Qué derechos tengo sobre un terreno en proindiviso?",
+    "Usarlo según su destino sin excluir a los demás, participar en frutos y rentas según tu cuota, vender tu parte sin permiso y pedir la división en cualquier momento. A cambio debes contribuir a gastos e impuestos en proporción a tu cuota."
+   ],
+   [
+    "¿Puede un copropietario alquilar el piso sin consentimiento de los demás?",
+    "Necesita la mayoría de cuotas, no la unanimidad (artículo 398). Si tiene más del 50 % puede decidirlo, aunque la jurisprudencia exige que los demás sean informados y reciban su parte de la renta."
+   ],
+   [
+    "¿Se puede pactar no dividir un proindiviso?",
+    "Sí, por un máximo de diez años, prorrogables por nuevo acuerdo (artículo 400). Transcurrido el plazo, cualquiera puede pedir la división."
+   ],
+   [
+    "¿Qué dice el artículo 399 del Código Civil?",
+    "Que cada copropietario tiene la plena propiedad de su cuota y puede venderla, cederla o hipotecarla sin consentimiento de los demás. Es el artículo que te permite vender tu parte a un tercero como nosotros."
+   ],
+   [
+    "¿Y si mi proindiviso está en Cataluña?",
+    "Se aplica el Código Civil de Cataluña, libro V, que regula la comunidad ordinaria indivisa con reglas propias sobre tanteo y retracto y sobre la división. Los principios son los mismos: puedes vender tu cuota y puedes pedir la división. Consulta tu caso."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el proindiviso en el Código Civil",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Se puede obligar a vender a un copropietario",
+    "/blog/se-puede-obligar-a-vender-a-un-copropietario/"
+   ],
+   [
+    "Tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Vender un terreno en proindiviso",
+    "/vender-terreno-proindiviso/"
+   ]
+  ],
+  "cta_title": "Ejerce tu derecho del artículo 399: vende tu cuota",
+  "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Proindiviso en el Código Civil: artículos 392 a 406 explicados",
+  "meta_desc": "El proindiviso en el Código Civil: artículos 392 a 406 explicados con ejemplos, derechos y obligaciones de cada copropietario. Compramos tu cuota en 48 h.",
+  "focus_kw": "proindiviso codigo civil",
+  "title_corto": "Proindiviso en el Código Civil"
+ },
+ {
+  "slug": "como-se-calcula-la-cuota-de-un-proindiviso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Cálculo con números",
+  "h1": "Cómo se calcula tu cuota en un proindiviso y cuánto vale",
+  "sub": "Tu cuota en un proindiviso es el porcentaje que figura en la escritura o, si viene de una herencia, el que resulta de aplicar las reglas de legítimas y gananciales. Su valor de mercado es ese porcentaje aplicado al valor del inmueble, menos el descuento que aplica cualquier comprador de una parte. Te enseñamos a calcular las dos cifras y te damos precio real por tu cuota.",
+  "checks": [
+   "Ejemplos con cifras reales",
+   "Herencia, compra y gananciales",
+   "Precio por escrito en 48 horas"
+  ],
+  "card_title": "¿Cuánto vale tu parte del piso?",
+  "card_text": "Dinos la dirección y tu porcentaje. Te damos una cifra concreta por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Dos preguntas",
+    "h2": "Qué porcentaje tienes y cuánto vale: son dos cálculos distintos",
+    "type": "text",
+    "intro": [
+     "Cuando alguien pregunta cuánto vale su parte de un piso, en realidad hace dos preguntas. La primera es qué cuota tiene: un 50 %, un tercio, un 16,67 %. La segunda es cuántos euros vale esa cuota hoy si la vende. La primera se responde con la escritura y, en herencias, con el Código Civil. La segunda depende del valor del inmueble y de a quién se lo vendas.",
+     "El error más frecuente es mezclar ambas. Tener el 25 % de un piso de 200.000 euros no significa tener 50.000 euros. Significa tener un derecho que vale 50.000 euros si el piso se vende entero y todos cobran, y bastante menos si vendes solo tu parte a un tercero. Vamos a calcular las dos cosas con ejemplos."
+    ]
+   },
+   {
+    "overline": "Herencia",
+    "h2": "Cómo se calcula el indiviso cuando viene de una herencia",
+    "type": "steps",
+    "intro": [
+     "En una herencia, la cuota de cada hijo depende de si había testamento, de cuántos herederos hay y de si el inmueble era ganancial. Sigue este orden."
+    ],
+    "items": [
+     {
+      "t": "Separa la parte del cónyuge viudo por gananciales",
+      "p": "Si el piso era ganancial, la mitad no es herencia: pertenece al cónyuge que sobrevive por la liquidación de la sociedad de gananciales. Solo la otra mitad se reparte entre herederos. Piso de 240.000 euros ganancial: 120.000 son de la viuda y 120.000 son herencia."
+     },
+     {
+      "t": "Mira si hay testamento",
+      "p": "Sin testamento, los hijos heredan a partes iguales y el cónyuge viudo tiene el usufructo de un tercio. Con testamento, el testador puede repartir el tercio de mejora y el de libre disposición como quiera, pero el tercio de legítima estricta va a partes iguales entre los hijos."
+     },
+     {
+      "t": "Divide la parte hereditaria entre los herederos",
+      "p": "Tres hijos sin testamento sobre esa mitad hereditaria de 120.000 euros: 40.000 euros cada uno, es decir, un sexto del piso, un 16,67 %. La viuda suma su 50 % más el usufructo vitalicio sobre un tercio de la herencia."
+     },
+     {
+      "t": "Aplica el testamento si mejora a alguno",
+      "p": "Si el testamento deja el tercio de mejora y el de libre disposición a un solo hijo, ese hijo recibe esos dos tercios más su parte de la legítima estricta. Con tres hijos: ese hijo tiene 7/9 de la herencia y los otros dos 1/9 cada uno."
+     },
+     {
+      "t": "Comprueba la escritura de aceptación y adjudicación",
+      "p": "La cuota definitiva es la que se inscribe en el Registro al aceptar la herencia. Si todavía no se ha firmado, lo que tienes es un derecho hereditario, no una cuota, y se vende de otra manera. Lo explicamos en <a href=\"/vender-derechos-hereditarios/\">vender derechos hereditarios</a>."
+     }
+    ]
+   },
+   {
+    "overline": "Compra y gananciales",
+    "h2": "Cómo se calcula la cuota si compraste con otra persona",
+    "type": "table",
+    "intro": [
+     "Fuera de la herencia, la regla es más simple: manda la escritura. Lo que cada uno pagó, quién paga la hipoteca o quién hizo la reforma genera créditos entre copropietarios, pero no cambia el porcentaje inscrito. Estas son las situaciones más habituales."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Cómo se determina tu cuota"
+     ],
+     [
+      "Compra en pareja no casada o en separación de bienes",
+      "La cuota es la que dice la escritura, normalmente el 50 %. Si cada uno aportó una cantidad distinta y la escritura fija porcentajes desiguales, manda la escritura. Si fija mitades y uno pagó más, sigue siendo 50 % y lo pagado de más es un crédito entre vosotros."
+     ],
+     [
+      "Compra en gananciales y divorcio",
+      "El piso es ganancial al 100 %, sin cuotas individuales. Al liquidar la sociedad de gananciales, cada excónyuge recibe el 50 %. Si uno aportó dinero privativo a la compra, puede reclamar su reembolso en la liquidación, no una cuota mayor."
+     ],
+     [
+      "Compra con hipoteca que paga uno solo",
+      "La cuota no cambia por pagar la hipoteca. Quien paga la cuota del otro tiene un crédito contra él, pero no se convierte en dueño de más porcentaje."
+     ],
+     [
+      "Compra entre socios o amigos",
+      "La escritura fija los porcentajes. Si aportasteis a partes iguales pero uno hizo la reforma, el que reformó tiene derecho a que se le reembolse su proporción (artículo 395), no a más cuota."
+     ],
+     [
+      "Donación de padres a hijos",
+      "La escritura de donación fija la participación de cada hijo. Si los padres se reservan el usufructo, los hijos tienen la nuda propiedad de su cuota, que vale menos mientras vivan los padres."
+     ]
+    ]
+   },
+   {
+    "overline": "Del porcentaje al euro",
+    "h2": "Cuánto vale mi parte de un piso: el cálculo en tres pasos",
+    "type": "text",
+    "intro": [
+     "Primer paso: fija el valor de mercado del inmueble completo. No uses el valor catastral, que suele ser muy inferior, ni el valor de referencia de Catastro, que sirve para impuestos. Busca testigos: pisos similares vendidos en la misma zona en los últimos meses, no anuncios. Si quieres precisión, una tasación cuesta entre 250 y 450 euros. Supongamos que un piso de tres habitaciones en una capital de provincia vale 210.000 euros.",
+     "Segundo paso: aplica tu cuota. Si tienes un tercio, tu valor proporcional es de 70.000 euros. Resta la parte proporcional de la hipoteca pendiente: con 60.000 euros de deuda, tu tercio neto es de 50.000 euros. Esto es lo que cobrarías si el piso se vendiera entero a precio de mercado y todos firmaran.",
+     "Tercer paso: aplica el descuento de mercado si vendes solo tu cuota. Nadie paga el valor proporcional por una parte que no le permite usar ni vender el inmueble entero. Un comprador profesional paga entre el 40 % y el 70 % del valor neto de la cuota. Sobre esos 50.000 euros, la horquilla real está entre 20.000 y 35.000 euros, cobrados al contado en semanas."
+    ]
+   },
+   {
+    "overline": "El descuento",
+    "h2": "Por qué una cuota vale menos que su porcentaje y qué mueve el precio",
+    "type": "table",
+    "intro": [
+     "El descuento no es arbitrario. Refleja el tiempo, el coste y el riesgo que asume quien compra una parte para después salir de la comunidad por acuerdo o por juicio de división. Estos factores suben o bajan la oferta."
+    ],
+    "items": [
+     [
+      "Factor",
+      "Efecto sobre el precio de tu cuota"
+     ],
+     [
+      "Inmueble vacío y en buena zona",
+      "Sube. La salida es rápida y el inmueble se vende bien si hay división. Acerca la oferta al 70 %."
+     ],
+     [
+      "Ocupado por otro copropietario que no paga",
+      "Baja. El comprador no puede usar el inmueble y la salida pasa por un juzgado. Oferta más cerca del 40 % o 50 %."
+     ],
+     [
+      "Cuota mayoritaria (más del 50 %)",
+      "Sube. Quien la compra decide la administración y puede alquilar. Paga más por ella."
+     ],
+     [
+      "Muchos copropietarios o herederos sin inscribir",
+      "Baja. Cada firma que falta es tiempo y coste. Una herencia sin aceptar resta puntos."
+     ],
+     [
+      "Hipoteca, embargos o deudas de IBI y comunidad",
+      "Baja en la medida de la carga. Lo vemos en <a href=\"/vender-proindiviso-con-hipoteca/\">vender un proindiviso con hipoteca</a>."
+     ],
+     [
+      "Inquilino con contrato o inmueble okupado",
+      "Baja. La posesión no está disponible y recuperarla cuesta tiempo. Aun así compramos."
+     ]
+    ]
+   },
+   {
+    "overline": "Lo que podemos hacer",
+    "h2": "Te decimos cuánto vale tu cuota con cifra concreta",
+    "type": "callout",
+    "intro": [
+     "Hacemos este cálculo cada día. Con la dirección del inmueble, tu porcentaje y la situación de ocupación y cargas, te damos una oferta por escrito en 48 horas. Si te encaja, firmamos en notaría en dos a cuatro semanas, pagamos al contado y asumimos los gastos de notaría y gestión. Sin exclusividad ni compromiso. Tienes más horquillas en <a href=\"/cuanto-pagan-por-un-proindiviso/\">cuánto pagan por un proindiviso</a>."
+    ],
+    "items": {
+     "t": "Calcula el valor real de tu parte",
+     "p": "Envíanos la nota simple o la escritura y te decimos cuánto pagamos por tu cuota. Respuesta en 48 horas.",
+     "cta": "Pedir valoración de mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cómo se calcula el indiviso de un piso heredado entre tres hermanos?",
+    "Si el piso era privativo del fallecido y no hay testamento, cada hermano tiene un tercio. Si era ganancial, la mitad es del cónyuge viudo y cada hermano tiene un sexto, con usufructo del viudo sobre un tercio de la herencia."
+   ],
+   [
+    "¿Cuánto vale mi parte de un piso si tengo el 50 %?",
+    "El 50 % del valor de mercado, menos la mitad de la hipoteca pendiente, si el piso se vende entero. Si vendes solo tu mitad a un comprador profesional, entre el 40 % y el 70 % de esa cifra."
+   ],
+   [
+    "¿Puedo vender solo un porcentaje de mi cuota?",
+    "Sí. Puedes vender toda tu participación o una parte de ella. En la práctica los compradores profesionales prefieren adquirir la cuota completa porque simplifica la salida."
+   ],
+   [
+    "¿Qué valor se usa para calcular la cuota: catastral, de referencia o de mercado?",
+    "Para saber cuánto vale, el de mercado. El valor catastral sirve para el IBI y el valor de referencia de Catastro para liquidar impuestos como ITP o sucesiones, y suele quedar por debajo del precio real."
+   ],
+   [
+    "¿Si pagué más por el piso tengo una cuota mayor?",
+    "No. La cuota es la que figura en la escritura. Lo que pagaste de más es un crédito que puedes reclamar al otro copropietario, pero no modifica tu porcentaje registral."
+   ],
+   [
+    "¿Por qué pagáis menos del valor proporcional?",
+    "Porque compramos una parte que no podemos usar ni vender por separado y que exige un proceso de salida con tiempo, abogados y riesgo. Ese descuento se compensa con cobrar en semanas en lugar de esperar años."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el cálculo de la cuota",
+  "related": [
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Qué significa proindiviso en una escritura",
+    "/blog/que-significa-proindiviso-en-una-escritura/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Vender parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ]
+  ],
+  "cta_title": "Tu cuota tiene un precio. Te lo decimos en 48 horas",
+  "cta_text": "Compramos participaciones indivisas de pisos, casas, locales y terrenos en toda España. Oferta por escrito, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
+  "yoast_title": "Cómo se calcula la cuota de un proindiviso y cuánto vale",
+  "meta_desc": "Cómo se calcula tu cuota en un proindiviso por herencia, compra o gananciales y cuánto vale tu parte de un piso en euros. Te damos precio real en 48 horas.",
+  "focus_kw": "cuota proindiviso",
+  "title_corto": "Calcular la cuota"
+ },
+ {
+  "slug": "riesgos-de-un-proindiviso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Lo que nadie te cuenta",
+  "h1": "Los 9 riesgos de un proindiviso que nadie te cuenta (y cómo evitarlos)",
+  "sub": "Un proindiviso parece inofensivo mientras nadie se mueve. El problema es que basta con que un copropietario deje de pagar, sea embargado, fallezca o decida ocupar el inmueble para que tu parte pierda valor y tu tranquilidad. Estos son los nueve riesgos reales y la manera de cubrirte. La más sencilla: vender tu cuota antes de que ocurran.",
+  "checks": [
+   "Nueve riesgos con ejemplos",
+   "Cómo evitar cada uno",
+   "Compramos tu cuota con cargas"
+  ],
+  "card_title": "¿Prefieres salir antes de que el problema crezca?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, incluso con deudas, ocupación o copropietarios ilocalizables.",
+  "sections": [
+   {
+    "overline": "Por qué importa",
+    "h2": "El proindiviso es un riesgo compartido, no solo una propiedad compartida",
+    "type": "text",
+    "intro": [
+     "Cuando compartes un inmueble no solo compartes sus metros. Compartes también lo que les pase a los demás copropietarios: sus deudas, sus herencias, sus decisiones y sus ausencias. El Código Civil te hace responsable de los gastos en proporción a tu cuota (artículo 393) y permite que los acreedores de cualquiera de ellos intervengan en la comunidad (artículo 403). Mientras todo va bien, nada de esto se nota. Cuando algo falla, lo notas en tu bolsillo.",
+     "Hemos agrupado los nueve riesgos más frecuentes que vemos en las cuotas que compramos. Para cada uno te decimos qué puede pasar y qué puedes hacer para evitarlo o limitarlo. Ninguno es teórico: todos salen de casos reales de herederos, parejas separadas y socios."
+    ]
+   },
+   {
+    "overline": "Riesgos 1 a 4",
+    "h2": "Riesgos económicos: embargos, deudas y gastos que acaban pagando los demás",
+    "type": "cards",
+    "items": [
+     {
+      "t": "1. Embargo de la cuota de otro copropietario",
+      "p": "Si tu hermano tiene deudas con Hacienda, con un banco o con un particular, su acreedor puede embargar su cuota y sacarla a subasta. Un desconocido o un fondo puede convertirse en tu nuevo copropietario y pedir la división del inmueble. Cómo evitarlo: pide una nota simple cada año y, si ves un embargo, actúa antes de la subasta."
+     },
+     {
+      "t": "2. Deudas que afectan al inmueble entero",
+      "p": "El IBI impagado y las cuotas de comunidad de los últimos años quedan afectos al inmueble. Si un copropietario no paga su parte, el Ayuntamiento o la comunidad de vecinos pueden ir contra la finca completa. Cómo evitarlo: domicilia los recibos en una cuenta común y reclama por escrito cada impago."
+     },
+     {
+      "t": "3. Gastos que adelantas y no recuperas",
+      "p": "Derramas del ascensor, reparación del tejado, seguro. El artículo 395 te permite reclamar a los demás, pero reclamar a un hermano que vive fuera o a un excuñado implica un juicio. En la práctica, muchos copropietarios acumulan miles de euros adelantados. Cómo evitarlo: no adelantes sin un acuerdo firmado de reembolso."
+     },
+     {
+      "t": "4. Pérdida de valor de tu cuota con el tiempo",
+      "p": "Cada año de proindiviso añade gastos, deterioro y herederos. Una cuota que hoy vale el 60 % de su proporción puede valer el 45 % dentro de cinco años. Cómo evitarlo: decide pronto. Tienes una guía sobre precios en <a href=\"/cuanto-pagan-por-un-proindiviso/\">cuánto pagan por un proindiviso</a>."
+     }
+    ]
+   },
+   {
+    "overline": "Riesgos 5 a 9",
+    "h2": "Riesgos de uso y de personas: ocupación, bloqueo y herederos de herederos",
+    "type": "list",
+    "intro": [
+     "Los cuatro primeros riesgos se miden en euros. Los cinco siguientes se miden en años y en relaciones familiares rotas. Son los que más vemos en herencias con un inmueble único y varios hermanos."
+    ],
+    "items": [
+     "<strong>5. Ocupación exclusiva por un copropietario.</strong> Un hermano se instala en el piso de los padres y no paga renta ni gastos. El artículo 394 permite el uso, pero no el uso excluyente. El Tribunal Supremo admite reclamar una compensación cuando uno usa en exclusiva contra la voluntad de los demás, pero hay que pedirla en un juzgado. Cómo evitarlo: firma un acuerdo de uso con compensación mensual o vende tu cuota.",
+     "<strong>6. Ocupación ilegal de un inmueble vacío.</strong> Un piso cerrado porque los copropietarios no se ponen de acuerdo es un objetivo para okupas. Recuperarlo exige una demanda de desahucio por precario o un procedimiento penal, con meses de espera. Cómo evitarlo: no dejes el inmueble vacío y sin vigilancia; si ya está ocupado, en <a href=\"/vender-proindiviso-con-inquilino-u-okupa/\">vender un proindiviso con inquilino u okupa</a> te explicamos que seguimos comprando.",
+     "<strong>7. Bloqueo de la venta y del alquiler.</strong> Vender el inmueble exige unanimidad (artículo 397) y alquilarlo, mayoría de cuotas (artículo 398). Un solo copropietario con el 50 % puede paralizar las dos cosas durante años. Cómo evitarlo: no esperes al acuerdo imposible. Vende tu cuota o pide la división.",
+     "<strong>8. Herederos de herederos.</strong> Si un copropietario fallece, su cuota pasa a sus hijos o a su viuda. Una comunidad de tres hermanos se convierte en una de siete con cuñados y sobrinos que no conocen el inmueble ni quieren saber de él. Si alguno es menor, cualquier venta de su parte necesita autorización judicial. Cómo evitarlo: resuelve la comunidad mientras los copropietarios originales viven y pueden firmar.",
+     "<strong>9. Deterioro y responsabilidad frente a terceros.</strong> Un inmueble sin mantenimiento genera humedades al vecino de abajo, desprendimientos de fachada o incendios. Los daños a terceros se reclaman a todos los copropietarios. Cómo evitarlo: mantén un seguro de hogar con responsabilidad civil y repártelo según cuotas."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla: cada riesgo y la forma de cubrirte",
+    "type": "table",
+    "intro": [
+     "Para cada riesgo hay dos niveles de protección. El primero reduce el daño mientras sigues siendo copropietario. El segundo lo elimina porque dejas de serlo. Elige según cuánto tiempo más quieras estar dentro."
+    ],
+    "items": [
+     [
+      "Riesgo",
+      "Protección mientras sigues dentro / Protección definitiva"
+     ],
+     [
+      "Embargo de otro copropietario",
+      "Nota simple anual y vigilancia de subastas / Vender tu cuota antes de que entre un tercero"
+     ],
+     [
+      "Deudas de IBI y comunidad",
+      "Cuenta común y reclamación escrita / Venta con liquidación de deudas en notaría"
+     ],
+     [
+      "Gastos adelantados",
+      "Acuerdo de reembolso firmado / Descontarlos del precio al salir"
+     ],
+     [
+      "Ocupación por un copropietario",
+      "Acuerdo de uso con compensación / Vender la cuota con la ocupación incluida"
+     ],
+     [
+      "Bloqueo de decisiones",
+      "Pacto de administración por mayoría / Venta de cuota o división judicial"
+     ],
+     [
+      "Herederos de herederos",
+      "Resolver antes de que fallezca un copropietario / Compra de cuotas de todos los que quieran salir"
+     ]
+    ],
+    "outro": [
+     "La columna de la derecha tiene un patrón: casi todas las protecciones definitivas pasan por dejar de ser copropietario. Las de la izquierda solo reducen el daño mientras sigues dentro."
+    ]
+   },
+   {
+    "overline": "El riesgo que más crece",
+    "h2": "El tiempo es el factor que multiplica todos los demás",
+    "type": "text",
+    "intro": [
+     "Un ejemplo real con cifras orientativas. Tres hermanos heredan un piso de 180.000 euros en 2015. Ninguno lo usa, ninguno quiere venderlo por debajo de lo que creen que vale y uno de ellos no contesta. En 2020 fallece uno de los hermanos y entran su viuda y dos hijos. En 2023 la comunidad de vecinos reclama 4.000 euros de derramas impagadas. En 2025 el piso, sin reformar y con humedades, vale 150.000 euros y la cuota de cada hermano original, que en 2015 habría vendido por unos 36.000 euros, hoy se compra por unos 22.000 euros.",
+     "Nadie hizo nada mal. Simplemente, nadie hizo nada. Por eso la decisión más rentable en un proindiviso suele ser la primera que se toma, no la que se toma después de diez años de espera. Si uno de los tres hubiera vendido su cuota en 2016, habría cobrado más, no habría pagado derramas y no tendría hoy a cinco personas al otro lado de la mesa."
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "Compramos tu cuota con los riesgos incluidos",
+    "type": "callout",
+    "intro": [
+     "No necesitamos que el inmueble esté limpio de problemas. Compramos cuotas con copropietarios embargados, con deudas de comunidad, con ocupantes y con herederos sin localizar. Analizamos la situación, descontamos lo que haya que descontar y te damos una oferta por escrito en 48 horas. Si aceptas, firmamos en notaría en dos a cuatro semanas, pagamos al contado y asumimos los gastos de notaría y gestión."
+    ],
+    "items": {
+     "t": "Sal antes de que el riesgo se convierta en problema",
+     "p": "Cuéntanos la situación del inmueble y de los demás copropietarios. Te decimos qué pagamos por tu parte, sin compromiso.",
+     "cta": "Pedir oferta por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Pueden embargar mi parte por las deudas de otro copropietario?",
+    "No. El embargo recae solo sobre la cuota del deudor. Pero las deudas de IBI y comunidad del inmueble sí pueden reclamarse contra la finca entera, y el acreedor que se adjudique la cuota del deudor puede pedir la división del inmueble."
+   ],
+   [
+    "¿Qué pasa si un copropietario no paga su parte de los gastos?",
+    "Los demás pueden reclamarle judicialmente su proporción (artículo 395 del Código Civil). Mientras tanto, la comunidad de vecinos y el Ayuntamiento pueden exigir el pago a cualquiera de los copropietarios o actuar contra el inmueble."
+   ],
+   [
+    "¿Un copropietario que vive en el piso tiene que pagar alquiler a los demás?",
+    "No automáticamente. Si usa el inmueble en exclusiva contra la voluntad de los otros, estos pueden reclamar una compensación ante el juez. Sin acuerdo ni demanda, no cobrarás nada."
+   ],
+   [
+    "¿Qué ocurre con el proindiviso si fallece uno de los copropietarios?",
+    "Su cuota pasa a sus herederos, que entran en la comunidad. Si no aceptan la herencia o hay menores, cualquier venta o división se complica y exige trámites adicionales."
+   ],
+   [
+    "¿Puedo vender mi cuota si el piso está okupado?",
+    "Sí. El comprador adquiere la cuota con la situación de ocupación. El precio es menor, pero la venta se firma igual en notaría y dejas de responder por el inmueble."
+   ],
+   [
+    "¿Compráis cuotas con deudas de comunidad o de IBI?",
+    "Sí. Las deudas se calculan y se descuentan o se liquidan en la notaría el día de la firma. Tú cobras el resto al contado."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los riesgos del proindiviso",
+  "related": [
+   [
+    "Ventajas y desventajas del proindiviso",
+    "/blog/proindiviso-ventajas-y-desventajas/"
+   ],
+   [
+    "Vender proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Deja de compartir riesgos: cobra tu parte",
+  "cta_text": "Compramos tu cuota de proindiviso con fondos propios, con o sin cargas, en toda España. Oferta en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Los 9 riesgos de un proindiviso y cómo evitar cada uno",
+  "meta_desc": "Proindiviso riesgos: embargos, deudas, ocupación, bloqueo de venta y herederos de herederos. Cómo evitarlos y cómo salir vendiendo tu cuota en semanas.",
+  "focus_kw": "proindiviso riesgos",
+  "title_corto": "Riesgos del proindiviso"
+ },
+ {
+  "slug": "merece-la-pena-comprar-un-proindiviso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Inversión",
+  "h1": "¿Merece la pena comprar un proindiviso? Riesgos, rentabilidad y quién lo hace de verdad",
+  "sub": "Comprar un proindiviso es legal y puede ser rentable, pero exige capital inmovilizado durante años, abogados y mucha paciencia: por eso es un negocio de empresas especializadas y no de particulares. Te explicamos con números qué margen hay y qué puede salir mal. Nosotros compramos cuotas; no las vendemos a particulares.",
+  "checks": [
+   "Cuentas reales con números",
+   "Riesgos explicados sin adornos",
+   "Compramos cuotas, no las revendemos"
+  ],
+  "card_title": "¿Tienes una cuota y quieres venderla?",
+  "card_text": "Somos compradores con fondos propios. Precio por escrito en 48 horas, firma en notaría en semanas, pago al contado.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Se puede comprar un proindiviso, pero no es una inversión para cualquiera",
+    "type": "text",
+    "intro": [
+     "Sí, se puede comprar un proindiviso. El artículo 399 del Código Civil permite a cualquier copropietario vender su cuota a quien quiera, y el comprador pasa a ser copropietario con los mismos derechos que el vendedor. Es una compraventa normal, en escritura pública, que paga ITP y se inscribe en el Registro de la Propiedad. Lo que no es normal es lo que viene después: el comprador no puede vivir en el inmueble en exclusiva, no puede alquilarlo sin mayoría y no puede venderlo entero sin el acuerdo de los demás.",
+     "Por eso la pregunta correcta no es si se puede, sino si merece la pena. Y la respuesta honesta depende de tres cosas: cuánto capital puedes dejar parado, cuánto tiempo puedes esperar y si tienes a alguien que gestione la salida. Si fallas en alguna de las tres, es mejor que no lo hagas. Si tienes las tres, estás describiendo una empresa especializada."
+    ]
+   },
+   {
+    "overline": "Los números",
+    "h2": "Rentabilidad de comprar un proindiviso: ejemplo con cifras reales",
+    "type": "table",
+    "intro": [
+     "Tomamos un caso típico. Un piso de 200.000 euros de valor de mercado, dos hermanos al 50 %, uno vive en él y el otro quiere vender su cuota. Un comprador la adquiere por 55.000 euros, un 55 % del valor proporcional. Estas son las cuentas orientativas según cómo termine la operación."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Escenario bueno: acuerdo en 8 meses / Escenario normal: división judicial en 2,5 años"
+     ],
+     [
+      "Precio de compra de la cuota",
+      "55.000 € / 55.000 €"
+     ],
+     [
+      "ITP (6 % a 10 % según comunidad autónoma) y notaría",
+      "4.500 € / 4.500 €"
+     ],
+     [
+      "Abogado y procurador",
+      "1.500 € por la negociación / 7.000 € por el juicio de división y la ejecución"
+     ],
+     [
+      "Gastos del inmueble durante la espera (IBI, comunidad, seguro al 50 %)",
+      "800 € / 3.000 €"
+     ],
+     [
+      "Ingreso final",
+      "El otro hermano compra la cuota por 85.000 € / Subasta adjudicada a 160.000 €, cobra el 50 %: 80.000 €"
+     ],
+     [
+      "Beneficio bruto antes de impuestos",
+      "23.200 € en 8 meses / 10.500 € en 2,5 años"
+     ],
+     [
+      "Rentabilidad anual aproximada sobre el capital",
+      "Alrededor del 55 % / Alrededor del 6 %"
+     ]
+    ],
+    "outro": [
+     "El primer escenario es atractivo. El segundo, que es el más frecuente, deja una rentabilidad parecida a la de un depósito, con mucho más riesgo y trabajo. Y hay un tercer escenario que no está en la tabla: subasta desierta, ocupante que no se va o copropietario que fallece y deja menores. Ahí el capital puede quedar atrapado cuatro o cinco años."
+    ]
+   },
+   {
+    "overline": "Lo que necesitas",
+    "h2": "Qué hace falta para comprar un proindiviso sin arruinarse",
+    "type": "list",
+    "intro": [
+     "Antes de mirar anuncios de mitades indivisas a precio de ganga, repasa esta lista. Si te falta alguno de los seis puntos, la ganga puede convertirse en un capital bloqueado durante años con un copropietario que no te quiere ver."
+    ],
+    "items": [
+     "<strong>Capital que no vayas a necesitar en tres años.</strong> No hay hipoteca para comprar una cuota: ningún banco la financia. Pagas al contado y no sabes cuándo recuperas.",
+     "<strong>Un abogado de confianza desde el primer día.</strong> Para revisar títulos, cargas, situación posesoria y, casi siempre, para plantear la división de cosa común. Lo vemos en <a href=\"/blog/abogado-proindiviso-cuando-hace-falta/\">cuándo hace falta un abogado para un proindiviso</a>.",
+     "<strong>Tolerancia al conflicto.</strong> Vas a tratar con copropietarios que no te han elegido, que pueden vivir en el inmueble y que pueden tomarse tu llegada como una agresión.",
+     "<strong>Capacidad de analizar la posesión.</strong> Quién vive en el inmueble, con qué título, si hay un contrato de alquiler, si hay menores o personas vulnerables que retrasarían un lanzamiento.",
+     "<strong>Varias operaciones a la vez.</strong> Con una sola cuota, un mal escenario arruina la inversión. Con treinta, los buenos compensan a los malos. Es la diferencia entre un particular y una empresa.",
+     "<strong>Conocer el retracto.</strong> Los demás copropietarios tienen nueve días para quedarse la cuota al mismo precio (artículo 1522). Puedes hacer todo el trabajo y quedarte sin la operación."
+    ]
+   },
+   {
+    "overline": "Por qué los profesionales",
+    "h2": "Por qué comprar proindivisos es un negocio de empresas especializadas",
+    "type": "cards",
+    "intro": [
+     "No es que un particular no pueda hacerlo. Es que las condiciones que convierten la operación en rentable solo se dan a escala. Estas cuatro ventajas explican por qué quien compra cuotas de forma habitual gana dinero y quien compra una sola suele perderlo o empatar."
+    ],
+    "items": [
+     {
+      "t": "Diversifican el riesgo",
+      "p": "Una empresa compra decenas de cuotas al año en distintas provincias. Algunas se resuelven en meses por acuerdo con el otro copropietario; otras tardan años. La media es rentable; cada caso aislado es una lotería."
+     },
+     {
+      "t": "Tienen el equipo jurídico dentro",
+      "p": "Abogados y procuradores que llevan divisiones de cosa común en serie, conocen cada juzgado y no cobran por horas a un cliente ocasional. Para un particular, el mismo juicio cuesta el doble y se entiende la mitad."
+     },
+     {
+      "t": "Saben valorar la posesión y las cargas",
+      "p": "Distinguen en una nota simple y en una visita lo que vale una cuota con un ocupante de 80 años de lo que vale la misma cuota con un inquilino con contrato o con un piso vacío. Ese cálculo es el negocio entero."
+     },
+     {
+      "t": "Pueden esperar",
+      "p": "Su capital está estructurado para operaciones de dos a cuatro años. Un particular que necesita el dinero antes acaba malvendiendo la cuota a uno de estos profesionales, con pérdida."
+     }
+    ]
+   },
+   {
+    "overline": "Lo que hacemos nosotros",
+    "h2": "Qué hacemos con una cuota después de comprarla",
+    "type": "steps",
+    "intro": [
+     "Somos una de esas empresas. Para que entiendas el negocio desde dentro, este es el recorrido habitual de una cuota que compramos."
+    ],
+    "items": [
+     {
+      "t": "Notificamos a los demás copropietarios",
+      "p": "Les informamos de que somos los nuevos copropietarios y les ofrecemos dos caminos: comprarnos la cuota al precio que les proponemos o vendernos la suya. Muchas operaciones se cierran aquí, en semanas."
+     },
+     {
+      "t": "Negociamos la extinción de condominio",
+      "p": "Si el otro copropietario quiere quedarse el inmueble y tiene financiación, firmamos una extinción de condominio ante notario. Es la salida más limpia para todos."
+     },
+     {
+      "t": "Compramos el resto de cuotas",
+      "p": "Si hay varios herederos que también quieren salir, les compramos su parte y pasamos a tener el 100 %. Después vendemos el inmueble en el mercado como cualquier vivienda."
+     },
+     {
+      "t": "Pedimos la división de cosa común",
+      "p": "Solo cuando no hay acuerdo. El juzgado declara el inmueble indivisible y ordena su venta en subasta. Tarda entre uno y tres años. Lo explicamos en <a href=\"/blog/subasta-division-de-cosa-comun/\">la subasta en la división de cosa común</a>."
+     }
+    ],
+    "outro": [
+     "Cada uno de estos pasos cuesta dinero y tiempo, y en ninguno sabemos de antemano cuál será el resultado. Ese riesgo es lo que justifica el descuento con el que compramos y lo que un particular rara vez puede asumir con una sola operación."
+    ]
+   },
+   {
+    "overline": "Nuestra posición",
+    "h2": "No vendemos cuotas a particulares: las compramos",
+    "type": "callout",
+    "intro": [
+     "Si has llegado aquí buscando dónde comprar un proindiviso barato para invertir, te hemos dado una respuesta honesta: es un negocio de profesionales con capital, abogados y paciencia, y nosotros no revendemos cuotas a particulares. Si has llegado porque tienes una cuota y quieres saber a quién le interesa, la respuesta es a nosotros. Compramos participaciones indivisas de pisos, casas, locales, garajes y terrenos en toda España, con fondos propios, oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas. Puedes ver cómo trabajamos en <a href=\"/empresas-que-compran-proindivisos/\">empresas que compran proindivisos</a> y lo que opinan quienes ya han vendido en <a href=\"/opiniones-empresas-que-compran-proindivisos/\">opiniones sobre empresas que compran proindivisos</a>."
+    ],
+    "items": {
+     "t": "¿Tienes una cuota? Te damos precio",
+     "p": "Dirección, porcentaje y situación del inmueble. Oferta en 48 horas, sin compromiso y sin que los demás copropietarios tengan que estar de acuerdo.",
+     "cta": "Vender mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede comprar un proindiviso?",
+    "Sí. Cualquier copropietario puede vender su cuota a un tercero sin permiso de los demás (artículo 399 del Código Civil). El comprador pasa a ser copropietario con los mismos derechos y limitaciones que tenía el vendedor."
+   ],
+   [
+    "¿Merece la pena comprar un proindiviso como inversión particular?",
+    "Solo si puedes inmovilizar el capital varios años, pagar abogados y asumir que la salida puede ser una subasta a precio bajo. En la práctica es un negocio de empresas especializadas que diversifican en muchas operaciones."
+   ],
+   [
+    "¿Puedo pedir hipoteca para comprar una mitad indivisa?",
+    "En la práctica, no. Los bancos no financian la compra de cuotas indivisas porque la garantía sería solo una parte del inmueble. Se compra al contado."
+   ],
+   [
+    "¿Qué pasa después de comprar una cuota si el otro copropietario vive en el piso?",
+    "No puedes echarle ni cobrarle renta sin acuerdo o sin juez. Tus opciones son negociar que te compre, comprarle a él o pedir la división de cosa común, que termina en subasta del inmueble."
+   ],
+   [
+    "¿Vendéis proindivisos a particulares?",
+    "No. Compramos cuotas a quienes quieren salir de una copropiedad y gestionamos la salida con nuestros medios. No revendemos participaciones a inversores particulares."
+   ],
+   [
+    "¿Cuánto pagáis por una cuota?",
+    "Entre el 40 % y el 70 % del valor proporcional de la cuota, según ciudad, ocupación, cargas y número de copropietarios. Oferta por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre comprar un proindiviso",
+  "related": [
+   [
+    "Empresas que compran proindivisos",
+    "/empresas-que-compran-proindivisos/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Los riesgos de un proindiviso",
+    "/blog/riesgos-de-un-proindiviso/"
+   ],
+   [
+    "La subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "Opiniones sobre empresas que compran proindivisos",
+    "/opiniones-empresas-que-compran-proindivisos/"
+   ]
+  ],
+  "cta_title": "Si tienes una cuota, nosotros somos el comprador",
+  "cta_text": "Compramos proindivisos con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
+  "yoast_title": "¿Merece la pena comprar un proindiviso? Riesgos y rentabilidad",
+  "meta_desc": "Comprar un proindiviso es legal, pero es negocio de profesionales: capital, abogados y años de espera. Cuentas reales. Nosotros compramos tu cuota en 48 h.",
+  "focus_kw": "comprar proindiviso",
+  "title_corto": "Comprar un proindiviso"
+ },
+ {
+  "slug": "abogado-proindiviso-cuando-hace-falta",
+  "kind": "post",
+  "category": "division-de-cosa-comun",
+  "kicker": "Costes legales",
+  "h1": "Abogado para un proindiviso: cuándo lo necesitas y cuánto cuesta (minuta orientativa)",
+  "sub": "Necesitas abogado cuando quieres obligar a los demás copropietarios a dividir o vender el inmueble: la acción de división de cosa común exige abogado y procurador, y la minuta completa suele moverse entre 3.000 y 9.000 euros. No lo necesitas para vender tu cuota a un comprador profesional. Te damos honorarios orientativos por fase y te explicamos cuándo ahorrártelos.",
+  "checks": [
+   "Honorarios orientativos por fase",
+   "Cuándo sí y cuándo no",
+   "Vender tu cuota no necesita abogado"
+  ],
+  "card_title": "¿Quieres salir sin juicio ni abogados?",
+  "card_text": "Compramos tu cuota con escritura en notaría. Oferta en 48 horas, sin procuradores, sin costas y sin esperar años.",
+  "sections": [
+   {
+    "overline": "Respuesta corta",
+    "h2": "Cuándo hace falta un abogado en un proindiviso",
+    "type": "text",
+    "intro": [
+     "Hace falta abogado cuando el conflicto con los demás copropietarios tiene que resolverlo un juez. El caso principal es la acción de división de cosa común: el procedimiento por el que pides que el inmueble se divida o, si no se puede, se venda en subasta y se reparta el precio (artículos 400 y 404 del Código Civil). Es un juicio ordinario y la Ley de Enjuiciamiento Civil exige abogado y procurador en casi todos los casos. También hace falta para reclamar gastos adelantados, para pedir una compensación por el uso exclusivo que hace otro copropietario o para contestar una demanda que te han puesto a ti.",
+     "No hace falta abogado para vender tu cuota a un tercero, para firmar una extinción de condominio con acuerdo o para pedir una nota simple y entender tu situación. En esos casos el notario y, si quieres, un asesor fiscal cubren lo necesario. Muchas personas contratan un abogado para la división cuando lo que de verdad quieren es cobrar y olvidarse. Vamos a ver cuánto cuesta cada camino para que compares."
+    ]
+   },
+   {
+    "overline": "Sí hace falta",
+    "h2": "Situaciones en las que un abogado es imprescindible",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Quieres forzar la venta del inmueble",
+      "p": "Si los demás no quieren vender ni comprarte, la única vía para obligarles es la acción de división de cosa común. Exige demanda, abogado y procurador. El resultado es la venta en subasta judicial. Tienes el procedimiento completo en nuestra guía de <a href=\"/division-de-cosa-comun/\">división de cosa común</a>.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "Ver el procedimiento →"
+     },
+     {
+      "t": "Te han demandado",
+      "p": "Si otro copropietario ha presentado la demanda de división, tienes veinte días hábiles para contestar con abogado y procurador. Allanarte a tiempo evita que te condenen en costas."
+     },
+     {
+      "t": "Reclamas dinero a los demás",
+      "p": "Gastos adelantados, derramas pagadas por ti, rentas que otro cobró sin repartir o compensación por uso exclusivo. Por encima de 2.000 euros hace falta abogado; por debajo puedes ir solo, aunque conviene asesorarse."
+     },
+     {
+      "t": "La herencia está sin partir o hay menores",
+      "p": "Si la cuota viene de una herencia no aceptada, hay un heredero incapacitado o un menor, un abogado experto en herencias te ahorra errores que luego bloquean cualquier venta."
+     }
+    ]
+   },
+   {
+    "overline": "Honorarios",
+    "h2": "Cuánto cuesta un abogado de división de cosa común: minuta por fases",
+    "type": "table",
+    "intro": [
+     "Los honorarios son libres desde 2009. Los colegios de abogados mantienen criterios orientativos que solo se usan para tasar costas, y sobre ellos se mueven la mayoría de minutas. Estas cifras son orientativas para un inmueble de entre 150.000 y 300.000 euros; en Madrid y Barcelona suelen estar en la parte alta."
+    ],
+    "items": [
+     [
+      "Fase",
+      "Honorarios orientativos (IVA aparte)"
+     ],
+     [
+      "Consulta inicial y estudio de títulos, nota simple y cargas",
+      "100 a 300 €. Algunos despachos la incluyen si contratas el procedimiento."
+     ],
+     [
+      "Burofax de requerimiento y negociación extrajudicial",
+      "300 a 800 €. Intento de acuerdo antes de demandar, a veces con propuesta de extinción de condominio."
+     ],
+     [
+      "Demanda de división de cosa común y fase declarativa (hasta sentencia)",
+      "2.000 a 5.000 € de abogado, más procurador: 300 a 900 € según cuantía."
+     ],
+     [
+      "Ejecución de sentencia: tasación, subasta y reparto",
+      "1.000 a 3.000 € de abogado, más procurador y perito tasador: 300 a 600 €."
+     ],
+     [
+      "Recurso de apelación si la otra parte recurre",
+      "1.500 a 3.000 € adicionales y de 6 a 18 meses más."
+     ],
+     [
+      "Total orientativo de un procedimiento completo",
+      "Entre 3.500 y 9.000 € por parte, sin contar impuestos ni el tiempo: de uno a tres años."
+     ]
+    ]
+   },
+   {
+    "overline": "Quién paga",
+    "h2": "Costas, criterios de los colegios y cómo se calcula la minuta",
+    "type": "text",
+    "intro": [
+     "La minuta se calcula habitualmente sobre la cuantía del pleito, que en una división de cosa común es el valor del inmueble o de la cuota discutida. Los criterios orientativos de los colegios aplican una escala decreciente: un porcentaje mayor sobre los primeros tramos y menor sobre los siguientes. Por eso dividir un piso de 400.000 euros no cuesta el doble que dividir uno de 200.000. Muchos despachos ofrecen precio cerrado por fase; pídelo por escrito en una hoja de encargo antes de empezar.",
+     "Sobre las costas, en la división de cosa común no hay vencedor claro: el demandado suele allanarse porque la ley le da la razón al que pide dividir, y entonces cada parte paga a su abogado (artículo 395 de la Ley de Enjuiciamiento Civil). Solo si el demandado se opone sin fundamento y pierde puede ser condenado a pagar las costas del demandante. Dicho de otro modo: no cuentes con que el otro copropietario te pague el abogado. Si tienes ingresos bajos, puedes solicitar justicia gratuita y el abogado de oficio no te cobrará, aunque el proceso tarda lo mismo."
+    ]
+   },
+   {
+    "overline": "No hace falta",
+    "h2": "Cuándo puedes ahorrarte el abogado",
+    "type": "list",
+    "items": [
+     "<strong>Para vender tu cuota a un comprador profesional.</strong> Es una compraventa en escritura pública. El notario comprueba titularidad y cargas, y nosotros asumimos los gastos de notaría y gestión. Tú solo tienes que firmar y cobrar.",
+     "<strong>Para una extinción de condominio con acuerdo.</strong> Se firma ante notario. Un abogado puede revisar la escritura por 300 a 600 euros, pero no es obligatorio. Lo explicamos en <a href=\"/extincion-de-condominio/impuestos-y-notario/\">extinción de condominio: impuestos y notario</a>.",
+     "<strong>Para saber qué tienes.</strong> Nota simple (unos 10 euros online) y lectura de la escritura. Con nuestra guía sobre <a href=\"/blog/que-significa-proindiviso-en-una-escritura/\">qué significa proindiviso en una escritura</a> te sobra.",
+     "<strong>Para negociar con tus hermanos.</strong> Un acuerdo privado de uso y gastos no necesita abogado, aunque sí conviene ponerlo por escrito y firmarlo todos.",
+     "<strong>Para reclamar gastos pequeños.</strong> Un juicio verbal por menos de 2.000 euros puede presentarse sin abogado ni procurador."
+    ],
+    "outro": [
+     "La comparación es sencilla. Camino judicial: entre 3.500 y 9.000 euros, de uno a tres años y un precio final de subasta incierto. Venta de tu cuota: cero euros de abogado, oferta en 48 horas, firma en dos a cuatro semanas y entre el 40 % y el 70 % del valor proporcional cobrado al contado."
+    ]
+   },
+   {
+    "overline": "Si lo contratas",
+    "h2": "Cómo elegir abogado para un proindiviso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Busca especialización real",
+      "p": "Pregunta cuántas divisiones de cosa común ha llevado en los últimos dos años y cómo terminaron. Un abogado generalista puede hacerlo, pero un especialista en herencias y copropiedad ahorra meses."
+     },
+     {
+      "t": "Pide hoja de encargo con precio por fases",
+      "p": "Debe constar qué incluye cada fase, qué pasa si hay acuerdo a mitad de camino y cuánto cobra el procurador. Desconfía de presupuestos verbales."
+     },
+     {
+      "t": "Exige un intento de acuerdo previo",
+      "p": "Un burofax bien planteado, con una propuesta concreta de extinción de condominio o de venta conjunta, resuelve una parte de los casos sin demanda."
+     },
+     {
+      "t": "Pregunta por la alternativa de vender la cuota",
+      "p": "Un buen abogado te dirá que, si solo quieres cobrar, vender tu participación es más rápido y barato que litigar. Si no te lo dice, pregúntale por qué."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "Sin abogado, sin juicio: compramos tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos participaciones indivisas de viviendas, locales, garajes y terrenos en toda España con fondos propios. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría y gestión a nuestro cargo. Sin exclusividad, sin compromiso y sin que los demás copropietarios tengan que estar de acuerdo. Si después ellos quieren litigar, litigarán con nosotros, no contigo."
+    ],
+    "items": {
+     "t": "Pide precio antes de contratar un abogado",
+     "p": "Compara nuestra oferta con el coste y el tiempo del juicio. Te la damos por escrito en 48 horas.",
+     "cta": "Quiero una oferta por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatorio un abogado para la división de cosa común?",
+    "Sí. Es un juicio ordinario que exige abogado y procurador, salvo casos de cuantía muy baja. También lo necesita el demandado si quiere contestar o allanarse formalmente."
+   ],
+   [
+    "¿Cuánto cuesta la minuta de un abogado por una división de cosa común?",
+    "De forma orientativa, entre 2.000 y 5.000 euros por la fase declarativa y entre 1.000 y 3.000 por la ejecución, más procurador y perito. En total, entre 3.500 y 9.000 euros por parte, IVA aparte."
+   ],
+   [
+    "¿Quién paga las costas en un juicio de división de cosa común?",
+    "Normalmente cada parte paga a su abogado, porque el demandado suele allanarse. Solo hay condena en costas si una parte se opone sin fundamento y pierde."
+   ],
+   [
+    "¿Necesito abogado para vender mi parte de un piso?",
+    "No. La venta de una cuota se firma ante notario como cualquier compraventa. Si nos la vendes a nosotros, asumimos además los gastos de notaría y gestión."
+   ],
+   [
+    "¿Puedo pedir abogado de oficio para un proindiviso?",
+    "Sí, si cumples los requisitos de ingresos de la justicia gratuita. El abogado de oficio lleva el procedimiento sin coste para ti, pero los plazos del juzgado son los mismos."
+   ],
+   [
+    "¿Qué abogado necesito: de herencias o inmobiliario?",
+    "Uno con experiencia en herencias y copropiedad, porque la mayoría de proindivisos vienen de una sucesión y mezclan partición, legítimas y división de cosa común."
+   ]
+  ],
+  "faq_title": "Preguntas sobre abogados y proindiviso",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "La subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "Extinción de condominio: impuestos y notario",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Se puede obligar a vender a un copropietario",
+    "/blog/se-puede-obligar-a-vender-a-un-copropietario/"
+   ],
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ]
+  ],
+  "cta_title": "Ahórrate la minuta: vende tu cuota y cobra en semanas",
+  "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
+  "yoast_title": "Abogado para un proindiviso: cuándo hace falta y cuánto cuesta",
+  "meta_desc": "Abogado proindiviso: cuándo lo necesitas, minuta orientativa de la división de cosa común por fases y cuándo no hace falta. Compramos tu cuota sin juicio.",
+  "focus_kw": "abogado proindiviso",
+  "title_corto": "Abogado para proindiviso"
+ },
+ {
+  "slug": "subasta-division-de-cosa-comun",
+  "kind": "post",
+  "category": "division-de-cosa-comun",
+  "kicker": "Fase final del juicio",
+  "h1": "La subasta en la división de cosa común: cómo funciona y a cuánto se adjudica",
+  "sub": "Cuando un juez declara que un inmueble es indivisible y los copropietarios no se ponen de acuerdo, ordena venderlo en pública subasta a través del Portal de Subastas del BOE. El precio de adjudicación suele quedar por debajo del de mercado, a veces muy por debajo, y el proceso completo tarda de uno a tres años. Te explicamos cada paso y la alternativa de vender tu cuota antes.",
+  "checks": [
+   "Paso a paso en el Portal del BOE",
+   "Qué precio se obtiene de verdad",
+   "Compramos tu cuota antes de la subasta"
+  ],
+  "card_title": "¿Vas camino de una subasta?",
+  "card_text": "Compramos tu cuota ahora, con precio cierto y sin esperar al juzgado. Oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Contexto",
+    "h2": "Por qué la división de cosa común termina en subasta",
+    "type": "text",
+    "intro": [
+     "La acción de división de cosa común nace del artículo 400 del Código Civil: ningún copropietario está obligado a permanecer en la comunidad. Cuando el inmueble no puede dividirse físicamente, que es lo habitual en pisos y casas, el artículo 404 ordena venderlo y repartir el precio. Y el artículo 1062, aplicable por remisión del 406, añade que basta que un solo copropietario pida la venta en pública subasta con admisión de licitadores extraños para que así se haga.",
+     "La subasta es, por tanto, el final natural de un juicio de división cuando nadie se adjudica el inmueble compensando a los demás. No es una ejecución por deudas, pero se tramita con las mismas reglas de la Ley de Enjuiciamiento Civil, artículos 643 y siguientes, y en el mismo portal electrónico. En nuestra guía de <a href=\"/division-de-cosa-comun/\">división de cosa común</a> tienes el procedimiento completo desde la demanda; aquí nos centramos en lo que pasa desde que hay sentencia firme."
+    ]
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Cómo funciona la subasta judicial de un inmueble en proindiviso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Sentencia firme y demanda de ejecución",
+      "p": "La sentencia declara la indivisibilidad y ordena la venta. Si nadie la cumple voluntariamente, el copropietario interesado presenta demanda de ejecución. Entre sentencia y arranque de la ejecución pasan de dos a seis meses."
+     },
+     {
+      "t": "Valoración del inmueble",
+      "p": "El juzgado fija el valor de subasta, el llamado tipo. Puede tomarse de la tasación aportada en el juicio, de un perito judicial o del acuerdo de las partes. Ese valor es la referencia para todas las posturas."
+     },
+     {
+      "t": "Publicación en el Portal de Subastas del BOE",
+      "p": "El Letrado de la Administración de Justicia ordena publicar la subasta en subastas.boe.es con la descripción registral, el tipo, las cargas y las fotos si las hay. Cualquiera puede verla."
+     },
+     {
+      "t": "Veinte días de pujas electrónicas",
+      "p": "La subasta dura veinte días naturales. Para pujar hay que identificarse y consignar el 5 % del tipo. Las pujas son públicas y se pueden mejorar hasta el cierre. Los propios copropietarios pueden pujar."
+     },
+     {
+      "t": "Adjudicación y pago",
+      "p": "Cerrada la subasta, el juzgado examina la mejor postura. Si cumple los mínimos, aprueba el remate y el adjudicatario tiene unos cuarenta días para pagar el resto. Si no paga, pierde el depósito y se adjudica al siguiente postor."
+     },
+     {
+      "t": "Reparto del precio",
+      "p": "El dinero se reparte entre los copropietarios según sus cuotas, una vez descontadas las cargas que se cancelen y los gastos de la ejecución. Después, cada uno tributa por su ganancia."
+     }
+    ]
+   },
+   {
+    "overline": "Precios",
+    "h2": "A cuánto se adjudica: tasación, posturas y mínimos",
+    "type": "table",
+    "intro": [
+     "La pregunta que todo el mundo se hace es cuánto dinero sale de una subasta. La respuesta corta es que menos que en una venta libre. Esta tabla resume las reglas que los juzgados aplican por analogía con la ejecución hipotecaria y lo que ocurre en la práctica con un piso cuyo tipo de subasta es de 200.000 euros."
+    ],
+    "items": [
+     [
+      "Resultado de la subasta",
+      "Qué pasa y cuánto se reparte (ejemplo sobre tipo de 200.000 €)"
+     ],
+     [
+      "Mejor postura igual o superior al 70 % del tipo",
+      "Se aprueba el remate directamente. 140.000 € o más a repartir entre los copropietarios."
+     ],
+     [
+      "Mejor postura entre el 50 % y el 70 %",
+      "El juzgado puede aprobar el remate, y es habitual que lo haga, si ninguna parte presenta un tercero que mejore la oferta en el plazo concedido. Entre 100.000 y 140.000 €."
+     ],
+     [
+      "Mejor postura inferior al 50 %",
+      "El juzgado decide si la aprueba atendiendo a las circunstancias. En divisiones de cosa común muchos juzgados la aprueban si ningún copropietario ofrece más, porque no hay deudor que proteger. Menos de 100.000 €."
+     ],
+     [
+      "Un copropietario puja y se adjudica",
+      "Es frecuente. Paga la parte proporcional de los demás y se queda el inmueble. Con tres cuotas iguales y adjudicación por 120.000 €, abona 80.000 € a sus hermanos."
+     ],
+     [
+      "Subasta desierta: nadie puja",
+      "Se puede pedir nueva subasta, a veces con tipo reducido, o un acuerdo entre las partes para venta directa. Cada ronda añade de seis meses a un año."
+     ]
+    ],
+    "outro": [
+     "Las cifras de adjudicación habituales en vivienda están entre el 50 % y el 75 % del valor de mercado. A eso hay que restar los gastos del procedimiento. Un copropietario con un tercio de un piso que vale 200.000 euros acaba cobrando, en un escenario normal, entre 30.000 y 45.000 euros, dos o tres años después de empezar."
+    ]
+   },
+   {
+    "overline": "Problemas habituales",
+    "h2": "Qué puede salir mal: desierta, ocupantes y adjudicación por debajo",
+    "type": "text",
+    "intro": [
+     "El primer problema es la subasta desierta. Ocurre cuando el inmueble está ocupado por un copropietario, cuando tiene cargas o cuando simplemente nadie lo ve. Los compradores en subastas son profesionales y descuentan la incertidumbre: un piso con un hermano viviendo dentro y sin posibilidad de visitarlo recibe pocas pujas o ninguna. Después de una subasta desierta hay que volver a empezar, y cada ronda son meses.",
+     "El segundo problema es la adjudicación por debajo de lo que todos esperaban. Los copropietarios suelen entrar en el juicio pensando en el precio de los portales inmobiliarios y salen con el 55 % o el 60 %. Es la consecuencia de vender sin visitas, sin financiación hipotecaria para el comprador, con un plazo de pago corto y con la posesión sin garantizar. El tercero es la persona que ocupa el inmueble: la subasta transmite la propiedad, pero el adjudicatario tendrá que pedir el lanzamiento del ocupante, lo que vuelve a restar interés y precio."
+    ]
+   },
+   {
+    "overline": "Reparto",
+    "h2": "Cómo se reparte el dinero de la subasta",
+    "type": "list",
+    "items": [
+     "<strong>Primero se pagan las cargas que se cancelan.</strong> Si hay hipoteca sobre el inmueble, se liquida con el precio; si hay embargos sobre la cuota de un copropietario, se descuentan de su parte, no de la de los demás.",
+     "<strong>Después, los gastos de la ejecución.</strong> Perito, publicaciones y tasas, que suelen anticipar los copropietarios y recuperan del precio.",
+     "<strong>El resto, por cuotas.</strong> Con un 50 %, un 25 % y un 25 %, el precio neto se divide en esas proporciones. No se tienen en cuenta quién usó el inmueble ni quién pagó más gastos, salvo que se haya reclamado en el propio juicio.",
+     "<strong>Cada copropietario tributa por su ganancia.</strong> En el IRPF, por la diferencia entre el valor de adquisición y lo que cobra. Además, la plusvalía municipal si el inmueble es urbano y ha subido de valor.",
+     "<strong>Las costas, cada uno las suyas.</strong> Lo explicamos en <a href=\"/blog/abogado-proindiviso-cuando-hace-falta/\">abogado para un proindiviso: cuándo hace falta y cuánto cuesta</a>."
+    ]
+   },
+   {
+    "overline": "La alternativa",
+    "h2": "Vender tu cuota antes de la subasta: precio cierto y en semanas",
+    "type": "callout",
+    "intro": [
+     "Si haces las cuentas, el juicio de división te deja entre el 50 % y el 75 % del valor de tu parte, menos gastos, dentro de dos o tres años. Nosotros pagamos entre el 40 % y el 70 % del valor proporcional de tu cuota, al contado, en dos a cuatro semanas, sin abogado y sin que los demás tengan que estar de acuerdo. En muchos casos la diferencia es pequeña y el tiempo, enorme. Compramos también cuotas con un procedimiento de división ya iniciado: nos subrogamos en tu posición y seguimos nosotros."
+    ],
+    "items": {
+     "t": "Evita la subasta: pide precio por tu cuota",
+     "p": "Dirección del inmueble, tu porcentaje y en qué fase está el conflicto. Oferta por escrito en 48 horas.",
+     "cta": "Quiero vender mi parte ahora"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tarda la subasta en una división de cosa común?",
+    "Desde la demanda hasta el cobro, de uno a tres años como horquilla orientativa. La subasta en sí dura veinte días en el Portal del BOE, pero antes hay que ganar el juicio, iniciar la ejecución y valorar el inmueble."
+   ],
+   [
+    "¿Puede un copropietario pujar en la subasta de su propio inmueble?",
+    "Sí. Es habitual que uno de los copropietarios se adjudique el inmueble pagando a los demás su parte del precio. Tiene que consignar el depósito del 5 % como cualquier postor."
+   ],
+   [
+    "¿Qué pasa si la subasta queda desierta?",
+    "Se puede pedir una nueva subasta, a veces con un tipo inferior, o acordar entre las partes una venta directa. Cada intento añade meses al procedimiento."
+   ],
+   [
+    "¿Se puede adjudicar el inmueble por debajo del 50 % del valor?",
+    "Depende del juzgado. Muchos aplican por analogía las reglas de la ejecución y aprueban el remate si ningún copropietario ofrece más, al no haber un deudor que proteger. Consulta tu caso con tu abogado."
+   ],
+   [
+    "¿Quién paga las cargas y la hipoteca en la subasta?",
+    "Se liquidan con el precio obtenido. La hipoteca sobre el inmueble se paga antes del reparto; un embargo sobre la cuota de un copropietario se descuenta solo de la parte de ese copropietario."
+   ],
+   [
+    "¿Compráis cuotas aunque ya haya un juicio de división en marcha?",
+    "Sí. Compramos tu participación y nos subrogamos en tu posición procesal. Tú cobras ahora y nosotros seguimos el procedimiento."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la subasta de división de cosa común",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Abogado para un proindiviso",
+    "/blog/abogado-proindiviso-cuando-hace-falta/"
+   ],
+   [
+    "Se puede obligar a vender a un copropietario",
+    "/blog/se-puede-obligar-a-vender-a-un-copropietario/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "No esperes a la subasta: cobra tu parte en semanas",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España, incluso con juicio iniciado. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado.",
+  "yoast_title": "Subasta en la división de cosa común: cómo funciona y precio",
+  "meta_desc": "Subasta proindiviso: cómo funciona la división de cosa común en el Portal del BOE, tasación, posturas y a cuánto se adjudica. Compramos tu cuota antes.",
+  "focus_kw": "subasta proindiviso",
+  "title_corto": "Subasta división cosa común"
+ },
+ {
+  "slug": "se-puede-obligar-a-vender-a-un-copropietario",
+  "kind": "post",
+  "category": "division-de-cosa-comun",
+  "kicker": "Qué dice la ley",
+  "h1": "¿Se puede obligar a vender a un copropietario? Qué dice la ley",
+  "sub": "No se puede obligar a un copropietario a vender su cuota: es suya y nadie puede expropiársela. Lo que sí permite la ley es obligarle a dividir la cosa común (artículo 400 del Código Civil), y si el inmueble no se puede dividir, a que se venda entero en subasta. Te explicamos la diferencia, el camino judicial y la salida que no depende de él: vender tu parte.",
+  "checks": [
+   "Diferencia entre vender y dividir",
+   "Artículos 400 y 404 explicados",
+   "Compramos tu cuota aunque él no quiera"
+  ],
+  "card_title": "¿Uno de los propietarios no quiere vender?",
+  "card_text": "No necesitas su permiso para vender tu parte. Te damos precio por escrito en 48 horas y firmamos en notaría en semanas.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Se puede obligar a vender a un copropietario: la respuesta es no, pero",
+    "type": "text",
+    "intro": [
+     "No. Ningún copropietario puede ser obligado a vender su cuota. La cuota es un derecho de propiedad protegido por la Constitución y por el artículo 399 del Código Civil: cada uno tiene la plena propiedad de su parte y decide si la vende, a quién y por cuánto. Ni la mayoría de los copropietarios, ni un hermano con el 90 %, ni un juez pueden forzarle a firmar la venta de su participación a otro copropietario.",
+     "Pero hay un matiz que cambia todo. Lo que la ley sí permite es obligar a cualquier copropietario a salir de la indivisión. El artículo 400 dice que nadie está obligado a permanecer en la comunidad y que cualquiera puede pedir la división en cualquier momento. Si el inmueble no admite división física, como ocurre con un piso, el artículo 404 ordena venderlo y repartir el precio. El resultado práctico es que el copropietario que no quiere vender acaba viendo cómo el inmueble entero se vende en subasta, con su cuota incluida. No se le obliga a vender su parte; se le obliga a aceptar que la comunidad termine."
+    ]
+   },
+   {
+    "overline": "Tres cosas distintas",
+    "h2": "Obligar a vender la cuota, obligar a dividir y obligar a comprar",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Obligar a vender su cuota: no",
+      "p": "Nadie puede exigir a un copropietario que le venda su participación, ni fijarle un precio. Si quieres quedarte el piso entero y tu hermano no quiere venderte su parte, no hay acción legal que le obligue a firmar esa venta concreta."
+     },
+     {
+      "t": "Obligar a dividir la cosa común: sí",
+      "p": "El artículo 400 permite a cualquier copropietario, con cualquier porcentaje, exigir que la comunidad termine. Si no hay acuerdo, el juez declara la indivisibilidad y ordena vender el inmueble en subasta pública. Tienes el procedimiento en <a href=\"/division-de-cosa-comun/\">división de cosa común</a>.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "Ver cómo se pide la división →"
+     },
+     {
+      "t": "Obligar a comprar tu cuota: no",
+      "p": "Tampoco puedes forzar a los demás a que te compren tu parte. Si quieres dinero y ellos no quieren o no pueden pagar, tus opciones son vender tu cuota a un tercero o pedir la división."
+     },
+     {
+      "t": "Obligar a aceptar la adjudicación a uno: solo con acuerdo",
+      "p": "El artículo 1062 permite que, si el bien es indivisible, se adjudique a uno que pague a los demás en dinero. Pero basta con que uno pida la subasta para que se tenga que hacer subasta. Nadie puede imponer la adjudicación a un copropietario concreto."
+     }
+    ]
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Qué pasa si un copropietario no quiere vender: el recorrido completo",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Propuesta por escrito",
+      "p": "Un burofax con una oferta concreta: venta conjunta a precio de mercado, extinción de condominio con compensación o compra de su cuota. Sirve para negociar y, si hay juicio, para demostrar que intentaste el acuerdo."
+     },
+     {
+      "t": "Demanda de división de cosa común",
+      "p": "Con abogado y procurador. Se pide que el juez declare que el inmueble es indivisible y ordene su venta. El copropietario que se niega puede allanarse o contestar, pero no tiene defensa de fondo: la ley no le permite retener a los demás en la comunidad."
+     },
+     {
+      "t": "Sentencia",
+      "p": "El juez declara la indivisibilidad y acuerda la venta en pública subasta con admisión de licitadores extraños. Entre la demanda y la sentencia firme pasan, como horquilla orientativa, de ocho a veinte meses."
+     },
+     {
+      "t": "Subasta y reparto",
+      "p": "El inmueble se vende en el Portal de Subastas del BOE. El que no quería vender puede pujar y quedárselo pagando a los demás. Si no lo hace, cobra su parte del precio como todos. Lo explicamos en <a href=\"/blog/subasta-division-de-cosa-comun/\">la subasta en la división de cosa común</a>."
+     }
+    ],
+    "outro": [
+     "En total, de uno a tres años, con un coste por parte de entre 3.500 y 9.000 euros y un precio de subasta que suele quedar entre el 50 % y el 75 % del valor de mercado. Es la forma legal de vencer la negativa, pero es lenta y cara."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Un piso con varios propietarios: qué puedes hacer si uno no quiere vender",
+    "type": "table",
+    "items": [
+     [
+      "Opción",
+      "¿Necesita su consentimiento? Tiempo y resultado"
+     ],
+     [
+      "Vender el piso entero a un comprador normal",
+      "Sí. Sin su firma no hay escritura. Si se niega, esta opción está cerrada."
+     ],
+     [
+      "Extinción de condominio: uno se queda el piso y compensa",
+      "Sí. Es un acuerdo. Si el que no quiere vender es el que quiere quedárselo, puede ser la solución: le vendes tu parte a él. Lo vemos en <a href=\"/extincion-de-condominio/\">extinción de condominio</a>."
+     ],
+     [
+      "Vender tu cuota a un tercero",
+      "No. El artículo 399 te lo permite sin avisar ni pedir permiso. Él solo tiene el retracto: comprarte al mismo precio en nueve días. Semanas."
+     ],
+     [
+      "División de cosa común judicial",
+      "No. Se le impone por sentencia. De uno a tres años, subasta y reparto del precio."
+     ],
+     [
+      "Alquilar el piso mientras tanto",
+      "Depende. Hace falta mayoría de cuotas (artículo 398). Con el 50 % cada uno, ninguno puede decidirlo solo."
+     ]
+    ],
+    "outro": [
+     "Las dos filas que no dependen de él son las que importan. Una es rápida y la otra es lenta. Nosotros somos la rápida: compramos tu cuota y, si hace falta pedir la división, la pedimos nosotros."
+    ]
+   },
+   {
+    "overline": "Casos especiales",
+    "h2": "Vivienda familiar, menores y pactos de indivisión: cuándo la ley frena la división",
+    "type": "text",
+    "intro": [
+     "Hay tres situaciones en las que la respuesta se complica. La primera es la vivienda familiar tras un divorcio. Si una sentencia ha atribuido el uso de la vivienda a uno de los excónyuges o a los hijos, la división sigue siendo posible, pero el adjudicatario de la subasta adquiere el inmueble con ese derecho de uso, lo que hunde el precio. Muchos juzgados tramitan la división igualmente; otros la posponen hasta que el uso termine. Tienes más detalle en <a href=\"/vender-proindiviso-divorcio/\">vender un proindiviso tras un divorcio</a>.",
+     "La segunda es la existencia de menores o personas con discapacidad entre los copropietarios. Vender su cuota o aceptar una división exige autorización judicial, lo que alarga todo. La tercera es el pacto de indivisión: si los copropietarios acordaron mantener la comunidad durante un plazo, que no puede superar diez años, durante ese tiempo nadie puede pedir la división. Es poco frecuente, pero aparece en algunas herencias donde el testador impuso que el inmueble no se vendiera durante años."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Lo que no sirve para obligar a vender",
+    "type": "list",
+    "items": [
+     "<strong>Dejar de pagar tu parte de los gastos para presionar.</strong> Las deudas de IBI y comunidad afectan al inmueble entero y los demás pueden reclamarte. Perjudica a todos, incluido a ti.",
+     "<strong>Cambiar la cerradura o impedir el acceso.</strong> Cada copropietario tiene derecho a usar el inmueble (artículo 394). Impedírselo puede terminar en una demanda y en una condena a indemnizar.",
+     "<strong>Vender el piso entero con su firma falsificada o sin ella.</strong> La escritura es nula y puede ser delito. Ningún notario la autoriza sin todos los titulares.",
+     "<strong>Esperar a que cambie de opinión.</strong> Cada año que pasa añade gastos, deterioro y, si fallece, herederos nuevos con los que negociar.",
+     "<strong>Amenazar con la división sin estar dispuesto a llegar hasta el final.</strong> Si no quieres pagar un juicio de dos años, la amenaza no funciona. Vende tu cuota y deja que lo haga quien puede."
+    ]
+   },
+   {
+    "overline": "Nuestra propuesta",
+    "h2": "No puedes obligarle a vender, pero sí puedes vender tú",
+    "type": "callout",
+    "intro": [
+     "Compramos tu cuota aunque el otro copropietario se niegue a todo. No necesitamos su firma ni su acuerdo. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría y gestión a nuestro cargo. A partir de ahí, el copropietario que no quería vender tendrá que entenderse con nosotros, y nosotros tenemos el tiempo y los medios para pedir la división si hace falta."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos qué inmueble es, qué porcentaje tienes y cuál es la situación con el resto. Respuesta en 48 horas, sin compromiso.",
+     "cta": "Quiero vender mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender una propiedad si uno de los propietarios no quiere?",
+    "El inmueble entero, no: hace falta la firma de todos. Pero cada propietario puede vender su propia cuota sin permiso de los demás, y cualquiera puede pedir judicialmente la división, que termina con la venta del inmueble en subasta."
+   ],
+   [
+    "¿Un piso con varios propietarios se puede vender si uno no quiere?",
+    "No por acuerdo privado. Sí mediante la acción de división de cosa común: el juez declara que el piso es indivisible y ordena venderlo en subasta, repartiendo el precio según las cuotas."
+   ],
+   [
+    "¿Qué pasa si un copropietario no quiere vender ni comprar?",
+    "Tienes dos salidas que no dependen de él: vender tu cuota a un tercero, como nosotros, o demandar la división de cosa común. La primera tarda semanas; la segunda, de uno a tres años."
+   ],
+   [
+    "¿Puede la mayoría obligar a la minoría a vender el piso?",
+    "No. La venta del inmueble entero es un acto de disposición que exige unanimidad. La mayoría de cuotas solo decide actos de administración, como alquilar."
+   ],
+   [
+    "¿Se puede obligar a un heredero a vender su parte de la casa?",
+    "No su cuota en concreto. Pero cualquier coheredero puede pedir la partición de la herencia y, si la casa es indivisible, su venta en subasta (artículo 1062 del Código Civil). Lo explicamos en <a href=\"/un-heredero-no-quiere-vender/\">un heredero no quiere vender</a>."
+   ],
+   [
+    "¿Compráis la cuota aunque el otro copropietario se oponga?",
+    "Sí. La venta de tu cuota no necesita su consentimiento. Solo tiene derecho de retracto durante nueve días para comprarla al mismo precio que pagamos nosotros."
+   ]
+  ],
+  "faq_title": "Preguntas sobre obligar a vender a un copropietario",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ],
+   [
+    "La subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "El proindiviso en el Código Civil",
+    "/blog/proindiviso-codigo-civil/"
+   ]
+  ],
+  "cta_title": "Él puede negarse a vender. Tú no necesitas su permiso",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos a nuestro cargo.",
+  "yoast_title": "¿Se puede obligar a vender a un copropietario? Qué dice la ley",
+  "meta_desc": "Se puede obligar a vender a un copropietario: no su cuota, pero sí a dividir el inmueble (art. 400). Qué hacer si uno no quiere vender: compramos tu parte.",
+  "focus_kw": "se puede obligar a vender a un copropietario",
+  "title_corto": "Obligar a vender"
+ },
+ {
+  "slug": "derecho-de-tanteo-y-retracto-entre-copropietarios",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Adquisición preferente",
+  "h1": "Derecho de tanteo y retracto entre copropietarios: plazos, precio y cómo se ejerce",
+  "sub": "Cuando un copropietario vende su cuota a un extraño, los demás pueden quedársela pagando el mismo precio en el plazo de nueve días: es el retracto de comuneros del artículo 1522 del Código Civil. Si la cuota es hereditaria y la herencia está sin partir, el plazo es de un mes (artículo 1067). Te explicamos plazos, precio y procedimiento, y cómo lo gestionamos nosotros cuando compramos.",
+  "checks": [
+   "Artículos 1522 y 1067 explicados",
+   "Plazos y precio exactos",
+   "Compramos y gestionamos el retracto"
+  ],
+  "card_title": "¿Quieres vender tu cuota sin problemas con el retracto?",
+  "card_text": "Nos ocupamos de las notificaciones y de los plazos. Oferta en 48 horas y firma en notaría en semanas.",
+  "sections": [
+   {
+    "overline": "Lo básico",
+    "h2": "Qué son el tanteo y el retracto entre copropietarios",
+    "type": "text",
+    "intro": [
+     "El tanteo y el retracto son derechos de adquisición preferente. El tanteo se ejerce antes de la venta: el vendedor avisa y el titular del derecho puede comprar en esas condiciones antes que el tercero. El retracto se ejerce después: la venta ya se ha hecho y el titular del derecho se subroga en el lugar del comprador, pagando lo que este pagó. En el Código Civil estatal, entre copropietarios solo existe el retracto. No hay un tanteo legal previo: puedes vender tu cuota sin avisar a nadie y los demás solo podrán reaccionar después.",
+     "El artículo 1522 lo dice así: el copropietario de una cosa común podrá usar del retracto en el caso de enajenarse a un extraño la parte de todos los demás condueños o de alguno de ellos. Las claves son dos. Primera, solo nace cuando la cuota se vende a un extraño, no cuando se vende a otro copropietario. Segunda, es un derecho de los demás copropietarios, no un veto: no pueden impedir la venta, solo quedarse con la cuota en las mismas condiciones. En Cataluña, el Código Civil catalán sí regula un tanteo previo y un retracto con plazos más largos, de uno a tres meses según el caso; consulta tu situación si el inmueble está allí."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Retracto de comuneros y retracto de coherederos: diferencias",
+    "type": "table",
+    "items": [
+     [
+      "Aspecto",
+      "Retracto de comuneros (artículo 1522) / Retracto de coherederos (artículo 1067)"
+     ],
+     [
+      "Cuándo se aplica",
+      "Venta de una cuota indivisa de un bien concreto a un extraño / Venta del derecho hereditario a un extraño antes de la partición de la herencia"
+     ],
+     [
+      "Quién puede ejercerlo",
+      "Cualquiera de los demás copropietarios; si son varios, a prorrata de sus cuotas / Todos o cualquiera de los coherederos"
+     ],
+     [
+      "Plazo",
+      "Nueve días naturales desde la inscripción en el Registro o, si no hay inscripción, desde que el retrayente conoce la venta (artículo 1524) / Un mes desde que se le comunica la venta"
+     ],
+     [
+      "Qué paga el retrayente",
+      "El precio de la venta más los gastos del contrato y los gastos necesarios y útiles hechos en la cosa (artículo 1518) / El precio de la compra"
+     ],
+     [
+      "Cómo se ejerce",
+      "Demanda de retracto en juicio ordinario, consignando o afianzando el precio / Demanda de retracto en el mismo plazo, con reembolso del precio"
+     ],
+     [
+      "Efecto",
+      "El retrayente ocupa el lugar del comprador; la venta sigue siendo válida / El coheredero se subroga en la posición del comprador del derecho hereditario"
+     ]
+    ],
+    "outro": [
+     "La diferencia práctica más importante es el momento. Mientras la herencia no está partida ni inscrita, lo que se vende es un derecho hereditario y rige el plazo de un mes. Una vez adjudicada e inscrita la cuota, rige el retracto de comuneros de nueve días. Lo explicamos en <a href=\"/vender-derechos-hereditarios/\">vender derechos hereditarios</a>."
+    ]
+   },
+   {
+    "overline": "Procedimiento",
+    "h2": "Cómo se ejerce el retracto de comuneros paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "El copropietario conoce la venta",
+      "p": "Por la notificación del vendedor o del comprador, por una nota simple o porque alguien se lo cuenta. El plazo de nueve días empieza con la inscripción registral o, si no la hay, con el conocimiento completo de la venta: precio, comprador y condiciones. Un conocimiento vago no arranca el plazo."
+     },
+     {
+      "t": "Decide y reúne el dinero",
+      "p": "Nueve días es muy poco. Hay que tener disponible el precio pagado más los gastos del contrato, porque la demanda exige consignarlo o garantizar su pago. No hay prórrogas ni suspensiones."
+     },
+     {
+      "t": "Presenta la demanda de retracto",
+      "p": "Con abogado y procurador, contra el comprador. Se acompaña el título de copropietario, la prueba de la venta y la consignación o caución del precio. Si se presenta fuera de plazo, el juzgado la rechaza sin entrar al fondo."
+     },
+     {
+      "t": "Sentencia y subrogación",
+      "p": "Si prospera, el retrayente se coloca en el lugar del comprador y adquiere la cuota por el mismo precio. El comprador recupera lo pagado más los gastos. La escritura original no se anula; se otorga una nueva a favor del retrayente."
+     }
+    ]
+   },
+   {
+    "overline": "Precio y plazos",
+    "h2": "Los nueve días, el precio y las trampas habituales",
+    "type": "text",
+    "intro": [
+     "El plazo de nueve días es de caducidad: no se interrumpe ni se amplía. Se cuenta desde la inscripción de la venta en el Registro de la Propiedad, que es la forma de conocimiento que presume la ley. Si la venta no se inscribe, se cuenta desde que el copropietario tiene conocimiento cierto de todos sus términos. Por eso, quien quiere cerrar la puerta al retracto cuanto antes notifica la venta de forma fehaciente, con el precio y una copia de la escritura: a los nueve días, el derecho ha caducado.",
+     "El precio que paga el retrayente es el real de la escritura. Si el comprador pagó 30.000 euros por una mitad indivisa, el retrayente paga 30.000 euros más los gastos de notaría, registro e impuestos que el comprador acreditó. No se discute si ese precio es alto o bajo. Una trampa clásica es escriturar un precio superior al real para disuadir el retracto; es un fraude que puede anular el retracto y acarrear consecuencias fiscales. Otra es vender por partes o simular una donación. Los tribunales analizan la operación real y conceden el retracto cuando detectan la simulación."
+    ]
+   },
+   {
+    "overline": "Si nadie lo ejerce",
+    "h2": "Qué pasa cuando los copropietarios no ejercen el retracto",
+    "type": "list",
+    "items": [
+     "<strong>La venta queda definitiva.</strong> Pasados los nueve días desde la inscripción o el conocimiento, la cuota es del comprador sin posibilidad de reclamación posterior.",
+     "<strong>El comprador entra en la comunidad con todos los derechos.</strong> Puede usar el inmueble, participar en las decisiones según su cuota y pedir la división de la cosa común.",
+     "<strong>El vendedor cobra y sale.</strong> Desde la firma deja de responder de gastos futuros y de cualquier conflicto. Las deudas anteriores se liquidan en la escritura.",
+     "<strong>No hay retracto en una segunda venta a otro copropietario.</strong> Si el comprador revende la cuota a uno de los copropietarios originales, no cabe retracto porque no se vende a un extraño.",
+     "<strong>El retracto no sirve para evitar la división.</strong> Quien no ejerce el retracto puede recibir después una demanda de división de cosa común del nuevo copropietario. Lo explicamos en <a href=\"/blog/se-puede-obligar-a-vender-a-un-copropietario/\">se puede obligar a vender a un copropietario</a>."
+    ]
+   },
+   {
+    "overline": "Cómo lo hacemos",
+    "h2": "Cómo gestionamos el retracto cuando compramos tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas indivisas sabiendo que los demás copropietarios tienen derecho de retracto, y lo tenemos resuelto. Antes de firmar te preguntamos si quieres que notifiquemos la venta a los demás: si prefieren comprarte ellos al mismo precio, cobras igual y en el mismo plazo. Si no quieres avisar, firmamos sin notificación previa, porque la ley no la exige, y lo explicamos en <a href=\"/vender-proindiviso-sin-avisar/\">vender un proindiviso sin avisar</a>. Después de la firma, inscribimos la escritura y comunicamos la venta de forma fehaciente, de modo que el plazo de nueve días corre y se cierra. Si algún copropietario ejerce el retracto, recupera nuestra inversión y tú no pierdes nada: ya has cobrado. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría y gestión a nuestro cargo."
+    ],
+    "items": {
+     "t": "Vende tu cuota con el retracto gestionado",
+     "p": "Dinos qué inmueble es y qué porcentaje tienes. Nos ocupamos de notificaciones, plazos e inscripción.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tengo que avisar a los demás copropietarios antes de vender mi cuota?",
+    "En el Código Civil estatal no existe obligación de aviso previo ni tanteo: puedes vender sin avisar. Los demás tienen después nueve días de retracto para comprar al mismo precio. En Cataluña sí hay tanteo previo con plazos propios."
+   ],
+   [
+    "¿Cuántos días tienen los copropietarios para ejercer el retracto?",
+    "Nueve días naturales desde la inscripción de la venta en el Registro de la Propiedad o, si no se inscribe, desde que conocen la venta con todos sus detalles (artículo 1524 del Código Civil)."
+   ],
+   [
+    "¿A qué precio se ejerce el retracto de comuneros?",
+    "Al mismo precio que pagó el comprador, más los gastos del contrato y los gastos necesarios y útiles hechos en la cosa. El retrayente no puede ofrecer menos ni el comprador exigir más."
+   ],
+   [
+    "¿Qué diferencia hay entre el retracto de comuneros y el de coherederos?",
+    "El de comuneros se aplica a cuotas de un bien concreto, con plazo de nueve días. El de coherederos se aplica a la venta del derecho hereditario antes de la partición, con plazo de un mes desde la comunicación."
+   ],
+   [
+    "¿Pueden varios copropietarios ejercer el retracto a la vez?",
+    "Sí. Si dos o más quieren retraer, lo hacen a prorrata de sus cuotas (artículo 1522). Cada uno adquiere la parte proporcional de la cuota vendida."
+   ],
+   [
+    "¿Qué pasa con mi venta si un copropietario ejerce el retracto?",
+    "Nada para ti. Ya has cobrado y la escritura es válida. El retrayente se subroga en el lugar del comprador, pagándole el precio y los gastos. Es un asunto entre ellos."
+   ]
+  ],
+  "faq_title": "Preguntas sobre tanteo y retracto",
+  "related": [
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Se puede obligar a vender a un copropietario",
+    "/blog/se-puede-obligar-a-vender-a-un-copropietario/"
+   ],
+   [
+    "El proindiviso en el Código Civil",
+    "/blog/proindiviso-codigo-civil/"
+   ],
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota con los plazos bajo control",
+  "cta_text": "Compramos tu parte con fondos propios en toda España y gestionamos el retracto. Oferta en 48 horas, firma en notaría en 2-4 semanas, pago al contado.",
+  "yoast_title": "Tanteo y retracto entre copropietarios: plazos y precio",
+  "meta_desc": "Derecho de tanteo y retracto entre copropietarios: 9 días del art. 1522, un mes del 1067, precio y cómo se ejerce. Compramos tu cuota y gestionamos todo.",
+  "focus_kw": "retracto de comuneros",
+  "title_corto": "Tanteo y retracto"
+ }
+]

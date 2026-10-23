@@ -83,3 +83,12 @@ Con 1-4 arranco; 5-8 se añaden después en ajustes sin tocar nada.
 - Pie v3 (site part 544) con enlace a las 19 comunidades. Cabecera 20, popup 22, componentes de formulario 83 (corto) y 85 (completo).
 - Pendiente de Isra: teléfono y WhatsApp (ajustes de "Zona Proindiviso" en WP), NIF y correo para aviso legal/privacidad/cookies, GTM/GA4 y banner de cookies (Complianz), revocar las dos contraseñas de aplicación sobrantes.
 - Siguiente: Search Console + envío del sitemap, Lighthouse móvil, y ampliar a municipios según consultas reales.
+
+## Blog y páginas de cola larga (23/10/2026, noche)
+
+- Fuente: histórico de términos de búsqueda de 6 de las 8 cuentas de proindivisos del MCC (2024-2026, 1.906 términos únicos, `docs/datos/terminos-busqueda-6-cuentas-2024-2026.tsv`; las cuentas 4630614423 y 7078242970 devolvieron error en el gateway) más el Keyword Planner.
+- 7 páginas transaccionales nuevas: compramos herencias, derechos hereditarios, un heredero no quiere vender, la mitad de una casa, nuda propiedad, terreno o finca, con inquilino u okupa.
+- Blog en `/blog/` (índice construido con Elementor, no archivo de WP) con 35 entradas en 5 categorías (noindex las categorías), permalinks `/blog/%postname%/`, autor "Equipo Zona Proindiviso", schema Article + FAQPage, miga "Blog" en Yoast. Contenido en `tools/blog/blog_*.json` según `tools/blog/BRIEF-BLOG.md`.
+- Enlazado: menú y pie v4 (4 columnas + comunidades), bloque "Guías" en la home, related de las páginas de intención apuntando a páginas y entradas nuevas.
+- Incidencia resuelta: LiteSpeed/CDN de Hostinger servía en `/` una copia antigua de la instalación por defecto ("Hello world"). Snippet global con `X-LiteSpeed-Cache-Control: no-cache` + purga y `Cache-Control: no-cache` para HTML. Conviene purgar el CDN desde hPanel una vez.
+- QA automático: 43 URL nuevas, 0 problemas (200, FAQPage, extensión). Total publicado: 183 URL indexables.

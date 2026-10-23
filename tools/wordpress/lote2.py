@@ -22,7 +22,7 @@ P.append({"post_id":33,"kicker":"Antes de vender","h1":"Opiniones sobre empresas
 ("¿Por qué la oferta final baja en algunas empresas?","Porque la primera cifra se da sin ver la nota simple ni las cargas, para enganchar. Nosotros pedimos la nota simple antes de dar precio, y el precio que damos es el que firmamos."),
 ("¿Puedo echarme atrás después de pedir una oferta?","Claro. Hasta que firmas en notaría no hay compromiso. La oferta es gratuita y no te obliga a nada."),
 ("¿Compráis en toda España?","Sí, en las 50 provincias. En grandes ciudades el porcentaje suele ser más alto; en municipios pequeños compramos igual, con un precio ajustado al mercado local.")],
-"related":[("Empresas que compran proindivisos","/empresas-que-compran-proindivisos/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Contacto","/contacto/")],
+"related":[("Empresas que compran proindivisos","/empresas-que-compran-proindivisos/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Contacto","/contacto/"),("Compramos herencias","/empresas-que-compran-herencias/")],
 "cta_title":"Compara nuestra oferta con cualquier otra"})
 # ---------- 35 VENDER PARTE DE UN PISO ----------
 P.append({"post_id":35,"kicker":"Copropiedad","h1":"Vender tu parte de un piso cuando el otro propietario no quiere vender",
@@ -54,7 +54,7 @@ P.append({"post_id":35,"kicker":"Copropiedad","h1":"Vender tu parte de un piso c
 ("¿Necesito el permiso del otro propietario?","No. Tiene derecho de retracto (quedarse tu parte al mismo precio en nueve días desde que conoce la venta), pero no puede impedirla."),
 ("¿Cuánto vale mi parte de un piso?","Entre el 40 % y el 70 % de la proporción que te corresponde del valor de mercado. Depende de la ciudad, de si el piso está ocupado y de las cargas."),
 ("¿Y si el otro propietario quiere comprarme después de ver vuestra oferta?","Perfecto. Muchas personas usan nuestra oferta como precio de referencia y cierran con su familia o su expareja. No te compromete a nada.")],
-"related":[("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/")],
+"related":[("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("La mitad de una casa","/vender-la-mitad-de-una-casa/"),("Con inquilino u okupa","/vender-proindiviso-con-inquilino-u-okupa/")],
 "cta_title":"Vende tu parte del piso y sal de la copropiedad"})
 # ---------- 37 HIPOTECA ----------
 P.append({"post_id":37,"kicker":"Proindiviso con hipoteca","h1":"Vender un proindiviso con hipoteca: sí se puede, y así funciona",
@@ -74,7 +74,7 @@ P.append({"post_id":37,"kicker":"Proindiviso con hipoteca","h1":"Vender un proin
 ("¿Qué pasa si la hipoteca es mayor que el valor de mi parte?","Entonces tu cuota no tiene valor neto positivo y la venta no tiene sentido económico. Te lo diremos con claridad en la primera llamada; a veces la solución es otra."),
 ("¿Quién cancela la hipoteca en la notaría?","Nosotros, con el certificado de deuda del banco. Del precio de venta sale la cantidad destinada a cancelar tu parte, y el resto lo cobras tú en el acto."),
 ("¿Compráis también si hay un embargo además de la hipoteca?","Sí. Los embargos se cancelan igual que la hipoteca, con el precio de venta, siempre que la cuota conserve valor neto.")],
-"related":[("Extinción de condominio con hipoteca","/extincion-de-condominio/hipoteca/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("Vender parte de un piso","/vender-parte-de-un-piso/")],
+"related":[("Extinción de condominio con hipoteca","/extincion-de-condominio/hipoteca/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("Vender parte de un piso","/vender-parte-de-un-piso/"),("La mitad de una casa hipotecada","/vender-la-mitad-de-una-casa/"),("Hipoteca para extinción de condominio","/blog/hipoteca-para-extincion-de-condominio/")],
 "cta_title":"Vende tu parte con hipoteca y sal limpio"})
 # ---------- 39 DIVORCIO ----------
 P.append({"post_id":39,"kicker":"Divorcio y separación","h1":"Vender tu parte de la casa tras un divorcio o separación sin pasar por juicio",
@@ -95,7 +95,7 @@ P.append({"post_id":39,"kicker":"Divorcio y separación","h1":"Vender tu parte d
 ("¿Cuánto vale mi mitad si mi ex vive en la casa con los niños?","Menos que si estuviera vacía, porque el comprador debe respetar el uso. La horquilla habitual baja al 40-55 % del valor neto de tu parte, según los años previsibles de uso."),
 ("¿Dejo de pagar la hipoteca al vender mi parte?","Dejas de ser propietario y, con la salida del préstamo, de ser deudor. Hasta la firma sigues respondiendo; por eso vamos rápido."),
 ("¿Hace falta que mi ex esté de acuerdo con el precio?","No. La venta es entre tú y nosotros. Tu ex recibe la notificación de la venta y puede ejercer el retracto si quiere.")],
-"related":[("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/")],
+"related":[("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("Extinción de condominio por divorcio","/blog/extincion-de-condominio-por-divorcio/"),("Vender tu parte a tu pareja","/blog/vender-tu-parte-de-la-casa-a-tu-pareja/")],
 "cta_title":"Vende tu mitad y deja de pagar por una casa en la que no vives"})
 # ---------- 41 ENTRE HERMANOS ----------
 P.append({"post_id":41,"kicker":"Herencia entre hermanos","h1":"Vender tu parte de un piso heredado entre hermanos cuando uno no quiere vender",
@@ -116,6 +116,6 @@ P.append({"post_id":41,"kicker":"Herencia entre hermanos","h1":"Vender tu parte 
 ("¿Qué pasa si varios hermanos queremos vender y uno no?","Podéis vender vuestras cuotas a la vez. Si entre los que vendéis sumáis mayoría, el nuevo copropietario tiene más capacidad para desbloquear la situación, y el precio suele ser mejor."),
 ("¿Hay que pagar impuesto de sucesiones antes de vender?","Sí. La herencia debe estar aceptada y el impuesto liquidado para inscribir vuestras cuotas en el Registro. Si no está hecho, te ayudamos a tramitarlo."),
 ("¿Cuánto me darían por un tercio del piso de mis padres?","Entre el 40 % y el 70 % del valor de ese tercio. Si el piso está vacío y la herencia inscrita, el porcentaje sube; si lo ocupa un hermano, baja.")],
-"related":[("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Extinción de condominio entre hermanos","/extincion-de-condominio/entre-hermanos/"),("División de cosa común","/division-de-cosa-comun/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/")],
+"related":[("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Extinción de condominio entre hermanos","/extincion-de-condominio/entre-hermanos/"),("División de cosa común","/division-de-cosa-comun/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Un heredero no quiere vender","/un-heredero-no-quiere-vender/"),("Herencia de 4 hermanos","/blog/herencia-cuatro-hermanos-dos-quieren-vender/")],
 "cta_title":"Vende tu parte y deja el conflicto atrás"})
 for s in P: run(s)

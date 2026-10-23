@@ -26,7 +26,7 @@ P.append({"post_id":25,"kicker":"Empresas que compran proindivisos","h1":"Empres
 ("¿Tienen derecho de retracto mis hermanos o mi expareja?","Sí. Los demás copropietarios pueden ejercer el retracto de comuneros: quedarse con tu parte al mismo precio y condiciones en el plazo legal desde que conocen la venta. En la práctica, si tenían ese dinero y esa intención, ya te habrían comprado."),
 ("¿Por qué no me pagan el 100 % del valor de mi parte?","Porque la empresa compra una cuota que no puede usar ni vender fácilmente, asume el conflicto con los demás propietarios y, en muchos casos, un proceso judicial de más de un año. El descuento es el precio de la rapidez y la tranquilidad."),
 ("¿Puedo pedir oferta a varias empresas a la vez?","Por supuesto, y te lo recomendamos. Nuestra oferta no te compromete a nada y no exige exclusividad.")],
-"related":[("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Opiniones sobre empresas compradoras","/opiniones-empresas-que-compran-proindivisos/"),("Vender sin avisar a los demás","/vender-proindiviso-sin-avisar/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/")],
+"related":[("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Opiniones sobre empresas compradoras","/opiniones-empresas-que-compran-proindivisos/"),("Vender sin avisar a los demás","/vender-proindiviso-sin-avisar/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Compramos herencias","/empresas-que-compran-herencias/"),("Vender la mitad de una casa","/vender-la-mitad-de-una-casa/")],
 "cta_title":"Pide tu oferta a una empresa que compra de verdad"})
 # ---------- 27 CUÁNTO PAGAN ----------
 P.append({"post_id":27,"kicker":"Precio de un proindiviso","h1":"Cuánto pagan por un proindiviso: la horquilla real y de qué depende",
@@ -54,7 +54,7 @@ P.append({"post_id":27,"kicker":"Precio de un proindiviso","h1":"Cuánto pagan p
 ("¿Puedo negociar la oferta?","Sí. Si tienes documentación que mejore el caso (herencia ya aceptada, inmueble vacío, otro copropietario dispuesto a vender) dínoslo: puede subir el precio."),
 ("¿Cuánto tardo en cobrar?","El precio lo tienes en 48 horas. La firma en notaría, normalmente entre dos y cuatro semanas, según la documentación. Cobras en el momento de la firma."),
 ("¿Y si solo quiero saber cuánto vale mi parte para negociar con mi familia?","Pide la oferta igualmente. No te compromete a nada y muchas personas la usan como referencia para vender su parte a un hermano o a su expareja.")],
-"related":[("Empresas que compran proindivisos","/empresas-que-compran-proindivisos/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/")],
+"related":[("Empresas que compran proindivisos","/empresas-que-compran-proindivisos/"),("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Cómo se calcula tu cuota","/blog/como-se-calcula-la-cuota-de-un-proindiviso/"),("Valor de la vivienda en la extinción","/blog/valor-de-la-vivienda-en-la-extincion-de-condominio/")],
 "cta_title":"Tu precio por escrito en 48 horas"})
 # ---------- 29 SIN AVISAR ----------
 P.append({"post_id":29,"kicker":"Vender sin el permiso de los demás","h1":"Vender tu proindiviso sin avisar a los demás propietarios: qué dice la ley",
@@ -80,7 +80,7 @@ P.append({"post_id":29,"kicker":"Vender sin el permiso de los demás","h1":"Vend
 ("¿Tengo que notificar la venta yo?","La notificación formal la hacemos nosotros como compradores, normalmente por burofax o a través del propio Registro. Tú no tienes que hablar con nadie si no quieres."),
 ("¿Y si la vivienda la ocupa el otro propietario?","Puedes vender igual. Compramos partes de viviendas ocupadas por otro copropietario; el precio lo tiene en cuenta y el resto es asunto nuestro."),
 ("¿Puedo vender solo una parte de mi parte?","Sí, aunque es poco habitual. Lo normal es vender la cuota completa para salir del todo de la copropiedad.")],
-"related":[("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Qué es un proindiviso","/que-es-un-proindiviso/")],
+"related":[("Vender tu parte de una herencia","/vender-parte-casa-heredada/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Tanteo y retracto entre copropietarios","/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"),("Soy copropietario y quiero vender","/blog/soy-copropietario-y-quiero-vender/")],
 "cta_title":"Vende tu parte sin pedir permiso a nadie"})
 # ---------- 31 HERENCIA ----------
 P.append({"post_id":31,"kicker":"Herencias compartidas","h1":"Vender tu parte de una casa heredada aunque los demás herederos no quieran",
@@ -107,6 +107,6 @@ P.append({"post_id":31,"kicker":"Herencias compartidas","h1":"Vender tu parte de
 ("¿Se puede vender la parte de un piso heredado si uno de los herederos vive en él?","Sí. La venta de tu cuota no depende de quién ocupe la vivienda. El precio sí lo tiene en cuenta, porque el comprador tardará más en disponer del inmueble."),
 ("¿Qué impuestos pago al vender mi parte heredada?","IRPF por la diferencia entre el valor declarado en la herencia y el precio de venta (suele ser baja), y plusvalía municipal si el suelo se ha revalorizado desde la fecha del fallecimiento."),
 ("¿Y si somos varios hermanos los que queremos vender?","Mejor todavía. Compramos varias cuotas a la vez y, si sumáis mayoría, la operación es más sencilla y el precio suele ser mejor.")],
-"related":[("Vender entre hermanos","/vender-proindiviso-entre-hermanos/"),("Extinción de condominio entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/")],
+"related":[("Vender entre hermanos","/vender-proindiviso-entre-hermanos/"),("Extinción de condominio entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Vender sin avisar","/vender-proindiviso-sin-avisar/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("Compramos herencias","/empresas-que-compran-herencias/"),("Un heredero no quiere vender","/un-heredero-no-quiere-vender/"),("Derechos hereditarios","/vender-derechos-hereditarios/")],
 "cta_title":"Vende tu parte de la herencia y cobra en notaría"})
 for s in P: run(s)

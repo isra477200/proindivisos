@@ -101,6 +101,17 @@ for i,(q,a) in enumerate(faqs,1):
     c.st(f"FAQ icono {i}","color: var(--brand-accent);"); c.st(f"FAQ contenido {i}","padding: 0px 22px 20px 22px;")
     c.p(f"FAQ respuesta {i}",a,"font-size: 16px; line-height: 1.7; color: var(--ink-muted);")
 # ---------- CTA FINAL ----------
+# ---------- GUÍAS Y BLOG ----------
+guias=[("Qué es un proindiviso","Definición, derechos de cada copropietario y las tres salidas.","/que-es-un-proindiviso/"),("Extinción de condominio","Pasos, coste con cifras e impuestos. Y qué hacer si no hay acuerdo.","/extincion-de-condominio/"),("Compramos herencias","Tu parte de una herencia, con o sin acuerdo de los demás herederos.","/empresas-que-compran-herencias/"),("Un heredero no quiere vender","Qué puedes hacer y cómo vendemos tu parte igual.","/un-heredero-no-quiere-vender/"),("Dónde compramos","Todas las comunidades, provincias y grandes ciudades de España.","/vender-proindiviso/"),("Blog","Más de 30 respuestas a las dudas reales de quien tiene una parte de un inmueble.","/blog/")]
+gcards=''.join(f'<e-flexbox configuration-id="Guia {i}"><e-heading configuration-id="Guia {i} t"></e-heading><e-paragraph configuration-id="Guia {i} p"></e-paragraph><e-button configuration-id="Guia {i} b"></e-button></e-flexbox>' for i in range(1,len(guias)+1))
+c.add(f'<e-div-block configuration-id="Guias"><e-flexbox configuration-id="Guias inner"><e-flexbox configuration-id="Guias cabecera"><e-paragraph configuration-id="Guias overline"></e-paragraph><e-heading configuration-id="Guias titulo"></e-heading></e-flexbox><e-flexbox configuration-id="Guias grid">{gcards}</e-flexbox></e-flexbox></e-div-block>')
+c.cfg("Guias",{"tag":"section"}); section(c,"Guias","var(--surface-soft)"); inner(c,"Guias inner",gap="36px")
+c.st("Guias cabecera","display:flex; flex-direction:column; gap: 12px; width:100%; max-width: 760px; padding:0px;")
+overline(c,"Guias overline","Infórmate antes de decidir"); c.h("Guias titulo","Guías claras sobre proindivisos, herencias y copropiedad","h2")
+c.st("Guias grid","display:flex; flex-direction:row; flex-wrap:wrap; gap: 20px; width:100%; padding:0px;")
+for i,(t,d,u) in enumerate(guias,1):
+    c.st(f"Guia {i}","display:flex; flex-direction:column; justify-content:space-between; gap: 10px; flex-grow:1; flex-shrink:1; flex-basis: 300px; width:auto; padding: 26px; background-color: var(--white); border: 1px solid var(--line); border-radius: 18px; &:hover { border-color: var(--brand-primary); }")
+    c.h(f"Guia {i} t",t,"h3","font-size: 19px; line-height: 1.3;"); c.p(f"Guia {i} p",d,"font-size: 15px; line-height: 1.6; color: var(--ink-muted);"); c.btn(f"Guia {i} b","Leer →",u,"link","sm","align-self:flex-start; margin-top: 8px; font-size: 15px;")
 c.add('<e-div-block configuration-id="CTA final"><e-flexbox configuration-id="CTA inner"><e-flexbox configuration-id="CTA texto"><e-paragraph configuration-id="CTA overline"></e-paragraph><e-heading configuration-id="CTA titulo"></e-heading><e-paragraph configuration-id="CTA p"></e-paragraph><e-paragraph configuration-id="CTA tel"></e-paragraph><e-button configuration-id="CTA wa"></e-button></e-flexbox><e-flexbox configuration-id="CTA tarjeta"><e-component configuration-id="CTA formulario"/></e-flexbox></e-flexbox></e-div-block>')
 c.cfg("CTA final",{"tag":"section"}); section(c,"CTA final","var(--white)")
 c.st("CTA inner","display:flex; flex-direction:row; align-items:flex-start; gap: 56px; width:100%; max-width: 1200px; padding:0px; @media(--mobile){ flex-direction:column; gap: 28px; }")

@@ -35,7 +35,7 @@ P.append({"post_id":43,"kicker":"Guía 2026","h1":"Extinción de condominio: có
 ("¿Me compráis la parte aunque el otro copropietario quiera hacer una extinción de condominio?","Sí. Tú decides. Muchas personas piden nuestra oferta para tener una cifra de referencia y negociar la compensación con su familia. Si al final no hay acuerdo, firmamos contigo."),
 ("¿Puede uno quedarse con la casa sin pagar a los demás?","Solo si los demás renuncian a la compensación, lo que fiscalmente es una donación y tributa como tal. Si no quieres regalar tu parte y el otro no puede pagarla, vendérnosla es la salida.")],
 "faq_title":"Preguntas sobre la extinción de condominio",
-"related":[("Entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Con hipoteca","/extincion-de-condominio/hipoteca/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/"),("División de cosa común","/division-de-cosa-comun/"),("Qué es un proindiviso","/que-es-un-proindiviso/")],
+"related":[("Entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Con hipoteca","/extincion-de-condominio/hipoteca/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/"),("División de cosa común","/division-de-cosa-comun/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Ejemplo con cifras","/blog/ejemplo-de-extincion-de-condominio-con-cifras/"),("¿Vender o hacer extinción?","/blog/vender-o-hacer-extincion-de-condominio/")],
 "cta_title":"¿Se ha atascado la extinción de condominio? Te compramos tu parte","cta_text":"Rellena el formulario con la dirección y tu porcentaje. En 48 horas tienes un precio por escrito para decidir con cifras, no con discusiones."})
 # ---------- 45 ENTRE HERMANOS ----------
 P.append({"post_id":45,"kicker":"Extinción de condominio","h1":"Extinción de condominio entre hermanos: con compensación, sin ella y cuando uno no quiere",
@@ -59,7 +59,7 @@ P.append({"post_id":45,"kicker":"Extinción de condominio","h1":"Extinción de c
 ("¿El hermano que cobra paga IRPF?","Puede. Desde 2022 el Tribunal Supremo admite que hay ganancia patrimonial si la compensación supera el valor que tenía la cuota al heredarla (el declarado en Sucesiones). Si heredasteis hace poco y el valor apenas ha cambiado, la ganancia es mínima."),
 ("¿Podéis comprar la cuota de varios hermanos a la vez?","Sí. Si dos de tres hermanos nos venden, pasamos a tener mayoría, lo que acelera la solución y suele mejorar el precio de cada cuota.")],
 "faq_title":"Preguntas sobre la extinción de condominio entre hermanos",
-"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Vender tu parte de un piso heredado entre hermanos","/vender-proindiviso-entre-hermanos/"),("Vender tu parte de una casa heredada","/vender-parte-casa-heredada/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/")],
+"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Vender tu parte de un piso heredado entre hermanos","/vender-proindiviso-entre-hermanos/"),("Vender tu parte de una casa heredada","/vender-parte-casa-heredada/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/"),("Con compensación económica","/blog/extincion-de-condominio-con-compensacion-economica/"),("Sin compensación","/blog/extincion-de-condominio-sin-compensacion-economica/")],
 "cta_title":"Si la extinción entre hermanos se bloquea, te compramos tu cuota","cta_text":"Sin exclusiva y sin compromiso. Muchos hermanos usan nuestra oferta como cifra de referencia para cerrar el acuerdo en familia."})
 # ---------- 47 CON HIPOTECA ----------
 P.append({"post_id":47,"kicker":"Extinción de condominio","h1":"Extinción de condominio con hipoteca: qué pide el banco y qué hacer si dice que no",
@@ -86,7 +86,7 @@ P.append({"post_id":47,"kicker":"Extinción de condominio","h1":"Extinción de c
 ("¿Podéis comprar mi mitad si la hipoteca es mayor que el valor de mi parte?","Depende de la cifra. Si la deuda supera el valor del piso, la operación no es viable para nadie. Si hay margen, aunque sea pequeño, compramos y cancelamos tu tramo en la firma. Pide la oferta y lo calculamos sin coste."),
 ("¿Cuánto tarda la extinción de condominio con hipoteca?","De uno a tres meses, el tiempo que tarda el banco en estudiar la solvencia y preparar la novación. Vendernos tu cuota tarda de dos a cuatro semanas desde la oferta.")],
 "faq_title":"Preguntas sobre la extinción de condominio con hipoteca",
-"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Vender un proindiviso con hipoteca","/vender-proindiviso-con-hipoteca/"),("Vender tu parte tras un divorcio","/vender-proindiviso-divorcio/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/")],
+"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Vender un proindiviso con hipoteca","/vender-proindiviso-con-hipoteca/"),("Vender tu parte tras un divorcio","/vender-proindiviso-divorcio/"),("Impuestos y notario","/extincion-de-condominio/impuestos-y-notario/"),("Hipoteca para la extinción","/blog/hipoteca-para-extincion-de-condominio/")],
 "cta_title":"Deja de ser propietario y deudor en una sola firma","cta_text":"Compramos tu cuota, cancelamos tu tramo de hipoteca y gestionamos tu salida del préstamo. Precio neto por escrito en 48 horas."})
 # ---------- 49 IMPUESTOS Y NOTARIO ----------
 P.append({"post_id":49,"kicker":"Extinción de condominio","h1":"Impuestos y notario en la extinción de condominio: AJD, plusvalía, IRPF y gastos en 2026",
@@ -122,7 +122,7 @@ P.append({"post_id":49,"kicker":"Extinción de condominio","h1":"Impuestos y not
 ("¿Y si vendo mi parte a una empresa en vez de hacer la extinción?","Entonces es una compraventa: el comprador paga ITP y tú, si hay ganancia, IRPF. En nuestro caso asumimos ITP, notaría y gestión, y el precio que te damos es neto para ti."),
 ("¿Hay que pagar AJD si la extinción de condominio es de un inmueble heredado?","Sí, igual que en cualquier otra. El Impuesto de Sucesiones se pagó al heredar; el AJD se paga ahora por la escritura de extinción.")],
 "faq_title":"Preguntas sobre impuestos y gastos de la extinción de condominio",
-"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Con hipoteca","/extincion-de-condominio/hipoteca/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/")],
+"related":[("Guía de extinción de condominio","/extincion-de-condominio/"),("Entre hermanos","/extincion-de-condominio/entre-hermanos/"),("Con hipoteca","/extincion-de-condominio/hipoteca/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Cuánto cobra el notario","/blog/cuanto-cobra-el-notario-extincion-de-condominio/"),("Qué valor poner a la vivienda","/blog/valor-de-la-vivienda-en-la-extincion-de-condominio/")],
 "cta_title":"Vende tu parte sin pagar notaría ni impuestos de transmisión","cta_text":"ITP, notaría y gestoría corren de nuestra cuenta. Tú recibes un precio neto por escrito en 48 horas."})
 # ---------- 51 QUÉ ES UN PROINDIVISO ----------
 P.append({"post_id":51,"kicker":"Conceptos","h1":"Qué es un proindiviso: definición, derechos de cada copropietario y las tres salidas",
@@ -156,7 +156,7 @@ P.append({"post_id":51,"kicker":"Conceptos","h1":"Qué es un proindiviso: defini
 ("¿Cómo se disuelve un proindiviso si uno de los copropietarios ha fallecido?","Su cuota pasa a sus herederos, que entran en la comunidad en su lugar. Si son varios, la comunidad crece. Por eso conviene resolver los proindivisos cuanto antes."),
 ("¿Compráis cuotas de proindiviso de cualquier tipo de inmueble?","Sí: viviendas, locales, garajes, trasteros, naves, fincas rústicas y solares, en cualquier provincia de España. Con o sin cargas, vacíos u ocupados.")],
 "faq_title":"Preguntas sobre el proindiviso",
-"related":[("Vender un proindiviso sin avisar","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("División de cosa común","/division-de-cosa-comun/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Vender tu parte de un piso","/vender-parte-de-un-piso/")],
+"related":[("Vender un proindiviso sin avisar","/vender-proindiviso-sin-avisar/"),("Extinción de condominio","/extincion-de-condominio/"),("División de cosa común","/division-de-cosa-comun/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("Vender tu parte de un piso","/vender-parte-de-un-piso/"),("Ventajas y desventajas","/blog/proindiviso-ventajas-y-desventajas/"),("El proindiviso en el Código Civil","/blog/proindiviso-codigo-civil/")],
 "cta_title":"Sal del proindiviso en semanas, no en años","cta_text":"Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado."})
 # ---------- 53 DIVISIÓN DE COSA COMÚN ----------
 P.append({"post_id":53,"kicker":"Vía judicial","h1":"División de cosa común: cómo es el juicio para salir de un proindiviso, cuánto tarda y cuánto cuesta",
@@ -190,6 +190,6 @@ P.append({"post_id":53,"kicker":"Vía judicial","h1":"División de cosa común: 
 ("¿Qué pasa si uno de los copropietarios vive en el piso durante el juicio?","Sigue teniendo derecho a usarlo hasta la subasta. Se le puede reclamar una compensación por el uso exclusivo desde que se le requiere, pero es otro pleito."),
 ("¿Qué pasa si la subasta queda desierta?","El inmueble puede adjudicarse a un copropietario o a un tercero por un valor menor, o volver a subastarse. Es una de las razones por las que el resultado económico del juicio es tan incierto.")],
 "faq_title":"Preguntas sobre la división de cosa común",
-"related":[("Qué es un proindiviso","/que-es-un-proindiviso/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender tu parte de un piso","/vender-parte-de-un-piso/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/")],
+"related":[("Qué es un proindiviso","/que-es-un-proindiviso/"),("Extinción de condominio","/extincion-de-condominio/"),("Vender tu parte de un piso","/vender-parte-de-un-piso/"),("Cuánto pagan por un proindiviso","/cuanto-pagan-por-un-proindiviso/"),("La subasta en la división","/blog/subasta-division-de-cosa-comun/"),("Abogado: cuándo hace falta","/blog/abogado-proindiviso-cuando-hace-falta/")],
 "cta_title":"Evita el juicio: vende tu cuota y cobra en semanas","cta_text":"Precio por escrito en 48 horas, sin abogados ni subastas. Compramos cuotas en litigio en toda España."})
 for s in P: run(s)

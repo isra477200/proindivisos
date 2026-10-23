@@ -112,7 +112,7 @@ def run(spec, publish=True):
     if ok and publish:
         subprocess.run(['./emcp.sh','elementor-publish-document',json.dumps({"post_id":spec['post_id']})],capture_output=True,text=True)
     return ok
-def meta(post_id, title=None, yt=None, yd=None, kw=None, parent=None, status=None, slug=None):
+def meta(post_id, title=None, yt=None, yd=None, kw=None, parent=None, status=None, slug=None, ptype='pages', extra=None):
     import os
     env={}
     for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'wp.env')):
@@ -127,7 +127,8 @@ def meta(post_id, title=None, yt=None, yd=None, kw=None, parent=None, status=Non
     if yd: m['_yoast_wpseo_metadesc']=yd
     if kw is not None: m['_yoast_wpseo_focuskw']=kw
     if m: body['meta']=m
-    out=subprocess.run(['curl','-sS','--max-time','60','-u',env['P1'],'-X','POST','-H','Content-Type: application/json',f"{env['WP']}/wp-json/wp/v2/pages/{post_id}",'-d',json.dumps(body,ensure_ascii=False)],capture_output=True,text=True).stdout
+    if extra: body.update(extra)
+    out=subprocess.run(['curl','-sS','--max-time','60','-u',env['P1'],'-X','POST','-H','Content-Type: application/json',f"{env['WP']}/wp-json/wp/v2/{ptype}/{post_id}",'-d',json.dumps(body,ensure_ascii=False)],capture_output=True,text=True).stdout
     try:
         d=json.loads(out); print(post_id,'META OK' if 'id' in d else 'META FAIL '+str(d)[:200],d.get('link'))
     except Exception: print(post_id,'META FAIL',out[:300])
