@@ -17,8 +17,11 @@ PHP=r'''add_action( 'init', function () {
 			if ( ! $doc ) { $log[] = "$id: sin documento"; continue; }
 			$data = $doc->get_elements_data();
 			if ( empty( $data ) ) { $log[] = "$id: vacío"; continue; }
-			$payload = [ 'elements' => $data, 'settings' => $doc->get_settings() ];
-			try { $doc->save( $payload ); $log[] = "$id: save"; }
+			// OJO: los ajustes del documento incluyen post_featured_image vacío y Document::save() borraba la imagen destacada
+			// (og:image de Yoast); se quita del payload y se restaura la destacada tras guardar.
+			$thumb = (int) get_post_thumbnail_id( $id ); $st = $doc->get_settings(); unset( $st['post_featured_image'] );
+			$payload = [ 'elements' => $data, 'settings' => $st ];
+			try { $doc->save( $payload ); $log[] = "$id: save"; if ( $thumb ) { set_post_thumbnail( $id, $thumb ); } }
 			catch ( \Throwable $e ) { do_action( 'elementor/document/after_save', $doc, $payload ); $log[] = "$id: after_save (" . substr( $e->getMessage(), 0, 60 ) . ")"; } // la validación atómica rechaza algún párrafo en algunos documentos: con after_save se regenera el CSS local igualmente
 		} catch ( \Throwable $e ) { $log[] = "$id: EXC " . substr( $e->getMessage(), 0, 80 ); }
 	}

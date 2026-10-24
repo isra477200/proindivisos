@@ -270,6 +270,16 @@
     "La hipoteca no desaparece: quien se queda tiene que asumirla entera y el banco debe liberar al que sale mediante una novación. Si el banco no acepta, la extinción se complica, y es una de las razones por las que muchos copropietarios acaban vendiendo su parte."
    ]
   ],
-  "yd": "Gastos de extinción de condominio: simula el AJD de tu comunidad, la notaría, el registro, la gestoría y la hipoteca, y el coste de ir a juicio."
+  "yd": "Gastos de extinción de condominio: simula el AJD de tu comunidad, la notaría, el registro, la gestoría y la hipoteca, y el coste de ir a juicio.",
+  "related_extra": [
+   [
+    "Vender proindiviso en Ceuta",
+    "/vender-proindiviso/ceuta/"
+   ],
+   [
+    "Vender proindiviso en Melilla",
+    "/vender-proindiviso/melilla/"
+   ]
+  ]
  }
 }

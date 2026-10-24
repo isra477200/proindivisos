@@ -99,6 +99,7 @@ _AJ=os.path.join(os.path.dirname(os.path.abspath(__file__)),'blog','calculadoras
 if os.path.exists(_AJ):
     for _k,_v in json.load(open(_AJ)).items():
         if _k in SPECS: SPECS[_k]['sections']=_v['sections']; SPECS[_k]['faqs']=[tuple(x) for x in _v['faqs']]; SPECS[_k]['yd']=_v['yd']
+        if _k in SPECS and _v.get('related_extra'): SPECS[_k]['related']=list(SPECS[_k]['related'])+[tuple(x) for x in _v['related_extra']]
 if __name__=='__main__':
     only=sys.argv[1:]
     for key,s in SPECS.items():
