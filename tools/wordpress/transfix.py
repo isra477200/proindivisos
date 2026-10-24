@@ -47,8 +47,9 @@ def fix(s,target=0.34):
         r,n=ratio(s); k+=1
     return r,c
 if __name__=='__main__':
-    f=sys.argv[1]; slugs=sys.argv[2:]; S=json.load(open(f))
+    f=sys.argv[1]; slugs=[a for a in sys.argv[2:] if not a.startswith('--')]; S=json.load(open(f))
+    tgt=float(next((a.split('=')[1] for a in sys.argv if a.startswith('--objetivo=')),'0.34'))
     for s in S:
         if s['slug'] in slugs:
-            r0,_=ratio(s); r,c=fix(s); print(s['slug'],f'{r0:.1%} → {r:.1%} ({c} conectores)')
+            r0,_=ratio(s); r,c=fix(s,tgt); print(s['slug'],f'{r0:.1%} → {r:.1%} ({c} conectores)')
     json.dump(S,open(f,'w'),ensure_ascii=False,indent=1)

@@ -738,7 +738,7 @@
   "category": null,
   "kicker": "Diccionario del proindiviso",
   "h1": "Vender un inmueble siendo no residente: qué cambia y cómo vendemos tu parte",
-  "sub": "Vender un inmueble siendo no residente es posible sin viajar a España: hace falta NIE, un poder notarial y asumir la retención del 3 % del precio a cuenta del impuesto de no residentes. Si lo que vendes es una cuota heredada, el proceso es el mismo. Nosotros compramos tu parte, preparamos el borrador del poder y presentamos el modelo 211.",
+  "sub": "Es posible vender un inmueble siendo no residente sin viajar a España: hace falta NIE, un poder notarial y asumir la retención del 3 % del precio a cuenta del impuesto de no residentes. Si lo que vendes es una cuota heredada, el proceso es el mismo. Nosotros compramos tu parte, preparamos el borrador del poder y presentamos el modelo 211.",
   "checks": [
    "Sin viajar a España",
    "Retención del 3 % explicada",
@@ -752,8 +752,8 @@
     "h2": "Qué significa vender un inmueble siendo no residente",
     "type": "text",
     "intro": [
-     "Eres no residente a efectos fiscales si pasas menos de 183 días al año en España y no tienes aquí el núcleo de tus intereses económicos. La nacionalidad no cuenta: un español que vive en Londres es no residente, y un alemán que vive en Alicante es residente. Lo regula la Ley del Impuesto sobre la Renta de no Residentes, en especial sus artículos 24 y 25.",
-     "Vender un inmueble siendo no residente tiene tres consecuencias prácticas. Primero, el comprador te retiene el 3 % del precio y lo ingresa en Hacienda. Segundo, tributas por la ganancia al 19 %, orientativo, mediante el modelo 210. Tercero, necesitas NIE y, si no viajas, un poder. Todo lo demás, el notario, la escritura y el Registro, funciona igual que para un residente."
+     "Eres no residente a efectos fiscales si pasas menos de 183 días al año en España y no tienes aquí el núcleo de tus intereses económicos. Además, la nacionalidad no cuenta: un español que vive en Londres es no residente, y un alemán que vive en Alicante es residente. De hecho, en la práctica, lo regula la Ley del Impuesto sobre la Renta de no Residentes, en especial sus artículos 24 y 25.",
+     "En concreto, vender un inmueble siendo no residente tiene tres consecuencias prácticas. Primero, el comprador te retiene el 3 % del precio y lo ingresa en Hacienda. Segundo, tributas por la ganancia al 19 %, orientativo, mediante el modelo 210. Tercero, necesitas NIE y, si no viajas, un poder. Todo lo demás, el notario, la escritura y el Registro, funciona igual que para un residente."
     ]
    },
    {
@@ -761,7 +761,7 @@
     "h2": "Documentos necesarios: NIE, poder y certificado",
     "type": "list",
     "intro": [
-     "Reúne esto antes de pedir precio. Es lo que el notario va a exigir el día de la firma."
+     "Reúne esto antes de pedir precio. Asimismo, es lo que el notario va a exigir el día de la firma."
     ],
     "items": [
      "<strong>NIE.</strong> Número de identidad de extranjero. Lo necesita cualquier no nacional para firmar y para que Hacienda le identifique. Se pide en el consulado o en una comisaría en España y tarda semanas. Los españoles usan su DNI.",
@@ -777,16 +777,16 @@
     "h2": "La retención del 3 %, el modelo 211 y el modelo 210",
     "type": "steps",
     "intro": [
-     "Ejemplo: heredas un tercio de un piso de 180.000 euros en Sevilla y vives en Francia. El valor proporcional de tu cuota es de 60.000 euros."
+     "Además, ejemplo: heredas un tercio de un piso de 180.000 euros en Sevilla y vives en Francia. De hecho, en la práctica, el valor proporcional de tu cuota es de 60.000 euros."
     ],
     "items": [
      {
       "t": "Oferta y precio",
-      "p": "Recibes una oferta de 36.000 euros, el 60 % del valor proporcional. Aceptas y firmas el poder en el consulado."
+      "p": "En concreto, recibes una oferta de 36.000 euros, el 60 % del valor proporcional. Asimismo, aceptas y firmas el poder en el consulado."
      },
      {
       "t": "Retención en la firma",
-      "p": "El comprador retiene 1.080 euros, el 3 %, y te transfiere 34.920 euros. En el mes siguiente presenta el modelo 211 y te envía la copia."
+      "p": "Además, el comprador retiene 1.080 euros, el 3 %, y te transfiere 34.920 euros. En el mes siguiente presenta el modelo 211 y te envía la copia."
      },
      {
       "t": "Tu modelo 210",
@@ -811,7 +811,7 @@
      },
      {
       "t": "Preparamos el poder",
-      "p": "Te enviamos el borrador con las facultades exactas que pedirá el notario: vender la cuota concreta, cobrar el precio y aceptar la retención. Lo firmas en el consulado o ante un notario local y lo apostillas."
+      "p": "En concreto, te enviamos el borrador con las facultades exactas que pedirá el notario: vender la cuota concreta, cobrar el precio y aceptar la retención. Asimismo, lo firmas en el consulado o ante un notario local y lo apostillas."
      },
      {
       "t": "Firma en notaría española",
@@ -823,7 +823,7 @@
      }
     ],
     "outro": [
-     "Vender un inmueble siendo no residente no exige volver a España ni una sola vez. Lo que sí exige es orden en los papeles, y de eso nos encargamos."
+     "De hecho, en la práctica, vender un inmueble siendo no residente no exige volver a España ni una sola vez. Lo que sí exige es orden en los papeles, y de eso nos encargamos."
     ]
    },
    {
@@ -929,7 +929,7 @@
     "h2": "Qué es un notario y qué comprueba antes de firmar",
     "type": "text",
     "intro": [
-     "El notario es un funcionario público y, a la vez, un profesional del derecho. Su función está regulada en la Ley del Notariado y en el Reglamento Notarial. Da fe de lo que ve y oye: quiénes firman, que lo hacen libremente y que entienden lo que firman. Además, redacta la escritura para que sea válida e inscribible.",
+     "Además, el notario es un funcionario público y, a la vez, un profesional del derecho. De hecho, en la práctica, su función está regulada en la Ley del Notariado y en el Reglamento Notarial. En concreto, da fe de lo que ve y oye: quiénes firman, que lo hacen libremente y que entienden lo que firman. Además, redacta la escritura para que sea válida e inscribible.",
      "Antes de autorizar la venta de una cuota, el notario pide una nota simple actualizada al Registro para comprobar la titularidad y las cargas. También verifica la identidad y la capacidad de las partes, el pago del IBI, el certificado de deudas con la comunidad de propietarios, el certificado energético, la situación de ocupación y los medios de pago. Por último, advierte a las partes de sus obligaciones fiscales y del derecho de retracto de los demás copropietarios."
     ]
    },
@@ -938,8 +938,8 @@
     "h2": "Quién elige el notario y quién lo paga",
     "type": "text",
     "intro": [
-     "La elección del notario es libre y corresponde, por regla general, a quien paga la mayor parte de los gastos. En las compraventas de vivienda suele elegir el comprador. Sin embargo, nada impide que las partes acuerden otra cosa.",
-     "El artículo 1455 del Código Civil dice que los gastos de la escritura matriz son del vendedor y los de la primera copia, del comprador, salvo pacto en contrario. En la práctica, casi siempre se pacta que pague el comprador. En nuestras compras de cuotas lo hacemos así: tú eliges el notario cerca de tu casa y nosotros pagamos la escritura, las copias y la gestión de la inscripción. Tú solo asumes tus impuestos como vendedor."
+     "La elección del notario es libre y corresponde, por regla general, a quien paga la mayor parte de los gastos. Asimismo, en las compraventas de vivienda suele elegir el comprador. Sin embargo, nada impide que las partes acuerden otra cosa.",
+     "Además, el artículo 1455 del Código Civil dice que los gastos de la escritura matriz son del vendedor y los de la primera copia, del comprador, salvo pacto en contrario. De hecho, en la práctica, en la práctica, casi siempre se pacta que pague el comprador. En nuestras compras de cuotas lo hacemos así: tú eliges el notario cerca de tu casa y nosotros pagamos la escritura, las copias y la gestión de la inscripción. Tú solo asumes tus impuestos como vendedor."
     ]
    },
    {
@@ -947,7 +947,7 @@
     "h2": "Cuánto cobra: el arancel notarial con un ejemplo",
     "type": "table",
     "intro": [
-     "Los honorarios están fijados por el Real Decreto 1426/1989 y son iguales en toda España. Dependen del valor declarado y del número de folios. Ejemplo para una cuota vendida por 54.000 euros."
+     "Los honorarios están fijados por el Real Decreto 1426/1989 y son iguales en toda España. En concreto, dependen del valor declarado y del número de folios. Ejemplo para una cuota vendida por 54.000 euros."
     ],
     "items": [
      [
@@ -972,7 +972,7 @@
      ]
     ],
     "outro": [
-     "Para una extinción de condominio el cálculo cambia, porque la base es el valor total de lo adjudicado. Lo explicamos con cifras en nuestra entrada sobre cuánto cobra el notario en la extinción de condominio."
+     "Para una extinción de condominio el cálculo cambia, porque la base es el valor total de lo adjudicado. Asimismo, lo explicamos con cifras en nuestra entrada sobre cuánto cobra el notario en la extinción de condominio."
     ]
    },
    {
@@ -982,7 +982,7 @@
     "items": [
      {
       "t": "Envío previo de la documentación",
-      "p": "Una semana antes, la notaría recibe DNI, título de propiedad, recibo del IBI, certificado de la comunidad y certificado energético. Prepara el borrador y lo envía a las partes."
+      "p": "Además, una semana antes, la notaría recibe DNI, título de propiedad, recibo del IBI, certificado de la comunidad y certificado energético. Prepara el borrador y lo envía a las partes."
      },
      {
       "t": "Lectura y advertencias",
@@ -1795,11 +1795,11 @@
      },
      {
       "t": "Ante notario extranjero",
-      "p": "Firmas ante un notario de tu país y después apostillas el documento con la Apostilla de La Haya. Si no está en español, hace falta traducción jurada. Con países fuera del convenio, legalización diplomática."
+      "p": "Firmas ante un notario de tu país y después apostillas el documento con la Apostilla de La Haya. Si no está en español, hace falta traducción jurada. Además, con países fuera del convenio, legalización diplomática."
      },
      {
       "t": "Envío al apoderado",
-      "p": "El original llega a España por mensajería. El notario que autorice la venta lo revisa y comprueba que las facultades alcanzan para la operación concreta."
+      "p": "El original llega a España por mensajería. De hecho, en la práctica, el notario que autorice la venta lo revisa y comprueba que las facultades alcanzan para la operación concreta."
      }
     ]
    },
@@ -1808,7 +1808,7 @@
     "h2": "Cuánto cuesta un poder notarial para vender y cuánto tarda",
     "type": "table",
     "intro": [
-     "Cifras orientativas. La traducción jurada y los envíos pueden encarecer la vía extranjera."
+     "En concreto, cifras orientativas. Asimismo, la traducción jurada y los envíos pueden encarecer la vía extranjera."
     ],
     "items": [
      [
@@ -1838,7 +1838,7 @@
     "h2": "Hasta cuándo vale y cómo se revoca",
     "type": "text",
     "intro": [
-     "El poder dura hasta que lo revoques, hasta que se cumpla el plazo que le hayas puesto o hasta tu fallecimiento, según el artículo 1732 del Código Civil. Puedes revocarlo en cualquier momento ante cualquier notario, que lo comunica al que lo autorizó y al Registro de poderes revocados. Después debes notificarlo al apoderado para que no lo use.",
+     "Además, el poder dura hasta que lo revoques, hasta que se cumpla el plazo que le hayas puesto o hasta tu fallecimiento, según el artículo 1732 del Código Civil. De hecho, en la práctica, puedes revocarlo en cualquier momento ante cualquier notario, que lo comunica al que lo autorizó y al Registro de poderes revocados. Después debes notificarlo al apoderado para que no lo use.",
      "Nuestra recomendación: pon plazo, por ejemplo seis meses, y precio mínimo. Así el poder notarial para vender se agota solo y nadie puede usarlo fuera del encargo. Si cambias de opinión antes de la firma, lo revocas y la venta no se produce."
     ]
    },
@@ -1853,7 +1853,7 @@
      },
      {
       "t": "Poder especial para vender",
-      "p": "El que pide cualquier notaría para una compraventa. Identifica la finca y las facultades concretas. Es el que te preparamos."
+      "p": "En concreto, el que pide cualquier notaría para una compraventa. Asimismo, identifica la finca y las facultades concretas. Es el que te preparamos."
      },
      {
       "t": "Poder preventivo",

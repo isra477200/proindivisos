@@ -23,15 +23,19 @@ function zp_llms_line( $id ) {
 	return '- [' . $t . '](' . get_permalink( $id ) . ')' . ( $d !== '' ? ': ' . $d : '' ) . "\n";
 }
 function zp_llms_build() {
-	$home = 23; $hub = 55; $contacto = 57; $legales = [ 59, 61, 63 ]; $guias = [ 51, 43, 53, 617, 620, 623, 587, 590, 593, 596 ];
+	$home = 23; $hub = 55; $dicp = get_page_by_path( 'diccionario-del-proindiviso' ); $dic = $dicp ? (int) $dicp->ID : 0; $contacto = 57; $legales = [ 59, 61, 63 ]; $guias = [ 51, 43, 53, 617, 620, 623, 587, 590, 593, 596 ];
 	$o  = "# Zona Proindiviso\n\n";
 	$o .= "> Compramos tu parte de un piso, casa, local o terreno en proindiviso en toda España: pago al contado en notaría, oferta por escrito en 48 horas, sin necesidad del acuerdo del resto de copropietarios y con los gastos a nuestro cargo. También compramos derechos hereditarios y cuotas con hipoteca, inquilino u ocupante.\n\n";
 	$o .= "Sitio: " . home_url( '/' ) . " · Idioma: español (España) · Contacto: " . get_permalink( $contacto ) . "\n\n";
 	$o .= "## Qué hacemos\n\n" . zp_llms_line( $home );
-	$int = get_posts( [ 'post_type' => 'page', 'post_status' => 'publish', 'posts_per_page' => -1, 'post_parent' => 0, 'post__not_in' => array_merge( [ $home, $hub, $contacto, 680, 1359 ], $legales, $guias ), 'orderby' => 'menu_order title', 'order' => 'ASC' ] );
+	$int = get_posts( [ 'post_type' => 'page', 'post_status' => 'publish', 'posts_per_page' => -1, 'post_parent' => 0, 'post__not_in' => array_merge( [ $home, $hub, $contacto, 680, 1359, $dic ], $legales, $guias ), 'orderby' => 'menu_order title', 'order' => 'ASC' ] );
 	foreach ( $int as $p ) { $o .= zp_llms_line( $p->ID ); }
 	$o .= "\n## Guías\n\n";
 	foreach ( $guias as $id ) { if ( get_post_status( $id ) === 'publish' ) { $o .= zp_llms_line( $id ); } }
+	if ( $dic && get_post_status( $dic ) === 'publish' ) {
+		$o .= "\n## Diccionario del proindiviso (un término por página)\n\n" . zp_llms_line( $dic );
+		foreach ( get_posts( [ 'post_type' => 'page', 'post_status' => 'publish', 'posts_per_page' => -1, 'post_parent' => $dic, 'orderby' => 'title', 'order' => 'ASC' ] ) as $t ) { $o .= zp_llms_line( $t->ID ); }
+	}
 	$o .= "\n## Dónde compramos (comunidades y provincias; cada provincia enlaza a sus municipios)\n\n" . zp_llms_line( $hub );
 	$ccaa = get_posts( [ 'post_type' => 'page', 'post_status' => 'publish', 'posts_per_page' => -1, 'post_parent' => $hub, 'orderby' => 'title', 'order' => 'ASC' ] );
 	$uni = [ 'madrid', 'murcia', 'asturias', 'cantabria', 'navarra', 'la-rioja', 'baleares', 'ceuta', 'melilla' ]; // uniprovinciales: sus hijas son ciudades, no provincias

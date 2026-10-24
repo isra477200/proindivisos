@@ -390,7 +390,7 @@
     "h2": "Ejemplo práctico: una herencia y una cuota vendida",
     "type": "text",
     "intro": [
-     "Tres hermanos heredan un piso de 180.000 euros y presentan el modelo 650 con una valoración de 150.000 euros. El Registro inscribe la herencia y extiende la nota de afección fiscal por el impuesto de sucesiones. Hacienda tiene cuatro años para comprobar el valor. Si lo eleva, los hermanos pagan la diferencia.",
+     "Tres hermanos heredan un piso de 180.000 euros y presentan el modelo 650 con una valoración de 150.000 euros. El Registro inscribe la herencia y extiende la nota de afección por el impuesto de sucesiones. Hacienda tiene cuatro años para comprobar el valor. Si lo eleva, los hermanos pagan la diferencia.",
      "Uno de ellos nos vende su tercio un año después. Antes de firmar comprobamos el modelo 650 y la carta de pago de cada hermano. Como el impuesto está liquidado, el riesgo es bajo y no descontamos nada por la afección. Sin embargo, si hubiera un impuesto sin pagar, lo tendríamos en cuenta en el precio. También podríamos retener esa cantidad en notaría."
     ]
    },
@@ -399,8 +399,8 @@
     "h2": "Cómo afecta la nota de afección fiscal al comprador de tu cuota",
     "type": "text",
     "intro": [
-     "Para el comprador de una cuota, la nota de afección fiscal es una carga potencial, no una deuda cierta. Lo que le preocupa es si el impuesto que garantiza está pagado y si la liquidación es correcta. Por eso, al vender tu parte te pediremos la copia del modelo 650 o 600 y el justificante de pago.",
-     "A veces la nota de afección fiscal cubre un impuesto de otro comunero, por ejemplo del hermano que no liquidó su sucesión. En ese caso la finca entera responde. La solución habitual es retener en notaría el importe estimado hasta que se acredite el pago o caduque la nota. Nosotros gestionamos esa retención sin coste para ti."
+     "Para el comprador de una cuota, la nota de afección es una carga potencial, no una deuda cierta. Lo que le preocupa es si el impuesto que garantiza está pagado y si la liquidación es correcta. Por eso, al vender tu parte te pediremos la copia del modelo 650 o 600 y el justificante de pago.",
+     "A veces la nota de afección cubre un impuesto de otro comunero, por ejemplo del hermano que no liquidó su sucesión. En ese caso la finca entera responde. La solución habitual es retener en notaría el importe estimado hasta que se acredite el pago o caduque la nota. Nosotros gestionamos esa retención sin coste para ti."
     ]
    },
    {
@@ -408,7 +408,7 @@
     "h2": "Afección fiscal frente a otras cargas registrales",
     "type": "table",
     "intro": [
-     "La nota de afección fiscal se confunde con otras cargas. Así se diferencian:"
+     "La nota de afección se confunde con otras cargas. Así se diferencian:"
     ],
     "items": [
      [
@@ -433,7 +433,7 @@
      ]
     ],
     "outro": [
-     "De todas ellas, la nota de afección fiscal es la más común y la menos problemática para vender tu cuota."
+     "De todas ellas, la nota de afección es la más común y la menos problemática para vender tu cuota."
     ]
    },
    {
@@ -520,8 +520,8 @@
     "h2": "Qué son los actos jurídicos documentados",
     "type": "text",
     "intro": [
-     "Los actos jurídicos documentados son una de las tres modalidades del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, regulado por el Real Decreto Legislativo 1/1993. Gravan los documentos notariales, mercantiles y administrativos. En el mundo inmobiliario interesa la cuota variable sobre documentos notariales. Se aplica a las primeras copias de escrituras con objeto valuable, inscribibles en el Registro y no sujetas a ITP ni a sucesiones.",
-     "Es un impuesto cedido a las comunidades autónomas. Por eso cada una fija su tipo y sus bonificaciones. Además, hay una cuota fija por el papel timbrado de 0,30 euros por pliego, que paga la notaría y repercute en la factura. Cuando hablamos de actos jurídicos documentados en un proindiviso, nos referimos casi siempre a la cuota variable sobre la escritura."
+     "Los actos jurídicos documentados son una de las tres modalidades del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, regulado por el Real Decreto Legislativo 1/1993. Además, gravan los documentos notariales, mercantiles y administrativos. De hecho, en la práctica, en el mundo inmobiliario interesa la cuota variable sobre documentos notariales. En concreto, se aplica a las primeras copias de escrituras con objeto valuable, inscribibles en el Registro y no sujetas a ITP ni a sucesiones.",
+     "Asimismo, es un impuesto cedido a las comunidades autónomas. Por eso cada una fija su tipo y sus bonificaciones. Además, hay una cuota fija por el papel timbrado de 0,30 euros por pliego, que paga la notaría y repercute en la factura. Cuando hablamos de actos jurídicos documentados en un proindiviso, nos referimos casi siempre a la cuota variable sobre la escritura."
     ]
    },
    {
@@ -529,37 +529,37 @@
     "h2": "Cuándo se pagan los actos jurídicos documentados en un proindiviso",
     "type": "cards",
     "intro": [
-     "En una comunidad de bienes, los actos jurídicos documentados aparecen en estas operaciones:"
+     "Además, en una comunidad de bienes, los actos jurídicos documentados aparecen en estas operaciones:"
     ],
     "items": [
      {
       "t": "Extinción de condominio",
-      "p": "Uno se queda el inmueble y compensa en dinero al resto. No hay ITP porque no es una transmisión, pero la escritura tributa por AJD sobre el valor total del bien, según el criterio más extendido.",
+      "p": "De hecho, en la práctica, uno se queda el inmueble y compensa en dinero al resto. No hay ITP porque no es una transmisión, pero la escritura tributa por AJD sobre el valor total del bien, según el criterio más extendido.",
       "url": "/extincion-de-condominio/impuestos-y-notario/",
       "cta": "Impuestos de la extinción →"
      },
      {
       "t": "Hipoteca para compensar",
-      "p": "Si el adjudicatario pide un préstamo hipotecario para pagar a los demás, la constitución de hipoteca también devenga AJD. Desde 2018 lo paga el banco.",
+      "p": "Si el adjudicatario pide un préstamo hipotecario para pagar a los demás, la constitución de hipoteca también devenga AJD. En concreto, desde 2018 lo paga el banco.",
       "url": "/blog/hipoteca-para-extincion-de-condominio/",
       "cta": "Hipoteca para la extinción →"
      },
      {
       "t": "División horizontal o segregación",
-      "p": "Convertir una casa en dos viviendas registrales independientes para repartir el proindiviso exige escritura inscribible. Tributa por AJD sobre el valor de la finca."
+      "p": "Asimismo, convertir una casa en dos viviendas registrales independientes para repartir el proindiviso exige escritura inscribible. Tributa por AJD sobre el valor de la finca."
      },
      {
       "t": "Cancelación de hipoteca",
-      "p": "Está sujeta pero exenta. Solo se paga notaría y Registro. Conviene hacerla antes de vender la cuota para que la nota simple salga limpia."
+      "p": "Está sujeta pero exenta. Además, solo se paga notaría y Registro. Conviene hacerla antes de vender la cuota para que la nota simple salga limpia."
      }
     ]
    },
    {
-    "overline": "Tipos",
+    "overline": "Por comunidad",
     "h2": "Tipos de actos jurídicos documentados por comunidad autónoma",
     "type": "table",
     "intro": [
-     "Tipos orientativos de la cuota variable. Compruébalo con tu comunidad, porque cambian con frecuencia:"
+     "De hecho, en la práctica, tipos orientativos de la cuota variable. Compruébalo con tu comunidad, porque cambian con frecuencia:"
     ],
     "items": [
      [
@@ -604,7 +604,7 @@
     "h2": "Ejemplo con un piso de 180.000 euros entre dos hermanos",
     "type": "text",
     "intro": [
-     "Dos hermanos heredan un piso de 180.000 euros en Valencia. Uno se lo queda y paga 90.000 euros al otro. La escritura de extinción de condominio tributa por actos jurídicos documentados al 1,5 % sobre 180.000 euros: 2.700 euros. Los paga el hermano que se queda el piso. Si la base fuera solo el exceso, pagaría 1.350 euros, pero la mayoría de comunidades liquidan sobre el total.",
+     "En concreto, dos hermanos heredan un piso de 180.000 euros en Valencia. Asimismo, uno se lo queda y paga 90.000 euros al otro. La escritura de extinción de condominio tributa por actos jurídicos documentados al 1,5 % sobre 180.000 euros: 2.700 euros. Además, los paga el hermano que se queda el piso. Si la base fuera solo el exceso, pagaría 1.350 euros, pero la mayoría de comunidades liquidan sobre el total.",
      "Si en lugar de eso el hermano que sale nos vende su mitad, no hay actos jurídicos documentados. Nosotros pagamos el ITP como compradores y los gastos de notaría. Él tributa solo por la ganancia en IRPF, si la hay. Por eso vender la cuota es la vía más ligera en impuestos para quien se marcha."
     ]
    },
@@ -1840,8 +1840,8 @@
     "h2": "Qué es la referencia catastral y cómo se compone",
     "type": "text",
     "intro": [
-     "La referencia catastral es el código alfanumérico que identifica de forma única cada bien inmueble en el Catastro Inmobiliario, el registro administrativo que depende del Ministerio de Hacienda. Tiene 20 caracteres. Los 14 primeros identifican la parcela o el edificio. Después vienen cuatro que señalan el piso, local o garaje concreto dentro de él. Por último, dos dígitos de control.",
-     "La regula el texto refundido de la Ley del Catastro Inmobiliario. Desde 1996 es obligatorio hacerla constar en escrituras, contratos de alquiler y en cualquier documento que afecte a un inmueble. Además, el notario la comprueba antes de autorizar la venta y advierte si no coincide con la descripción de la finca."
+     "Además, la referencia catastral es el código alfanumérico que identifica de forma única cada bien inmueble en el Catastro Inmobiliario, el registro administrativo que depende del Ministerio de Hacienda. De hecho, en la práctica, tiene 20 caracteres. En concreto, los 14 primeros identifican la parcela o el edificio. Después vienen cuatro que señalan el piso, local o garaje concreto dentro de él. Por último, dos dígitos de control.",
+     "Asimismo, la regula el texto refundido de la Ley del Catastro Inmobiliario. Además, desde 1996 es obligatorio hacerla constar en escrituras, contratos de alquiler y en cualquier documento que afecte a un inmueble. Además, el notario la comprueba antes de autorizar la venta y advierte si no coincide con la descripción de la finca."
     ]
    },
    {
@@ -1849,7 +1849,7 @@
     "h2": "Dónde encontrar la referencia catastral de tu inmueble",
     "type": "list",
     "intro": [
-     "No hace falta pedir nada a nadie. La referencia catastral está en varios sitios:"
+     "De hecho, en la práctica, no hace falta pedir nada a nadie. En concreto, la referencia catastral está en varios sitios:"
     ],
     "items": [
      "<strong>Recibo del IBI.</strong> Aparece siempre, junto al valor catastral. Es el sitio más rápido si pagas el impuesto.",
@@ -1864,16 +1864,16 @@
     "h2": "Para qué sirve al vender una parte de un piso",
     "type": "cards",
     "intro": [
-     "En la venta de una cuota indivisa, el código catastral cumple tres funciones:"
+     "Asimismo, en la venta de una cuota indivisa, el código catastral cumple tres funciones:"
     ],
     "items": [
      {
       "t": "Identificar sin error qué vendes",
-      "p": "Un edificio puede tener diez pisos con la misma calle y número. La referencia señala exactamente cuál y evita confusiones en la oferta y en la escritura."
+      "p": "Además, un edificio puede tener diez pisos con la misma calle y número. De hecho, en la práctica, la referencia señala exactamente cuál y evita confusiones en la oferta y en la escritura."
      },
      {
       "t": "Calcular impuestos",
-      "p": "Da acceso al valor catastral y al valor de referencia, que son la base mínima del ITP para el comprador y sirven para la plusvalía municipal y el IBI.",
+      "p": "En concreto, da acceso al valor catastral y al valor de referencia, que son la base mínima del ITP para el comprador y sirven para la plusvalía municipal y el IBI.",
       "url": "/blog/valor-de-referencia-catastral-venta-de-tu-parte/",
       "cta": "Valor de referencia y venta de tu parte →"
      },

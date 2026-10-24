@@ -196,7 +196,7 @@
     "items": [
      {
       "t": "Número de finca",
-      "p": "Es el número que la finca registral recibe dentro de su Registro concreto, por ejemplo la finca 12.345 de Alcalá de Henares número 2. Se repite en otros registros, así que siempre va junto al nombre del Registro y la sección."
+      "p": "Es el número que la finca recibe dentro de su Registro concreto, por ejemplo la finca 12.345 de Alcalá de Henares número 2. Se repite en otros registros, así que siempre va junto al nombre del Registro y la sección."
      },
      {
       "t": "IDUFIR",
@@ -204,7 +204,7 @@
      },
      {
       "t": "CRU",
-      "p": "Código Registral Único, también de 14 dígitos. Sustituye al IDUFIR y es el que aparece hoy en toda nota simple y escritura. Con el CRU localizamos la finca registral en segundos."
+      "p": "Código Registral Único, también de 14 dígitos. Sustituye al IDUFIR y es el que aparece hoy en toda nota simple y escritura. Con el CRU localizamos la finca en segundos."
      },
      {
       "t": "Referencia catastral",
@@ -242,14 +242,14 @@
     "h2": "Por qué la finca registral importa cuando vendes tu cuota",
     "type": "text",
     "intro": [
-     "Cuando compramos una cuota, lo primero que pedimos es la nota simple de la finca registral. Nos dice quién es dueño de qué, si hay hipoteca o embargo y si existe alguna anotación que afecte al precio. Sin ese dato no podemos dar una oferta seria.",
-     "También evita errores caros. Hay herencias con tres pisos en el mismo edificio y los hermanos no saben cuál es cuál. Y hay garajes que forman finca registral independiente del piso, con lo que se pueden vender por separado. En cambio, si el garaje es anejo inseparable, va con la vivienda.",
+     "Cuando compramos una cuota, lo primero que pedimos es la nota simple de la finca. Nos dice quién es dueño de qué, si hay hipoteca o embargo y si existe alguna anotación que afecte al precio. Sin ese dato no podemos dar una oferta seria.",
+     "También evita errores caros. Hay herencias con tres pisos en el mismo edificio y los hermanos no saben cuál es cuál. Y hay garajes que forman finca independiente del piso, con lo que se pueden vender por separado. En cambio, si el garaje es anejo inseparable, va con la vivienda.",
      "Si tu casa no está inscrita, no te preocupes: te decimos qué hace falta. A veces basta con inscribir la herencia; otras hay que reanudar el tracto o abrir un expediente de dominio. Lo valoramos caso por caso y, si la operación es viable, asumimos la gestión."
     ]
    },
    {
     "overline": "Comparativa",
-    "h2": "Finca registral frente a términos parecidos",
+    "h2": "Comparada con términos parecidos",
     "type": "table",
     "items": [
      [
@@ -266,7 +266,7 @@
      ],
      [
       "Nota simple",
-      "El extracto informativo del folio de la finca registral: titulares, cuotas, cargas y descripción. Es lo que pedimos para hacer una oferta."
+      "El extracto informativo del folio de la finca: titulares, cuotas, cargas y descripción. Es lo que pedimos para hacer una oferta."
      ],
      [
       "Título de propiedad",
@@ -296,7 +296,7 @@
    ],
    [
     "¿Es lo mismo la finca registral que la referencia catastral?",
-    "No. La finca registral la define el Registro de la Propiedad y acredita quién es dueño. La referencia catastral la asigna Catastro para fines fiscales. Deberían describir el mismo inmueble, pero a veces difieren en superficie o linderos."
+    "No. La finca la define el Registro de la Propiedad y acredita quién es dueño. La referencia catastral la asigna Catastro para fines fiscales. Deberían describir el mismo inmueble, pero a veces difieren en superficie o linderos."
    ],
    [
     "¿Qué pasa si mi casa heredada no tiene finca registral?",
@@ -334,7 +334,7 @@
     "/blog/vender-herencia-sin-escriturar/"
    ]
   ],
-  "cta_title": "Vende tu cuota con la finca registral clara",
+  "cta_title": "Vende tu cuota aunque la finca siga a nombre de otro",
   "cta_text": "Revisamos la nota simple, te damos precio por escrito en 48 horas y firmamos en notaría en semanas. Gastos a nuestro cargo.",
   "yoast_title": "Finca registral: qué es, número de finca, CRU y nota simple",
   "meta_desc": "La finca registral es el folio de cada inmueble en el Registro de la Propiedad. Cómo localizarla con el CRU y por qué la pedimos antes de comprar tu cuota.",

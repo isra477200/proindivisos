@@ -64,12 +64,20 @@ def _plan_subtitulos(spec,kw):
             for k,x in enumerate(it):
                 if top(x.get('t','')): cards[(si,k)]=True
                 elif secw>280 and k==mid: cards[(si,k)]=True; forced_c.add((si,k))
-    faq={}; forced_f=set()
-    for i,(q,_a) in enumerate(spec.get('faqs',[]),1):
-        if top(q): faq[i]=True
-        elif i in (3,5): faq[i]=True; forced_f.add(i)
+    faq={}; forced_f=set(); qs={i:q for i,(q,_a) in enumerate(spec.get('faqs',[]),1)}
+    # dos cortes fijos en el bloque FAQ (Yoast: subtítulo cada 300 palabras): preguntas 3 y 5; si alguna refleja el tema y hay una
+    # vecina que no, se usa la vecina para no inflar el ratio
+    for base in (3,5):
+        if base not in qs: continue
+        pick=base
+        if top(qs[base]):
+            for alt in (base-1,base+1):
+                if alt in qs and alt not in forced_f and not top(qs[alt]): pick=alt; break
+        faq[pick]=True; forced_f.add(pick)
+    for i,q in qs.items():
+        if top(q) and i not in forced_f: faq[i]=True
     def ratio():
-        tot=len(h2)+len(cards)+len(faq); m=sum(1 for h in h2 if top(h))+sum(1 for k in cards if k not in forced_c)+sum(1 for i in faq if i not in forced_f)
+        tot=len(h2)+len(cards)+len(faq); m=sum(1 for h in h2 if top(h))+sum(1 for k in cards if k not in forced_c)+sum(1 for i in faq if top(qs[i]))
         return (m/tot if tot else 0),m,tot
     r,m,tot=ratio()
     for i in sorted([i for i in faq if i not in forced_f],reverse=True):

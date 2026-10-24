@@ -94,6 +94,11 @@ SPECS['condominio']={"slug":"simulador-extincion-de-condominio","title":"Simulad
 ("¿Qué pasa con la hipoteca en la extinción de condominio?","La hipoteca no desaparece: quien se queda tiene que asumirla entera y el banco debe liberar al que sale mediante una novación. Si el banco no acepta, la extinción se complica, y es una de las razones por las que muchos copropietarios acaban vendiendo su parte.")],
 "related":[("Extinción de condominio","/extincion-de-condominio/"),("Impuestos y notario en la extinción","/extincion-de-condominio/impuestos-y-notario/"),("Extinción de condominio con hipoteca","/extincion-de-condominio/hipoteca/"),("Cuánto vale mi parte de un piso","/cuanto-vale-mi-parte-de-un-piso/"),("División de cosa común","/division-de-cosa-comun/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/")],
 "cta_title":"Gastos de extinción de condominio o una oferta por tu parte: tú eliges"}
+# ajustes de Yoast (palabras de transición y descripción ≤ 155) generados con transfix.py: blog/calculadoras_ajustes.json
+_AJ=os.path.join(os.path.dirname(os.path.abspath(__file__)),'blog','calculadoras_ajustes.json')
+if os.path.exists(_AJ):
+    for _k,_v in json.load(open(_AJ)).items():
+        if _k in SPECS: SPECS[_k]['sections']=_v['sections']; SPECS[_k]['faqs']=[tuple(x) for x in _v['faqs']]; SPECS[_k]['yd']=_v['yd']
 if __name__=='__main__':
     only=sys.argv[1:]
     for key,s in SPECS.items():

@@ -11,6 +11,7 @@ def html_of(s):
     pc,pf=_plan_subtitulos(s,kw)
     for si,sec in enumerate(s['sections']):
         t=sec.get('type','text')
+        if sec.get('overline'): h.append(f"<p>{sec['overline']}</p>")
         if sec.get('h2'): h.append(f"<h2>{sec['h2']}</h2>")
         for p in (sec.get('intro',[]) if isinstance(sec.get('intro'),list) else [sec.get('intro','')]):
             if p: h.append(f"<p>{p}</p>")

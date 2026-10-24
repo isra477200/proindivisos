@@ -29,15 +29,15 @@
     "h2": "Condominio y propiedad horizontal no son lo mismo",
     "type": "list",
     "intro": [
-     "Mucha gente confunde el condominio con la comunidad de propietarios de su edificio. Son figuras distintas, aunque en otros países de habla hispana «condominio» sea el nombre del edificio de pisos."
+     "Mucha gente confunde la copropiedad con la comunidad de propietarios de su edificio. Son figuras distintas, aunque en otros países de habla hispana «condominio» sea el nombre del edificio de pisos."
     ],
     "items": [
      "<strong>Condominio.</strong> Un solo bien con varios dueños por cuotas. Lo regula el Código Civil. Además, cualquiera puede pedir la división en cualquier momento.",
      "<strong>Propiedad horizontal.</strong> Un edificio dividido en pisos privativos con elementos comunes. Lo regula la Ley de Propiedad Horizontal. Nadie puede pedir que se divida el edificio.",
-     "<strong>Cuota de participación.</strong> En propiedad horizontal sirve para repartir gastos y votos. En un condominio, la cuota es la propiedad misma."
+     "<strong>Cuota de participación.</strong> En propiedad horizontal sirve para repartir gastos y votos. En una copropiedad, la cuota es la propiedad misma."
     ],
     "outro": [
-     "Pueden convivir. Por ejemplo, tres hermanos heredan un piso en un edificio: el piso está en régimen de propiedad horizontal y, además, entre ellos forman un condominio."
+     "Pueden convivir. Por ejemplo, tres hermanos heredan un piso en un edificio: el piso está en régimen de propiedad horizontal y, además, entre ellos forman una copropiedad."
     ]
    },
    {
@@ -62,7 +62,7 @@
      },
      {
       "t": "Se extingue el condominio",
-      "p": "El condominio acaba cuando un solo dueño se queda con el 100 %, cuando el bien se vende a un extraño o cuando se divide materialmente. Mientras tanto, la cuota de cada uno sigue siendo suya."
+      "p": "La copropiedad acaba cuando un solo dueño se queda con el 100 %, cuando el bien se vende a un extraño o cuando se divide materialmente. Mientras tanto, la cuota de cada uno sigue siendo suya."
      }
     ]
    },
@@ -87,7 +87,7 @@
      ],
      [
       "Proindiviso",
-      "Es exactamente lo mismo que el condominio. Es la palabra más usada en escrituras y en anuncios de venta de cuotas."
+      "Es exactamente lo mismo que la copropiedad. Es la palabra más usada en escrituras y en anuncios de venta de cuotas."
      ],
      [
       "Comunidad de bienes",
@@ -95,7 +95,7 @@
      ],
      [
       "Comunidad hereditaria",
-      "El condominio que nace de una herencia antes de la partición. Recae sobre el conjunto de bienes, no sobre un bien concreto."
+      "La copropiedad que nace de una herencia antes de la partición. Recae sobre el conjunto de bienes, no sobre un bien concreto."
      ],
      [
       "Propiedad horizontal",
@@ -194,9 +194,9 @@
     "h2": "Qué es una cuota indivisa y dónde la regula el Código Civil",
     "type": "text",
     "intro": [
-     "La cuota indivisa es la medida de lo que te pertenece en un bien compartido. Se expresa como fracción o porcentaje: la mitad, un tercio, el 25 %. No es una habitación ni una planta. Es una parte abstracta de todo el inmueble.",
-     "El Código Civil la regula dentro de la comunidad de bienes, en los artículos 392 a 406. El artículo 393 presume que las cuotas son iguales mientras no se pruebe lo contrario. Además, fija que beneficios y cargas se reparten en proporción a cada cuota.",
-     "En el Registro de la Propiedad, la cuota indivisa aparece junto al nombre de cada titular. Por ejemplo: «una tercera parte indivisa del pleno dominio». Esa inscripción es la prueba de tu derecho."
+     "Además, la cuota indivisa es la medida de lo que te pertenece en un bien compartido. Se expresa como fracción o porcentaje: la mitad, un tercio, el 25 %. De hecho, en la práctica, no es una habitación ni una planta. En concreto, es una parte abstracta de todo el inmueble.",
+     "Asimismo, el Código Civil la regula dentro de la comunidad de bienes, en los artículos 392 a 406. El artículo 393 presume que las cuotas son iguales mientras no se pruebe lo contrario. Además, fija que beneficios y cargas se reparten en proporción a cada cuota.",
+     "Además, en el Registro de la Propiedad, la cuota indivisa aparece junto al nombre de cada titular. Por ejemplo: «una tercera parte indivisa del pleno dominio». De hecho, en la práctica, esa inscripción es la prueba de tu derecho."
     ]
    },
    {
@@ -213,21 +213,21 @@
      },
      {
       "t": "Te da: cobrar tu parte de las rentas",
-      "p": "Si el inmueble se alquila, los frutos se reparten según la cuota (artículo 393). Quien cobra todo debe rendir cuentas al resto."
+      "p": "Si el inmueble se alquila, los frutos se reparten según la cuota (artículo 393). En concreto, quien cobra todo debe rendir cuentas al resto."
      },
      {
       "t": "Te da: vender, ceder o hipotecar tu parte",
-      "p": "El artículo 399 te permite disponer de tu cuota indivisa sin permiso. Es el derecho que usamos cuando te compramos.",
+      "p": "Asimismo, el artículo 399 te permite disponer de tu cuota indivisa sin permiso. Es el derecho que usamos cuando te compramos.",
       "url": "/vender-proindiviso-sin-avisar/",
       "cta": "Vender sin avisar →"
      },
      {
       "t": "No te da: vender el inmueble entero",
-      "p": "Para vender el bien completo, hipotecarlo o hacer obras importantes hace falta la unanimidad (artículo 397)."
+      "p": "Además, para vender el bien completo, hipotecarlo o hacer obras importantes hace falta la unanimidad (artículo 397)."
      },
      {
       "t": "No te da: echar a otro copropietario",
-      "p": "Tiene el mismo derecho de uso que tú. Solo un juez puede fijar reglas de uso o una compensación."
+      "p": "De hecho, en la práctica, tiene el mismo derecho de uso que tú. En concreto, solo un juez puede fijar reglas de uso o una compensación."
      }
     ]
    },
@@ -236,8 +236,8 @@
     "h2": "Cuánto vale tu parte: ejemplo con un piso de 180.000 €",
     "type": "text",
     "intro": [
-     "Una cuota indivisa vale menos que su proporción matemática. Imagina un piso de 180.000 € con dos hermanos al 50 %. Sobre el papel, cada mitad vale 90.000 €. Sin embargo, nadie paga 90.000 € por entrar en una copropiedad con un desconocido, sin poder usar ni vender el piso completo.",
-     "El mercado profesional paga entre el 40 % y el 70 % del valor proporcional. En el ejemplo, la mitad se vendería entre 36.000 € y 63.000 €. El porcentaje depende de si el piso está vacío u ocupado, de las cargas, de la ciudad y del número de copropietarios.",
+     "Asimismo, una cuota vale menos que su proporción matemática. Además, imagina un piso de 180.000 € con dos hermanos al 50 %. De hecho, en la práctica, sobre el papel, cada mitad vale 90.000 €. Sin embargo, nadie paga 90.000 € por entrar en una copropiedad con un desconocido, sin poder usar ni vender el piso completo.",
+     "En concreto, el mercado profesional paga entre el 40 % y el 70 % del valor proporcional. En el ejemplo, la mitad se vendería entre 36.000 € y 63.000 €. El porcentaje depende de si el piso está vacío u ocupado, de las cargas, de la ciudad y del número de copropietarios.",
      "Si quieres una cifra orientativa para tu caso, usa nuestra calculadora de cuánto vale mi parte de un piso. Después te damos una oferta real por escrito."
     ]
    },
@@ -246,7 +246,7 @@
     "h2": "Cómo se vende sin el permiso de los demás copropietarios",
     "type": "steps",
     "intro": [
-     "Vender una cuota indivisa es una compraventa normal, con dos particularidades: el retracto y el precio."
+     "Vender una cuota es una compraventa normal, con dos particularidades: el retracto y el precio."
     ],
     "items": [
      {
@@ -274,7 +274,7 @@
     "items": [
      [
       "Término",
-      "Diferencia con la cuota indivisa"
+      "Diferencia con la cuota"
      ],
      [
       "Cuota de participación",
@@ -282,7 +282,7 @@
      ],
      [
       "Cuota hereditaria",
-      "Parte de un heredero sobre toda la herencia antes de partirla. Cuando se adjudica un bien concreto, se convierte en cuota indivisa."
+      "Parte de un heredero sobre toda la herencia antes de partirla. Cuando se adjudica un bien concreto, se convierte en cuota."
      ],
      [
       "Derecho hereditario",
@@ -290,11 +290,11 @@
      ],
      [
       "Nuda propiedad",
-      "Propiedad sin el uso, porque otro tiene el usufructo. Una cuota indivisa puede estar en nuda propiedad."
+      "Propiedad sin el uso, porque otro tiene el usufructo. Una cuota puede estar en nuda propiedad."
      ],
      [
       "Proindiviso",
-      "El estado del bien compartido. La cuota indivisa es lo que tiene cada dueño dentro de ese proindiviso."
+      "El estado del bien compartido. La cuota es lo que tiene cada dueño dentro de ese proindiviso."
      ]
     ]
    },
@@ -303,7 +303,7 @@
     "h2": "Te compramos tu parte, con o sin acuerdo",
     "type": "callout",
     "intro": [
-     "No necesitas que los demás estén de acuerdo. Compramos cuotas indivisas de pisos, casas, locales, garajes y terrenos con fondos propios."
+     "No necesitas que los demás estén de acuerdo. Compramos cuotas de pisos, casas, locales, garajes y terrenos con fondos propios."
     ],
     "items": {
      "t": "Pide precio por tu cuota indivisa",
@@ -382,9 +382,9 @@
     "h2": "Cuota de participación: definición y base legal",
     "type": "text",
     "intro": [
-     "La cuota de participación es un porcentaje fijado en el título constitutivo de la propiedad horizontal. Se asigna a cada piso, local, garaje o trastero del edificio. Así, la suma de todas las cuotas es el 100 %.",
-     "La regula el artículo 5 de la Ley de Propiedad Horizontal y el artículo 396 del Código Civil. Para fijarla se tiene en cuenta la superficie útil, la situación interior o exterior del piso y el uso previsible de los servicios comunes. Después, solo se cambia por unanimidad o por sentencia.",
-     "Esta cuota aparece en la escritura de tu piso y en la nota simple. Por ejemplo: «cuota de participación en los elementos comunes: 4,25 %»."
+     "Además, la cuota de participación es un porcentaje fijado en el título constitutivo de la propiedad horizontal. De hecho, en la práctica, se asigna a cada piso, local, garaje o trastero del edificio. Así, la suma de todas las cuotas es el 100 %.",
+     "En concreto, la regula el artículo 5 de la Ley de Propiedad Horizontal y el artículo 396 del Código Civil. Asimismo, para fijarla se tiene en cuenta la superficie útil, la situación interior o exterior del piso y el uso previsible de los servicios comunes. Después, solo se cambia por unanimidad o por sentencia.",
+     "Además, esta cuota aparece en la escritura de tu piso y en la nota simple. Por ejemplo: «cuota de participación en los elementos comunes: 4,25 %»."
     ]
    },
    {
@@ -392,7 +392,7 @@
     "h2": "Para qué sirve la cuota de participación en un edificio",
     "type": "list",
     "intro": [
-     "La cuota de participación tiene tres funciones principales dentro de la comunidad de propietarios."
+     "De hecho, en la práctica, la cuota de participación tiene tres funciones principales dentro de la comunidad de propietarios."
     ],
     "items": [
      "<strong>Repartir gastos.</strong> Las cuotas mensuales de la comunidad y las derramas se pagan en proporción a la cuota de participación, salvo que los estatutos digan otra cosa.",
@@ -408,8 +408,8 @@
     "h2": "La confusión más habitual con la cuota indivisa",
     "type": "text",
     "intro": [
-     "Son dos cuotas distintas que conviven en el mismo inmueble. La cuota de participación mide lo que tu piso representa dentro del edificio. En cambio, la cuota indivisa mide lo que tú tienes dentro de tu piso cuando lo compartes con otros.",
-     "El error típico es pensar que, al heredar un piso con dos hermanos, cada uno tiene «la mitad de la cuota de participación». Sin embargo, no es así. El piso sigue teniendo su 4,25 % en el edificio; lo que cada hermano tiene es el 50 % indiviso del piso.",
+     "En concreto, son dos cuotas distintas que conviven en el mismo inmueble. Asimismo, la cuota mide lo que tu piso representa dentro del edificio. En cambio, la cuota indivisa mide lo que tú tienes dentro de tu piso cuando lo compartes con otros.",
+     "Además, el error típico es pensar que, al heredar un piso con dos hermanos, cada uno tiene «la mitad de la cuota». Sin embargo, no es así. De hecho, en la práctica, el piso sigue teniendo su 4,25 % en el edificio; lo que cada hermano tiene es el 50 % indiviso del piso.",
      "Otro error es creer que la comunidad de propietarios puede intervenir cuando vendes tu parte de un piso. De hecho, no puede. La comunidad trata con el piso como unidad; la venta de una cuota indivisa es un asunto entre copropietarios y el comprador."
     ]
    },
@@ -418,12 +418,12 @@
     "h2": "Ejemplo con números: un piso heredado entre dos hermanos",
     "type": "steps",
     "intro": [
-     "Veamos las dos cuotas en un caso real."
+     "En concreto, veamos las dos cuotas en un caso real."
     ],
     "items": [
      {
       "t": "El edificio",
-      "p": "Un bloque de 20 viviendas. El piso heredado tiene una cuota de participación del 5 %. Si la comunidad gasta 24.000 € al año, a ese piso le tocan 1.200 €."
+      "p": "Un bloque de 20 viviendas. El piso heredado tiene una cuota del 5 %. Si la comunidad gasta 24.000 € al año, a ese piso le tocan 1.200 €."
      },
      {
       "t": "Los hermanos",
@@ -431,7 +431,7 @@
      },
      {
       "t": "La venta de una parte",
-      "p": "Un hermano vende su 50 % a un comprador profesional por 50.000 €. La cuota de participación del piso no cambia: sigue siendo el 5 %. Solo cambia, por tanto, quién paga la mitad de los recibos."
+      "p": "Un hermano vende su 50 % a un comprador profesional por 50.000 €. La cuota del piso no cambia: sigue siendo el 5 %. Solo cambia, por tanto, quién paga la mitad de los recibos."
      }
     ]
    },
@@ -458,7 +458,7 @@
      ],
      [
       "Cuota de comunidad (recibo)",
-      "El pago mensual que resulta de aplicar la cuota de participación al presupuesto. No es una cuota de propiedad, es una cantidad."
+      "El pago mensual que resulta de aplicar la cuota al presupuesto. No es una cuota de propiedad, es una cantidad."
      ]
     ]
    },
@@ -467,7 +467,7 @@
     "h2": "Lo que vendes es tu cuota indivisa, y la compramos",
     "type": "callout",
     "intro": [
-     "Si compartes un piso con hermanos, expareja o socios y quieres salir, no vendes tu cuota de participación: vendes tu cuota indivisa. Eso es lo que compramos."
+     "Si compartes un piso con hermanos, expareja o socios y quieres salir, no vendes tu cuota: vendes tu cuota indivisa. Eso es lo que compramos."
     ],
     "items": {
      "t": "Te damos precio por tu parte del piso",
@@ -483,11 +483,11 @@
    ],
    [
     "¿La cuota de participación es lo mismo que la cuota de comunidad?",
-    "No. La cuota de participación es un porcentaje fijo que figura en la escritura. La cuota de comunidad es el recibo mensual que resulta de aplicar ese porcentaje al presupuesto anual del edificio."
+    "No. La cuota es un porcentaje fijo que figura en la escritura. La cuota de comunidad es el recibo mensual que resulta de aplicar ese porcentaje al presupuesto anual del edificio."
    ],
    [
     "¿Qué cuota se vende cuando vendo mi parte de un piso heredado?",
-    "La cuota indivisa, es decir, tu porcentaje de propiedad sobre el piso. La cuota de participación del piso en el edificio no se toca: sigue siendo la misma tenga el piso uno o tres dueños."
+    "La cuota indivisa, es decir, tu porcentaje de propiedad sobre el piso. La cuota del piso en el edificio no se toca: sigue siendo la misma tenga el piso uno o tres dueños."
    ],
    [
     "¿Dónde consulto la cuota de participación de mi piso?",
@@ -869,9 +869,9 @@
     "h2": "Certificado de últimas voluntades: qué es y qué informa",
     "type": "text",
     "intro": [
-     "El certificado de últimas voluntades es un documento que expide el Registro General de Actos de Última Voluntad, dependiente del Ministerio de Justicia. Informa de si el fallecido hizo testamento, cuántos, en qué fechas y ante qué notario. No dice qué pone el testamento; solo dónde está.",
-     "Si hay varios testamentos, el válido es el último. Con el certificado en la mano, pides copia autorizada de ese testamento al notario que lo autorizó o a su sucesor en el protocolo. Si no hay ningún testamento, el certificado lo dice de forma expresa, y entonces toca la declaración de herederos abintestato.",
-     "Sin este certificado, ningún notario autoriza una herencia y ningún banco libera las cuentas del fallecido. Por eso es el primer trámite tras el entierro."
+     "Además, el certificado de últimas voluntades es un documento que expide el Registro General de Actos de Última Voluntad, dependiente del Ministerio de Justicia. Informa de si el fallecido hizo testamento, cuántos, en qué fechas y ante qué notario. De hecho, en la práctica, no dice qué pone el testamento; solo dónde está.",
+     "Si hay varios testamentos, el válido es el último. En concreto, con el certificado en la mano, pides copia autorizada de ese testamento al notario que lo autorizó o a su sucesor en el protocolo. Si no hay ningún testamento, el certificado lo dice de forma expresa, y entonces toca la declaración de herederos abintestato.",
+     "Asimismo, sin este certificado, ningún notario autoriza una herencia y ningún banco libera las cuentas del fallecido. Por eso es el primer trámite tras el entierro."
     ]
    },
    {
@@ -879,12 +879,12 @@
     "h2": "Cómo pedir el certificado de últimas voluntades: modelo 790 y plazo",
     "type": "steps",
     "intro": [
-     "El certificado de últimas voluntades se puede pedir a partir de los 15 días hábiles desde el fallecimiento. Antes no, porque los notarios tienen ese plazo para comunicar los testamentos al Registro."
+     "Además, el certificado de últimas voluntades se puede pedir a partir de los 15 días hábiles desde el fallecimiento. Antes no, porque los notarios tienen ese plazo para comunicar los testamentos al Registro."
     ],
     "items": [
      {
       "t": "Rellena el modelo 790",
-      "p": "Es el impreso de autoliquidación de la tasa, código 006. Se descarga en la sede del Ministerio de Justicia o se recoge en una gerencia territorial. La tasa ronda los 4 €, orientativamente."
+      "p": "De hecho, en la práctica, es el impreso de autoliquidación de la tasa, código 006. En concreto, se descarga en la sede del Ministerio de Justicia o se recoge en una gerencia territorial. La tasa ronda los 4 €, orientativamente."
      },
      {
       "t": "Adjunta el certificado de defunción",

@@ -59,19 +59,23 @@ function zp_dic_entradas() {
 }
 add_action( 'save_post', function () { delete_transient( 'zp_dic_entradas' ); } );
 add_shortcode( 'zp_diccionario', function () { return '[[ZP_DIC]]'; } );
+function zp_dic_corta( $t ) { // definición corta para el índice (≤ 16 palabras): Yoast mide frases largas y tramos de 300 palabras
+	$w = preg_split( '/\s+/', trim( $t ) );
+	if ( count( $w ) <= 16 ) { return $t; }
+	return rtrim( implode( ' ', array_slice( $w, 0, 14 ) ), ',;:' ) . '…';
+}
 function zp_dic_html() {
 	$lt = chr( 60 );
-	$grupos = [ 'A' => 'A', 'B-C' => 'BC', 'D-E' => 'DE', 'F-H' => 'FGH', 'I-L' => 'IJKL', 'M-N' => 'MN', 'O-P' => 'OP', 'Q-S' => 'QRS', 'T-U' => 'TU', 'V-Z' => 'VWXYZ' ];
-	$ent = zp_dic_entradas(); $n = count( $ent );
+	$ent = zp_dic_entradas(); $n = count( $ent ); $por = [];
+	foreach ( $ent as $e ) { $l = strtoupper( substr( zp_dic_norm( $e[0] ), 0, 1 ) ); $por[ $l ][] = $e; }
+	ksort( $por );
 	$nav = ''; $secs = ''; $i = 0;
-	foreach ( $grupos as $nombre => $letras ) {
-		$items = array_filter( $ent, function ( $e ) use ( $letras ) { return strpos( $letras, strtoupper( substr( zp_dic_norm( $e[0] ), 0, 1 ) ) ) !== false; } );
-		if ( ! $items ) { continue; }
-		$id = 'letra-' . strtolower( str_replace( '-', '', $nombre ) );
-		$nav .= $lt . 'a href="#' . $id . '">' . esc_html( $nombre ) . $lt . '/a>';
-		$h = ( $i++ % 2 === 0 ) ? 'Términos del proindiviso de la ' . $nombre : 'Diccionario del proindiviso: ' . $nombre;
+	foreach ( $por as $letra => $items ) {
+		$id = 'letra-' . strtolower( $letra );
+		$nav .= $lt . 'a href="#' . $id . '">' . esc_html( $letra ) . $lt . '/a>';
+		$h = ( $i++ % 2 === 0 ) ? 'Diccionario del proindiviso: letra ' . $letra : 'Términos que empiezan por ' . $letra;
 		$li = '';
-		foreach ( $items as $e ) { $li .= $lt . 'li>' . $lt . 'a href="' . esc_url( $e[1] ) . '">' . esc_html( $e[0] ) . $lt . '/a>' . ( $e[2] ? ': ' . esc_html( $e[2] ) : '' ) . $lt . '/li>'; }
+		foreach ( $items as $e ) { $li .= $lt . 'li>' . $lt . 'a href="' . esc_url( $e[1] ) . '">' . esc_html( $e[0] ) . $lt . '/a>' . ( $e[2] ? ': ' . esc_html( zp_dic_corta( $e[2] ) ) : '' ) . $lt . '/li>'; }
 		$secs .= $lt . 'section class="zpd-grupo" id="' . $id . '">' . $lt . 'h2>' . esc_html( $h ) . $lt . '/h2>' . $lt . 'ul>' . $li . $lt . '/ul>' . $lt . '/section>';
 	}
 	return $lt . 'div class="zpd">' . $lt . 'p class="zpd-n">' . $n . ' términos explicados. Pulsa una letra:' . $lt . '/p>' . $lt . 'nav class="zpd-nav" aria-label="Letras del diccionario">' . $nav . $lt . '/nav>' . $secs . $lt . '/div>';
@@ -88,7 +92,7 @@ add_action( 'wp_head', function () {
 	$t = 'sty' . 'le';
 	echo '<' . $t . ' id="zpd-css">'
 		. '.zpd{display:block;width:100%;font-family:Manrope,sans-serif;color:#1f2a33}.zpd-n{font-size:15px;color:#4f5b66;margin:0 0 10px}'
-		. '.zpd-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}.zpd-nav a{display:inline-block;padding:8px 14px;border:1px solid #d8e0e6;border-radius:999px;font-weight:700;font-size:14px;color:#0d4f78;text-decoration:none;background:#fff}.zpd-nav a:hover{border-color:#e87524;color:#e87524}'
+		. '.zpd-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}.zpd-nav a{display:inline-block;min-width:40px;text-align:center;padding:8px 12px;border:1px solid #d8e0e6;border-radius:999px;font-weight:700;font-size:14px;color:#0d4f78;text-decoration:none;background:#fff}.zpd-nav a:hover{border-color:#e87524;color:#e87524}'
 		. '.zpd-grupo{padding:28px 0 8px;border-top:1px solid #e3e8ec;margin-top:20px;scroll-margin-top:110px}.zpd-grupo h2{font-size:clamp(1.35rem,1.1rem+1vw,1.8rem);line-height:1.2;letter-spacing:-.01em;color:#0d4f78;margin:0 0 16px}'
 		. '.zpd-grupo ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px 28px}.zpd-grupo li{font-size:16px;line-height:1.55;padding:10px 0 10px 16px;border-left:3px solid #e87524;color:#1f2a33}'
 		. '.zpd-grupo li a{font-weight:800;color:#0d4f78;text-decoration:none}.zpd-grupo li a:hover{color:#e87524;text-decoration:underline}'
