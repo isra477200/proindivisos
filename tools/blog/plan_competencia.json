@@ -1,0 +1,354 @@
+[
+ {
+  "slug": "no-puedo-pagar-el-impuesto-de-sucesiones",
+  "focus_kw": "no puedo pagar el impuesto de sucesiones",
+  "title_corto": "Sin dinero para sucesiones",
+  "category": "impuestos-y-tramites",
+  "angulo": "Heredero sin liquidez: prórroga de 6 meses, aplazamiento/fraccionamiento, liquidación parcial, qué pasa si no se paga (recargos, no inscribes, no vendes) y la salida de vender la cuota para pagar el ISD. gestionatuproindiviso (/cambios-fiscales-e-impuestos-proindivisos-herencias/) y vendetuproindiviso (/blog/impuestos-a-pagar-por-una-herencia/) tratan el impuesto sin dar esta salida.",
+  "kind": "post"
+ },
+ {
+  "slug": "aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto",
+  "focus_kw": "aceptar la herencia y vender en el mismo acto",
+  "title_corto": "Aceptar y vender a la vez",
+  "category": "herencias",
+  "angulo": "Escritura única de aceptación + adjudicación + venta de la cuota ante notario: requisitos, ISD previo, costes, plazos reales. vendetuproindiviso (/blog/aceptacion-herencia-imprenscindible-para-venta/) y compraproindiviso (/aceptacion-de-herencia-y-venta-de-inmueble-1/) lo usan como argumento de rapidez.",
+  "kind": "post"
+ },
+ {
+  "slug": "vender-mi-parte-de-un-piso-por-mi-cuenta",
+  "focus_kw": "vender mi parte de un piso por mi cuenta",
+  "title_corto": "Venderla por tu cuenta",
+  "category": "copropiedad",
+  "angulo": "Qué pasa si la anuncias en Idealista/Wallapop o se la vendes a un particular: nadie financia cuotas, retracto, contrato, estafas, meses perdidos. gestionatuproindiviso (/vender-un-proindiviso-por-mi-cuenta/), proindiviso360 (/venta-de-proindiviso-entre-particulares-como-funciona-y-que-riesgos-tiene/) y vendetuproindiviso (/blog/como-vender-mitad-indivisa-piso-atraer-compradores/).",
+  "kind": "post"
+ },
+ {
+  "slug": "como-cobrar-seguro-al-vender-mi-parte-de-un-piso",
+  "focus_kw": "cómo cobrar al vender mi parte de un piso",
+  "title_corto": "Cobrar seguro en notaría",
+  "category": "impuestos-y-tramites",
+  "angulo": "Cheque bancario conformado vs transferencia OMF, pago íntegro en el acto, por qué no aceptar pagos aplazados ni señales, qué comprueba el notario, retención a no residentes. proindiviso10 (/proteccion-legal-vendedor-nuda-propiedad-notario/) y FAQ de compraproindiviso ('¿y si el comprador propone pagar una parte después?').",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-bloqueada-que-hacer",
+  "focus_kw": "herencia bloqueada qué hacer",
+  "title_corto": "Herencia bloqueada",
+  "category": "herencias",
+  "angulo": "Pilar: las 8 causas de bloqueo (heredero que no firma, ausente, menor, ISD impagado, usufructo, deudas, testamento impugnado, herencia yacente) y la salida de cada una, con la venta de la cuota como vía común. proindiviso360 construye toda su landing sobre 'herencias bloqueadas' (/vender-parte-herencia/). Enlazar a /un-heredero-no-quiere-vender/.",
+  "kind": "post"
+ },
+ {
+  "slug": "piso-heredado-con-inquilino-de-renta-antigua-vender-mi-parte",
+  "focus_kw": "piso heredado con inquilino de renta antigua",
+  "title_corto": "Renta antigua heredada",
+  "category": "herencias",
+  "angulo": "LAU 1964: subrogaciones, renta congelada, imposibilidad de desahucio, cómo hunde el valor y por qué los hermanos se bloquean; compramos cuotas con renta antigua. proindiviso10 tiene servicio propio (/vender-piso-renta-antigua/) y vendetuproindiviso (/blog/mitad-indivisa-y-derechos-de-los-inquilinos-en-la-propiedad/). Distinto del programado 'heredar un piso con inquilino' (LAU actual).",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-con-varios-pisos-vender-mi-parte-de-uno",
+  "focus_kw": "herencia con varios pisos vender mi parte",
+  "title_corto": "Varios inmuebles heredados",
+  "category": "herencias",
+  "angulo": "Cuota sobre el lote vs cuota sobre cada finca, partición parcial, adjudicar un inmueble a cada hermano, vender tu parte de todos o de uno. Solo lo toca la FAQ de compraproindiviso ('¿Puedo vender un proindiviso si hay varios inmuebles familiares?').",
+  "kind": "post"
+ },
+ {
+  "slug": "casa-del-pueblo-heredada-entre-hermanos",
+  "focus_kw": "casa del pueblo heredada entre hermanos",
+  "title_corto": "La casa del pueblo",
+  "category": "herencias",
+  "angulo": "Segunda residencia heredada (pueblo o playa): turnos de verano, quién paga, el hermano que la usa siempre, valor bajo y difícil de vender entera; cómo vender tu parte. gestionatuproindiviso ataca el tema dos veces (/casa-heredada-verano-proindiviso/ y /segunda-residencia-heredada-playa-verano/).",
+  "kind": "post"
+ },
+ {
+  "slug": "cuanto-tengo-que-pagar-a-mi-ex-por-la-casa",
+  "focus_kw": "cuánto tengo que pagar a mi ex por la casa",
+  "title_corto": "Cuánto dar a tu ex",
+  "category": "extincion-de-condominio",
+  "angulo": "La cuenta real: valor − hipoteca pendiente, aportaciones desiguales (entrada, cuotas pagadas por uno), mejoras, uso atribuido, gastos; tres ejemplos numéricos y alternativa de vendernos tu mitad. vendetuproindiviso (/blog/cuanto-tiene-dar-piso-ex/). Diferenciar del existente 'extinción con compensación económica' (ese explica la figura; este es la negociación).",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-con-la-segunda-mujer-de-mi-padre",
+  "focus_kw": "herencia con la segunda mujer de mi padre",
+  "title_corto": "Viuda e hijos del primer matrimonio",
+  "category": "herencias",
+  "angulo": "Hijos de un primer matrimonio + viuda (o pareja) del causante: usufructo del tercio, gananciales, casa donde vive ella, bloqueo mutuo y cómo vender la cuota (o comprar la suya). Dolor recurrente en foros (HelpMyCash); ningún competidor lo trata de forma específica.",
+  "kind": "post"
+ },
+ {
+  "slug": "una-empresa-ha-comprado-la-parte-de-mi-hermano",
+  "focus_kw": "una empresa ha comprado la parte de mi hermano",
+  "title_corto": "Empresa dueña de la otra parte",
+  "category": "copropiedad",
+  "angulo": "El lado contrario: has recibido burofax, qué puede y no puede hacer la empresa, retracto de 9 días (art. 1524 CC), acuerdos posibles, vender también tu parte. Capta a los copropietarios que quedan dentro. Competidores solo prometen 'no avisamos a tus hermanos' (FAQ vendetuproindiviso, proindiviso10).",
+  "kind": "post"
+ },
+ {
+  "slug": "vender-mi-parte-de-un-edificio-heredado",
+  "focus_kw": "vender mi parte de un edificio heredado",
+  "title_corto": "Parte de un edificio",
+  "category": "copropiedad",
+  "angulo": "Edificio entero en proindiviso (varias viviendas, locales, inquilinos): rentas, división horizontal, valoración, por qué es el caso donde más se bloquean las herencias. gestionatuproindiviso (/edificio-en-proindiviso/), proindiviso10 (/compramos-edificios-madrid/), advertorial merca2 'proindiviso en herencia de un edificio'.",
+  "kind": "post"
+ },
+ {
+  "slug": "que-hacer-con-un-piso-heredado",
+  "focus_kw": "qué hacer con un piso heredado",
+  "title_corto": "Qué hacer con el piso",
+  "category": "herencias",
+  "angulo": "Guía de decisión: quedártelo, alquilarlo, venderlo entero o vender tu parte; costes de tenerlo vacío (IBI, comunidad, seguro, recargo vivienda vacía, okupas), fiscalidad de cada opción y árbol de decisión. Query genérica de alto volumen que atacan Housfy e inmobiliarias; ninguna empresa de proindivisos la tiene.",
+  "kind": "post"
+ },
+ {
+  "slug": "plusvalia-municipal-al-vender-mi-parte-heredada",
+  "focus_kw": "plusvalía municipal al vender mi parte heredada",
+  "title_corto": "Plusvalía de tu parte",
+  "category": "impuestos-y-tramites",
+  "angulo": "Dos plusvalías (la de heredar y la de vender), reparto entre coherederos, bonificaciones por vivienda habitual, plazos de 6 meses, cálculo real vs objetivo, cuándo sale cero. vendetuproindiviso (/blog/plusvalia-herencia-varios-herederos/) y FAQ de /proindivisos-herencias/.",
+  "kind": "post"
+ },
+ {
+  "slug": "se-puede-hipotecar-una-parte-de-un-piso",
+  "focus_kw": "se puede hipotecar una parte de un piso",
+  "title_corto": "Hipotecar tu parte",
+  "category": "copropiedad",
+  "angulo": "Legal sí (art. 399 CC), banca no: por qué ninguna entidad hipoteca una cuota, alternativas (préstamo personal, extinción con hipoteca, vender la cuota). vendetuproindiviso (/blog/aspectos-hipoteca-de-derechos-proindiviso/) y gestionatuproindiviso (/hipotecar-una-vivienda-en-proindiviso/).",
+  "kind": "post"
+ },
+ {
+  "slug": "la-herencia-es-privativa-o-ganancial",
+  "focus_kw": "la herencia es privativa o ganancial",
+  "title_corto": "Herencia y gananciales",
+  "category": "herencias",
+  "angulo": "Lo heredado es privativo (art. 1346 CC): ¿necesito la firma de mi cónyuge para vender mi parte?, qué pasa en divorcio, mejoras pagadas con dinero ganancial, vivienda familiar. Pregunta constante antes de firmar; nadie la responde en el sector.",
+  "kind": "post"
+ },
+ {
+  "slug": "liquidacion-de-gananciales-en-la-herencia",
+  "focus_kw": "liquidación de gananciales en la herencia",
+  "title_corto": "Gananciales del viudo",
+  "category": "herencias",
+  "angulo": "Antes de repartir hay que liquidar la sociedad de gananciales: la mitad es del viudo, la otra mitad se hereda; errores de cuota típicos entre hermanos y cómo afecta a lo que puedes vender. Solo aparece como término del glosario de vendetuproindiviso.",
+  "kind": "post"
+ },
+ {
+  "slug": "cuanto-cuesta-escriturar-una-casa-heredada",
+  "focus_kw": "cuánto cuesta escriturar una casa heredada",
+  "title_corto": "Coste de escriturar la herencia",
+  "category": "impuestos-y-tramites",
+  "angulo": "Partidas con horquillas: notaría de aceptación/adjudicación, Registro, ISD por comunidad, plusvalía, gestoría, certificados; quién adelanta el dinero y cómo financiar los gastos vendiendo la cuota. vendetuproindiviso (/blog/cuanto-cuesta-escriturar-casa-heredada/) y gestionatuproindiviso (/honorarios-del-notario-en-herencias/).",
+  "kind": "post"
+ },
+ {
+  "slug": "fallece-un-copropietario-que-pasa-con-su-parte",
+  "focus_kw": "fallece un copropietario qué pasa con su parte",
+  "title_corto": "Muere un copropietario",
+  "category": "copropiedad",
+  "angulo": "Su cuota pasa a sus herederos (a veces 5 o 6 personas): herencia yacente dentro del proindiviso, derecho de transmisión, cómo seguir con la venta, qué hacer si sus herederos no aparecen. gestionatuproindiviso (/que-pasa-proindiviso-muere-copropietario/).",
+  "kind": "post"
+ },
+ {
+  "slug": "renunciar-a-mi-parte-de-un-proindiviso-para-no-pagar-gastos",
+  "focus_kw": "renunciar a mi parte de un proindiviso",
+  "title_corto": "Renuncia liberatoria",
+  "category": "copropiedad",
+  "angulo": "Art. 395 CC: abandono de la cuota para dejar de pagar gastos, fiscalidad (tributa como donación), por qué regalar tu parte es peor que vendérnosla. Hueco evidente: competidores tratan 'donar' pero no la renuncia liberatoria. Distinto de 'renunciar a la herencia' (programado) y de 'donar mi parte' (existente).",
+  "kind": "post"
+ },
+ {
+  "slug": "nave-industrial-en-proindiviso-entre-socios",
+  "focus_kw": "nave industrial en proindiviso vender mi parte",
+  "title_corto": "Nave entre socios",
+  "category": "copropiedad",
+  "angulo": "Socios o exsocios copropietarios de nave/oficina: sociedad disuelta, uno sigue usando la nave, IVA en la venta de la cuota, valoración por rentabilidad. riex habla de 'empresas copropietarias' y Economist&Jurist de 'sociedades disueltas'; sin artículo específico en el sector.",
+  "kind": "post"
+ },
+ {
+  "slug": "proindiviso-en-cataluna-codigo-civil-catalan",
+  "focus_kw": "proindiviso en cataluña código civil catalán",
+  "title_corto": "Proindiviso en Cataluña",
+  "category": "division-de-cosa-comun",
+  "angulo": "Ángulo jurídico, no geográfico: comunidad ordinaria indivisa del Llibre V (arts. 552-1 ss.), tanteo/retracto de 3 meses, división y adjudicación, diferencias con el CC estatal, derecho sucesorio catalán. gestionatuproindiviso (/proindiviso-cataluna/) y vendetuproindiviso lo citan en sus FAQ. Enlazar desde la geo de Cataluña.",
+  "kind": "post"
+ },
+ {
+  "slug": "conciliacion-notarial-para-dividir-un-proindiviso",
+  "focus_kw": "conciliación notarial división de cosa común",
+  "title_corto": "Conciliación ante notario",
+  "category": "division-de-cosa-comun",
+  "angulo": "Acto de conciliación (Ley de Jurisdicción Voluntaria) antes de demandar: coste, plazos, qué se consigue, cuándo es pérdida de tiempo; alternativa de vender la cuota. vendetuproindiviso (/blog/conciliacion-ante-notario-para-disolver-un-proindiviso/) y BBVA lo recomiendan.",
+  "kind": "post"
+ },
+ {
+  "slug": "mediacion-familiar-herencia-entre-hermanos",
+  "focus_kw": "mediación familiar herencia entre hermanos",
+  "title_corto": "Mediación entre hermanos",
+  "category": "herencias",
+  "angulo": "Mediación civil: cómo funciona, coste, acuerdos ejecutables, cuándo sirve y cuándo no; cierre: si fracasa, vender la cuota. vendetuproindiviso (/blog/aspectos-psicologicos-en-la-venta-de-propiedades-compartidas/, /blog/prevenir-conflicto-hermanos-piso-heredado/) y proindiviso360 (/proindiviso-hermanos-no-se-llevan-bien/).",
+  "kind": "post"
+ },
+ {
+  "slug": "permutar-partes-de-pisos-heredados-entre-hermanos",
+  "focus_kw": "intercambiar partes de pisos heredados entre hermanos",
+  "title_corto": "Permuta de cuotas",
+  "category": "herencias",
+  "angulo": "Yo me quedo un piso y tú otro: permuta de cuotas vs adjudicación en la partición, exceso de adjudicación, ITP/AJD, cuándo compensa; y qué hacer si un hermano no entra en el canje. Hueco evidente; nadie lo trata.",
+  "kind": "post"
+ },
+ {
+  "slug": "casa-heredada-no-inscrita-en-el-registro-vender-mi-parte",
+  "focus_kw": "casa heredada no inscrita en el registro",
+  "title_corto": "Casa sin inscribir",
+  "category": "impuestos-y-tramites",
+  "angulo": "Finca sin inmatricular o a nombre del abuelo: expediente de dominio, inmatriculación notarial, tracto sucesivo, costes y plazos; si compramos igualmente. FAQ de compraproindiviso ('¿puedo vender un proindiviso que todavía no aparece inscrito a mi nombre?'). Distinto de 'vender herencia sin escriturar' (existente).",
+  "kind": "post"
+ },
+ {
+  "slug": "casa-heredada-sin-licencia-o-fuera-de-ordenacion",
+  "focus_kw": "casa heredada sin licencia vender mi parte",
+  "title_corto": "Casa sin licencia",
+  "category": "herencias",
+  "angulo": "Vivienda ilegal en rústico, fuera de ordenación, con expediente urbanístico o multas: qué se puede vender, responsabilidad de los herederos, descuento, cómo lo tratamos. gestionatuproindiviso (/proindiviso-con-deudas-o-multas/ 'cargas urbanísticas').",
+  "kind": "post"
+ },
+ {
+  "slug": "comunidad-de-bienes-por-herencia",
+  "focus_kw": "comunidad de bienes por herencia",
+  "title_corto": "Comunidad de bienes heredada",
+  "category": "copropiedad",
+  "angulo": "Local o pisos alquilados heredados: CB con NIF, IRPF por atribución de rentas, IVA, obligaciones censales, cómo salir vendiendo la cuota y qué pasa con la CB. vendetuproindiviso (/blog/comunidad-de-bienes-entre-hermanos/), ayudatpymes rankea. Enlazar al existente de diferencias proindiviso/CB.",
+  "kind": "post"
+ },
+ {
+  "slug": "division-judicial-de-la-herencia-procedimiento",
+  "focus_kw": "división judicial de la herencia procedimiento",
+  "title_corto": "División judicial de herencia",
+  "category": "division-de-cosa-comun",
+  "angulo": "Arts. 782 ss. LEC (no es la división de cosa común): quién puede pedirla, inventario, avalúo, contador y junta, costes y duración; cuándo es mejor vender la cuota hereditaria. gestionatuproindiviso (/guia-completa-de-la-division-de-la-cosa-comun/) las mezcla; glosario de vendetuproindiviso las separa.",
+  "kind": "post"
+ },
+ {
+  "slug": "dividir-una-casa-en-dos-para-repartir-la-herencia",
+  "focus_kw": "dividir una casa en dos para repartir herencia",
+  "title_corto": "División horizontal",
+  "category": "division-de-cosa-comun",
+  "angulo": "Cuándo el bien SÍ es divisible: división horizontal de una casa con dos plantas, segregación, licencia, coste de proyecto y escritura, y por qué suele fracasar (unanimidad, dinero). Arquitasa y BBVA lo mencionan de pasada; las empresas solo dicen 'indivisible'.",
+  "kind": "post"
+ },
+ {
+  "slug": "mi-hermano-recibio-una-donacion-en-vida-y-la-herencia",
+  "focus_kw": "mi hermano recibió una donación en vida herencia",
+  "title_corto": "Donación en vida y herencia",
+  "category": "herencias",
+  "angulo": "Colación (arts. 1035 ss. CC): si el piso regalado en vida cuenta en el reparto, legítima, cómo se recalcula tu cuota y cómo se vende. Término del glosario de vendetuproindiviso; pregunta muy repetida en foros.",
+  "kind": "post"
+ },
+ {
+  "slug": "como-evitar-un-proindiviso-entre-hermanos-en-el-testamento",
+  "focus_kw": "cómo evitar un proindiviso entre hermanos",
+  "title_corto": "Evitar el proindiviso",
+  "category": "herencias",
+  "angulo": "Para padres: partición hecha por el testador (art. 1056 CC), legado de la vivienda con compensación, donación en vida, seguro de vida para igualar; para hijos: pacto previo. vendetuproindiviso (/blog/prevenir-conflicto-hermanos-piso-heredado/).",
+  "kind": "post"
+ },
+ {
+  "slug": "reclamar-la-legitima-a-mis-hermanos",
+  "focus_kw": "reclamar la legítima a mis hermanos",
+  "title_corto": "Reclamar la legítima",
+  "category": "herencias",
+  "angulo": "Hijo preterido o con menos: tercios, acción de complemento, plazos, cuánto cuesta, qué puedes vender después. Glosario de vendetuproindiviso (legítima, desheredación, preterición); sin artículo en el sector.",
+  "kind": "post"
+ },
+ {
+  "slug": "subasta-notarial-voluntaria-de-un-piso-compartido",
+  "focus_kw": "subasta notarial de un proindiviso",
+  "title_corto": "Subasta notarial voluntaria",
+  "category": "division-de-cosa-comun",
+  "angulo": "Venta extrajudicial por subasta ante notario (art. 404 CC + LJV) como alternativa al juzgado: requisitos de acuerdo, portal de subastas BOE, costes, resultados reales. BBVA la cita; ningún competidor la desarrolla.",
+  "kind": "post"
+ },
+ {
+  "slug": "alquilar-piso-compartido-en-airbnb-sin-permiso",
+  "focus_kw": "alquilar piso compartido en airbnb sin permiso",
+  "title_corto": "Airbnb sin permiso",
+  "category": "copropiedad",
+  "angulo": "Uso turístico de un piso en proindiviso: acto de administración o alteración, mayoría necesaria, licencia a nombre de quién, reparto de ingresos, cómo pararlo. gestionatuproindiviso (/alquilar-proindiviso-airbnb-sin-permiso/). Complemento del existente 'alquilar un piso en proindiviso'.",
+  "kind": "post"
+ },
+ {
+  "slug": "mi-hermano-dice-que-la-casa-es-suya-por-usucapion",
+  "focus_kw": "mi hermano dice que la casa es suya usucapión",
+  "title_corto": "Usucapión entre hermanos",
+  "category": "copropiedad",
+  "angulo": "Posesión de décadas por un coheredero: por qué normalmente no hay usucapión entre comuneros, excepciones, cómo acreditar tu cuota y vender igualmente. Pregunta frecuente en foros; sin cobertura en el sector.",
+  "kind": "post"
+ },
+ {
+  "slug": "impugnar-testamento-vender-la-casa",
+  "focus_kw": "impugnar testamento vender la casa",
+  "title_corto": "Testamento impugnado",
+  "category": "herencias",
+  "angulo": "Herencia con pleito de nulidad del testamento o de incapacidad del causante: qué queda bloqueado, anotación preventiva, si se puede vender la cuota con litigio abierto. Términos del glosario de vendetuproindiviso (impugnación, nulidad).",
+  "kind": "post"
+ },
+ {
+  "slug": "quien-hereda-si-no-hay-testamento",
+  "focus_kw": "quién hereda si no hay testamento",
+  "title_corto": "Orden sucesorio",
+  "category": "herencias",
+  "angulo": "Orden legal completo (hijos, padres, cónyuge, hermanos, sobrinos, Estado) con ejemplos y cómo acaba en proindivisos de muchos; enlazar a 'vender casa heredada sin testamento'. vendetuproindiviso (/blog/si-no-hay-testamento-quien-hereda/, /blog/sucesion-intestada/).",
+  "kind": "post"
+ },
+ {
+  "slug": "nietos-que-heredan-derecho-de-representacion",
+  "focus_kw": "herencia de los abuelos nietos derecho de representación",
+  "title_corto": "Nietos que heredan",
+  "category": "herencias",
+  "angulo": "Padre fallecido antes que los abuelos: los nietos heredan por estirpes, cuota resultante, ISD grupo, proindivisos con tíos y primos y cómo salir vendiendo. Glosario de vendetuproindiviso.",
+  "kind": "post"
+ },
+ {
+  "slug": "justicia-gratuita-division-de-cosa-comun",
+  "focus_kw": "justicia gratuita división de cosa común",
+  "title_corto": "Abogado de oficio",
+  "category": "division-de-cosa-comun",
+  "angulo": "Requisitos de ingresos, qué cubre, tiempos reales con abogado de oficio, por qué muchos acaban vendiendo la cuota. Hueco evidente para el perfil de heredero sin recursos; sin cobertura.",
+  "kind": "post"
+ },
+ {
+  "slug": "certificado-de-ultimas-voluntades-como-pedirlo",
+  "focus_kw": "certificado de últimas voluntades cómo pedirlo",
+  "title_corto": "Últimas voluntades",
+  "category": "impuestos-y-tramites",
+  "angulo": "Modelo 790, 15 días hábiles, sede del Ministerio, certificado de seguros, copia del testamento en la notaría; primer paso que bloquea a muchos antes de poder vender. compraproindiviso (/como-tramitar-una-herencia-2/), glosario de vendetuproindiviso.",
+  "kind": "post"
+ },
+ {
+  "slug": "vaciar-piso-heredado-entre-hermanos",
+  "focus_kw": "vaciar piso heredado entre hermanos",
+  "title_corto": "Vaciar el piso",
+  "category": "herencias",
+  "angulo": "Ajuar doméstico (3 % en ISD), quién se queda qué, objetos de valor, empresas de vaciado, qué no tocar antes del inventario; paso previo a vender. Glosario de vendetuproindiviso (ajuar); alto interés, baja competencia.",
+  "kind": "post"
+ },
+ {
+  "slug": "proindiviso-quien-vota-en-la-junta-de-propietarios",
+  "focus_kw": "proindiviso quién vota en la junta de propietarios",
+  "title_corto": "Voto en la junta",
+  "category": "copropiedad",
+  "angulo": "Art. 15 LPH: representante único, un voto por finca, derramas, morosidad de un comunero y cómo afecta a la venta de la cuota. gestionatuproindiviso (/proindiviso-comunidad-vecinos/).",
+  "kind": "post"
+ },
+ {
+  "slug": "tipos-de-proindiviso",
+  "focus_kw": "tipos de proindiviso",
+  "title_corto": "Tipos de proindiviso",
+  "category": "copropiedad",
+  "angulo": "Ordinario, hereditario, postganancial, horizontal/vertical, de garaje, de finca rústica: qué cambia en cada uno para vender tu parte. riex (/vende-tu-proindiviso/ 'horizontal y vertical') y proindiviso360 (/tipos-de-proindiviso-que-son-como-funcionan-y-como-salir-de-uno/).",
+  "kind": "post"
+ }
+]

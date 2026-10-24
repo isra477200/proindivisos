@@ -1,0 +1,2448 @@
+[
+ {
+  "slug": "subasta-notarial-voluntaria-de-un-piso-compartido",
+  "kind": "post",
+  "category": "division-de-cosa-comun",
+  "kicker": "División de cosa común",
+  "h1": "Subasta notarial de un proindiviso: la venta ante notario que evita el juzgado",
+  "sub": "La subasta notarial de un proindiviso es la venta del inmueble entero ante notario, con pujas en el Portal de Subastas del BOE, cuando los copropietarios aceptan vender pero no se ponen de acuerdo en el precio o en el comprador. Es más rápida y barata que el juicio de división, aunque exige la firma de todos. Si quieres salir tú solo, sin esperar a nadie, compramos tu cuota con oferta por escrito en 48 horas.",
+  "checks": [
+   "Explicado por compradores",
+   "Con artículos del Código Civil",
+   "Salida sin esperar a nadie"
+  ],
+  "card_title": "¿Un copropietario no firma la subasta?",
+  "card_text": "Te compramos tu cuota sin su permiso. Precio por escrito en 48 horas, sin compromiso y sin exclusividad.",
+  "sections": [
+   {
+    "overline": "Qué es",
+    "h2": "Qué es la subasta notarial de un proindiviso y cuándo se usa",
+    "type": "text",
+    "intro": [
+     "La subasta notarial de un proindiviso es un procedimiento de venta voluntaria del inmueble ante notario. Lo regula la Ley del Notariado desde la reforma de 2015 de la Ley de Jurisdicción Voluntaria. La puja se hace de forma electrónica en el Portal de Subastas del BOE, el mismo que usan los juzgados. El notario aprueba el pliego, anuncia la subasta, recibe las pujas y otorga la escritura al mejor postor. Después reparte el precio entre los copropietarios según su cuota.",
+     "Encaja en un caso muy concreto. El artículo 404 del Código Civil dice que, si el bien es indivisible y los comuneros no acuerdan adjudicarlo a uno, se vende y se reparte el precio. En la práctica, muchos hermanos y exparejas aceptan vender, pero discuten el precio o desconfían del comprador que propone el otro. Ahí la subasta notarial de un proindiviso sustituye al juicio de división: nadie impone el precio, porque lo fija el mercado en la puja.",
+     "Tiene una condición que la limita mucho. Como se vende el inmueble entero, hace falta la firma de todos los copropietarios en la solicitud. Si uno se niega, no hay subasta posible y la vía vuelve a ser el juzgado o la venta de tu cuota a un tercero."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Subasta notarial o juicio de división: diferencias",
+    "type": "table",
+    "intro": [
+     "Las dos vías acaban en una venta pública del inmueble. Sin embargo, la subasta notarial de un proindiviso cambia el tiempo, el coste y el control que tienes sobre el proceso."
+    ],
+    "items": [
+     [
+      "Aspecto",
+      "Subasta notarial frente a división judicial"
+     ],
+     [
+      "Quién la inicia",
+      "Notarial: todos los copropietarios juntos. Judicial: cualquiera de ellos, aunque los demás se opongan, por el artículo 400 del Código Civil."
+     ],
+     [
+      "Plazo orientativo",
+      "Notarial: de dos a cuatro meses desde la firma de la solicitud. Judicial: de uno a tres años, según el juzgado y los recursos."
+     ],
+     [
+      "Coste orientativo",
+      "Notarial: arancel del notario, tasación si se pide y gestoría. Judicial: abogado, procurador, perito y posibles costas."
+     ],
+     [
+      "Precio de salida",
+      "Notarial: lo pactáis en el pliego, con un mínimo por debajo del cual no se vende. Judicial: lo fija el perito y la subasta judicial admite adjudicaciones muy bajas."
+     ],
+     [
+      "Quién puede pujar",
+      "Notarial: cualquiera, y también los propios comuneros si el pliego lo permite. Judicial: cualquiera, con las reglas de la Ley de Enjuiciamiento Civil."
+     ],
+     [
+      "Si queda desierta",
+      "Notarial: se puede repetir con otro tipo o retirar el bien. Judicial: el procedimiento sigue y puede acabar en una adjudicación por un porcentaje bajo."
+     ]
+    ],
+    "outro": [
+     "En resumen, la subasta notarial de un proindiviso gana en rapidez y en control del precio mínimo. Pierde en cuanto falta una firma, porque entonces no existe."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se tramita paso a paso ante el notario",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Acuerdo y pliego de condiciones",
+      "p": "Todos los copropietarios firman la solicitud ante el notario que elijáis. En el pliego fijáis el tipo de salida, el precio mínimo, el depósito para pujar y si los comuneros pueden participar. Por ejemplo, un piso tasado en 180.000 € puede salir con un mínimo del 70 %."
+     },
+     {
+      "t": "Documentación",
+      "p": "Nota simple actualizada, título de propiedad de cada cuota, certificado de la comunidad de propietarios, IBI al corriente y certificado energético. Si hay hipoteca, el notario la hace constar y se cancela con el precio."
+     },
+     {
+      "t": "Anuncio en el Portal de Subastas del BOE",
+      "p": "El notario publica la convocatoria en el portal electrónico. Desde ese momento cualquier interesado con certificado digital puede entrar. La puja dura en torno a veinte días naturales, según el pliego."
+     },
+     {
+      "t": "Depósito y pujas",
+      "p": "Quien quiere pujar consigna un porcentaje del tipo, habitualmente el 5 %. Las pujas son electrónicas y visibles para todos. Al cerrar, el portal comunica al notario la mejor postura."
+     },
+     {
+      "t": "Adjudicación y escritura",
+      "p": "El mejor postor paga el resto del precio en el plazo del pliego, normalmente entre diez y veinte días. Después se firma la escritura de compraventa y el notario entrega a cada comunero su parte, descontados gastos y cargas."
+     }
+    ],
+    "outro": [
+     "Si nadie puja o nadie alcanza el mínimo, la subasta notarial de un proindiviso queda desierta. Entonces podéis convocar otra con un tipo más bajo o abandonar esta vía."
+    ]
+   },
+   {
+    "overline": "Costes",
+    "h2": "Cuánto cuesta la subasta notarial de un proindiviso",
+    "type": "list",
+    "intro": [
+     "Los costes son menores que en el juzgado, pero no son cero. Estas cifras son orientativas y dependen del notario, de la provincia y del valor del inmueble."
+    ],
+    "items": [
+     "<strong>Arancel notarial.</strong> Se calcula sobre el valor del bien y los actos que se otorgan: acta de subasta y escritura de venta. Para un piso de 180.000 €, cuenta con varios cientos de euros por el acta y otros tantos por la escritura.",
+     "<strong>Portal de Subastas del BOE.</strong> La publicación electrónica tiene un coste reducido. Además, los depósitos de los postores se devuelven a quien no gana.",
+     "<strong>Tasación.</strong> No es obligatoria, pero ayuda a fijar el tipo de salida. Cuesta entre 300 y 500 € en una vivienda normal.",
+     "<strong>Gestoría e impuestos.</strong> La plusvalía municipal y el IRPF de la ganancia los paga cada vendedor por su cuota. El comprador paga el ITP, según comunidad autónoma.",
+     "<strong>Cancelación de cargas.</strong> Si hay hipoteca, se cancela con el precio antes del reparto."
+    ],
+    "outro": [
+     "En la subasta notarial de un proindiviso los gastos se reparten entre todos los comuneros según su cuota, salvo pacto distinto en el pliego."
+    ]
+   },
+   {
+    "overline": "Resultados",
+    "h2": "Qué resultados da en la práctica",
+    "type": "text",
+    "intro": [
+     "Contamos lo que vemos en el sector, sin adornos. Las subastas voluntarias de viviendas atraen sobre todo a inversores. Pujan con cabeza y rara vez pagan el precio de mercado. Lo habitual es que la adjudicación quede por debajo de la tasación, en una horquilla orientativa del 70 % al 90 %, según la zona y el estado del piso.",
+     "También hay subastas desiertas. Pasa cuando el tipo mínimo es alto, cuando el inmueble está ocupado o cuando el anuncio no llega al público adecuado. Un piso vacío en una capital se vende; en cambio, una casa de pueblo con reformas pendientes puede necesitar dos convocatorias.",
+     "Aun así, el resultado suele ser mejor que en la subasta judicial. Allí la adjudicación puede bajar mucho más y el procedimiento se alarga años. Por eso, cuando hay acuerdo para vender y nadie quiere quedarse el piso, la subasta notarial de un proindiviso es una salida razonable."
+    ]
+   },
+   {
+    "overline": "Alternativas",
+    "h2": "Si no todos firman: las otras salidas del proindiviso",
+    "type": "cards",
+    "intro": [
+     "La subasta notarial de un proindiviso cae en cuanto un copropietario no firma. Entonces quedan tres caminos, y uno de ellos no depende de nadie."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Uno se queda el 100 % y compensa a los demás. Necesita acuerdo y dinero o hipoteca. Tributa por AJD, según comunidad autónoma.",
+      "url": "/extincion-de-condominio/",
+      "cta": "Cómo funciona →"
+     },
+     {
+      "t": "División judicial de cosa común",
+      "p": "Demandas y el juez ordena la venta en subasta judicial. No necesitas acuerdo, pero sí paciencia: de uno a tres años, abogado y procurador.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "Ver el procedimiento →"
+     },
+     {
+      "t": "Vender tu cuota a un comprador profesional",
+      "p": "Es lo que hacemos nosotros. Compramos tu parte sin que los demás tengan que estar de acuerdo. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría a nuestro cargo. Pagamos entre el 40 % y el 70 % del valor proporcional.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte →"
+     },
+     {
+      "t": "Calcular antes de decidir",
+      "p": "Con la calculadora ves qué cobrarías hoy por tu cuota. Así lo comparas con lo que dejaría una subasta tras gastos y meses de espera.",
+      "url": "/cuanto-vale-mi-parte-de-un-piso/",
+      "cta": "Calcular mi parte →"
+     }
+    ]
+   },
+   {
+    "overline": "Tu decisión",
+    "h2": "Subasta notarial o venta de tu parte del proindiviso",
+    "type": "callout",
+    "intro": [
+     "Si todos queréis vender, la subasta notarial de un proindiviso es una buena herramienta y te animamos a usarla. Si en cambio uno bloquea, o tú no quieres esperar meses, te compramos la cuota y cerramos en semanas."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota sin compromiso",
+     "p": "Dinos la dirección, tu porcentaje y la situación con los demás. En 48 horas tienes oferta por escrito. Sin exclusividad y sin que nadie más firme.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué es una subasta notarial voluntaria?",
+    "Es la venta de un bien ante notario mediante pujas electrónicas en el Portal de Subastas del BOE. La piden los propietarios de forma voluntaria, el notario fija las condiciones en un pliego y adjudica al mejor postor. La regula la Ley del Notariado desde 2015."
+   ],
+   [
+    "¿Se puede hacer una subasta notarial si un copropietario no quiere?",
+    "No. La subasta notarial voluntaria exige la solicitud de todos los titulares, porque se vende el inmueble entero. Si uno se niega, las opciones son la división judicial de cosa común o vender tu cuota a un tercero, que no necesita su permiso."
+   ],
+   [
+    "¿Cuánto tarda una subasta notarial de un piso?",
+    "Orientativamente, entre dos y cuatro meses desde que se firma la solicitud hasta que se cobra. Incluye la preparación del pliego, el anuncio en el portal, unos veinte días de pujas y el plazo para pagar el precio y firmar la escritura."
+   ],
+   [
+    "¿Pueden pujar los propios copropietarios en la subasta?",
+    "Sí, si el pliego lo permite. Es habitual que uno de los comuneros quiera quedarse el piso y use la subasta para que el precio lo fije la competencia con terceros. Si gana, paga a los demás su parte del precio."
+   ],
+   [
+    "¿Qué pasa si la subasta notarial queda desierta?",
+    "El notario levanta acta y el bien sigue siendo de los copropietarios. Podéis convocar una segunda subasta con un tipo más bajo, intentar la venta directa o acudir a la división judicial. También puedes vendernos tu cuota y salir sin esperar."
+   ],
+   [
+    "¿Es mejor la subasta notarial o venderos mi parte?",
+    "Depende de si hay acuerdo. Con todos a favor, la subasta notarial suele dejar más dinero, aunque tarda meses y tiene gastos. Sin acuerdo, o con prisa, vender tu cuota es la única vía que no depende de nadie: oferta en 48 horas y cobro en notaría en semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la subasta notarial de un proindiviso",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "La subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "Extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Si no hay acuerdo para la subasta, te compramos la cuota",
+  "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Subasta notarial de un proindiviso: cómo funciona y costes",
+  "meta_desc": "Subasta notarial de un proindiviso: requisitos, trámite en el Portal del BOE, costes y resultados reales. Sin acuerdo, compramos tu cuota en 48 horas.",
+  "focus_kw": "subasta notarial de un proindiviso",
+  "title_corto": "Subasta notarial voluntaria",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the carved stone entrance of a classic Spanish notary building on a quiet city street, heavy wooden door half open, worn marble steps, empty street. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Subasta notarial de un proindiviso: portal de piedra de un edificio antiguo en España"
+ },
+ {
+  "slug": "alquilar-piso-compartido-en-airbnb-sin-permiso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Copropiedad",
+  "h1": "Alquilar un piso compartido en Airbnb sin permiso: qué dice la ley y cómo pararlo",
+  "sub": "Alquilar un piso compartido en Airbnb sin permiso de los otros copropietarios no es legal: el uso turístico necesita, como mínimo, la mayoría de cuotas y, para muchos juristas, la unanimidad por ser un cambio de destino. Quien lo hace debe rendir cuentas y repartir los ingresos. Si estás harto de discutir por el piso, compramos tu cuota y sales en semanas.",
+  "checks": [
+   "Artículos 397 y 398 del Código Civil",
+   "Con la Ley de Propiedad Horizontal",
+   "Te compramos tu parte igualmente"
+  ],
+  "card_title": "¿Tu copropietario alquila el piso por su cuenta?",
+  "card_text": "No tienes por qué seguir ahí. Te damos precio por tu cuota en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Se puede alquilar un piso compartido en Airbnb sin permiso",
+    "type": "text",
+    "intro": [
+     "No. Alquilar un piso compartido en Airbnb sin permiso de los demás copropietarios vulnera el Código Civil. El artículo 398 exige la mayoría de cuotas para los actos de administración. El artículo 397 exige la unanimidad para las alteraciones de la cosa común. Un alquiler turístico cambia el destino del piso: pasa de vivienda a actividad económica con rotación de huéspedes. Por eso una parte importante de los juristas lo considera una alteración y no una simple administración.",
+     "Aunque solo se exigiera la mayoría, un copropietario con el 50 % no la tiene. Con un tercio, tampoco. Es decir, en el caso típico de dos hermanos o de una expareja, nadie puede alquilar por su cuenta. El que lo hace está usando la cosa común en exclusiva y en beneficio propio, algo que el artículo 394 no permite.",
+     "Hay un matiz. Si tú mismo quieres alquilar el piso compartido en Airbnb y los demás callan, su silencio no es permiso. Conviene pedirlo por escrito y guardar la respuesta, porque es la prueba que luego decide todo. Un correo o un mensaje con fecha vale más que una conversación de sobremesa."
+    ]
+   },
+   {
+    "overline": "Marco legal",
+    "h2": "Qué exige la ley para el uso turístico de un piso en proindiviso",
+    "type": "list",
+    "intro": [
+     "El alquiler turístico tiene tres capas de normas. Todas afectan a un piso con varios dueños."
+    ],
+    "items": [
+     "<strong>Código Civil.</strong> Mayoría de cuotas para administrar y unanimidad para alterar el destino. Además, cada comunero participa en los frutos según su cuota, por el artículo 393.",
+     "<strong>Ley de Propiedad Horizontal.</strong> La comunidad de vecinos puede limitar, condicionar o prohibir el uso turístico con el voto de tres quintos de propietarios y cuotas. Desde 2025, en la mayoría de los edificios hace falta su aprobación expresa antes de empezar.",
+     "<strong>Normativa autonómica y municipal.</strong> Licencia o declaración responsable, número de registro turístico y, desde 2025, el número del registro único estatal para anunciarse en plataformas. Sin ese número, Airbnb retira el anuncio.",
+     "<strong>Ley de Arrendamientos Urbanos.</strong> El alquiler turístico queda fuera de la LAU por su artículo 5. Se rige por la normativa sectorial de cada comunidad autónoma."
+    ],
+    "outro": [
+     "Por tanto, alquilar un piso compartido en Airbnb sin permiso falla en la primera capa y suele fallar también en las otras dos. Sin la firma de todos los titulares, muchas comunidades autónomas ni siquiera admiten la declaración responsable."
+    ]
+   },
+   {
+    "overline": "Preguntas prácticas",
+    "h2": "Licencia, ingresos y responsabilidad: a nombre de quién va cada cosa",
+    "type": "cards",
+    "items": [
+     {
+      "t": "La licencia",
+      "p": "La declaración responsable o licencia turística va a nombre del titular del inmueble. Si hay varios, la firman todos o apoderan a uno. Un solo comunero no puede presentarla como propietario único sin faltar a la verdad. Por eso alquilar un piso compartido en Airbnb sin permiso de los cotitulares suele empezar con una declaración falsa."
+     },
+     {
+      "t": "Los ingresos",
+      "p": "Son frutos de la cosa común. Se reparten según la cuota de cada uno, descontados los gastos justificados. Quien cobra debe rendir cuentas y, si no lo hace, los demás pueden reclamar su parte por vía judicial."
+     },
+     {
+      "t": "Los impuestos",
+      "p": "Cada copropietario declara en su IRPF la parte de renta que le corresponde por su cuota, aunque no haya cobrado nada. Hacienda cruza datos con las plataformas. Por eso un alquiler a tu espalda puede acabar en tu declaración."
+     },
+     {
+      "t": "Los daños",
+      "p": "Si un huésped rompe algo o molesta a los vecinos, la comunidad reclama a todos los titulares. Después, el que no autorizó el alquiler puede repetir contra el que lo organizó."
+     },
+     {
+      "t": "Las sanciones",
+      "p": "Anunciar sin registro supone multas de miles de euros, según comunidad autónoma. La administración sanciona al titular de la actividad, pero puede dirigirse contra el inmueble y sus dueños."
+     }
+    ]
+   },
+   {
+    "overline": "Cómo pararlo",
+    "h2": "Qué hacer si tu copropietario alquila el piso en Airbnb sin tu permiso",
+    "type": "steps",
+    "intro": [
+     "Si descubres que alguien va a alquilar vuestro piso compartido en Airbnb sin permiso, actúa por este orden. Cada paso deja prueba para el siguiente."
+    ],
+    "items": [
+     {
+      "t": "Reúne pruebas",
+      "p": "Captura el anuncio con fecha, el calendario de reservas y las reseñas. Pide al administrador de la finca las quejas de los vecinos, si las hay. Sin pruebas, todo lo demás se cae."
+     },
+     {
+      "t": "Requiere por burofax",
+      "p": "Exige el cese de la actividad y la rendición de cuentas de todos los ingresos. Da un plazo, por ejemplo quince días. El burofax fija la fecha desde la que puedes reclamar frutos y daños."
+     },
+     {
+      "t": "Avisa a la comunidad de vecinos",
+      "p": "Si el edificio ha limitado o prohibido el uso turístico, el presidente puede requerir el cese y acudir a la acción de cesación de la Ley de Propiedad Horizontal."
+     },
+     {
+      "t": "Denuncia ante la administración turística",
+      "p": "Si no hay registro, o la licencia se obtuvo sin tu firma, la inspección puede ordenar el cese y sancionar. Es la vía más rápida en la práctica."
+     },
+     {
+      "t": "Demanda si sigue",
+      "p": "Puedes pedir el cese del uso exclusivo, la entrega de tu parte de los ingresos y, si quieres, la división de la cosa común. Cuenta con abogado y procurador y con plazos de meses o años."
+     }
+    ]
+   },
+   {
+    "overline": "Escenarios",
+    "h2": "Cuatro situaciones habituales y cómo acaban",
+    "type": "table",
+    "intro": [
+     "Como compradores de cuotas vemos estos casos cada semana. Así suelen terminar, con independencia de quién tenga razón."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Qué suele pasar"
+     ],
+     [
+      "Dos hermanos al 50 %, uno alquila",
+      "No hay mayoría. El otro reclama cese y mitad de ingresos. Casi siempre acaba en venta del piso o de una cuota."
+     ],
+     [
+      "Tres herederos, dos alquilan",
+      "Tienen mayoría para administrar, pero el cambio a uso turístico se discute como alteración. El tercero puede impugnar y exigir su tercio de las rentas."
+     ],
+     [
+      "Expareja, uno vive y alquila habitaciones",
+      "Uso exclusivo más explotación. El otro puede reclamar compensación por el uso y su parte de los ingresos."
+     ],
+     [
+      "Todos de acuerdo, la comunidad lo prohíbe",
+      "El acuerdo interno no basta. Sin aprobación de la comunidad, hay multas y cese. Solo cabe alquilar como vivienda habitual o de temporada."
+     ]
+    ],
+    "outro": [
+     "En ninguno de los cuatro casos se consolida un negocio tranquilo. Alquilar un piso compartido en Airbnb sin permiso abre un frente judicial con cada ingreso que entra."
+    ]
+   },
+   {
+    "overline": "Si eres tú",
+    "h2": "Si eres tú quien quiere alquilar el piso compartido",
+    "type": "text",
+    "intro": [
+     "Pide el consentimiento por escrito a todos los copropietarios. Propón un reparto claro: ingresos según cuota y gastos según cuota. Firma un acuerdo privado que diga quién gestiona, quién cobra y cómo se rinden cuentas cada trimestre. Después tramita la licencia con la firma de todos y da de alta el número de registro.",
+     "Si uno se niega, no sigas adelante. Alquilar un piso compartido en Airbnb sin permiso te expone a devolver los ingresos, a pagar daños y a sanciones. Puedes ofrecer comprarle su parte, o venderle la tuya. También puedes vendérnosla a nosotros y usar el dinero en un inmueble que sea solo tuyo.",
+     "En nuestra entrada sobre alquilar un piso en proindiviso explicamos las mayorías del alquiler de larga duración. Este artículo trata el caso turístico, que es más exigente porque cambia el destino de la vivienda y entra en juego la administración."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Sal del piso compartido sin esperar a que el conflicto se resuelva",
+    "type": "callout",
+    "intro": [
+     "Discutir con quien decide alquilar el piso compartido en Airbnb sin permiso desgasta y cuesta dinero. Compramos tu cuota tal como está, con el conflicto abierto. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo. Pagamos entre el 40 % y el 70 % del valor proporcional, según el caso."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte del piso",
+     "p": "Dinos la dirección, tu porcentaje y qué está pasando. Te respondemos por escrito en 48 horas, sin compromiso y sin exclusividad.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede mi hermano alquilar el piso heredado en Airbnb sin contar conmigo?",
+    "No. Con el 50 % no tiene la mayoría de cuotas que exige el artículo 398 del Código Civil para administrar. Además, el uso turístico es para muchos juristas una alteración que necesita la unanimidad del artículo 397. Puedes exigir el cese y tu mitad de los ingresos."
+   ],
+   [
+    "¿Tengo derecho a los ingresos de Airbnb si yo no he firmado nada?",
+    "Sí. Los ingresos son frutos de la cosa común y se reparten según la cuota de cada copropietario, por el artículo 393 del Código Civil. Quien cobra debe rendir cuentas y entregarte tu parte, descontados los gastos justificados."
+   ],
+   [
+    "¿Qué mayoría hace falta para alquilar un piso en proindiviso como vivienda turística?",
+    "Como mínimo la mayoría de cuotas, por tratarse de un acto de administración. Sin embargo, el cambio de destino a uso turístico se considera con frecuencia una alteración y entonces hace falta la unanimidad. Además, la comunidad de vecinos debe aprobarlo por tres quintos."
+   ],
+   [
+    "¿A nombre de quién va la licencia turística si el piso tiene varios dueños?",
+    "A nombre de todos los titulares, o de uno apoderado por los demás. La declaración responsable exige acreditar la propiedad y un comunero solo no puede presentarse como dueño único. Sin la firma de todos, muchas comunidades autónomas la rechazan."
+   ],
+   [
+    "¿Puedo denunciar un piso turístico ilegal que es también mío?",
+    "Sí. Puedes denunciar ante la inspección turística de tu comunidad autónoma la falta de registro o de licencia. También puedes requerir el cese por burofax y, si no para, demandar por uso exclusivo y reclamar tu parte de las rentas."
+   ],
+   [
+    "¿Compráis una cuota de un piso que otro copropietario alquila en Airbnb?",
+    "Sí. Compramos cuotas de pisos con conflictos abiertos, ocupados o explotados por otro comunero. Valoramos la situación, te damos oferta por escrito en 48 horas y firmamos en notaría en dos a cuatro semanas, con los gastos de notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre alquilar un piso compartido en Airbnb",
+  "related": [
+   [
+    "Alquilar un piso en proindiviso",
+    "/blog/alquilar-un-piso-en-proindiviso/"
+   ],
+   [
+    "Compensación por uso exclusivo de la vivienda común",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Vende tu parte y deja de pelear por el piso",
+  "cta_text": "Compramos tu cuota con fondos propios, con el conflicto abierto. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Alquilar piso compartido en Airbnb sin permiso: la ley",
+  "meta_desc": "Alquilar un piso compartido en Airbnb sin permiso no es legal: mayorías, licencia, reparto de ingresos y cómo pararlo. Compramos tu cuota en 48 h.",
+  "focus_kw": "alquilar piso compartido en airbnb sin permiso",
+  "title_corto": "Airbnb sin permiso",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, soft morning light, muted palette with dark blue and terracotta accents: a bright apartment living room prepared for guests, folded towels on a neat bed visible through an open door, a small lockbox on the wall by the entrance, Mediterranean balcony with shutters. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Alquilar piso compartido en Airbnb sin permiso: salón preparado para huéspedes en España"
+ },
+ {
+  "slug": "mi-hermano-dice-que-la-casa-es-suya-por-usucapion",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Copropiedad",
+  "h1": "Mi hermano dice que la casa es suya por usucapión: qué hay de cierto y qué puedes hacer",
+  "sub": "Mi hermano dice que la casa es suya por usucapión: lo oímos cada semana. Casi nunca es cierto, porque quien vive en la casa heredada posee en nombre de todos los herederos y el tiempo solo no le convierte en dueño único. Te explicamos los requisitos, las excepciones, cómo acreditar tu cuota y cómo venderla aunque él siga dentro.",
+  "checks": [
+   "Artículos 1941 a 1959 del Código Civil",
+   "Doctrina del Tribunal Supremo",
+   "Compramos tu cuota ocupada"
+  ],
+  "card_title": "¿Tu hermano se ha apropiado de la casa?",
+  "card_text": "Te compramos tu cuota aunque él viva dentro y no firme nada. Precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Mi hermano dice que la casa es suya por usucapión: casi nunca es verdad",
+    "type": "text",
+    "intro": [
+     "Mi hermano dice que la casa es suya por usucapión. Es una de las frases que más leemos en foros de herencias. La respuesta corta es que, entre copropietarios, la usucapión casi nunca prospera. Quien vive en la casa de los padres durante veinte o treinta años posee en nombre de todos los herederos, no solo en el suyo. Y para usucapir hace falta poseer en concepto de dueño exclusivo, de forma pública, pacífica y sin interrupción, como exige el artículo 1941 del Código Civil.",
+     "El tiempo, por sí solo, no convierte a un hermano en propietario único. Hace falta algo más: actos inequívocos que demuestren que dejó de reconocer a los demás como dueños y que ellos lo supieron. Vivir, pagar el IBI o reformar la cocina no son esos actos. Por eso, cuando un hermano dice que la casa es suya por usucapión, lo normal es que tu cuota siga intacta.",
+     "Aun así, conviene revisar el caso. Hay excepciones y hay situaciones de hecho que complican la prueba. Te las explicamos y te decimos cómo blindar tu parte."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Qué exige la ley para que una casa sea suya por usucapión",
+    "type": "list",
+    "intro": [
+     "La usucapión es la adquisición de la propiedad por posesión continuada durante el plazo legal. El Código Civil pide varias cosas a la vez."
+    ],
+    "items": [
+     "<strong>Posesión en concepto de dueño.</strong> El poseedor actúa como propietario único y así lo ven los demás. Quien ocupa por tolerancia de la familia, o como heredero entre varios, no posee en ese concepto, por los artículos 444 y 1942.",
+     "<strong>Pública, pacífica y no interrumpida.</strong> Sin ocultación y sin violencia. Además, sin que nadie la haya interrumpido con una reclamación judicial o con un reconocimiento del derecho ajeno, por los artículos 1941 a 1948.",
+     "<strong>Plazos.</strong> Diez años entre presentes y veinte entre ausentes con justo título y buena fe, por el artículo 1957. Treinta años sin título ni buena fe, por el artículo 1959. El plazo se cuenta desde que la posesión cambió de concepto, no desde la muerte de los padres.",
+     "<strong>Carga de la prueba.</strong> Quien alega la usucapión debe probar todos los requisitos. La duda beneficia al titular registral."
+    ],
+    "outro": [
+     "Cuando tu hermano dice que la casa es suya por usucapión, revisa estos cuatro puntos. En la mayoría de los casos falla el primero."
+    ]
+   },
+   {
+    "overline": "La clave",
+    "h2": "Por qué un comunero no usucape la casa contra los demás herederos",
+    "type": "text",
+    "intro": [
+     "El coheredero que vive en la casa posee por un título que lo vincula a los demás: la herencia. La doctrina del Tribunal Supremo lo resume así: entre comuneros no corre la usucapión mientras uno posea en nombre de la comunidad. Para que empiece a correr hace falta lo que los juristas llaman interversión del concepto posesorio. Es decir, un cambio claro, y conocido por los demás, de poseer para todos a poseer solo para él.",
+     "Ese cambio no se presume. Se prueba con hechos. Por ejemplo, negar por escrito la cuota de los demás o inscribir la casa a su nombre con un título que no les incluya. También impedir la entrada a un hermano u oponerse a una partición. Y desde ese hecho, no antes, se cuentan los años.",
+     "Además, el artículo 1933 del Código Civil dice que la prescripción ganada por un comunero aprovecha a todos. La ley parte de que el que posee lo hace para la comunidad. Por eso, si tu hermano dice que la casa es suya por usucapión solo por haber vivido en ella, el argumento choca con la estructura misma del proindiviso."
+    ]
+   },
+   {
+    "overline": "Excepciones",
+    "h2": "Cuándo sí puede ser suya la casa: las excepciones",
+    "type": "cards",
+    "intro": [
+     "Hay casos en los que, cuando un hermano dice que la casa es suya por usucapión, la reclamación tiene recorrido. Son pocos, pero existen y conviene reconocerlos pronto."
+    ],
+    "items": [
+     {
+      "t": "Título a su nombre desde hace décadas",
+      "p": "Si los padres le vendieron o donaron la casa en documento privado y él la inscribió, posee con título. Puede completar la usucapión ordinaria de diez años si hubo buena fe, o defender la validez del título."
+     },
+     {
+      "t": "Oposición expresa y conocida",
+      "p": "Imagina que hace más de treinta años os negó por escrito cualquier derecho y cerró la casa. Si vosotros no reclamasteis, la usucapión extraordinaria del artículo 1959 puede haberse consumado."
+     },
+     {
+      "t": "Herencia aceptada solo por él",
+      "p": "Solo él aceptó y se adjudicó la herencia. Los demás dejaron pasar décadas sin ejercer ningún derecho. En ese caso, la prueba de la posesión exclusiva le resulta más fácil."
+     },
+     {
+      "t": "Casa inscrita solo a su nombre",
+      "p": "Una inscripción registral a su favor, aunque sea indebida, crea una presunción de titularidad. Habría que impugnarla y, mientras tanto, el tiempo juega en tu contra."
+     }
+    ],
+    "outro": [
+     "En todos estos supuestos hay una señal común: hubo un hecho público de ruptura y los demás no reaccionaron. Si no lo hubo, tu hermano dice que la casa es suya por usucapión sin base legal."
+    ]
+   },
+   {
+    "overline": "Tu cuota",
+    "h2": "Cómo acreditar tu parte si tu hermano dice que la casa es suya",
+    "type": "steps",
+    "intro": [
+     "Antes de discutir, documenta tu derecho. Son cuatro gestiones y la mayoría se hacen online."
+    ],
+    "items": [
+     {
+      "t": "Pide la nota simple",
+      "p": "Cuesta unos diez euros y dice quién figura como titular y con qué cuota. Si la casa sigue a nombre de los padres, la herencia no se inscribió y tu derecho nace de la ley o del testamento."
+     },
+     {
+      "t": "Localiza el testamento o la declaración de herederos",
+      "p": "Con el certificado de últimas voluntades sabrás si hay testamento y en qué notaría. Sin testamento, la declaración de herederos ante notario te reconoce como heredero."
+     },
+     {
+      "t": "Acepta la herencia",
+      "p": "Puedes otorgar escritura de aceptación de herencia aunque tu hermano no colabore, en lo que afecta a tu cuota. Si se niega a partir, cabe la partición notarial o judicial."
+     },
+     {
+      "t": "Inscribe tu cuota y actualiza el Catastro",
+      "p": "Inscrita tu cuota en el Registro, la presunción juega a tu favor. Pide también la alteración catastral para que el IBI refleje a todos los titulares."
+     }
+    ],
+    "outro": [
+     "Hecho esto, cuando tu hermano dice que la casa es suya por usucapión, tú respondes con un título inscrito. Y un título inscrito se puede vender."
+    ]
+   },
+   {
+    "overline": "Opciones",
+    "h2": "Qué puedes hacer con tu cuota aunque tu hermano siga en la casa",
+    "type": "table",
+    "intro": [
+     "Acreditada tu parte, tienes varios caminos. Ninguno exige que tu hermano se vaya hoy."
+    ],
+    "items": [
+     [
+      "Opción",
+      "Qué consigues y qué te cuesta"
+     ],
+     [
+      "Reclamar compensación por uso exclusivo",
+      "Una renta mensual proporcional a tu cuota desde que la reclamas. Necesita requerimiento y, si no paga, demanda."
+     ],
+     [
+      "División de cosa común",
+      "El juez ordena la venta de la casa en subasta y reparte el precio. De uno a tres años, abogado y procurador. Tu hermano puede pujar."
+     ],
+     [
+      "Vender tu cuota a un tercero",
+      "Lo permite el artículo 399 del Código Civil sin su consentimiento. Nosotros la compramos con oferta en 48 horas y firma en notaría en dos a cuatro semanas. Tu hermano conserva el retracto de nueve días."
+     ],
+     [
+      "Venderle tu cuota a él",
+      "Si quiere quedársela y tiene dinero, es la salida más limpia. Si solo dice que es suya pero no paga, vuelve a las anteriores."
+     ]
+    ],
+    "outro": [
+     "Que tu hermano diga que la casa es suya no impide ninguna de las tres. Si tu hermano dice que la casa es suya por usucapión y a la vez se niega a comprarte, lo que busca es tiempo. No se lo des."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Vende tu parte de la casa y deja la usucapión atrás",
+    "type": "callout",
+    "intro": [
+     "Si tu hermano dice que la casa es suya por usucapión y tú solo quieres cerrar el tema, te compramos la cuota tal cual. Con él dentro y sin que firme nada. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría a nuestro cargo. Pagamos entre el 40 % y el 70 % del valor proporcional, según la ocupación y el estado del título."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota de la casa",
+     "p": "Dinos la dirección, tu porcentaje y desde cuándo vive allí tu hermano. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede mi hermano quedarse la casa de mis padres por vivir en ella 30 años?",
+    "No por el simple hecho de vivir. Para la usucapión extraordinaria de treinta años del artículo 1959 del Código Civil hace falta poseer como dueño exclusivo, de forma pública y frente a los demás herederos. Vivir en la casa familiar con la tolerancia de los hermanos no cumple ese requisito."
+   ],
+   [
+    "¿Desde cuándo se cuenta el plazo de usucapión entre herederos?",
+    "Desde el momento en que el poseedor cambia de forma clara y conocida su posesión: deja de poseer para la comunidad y pasa a poseer solo para él. No se cuenta desde la muerte de los padres. Si ese cambio no se prueba, el plazo no ha empezado."
+   ],
+   [
+    "¿Pagar el IBI durante años da derecho a la propiedad?",
+    "No. Pagar el IBI, la comunidad o las reparaciones es un acto de administración que cualquier comunero puede hacer. Da derecho a reclamar a los demás su parte de los gastos, por el artículo 393, pero no convierte al pagador en único dueño."
+   ],
+   [
+    "¿Qué hago si la casa está inscrita solo a nombre de mi hermano?",
+    "Pide la nota simple y la copia de la escritura que motivó la inscripción. Si procede de un título que te excluyó de forma indebida, puedes impugnarlo con abogado. Mientras tanto, no dejes pasar el tiempo: cada año de silencio refuerza su posición."
+   ],
+   [
+    "¿Puedo vender mi parte si mi hermano dice que la casa es suya?",
+    "Sí, siempre que tu cuota conste en un título: escritura de herencia inscrita o, al menos, aceptación de herencia. El artículo 399 del Código Civil te permite vender tu cuota sin su consentimiento. Nosotros compramos cuotas de casas ocupadas por otro hermano y asumimos el conflicto."
+   ],
+   [
+    "¿Necesito un abogado para responder a la usucapión?",
+    "Para contestar una demanda sí, porque es un juicio ordinario. Antes de eso, puedes hacer mucho sin abogado: nota simple, certificado de últimas voluntades y aceptación de herencia ante notario. Con el título en la mano, la mayoría de estas reclamaciones se desinflan."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la usucapión entre hermanos",
+  "related": [
+   [
+    "Mi hermano vive en la casa de mis padres y no quiere vender",
+    "/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/"
+   ],
+   [
+    "Compensación por uso exclusivo de la vivienda común",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "Vender un proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Nota simple: cómo pedirla y leerla",
+    "/blog/nota-simple-como-pedirla-y-leerla/"
+   ],
+   [
+    "Certificado de últimas voluntades: cómo pedirlo",
+    "/blog/certificado-de-ultimas-voluntades-como-pedirlo/"
+   ]
+  ],
+  "cta_title": "Tu cuota sigue siendo tuya. Y se puede vender",
+  "cta_text": "Compramos tu parte de la casa aunque tu hermano viva en ella. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Mi hermano dice que la casa es suya usucapión: qué responder",
+  "meta_desc": "Mi hermano dice que la casa es suya por usucapión tras décadas viviendo en ella. Por qué casi nunca es así, cómo acreditar tu cuota y cómo vender tu parte.",
+  "focus_kw": "mi hermano dice que la casa es suya usucapión",
+  "title_corto": "Usucapión entre hermanos",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, late afternoon natural light, muted palette with dark blue and terracotta accents: an old whitewashed village house with a weathered wooden door, terracotta roof tiles, an overgrown courtyard and a rusty iron gate, rural Spanish street. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Mi hermano dice que la casa es suya por usucapión: casa encalada en España"
+ },
+ {
+  "slug": "impugnar-testamento-vender-la-casa",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Impugnar el testamento y vender la casa: qué pasa con tu parte mientras dura el pleito",
+  "sub": "Impugnar el testamento no impide vender la casa en todos los casos: impide vender el inmueble entero, porque nadie sabe quién hereda hasta la sentencia, pero tu cuota se puede transmitir con el pleito dentro. Te contamos qué queda bloqueado, qué hace la anotación preventiva de demanda y cómo compramos tu parte aunque el litigio siga abierto.",
+  "checks": [
+   "Compramos cuotas en litigio",
+   "Con la Ley Hipotecaria y el Código Civil",
+   "Oferta por escrito en 48 horas"
+  ],
+  "card_title": "¿Herencia bloqueada por un pleito?",
+  "card_text": "Estudiamos tu caso y te damos precio por tu cuota en 48 horas, con el litigio abierto.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Impugnar el testamento y vender la casa: qué se puede y qué no",
+    "type": "text",
+    "intro": [
+     "Impugnar el testamento no impide vender la casa en todos los casos, pero sí en el más habitual: la venta del inmueble entero. Mientras un juzgado decide si el testamento es válido, nadie sabe con certeza quién hereda ni en qué proporción. Ningún notario autoriza la venta de la casa completa con esa duda abierta. En cambio, la cuota de cada heredero, con el riesgo del pleito dentro, sí se puede transmitir.",
+     "Esto importa porque los pleitos de nulidad de testamento duran. Entre la demanda, la prueba pericial sobre la capacidad del fallecido y los recursos, lo normal son de dos a cuatro años. Durante ese tiempo la casa sigue generando IBI, comunidad y deterioro. Por eso muchos herederos prefieren impugnar el testamento unos y vender la casa otros, cada uno su parte, antes que esperar.",
+     "Aquí te explicamos qué se bloquea de verdad, qué papel juega la anotación preventiva de demanda y en qué condiciones compramos una cuota con litigio abierto. Hablamos desde la experiencia de comprar herencias conflictivas en toda España, no desde la teoría."
+    ]
+   },
+   {
+    "overline": "Causas",
+    "h2": "Motivos para impugnar un testamento",
+    "type": "cards",
+    "intro": [
+     "No todo testamento injusto es nulo. La ley tasa las causas y cada una produce un efecto distinto."
+    ],
+    "items": [
+     {
+      "t": "Falta de capacidad del testador",
+      "p": "Es la causa más frecuente. Se alega que el fallecido no estaba en su sano juicio al testar, por demencia u otra enfermedad. El artículo 663 del Código Civil lo prohíbe. La prueba gira en torno a informes médicos y al juicio del notario."
+     },
+     {
+      "t": "Vicios de forma",
+      "p": "Testamento sin testigos cuando hacían falta, sin firma o con una intervención notarial defectuosa. Las formas del Código Civil son estrictas y su incumplimiento anula el acto."
+     },
+     {
+      "t": "Captación de voluntad",
+      "p": "Engaño, amenaza o influencia indebida de un familiar o cuidador sobre una persona vulnerable. Es difícil de probar y suele ir unida a la falta de capacidad."
+     },
+     {
+      "t": "Preterición y legítimas",
+      "p": "Un hijo omitido o una legítima lesionada no anulan todo el testamento, pero obligan a reducir las disposiciones. Lo regulan los artículos 814 y 815."
+     },
+     {
+      "t": "Desheredación injusta",
+      "p": "Si el desheredado prueba que la causa alegada no es cierta, recupera su legítima, por el artículo 851. El resto del testamento se mantiene."
+     }
+    ],
+    "outro": [
+     "Cada motivo tiene un alcance distinto. Antes de impugnar un testamento para vender la casa después, pide a un abogado que te diga qué quedaría en pie si ganas."
+    ]
+   },
+   {
+    "overline": "Efectos",
+    "h2": "Qué queda bloqueado mientras dura el pleito",
+    "type": "list",
+    "intro": [
+     "Con la demanda presentada, la herencia entra en una especie de pausa. Esto es lo que no se puede hacer, o se hace con riesgo."
+    ],
+    "items": [
+     "<strong>Vender la casa entera.</strong> Hace falta la firma de todos los herederos y nadie sabe quiénes son hasta la sentencia. Ningún comprador serio firma así.",
+     "<strong>Partir la herencia.</strong> La partición notarial o judicial se suspende o se hace bajo condición. Si el testamento cae, la partición cae con él.",
+     "<strong>Inscribir adjudicaciones.</strong> El Registro inscribe, pero con la anotación de demanda al lado. Cualquier adquirente posterior queda avisado.",
+     "<strong>Liquidar el impuesto de sucesiones sin riesgo.</strong> Hay que presentarlo igual en seis meses, con prórroga posible. Si cambia el testamento, se rectifica. Hacienda no espera al juzgado.",
+     "<strong>Cobrar seguros y cuentas.</strong> Los bancos suelen exigir la escritura de herencia firme o un acuerdo de todos los posibles herederos."
+    ],
+    "outro": [
+     "Lo que no se bloquea es tu posición como posible heredero. Impugnar el testamento no te prohíbe vender la casa en la parte que te corresponde, con sus riesgos, a quien quiera asumirla."
+    ]
+   },
+   {
+    "overline": "Registro",
+    "h2": "La anotación preventiva de demanda en el Registro",
+    "type": "text",
+    "intro": [
+     "Quien impugna puede pedir al juzgado que ordene una anotación preventiva de demanda en el Registro de la Propiedad, por el artículo 42 de la Ley Hipotecaria. Es una advertencia pública: la titularidad de la casa está discutida. Dura cuatro años y se prorroga mientras siga el pleito.",
+     "Sus efectos son dos. Primero, cualquiera que compre después queda sometido al resultado de la sentencia. Segundo, el precio baja, porque el comprador asume el riesgo. No prohíbe la venta, pero la hace poco atractiva para un particular. Para un comprador profesional de cuotas es un dato más que entra en el precio.",
+     "Si tú eres el heredero instituido y otro impugna, la anotación también te protege: nadie podrá decir que ocultaste el pleito. Y si eres quien impugna, pídela cuanto antes. Sin ella, el heredero instituido podría vender la casa a un tercero de buena fe antes de que acabe el proceso para impugnar el testamento, y tú acabarías reclamando dinero."
+    ]
+   },
+   {
+    "overline": "Escenarios",
+    "h2": "Vender tu parte de la casa con el testamento impugnado",
+    "type": "table",
+    "intro": [
+     "Según tu posición en el pleito para impugnar el testamento, vender tu parte de la casa tiene sentido o no. Esta tabla resume los casos más comunes."
+    ],
+    "items": [
+     [
+      "Tu situación",
+      "Qué puedes vender y a qué precio orientativo"
+     ],
+     [
+      "Eres heredero por ley y por testamento, el pleito no te afecta",
+      "Tu cuota mínima es segura. Se vende con normalidad, con el descuento propio del proindiviso: entre el 40 % y el 70 % del valor proporcional."
+     ],
+     [
+      "Eres heredero instituido y otro impugna",
+      "Puedes vender tu cuota, pero el comprador asume que la sentencia la reduzca. El precio baja más y suele pactarse un ajuste si el pleito se pierde."
+     ],
+     [
+      "Eres quien impugna",
+      "Hasta la sentencia solo tienes una expectativa. Se puede ceder el derecho litigioso, pero el precio es bajo. Suele ser mejor esperar o negociar con los demás."
+     ],
+     [
+      "Hay acuerdo entre todos para transigir",
+      "Un acuerdo transaccional homologado por el juez cierra el pleito en meses. Después se vende la casa entera o cada uno su cuota, ya sin descuento por litigio."
+     ]
+    ],
+    "outro": [
+     "En resumen: impugnar el testamento y vender la casa son compatibles cuando lo que vendes es tu cuota y el comprador conoce el pleito."
+    ]
+   },
+   {
+    "overline": "Cómo lo hacemos",
+    "h2": "Cómo compramos una cuota hereditaria en litigio",
+    "type": "steps",
+    "intro": [
+     "Compramos cuotas hereditarias con pleito abierto, caso por caso. Así lo hacemos."
+    ],
+    "items": [
+     {
+      "t": "Estudiamos el expediente",
+      "p": "Pedimos la demanda, el testamento impugnado, el anterior si lo hay y la nota simple con la anotación. En 48 horas te decimos si entramos y a qué precio."
+     },
+     {
+      "t": "Fijamos el precio con el riesgo dentro",
+      "p": "Partimos de tu cuota según el testamento vigente y descontamos la probabilidad de que cambie. Te lo explicamos con números: un tercio de una casa de 240.000 € son 80.000 € en bruto, y el litigio sitúa la oferta en la parte baja de la horquilla del 40 % al 70 %."
+     },
+     {
+      "t": "Firmamos en notaría",
+      "p": "Escritura de cesión de derechos hereditarios o de venta de cuota, según el estado de la herencia. Entre dos y cuatro semanas desde que aceptas. Gastos de notaría a nuestro cargo."
+     },
+     {
+      "t": "Asumimos el pleito",
+      "p": "Nos subrogamos en tu posición. Si el juzgado reduce la cuota, es nuestro problema. Tú ya has cobrado al contado."
+     }
+    ],
+    "outro": [
+     "Si alguien de la familia decidió impugnar el testamento y tú solo quieres vender la casa y seguir con tu vida, esta es la salida que no depende de la sentencia."
+    ]
+   },
+   {
+    "overline": "Tu decisión",
+    "h2": "Impugnar el testamento o vender tu parte de la casa: tú decides",
+    "type": "callout",
+    "intro": [
+     "Impugnar el testamento es un derecho; vender la casa, o tu parte de ella, también. Si prefieres cobrar ahora antes que esperar años, pide oferta. Sin compromiso y sin exclusividad. Puedes compararla con lo que esperas obtener tras la sentencia, descontando abogados, años y gastos del inmueble."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota con el pleito abierto",
+     "p": "Cuéntanos quién impugna, por qué motivo y en qué fase está. En 48 horas tienes respuesta por escrito.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender una casa heredada si el testamento está impugnado?",
+    "La casa entera, en la práctica no: hace falta la firma de todos los herederos y hasta la sentencia no se sabe quiénes son. Tu cuota sí se puede vender, con el riesgo del pleito dentro y a un precio que lo refleje. Nosotros compramos cuotas en esa situación."
+   ],
+   [
+    "¿Cuánto tarda un juicio por nulidad de testamento?",
+    "Orientativamente, de dos a cuatro años entre la primera instancia y la apelación. Depende del juzgado, de la prueba pericial sobre la capacidad del fallecido y de si hay recurso. Durante ese tiempo la herencia queda en pausa."
+   ],
+   [
+    "¿Qué es la anotación preventiva de demanda y quién la pide?",
+    "Es un asiento en el Registro de la Propiedad que avisa de que la titularidad de la finca está en pleito. La pide quien impugna, a través del juzgado, por el artículo 42 de la Ley Hipotecaria. Dura cuatro años prorrogables y vincula a cualquier comprador posterior."
+   ],
+   [
+    "¿Hay que pagar el impuesto de sucesiones aunque el testamento esté impugnado?",
+    "Sí. El plazo de seis meses desde el fallecimiento, prorrogable otros seis, corre igual. Se liquida según el testamento vigente y, si la sentencia lo cambia, se rectifica después. Es orientativo y conviene confirmarlo según comunidad autónoma."
+   ],
+   [
+    "¿Puedo impugnar el testamento y a la vez vender mi parte?",
+    "Puedes, pero piensa qué vendes. Si impugnas, tu cuota actual es la que discutes, y la que esperas aún no existe. Lo habitual es esperar a la sentencia o negociar una transacción con los demás herederos y vender después."
+   ],
+   [
+    "¿Compráis cuotas de herencias con el testamento en litigio?",
+    "Sí, caso por caso. Estudiamos la demanda, el testamento y la anotación registral, y te damos oferta por escrito en 48 horas. Si aceptas, firmamos en notaría en dos a cuatro semanas y asumimos el resultado del pleito."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender con el testamento impugnado",
+  "related": [
+   [
+    "Herencia yacente: qué se puede vender antes de la partición",
+    "/blog/herencia-yacente-vender-antes-de-la-particion/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Qué es una cuota hereditaria",
+    "/blog/que-es-una-cuota-hereditaria/"
+   ],
+   [
+    "Empresas que compran herencias",
+    "/empresas-que-compran-herencias/"
+   ]
+  ],
+  "cta_title": "No esperes a la sentencia para cobrar tu parte",
+  "cta_text": "Compramos tu cuota hereditaria con el pleito abierto. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Impugnar testamento vender la casa: qué pasa con tu parte",
+  "meta_desc": "Impugnar el testamento bloquea vender la casa entera, no tu cuota. Qué queda parado, la anotación de demanda y cómo vender tu parte con el pleito abierto.",
+  "focus_kw": "impugnar testamento vender la casa",
+  "title_corto": "Testamento impugnado",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, overcast natural light, muted palette with dark blue and terracotta accents: the exterior of a provincial Spanish courthouse with stone columns and closed tall wooden doors, empty steps, a bare tree in the square. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impugnar testamento y vender la casa: fachada de un juzgado español cerrado"
+ },
+ {
+  "slug": "quien-hereda-si-no-hay-testamento",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Quién hereda si no hay testamento: el orden legal completo con ejemplos",
+  "sub": "Quién hereda si no hay testamento lo fija el Código Civil por este orden: hijos y descendientes, padres y ascendientes, cónyuge, hermanos y sobrinos, otros parientes hasta el cuarto grado y, por último, el Estado. El viudo, además, conserva siempre un usufructo. Casi siempre el resultado es una casa con varios dueños, y esa cuota se puede vender: nosotros la compramos.",
+  "checks": [
+   "Artículos 912 a 958 del Código Civil",
+   "Con ejemplos y cifras",
+   "Compramos cuotas hereditarias"
+  ],
+  "card_title": "¿Has heredado una parte de una casa?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin esperar al acuerdo de los demás herederos.",
+  "sections": [
+   {
+    "overline": "Regla general",
+    "h2": "Quién hereda si no hay testamento: la regla general",
+    "type": "text",
+    "intro": [
+     "Quién hereda si no hay testamento lo decide la ley, no la familia. El Código Civil la llama sucesión intestada o abintestato y, además, la regula en los artículos 912 a 958. Funciona por órdenes: mientras haya alguien en un orden, los siguientes no heredan nada. Y dentro de cada orden, los parientes más próximos excluyen a los más lejanos, salvo el derecho de representación.",
+     "En la práctica, la consecuencia es casi siempre la misma. Por ejemplo, el piso de los padres acaba repartido por partes iguales entre varios hijos, o entre hermanos y sobrinos del fallecido. Así nace un proindiviso en el que nadie puede vender el inmueble entero sin el acuerdo de todos. Por eso, además del orden sucesorio, te explicamos cómo salir de esa copropiedad.",
+     "Ojo, además, con las comunidades con derecho civil propio. Cataluña, Aragón, Navarra, País Vasco, Galicia y Baleares tienen reglas distintas en algunos puntos, sobre todo en la posición del cónyuge viudo. Lo que sigue es el régimen del Código Civil, que decide quién hereda sin testamento en el resto de España."
+    ]
+   },
+   {
+    "overline": "El orden",
+    "h2": "Orden completo: quién hereda sin testamento en cada caso",
+    "type": "table",
+    "intro": [
+     "Este es el orden del Código Civil. Se pasa al siguiente solo cuando el anterior está vacío."
+    ],
+    "items": [
+     [
+      "Orden",
+      "Quién hereda y en qué proporción"
+     ],
+     [
+      "Primero: hijos y descendientes",
+      "Los hijos heredan por partes iguales, según los artículos 930 a 934. Si un hijo murió antes, sus hijos ocupan su lugar por estirpes. Además, el viudo recibe el usufructo de un tercio."
+     ],
+     [
+      "Segundo: padres y ascendientes",
+      "Sin descendientes, heredan los padres por mitad y, si vive uno, todo él. Sin padres, los abuelos por líneas, según los artículos 935 a 942. El viudo recibe entonces el usufructo de la mitad."
+     ],
+     [
+      "Tercero: cónyuge viudo",
+      "Sin descendientes ni ascendientes, hereda todo el cónyuge, pero solo si no estaba separado legalmente o de hecho, según los artículos 943 a 945."
+     ],
+     [
+      "Cuarto: hermanos y sobrinos",
+      "Los hermanos heredan por igual y los sobrinos, hijos de un hermano fallecido, heredan por estirpes su parte. Además, los medio hermanos reciben la mitad que los de doble vínculo, según los artículos 946 a 951."
+     ],
+     [
+      "Quinto: otros parientes hasta el cuarto grado",
+      "Tíos, primos y sobrinos nietos, por grados de proximidad y sin representación, según los artículos 954 y 955."
+     ],
+     [
+      "Por último: el Estado",
+      "Si no hay nadie hasta el cuarto grado, hereda el Estado o la comunidad autónoma correspondiente, según el artículo 956."
+     ]
+    ],
+    "outro": [
+     "Si te preguntas quién hereda si no hay testamento en tu familia, localiza el primer orden con alguien vivo. Ahí está la respuesta."
+    ]
+   },
+   {
+    "overline": "El viudo",
+    "h2": "El cónyuge viudo: usufructo siempre, propiedad solo a veces",
+    "type": "cards",
+    "intro": [
+     "El viudo es el gran olvidado cuando se explica quién hereda si no hay testamento. No recibe la propiedad mientras haya hijos o padres, pero conserva derechos."
+    ],
+    "items": [
+     {
+      "t": "Con hijos",
+      "p": "Usufructo de un tercio de la herencia, por el artículo 834. Los hijos pueden pagarlo en dinero o, si lo prefieren, con un bien concreto. En la práctica, sobre la vivienda suele traducirse en el derecho a seguir viviendo en ella."
+     },
+     {
+      "t": "Con padres del fallecido",
+      "p": "Usufructo de la mitad, por el artículo 837. Es decir, los suegros heredan la propiedad y el viudo el uso, una combinación que genera muchos conflictos."
+     },
+     {
+      "t": "Sin hijos ni padres",
+      "p": "Hereda todo en propiedad. De hecho, es el único caso en que el viudo recibe la casa entera sin testamento."
+     },
+     {
+      "t": "Separado o divorciado",
+      "p": "Pierde todo derecho sucesorio, incluso el usufructo. El divorcio, y también la separación de hecho probada, excluyen al cónyuge."
+     },
+     {
+      "t": "Pareja de hecho",
+      "p": "En el Código Civil no hereda nada sin testamento. Algunas comunidades autónomas con derecho propio sí le reconocen derechos."
+     }
+    ],
+    "outro": [
+     "Además, el ajuar de la vivienda se entrega al viudo sin contar en la herencia, por el artículo 1321. Y en gananciales, la mitad de los bienes comunes ya es suya antes de repartir nada."
+    ]
+   },
+   {
+    "overline": "Ejemplos",
+    "h2": "Tres ejemplos con números de quién hereda sin testamento",
+    "type": "text",
+    "intro": [
+     "Caso uno. Fallece la madre, viuda, con tres hijos y un piso de 180.000 € libre de cargas. Cada hijo hereda un tercio porque no hay testamento: 60.000 € en valor. Así, el piso pasa a ser un proindiviso de tres. Si uno quiere vender y los otros no, su salida es vender su cuota.",
+     "Caso dos. Fallece el padre casado en gananciales, con dos hijos, y la vivienda familiar vale 240.000 €. La mitad, 120.000 €, ya era de la viuda por la liquidación de gananciales. La otra mitad, en cambio, se reparte. Sin testamento, cada hijo hereda 60.000 € en nuda propiedad y la viuda conserva el usufructo de un tercio de esa mitad. Al final, un piso con tres titulares y un usufructo encima.",
+     "Caso tres. Fallece una persona soltera y sin hijos, con los padres ya muertos, dos hermanos vivos y un tercer hermano fallecido que dejó dos hijos. Quién hereda si no hay testamento aquí: los dos hermanos un tercio cada uno y los dos sobrinos un sexto cada uno, por representación. Es decir, cuatro titulares con cuotas desiguales. En la práctica, es el proindiviso más difícil de gestionar que vemos."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se tramita la herencia cuando no hay testamento",
+    "type": "steps",
+    "intro": [
+     "Sin testamento no hay reparto automático: hay que acreditar quién hereda con un documento público."
+    ],
+    "items": [
+     {
+      "t": "Certificado de últimas voluntades",
+      "p": "Confirma, antes de nada, que no existe testamento. Se pide a partir de quince días hábiles desde el fallecimiento con el modelo 790."
+     },
+     {
+      "t": "Declaración de herederos abintestato",
+      "p": "Se hace ante notario competente con dos testigos y la documentación de parentesco: certificados de defunción, nacimiento y matrimonio, y libro de familia. Después, el acta se cierra pasados veinte días hábiles."
+     },
+     {
+      "t": "Inventario y valoración",
+      "p": "Lista de bienes y deudas, además de su valor. Para los inmuebles, el valor de referencia del Catastro marca el mínimo fiscal."
+     },
+     {
+      "t": "Impuesto de sucesiones y plusvalía",
+      "p": "Seis meses de plazo, prorrogables si lo pides a tiempo. Lo que pagas depende de la comunidad autónoma y del parentesco: de forma orientativa, desde casi nada entre padres e hijos en muchas regiones hasta cifras altas entre hermanos o sobrinos."
+     },
+     {
+      "t": "Escritura de partición",
+      "p": "Por último, los herederos se adjudican los bienes. Si no se ponen de acuerdo, cada uno puede aceptar y quedarse con su cuota indivisa, que es lo que luego se puede vender."
+     }
+    ],
+    "outro": [
+     "En nuestra entrada sobre vender una casa heredada sin testamento detallamos cada paso y sus costes."
+    ]
+   },
+   {
+    "overline": "Salidas",
+    "h2": "Cuando quien hereda sin testamento son muchos: cómo salir del proindiviso",
+    "type": "cards",
+    "intro": [
+     "Cuatro hermanos, dos sobrinos y un usufructo: así acaba muchas veces la pregunta de quién hereda si no hay testamento. Las salidas son estas."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Un heredero se queda la casa y compensa a los demás. Pero hace falta acuerdo y dinero. Con el simulador puedes ver qué paga cada uno.",
+      "url": "/simulador-extincion-de-condominio/",
+      "cta": "Simular →"
+     },
+     {
+      "t": "Venta conjunta del inmueble",
+      "p": "La mejor opción si todos firman. Con seis herederos repartidos por España, rara vez ocurre a tiempo."
+     },
+     {
+      "t": "División judicial",
+      "p": "Cualquiera puede pedirla, por el artículo 400 del Código Civil. Acaba en subasta después de uno a tres años de pleito.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "Cómo funciona →"
+     },
+     {
+      "t": "Vender tu cuota a un comprador profesional",
+      "p": "No necesitas el acuerdo de nadie, porque compramos cuotas hereditarias en toda España. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo. Además, pagamos entre el 40 % y el 70 % del valor proporcional.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte →"
+     }
+    ]
+   },
+   {
+    "overline": "Tu decisión",
+    "h2": "Ya sabes quién hereda si no hay testamento: ahora decide qué hacer con tu parte",
+    "type": "callout",
+    "intro": [
+     "Saber quién hereda si no hay testamento es el primer paso. El segundo es decidir si quieres quedarte años en una copropiedad con parientes. Si la respuesta es no, te damos precio por tu cuota."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota hereditaria",
+     "p": "Dinos qué inmueble es, cuántos herederos sois y tu porcentaje. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hereda la pareja de hecho si no hay testamento?",
+    "En el Código Civil, no. La pareja de hecho no es cónyuge y no aparece en ningún orden de la sucesión intestada. Algunas comunidades con derecho civil propio, como Cataluña o País Vasco, sí le reconocen derechos. Fuera de ellas, solo hereda si hay testamento."
+   ],
+   [
+    "¿Qué hereda la viuda si hay hijos y no hay testamento?",
+    "El usufructo de un tercio de la herencia, por el artículo 834 del Código Civil. Además, si el matrimonio era en gananciales, la mitad de los bienes comunes ya es suya por la liquidación, no por herencia. Los hijos heredan la propiedad del resto."
+   ],
+   [
+    "¿Heredan los sobrinos si no hay testamento?",
+    "Sí, cuando su padre o madre, hermano del fallecido, murió antes. Entran por derecho de representación y se reparten la parte que le habría correspondido a él. Si todos los hermanos viven, los sobrinos no heredan nada."
+   ],
+   [
+    "¿Cuánto tarda la declaración de herederos sin testamento?",
+    "Orientativamente, entre uno y dos meses. El acta notarial exige esperar veinte días hábiles desde su inicio antes de cerrarse, además del tiempo de reunir certificados. Después puedes aceptar la herencia y, si quieres, vender tu cuota."
+   ],
+   [
+    "¿Puede un heredero vender su parte sin el acuerdo de los demás?",
+    "Sí. Una vez aceptada la herencia, cada heredero puede vender su cuota indivisa por el artículo 399 del Código Civil, sin consentimiento de los demás. Ellos tienen derecho de retracto. Nosotros compramos esas cuotas con oferta por escrito en 48 horas."
+   ],
+   [
+    "¿Qué pasa si no hay ningún pariente hasta el cuarto grado?",
+    "Hereda el Estado, o la comunidad autónoma en los territorios que así lo tienen regulado, por el artículo 956 del Código Civil. Los bienes se liquidan y el dinero se destina a fines sociales. Es poco frecuente, pero ocurre con personas mayores sin familia."
+   ]
+  ],
+  "faq_title": "Preguntas sobre quién hereda sin testamento",
+  "related": [
+   [
+    "Vender una casa heredada sin testamento",
+    "/blog/vender-casa-heredada-sin-testamento/"
+   ],
+   [
+    "Cómo se reparte una herencia de una casa entre hermanos",
+    "/blog/como-se-reparte-una-herencia-de-una-casa-entre-hermanos/"
+   ],
+   [
+    "Nietos que heredan por derecho de representación",
+    "/blog/nietos-que-heredan-derecho-de-representacion/"
+   ],
+   [
+    "Certificado de últimas voluntades: cómo pedirlo",
+    "/blog/certificado-de-ultimas-voluntades-como-pedirlo/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Heredar una parte no te obliga a quedártela",
+  "cta_text": "Compramos tu cuota hereditaria con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Quién hereda si no hay testamento: orden legal y ejemplos",
+  "meta_desc": "Quién hereda si no hay testamento: hijos, padres, cónyuge, hermanos, sobrinos y Estado, con ejemplos. Si la casa acaba repartida, compramos tu parte.",
+  "focus_kw": "quién hereda si no hay testamento",
+  "title_corto": "Orden sucesorio",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, warm late afternoon light, muted palette with dark blue and terracotta accents: the facade of a traditional Spanish family house with wrought iron balconies, closed wooden shutters and a potted geranium by the door, quiet residential street. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Quién hereda si no hay testamento: fachada de una casa familiar española al atardecer"
+ },
+ {
+  "slug": "nietos-que-heredan-derecho-de-representacion",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Herencia de los abuelos: cuándo heredan los nietos por derecho de representación",
+  "sub": "En la herencia de los abuelos los nietos entran por derecho de representación cuando su padre o su madre murió antes que el abuelo. Ocupan su lugar y se reparten la parte que le habría correspondido. Así nacen proindivisos entre tíos y sobrinos con cuotas desiguales. Si has heredado una cuota así y quieres cobrarla, la compramos.",
+  "checks": [
+   "Artículos 924 a 929 del Código Civil",
+   "Ejemplo con cifras reales",
+   "Compramos cuotas de nietos"
+  ],
+  "card_title": "¿Has heredado de tus abuelos una parte pequeña?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin que tus tíos tengan que firmar nada.",
+  "sections": [
+   {
+    "overline": "Cuándo",
+    "h2": "Herencia de los abuelos: cuándo entran los nietos por derecho de representación",
+    "type": "text",
+    "intro": [
+     "La herencia de los abuelos llega a los nietos por derecho de representación en un caso concreto. Ocurre cuando su padre o su madre, hijo del abuelo, ha fallecido antes que él. Lo define el artículo 924 del Código Civil. Es el derecho de los parientes de una persona a sucederle en todo lo que ella tendría si viviera. En la línea descendente funciona siempre, sin límite de grado, por el artículo 925.",
+     "No es el único camino. Si el abuelo hizo testamento y nombró a los nietos directamente, heredan por testamento, no por representación. Y si el hijo murió después que el abuelo pero sin aceptar la herencia, los nietos reciben ese derecho a aceptar por el artículo 1006. Es el derecho de transmisión, que parece lo mismo pero no lo es. Lo explicamos más abajo.",
+     "Lo que sí es común a todos los casos es el final. En la herencia de los abuelos, los nietos por derecho de representación acaban como copropietarios con sus tíos. Son proindivisos de tres, cuatro o seis personas, de dos generaciones distintas y con cuotas desiguales."
+    ]
+   },
+   {
+    "overline": "Casos",
+    "h2": "Cuándo hay representación y cuándo no",
+    "type": "list",
+    "intro": [
+     "El artículo 929 marca el límite: no se puede representar a una persona viva, salvo en los casos de desheredación o indignidad. Esto es lo que vemos en la práctica."
+    ],
+    "items": [
+     "<strong>Hijo premuerto.</strong> El caso típico. Los nietos ocupan el lugar de su padre o madre fallecido y heredan lo que le habría tocado.",
+     "<strong>Hijo desheredado.</strong> Si el abuelo desheredó a su hijo en testamento, los nietos conservan la legítima que le correspondía, por el artículo 857.",
+     "<strong>Hijo indigno.</strong> Si el hijo fue declarado indigno para suceder, sus descendientes ocupan su lugar en la legítima, por el artículo 761.",
+     "<strong>Hijo que renuncia.</strong> Aquí no hay representación. Quien repudia la herencia sin testamento lo hace por sí y por su estirpe, por el artículo 923. Los nietos no entran por esa vía.",
+     "<strong>Hijo vivo.</strong> Mientras el hijo viva y no esté desheredado ni sea indigno, los nietos no heredan nada de los abuelos sin testamento."
+    ],
+    "outro": [
+     "En la herencia de los abuelos, por tanto, los nietos solo entran por derecho de representación si su progenitor murió antes, fue desheredado o fue declarado indigno."
+    ]
+   },
+   {
+    "overline": "Cuánto",
+    "h2": "Cuánto hereda cada nieto: el reparto por estirpes con un ejemplo",
+    "type": "text",
+    "intro": [
+     "En la herencia de los abuelos, los nietos por derecho de representación heredan por estirpes, no por cabezas. Lo dice el artículo 926 del Código Civil. Es decir, todos los nietos de un mismo hijo fallecido se reparten entre ellos la parte de ese hijo. No reciben cada uno una parte igual a la de sus tíos.",
+     "Ejemplo. Fallece la abuela, viuda, sin testamento, con un piso de 240.000 €. Tenía tres hijos: Ana y Luis viven; Marta murió años antes y dejó dos hijos. Ana hereda un tercio, 80.000 €. Luis, otro tercio. Los dos hijos de Marta se reparten su tercio: un sexto cada uno, 40.000 € en valor. El piso queda con cuatro titulares: dos tíos con el 33,3 % y dos sobrinos con el 16,7 %.",
+     "Si Marta hubiera tenido un solo hijo, ese nieto heredaría el tercio completo, igual que sus tíos. Y si fueran cuatro nietos, cada uno tendría un doceavo. Cuanto más numerosa la estirpe, más pequeña la cuota y más difícil que ese nieto consiga algo útil del piso. Por eso tantos nietos acaban preguntando cuánto vale su parte y cómo venderla."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Qué pagan los nietos en sucesiones por la herencia de los abuelos",
+    "type": "table",
+    "intro": [
+     "En la herencia de los abuelos por derecho de representación, el impuesto de sucesiones trata a los nietos como descendientes. Es decir, igual que a los hijos. Las cifras son orientativas y cambian según comunidad autónoma."
+    ],
+    "items": [
+     [
+      "Cuestión",
+      "Cómo queda para el nieto"
+     ],
+     [
+      "Grupo de parentesco",
+      "Grupo I si tiene menos de 21 años, grupo II si tiene 21 o más. Son los grupos con más reducciones y bonificaciones, los mismos que los hijos."
+     ],
+     [
+      "Reducción estatal por parentesco",
+      "Casi 16.000 € en el grupo II, y más en el grupo I según la edad. Cada comunidad autónoma la amplía o la sustituye por la suya."
+     ],
+     [
+      "Bonificaciones autonómicas",
+      "En varias comunidades los descendientes pagan muy poco o casi nada; en otras, la cuota es relevante. La residencia del abuelo decide qué norma se aplica."
+     ],
+     [
+      "Vivienda habitual del abuelo",
+      "Reducción estatal del 95 % del valor, con un límite por heredero, siempre que no se venda en diez años, plazo que muchas comunidades acortan. Si vendes antes, se pierde."
+     ],
+     [
+      "Plusvalía municipal",
+      "Se paga por la parte del piso heredada, según el ayuntamiento. Muchos bonifican la vivienda habitual del fallecido para descendientes."
+     ],
+     [
+      "Plazo",
+      "Seis meses desde el fallecimiento del abuelo, prorrogables otros seis si se pide dentro de los cinco primeros."
+     ]
+    ],
+    "outro": [
+     "Un nieto que hereda un sexto de un piso puede pagar poco impuesto. Aun así, tiene un problema: una cuota que no puede usar ni vender con facilidad."
+    ]
+   },
+   {
+    "overline": "El atasco",
+    "h2": "Nietos y tíos en la herencia de los abuelos: por qué el proindiviso se atasca",
+    "type": "cards",
+    "intro": [
+     "Cuando los nietos entran en la herencia de los abuelos por derecho de representación, el proindiviso resultante tiene dificultades propias."
+    ],
+    "items": [
+     {
+      "t": "Dos generaciones, dos prioridades",
+      "p": "El tío de 65 años quiere conservar la casa del pueblo. El sobrino de 30 quiere dinero para la entrada de su piso. Ninguno está equivocado y ninguno puede imponerse."
+     },
+     {
+      "t": "Cuotas desiguales",
+      "p": "Con el 16,7 % no se decide nada. Los actos de administración necesitan la mayoría de cuotas y los tíos la tienen. El nieto solo puede pedir la división o vender."
+     },
+     {
+      "t": "Gastos que nadie reclama",
+      "p": "IBI, comunidad y seguro los paga quien usa la casa, hasta que deja de hacerlo. Reclamar a un sobrino su sexto de una derrama suele costar más que la derrama.",
+      "url": "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/",
+      "cta": "Quién paga qué →"
+     },
+     {
+      "t": "Herencias que se encadenan",
+      "p": "Si un tío fallece sin resolver, entran sus hijos. Un proindiviso de cuatro se convierte en uno de seis. Cada año que pasa, más firmas hacen falta."
+     }
+    ]
+   },
+   {
+    "overline": "Matiz",
+    "h2": "Representación o transmisión: la diferencia que cambia tu cuota",
+    "type": "text",
+    "intro": [
+     "Conviene distinguir dos situaciones que la gente mezcla al hablar de la herencia de los abuelos, los nietos y el derecho de representación. En la representación, el hijo murió antes que el abuelo y los nietos heredan directamente del abuelo, por estirpes. En la transmisión del artículo 1006, el hijo murió después que el abuelo sin haber aceptado ni repudiado. Entonces los nietos heredan de su padre el derecho a aceptar la herencia del abuelo.",
+     "La diferencia tiene efectos. En la transmisión, la cuota del abuelo pasa por la herencia del hijo. Así que entran en juego su cónyuge viudo, su testamento y, en su caso, un segundo impuesto de sucesiones. Además, en la herencia de los abuelos por derecho de representación los nietos tributan como descendientes del abuelo; en la transmisión, como herederos de su padre.",
+     "Si no tienes claro en cuál estás, mira las fechas de defunción. Y antes de vender tu cuota, asegúrate de que la escritura de herencia refleje bien el título por el que heredas."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Nietos: vende tu cuota de la herencia de los abuelos sin esperar a tus tíos",
+    "type": "callout",
+    "intro": [
+     "Nietos con cuota en la herencia de los abuelos por derecho de representación: te la compramos sin esperar a tus tíos. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo. Pagamos entre el 40 % y el 70 % del valor proporcional, y tus tíos no tienen que firmar nada."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Dinos qué inmueble es, cuántos herederos sois y tu porcentaje. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Heredan los nietos si su padre ha muerto antes que el abuelo?",
+    "Sí. Entran por derecho de representación, por los artículos 924 y 925 del Código Civil, y ocupan el lugar de su padre. Se reparten entre ellos la parte que a él le habría correspondido, tanto en la sucesión sin testamento como en la legítima."
+   ],
+   [
+    "¿Heredan los nietos si su padre renuncia a la herencia?",
+    "En la sucesión intestada, no. El que repudia lo hace por sí y por su estirpe, así que su parte pasa a los demás herederos del mismo orden. Con testamento, depende de lo que el abuelo haya dispuesto, por ejemplo una sustitución a favor de los nietos."
+   ],
+   [
+    "¿Cuánto hereda un nieto si tiene dos hermanos y tres tíos vivos?",
+    "Los cuatro hijos del abuelo, el fallecido y los tres vivos, tienen un cuarto cada uno. El cuarto del hijo fallecido se reparte entre sus tres hijos: un doceavo para cada nieto. En un piso de 240.000 €, son 20.000 € en valor por nieto."
+   ],
+   [
+    "¿Qué impuesto de sucesiones paga un nieto?",
+    "El mismo que un hijo: grupo I si es menor de 21 años y grupo II si tiene 21 o más, con las reducciones y bonificaciones de la comunidad autónoma donde residía el abuelo. En muchas regiones la factura es baja; en otras, relevante. Es orientativo y conviene calcularlo caso por caso."
+   ],
+   [
+    "¿Puede un nieto vender su parte del piso de los abuelos sin permiso de los tíos?",
+    "Sí. Una vez aceptada la herencia y adjudicada su cuota, puede venderla por el artículo 399 del Código Civil sin consentimiento de los demás. Los tíos tienen derecho de retracto durante nueve días. Nosotros compramos estas cuotas con oferta por escrito en 48 horas."
+   ],
+   [
+    "¿Qué diferencia hay entre derecho de representación y derecho de transmisión?",
+    "En la representación, el hijo murió antes que el abuelo y los nietos heredan directamente del abuelo. En la transmisión, el hijo murió después sin aceptar, y los nietos heredan de su padre el derecho a aceptar. Cambia quién tributa, por qué título y si entra el cónyuge del hijo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los nietos que heredan de los abuelos",
+  "related": [
+   [
+    "Quién hereda si no hay testamento",
+    "/blog/quien-hereda-si-no-hay-testamento/"
+   ],
+   [
+    "Cómo se reparte una herencia de una casa entre hermanos",
+    "/blog/como-se-reparte-una-herencia-de-una-casa-entre-hermanos/"
+   ],
+   [
+    "Qué es una cuota hereditaria",
+    "/blog/que-es-una-cuota-hereditaria/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Un sexto de un piso también se puede vender",
+  "cta_text": "Compramos cuotas pequeñas de herencias con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Herencia de los abuelos nietos derecho de representación",
+  "meta_desc": "Herencia de los abuelos: cuándo los nietos heredan por derecho de representación, qué cuota reciben, qué pagan y cómo vender su parte sin acuerdo.",
+  "focus_kw": "herencia de los abuelos nietos derecho de representación",
+  "title_corto": "Nietos que heredan",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, soft natural light, muted palette with dark blue and terracotta accents: an old stone village house with a wooden balcony, closed shutters and an iron gate leading to a courtyard with a fig tree, Castilian landscape in the background. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Herencia de los abuelos y nietos por derecho de representación: casa antigua en España"
+ },
+ {
+  "slug": "justicia-gratuita-division-de-cosa-comun",
+  "kind": "post",
+  "category": "division-de-cosa-comun",
+  "kicker": "División de cosa común",
+  "h1": "Justicia gratuita para la división de cosa común: requisitos, qué cubre y cuánto tarda",
+  "sub": "La justicia gratuita cubre la división de cosa común igual que cualquier otro pleito civil. Incluye abogado y procurador de oficio, perito judicial y exención de depósitos si tus ingresos no superan unos umbrales ligados al IPREM. Lo que no cubre es el tiempo: de uno a tres años hasta la subasta. Por eso muchos herederos sin recursos acaban vendiendo su cuota, y nosotros la compramos.",
+  "checks": [
+   "Ley de Asistencia Jurídica Gratuita",
+   "Cifras y plazos orientativos",
+   "Alternativa sin abogado ni juicio"
+  ],
+  "card_title": "¿No puedes pagar un abogado para dividir el piso?",
+  "card_text": "Te compramos tu cuota sin juicio y sin coste. Precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Qué significa",
+    "h2": "Justicia gratuita para la división de cosa común: qué significa en la práctica",
+    "type": "text",
+    "intro": [
+     "La justicia gratuita para la división de cosa común existe y funciona. Si cumples los requisitos de ingresos, el Estado te asigna abogado y procurador de oficio. Con ellos demandas a los demás copropietarios y pides la venta del inmueble. Lo regula la Ley 1/1996 de Asistencia Jurídica Gratuita. No es un favor: es un derecho reconocido en el artículo 119 de la Constitución.",
+     "Pero conviene saber qué estás pidiendo. La división de cosa común es un juicio ordinario que termina, casi siempre, en una subasta del piso. El abogado de oficio te lleva ese juicio con la misma diligencia que uno privado, aunque con más carga de trabajo. Lo que la justicia gratuita no acelera en la división de cosa común son los plazos del juzgado ni el resultado de la subasta.",
+     "Escribimos esto desde el otro lado. Compramos cuotas a personas que empezaron este camino con abogado de oficio y, al cabo de un año, prefirieron cobrar. Te contamos requisitos, cobertura y tiempos para que decidas con datos."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Requisitos de ingresos para la justicia gratuita",
+    "type": "table",
+    "intro": [
+     "El baremo se calcula sobre los ingresos brutos anuales de la unidad familiar, en múltiplos del IPREM. Estas cifras son orientativas y cambian cada año con el IPREM."
+    ],
+    "items": [
+     [
+      "Situación familiar",
+      "Límite orientativo de ingresos brutos anuales"
+     ],
+     [
+      "Persona sola, sin unidad familiar",
+      "Dos veces el IPREM anual: en torno a 16.800 €."
+     ],
+     [
+      "Unidad familiar de menos de cuatro miembros",
+      "Dos veces y media el IPREM: en torno a 21.000 €."
+     ],
+     [
+      "Unidad familiar de cuatro o más miembros, o familia numerosa",
+      "Tres veces el IPREM: en torno a 25.200 €."
+     ],
+     [
+      "Circunstancias excepcionales",
+      "Hasta cinco veces el IPREM, unos 42.000 €, si hay discapacidad, cargas familiares o gastos muy altos que valore la Comisión."
+     ],
+     [
+      "Patrimonio",
+      "También se mira. Tener una cuota de un piso heredado no te excluye por sí sola, pero un patrimonio relevante además de la vivienda habitual puede denegar el derecho."
+     ]
+    ],
+    "outro": [
+     "Si pides justicia gratuita para la división de cosa común y vives en el propio inmueble, dilo. Es un dato que la Comisión valora a tu favor."
+    ]
+   },
+   {
+    "overline": "Cobertura",
+    "h2": "Qué cubre y qué no cubre el abogado de oficio en la división de cosa común",
+    "type": "list",
+    "intro": [
+     "La cobertura es amplia, pero tiene límites que importan en este tipo de pleito."
+    ],
+    "items": [
+     "<strong>Cubre: abogado y procurador.</strong> Designados por el Colegio en turnos. Llevan la demanda, la audiencia previa, el juicio y los recursos.",
+     "<strong>Cubre: perito judicial.</strong> La tasación del inmueble la hace un perito designado por el juzgado, sin coste para ti. Es clave porque fija el tipo de la subasta.",
+     "<strong>Cubre: exención de depósitos.</strong> No pagas los depósitos para recurrir. Las tasas judiciales, en cualquier caso, ya no las pagan las personas físicas.",
+     "<strong>Cubre: reducción del 80 % en notaría y Registro.</strong> Para las escrituras y asientos derivados del pleito, por ejemplo la adjudicación después de la subasta.",
+     "<strong>No cubre: las costas si pierdes.</strong> Si te condenan en costas, solo las pagarás si en los tres años siguientes mejoras de fortuna. Pero la condena existe.",
+     "<strong>No cubre: los gastos del piso durante el pleito.</strong> IBI, comunidad y derramas siguen corriendo según tu cuota mientras dura el juicio.",
+     "<strong>No cubre: pretensiones insostenibles.</strong> Si el abogado designado considera que la demanda no tiene base, puede informarlo y la Comisión decide."
+    ],
+    "outro": [
+     "En la división de cosa común la demanda casi nunca se considera insostenible, porque el artículo 400 del Código Civil da derecho a pedirla. Con justicia gratuita la división de cosa común sale adelante; otra cosa es cuándo."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se pide la justicia gratuita paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Rellena la solicitud",
+      "p": "El impreso oficial se descarga de la web del Ministerio o se recoge en el Colegio de Abogados de tu provincia. Se presenta en el Servicio de Orientación Jurídica del Colegio o en el juzgado."
+     },
+     {
+      "t": "Adjunta la documentación",
+      "p": "Declaración de la renta o certificado negativo, vida laboral, certificado de empadronamiento, nómina o prestación, y nota simple de tus inmuebles. Si cobras el ingreso mínimo vital, acredítalo."
+     },
+     {
+      "t": "Espera la designación provisional",
+      "p": "El Colegio comprueba los requisitos en un plazo orientativo de quince días hábiles y te asigna abogado y procurador de forma provisional."
+     },
+     {
+      "t": "Resolución de la Comisión",
+      "p": "La Comisión de Asistencia Jurídica Gratuita confirma o deniega en unos treinta días. Si deniega, puedes impugnar ante el juzgado."
+     },
+     {
+      "t": "Primera reunión con el abogado",
+      "p": "Lleva la nota simple del piso, el título de tu cuota y los datos de los demás copropietarios. También las pruebas de que no hay acuerdo: burofax, mensajes, requerimientos."
+     }
+    ],
+    "outro": [
+     "Desde que pides justicia gratuita para la división de cosa común hasta que el abogado presenta la demanda pasan, en la práctica, de dos a cuatro meses."
+    ]
+   },
+   {
+    "overline": "Tiempos reales",
+    "h2": "Cuánto tarda una división de cosa común con abogado de oficio",
+    "type": "text",
+    "intro": [
+     "Aquí está la parte que nadie cuenta. El plazo de la justicia gratuita para la división de cosa común no es distinto del de cualquier división. Es decir, de uno a tres años hasta la sentencia firme, y después la ejecución con subasta. A eso hay que sumar los meses previos de designación.",
+     "El turno de oficio añade sus propios tiempos. El abogado lleva decenas de asuntos a la vez y prioriza los penales con plazos perentorios. Un cambio de letrado, por renuncia o por insostenibilidad, reinicia parte del trabajo. Y si los demás copropietarios tienen abogado privado, recurrirán todo lo que puedan.",
+     "Después llega la subasta. Si queda desierta, el inmueble puede adjudicarse por un porcentaje bajo del valor de tasación, o hay que repetirla. Con justicia gratuita la división de cosa común no te cuesta dinero de abogado, pero puede costarte tres o cuatro años y una parte del valor del piso."
+    ]
+   },
+   {
+    "overline": "Lo que vemos",
+    "h2": "Por qué muchos acaban vendiendo la cuota antes del juicio",
+    "type": "cards",
+    "intro": [
+     "Vemos el mismo patrón una y otra vez. Estas son las razones que nos dan las personas que piden justicia gratuita para la división de cosa común y luego nos venden su parte."
+    ],
+    "items": [
+     {
+      "t": "Necesitan el dinero ahora",
+      "p": "Quien cumple los requisitos de la justicia gratuita suele tener ingresos bajos. Esperar tres años por un 25 % de un piso no encaja con una deuda o un alquiler que vence este mes."
+     },
+     {
+      "t": "El resultado de la subasta es incierto",
+      "p": "En la subasta judicial el piso puede adjudicarse muy por debajo de mercado. Tu cuota puede acabar valiendo menos que lo que te ofrecemos hoy.",
+      "url": "/blog/subasta-division-de-cosa-comun/",
+      "cta": "Cómo funciona la subasta →"
+     },
+     {
+      "t": "El desgaste familiar",
+      "p": "Demandar a un hermano o a una expareja durante años tiene un coste que no aparece en ninguna factura. Muchos prefieren cerrar antes y peor que tarde y mal."
+     },
+     {
+      "t": "Nuestra oferta no depende de nadie",
+      "p": "Compramos tu cuota con oferta por escrito en 48 horas. Firma en notaría en dos a cuatro semanas y gastos de notaría a nuestro cargo. Entre el 40 % y el 70 % del valor proporcional. Sin abogado, sin juicio y sin esperar.",
+      "url": "/cuanto-pagan-por-un-proindiviso/",
+      "cta": "Ver cuánto pagamos →"
+     }
+    ]
+   },
+   {
+    "overline": "Compara",
+    "h2": "Justicia gratuita o vender tu cuota: compara antes de demandar",
+    "type": "callout",
+    "intro": [
+     "Puedes pedir justicia gratuita para la división de cosa común y, mientras se tramita, pedirnos precio. Las dos cosas son gratis. Si nuestra oferta te resuelve el problema hoy, firmas. Si no, sigues con el pleito y no has perdido nada."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota sin compromiso",
+     "p": "Dinos la dirección, tu porcentaje y cuántos copropietarios sois. En 48 horas tienes oferta por escrito, sin exclusividad.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo pedir abogado de oficio para dividir un piso heredado?",
+    "Sí. La división de cosa común es un pleito civil ordinario y entra en la asistencia jurídica gratuita si cumples los requisitos de ingresos. Se solicita en el Servicio de Orientación Jurídica del Colegio de Abogados de tu provincia, con la declaración de la renta y la documentación familiar."
+   ],
+   [
+    "¿Qué ingresos máximos hay para la justicia gratuita?",
+    "De forma orientativa, dos veces el IPREM anual para una persona sola, dos veces y media para unidades familiares de menos de cuatro miembros y tres veces para las de cuatro o más. En circunstancias excepcionales, hasta cinco veces. Las cifras cambian cada año con el IPREM."
+   ],
+   [
+    "¿Tener una parte de un piso me quita el derecho a la justicia gratuita?",
+    "No por sí sola. La Comisión valora los ingresos y, de forma complementaria, el patrimonio. Una cuota indivisa de una vivienda, sobre todo si es la que habitas, no suele impedir el reconocimiento. Un patrimonio amplio además de esa vivienda sí puede hacerlo."
+   ],
+   [
+    "¿El abogado de oficio paga la tasación del piso?",
+    "La tasación la hace un perito designado por el juzgado y, con justicia gratuita reconocida, no tienes que adelantar sus honorarios. Es importante porque esa tasación fija el tipo de salida de la subasta y, en la práctica, el precio que acabará cobrando cada copropietario."
+   ],
+   [
+    "¿Si pierdo el juicio tengo que pagar las costas con abogado de oficio?",
+    "Solo si en los tres años siguientes a la sentencia mejoras de fortuna y superas los umbrales. Si no, la condena en costas no se ejecuta contra ti. Aun así, en la división de cosa común las costas son poco frecuentes porque el derecho a dividir es casi automático."
+   ],
+   [
+    "¿Puedo vender mi cuota aunque ya haya pedido la justicia gratuita?",
+    "Sí. Pedir justicia gratuita no te compromete a seguir el pleito hasta el final. Puedes vender tu cuota en cualquier momento, incluso con la demanda presentada, y desistir después. Nosotros compramos cuotas en esa situación con oferta por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la justicia gratuita en la división de cosa común",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Abogado para un proindiviso: cuándo hace falta",
+    "/blog/abogado-proindiviso-cuando-hace-falta/"
+   ],
+   [
+    "La subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "Cuánto me dan por mi parte de un piso",
+    "/blog/cuanto-me-dan-por-mi-parte-de-un-piso/"
+   ],
+   [
+    "Urge vender por herencia",
+    "/blog/urge-vender-por-herencia/"
+   ]
+  ],
+  "cta_title": "Sin abogado, sin juicio y sin esperar años",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Justicia gratuita división de cosa común: requisitos y plazos",
+  "meta_desc": "Justicia gratuita para la división de cosa común: umbrales de ingresos, qué cubre el abogado de oficio, plazos reales y la alternativa de vender tu cuota.",
+  "focus_kw": "justicia gratuita división de cosa común",
+  "title_corto": "Abogado de oficio",
+  "imagen_prompt": "Editorial photograph, Spain, 16:9, 35 mm lens, soft overcast daylight, muted palette with dark blue and terracotta accents: the empty granite steps and columned portico of a Spanish provincial courthouse, closed heavy doors, a bare plaza with a single stone bench. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Justicia gratuita para la división de cosa común: escalinata de un juzgado español vacía"
+ },
+ {
+  "slug": "certificado-de-ultimas-voluntades-como-pedirlo",
+  "kind": "post",
+  "category": "impuestos-y-tramites",
+  "kicker": "Trámites",
+  "h1": "Certificado de últimas voluntades: cómo pedirlo paso a paso, plazos y qué hacer después",
+  "sub": "El certificado de últimas voluntades dice si una persona hizo testamento y ante qué notario, y pedirlo es el primer trámite de cualquier herencia. Se solicita con el modelo 790, pagando una tasa de unos cuatro euros, a partir de quince días hábiles desde el fallecimiento, por internet, por correo o en persona. Sin él no hay herencia, y sin herencia no hay cuota que vender. Después, si quieres, compramos tu parte.",
+  "checks": [
+   "Modelo 790 explicado",
+   "Plazos y tasas orientativos",
+   "Te acompañamos hasta la venta"
+  ],
+  "card_title": "¿Herencia parada por los papeles?",
+  "card_text": "Te orientamos con el trámite y, cuando la herencia esté aceptada, te compramos tu cuota en semanas.",
+  "sections": [
+   {
+    "overline": "Qué es",
+    "h2": "Qué es el certificado de últimas voluntades y para qué sirve",
+    "type": "text",
+    "intro": [
+     "El certificado de últimas voluntades es el documento que expide el Registro General de Actos de Última Voluntad, dependiente del Ministerio de Justicia. Dice si el fallecido otorgó testamento, cuántos, en qué fechas y ante qué notarios. No incluye el contenido: solo la referencia. Con esa referencia vas a la notaría y pides la copia autorizada del último testamento.",
+     "Sin él no se puede hacer nada. El notario no autoriza la escritura de herencia ni la declaración de herederos sin verlo, y el banco no libera las cuentas. Por eso el certificado de últimas voluntades es el primer trámite, y pedirlo cuanto antes ahorra semanas.",
+     "Para nosotros también es clave. Cuando alguien quiere vendernos su parte de una herencia, lo primero que comprobamos es que exista este documento y que la cadena testamento o declaración de herederos esté clara. Si todavía no tienes el certificado de últimas voluntades, te explicamos cómo pedirlo sin perder tiempo."
+    ]
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Certificado de últimas voluntades: cómo pedirlo paso a paso",
+    "type": "steps",
+    "intro": [
+     "El certificado de últimas voluntades y cómo pedirlo se resume en cuatro pasos. El más lento es el primero, porque hay que esperar."
+    ],
+    "items": [
+     {
+      "t": "Espera quince días hábiles desde el fallecimiento",
+      "p": "El Registro necesita que la defunción esté comunicada. Antes de ese plazo la solicitud se rechaza. Cuenta días hábiles, sin sábados, domingos ni festivos. Si el fallecimiento ocurrió en el extranjero, antes hay que inscribirlo en el Registro Civil español."
+     },
+     {
+      "t": "Rellena el modelo 790, código 006",
+      "p": "Es la autoliquidación de la tasa. Se descarga de la sede electrónica del Ministerio de Justicia o se recoge en una Gerencia Territorial. Pide los datos del fallecido tal y como constan en el certificado de defunción."
+     },
+     {
+      "t": "Paga la tasa",
+      "p": "Unos cuatro euros, orientativo, en cualquier banco colaborador o con tarjeta en la sede electrónica. Guarda el justificante, porque sin él no se tramita."
+     },
+     {
+      "t": "Presenta la solicitud",
+      "p": "Por internet con certificado digital o Cl@ve, por correo postal al Registro General de Actos de Última Voluntad en Madrid, o en persona en las Gerencias Territoriales y oficinas de registro."
+     }
+    ],
+    "outro": [
+     "Si te preguntas por el certificado de últimas voluntades y cómo pedirlo cuando la muerte fue antes de abril de 2009, añade el certificado de defunción literal. Para fallecimientos posteriores, inscritos en Registros Civiles informatizados, suele bastar con los datos."
+    ]
+   },
+   {
+    "overline": "Vías",
+    "h2": "Las tres vías para solicitarlo: tiempos y requisitos",
+    "type": "table",
+    "intro": [
+     "Las tres vías llevan al mismo documento. Cambian la comodidad y los días de espera. Si tienes certificado digital, no lo dudes: la sede electrónica es la más rápida y la que menos errores genera."
+    ],
+    "items": [
+     [
+      "Vía",
+      "Qué necesitas y cuánto tarda, orientativo"
+     ],
+     [
+      "Sede electrónica del Ministerio de Justicia",
+      "Certificado digital, DNI electrónico o Cl@ve. Pago con tarjeta. Se descarga en unos diez días hábiles, a veces menos. Es la vía más rápida."
+     ],
+     [
+      "Correo postal",
+      "Modelo 790 pagado y, si procede, certificado de defunción. Se envía al Registro General de Actos de Última Voluntad. Entre dos y cuatro semanas con el correo de ida y vuelta."
+     ],
+     [
+      "Presencial",
+      "Cita previa en la Gerencia Territorial de Justicia o en la Oficina Central de Atención al Ciudadano. Se recoge en unos diez días hábiles o se recibe por correo."
+     ],
+     [
+      "A través de la notaría o gestoría",
+      "Muchas notarías lo piden por ti al abrir el expediente de herencia, con un pequeño coste de gestión. Es cómodo si ya tienes notario elegido."
+     ]
+    ],
+    "outro": [
+     "Elijas la vía que elijas, el certificado de últimas voluntades llega antes si al pedirlo los datos del fallecido coinciden letra por letra con la defunción."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores que retrasan el certificado de últimas voluntades",
+    "type": "list",
+    "intro": [
+     "Hemos acompañado a cientos de herederos en este trámite. Estos son los fallos que más veces hemos visto, y casi todos se evitan con cinco minutos de atención."
+    ],
+    "items": [
+     "<strong>Pedirlo antes de los quince días hábiles.</strong> Se deniega y toca empezar de nuevo.",
+     "<strong>Nombre o fecha de nacimiento con errores.</strong> Un segundo apellido mal escrito o una fecha cambiada hacen que el Registro no encuentre al fallecido y devuelva un negativo erróneo.",
+     "<strong>No guardar el justificante de la tasa.</strong> Sin el código del pago la solicitud queda en el limbo.",
+     "<strong>Confundirlo con el certificado de defunción.</strong> Son documentos distintos: uno lo da el Registro Civil y el otro el Ministerio de Justicia.",
+     "<strong>Olvidar el certificado de seguros.</strong> Con el mismo modelo 790 puedes pedir a la vez el certificado de contratos de seguros de cobertura de fallecimiento. Dos trámites en uno."
+    ],
+    "outro": [
+     "Del certificado de últimas voluntades y de cómo pedirlo bien depende que la herencia arranque en semanas o en meses."
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué hacer después: testamento, declaración de herederos y seguros",
+    "type": "cards",
+    "intro": [
+     "Con el certificado en la mano, el camino se abre en dos según el resultado. En ambos casos conviene moverse rápido, porque el impuesto de sucesiones corre desde el fallecimiento y no desde que tienes los papeles."
+    ],
+    "items": [
+     {
+      "t": "Hay testamento",
+      "p": "Pide copia autorizada en la notaría que figura en el certificado. Si el notario se jubiló o han pasado más de veinticinco años, en el Archivo de Protocolos correspondiente. Solo pueden pedirla los herederos y legitimarios acreditando interés."
+     },
+     {
+      "t": "No hay testamento",
+      "p": "Toca la declaración de herederos abintestato ante notario del lugar del último domicilio del fallecido, con dos testigos y los certificados de parentesco.",
+      "url": "/blog/vender-casa-heredada-sin-testamento/",
+      "cta": "Cómo se hace →"
+     },
+     {
+      "t": "Certificado de seguros de vida",
+      "p": "Dice si el fallecido tenía seguros con cobertura de fallecimiento y en qué compañía. Muchas hipotecas llevan uno asociado. Se pide con el mismo modelo 790 y el mismo plazo de quince días."
+     },
+     {
+      "t": "Inventario y escritura de herencia",
+      "p": "Nota simple de los inmuebles, saldos bancarios a fecha de defunción, deudas y valor de referencia del Catastro. Con eso el notario prepara la aceptación y adjudicación.",
+      "url": "/blog/documentos-para-vender-tu-parte-de-un-piso/",
+      "cta": "Documentos necesarios →"
+     }
+    ]
+   },
+   {
+    "overline": "Tu venta",
+    "h2": "Por qué este trámite bloquea la venta de tu parte y cómo lo resolvemos",
+    "type": "text",
+    "intro": [
+     "Muchas personas nos escriben queriendo vender su parte de un piso heredado y descubren que la herencia nunca se tramitó. A veces han pasado diez años. El motivo casi siempre es el mismo: nadie pidió el certificado de últimas voluntades porque nadie sabía cómo pedirlo ni para qué servía.",
+     "Nosotros no podemos comprar una cuota que todavía no existe jurídicamente. Pero sí podemos ayudarte a que exista. Si nos cuentas tu caso, te indicamos qué pedir, en qué orden y con qué modelo, y te damos una oferta orientativa condicionada a que la herencia se formalice. Cuando la escritura de herencia esté firmada, firmamos la compra de tu cuota en dos a cuatro semanas. Ese acompañamiento no tiene coste y no te obliga a nada.",
+     "Además, si los demás herederos no colaboran, puedes aceptar tu parte sin ellos y venderla igualmente. El certificado de últimas voluntades no exige permiso de nadie para pedirlo: cualquier interesado puede solicitarlo por su cuenta. Así evitas que un hermano que no colabora bloquee también el primer paso."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Ya tienes el certificado de últimas voluntades: ahora vende tu parte sin esperar",
+    "type": "callout",
+    "intro": [
+     "Cuando la herencia esté aceptada, te compramos la cuota con oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo. Pagamos entre el 40 % y el 70 % del valor proporcional. Si aún estás con el certificado de últimas voluntades y no sabes cómo pedirlo, escríbenos igual y te orientamos."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la herencia",
+     "p": "Dinos qué inmueble es, cuántos herederos sois y en qué punto está el trámite. Te respondemos por escrito en 48 horas.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tarda el certificado de últimas voluntades?",
+    "Por internet, unos diez días hábiles desde la solicitud, de forma orientativa. Por correo o en persona, entre dos y cuatro semanas. A eso hay que sumar los quince días hábiles que hay que esperar desde el fallecimiento antes de poder pedirlo."
+   ],
+   [
+    "¿Quién puede pedir el certificado de últimas voluntades?",
+    "Cualquier persona, sin acreditar parentesco ni interés, siempre que aporte los datos del fallecido y pague la tasa. No hace falta el permiso de los demás herederos. Lo que sí exige acreditar interés es la copia del testamento en la notaría."
+   ],
+   [
+    "¿Cuánto cuesta pedir el certificado de últimas voluntades?",
+    "La tasa del modelo 790 ronda los cuatro euros, de forma orientativa, y se actualiza cada año. Si lo pide una gestoría o la notaría por ti, añaden su coste de gestión, que suele ser pequeño. El certificado de seguros tiene una tasa similar."
+   ],
+   [
+    "¿Qué pasa si el certificado sale negativo?",
+    "Significa que no consta testamento en el Registro. Entonces la herencia se tramita por la ley, con una declaración de herederos abintestato ante notario. Comprueba antes que los datos del fallecido estaban bien escritos, porque un error devuelve un negativo falso."
+   ],
+   [
+    "¿Se puede pedir el certificado de últimas voluntades sin el certificado de defunción?",
+    "Para fallecimientos posteriores a abril de 2009 inscritos en Registros Civiles informatizados, normalmente sí, con los datos del fallecido. Para fallecimientos anteriores, o si el Registro no localiza la inscripción, hay que adjuntar el certificado de defunción literal."
+   ],
+   [
+    "¿Puedo vender mi parte de la herencia sin haber pedido el certificado?",
+    "No todavía. Sin el certificado no hay escritura de herencia ni declaración de herederos, y sin eso tu cuota no existe de forma que pueda transmitirse. Pídelo, formaliza la aceptación y entonces sí: compramos tu cuota con oferta por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el certificado de últimas voluntades",
+  "related": [
+   [
+    "Vender una herencia sin escriturar",
+    "/blog/vender-herencia-sin-escriturar/"
+   ],
+   [
+    "Vender una casa heredada sin testamento",
+    "/blog/vender-casa-heredada-sin-testamento/"
+   ],
+   [
+    "Quién hereda si no hay testamento",
+    "/blog/quien-hereda-si-no-hay-testamento/"
+   ],
+   [
+    "Documentos para vender tu parte de un piso",
+    "/blog/documentos-para-vender-tu-parte-de-un-piso/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Primero el certificado, después tu dinero",
+  "cta_text": "Te orientamos con el trámite y compramos tu cuota cuando la herencia esté aceptada. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas.",
+  "yoast_title": "Certificado de últimas voluntades cómo pedirlo y en qué plazo",
+  "meta_desc": "Certificado de últimas voluntades: cómo pedirlo con el modelo 790, por internet o correo, cuándo, cuánto tarda y qué hacer después para vender tu parte.",
+  "focus_kw": "certificado de últimas voluntades cómo pedirlo",
+  "title_corto": "Últimas voluntades",
+  "imagen_prompt": "Editorial photograph, Spain, 16:9, 35 mm lens, soft morning light, muted palette with dark blue and terracotta accents: the entrance of an old Spanish notary office with a brass door handle, dark blue wooden door, stone lintel and a tiled step, quiet street in a historic town centre. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Certificado de últimas voluntades y cómo pedirlo: fachada de una notaría antigua en España"
+ },
+ {
+  "slug": "vaciar-piso-heredado-entre-hermanos",
+  "kind": "post",
+  "category": "herencias",
+  "kicker": "Herencias",
+  "h1": "Vaciar un piso heredado entre hermanos: qué no tocar, cómo repartir y cuánto cuesta",
+  "sub": "Vaciar un piso heredado entre hermanos conviene hacerlo después del inventario y con acuerdo de todos, porque los muebles y objetos forman parte de la herencia y tributan como ajuar doméstico, un 3 % del caudal en el impuesto de sucesiones. Te contamos qué no tocar, cómo repartir sin peleas y qué cuesta una empresa de vaciado. Y si quieres vender tu parte, la compramos con el piso lleno.",
+  "checks": [
+   "El ajuar del 3 % explicado",
+   "Método de reparto en 5 pasos",
+   "Compramos tu parte sin vaciar"
+  ],
+  "card_title": "¿Piso heredado lleno de cosas y de discusiones?",
+  "card_text": "Compramos tu cuota tal como está, con muebles y sin limpiar. Precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Por dónde empezar",
+    "h2": "Vaciar un piso heredado entre hermanos: por dónde empezar",
+    "type": "text",
+    "intro": [
+     "Vaciar un piso heredado entre hermanos parece una tarea doméstica. No lo es. Todo lo que hay dentro forma parte de la herencia hasta que se reparte: muebles, ropa, joyas, fotos, electrodomésticos y el coche del garaje. Antes de la partición ningún heredero puede llevarse nada por su cuenta, porque solo la partición da a cada uno la propiedad exclusiva de lo adjudicado, según el artículo 1068 del Código Civil.",
+     "Además, el impuesto de sucesiones presume que ese contenido vale un 3 % del caudal relicto. Se llama ajuar doméstico y se suma a la base imponible aunque la casa esté medio vacía. Por eso conviene hacer las cosas en orden: primero inventario, después reparto, luego vaciado y, al final, venta o alquiler del piso.",
+     "Lo contamos desde nuestra experiencia. Compramos cuotas y vemos a menudo lo que supone vaciar un piso heredado entre hermanos: armarios llenos y herederos sin hablarse por un reloj. Un buen método evita la mitad de esas peleas."
+    ]
+   },
+   {
+    "overline": "Antes del inventario",
+    "h2": "Qué no tocar antes del inventario",
+    "type": "list",
+    "intro": [
+     "Hasta que todos los herederos hayan visto lo que hay, estas cosas se quedan donde están."
+    ],
+    "items": [
+     "<strong>Joyas, relojes y objetos de valor.</strong> Fotografíalos, guárdalos en un lugar acordado y anótalos. Son los que más disputas generan.",
+     "<strong>Documentos.</strong> Escrituras, pólizas de seguros, libretas bancarias, recibos y cartas del banco y del ayuntamiento. Sin ellos no se puede hacer el inventario ni liquidar impuestos.",
+     "<strong>Llaves.</strong> De la casa, del garaje, del trastero, de la caja fuerte y de otros inmuebles. Haz una copia para cada hermano o pactad quién las guarda.",
+     "<strong>Dinero en efectivo.</strong> Cuéntalo delante de todos y déjalo constar por escrito. Entra en el caudal y tributa.",
+     "<strong>Obras de arte, antigüedades y colecciones.</strong> Pueden valer más de lo que parece. Si hay dudas, pide una tasación antes de repartir.",
+     "<strong>El coche y lo que hay en el garaje.</strong> También es herencia. El cambio de titularidad en Tráfico exige la escritura de herencia."
+    ],
+    "outro": [
+     "Lo que sí puedes hacer desde el primer día, antes de vaciar el piso heredado entre hermanos, es tirar comida, limpiar y cerrar suministros que no hagan falta. Nadie va a discutir por un yogur caducado."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "El ajuar doméstico: el 3 % que pagáis aunque la casa esté vacía",
+    "type": "text",
+    "intro": [
+     "La Ley del Impuesto sobre Sucesiones presume que el ajuar doméstico vale el 3 % del caudal relicto, salvo que los herederos demuestren un valor inferior. Según la doctrina del Tribunal Supremo, ese 3 % se aplica solo a los bienes que pueden contener ajuar, como la vivienda, y no al dinero, a las acciones o a los locales alquilados.",
+     "Un ejemplo con números. Herencia con un piso de 180.000 € y 40.000 € en el banco. Antes se calculaba el 3 % sobre 220.000 €, es decir, 6.600 €. Con la doctrina actual, sobre los 180.000 € del piso: 5.400 €. Esa cifra se reparte entre los hermanos según su cuota y tributa con el resto. En muchas comunidades autónomas, con las bonificaciones entre padres e hijos, el efecto es pequeño. En otras, se nota.",
+     "Si el piso estaba casi vacío, o los muebles no valen nada, se puede probar con fotos, un informe de una empresa de vaciado o un acta notarial de presencia. Hacienda lo admite si la prueba es seria. Al vaciar un piso heredado entre hermanos, guardad fotos del estado inicial: sirven como prueba del valor real del ajuar. Y recuerda que el ajuar de la vivienda habitual del matrimonio se entrega al viudo sin computarlo, por el artículo 1321 del Código Civil."
+    ]
+   },
+   {
+    "overline": "Método",
+    "h2": "Cómo repartir lo que hay dentro sin pelearse",
+    "type": "steps",
+    "intro": [
+     "Vaciar un piso heredado entre hermanos funciona mejor con un método. Este es el que recomendamos."
+    ],
+    "items": [
+     {
+      "t": "Inventario conjunto con fotos",
+      "p": "Un día, todos juntos o representados. Habitación por habitación, se fotografía y se anota lo relevante. Lo que no sale en el inventario no existe."
+     },
+     {
+      "t": "Separar en cuatro montones",
+      "p": "Lo que alguien quiere, lo que se vende, lo que se dona y lo que se tira. La mayor parte de un piso va a los dos últimos."
+     },
+     {
+      "t": "Adjudicar por turnos o por sorteo",
+      "p": "Si dos quieren lo mismo, se sortea o se compensa con otro objeto. Para piezas de valor, se tasa y quien se la queda compensa a los demás en la partición."
+     },
+     {
+      "t": "Vender lo vendible",
+      "p": "Muebles de calidad, electrodomésticos recientes y objetos de colección tienen salida en plataformas de segunda mano o en anticuarios. El dinero entra en la herencia y se reparte por cuotas."
+     },
+     {
+      "t": "Donar y tirar el resto",
+      "p": "Parroquias, asociaciones y plataformas de donación recogen a domicilio. El punto limpio municipal admite el resto. Lo que no cabe en el coche lo lleva la empresa de vaciado."
+     }
+    ],
+    "outro": [
+     "Firmad un documento sencillo con el reparto antes de vaciar el piso heredado entre hermanos. No hace falta notario. Evita que dentro de un año alguien recuerde una vajilla que nunca existió."
+    ]
+   },
+   {
+    "overline": "Costes",
+    "h2": "Cuánto cuesta vaciar un piso heredado: empresas y alternativas",
+    "type": "table",
+    "intro": [
+     "Vaciar un piso heredado entre hermanos con una empresa cuesta según volumen, planta y accesibilidad. Precios orientativos en 2026, según la ciudad."
+    ],
+    "items": [
+     [
+      "Opción",
+      "Coste orientativo y cuándo compensa"
+     ],
+     [
+      "Empresa de vaciado, piso de dos o tres habitaciones",
+      "Entre 400 y 1.200 €. Más si no hay ascensor o hay mucho volumen. Algunas descuentan lo que pueden revender."
+     ],
+     [
+      "Vaciado con compra de muebles",
+      "Si hay piezas de valor, la empresa puede vaciar a cambio de quedarse con ellas, o incluso pagar. Pide al menos dos ofertas."
+     ],
+     [
+      "Hacerlo los hermanos con furgoneta",
+      "Alquiler de furgoneta de 60 a 120 € al día más tasas del punto limpio. Compensa si vivís cerca y el piso es pequeño."
+     ],
+     [
+      "Recogida municipal de enseres",
+      "Gratuita en la mayoría de ayuntamientos, con cita previa y límites de volumen por día. Lenta, pero sin coste."
+     ],
+     [
+      "Limpieza final",
+      "Entre 150 y 400 € para una limpieza a fondo. Imprescindible si vais a vender o alquilar el piso entero."
+     ]
+    ],
+    "outro": [
+     "El coste del vaciado es un gasto de la herencia. Se reparte entre los hermanos según su cuota y, si lo pagáis antes de la partición, conservad las facturas para compensarlo."
+    ]
+   },
+   {
+    "overline": "Para vender",
+    "h2": "Vaciar el piso heredado para vender: cuándo hace falta y cuándo no",
+    "type": "cards",
+    "intro": [
+     "Vaciar o no el piso heredado entre hermanos antes de vender depende de a quién vendáis y de si vendéis todo o una parte."
+    ],
+    "items": [
+     {
+      "t": "Venta del piso entero a un particular",
+      "p": "Sí hace falta vaciarlo y limpiarlo. Un piso lleno de muebles viejos se vende peor y más tarde. Hacedlo después de que los herederos hayan elegido lo suyo."
+     },
+     {
+      "t": "Extinción de condominio entre hermanos",
+      "p": "Si uno se queda el piso, el contenido suele quedarse con él y se descuenta o no de la compensación, según pactéis.",
+      "url": "/extincion-de-condominio/entre-hermanos/",
+      "cta": "Cómo funciona →"
+     },
+     {
+      "t": "Venta de tu cuota a nosotros",
+      "p": "No hace falta vaciar nada. Compramos tu parte del piso tal como está, con muebles, con un hermano viviendo dentro o cerrado desde hace años. Oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte →"
+     },
+     {
+      "t": "Un hermano no deja entrar",
+      "p": "Si uno tiene las llaves y no permite el inventario, requiérelo por burofax. Si sigue, puedes pedir medidas al juzgado. Y puedes vendernos tu cuota igualmente, sin su permiso.",
+      "url": "/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/",
+      "cta": "Qué hacer →"
+     }
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "No vacíes nada si vas a vendernos tu parte del piso heredado",
+    "type": "callout",
+    "intro": [
+     "Si lo que quieres es cerrar la herencia y cobrar, no necesitas vaciar el piso heredado entre hermanos ni ponerte de acuerdo con ellos sobre el sofá. Compramos tu cuota con el piso lleno. Oferta por escrito en 48 horas, gastos de notaría a nuestro cargo y entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte del piso",
+     "p": "Dinos la dirección, cuántos hermanos sois y tu porcentaje. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vaciar un piso heredado antes de aceptar la herencia?",
+    "Se puede limpiar y retirar lo que no tiene valor, pero no repartir ni llevarse bienes relevantes. Hasta la partición todo pertenece a la comunidad de herederos. Si uno se lleva objetos de valor sin acuerdo, los demás pueden exigir que los devuelva o que se le imputen en la partición."
+   ],
+   [
+    "¿Qué es el ajuar doméstico en el impuesto de sucesiones?",
+    "Es el conjunto de muebles, ropa y enseres de la vivienda. La ley presume que vale el 3 % del caudal relicto y lo suma a la base imponible, salvo que se pruebe otro valor. Según la doctrina del Tribunal Supremo, el 3 % se calcula sobre los bienes que pueden contener ajuar, como la vivienda, no sobre el dinero."
+   ],
+   [
+    "¿Quién paga la empresa de vaciado de un piso heredado?",
+    "Es un gasto de la herencia y se reparte entre los hermanos según su cuota. Si lo adelanta uno, debe guardar la factura para que se lo compensen en la partición o para reclamarlo después como gasto de conservación, por el artículo 395 del Código Civil."
+   ],
+   [
+    "¿Qué hago si un hermano se ha llevado cosas del piso sin avisar?",
+    "Pídele por escrito la lista de lo que se llevó y su devolución o su valor. Si hay objetos de valor y se niega, se puede exigir en la partición que se le imputen a su cuota o reclamarlos judicialmente. Las fotos del inventario, si existen, son la mejor prueba."
+   ],
+   [
+    "¿Hay que vaciar el piso para vender mi parte?",
+    "No, si nos la vendes a nosotros. Compramos cuotas de pisos heredados tal como están, con muebles y sin limpiar, incluso con otro heredero viviendo dentro. Si vendéis el piso entero a un particular, sí conviene vaciarlo y limpiarlo antes de las visitas."
+   ],
+   [
+    "¿Cuánto tarda una empresa en vaciar un piso?",
+    "Un piso de dos o tres habitaciones se vacía en uno o dos días con un equipo de dos o tres personas, de forma orientativa. Lo que más tiempo lleva es la fase previa: inventario, elección de objetos por cada hermano y decidir qué se vende y qué se dona."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vaciar un piso heredado",
+  "related": [
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Vender un piso heredado: impuestos",
+    "/blog/vender-un-piso-heredado-impuestos/"
+   ],
+   [
+    "Cómo se reparte una herencia de una casa entre hermanos",
+    "/blog/como-se-reparte-una-herencia-de-una-casa-entre-hermanos/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Extinción de condominio entre hermanos",
+    "/extincion-de-condominio/entre-hermanos/"
+   ]
+  ],
+  "cta_title": "Tu parte del piso, con muebles y todo",
+  "cta_text": "Compramos tu cuota tal como está. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Vaciar piso heredado entre hermanos: reparto, ajuar y costes",
+  "meta_desc": "Vaciar un piso heredado entre hermanos: qué no tocar antes del inventario, el ajuar del 3 % en sucesiones, cómo repartir y qué cuesta el vaciado.",
+  "focus_kw": "vaciar piso heredado entre hermanos",
+  "title_corto": "Vaciar el piso",
+  "imagen_prompt": "Editorial interior photograph, Spain, 16:9, 35 mm lens, soft window light through half-closed shutters, muted palette with dark blue and terracotta accents: an old Spanish apartment living room with vintage furniture covered by white sheets, cardboard boxes stacked by the wall, hydraulic tile floor, dust in the air. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Vaciar piso heredado entre hermanos: salón antiguo con muebles cubiertos por sábanas"
+ },
+ {
+  "slug": "proindiviso-quien-vota-en-la-junta-de-propietarios",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Copropiedad",
+  "h1": "Proindiviso: quién vota en la junta de propietarios cuando el piso tiene varios dueños",
+  "sub": "En un proindiviso vota en la junta de propietarios un único representante nombrado por los copropietarios, porque el artículo 15 de la Ley de Propiedad Horizontal da un voto por finca, no por dueño. Si no os ponéis de acuerdo, el piso puede quedarse sin voz. Te explicamos cómo nombrarlo, qué pasa con las derramas y la morosidad, y cómo afecta todo esto a vender tu cuota.",
+  "checks": [
+   "Artículo 15 de la LPH explicado",
+   "Derramas y morosidad resueltas",
+   "Compramos cuotas con deudas"
+  ],
+  "card_title": "¿El piso compartido se ha vuelto un problema?",
+  "card_text": "Te compramos tu cuota aunque haya deudas con la comunidad. Precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "La regla",
+    "h2": "Proindiviso: quién vota en la junta de propietarios según la ley",
+    "type": "text",
+    "intro": [
+     "En un proindiviso vota en la junta de propietarios una sola persona por el piso, elegida por todos sus dueños. Lo dice el artículo 15.1 de la Ley de Propiedad Horizontal: si un piso o local pertenece pro indiviso a diferentes propietarios, estos nombrarán un representante para asistir y votar en las juntas. El voto es uno y la cuota de participación es la del piso, no la de cada comunero.",
+     "La lógica es sencilla. La comunidad de vecinos se relaciona con fincas, no con familias. Un piso con cuatro hermanos heredados pesa lo mismo en la junta que el piso idéntico del vecino con un solo dueño. Nadie multiplica su voto por tener más copropietarios: en un proindiviso vota en la junta de propietarios una cuota, no cuatro.",
+     "El problema aparece cuando los comuneros no se hablan. Entonces el piso puede quedarse sin representante, sin voto y sin voz en decisiones que le afectan: derramas, ascensor, cambio de administrador. Aquí explicamos cómo evitarlo y qué pasa con el dinero."
+    ]
+   },
+   {
+    "overline": "La ley",
+    "h2": "Qué dice el artículo 15 de la Ley de Propiedad Horizontal",
+    "type": "list",
+    "intro": [
+     "El artículo es corto, pero tiene varias reglas que conviene conocer."
+    ],
+    "items": [
+     "<strong>Un representante por finca.</strong> Los copropietarios lo nombran y él asiste y vota. Puede ser uno de ellos o un tercero con poder.",
+     "<strong>El voto vale la cuota del piso.</strong> Para las mayorías por coeficiente cuenta la cuota de participación de la finca en la comunidad, no el porcentaje de cada comunero.",
+     "<strong>Los morosos no votan.</strong> Si el piso debe cuotas a la comunidad al empezar la junta, su representante puede hablar pero no votar, salvo que haya impugnado la deuda o la haya consignado judicial o notarialmente.",
+     "<strong>Delegación por escrito.</strong> Cualquier propietario puede asistir representado por otra persona con autorización escrita. El representante del proindiviso también puede delegar.",
+     "<strong>Convocatoria a un domicilio.</strong> La comunidad cita al piso, no a cada comunero. Conviene comunicar al administrador un domicilio y un correo de contacto."
+    ],
+    "outro": [
+     "En un proindiviso vota en la junta de propietarios quien los comuneros designen, y la comunidad no tiene que averiguar quién es: sois vosotros quienes debéis comunicarlo."
+    ]
+   },
+   {
+    "overline": "Cómo hacerlo",
+    "h2": "Cómo nombrar al representante del proindiviso para la junta",
+    "type": "steps",
+    "intro": [
+     "Si en vuestro proindiviso nadie vota en la junta de propietarios porque no hay representante, seguid estos pasos. No hace falta notario."
+    ],
+    "items": [
+     {
+      "t": "Decidid por mayoría de cuotas",
+      "p": "Nombrar representante es un acto de administración de la cosa común. Según el artículo 398 del Código Civil basta la mayoría de cuotas, no la unanimidad. Dos hermanos de tres pueden decidirlo."
+     },
+     {
+      "t": "Ponedlo por escrito",
+      "p": "Un documento firmado por los comuneros que lo apoyan, con nombre y DNI del representante y la finca a la que se refiere. Vale para todas las juntas hasta que lo revoquéis."
+     },
+     {
+      "t": "Comunicadlo al administrador",
+      "p": "Enviad el escrito al administrador o al presidente, con copia por correo electrónico. Pedid que conste en el registro de propietarios de la comunidad."
+     },
+     {
+      "t": "Fijad reglas internas",
+      "p": "Qué puede decidir solo y qué debe consultar: por ejemplo, derramas por encima de cierta cantidad. Es un pacto privado entre vosotros y no afecta a la comunidad."
+     },
+     {
+      "t": "Si no hay mayoría",
+      "p": "Cualquiera puede asistir e intentar votar, y la comunidad suele admitirlo si nadie se opone. Pero si hay dos comuneros enfrentados, el presidente puede negar el voto hasta que haya representante. Entonces solo queda acudir al juez."
+     }
+    ],
+    "outro": [
+     "En la práctica, el que vive en el piso suele acabar siendo el representante. Que lo sea por acuerdo, no por costumbre."
+    ]
+   },
+   {
+    "overline": "Mayorías",
+    "h2": "Mayorías de la comunidad: cómo cuenta el piso compartido",
+    "type": "table",
+    "intro": [
+     "La Ley de Propiedad Horizontal exige mayorías distintas según el acuerdo. En todas, el proindiviso vota en la junta de propietarios como un propietario y una cuota."
+    ],
+    "items": [
+     [
+      "Acuerdo",
+      "Mayoría orientativa según la LPH y cómo cuenta tu piso"
+     ],
+     [
+      "Gastos ordinarios, presupuesto, cambio de administrador",
+      "Mayoría simple de los presentes, por propietarios y cuotas. Tu piso: un propietario, una cuota."
+     ],
+     [
+      "Obras de accesibilidad y ascensor",
+      "Mayoría de todos los propietarios y cuotas. Además, son obligatorias si no superan doce mensualidades ordinarias por propietario."
+     ],
+     [
+      "Alquiler turístico: limitar o aprobar",
+      "Tres quintos de propietarios y cuotas. Desde 2025, aprobación expresa para iniciar el uso turístico."
+     ],
+     [
+      "Nuevos servicios, piscina, cambios estatutarios",
+      "Tres quintos de propietarios y cuotas, salvo los acuerdos que exigen unanimidad."
+     ],
+     [
+      "Modificar el título constitutivo o las cuotas",
+      "Unanimidad. El voto del piso en proindiviso puede bloquearlo igual que cualquier otro."
+     ]
+    ],
+    "outro": [
+     "Que el piso valga un voto no lo hace irrelevante. En comunidades pequeñas, un proindiviso que vota en la junta de propietarios decide ascensores y derramas."
+    ]
+   },
+   {
+    "overline": "Dinero",
+    "h2": "Derramas y morosidad: quién paga y quién pierde el voto",
+    "type": "text",
+    "intro": [
+     "Las cuotas de la comunidad y las derramas las debe el piso. Hacia dentro, cada comunero paga según su cuota, por el artículo 393 del Código Civil. Hacia fuera, la comunidad reclama a los titulares del piso y, si no cobra, puede acudir al juicio monitorio y embargar la finca. El piso responde de la anualidad en curso y de los tres años anteriores.",
+     "Si un hermano no paga su parte, el piso entero aparece como moroso. Consecuencia inmediata: en la próxima junta de propietarios el proindiviso no vota. El resto de comuneros tiene dos salidas. Pagar la deuda completa y reclamar al que no pagó, o consignar la cantidad e impugnar si creen que no la deben.",
+     "La deuda con la comunidad, además, se descubre siempre en la venta. El artículo 9 de la Ley de Propiedad Horizontal exige al vendedor declarar que está al corriente y aportar un certificado del administrador. Un piso heredado con años de cuotas impagadas da sorpresas en la notaría."
+    ]
+   },
+   {
+    "overline": "Tu venta",
+    "h2": "Cómo afecta la junta de propietarios a la venta de tu cuota del proindiviso",
+    "type": "cards",
+    "intro": [
+     "Cuando compramos una cuota, revisamos la situación con la comunidad de vecinos. Esto es lo que miramos y cómo influye en el precio."
+    ],
+    "items": [
+     {
+      "t": "Certificado de deudas",
+      "p": "Lo pedimos siempre. Si el piso debe cuotas, se descuentan del precio o se pagan en la notaría con el dinero de la venta. No es un obstáculo para comprar."
+     },
+     {
+      "t": "Derramas aprobadas y pendientes",
+      "p": "Una derrama aprobada antes de la venta la debe el vendedor por su cuota, salvo pacto. Lo tenemos en cuenta en la oferta y lo dejamos claro por escrito.",
+      "url": "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/",
+      "cta": "Quién paga qué →"
+     },
+     {
+      "t": "Nuestro voto después de la compra",
+      "p": "Al comprar tu cuota entramos en el proindiviso con los demás comuneros. Para la junta de propietarios el proindiviso sigue siendo un solo voto: vota el representante que nombremos con la mayoría o pactemos con ellos."
+     },
+     {
+      "t": "Retracto de los demás comuneros",
+      "p": "Tus copropietarios tienen nueve días para quedarse tu cuota al mismo precio, por el artículo 1522 del Código Civil. Si no lo ejercen, la venta queda firme.",
+      "url": "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/",
+      "cta": "Cómo funciona →"
+     }
+    ],
+    "outro": [
+     "Nada de esto impide la venta. Compramos cuotas de pisos con deudas de comunidad, derramas pendientes y comuneros enfrentados en toda España, con oferta por escrito en 48 horas."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Si el proindiviso vota dividido en la junta de propietarios, sal de él",
+    "type": "callout",
+    "intro": [
+     "Discutir quién vota por el piso en cada junta de propietarios es síntoma de algo más grande: un proindiviso que no funciona. Si prefieres salir, compramos tu cuota. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas, gastos de notaría a nuestro cargo y entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Dinos la dirección, tu porcentaje y si hay deudas con la comunidad. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Pueden votar los dos hermanos propietarios de un piso en la junta?",
+    "No. El artículo 15 de la Ley de Propiedad Horizontal da un voto por finca, así que deben nombrar un representante que vote por los dos. Pueden asistir ambos, pero solo uno emite el voto y lo hace con la cuota de participación del piso."
+   ],
+   [
+    "¿Qué pasa si los copropietarios no se ponen de acuerdo en el representante?",
+    "El piso puede quedarse sin votar. La comunidad suele admitir al que asiste si nadie se opone, pero ante dos comuneros enfrentados el presidente puede negar el voto. La mayoría de cuotas basta para nombrarlo, por el artículo 398 del Código Civil, y en último extremo puede pedirse al juez."
+   ],
+   [
+    "¿Puede votar un piso en proindiviso si uno de los dueños no paga la comunidad?",
+    "Depende de si el piso está al corriente, no de quién de los dueños pagó. Si la finca debe cuotas al empezar la junta, su representante no vota. Los demás comuneros pueden pagar la deuda y reclamar después al que no pagó su parte."
+   ],
+   [
+    "¿Quién paga las derramas en un piso heredado por varios hermanos?",
+    "Hacia la comunidad, el piso, y la comunidad puede reclamar a sus titulares y embargar la finca. Entre los hermanos, cada uno según su cuota, por el artículo 393 del Código Civil. Quien paga de más puede reclamar a los demás su parte."
+   ],
+   [
+    "¿La comunidad tiene que convocar a cada copropietario por separado?",
+    "No. Convoca a la finca, en el domicilio que conste para notificaciones o en el propio piso. Por eso conviene comunicar al administrador quién es el representante y un correo electrónico. Si no, la convocatoria se entiende hecha en el tablón de anuncios."
+   ],
+   [
+    "¿Compráis cuotas de pisos con deudas con la comunidad?",
+    "Sí. Pedimos el certificado de deudas, lo descontamos del precio o lo pagamos en la notaría con el importe de la venta, y seguimos adelante. Oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas, con los gastos de notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el voto del proindiviso en la junta",
+  "related": [
+   [
+    "IBI, comunidad y derramas en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Alquilar un piso compartido en Airbnb sin permiso",
+    "/blog/alquilar-piso-compartido-en-airbnb-sin-permiso/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Un voto, varios dueños y ningún acuerdo: sal del proindiviso",
+  "cta_text": "Compramos tu cuota con fondos propios, con o sin deudas con la comunidad. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Proindiviso quién vota en la junta de propietarios y cómo",
+  "meta_desc": "En un proindiviso vota en la junta de propietarios un solo representante. Cómo se nombra, qué pasa con derramas y morosos y cómo afecta a vender tu cuota.",
+  "focus_kw": "proindiviso quién vota en la junta de propietarios",
+  "title_corto": "Voto en la junta",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the entrance hall of a Spanish residential building with a row of brass mailboxes, a marble staircase, a dark blue front door ajar and a terracotta planter, empty and quiet. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Proindiviso: quién vota en la junta de propietarios, portal de un edificio de viviendas"
+ },
+ {
+  "slug": "tipos-de-proindiviso",
+  "kind": "post",
+  "category": "copropiedad",
+  "kicker": "Conceptos",
+  "h1": "Tipos de proindiviso: ordinario, hereditario, postganancial, vertical, de garaje y rústico",
+  "sub": "Los tipos de proindiviso más frecuentes en España son seis: el ordinario por compra conjunta, el hereditario, el postganancial tras un divorcio, el de edificio entero sin dividir, el de garaje y el de finca rústica. En todos puedes vender tu cuota sin permiso de los demás, pero el precio, los trámites y los problemas cambian. Nosotros compramos cuotas de los seis.",
+  "checks": [
+   "Los 6 tipos explicados",
+   "Qué cambia al vender en cada uno",
+   "Compramos cuotas de todos"
+  ],
+  "card_title": "¿Qué tipo de proindiviso tienes?",
+  "card_text": "Da igual: te damos precio por tu cuota en 48 horas, sea un piso, una casa entera, un garaje o una finca.",
+  "sections": [
+   {
+    "overline": "Por qué importa",
+    "h2": "Tipos de proindiviso: por qué importa distinguirlos",
+    "type": "text",
+    "intro": [
+     "Todos los tipos de proindiviso comparten una base: un bien con varios dueños por cuotas sin dividir, regulado en los artículos 392 a 406 del Código Civil. Cada comunero puede vender su cuota sin permiso de los demás, por el artículo 399, y cualquiera puede pedir la división, por el artículo 400. Hasta aquí, todo igual.",
+     "Pero el origen del proindiviso cambia lo que puedes hacer con él y cuánto vale tu parte. No es lo mismo una mitad indivisa de un piso comprado con tu expareja que un sexto de un edificio entero heredado de tus abuelos o una participación de un garaje colectivo. Cambian los trámites previos, los impuestos, el derecho de retracto y el comprador que puede interesarse.",
+     "Como compradores, clasificamos cada caso en uno de estos tipos de proindiviso antes de dar precio. Aquí te contamos qué cambia en cada uno y cuál es la salida realista."
+    ]
+   },
+   {
+    "overline": "De un vistazo",
+    "h2": "Los seis tipos de proindiviso de un vistazo",
+    "type": "table",
+    "items": [
+     [
+      "Tipo",
+      "Cómo nace y qué cambia al vender tu parte"
+     ],
+     [
+      "Ordinario",
+      "Compra conjunta entre pareja, amigos o socios. Cuotas claras e inscritas. Es el más fácil de vender: nota simple y escritura, y listo."
+     ],
+     [
+      "Hereditario",
+      "Herencia con varios herederos. Antes de vender hay que aceptar y adjudicar la herencia. Hasta la partición es comunidad hereditaria y lo que se vende es el derecho hereditario, con retracto de coherederos."
+     ],
+     [
+      "Postganancial",
+      "Divorcio o fallecimiento con gananciales sin liquidar. No hay cuota sobre el piso concreto hasta la liquidación. Primero liquidar, después vender."
+     ],
+     [
+      "Vertical o de edificio entero",
+      "Casa o edificio sin división horizontal con varios dueños. Las plantas no son fincas separadas. Vender una planta exige antes dividir horizontalmente, o se vende la cuota del todo."
+     ],
+     [
+      "De garaje",
+      "Participación indivisa de un local garaje con derecho de uso exclusivo de una plaza. Se vende la participación con su plaza. Puede haber retracto de los demás partícipes del garaje."
+     ],
+     [
+      "Rústico",
+      "Finca heredada entre varios, a menudo sin posibilidad de segregar por la unidad mínima de cultivo. Se vende la cuota entera de la finca, no una parcela."
+     ]
+    ],
+    "outro": [
+     "Hay más variantes, pero casi todos los casos que vemos encajan en uno de estos tipos de proindiviso o en una mezcla de dos: un garaje heredado, una finca postganancial."
+    ]
+   },
+   {
+    "overline": "Por origen",
+    "h2": "Ordinario, hereditario y postganancial: tres orígenes, tres caminos",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Proindiviso ordinario",
+      "p": "Nace de una compraventa a nombre de varios. Las cuotas constan en la escritura y en el Registro. Si uno quiere salir, vende su cuota o pide la extinción de condominio. Es el que menos papeleo previo necesita.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte de un piso →"
+     },
+     {
+      "t": "Proindiviso hereditario",
+      "p": "Nace de una herencia. Mientras no hay partición, existe comunidad hereditaria y cada heredero tiene una cuota sobre el conjunto, no sobre el piso. Después de la adjudicación en proindiviso, cada uno tiene su porcentaje del inmueble y puede venderlo con normalidad.",
+      "url": "/blog/comunidad-hereditaria-vs-proindiviso/",
+      "cta": "Diferencias →"
+     },
+     {
+      "t": "Proindiviso postganancial",
+      "p": "Nace cuando se disuelve la sociedad de gananciales, por divorcio o muerte, pero no se liquida. Los excónyuges tienen una mitad del patrimonio común en conjunto, no de cada bien. Para vender tu mitad de la casa hace falta liquidar antes, en escritura o en el juzgado.",
+      "url": "/vender-proindiviso-divorcio/",
+      "cta": "Proindiviso por divorcio →"
+     }
+    ],
+    "outro": [
+     "Estos tres tipos de proindiviso agrupan la gran mayoría de las cuotas que compramos. El postganancial es el que más veces llega sin el paso previo hecho."
+    ]
+   },
+   {
+    "overline": "Por estructura",
+    "h2": "Proindiviso horizontal y vertical: qué significa cada uno",
+    "type": "text",
+    "intro": [
+     "Entre los tipos de proindiviso de vivienda, se habla de horizontal cuando varios dueños comparten un piso que ya es una finca independiente dentro de un edificio en propiedad horizontal. Es el caso habitual: un piso, varios titulares y una comunidad de vecinos a la que se paga una cuota.",
+     "El proindiviso vertical es distinto. Varios dueños comparten un edificio o una casa entera que nunca se dividió horizontalmente: una casa de pueblo de tres plantas heredada por tres hermanos, un edificio de cuatro viviendas de los abuelos. Aunque cada hermano use una planta, jurídicamente todos son dueños de todo. Nadie puede vender su planta, porque su planta no existe como finca.",
+     "Las salidas son dos. Hacer la división horizontal, que exige unanimidad, proyecto técnico, licencia y escritura, y convierte cada planta en una finca que ya se puede vender por separado. O vender la cuota del edificio entero, que es lo que compramos nosotros cuando los hermanos no se ponen de acuerdo para dividir. Entre todos los tipos de proindiviso, el vertical es el que más valor pierde por falta de acuerdo."
+    ]
+   },
+   {
+    "overline": "Otros bienes",
+    "h2": "Proindiviso de garaje, de finca rústica y otros tipos menos conocidos",
+    "type": "list",
+    "intro": [
+     "Fuera de la vivienda hay tipos de proindiviso con reglas propias que conviene conocer antes de vender."
+    ],
+    "items": [
+     "<strong>Garaje colectivo.</strong> Compraste una participación indivisa del local garaje con derecho de uso de una plaza concreta. Tu título es una cuota, no una finca. Se vende igual, pero los estatutos del garaje pueden dar retracto a los demás partícipes y el garaje tiene sus propias cuotas de gastos.",
+     "<strong>Finca rústica.</strong> Olivar, viñedo o tierra de labor heredada entre hermanos. La normativa de modernización de explotaciones agrarias fija unidades mínimas de cultivo por comunidad autónoma y suele impedir segregar. Se vende la cuota de la finca entera, con retracto de colindantes en algunos casos.",
+     "<strong>Local comercial o nave.</strong> Igual que un piso, pero con inquilino frecuente. El arrendatario tiene derecho de adquisición preferente sobre el local entero, no sobre tu cuota.",
+     "<strong>Solar o terreno urbano.</strong> Cuota de un terreno edificable. Vale por su aprovechamiento, y los ayuntamientos a veces exigen parcela mínima para segregar.",
+     "<strong>Multipropiedad y aprovechamiento por turno.</strong> No es un proindiviso en sentido estricto, aunque se le parezca. Lo tratamos en otra entrada."
+    ],
+    "outro": [
+     "De todos estos tipos de proindiviso compramos cuotas, salvo la multipropiedad. El precio depende del uso que la cuota permita y de las cargas."
+    ]
+   },
+   {
+    "overline": "Para vender",
+    "h2": "Qué cambia al vender tu parte según el tipo de proindiviso",
+    "type": "steps",
+    "intro": [
+     "En todos los tipos de proindiviso el proceso con nosotros es parecido; cambian los documentos previos."
+    ],
+    "items": [
+     {
+      "t": "Identifica tu tipo",
+      "p": "Mira la nota simple. Si figuras con un porcentaje sobre una finca concreta, es ordinario o hereditario ya adjudicado. Si la finca sigue a nombre del fallecido o de la sociedad de gananciales, falta un paso."
+     },
+     {
+      "t": "Completa el paso previo",
+      "p": "Herencia: aceptación y adjudicación ante notario. Gananciales: liquidación. Edificio entero: decide si vendes la cuota del todo o impulsas la división horizontal."
+     },
+     {
+      "t": "Pide precio",
+      "p": "Con la dirección y tu porcentaje te damos oferta por escrito en 48 horas. Entre el 40 % y el 70 % del valor proporcional, según el tipo, la ocupación y las cargas."
+     },
+     {
+      "t": "Firma en notaría",
+      "p": "Entre dos y cuatro semanas desde que aceptas. Gastos de notaría a nuestro cargo y pago al contado en el acto. Los demás comuneros conservan su retracto de nueve días, y en herencias el de coherederos."
+     }
+    ],
+    "outro": [
+     "En nuestra calculadora puedes ver una estimación por tipo de inmueble y porcentaje antes de hablar con nadie."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Sea cual sea tu tipo de proindiviso, te damos precio por tu parte",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de todos los tipos de proindiviso en toda España: pisos, casas enteras, garajes, locales, terrenos y fincas. Con fondos propios, sin exclusividad y sin que los demás tengan que estar de acuerdo."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Dinos qué tipo de inmueble es, cómo nació la copropiedad y tu porcentaje. En 48 horas tienes oferta por escrito, sin compromiso.",
+     "cta": "Quiero mi oferta en 48 horas"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuántos tipos de proindiviso existen?",
+    "La ley no los clasifica; es la práctica la que distingue según el origen y el bien: ordinario, hereditario, postganancial, vertical o de edificio entero, de garaje y rústico. Todos se rigen por los artículos 392 a 406 del Código Civil y en todos se puede vender la cuota."
+   ],
+   [
+    "¿Qué diferencia hay entre proindiviso horizontal y vertical?",
+    "El horizontal es un piso que ya es finca independiente, compartido por varios dueños. El vertical es un edificio o casa entera sin división horizontal, con varios dueños de todo. En el vertical nadie puede vender una planta, porque las plantas no son fincas separadas."
+   ],
+   [
+    "¿Puedo vender mi mitad de la casa si no hemos liquidado los gananciales?",
+    "No todavía. En la comunidad postganancial tienes la mitad del patrimonio común en conjunto, no la mitad de cada bien. Hace falta liquidar la sociedad de gananciales en escritura o en el juzgado y que la casa quede adjudicada por mitades. Después sí puedes vender tu cuota."
+   ],
+   [
+    "¿Se puede vender una plaza de garaje que es una participación indivisa?",
+    "Sí. Vendes tu participación del local garaje con el derecho de uso exclusivo de tu plaza. Revisa los estatutos del garaje, porque a veces reconocen un derecho de adquisición preferente a los demás partícipes. Nosotros compramos participaciones de garaje con y sin plaza asignada."
+   ],
+   [
+    "¿Qué es un proindiviso hereditario y en qué se diferencia de la comunidad hereditaria?",
+    "La comunidad hereditaria existe desde el fallecimiento hasta la partición: los herederos tienen cuotas sobre el conjunto de la herencia. El proindiviso hereditario nace cuando, en la partición, el inmueble se adjudica a varios en porcentajes. Desde entonces cada uno tiene una cuota sobre ese inmueble concreto."
+   ],
+   [
+    "¿Compráis cuotas de fincas rústicas y terrenos?",
+    "Sí. Compramos cuotas de fincas rústicas, olivares, viñedos, parcelas y solares urbanos en toda España, con o sin posibilidad de segregar. El precio depende del aprovechamiento, el acceso y las cargas. Oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los tipos de proindiviso",
+  "related": [
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ],
+   [
+    "Comunidad hereditaria y proindiviso: diferencias",
+    "/blog/comunidad-hereditaria-vs-proindiviso/"
+   ],
+   [
+    "Vender tu parte de un garaje o trastero",
+    "/blog/vender-parte-de-un-garaje-o-trastero/"
+   ],
+   [
+    "Vender tu parte de un terreno rústico heredado",
+    "/blog/vender-parte-de-un-terreno-rustico-heredado/"
+   ],
+   [
+    "Diccionario del proindiviso",
+    "/diccionario-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "Piso, casa entera, garaje o finca: compramos tu cuota",
+  "cta_text": "Compramos cuotas de cualquier tipo de proindiviso con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Tipos de proindiviso: los seis que hay y qué cambia al vender",
+  "meta_desc": "Tipos de proindiviso: ordinario, hereditario, postganancial, vertical, de garaje y rústico. Qué cambia al vender tu parte y cuánto pagamos por ella.",
+  "focus_kw": "tipos de proindiviso",
+  "title_corto": "Tipos de proindiviso",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, golden late afternoon light, muted palette with dark blue and terracotta accents: the edge of a Spanish town where a three-storey old apartment building with balconies meets a low garage entrance and, beyond, olive groves on dry hills under a soft sky. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Tipos de proindiviso: edificio de viviendas, garaje y finca rústica en un paisaje español"
+ }
+]

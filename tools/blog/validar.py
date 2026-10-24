@@ -64,6 +64,7 @@ def check(s, plan=None):
     if not has_kw(s['meta_desc'],kw,0.99): err.append('keyphrase no está en meta_desc')
     if not has_kw(s['yoast_title'],kw,0.99): err.append('keyphrase no está en yoast_title')
     if not 50<=len(s['yoast_title'])<=62: err.append(f'yoast_title {len(s["yoast_title"])} car. (50-62)')
+    if not re.sub(r'\s+',' ',s['yoast_title'].lower()).startswith(re.sub(r'\s+',' ',kw.lower())): err.append('yoast_title debe EMPEZAR por la keyphrase exacta, sin signos dentro (Yoast: «exact match» al principio del título SEO)')
     if not 130<=len(s['meta_desc'])<=155: err.append(f'meta_desc {len(s["meta_desc"])} car. (130-155)')
     conkw=sum(1 for h in h2s if has_kw(h,kw,0.5)); r=conkw/len(h2s) if h2s else 0
     if not 0.3<=r<=0.75: err.append(f'H2 con keyphrase {conkw}/{len(h2s)} (debe ser 30-75 %)')

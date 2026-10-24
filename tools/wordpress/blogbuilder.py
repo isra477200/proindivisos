@@ -32,7 +32,7 @@ def ensure(spec,ids):
         if pt=='post': body['categories']=[CATS[spec['category']]]; body['comment_status']='closed'; body['ping_status']='closed'
         r=api('POST',f'/wp/v2/{ep}/{pid}',body)
         if 'id' not in r: print('SET FAIL',spec['slug'],r); return None
-    ids[spec['slug']]=pid; json.dump(ids,open(IDS_FILE,'w'),ensure_ascii=False,indent=0); return pid
+    cur=load_ids(); cur.update(ids); cur[spec['slug']]=pid; ids.update(cur); json.dump(cur,open(IDS_FILE,'w'),ensure_ascii=False,indent=0); return pid  # fusiona con lo que haya escrito otro proceso
 _GEO=None
 def geo_places():
     """[(nombre, url)] de CCAA, provincias y capitales con página geo, para enlazar desde las entradas que las mencionan."""

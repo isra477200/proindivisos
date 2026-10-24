@@ -40,7 +40,7 @@
   "angulo": "Cambiar titulares o condiciones de la hipoteca al salir un copropietario: comisión, notaría, aceptación del banco."
  },
  {
-  "slug": "no-residente",
+  "slug": "vender-un-inmueble-siendo-no-residente",
   "focus_kw": "vender un inmueble siendo no residente",
   "title_corto": "No residente",
   "termino": "No residente",
@@ -100,7 +100,7 @@
   "angulo": "IIVTNU: cuándo se paga (venta, herencia), cuándo no (extinción de condominio, pérdida), cálculo real vs objetivo, plazos."
  },
  {
-  "slug": "poder-notarial",
+  "slug": "poder-notarial-para-vender",
   "focus_kw": "poder notarial para vender",
   "title_corto": "Poder notarial",
   "termino": "Poder notarial",

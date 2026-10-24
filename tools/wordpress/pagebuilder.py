@@ -9,15 +9,21 @@ def _images2():
 def _images():
     f=os.path.join(os.path.dirname(os.path.abspath(__file__)),'images.json')
     return {int(k):v for k,v in json.load(open(f)).items()} if os.path.exists(f) else {}
+try: _YFW=set(json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'yoast_function_words_es.json'))))  # palabras funcionales del motor Yoast (es): «parte», «cosa», «común», «cuánto»... no cuentan
+except Exception: _YFW={'de','del','la','el','los','las','un','una','en','por','para','con','sin','y','o','a','al','que','mi','tu','su','se','es','lo','tus','mis','sus','le'}
 def _kw_words(kw):
-    import unicodedata
-    stop={'de','del','la','el','los','las','un','una','en','por','para','con','sin','y','o','a','al','que','mi','tu','su','se','es','lo','tus','mis','sus','le'}
-    return [w for w in re.findall(r"[\wáéíóúüñ]+",kw.lower()) if w not in stop]
+    ws=[w for w in re.findall(r"[\wáéíóúüñ]+",kw.lower()) if w not in _YFW]
+    return ws or re.findall(r"[\wáéíóúüñ]+",kw.lower())
+def _hits(text,kw):
+    ws=_kw_words(kw); t=text.lower()
+    return sum(1 for w in ws if re.search(r'(?<![\wáéíóúüñ])'+re.escape(w)+r'(?![\wáéíóúüñ])',t)), len(ws)
 def _has_kw(text,kw,ratio=0.5):
-    ws=_kw_words(kw)
-    if not ws: return True
-    t=text.lower(); hit=sum(1 for w in ws if re.search(r'(?<![\wáéíóúüñ])'+re.escape(w)+r'(?![\wáéíóúüñ])',t))
-    return hit/len(ws)>=ratio
+    hit,n=_hits(text,kw)
+    return True if not n else hit/n>=ratio
+def _topic(text,kw):
+    """Regla de Yoast para «keyphrase en subtítulos»: el subtítulo refleja el tema si contiene MÁS de la mitad de las palabras de contenido."""
+    hit,n=_hits(text,kw)
+    return True if not n else hit/n>0.5
 def _break_runs(items):
     """Reordena los enlaces para que no haya 3 seguidos cuya etiqueta empiece por la misma palabra (Yoast: 'frases consecutivas')."""
     def fw(x):
@@ -37,13 +43,49 @@ def page_kw(spec):
         from intencion_kw import KW
         return KW.get(int(spec['post_id']),'')
     except Exception: return ''
+def _plan_subtitulos(spec,kw):
+    """Devuelve ({(sección,k): bool} para títulos de tarjeta, {i: bool} para preguntas de FAQ, 1-based). Candidatos a h3: títulos que reflejan
+    el tema; además la tarjeta central de secciones largas (>280 palabras) y las preguntas 3 y 5 (partir el bloque FAQ en tramos <300
+    palabras). Si con todo eso el ratio supera el 75 %, se van quitando h3 que reflejan el tema (primero FAQ, luego tarjetas) hasta bajar."""
+    _w=lambda x: len(re.findall(r"\w+",re.sub(r"<[^>]+>"," ",str(x))))
+    top=lambda t: bool(kw) and _topic(t,kw)
+    h2=[sec['h2'] for sec in spec.get('sections',[]) if sec.get('h2')]
+    ft=spec.get('faq_title',"Dudas habituales")
+    if kw and not _has_kw(ft,kw): ft=f"Preguntas sobre {kw}"
+    ct=spec.get('cta_title',"Gratis, por escrito y sin compromiso")
+    if kw and not _has_kw(ct,kw): ct=f"{kw}: te damos precio"
+    if spec.get('faqs'): h2.append(ft)
+    h2.append(ct)
+    cards={}; forced_c=set()
+    for si,sec in enumerate(spec.get('sections',[])):
+        if sec.get('type') in ('cards','steps'):
+            it=sec['items']; secw=sum(_w(x) for x in (sec.get('intro',[]) if isinstance(sec.get('intro',[]),list) else [sec.get('intro','')]))+sum(_w(x.get('t',''))+_w(x.get('p','')) for x in it)
+            mid=len(it)//2
+            for k,x in enumerate(it):
+                if top(x.get('t','')): cards[(si,k)]=True
+                elif secw>280 and k==mid: cards[(si,k)]=True; forced_c.add((si,k))
+    faq={}; forced_f=set()
+    for i,(q,_a) in enumerate(spec.get('faqs',[]),1):
+        if top(q): faq[i]=True
+        elif i in (3,5): faq[i]=True; forced_f.add(i)
+    def ratio():
+        tot=len(h2)+len(cards)+len(faq); m=sum(1 for h in h2 if top(h))+sum(1 for k in cards if k not in forced_c)+sum(1 for i in faq if i not in forced_f)
+        return (m/tot if tot else 0),m,tot
+    r,m,tot=ratio()
+    for i in sorted([i for i in faq if i not in forced_f],reverse=True):
+        if r<=0.75: break
+        faq.pop(i); r,m,tot=ratio()
+    for k in sorted([k for k in cards if k not in forced_c],reverse=True):
+        if r<=0.75: break
+        cards.pop(k); r,m,tot=ratio()
+    return cards,faq
 def build(spec):
     c=Comp(spec['post_id'])
     img=spec.get('image_id') or _images().get(int(spec['post_id']))
     kw=page_kw(spec)
     dated=spec.get('dated', spec.get('kind')=='post' or int(spec['post_id']) in DATED_PAGES)
     # HERO (azul oscuro, con tarjeta)
-    c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero migas"></e-paragraph><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading>'+('<e-paragraph configuration-id="Hero fecha"></e-paragraph>' if dated else '')+'<e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks">'+''.join(f'<e-flexbox configuration-id="Hero check {i}"><e-paragraph configuration-id="Hero check {i} icono"></e-paragraph><e-paragraph configuration-id="Hero check {i} texto"></e-paragraph></e-flexbox>' for i in range(1,4))+'</e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-heading configuration-id="Hero tarjeta titulo"></e-heading><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
+    c.add('<e-div-block configuration-id="Hero"><e-flexbox configuration-id="Hero inner"><e-flexbox configuration-id="Hero texto"><e-paragraph configuration-id="Hero migas"></e-paragraph><e-paragraph configuration-id="Hero overline"></e-paragraph><e-heading configuration-id="Hero titulo"></e-heading>'+('<e-paragraph configuration-id="Hero fecha"></e-paragraph>' if dated else '')+'<e-paragraph configuration-id="Hero sub"></e-paragraph><e-flexbox configuration-id="Hero botones"><e-button configuration-id="Hero wa"></e-button><e-button configuration-id="Hero tel"></e-button></e-flexbox><e-flexbox configuration-id="Hero checks">'+''.join(f'<e-flexbox configuration-id="Hero check {i}"><e-paragraph configuration-id="Hero check {i} icono"></e-paragraph><e-paragraph configuration-id="Hero check {i} texto"></e-paragraph></e-flexbox>' for i in range(1,4))+'</e-flexbox></e-flexbox><e-flexbox configuration-id="Hero tarjeta"><e-div-block configuration-id="Hero tarjeta franja"></e-div-block><e-paragraph configuration-id="Hero tarjeta titulo"></e-paragraph><e-paragraph configuration-id="Hero tarjeta texto"></e-paragraph><e-component configuration-id="Hero formulario"/></e-flexbox></e-flexbox></e-div-block>')
     c.cfg("Hero",{"tag":"section"})
     c.st("Hero",f"display:flex; flex-direction:column; align-items:center; width:100%; padding: 72px 24px 80px 24px; background-color: var(--brand-primary-dark); background-image: linear-gradient(100deg, rgba(9,58,90,1) 0%, rgba(9,58,90,0.97) 50%, rgba(13,79,120,0.82) 100%), url('{HERO}'); background-size: cover; background-position: right center; @media(--tablet){{ padding: 56px 24px 64px 24px; }} @media(--mobile){{ padding: 40px 18px 48px 18px; background-image: linear-gradient(180deg, rgba(9,58,90,0.97) 0%, rgba(9,58,90,0.97) 100%), url('{HERO}'); }}")
     c.st("Hero inner","display:flex; flex-direction:row; align-items:center; gap: 56px; width:100%; max-width: 1200px; padding:0px; @media(--tablet){ gap: 32px; } @media(--mobile){ flex-direction:column; gap: 32px; }")
@@ -66,7 +108,7 @@ def build(spec):
         c.p(f"Hero check {i} texto",t,"font-size: 15px; font-weight: 700; color: rgba(255,255,255,0.9);")
     c.st("Hero tarjeta","display:flex; flex-direction:column; gap: 8px; flex-grow:0; flex-shrink:0; flex-basis: 420px; width: 420px; max-width:100%; padding: 0px 28px 28px 28px; background-color: var(--white); border-radius: 20px; box-shadow: 0 30px 80px rgba(0,0,0,0.35); overflow:hidden; @media(--tablet){ flex-basis: 360px; width: 360px; } @media(--mobile){ flex-basis:auto; width:100%; padding: 0px 22px 22px 22px; }")
     c.st("Hero tarjeta franja","width: calc(100% + 56px); height: 8px; margin: 0px 0px 20px -28px; padding:0px; background-color: var(--brand-accent); @media(--mobile){ width: calc(100% + 44px); margin-left: -22px; }")
-    c.h("Hero tarjeta titulo",spec.get('card_title',"Te llamamos nosotros"),"h3","font-size: 23px; color: var(--brand-primary);")
+    c.p("Hero tarjeta titulo",spec.get('card_title',"Te llamamos nosotros"),"font-family: var(--font-heading); font-size: 23px; font-weight: 800; line-height: 1.2; letter-spacing: -0.01em; color: var(--brand-primary);")
     c.p("Hero tarjeta texto",spec.get('card_text',"Tu nombre y tu teléfono. Te llamamos en menos de 24 horas laborables con una oferta."),"font-size: 14px; color: var(--ink-muted); margin-bottom: 6px;")
     c.cfg("Hero formulario",{"component_id":83})
     # IMAGEN DESTACADA (banda que solapa el borde inferior del hero; media library id → alt del adjunto)
@@ -77,6 +119,10 @@ def build(spec):
         c.st("Figura inner","display:flex; flex-direction:column; width:100%; max-width: 1200px; padding:0px;")
         c.cfg("Figura img",{"image":{"src":{"id":int(img)},"size":"full"}})
         c.st("Figura img","display:block; width:100%; height:auto; aspect-ratio: 2.4 / 1; object-fit: cover; object-position: center; border-radius: 20px; box-shadow: 0 24px 60px rgba(9,58,90,0.28); @media(--tablet){ aspect-ratio: 2 / 1; } @media(--mobile){ aspect-ratio: 16 / 9; border-radius: 14px; }")
+    # PLAN DE SUBTÍTULOS (Yoast «keyphrase en subtítulos»: entre el 30 % y el 75 % de H2+H3 deben reflejar el tema, es decir, contener
+    # más de la mitad de las palabras de contenido de la keyphrase). Los H2 vienen del spec; aquí se decide qué títulos de tarjeta y qué
+    # preguntas de FAQ van como h3 (y cuáles como párrafo con estilo de h3) para no salirse del rango.
+    _plan_cards,_plan_faq=_plan_subtitulos(spec,kw)
     # SECCIONES
     for si,sec in enumerate(spec['sections']):
         bg="var(--white)" if si%2==0 else "var(--surface-soft)"
@@ -96,8 +142,10 @@ def build(spec):
             # si no, párrafo con estilo de h3, para no inflar el recuento de subtítulos que Yoast compara con la keyphrase.
             _w=lambda x: len(re.findall(r"\w+",re.sub(r"<[^>]+>"," ",str(x))))
             secw=sum(_w(x) for x in (sec.get('intro',[]) if isinstance(sec.get('intro',[]),list) else [sec.get('intro','')]))+sum(_w(it.get('t',''))+_w(it.get('p','')) for it in sec['items'])
-            h3=secw>280 or any(it.get('url') for it in sec['items'])
+            # título de tarjeta como h3 solo si refleja la keyphrase (regla de Yoast) o, en secciones largas (>280 palabras: Yoast pide
+            # subtítulo cada 300), la tarjeta central; el resto, párrafo con estilo de h3 para no diluir el ratio «keyphrase en subtítulos»
             for k,it in enumerate(sec['items']):
+                h3=_plan_cards.get((si,k),False)
                 cc=f"{sc} card {k}"; inn=''
                 if t=='steps': inn+=f'<e-paragraph configuration-id="{cc} n"></e-paragraph>'; c.p(f"{cc} n",f"0{k+1}","font-family: var(--font-heading); font-size: 15px; font-weight: 800; letter-spacing: 0.1em; color: var(--brand-accent-dark);")
                 inn+=(f'<e-heading configuration-id="{cc} t"></e-heading>' if h3 else f'<e-paragraph configuration-id="{cc} t"></e-paragraph>')+f'<e-paragraph configuration-id="{cc} p"></e-paragraph>'
@@ -114,23 +162,29 @@ def build(spec):
             for k,x in enumerate(sec['items']): c.p(f"{cc} {k}",x,"font-size: 16px; line-height: 1.65; color: var(--ink); padding-left: 18px; border-left: 3px solid var(--brand-accent);")
         elif t=='callout':
             cc=f"{sc} callout"; it=sec['items']
-            parts.append(f'<e-flexbox configuration-id="{cc}"><e-heading configuration-id="{cc} t"></e-heading><e-paragraph configuration-id="{cc} p"></e-paragraph><e-button configuration-id="{cc} b"></e-button></e-flexbox>')
+            parts.append(f'<e-flexbox configuration-id="{cc}"><e-paragraph configuration-id="{cc} t"></e-paragraph><e-paragraph configuration-id="{cc} p"></e-paragraph><e-button configuration-id="{cc} b"></e-button></e-flexbox>')
             c.st(cc,"display:flex; flex-direction:column; gap: 10px; width:100%; max-width: 820px; padding: 32px; background-color: var(--brand-primary); border-radius: 18px;")
-            c.h(f"{cc} t",it['t'],"h3","font-size: 24px; color: var(--white);"); c.p(f"{cc} p",it['p'],"font-size: 16px; line-height: 1.6; color: rgba(255,255,255,0.88);"); c.btn(f"{cc} b",it['cta'],it.get('url',POPUP),"accent","md","align-self:flex-start; margin-top: 6px;")
+            c.p(f"{cc} t",it['t'],"font-family: var(--font-heading); font-size: 24px; font-weight: 800; line-height: 1.2; letter-spacing: -0.01em; color: var(--white);"); c.p(f"{cc} p",it['p'],"font-size: 16px; line-height: 1.6; color: rgba(255,255,255,0.88);"); c.btn(f"{cc} b",it['cta'],it.get('url',POPUP),"accent","md","align-self:flex-start; margin-top: 6px;")
         elif t=='tool':
             # herramienta interactiva servida por shortcode (snippet_calculadoras.php): e-paragraph con tag span (el único que admite
             # bloques dentro sin que el navegador cierre la etiqueta) y texto dinámico «shortcode»; el CSS/JS lo imprime el snippet
             cc=f"{sc} tool"; parts.append(f'<e-paragraph configuration-id="{cc}"></e-paragraph>')
             c.cfg(cc,{"tag":"span","paragraph":{"name":"shortcode","settings":{"shortcode":sec['shortcode']}}}); c.st(cc,"display:block; width:100%; max-width: 860px;")
         elif t=='table':
-            cc=f"{sc} tabla"; rows=sec['items']
-            parts.append(f'<e-flexbox configuration-id="{cc}">'+''.join(f'<e-flexbox configuration-id="{cc} fila {k}"><e-paragraph configuration-id="{cc} fila {k} a"></e-paragraph><e-paragraph configuration-id="{cc} fila {k} b"></e-paragraph></e-flexbox>' for k in range(len(rows)))+'</e-flexbox>')
-            c.st(cc,"display:flex; flex-direction:column; gap: 0px; width:100%; max-width: 820px; padding:0px; border: 1px solid var(--line); border-radius: 14px; overflow:hidden;")
-            for k,(a,b) in enumerate(rows):
+            # tabla de 2 o más columnas: primera columna en negrita (40 % con 2 columnas; reparto igual con 3 o más)
+            cc=f"{sc} tabla"; rows=[list(r) for r in sec['items']]; ncol=max(len(r) for r in rows)
+            rows=[r+['']*(ncol-len(r)) for r in rows]; L='abcdefgh'
+            parts.append(f'<e-flexbox configuration-id="{cc}">'+''.join(f'<e-flexbox configuration-id="{cc} fila {k}">'+''.join(f'<e-paragraph configuration-id="{cc} fila {k} {L[j]}"></e-paragraph>' for j in range(ncol))+'</e-flexbox>' for k in range(len(rows)))+'</e-flexbox>')
+            c.st(cc,"display:flex; flex-direction:column; gap: 0px; width:100%; max-width: "+("820px" if ncol<=2 else "960px")+"; padding:0px; border: 1px solid var(--line); border-radius: 14px; overflow:hidden;")
+            first_basis="flex-basis: 40%; flex-shrink:0;" if ncol==2 else "flex-basis: 0px; flex-grow:1; min-width:0;"
+            rest_basis="" if ncol==2 else " flex-basis: 0px; flex-grow:1; min-width:0;"
+            for k,row in enumerate(rows):
                 hdr = (k==0)
                 c.st(f"{cc} fila {k}","display:flex; flex-direction:row; gap: 16px; width:100%; padding: 14px 18px; background-color: "+("var(--brand-primary)" if hdr else ("var(--white)" if k%2 else "var(--surface-soft)"))+"; @media(--mobile){ flex-direction:column; gap: 4px; }")
-                c.p(f"{cc} fila {k} a",a,("font-size: 14px; font-weight: 800; color: var(--white); flex-basis: 40%; flex-shrink:0;" if hdr else "font-size: 15px; font-weight: 700; color: var(--ink); flex-basis: 40%; flex-shrink:0;"))
-                c.p(f"{cc} fila {k} b",b,("font-size: 14px; font-weight: 800; color: var(--white);" if hdr else "font-size: 15px; color: var(--ink-muted); line-height: 1.5;"))
+                for j,val in enumerate(row):
+                    if j==0: st=("font-size: 14px; font-weight: 800; color: var(--white); " if hdr else "font-size: 15px; font-weight: 700; color: var(--ink); ")+first_basis
+                    else: st=("font-size: 14px; font-weight: 800; color: var(--white);" if hdr else "font-size: 15px; color: var(--ink-muted); line-height: 1.5;")+rest_basis
+                    c.p(f"{cc} fila {k} {L[j]}",val,st)
         for k,para in enumerate(sec.get('outro',[]) if isinstance(sec.get('outro',[]),list) else [sec['outro']]):
             cc=f"{sc} outro {k}"; parts.append(f'<e-paragraph configuration-id="{cc}"></e-paragraph>'); c.p(cc,para,"font-size: 17px; line-height: 1.75; color: var(--ink); max-width: 820px;")
         c.add(f'<e-div-block configuration-id="{sc}"><e-flexbox configuration-id="{ic}">{"".join(parts)}</e-flexbox></e-div-block>')
@@ -148,7 +202,10 @@ def build(spec):
     # FAQ
     faqs=spec.get('faqs',[])
     if faqs:
-        items=''.join(f'<e-accordion-item configuration-id="FAQ item {i}"><e-accordion-item-header configuration-id="FAQ header {i}"><e-accordion-item-title configuration-id="FAQ titulo {i}"><e-heading configuration-id="FAQ pregunta {i}"></e-heading></e-accordion-item-title><e-accordion-item-icon configuration-id="FAQ icono {i}"></e-accordion-item-icon></e-accordion-item-header><e-accordion-item-content configuration-id="FAQ contenido {i}"><e-paragraph configuration-id="FAQ respuesta {i}"></e-paragraph></e-accordion-item-content></e-accordion-item>' for i in range(1,len(faqs)+1))
+        # Pregunta como h3 solo si refleja la keyphrase o en las posiciones 3 y 5 (parte el bloque en tramos < 300 palabras para Yoast);
+        # el resto, párrafo con estilo de h3: así no diluyen el ratio «keyphrase en subtítulos» (Yoast cuenta H2+H3)
+        _fh3={i:_plan_faq.get(i,False) for i,(q,_a) in enumerate(faqs,1)}
+        items=''.join(f'<e-accordion-item configuration-id="FAQ item {i}"><e-accordion-item-header configuration-id="FAQ header {i}"><e-accordion-item-title configuration-id="FAQ titulo {i}">'+(f'<e-heading configuration-id="FAQ pregunta {i}"></e-heading>' if _fh3[i] else f'<e-paragraph configuration-id="FAQ pregunta {i}"></e-paragraph>')+f'</e-accordion-item-title><e-accordion-item-icon configuration-id="FAQ icono {i}"></e-accordion-item-icon></e-accordion-item-header><e-accordion-item-content configuration-id="FAQ contenido {i}"><e-paragraph configuration-id="FAQ respuesta {i}"></e-paragraph></e-accordion-item-content></e-accordion-item>' for i in range(1,len(faqs)+1))
         c.add(f'<e-div-block configuration-id="FAQ"><e-flexbox configuration-id="FAQ inner"><e-flexbox configuration-id="FAQ cab"><e-paragraph configuration-id="FAQ overline"></e-paragraph><e-heading configuration-id="FAQ titulo"></e-heading></e-flexbox><e-accordion configuration-id="FAQ acordeon">{items}</e-accordion></e-flexbox></e-div-block>')
         c.cfg("FAQ",{"tag":"section"}); section(c,"FAQ","var(--surface-soft-2)",pad="var(--space-l)"); inner(c,"FAQ inner",maxw="860px",gap="24px")
         c.st("FAQ cab","display:flex; flex-direction:column; gap: 10px; width:100%; padding:0px;")
@@ -158,7 +215,7 @@ def build(spec):
         c.cfg("FAQ acordeon",{"default_state":"all_collapsed","max_expanded":"one","show_icon":True,"faq_schema":True}); c.st("FAQ acordeon","display:flex; flex-direction:column; gap: 10px; width:100%;")
         for i,(q,a) in enumerate(faqs,1):
             c.st(f"FAQ item {i}","width:100%; background-color: var(--white); border: 1px solid var(--line); border-radius: 14px; overflow:hidden;")
-            c.st(f"FAQ header {i}","padding: 16px 20px; gap: 12px;"); c.h(f"FAQ pregunta {i}",q,"h3","font-size: 17px; font-weight: 700; line-height: 1.4; color: var(--brand-primary); margin: 0px;")
+            c.st(f"FAQ header {i}","padding: 16px 20px; gap: 12px;"); (c.h(f"FAQ pregunta {i}",q,"h3","font-size: 17px; font-weight: 700; line-height: 1.4; color: var(--brand-primary); margin: 0px;") if _fh3[i] else c.p(f"FAQ pregunta {i}",q,"font-family: var(--font-heading); font-size: 17px; font-weight: 700; line-height: 1.4; color: var(--brand-primary); margin: 0px;"))
             c.st(f"FAQ icono {i}","color: var(--brand-accent);"); c.st(f"FAQ contenido {i}","padding: 0px 20px 18px 20px;")
             c.p(f"FAQ respuesta {i}",a,"font-size: 16px; line-height: 1.7; color: var(--ink-muted);")
     # RELACIONADO

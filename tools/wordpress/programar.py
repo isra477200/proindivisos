@@ -39,10 +39,12 @@ for s in S:
     pid=b.ensure(s,ids)
     if not pid: print('SIN ID',s['slug']); continue
     if '--solo-programar' in args: hechos.append((s,pid)); continue
+    # si la entrada ya estaba programada, su fecha es futura y WP no la dejaría «publish» para la QA: se pasa a borrador con fecha de hoy
+    b.api('POST',f'/wp/v2/posts/{pid}',{'status':'draft','date':time.strftime('%Y-%m-%dT%H:%M:%S',time.localtime())})
     mid=mm.get(s['slug'],{}).get('media_id')
     if mid:
-        IMG[str(pid)]=mid; json.dump(IMG,open(IMG_F,'w'),indent=0)
-        b.api('POST',f'/wp/v2/posts/{pid}',{'featured_media':mid})
+        IMG=json.load(open(IMG_F)); IMG[str(pid)]=mid; json.dump(IMG,open(IMG_F,'w'),indent=0)  # releer antes de escribir: otros procesos pueden estar añadiendo
+        b.api('POST',f'/wp/v2/posts/{pid}',{'featured_media':mid}); s=dict(s,image_id=mid)  # la composición usa image_id del spec antes que images.json
     else: print('  sin imagen',s['slug'])
     ok=b.build_one(s,ids)
     print(pid,s['slug'],'OK' if ok else 'FAIL',flush=True)
