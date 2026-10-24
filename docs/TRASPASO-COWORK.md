@@ -156,3 +156,13 @@ Qué se cambió para pasar (constructores, no a mano):
 - **Centro de alerta de Yoast**: queda 1 problema que solo puede resolver Isra: activar la suscripción de Yoast SEO Premium en MyYoast (sin eso no hay actualizaciones ni soporte). El aviso de boletín de Yoast es opcional.
 
 - **Enlaces a programadas** (24/10, 11:30): las páginas del diccionario enlazaban a 10 entradas aún programadas (404). Snippet **222** (`snippet_enlaces_programadas.php`): los enlaces a entradas `future/draft/pending` se pintan como texto (span con las mismas clases) y vuelven a ser enlace solos al publicarse (caché 10 min, se vacía en `transition_post_status`). Rastreo interno tras el cambio: 445 destinos, 0 errores. Sin keyphrases ni títulos SEO duplicados en las 492 URL.
+
+## 15. Search Console revisado entero (24/10/2026, 14:30)
+
+- Rendimiento: datos desde el 22/10, aún 0 impresiones. Páginas, Enlaces y Estadísticas de rastreo: «procesando datos» (propiedad del 23/10). HTTPS: 42 URL correctas. Rutas de exploración: 33 válidas, 0 errores. Acciones manuales y seguridad: sin problemas. IA generativa: «Incluir» (correcto). Asociación con GA4 ya activa.
+- Corregido: la línea `Sitemap:` del robots.txt salía en http → snippet **223** (`snippet_robots_https.php`, filtro `robots_txt`) la fuerza a https y se pidió a Google volver a leer el robots.txt. Quitado el sitemap duplicado `/sitemap.xml` (quedan `sitemap_index.xml`, `post-sitemap.xml`, `page-sitemap.xml`, todos «Correcto», 444 URL).
+- Verificación de propiedad: añadido Google Tag Manager como segundo método (además del archivo HTML), para no perder la propiedad si se borra el archivo. GA4 no verifica porque la etiqueta va por GTM, no en el `<head>`.
+- Prueba en directo de un término del diccionario: indexable, 200, todos los recursos cargados, migas válidas; solo un aviso informativo de jQuery Migrate en consola.
+- Comprobación de las 444 URL del sitemap: canonical a sí misma, `index, follow`, viewport, un solo H1, title y `lang="es"`: 0 incidencias.
+- Cupo de «Solicitar indexación» agotado hoy. Seguimiento programado para el 25/10 10:15 (lote de 10 URL: las 5 de competencia pendientes, 3 más y 2 términos del diccionario).
+- Pendiente de Isra: propiedad de dominio (`sc-domain:zonaproindiviso.com`, registro TXT en Hostinger) y añadir su Gmail como segundo propietario (hoy solo `info@agenciawebseo.com`).
