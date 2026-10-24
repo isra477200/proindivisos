@@ -1,0 +1,1931 @@
+[
+ {
+  "slug": "cataluna",
+  "nombre": "Cataluña",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Cataluña",
+  "poblacion": "cerca de 8 millones de habitantes (orientativo)",
+  "precio_m2": "unos 2.400 €/m² de media, con Barcelona capital por encima de 4.000 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Barcelona",
+   "L'Hospitalet de Llobregat",
+   "Terrassa",
+   "Badalona",
+   "Sabadell",
+   "Lleida",
+   "Tarragona",
+   "Mataró",
+   "Girona",
+   "Reus",
+   "Costa Brava",
+   "Costa Daurada",
+   "Pirineo de Lleida",
+   "Terres de l'Ebre"
+  ],
+  "municipios": [
+   "Barcelona",
+   "L'Hospitalet de Llobregat",
+   "Terrassa",
+   "Badalona",
+   "Sabadell",
+   "Lleida",
+   "Tarragona",
+   "Mataró",
+   "Santa Coloma de Gramenet",
+   "Reus",
+   "Girona",
+   "Sant Cugat del Vallès",
+   "Cornellà de Llobregat",
+   "Sant Boi de Llobregat",
+   "Rubí",
+   "Manresa",
+   "Vilanova i la Geltrú",
+   "Viladecans",
+   "Castelldefels",
+   "El Prat de Llobregat",
+   "Granollers",
+   "Cerdanyola del Vallès",
+   "Mollet del Vallès",
+   "Figueres",
+   "Vic"
+  ],
+  "mercado": "Cataluña tiene uno de los parques de vivienda más grandes de España y buena parte se levantó entre 1960 y 1980 en el área metropolitana de Barcelona. El precio medio ronda los 2.400 €/m², orientativo, con comarcas de Lleida por debajo de 1.000 €/m² y Barcelona capital por encima de 4.000 €/m².",
+  "angulo": "Aquí los proindivisos nacen sobre todo de herencias. El Codi Civil de Catalunya da mucha libertad al testador y es frecuente que un piso de Nou Barris, Sant Ildefons o Ciutat Meridiana acabe repartido entre tres o cuatro hermanos que ya viven fuera. En la Costa Brava y la Costa Daurada se heredan apartamentos de Roses, Salou o Calafell que compraron los abuelos en los 70. En el Vallès y el Baix Llobregat quedan miles de pisos de la emigración de los 60 con herederos por media España.",
+  "tramites": "La cuota se inscribe en el Registro de la Propiedad del municipio donde esté la finca. El ITP de la compra se liquida en la Agència Tributària de Catalunya (ATC) al 10 %, y al 11 % en tramos altos; si se cierra como extinción de condominio, va por AJD al 1,5 %. La plusvalía municipal la fija cada ayuntamiento.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un proindiviso en Cataluña?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota. Influye la ocupación, el número de titulares y la zona: no vale lo mismo el Eixample que el Pallars. Te damos cifra por escrito en 48 horas."
+   ],
+   [
+    "Heredé un piso con mis hermanos y uno no quiere vender. ¿Puedo vender mi parte?",
+    "Sí, sin su permiso. El Codi Civil de Catalunya regula la división de la cosa común, pero no hace falta ir al juzgado: compramos tu cuota, cobras en notaría y nosotros nos entendemos después con el resto."
+   ],
+   [
+    "¿Compráis en toda Cataluña o solo en Barcelona?",
+    "En las cuatro provincias: Barcelona y su área metropolitana, Girona y la Costa Brava, Tarragona, Reus y la Costa Daurada, Lleida y el Pirineo."
+   ]
+  ],
+  "kw": [
+   "proindivisos cataluña",
+   "vender proindiviso cataluña",
+   "empresas que compran proindivisos en cataluña",
+   "vender parte de herencia cataluña"
+  ]
+ },
+ {
+  "slug": "barcelona",
+  "nombre": "Barcelona",
+  "tipo": "provincia",
+  "padre": "cataluna",
+  "en": "en Barcelona",
+  "poblacion": "cerca de 5,8 millones de habitantes en la provincia y unos 1,7 millones en la capital (orientativo)",
+  "precio_m2": "unos 4.300 €/m² en la capital y cerca de 2.700 €/m² de media en la provincia (orientativo, 2026)",
+  "zonas": [
+   "Eixample",
+   "Gràcia",
+   "Sants",
+   "Nou Barris",
+   "Sant Andreu",
+   "Horta-Guinardó",
+   "Sant Martí",
+   "Ciutat Vella",
+   "Baix Llobregat",
+   "Vallès Occidental",
+   "Maresme",
+   "Garraf",
+   "Bages",
+   "Osona"
+  ],
+  "municipios": [
+   "Barcelona",
+   "L'Hospitalet de Llobregat",
+   "Terrassa",
+   "Badalona",
+   "Sabadell",
+   "Mataró",
+   "Santa Coloma de Gramenet",
+   "Sant Cugat del Vallès",
+   "Cornellà de Llobregat",
+   "Sant Boi de Llobregat",
+   "Rubí",
+   "Manresa",
+   "Vilanova i la Geltrú",
+   "Viladecans",
+   "Castelldefels",
+   "El Prat de Llobregat",
+   "Granollers",
+   "Cerdanyola del Vallès",
+   "Mollet del Vallès",
+   "Gavà",
+   "Esplugues de Llobregat",
+   "Sant Feliu de Llobregat",
+   "Vic",
+   "Igualada"
+  ],
+  "mercado": "En Barcelona capital el metro cuadrado supera los 4.300 € de media, orientativo, y eso convierte cualquier cuota heredada en dinero que casi nadie puede pagar a sus hermanos. Conviven fincas regias del Eixample con muchos herederos y pisos de los 60 y 70 en Nou Barris, Horta y Sant Andreu. En la provincia los precios bajan a la mitad en el Bages, el Anoia o el Berguedà.",
+  "angulo": "El caso más repetido es el piso de los padres en Trinitat Vella, Verdum, la Prosperitat o el Carmel donde sigue viviendo un hermano y los demás quieren su parte. Fuera de la capital surgen proindivisos por casas de veraneo en Sitges, Cubelles o Calella, por fincas de viña en el Penedès y por casas de pueblo en Osona y el Moianès que quedaron repartidas tras varias generaciones.",
+  "tramites": "Barcelona capital tiene varios Registros de la Propiedad repartidos por distritos, y cada ciudad grande de la provincia tiene el suyo. Compramos tu cuota y liquidamos el ITP ante la Agència Tributària de Catalunya al 10 % general; la extinción de condominio tributa por AJD al 1,5 %. La plusvalía municipal del Ajuntament de Barcelona es alta y la revisamos contigo antes de firmar.",
+  "faq": [
+   [
+    "¿Cuánto vale mi parte de un piso en Barcelona?",
+    "Partimos del valor real del piso, no del catastral. Sobre tu porcentaje ofrecemos entre el 40 % y el 70 %. La cobras en notaría en pocas semanas, sin esperar a tus hermanos."
+   ],
+   [
+    "Mi hermano vive en el piso de mis padres en Nou Barris y no paga nada. ¿Puedo vender?",
+    "Sí. Tu cuota es tuya y no necesitas su consentimiento. Compramos cuotas con copropietario ocupante, ajustando el precio, y después gestionamos nosotros la salida o el acuerdo con él."
+   ],
+   [
+    "¿Trabajáis en los pueblos de la provincia de Barcelona?",
+    "Sí. Compramos en el Vallès, el Baix Llobregat, el Maresme, el Garraf y también en el Bages, el Anoia, Osona y el Penedès."
+   ]
+  ],
+  "kw": [
+   "proindivisos barcelona",
+   "vender proindiviso barcelona",
+   "empresas que compran proindivisos en barcelona",
+   "vender parte de un piso barcelona"
+  ]
+ },
+ {
+  "slug": "girona",
+  "nombre": "Girona",
+  "tipo": "provincia",
+  "padre": "cataluna",
+  "en": "en la provincia de Girona",
+  "poblacion": "cerca de 800.000 habitantes en la provincia y unos 100.000 en la capital (orientativo)",
+  "precio_m2": "unos 2.300 €/m² en la capital, con la Costa Brava bastante por encima (orientativo, 2026)",
+  "zonas": [
+   "Costa Brava",
+   "Alt Empordà",
+   "Baix Empordà",
+   "Gironès",
+   "La Selva",
+   "Garrotxa",
+   "Ripollès",
+   "Cerdanya",
+   "Pla de l'Estany",
+   "Figueres",
+   "Blanes",
+   "Lloret de Mar",
+   "Olot",
+   "Salt"
+  ],
+  "municipios": [
+   "Girona",
+   "Figueres",
+   "Blanes",
+   "Lloret de Mar",
+   "Olot",
+   "Salt",
+   "Palafrugell",
+   "Sant Feliu de Guíxols",
+   "Roses",
+   "Banyoles",
+   "Palamós",
+   "Santa Coloma de Farners",
+   "Torroella de Montgrí",
+   "Castelló d'Empúries",
+   "Ripoll",
+   "Puigcerdà",
+   "Calonge",
+   "La Bisbal d'Empordà",
+   "Castell-Platja d'Aro",
+   "Llagostera"
+  ],
+  "mercado": "Girona es la provincia catalana de la segunda residencia. En la Costa Brava hay miles de apartamentos de los 70 y 80 en Lloret, Platja d'Aro, Roses o Empuriabrava que se usan dos meses al año, y en el interior masías del Empordà y la Garrotxa y casas de pueblo del Ripollès. La capital ronda los 2.300 €/m², orientativo.",
+  "angulo": "El proindiviso típico gerundense es el apartamento de la costa que compraron unos padres de Barcelona y heredan tres hijos: uno lo usa en agosto, otro quiere alquilarlo y el tercero quiere su dinero. También abundan las cuotas de fincas y masías en Vilabertran, Peralada o la Vall d'en Bas repartidas entre primos, y las casas del casco antiguo de Figueres u Olot con herederos que viven en Francia o en Barcelona. Muchos propietarios extranjeros dejan cuotas a hijos que nunca van a venir.",
+  "tramites": "Hay Registros de la Propiedad en Girona, Figueres, Blanes, La Bisbal, Olot, Santa Coloma de Farners, Puigcerdà, Roses, Palafrugell y Sant Feliu de Guíxols. El ITP se paga a la Agència Tributària de Catalunya al 10 % y la extinción de condominio por AJD al 1,5 %. Cada ayuntamiento aplica su plusvalía y para herencias rige el Codi Civil de Catalunya.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un apartamento en la Costa Brava?",
+    "Entre el 40 % y el 70 % de lo que vale tu cuota a precio de mercado real de esa urbanización, no del catastro. Te lo decimos por escrito en 48 horas."
+   ],
+   [
+    "Somos cuatro primos con una masía en el Empordà y nadie la mantiene. ¿La compráis?",
+    "Compramos tu cuota aunque sea una cuarta parte o menos. Pagamos en notaría y después tratamos nosotros con el resto de la familia."
+   ],
+   [
+    "¿Llegáis a pueblos del Ripollès o la Cerdanya?",
+    "Sí. Compramos en toda la provincia: Ripoll, Camprodon, Puigcerdà, Olot, Banyoles o cualquier municipio del Alt y el Baix Empordà."
+   ]
+  ],
+  "kw": [
+   "proindivisos girona",
+   "vender proindiviso girona",
+   "empresas que compran proindivisos en girona",
+   "vender parte de apartamento costa brava"
+  ]
+ },
+ {
+  "slug": "lleida",
+  "nombre": "Lleida",
+  "tipo": "provincia",
+  "padre": "cataluna",
+  "en": "en la provincia de Lleida",
+  "poblacion": "cerca de 440.000 habitantes en la provincia y unos 140.000 en la capital (orientativo)",
+  "precio_m2": "unos 1.300 €/m² en la capital, de los más bajos de Cataluña (orientativo, 2026)",
+  "zonas": [
+   "Segrià",
+   "Pla d'Urgell",
+   "Urgell",
+   "Noguera",
+   "Garrigues",
+   "Segarra",
+   "Pallars",
+   "Alt Urgell",
+   "Val d'Aran",
+   "Solsonès",
+   "Balaguer",
+   "Tàrrega",
+   "Mollerussa",
+   "Cappont"
+  ],
+  "municipios": [
+   "Lleida",
+   "Balaguer",
+   "Tàrrega",
+   "Mollerussa",
+   "La Seu d'Urgell",
+   "Cervera",
+   "Alcarràs",
+   "Almacelles",
+   "Les Borges Blanques",
+   "Solsona",
+   "Vielha e Mijaran",
+   "Tremp",
+   "Agramunt",
+   "Guissona",
+   "Alpicat",
+   "Bellpuig",
+   "Alfarràs",
+   "Artesa de Segre",
+   "Torrefarrera",
+   "Juneda"
+  ],
+  "mercado": "Lleida es la provincia más barata de Cataluña: la capital se mueve en torno a 1.300 €/m², orientativo, y en pueblos de les Garrigues o la Segarra hay casas enteras por menos que un garaje en Barcelona. Hay pisos de los 70 en Pardinyes y Cappont, casas de pueblo en el Pla d'Urgell y apartamentos de esquí en Baqueira o Boí.",
+  "angulo": "Aquí el proindiviso casi siempre tiene tierra detrás. Las fincas de fruta del Segrià y el Baix Segre, los regadíos del canal d'Urgell y los olivos de les Garrigues se heredan entre hermanos de los que solo uno sigue en el campo. A eso se suman las casas de pueblo vacías en el Pallars, la Noguera o l'Alt Urgell por la despoblación, y los apartamentos de la Val d'Aran repartidos entre herederos que viven en Barcelona.",
+  "tramites": "Los Registros de la Propiedad están en Lleida, Balaguer, Cervera, Tremp, La Seu d'Urgell, Vielha, Solsona y Les Borges Blanques. El ITP se liquida en la Agència Tributària de Catalunya al 10 %; la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal depende de cada ayuntamiento y en muchos pueblos pequeños ni se aplica.",
+  "faq": [
+   [
+    "¿Compráis la parte de una finca de fruta en el Segrià?",
+    "Sí. Compramos cuotas de fincas rústicas en Alcarràs, Aitona, Soses, Torres de Segre y el resto del Baix Segre, con o sin árboles en producción. Oferta en 48 horas."
+   ],
+   [
+    "Mi parte es de una casa de pueblo en les Garrigues que lleva años cerrada. ¿Tiene valor?",
+    "Tiene menos que un piso en la capital, pero lo tiene. Compramos cuotas de casas de pueblo aunque necesiten obra o tengan corrales y pajares anexos."
+   ],
+   [
+    "¿Cuánto dais por un proindiviso de un piso en Lleida ciudad?",
+    "Entre el 40 % y el 70 % del valor proporcional, con el precio real del barrio como base: Cappont o Pardinyes no se valoran igual que la Mariola."
+   ]
+  ],
+  "kw": [
+   "proindivisos lleida",
+   "vender proindiviso lleida",
+   "empresas que compran proindivisos en lleida",
+   "vender parte de finca rústica lleida"
+  ]
+ },
+ {
+  "slug": "tarragona",
+  "nombre": "Tarragona",
+  "tipo": "provincia",
+  "padre": "cataluna",
+  "en": "en la provincia de Tarragona",
+  "poblacion": "cerca de 850.000 habitantes en la provincia y unos 140.000 en la capital (orientativo)",
+  "precio_m2": "unos 1.800 €/m² en la capital y por encima de 2.000 €/m² en Salou y Cambrils (orientativo, 2026)",
+  "zonas": [
+   "Costa Daurada",
+   "Tarragonès",
+   "Baix Camp",
+   "Baix Penedès",
+   "Terres de l'Ebre",
+   "Priorat",
+   "Conca de Barberà",
+   "Salou",
+   "Cambrils",
+   "Calafell",
+   "El Vendrell",
+   "Tortosa",
+   "Amposta",
+   "Valls"
+  ],
+  "municipios": [
+   "Tarragona",
+   "Reus",
+   "El Vendrell",
+   "Tortosa",
+   "Cambrils",
+   "Salou",
+   "Calafell",
+   "Valls",
+   "Amposta",
+   "Vila-seca",
+   "Torredembarra",
+   "Cunit",
+   "Sant Carles de la Ràpita",
+   "Deltebre",
+   "Montblanc",
+   "Roda de Berà",
+   "Altafulla",
+   "Constantí",
+   "L'Ametlla de Mar",
+   "Mont-roig del Camp"
+  ],
+  "mercado": "La Costa Daurada concentra apartamentos de veraneo de los 70 y 80 en Salou, Cambrils, Calafell, Cunit y Torredembarra, muchos de ellos de familias de Barcelona, Lleida y Zaragoza. Tarragona capital ronda los 1.800 €/m², orientativo, con barrios de Ponent como Bonavista, Torreforta o Campclar bastante por debajo.",
+  "angulo": "El proindiviso tarraconense más común es el apartamento de la playa que heredan los hijos y que solo uno usa en verano mientras los demás pagan comunidad y IBI sin pisarlo. En Tortosa, Amposta o Sant Carles de la Ràpita compramos cuotas de casas antiguas y de fincas de olivos en la Terra Alta y el Baix Ebre repartidas entre muchos primos. En Tarragona ciudad hay separaciones con hipoteca que nadie quiere seguir compartiendo.",
+  "tramites": "Hay Registros de la Propiedad en Tarragona, Reus, El Vendrell, Tortosa, Amposta, Valls, Falset, Montblanc y Gandesa. Liquidamos el ITP ante la Agència Tributària de Catalunya al 10 % y la extinción de condominio por AJD al 1,5 %. Salou o Calafell aplican plusvalía propia y la calculamos antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un apartamento en Salou o Cambrils?",
+    "Entre el 40 % y el 70 % del valor proporcional, calculado sobre el precio real de esa zona y no sobre el catastro."
+   ],
+   [
+    "Somos seis primos con olivos y una casa en la Terra Alta. ¿Compráis algo tan pequeño?",
+    "Sí. Compramos cuotas minoritarias de fincas rústicas y casas de pueblo en Gandesa, Batea, Horta de Sant Joan y el resto del Ebre. Te pagamos tu porcentaje en notaría y nosotros tratamos con el resto de la familia."
+   ],
+   [
+    "¿Atendéis Tortosa y las Terres de l'Ebre o solo la costa?",
+    "Toda la provincia: Tortosa, Amposta, Deltebre, La Ràpita, Móra d'Ebre, Falset y cualquier pueblo de la Ribera d'Ebre o el Montsià."
+   ]
+  ],
+  "kw": [
+   "proindivisos tarragona",
+   "vender proindiviso tarragona",
+   "empresas que compran proindivisos en tarragona",
+   "vender parte de apartamento salou"
+  ]
+ },
+ {
+  "slug": "hospitalet-de-llobregat",
+  "nombre": "L'Hospitalet de Llobregat",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en L'Hospitalet de Llobregat",
+  "poblacion": "cerca de 280.000 habitantes, la segunda ciudad de Cataluña (orientativo)",
+  "precio_m2": "unos 2.900 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Collblanc",
+   "La Torrassa",
+   "Santa Eulàlia",
+   "Sant Josep",
+   "Pubilla Cases",
+   "La Florida",
+   "Les Planes",
+   "Bellvitge",
+   "El Gornal",
+   "Sanfeliu",
+   "Centre",
+   "Can Serra"
+  ],
+  "municipios": [
+   "Collblanc",
+   "La Torrassa",
+   "Santa Eulàlia",
+   "Sant Josep",
+   "Pubilla Cases",
+   "La Florida",
+   "Les Planes",
+   "Bellvitge",
+   "El Gornal",
+   "Sanfeliu",
+   "Centre",
+   "Can Serra"
+  ],
+  "mercado": "L'Hospitalet es la ciudad más densa de España y su parque es casi todo de los años 50 a 70: pisos de 50 a 70 m² sin ascensor en La Florida, Pubilla Cases y Collblanc, y bloques de Bellvitge de los 60. Ronda los 2.900 €/m², orientativo, por el metro y la cercanía a Barcelona.",
+  "angulo": "La ciudad se llenó entre 1950 y 1975 de familias de Andalucía, Extremadura y Galicia que compraron pisos pequeños. Esa generación se está yendo y deja viviendas de 60 m² en el Gornal o Les Planes a tres o cuatro hijos que ya viven en Viladecans, Cornellà o fuera de Cataluña. También compramos cuotas tras divorcios en Santa Eulàlia y Sant Josep, y de pisos que han quedado ocupados mientras los herederos discuten.",
+  "tramites": "L'Hospitalet tiene Registros de la Propiedad propios, repartidos por zonas. Pagamos el ITP a la Agència Tributària de Catalunya al 10 % y, si se cierra como extinción de condominio, el AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de L'Hospitalet y la calculamos contigo antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto vale mi parte de un piso de 60 m² en La Florida?",
+    "Se valora sobre el precio real del barrio, no sobre el catastro. Sobre tu porcentaje pagamos entre el 40 % y el 70 % según ocupación y número de titulares."
+   ],
+   [
+    "Mi madre murió y mi hermano se quedó viviendo en el piso de Bellvitge. ¿Qué hago con mi parte?",
+    "Puedes vendérnosla sin su firma. Compramos cuotas con un hermano dentro, ajustamos el precio por esa circunstancia y nos encargamos nosotros de hablar con él."
+   ],
+   [
+    "¿Compráis también en Collblanc y La Torrassa, donde las fincas son muy viejas?",
+    "Sí. Las fincas sin ascensor de Collblanc y La Torrassa son las más habituales en nuestras compras de L'Hospitalet. No pedimos reforma ni cédula al día: compramos la cuota tal cual está inscrita."
+   ]
+  ],
+  "kw": [
+   "proindivisos hospitalet",
+   "vender proindiviso hospitalet de llobregat",
+   "empresas que compran proindivisos en hospitalet",
+   "vender parte de un piso hospitalet"
+  ]
+ },
+ {
+  "slug": "terrassa",
+  "nombre": "Terrassa",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Terrassa",
+  "poblacion": "unos 230.000 habitantes (orientativo)",
+  "precio_m2": "unos 2.100 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Ca n'Anglada",
+   "Ca n'Aurell",
+   "Sant Pere",
+   "Sant Pere Nord",
+   "Les Arenes",
+   "La Maurina",
+   "Can Palet",
+   "Égara",
+   "Can Boada",
+   "Torre-sana",
+   "Can Parellada",
+   "Les Fonts",
+   "Vallparadís"
+  ],
+  "municipios": [
+   "Centre",
+   "Ca n'Anglada",
+   "Ca n'Aurell",
+   "Sant Pere",
+   "Sant Pere Nord",
+   "Les Arenes",
+   "La Maurina",
+   "Can Palet",
+   "Égara",
+   "Can Boada",
+   "Torre-sana",
+   "Can Parellada",
+   "Les Fonts",
+   "Vallparadís"
+  ],
+  "mercado": "Terrassa creció con el textil y su vivienda lo refleja: bloques obreros de los 60 y 70 en Ca n'Anglada, La Maurina, Sant Pere Nord y Torre-sana, casas de planta baja en Can Palet y Les Arenes, y fincas modernistas en el Centre y Vallparadís. Ronda los 2.100 €/m², orientativo.",
+  "angulo": "Las familias que llegaron a Terrassa en los 60 para trabajar en las fábricas de lana compraron pisos pequeños que ahora se heredan entre hermanos, y es raro que todos vivan todavía en la ciudad. También hay proindivisos de naves y locales del antiguo textil en Can Petit o el Segle XX que los herederos no saben qué hacer con ellos y casas con jardín en Les Fonts repartidas tras un divorcio.",
+  "tramites": "La finca se inscribe en los Registros de la Propiedad de Terrassa, que cubren la ciudad por zonas. El ITP de la compra lo liquidamos en la Agència Tributària de Catalunya al 10 % y la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de Terrassa.",
+  "faq": [
+   [
+    "¿Qué precio dais por una parte de un piso en Ca n'Anglada o Sant Pere Nord?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota tomando el precio real de esos barrios, que hoy ronda cifras más bajas que el Centre."
+   ],
+   [
+    "Heredamos una nave textil en Terrassa entre cuatro hermanos. ¿Compráis cuotas de naves?",
+    "Sí. Compramos cuotas de naves, locales y solares, no solo de viviendas. Oferta por escrito en 48 horas y firma en notaría sin necesitar a tus hermanos."
+   ],
+   [
+    "¿Puedo vender mi parte si la casa de Les Fonts sigue con hipoteca tras el divorcio?",
+    "Sí. Compramos cuotas con hipoteca viva y descontamos del precio la parte proporcional de la deuda, o la cancelamos en la misma notaría."
+   ]
+  ],
+  "kw": [
+   "proindivisos terrassa",
+   "vender proindiviso terrassa",
+   "empresas que compran proindivisos en terrassa",
+   "vender parte de un piso terrassa"
+  ]
+ },
+ {
+  "slug": "badalona",
+  "nombre": "Badalona",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Badalona",
+  "poblacion": "unos 225.000 habitantes (orientativo)",
+  "precio_m2": "unos 2.700 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Dalt de la Vila",
+   "La Salut",
+   "Llefià",
+   "Sant Roc",
+   "Artigues",
+   "Sant Crist",
+   "Bufalà",
+   "Morera",
+   "Canyet",
+   "Casagemes",
+   "Progrés",
+   "Gorg",
+   "Montigalà"
+  ],
+  "municipios": [
+   "Centre",
+   "Dalt de la Vila",
+   "La Salut",
+   "Llefià",
+   "Sant Roc",
+   "Artigues",
+   "Sant Crist",
+   "Bufalà",
+   "Morera",
+   "Canyet",
+   "Casagemes",
+   "Progrés",
+   "Gorg",
+   "Montigalà"
+  ],
+  "mercado": "Badalona tiene dos mercados: el Centre y Casagemes, cerca de precios de Barcelona, y Llefià, La Salut, Sant Roc o Artigues, con bloques de los 60 y 70 sin ascensor mucho más baratos. La media ronda los 2.700 €/m², orientativo.",
+  "angulo": "Llefià y La Salut se levantaron a toda prisa para la emigración de los 60 y hoy son el origen de buena parte de los proindivisos de la ciudad: pisos de 55 o 65 m² con tres o cuatro herederos que viven en Montgat, Santa Coloma o fuera de Cataluña. En Sant Roc y Artigues hay cuotas de viviendas de bloques con patologías que nadie quiere asumir. Las separaciones con piso en Montigalà o Bufalà completan el cuadro.",
+  "tramites": "Badalona cuenta con sus propios Registros de la Propiedad y cada finca va al que corresponde por zona. El ITP lo liquidamos en la Agència Tributària de Catalunya al 10 %; si se opta por extinción de condominio, tributa por AJD al 1,5 %. La plusvalía municipal del Ajuntament de Badalona la revisamos contigo antes de dar precio.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un piso en Llefià?",
+    "Entre el 40 % y el 70 % del valor proporcional, tomando como referencia lo que se vende hoy en Llefià o La Salut y no el valor catastral. Cifra por escrito en 48 horas."
+   ],
+   [
+    "El piso de mis padres en Sant Roc tiene problemas estructurales y mis hermanos no quieren ni oír hablar de él. ¿Compráis mi parte?",
+    "Sí. Compramos cuotas de pisos con patologías, pendientes de rehabilitación o con derramas aprobadas. Descontamos lo que corresponde, pero te libramos de una propiedad que solo genera gastos y discusiones."
+   ],
+   [
+    "¿Compráis en todos los barrios de Badalona?",
+    "En todos: desde Dalt de la Vila y Casagemes hasta Pomar, Morera, Canyet o Bufalà. Firmamos en Badalona o donde te quede cerca."
+   ]
+  ],
+  "kw": [
+   "proindivisos badalona",
+   "vender proindiviso badalona",
+   "empresas que compran proindivisos en badalona",
+   "vender parte de un piso badalona"
+  ]
+ },
+ {
+  "slug": "sabadell",
+  "nombre": "Sabadell",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Sabadell",
+  "poblacion": "unos 220.000 habitantes (orientativo)",
+  "precio_m2": "unos 2.300 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Creu Alta",
+   "Gràcia",
+   "Ca n'Oriac",
+   "Torre-romeu",
+   "Can Puiggener",
+   "La Creu de Barberà",
+   "Can Rull",
+   "Els Merinals",
+   "Campoamor",
+   "Espronceda",
+   "La Serra",
+   "Sant Oleguer",
+   "Can Deu"
+  ],
+  "municipios": [
+   "Centre",
+   "Creu Alta",
+   "Gràcia",
+   "Ca n'Oriac",
+   "Torre-romeu",
+   "Can Puiggener",
+   "La Creu de Barberà",
+   "Can Rull",
+   "Els Merinals",
+   "Campoamor",
+   "Espronceda",
+   "La Serra",
+   "Sant Oleguer",
+   "Can Deu"
+  ],
+  "mercado": "Sabadell mezcla el Centre y la Creu Alta, con precios altos, con los barrios obreros del textil: Ca n'Oriac, Torre-romeu, Can Puiggener o Espronceda, llenos de bloques de los 60 y 70. La media está en unos 2.300 €/m², orientativo.",
+  "angulo": "Los vapores textiles trajeron a Sabadell miles de familias que compraron piso en Ca n'Oriac o Torre-romeu, y ahora esos pisos se heredan entre tres o cuatro hijos de los que uno quizá vive en Sant Quirze y otro en Andalucía. Ese es nuestro caso más repetido. También compramos cuotas de casas de cós en Gràcia con herederos que no acuerdan reformar, y de pisos de Can Puiggener vacíos y con riesgo de ocupación.",
+  "tramites": "Sabadell tiene Registros de la Propiedad propios y la finca se inscribe en el que corresponde a su zona. El ITP lo pagamos a la Agència Tributària de Catalunya al 10 % y la extinción de condominio tributa por AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de Sabadell. Si tu cuota viene de herencia, debe estar aceptada e inscrita según el Codi Civil de Catalunya.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi parte de un piso en Ca n'Oriac?",
+    "Entre el 40 % y el 70 % del valor proporcional, con el precio real del barrio como base. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mi padre dejó una casa de cós en Gràcia a cuatro hermanos y dos quieren reformar. ¿Puedo salirme yo?",
+    "Sí. Compramos tu cuota sin que ellos tengan que firmar nada. Tú cobras tu parte en notaría y nosotros entramos como copropietarios."
+   ],
+   [
+    "¿Compráis cuotas de pisos que están vacíos y con riesgo de ocupación en Sabadell?",
+    "Sí. Compramos tu parte, asumimos el riesgo y la gestión, y tú dejas de preocuparte por lo que pase con el piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos sabadell",
+   "vender proindiviso sabadell",
+   "empresas que compran proindivisos en sabadell",
+   "vender parte de un piso sabadell"
+  ]
+ },
+ {
+  "slug": "mataro",
+  "nombre": "Mataró",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Mataró",
+  "poblacion": "unos 130.000 habitantes, capital del Maresme (orientativo)",
+  "precio_m2": "unos 2.300 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Eixample",
+   "Rocafonda",
+   "Cerdanyola",
+   "Cirera",
+   "Molins",
+   "Peramàs",
+   "La Llàntia",
+   "Pla d'en Boet",
+   "Vista Alegre",
+   "El Palau",
+   "Escorxador",
+   "Via Europa"
+  ],
+  "municipios": [
+   "Centre",
+   "Eixample",
+   "Rocafonda",
+   "Cerdanyola",
+   "Cirera",
+   "Molins",
+   "Peramàs",
+   "La Llàntia",
+   "Pla d'en Boet",
+   "Vista Alegre",
+   "El Palau",
+   "Escorxador",
+   "Via Europa"
+  ],
+  "mercado": "Mataró vive del género de punto y de la costa, y su vivienda lo cuenta: bloques de los 60 y 70 en Cerdanyola, Rocafonda, La Llàntia y Cirera, fincas antiguas en el Centre y el Eixample, y obra de los 90 y 2000 en Via Europa y el Parc Central. Ronda los 2.300 €/m², orientativo.",
+  "angulo": "Cerdanyola es el barrio más grande de Mataró y donde más proindivisos compramos: pisos pequeños de familias andaluzas y murcianas llegadas en los 60 que ahora heredan tres o cuatro hijos. Compramos también cuotas de naves del textil en el Pla d'en Boet y de casas de cós del Centre, y partes de pisos de separaciones en Via Europa. Muchas familias del Maresme tienen además la casa de los abuelos en Argentona, Dosrius o Sant Andreu de Llavaneres repartida entre primos.",
+  "tramites": "Mataró tiene Registros de la Propiedad propios que cubren la ciudad y municipios cercanos del Maresme. El ITP se liquida en la Agència Tributària de Catalunya al 10 % y la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de Mataró y la calculamos contigo antes de firmar.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un piso en Cerdanyola de Mataró?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota, tomando el precio real de Cerdanyola y no el del Centre ni el catastral. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Somos cinco hermanos con una nave en el Pla d'en Boet que lleva años cerrada. ¿Compráis cuotas de naves?",
+    "Sí. Compramos cuotas de naves y locales industriales, con o sin actividad. Te pagamos tu quinta parte en notaría sin esperar a los otros cuatro."
+   ],
+   [
+    "¿Compráis en pueblos del Maresme además de en Mataró?",
+    "Sí: Argentona, Dosrius, Llavaneres, Premià, Vilassar, Arenys, Calella o cualquier otro municipio de la comarca. La firma puede ser en una notaría de Mataró o donde prefieras."
+   ]
+  ],
+  "kw": [
+   "proindivisos mataró",
+   "vender proindiviso mataró",
+   "empresas que compran proindivisos en mataró",
+   "vender parte de un piso maresme"
+  ]
+ },
+ {
+  "slug": "santa-coloma-de-gramenet",
+  "nombre": "Santa Coloma de Gramenet",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Santa Coloma de Gramenet",
+  "poblacion": "unos 120.000 habitantes (orientativo)",
+  "precio_m2": "unos 2.300 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Fondo",
+   "Santa Rosa",
+   "Singuerlín",
+   "Riu Nord",
+   "Riu Sud",
+   "Can Mariner",
+   "Les Oliveres",
+   "El Raval",
+   "Can Franquesa",
+   "Cementiri Vell",
+   "Can Calvet"
+  ],
+  "municipios": [
+   "Centre",
+   "Fondo",
+   "Santa Rosa",
+   "Singuerlín",
+   "Riu Nord",
+   "Riu Sud",
+   "Can Mariner",
+   "Les Oliveres",
+   "El Raval",
+   "Can Franquesa",
+   "Cementiri Vell",
+   "Can Calvet"
+  ],
+  "mercado": "Santa Coloma es casi toda vivienda de los años 60 y 70 construida en pendiente: pisos de 50 a 65 m² en edificios de cuatro o cinco plantas sin ascensor en el Fondo, Santa Rosa, Singuerlín o el Raval. Ronda los 2.300 €/m², orientativo, por el metro y por estar pegada a Barcelona.",
+  "angulo": "La ciudad multiplicó su población con la emigración andaluza y extremeña de los 60, y esas familias son las que ahora dejan pisos en herencia. El caso que más vemos es el piso del Fondo o de Santa Rosa con tres herederos, uno que vive en él, otro en Badalona y un tercero en Jaén o Badajoz que solo quiere su parte. Compramos también cuotas de pisos vacíos de Singuerlín y partes de separaciones en Riu Nord.",
+  "tramites": "Las fincas de Santa Coloma se inscriben en el Registro de la Propiedad de la ciudad. Pagamos el ITP a la Agència Tributària de Catalunya al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal del Ajuntament de Santa Coloma la revisamos antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto me pagáis por la mitad de un piso en el Fondo?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu mitad, sobre el precio real que se paga hoy en el Fondo o Santa Rosa. Cifra por escrito en 48 horas."
+   ],
+   [
+    "Mi hermano vive en Jaén y yo en Santa Coloma; heredamos el piso de mi madre en Singuerlín. ¿Puede vender él su parte sin venir?",
+    "Sí. Podemos firmar con poder notarial otorgado en su ciudad, sin desplazamiento. Compramos su cuota, le pagamos en la misma notaría y tú decides si quieres quedarte en el piso o vender también la tuya."
+   ],
+   [
+    "¿Hace falta que el piso tenga ascensor o cédula para que compréis mi parte?",
+    "No. Compramos cuotas de pisos sin ascensor, sin reformar y sin cédula vigente, que es lo habitual en Santa Coloma."
+   ]
+  ],
+  "kw": [
+   "proindivisos santa coloma de gramenet",
+   "vender proindiviso santa coloma",
+   "empresas que compran proindivisos en santa coloma de gramenet",
+   "vender parte de un piso santa coloma"
+  ]
+ },
+ {
+  "slug": "cornella-de-llobregat",
+  "nombre": "Cornellà de Llobregat",
+  "tipo": "ciudad",
+  "padre": "barcelona",
+  "en": "en Cornellà de Llobregat",
+  "poblacion": "unos 90.000 habitantes (orientativo)",
+  "precio_m2": "unos 2.700 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Sant Ildefons",
+   "La Gavarra",
+   "Riera",
+   "Almeda",
+   "Fontsanta",
+   "Pedró",
+   "Famades",
+   "Lindavista"
+  ],
+  "municipios": [
+   "Centre",
+   "Sant Ildefons",
+   "La Gavarra",
+   "Riera",
+   "Almeda",
+   "Fontsanta",
+   "Pedró",
+   "Famades",
+   "Lindavista"
+  ],
+  "mercado": "Cornellà tiene un barrio que define su mercado: Sant Ildefons, la antigua Ciudad Satélite, con torres de los años 60 y pisos de 60 a 70 m² que siguen siendo de los más asequibles del Baix Llobregat. El Centre y Riera tienen fincas de los 70 y 80 algo más caras. La media ronda los 2.700 €/m², orientativo.",
+  "angulo": "Sant Ildefons se construyó para la emigración de los 60 y hoy sus pisos pasan de padres a hijos que ya viven en Sant Boi, Gavà o Esplugues. Compramos cuotas de esos pisos cuando los hermanos no se ponen de acuerdo, cuando uno vive en él sin pagar o cuando hay un heredero fuera de España. En La Gavarra y el Pedró compramos partes de pisos tras separaciones con hipoteca compartida.",
+  "tramites": "Las fincas de Cornellà se inscriben en el Registro de la Propiedad de la ciudad. Liquidamos el ITP ante la Agència Tributària de Catalunya al 10 % y, en extinción de condominio, el AJD al 1,5 %. La plusvalía municipal es del Ajuntament de Cornellà y la calculamos contigo antes de dar precio.",
+  "faq": [
+   [
+    "¿Cuánto me dais por un tercio de un piso en Sant Ildefons?",
+    "Entre el 40 % y el 70 % de lo que vale ese tercio a precio real de Sant Ildefons hoy, sin descontar por la antigüedad de la torre ni por el estado. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mi exmujer sigue en el piso de La Gavarra y la hipoteca va a nombre de los dos. ¿Puedo vender mi parte?",
+    "Sí. Compramos tu cuota aunque haya hipoteca y aunque ella viva en el piso. Descontamos la deuda o la cancelamos en notaría."
+   ],
+   [
+    "¿Compráis solo pisos o también plazas de garaje en proindiviso en Cornellà?",
+    "Compramos también garajes, trasteros y locales. En Cornellà es frecuente tener una plaza heredada en un parking de Sant Ildefons o de Almeda repartida entre hermanos; la compramos igual que un piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos cornellà de llobregat",
+   "vender proindiviso cornellà",
+   "empresas que compran proindivisos en cornellà",
+   "vender parte de un piso cornellà"
+  ]
+ },
+ {
+  "slug": "reus",
+  "nombre": "Reus",
+  "tipo": "ciudad",
+  "padre": "tarragona",
+  "en": "en Reus",
+  "poblacion": "unos 110.000 habitantes, capital del Baix Camp (orientativo)",
+  "precio_m2": "unos 1.500 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Sant Pere",
+   "Barri Fortuny",
+   "Gaudí",
+   "Sant Josep Obrer",
+   "Carrilet",
+   "Mas Pellicer",
+   "Niloga",
+   "Horts de Miró",
+   "Immaculada",
+   "Juroca",
+   "Mas Carandell",
+   "Pastoreta"
+  ],
+  "municipios": [
+   "Centre",
+   "Sant Pere",
+   "Barri Fortuny",
+   "Gaudí",
+   "Sant Josep Obrer",
+   "Carrilet",
+   "Mas Pellicer",
+   "Niloga",
+   "Horts de Miró",
+   "Immaculada",
+   "Juroca",
+   "Mas Carandell",
+   "Pastoreta"
+  ],
+  "mercado": "Reus es más barata que Tarragona pese a ser la capital comercial del Camp: ronda los 1.500 €/m², orientativo. El Centre conserva fincas modernistas y locales de las calles comerciales, mientras que Sant Josep Obrer, Barri Fortuny, Gaudí y Carrilet concentran bloques de los 60 y 70.",
+  "angulo": "En Reus los proindivisos vienen de dos sitios. Del campo: parcelas de avellanos en Riudoms, Castellvell, Almoster o La Selva del Camp heredadas por hermanos que ya no las trabajan. Y de la ciudad: pisos de Sant Josep Obrer o Mas Pellicer de la emigración de los 60 con herederos repartidos entre Reus, Tarragona y la costa. Muchas familias de aquí tienen además el apartamento de Cambrils o Salou en común, con un hermano que lo usa y otros que pagan sin disfrutarlo.",
+  "tramites": "Las fincas de Reus y de buena parte del Baix Camp se inscriben en los Registros de la Propiedad de Reus. Pagamos el ITP a la Agència Tributària de Catalunya al 10 %; la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de Reus, y en parcelas rústicas no se aplica. En herencias rige el Codi Civil de Catalunya.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de una finca de avellanos cerca de Reus?",
+    "Entre el 40 % y el 70 % de lo que vale tu cuota, valorando la tierra, el riego y el acceso, no la cosecha. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mis hermanos y yo tenemos el piso de mis padres en Sant Josep Obrer y el apartamento de Cambrils. ¿Compráis las dos cuotas?",
+    "Sí, y podemos cerrarlas en la misma notaría. Valoramos cada inmueble por separado con el precio real de su zona y te pagamos las dos partes al contado el día de la firma."
+   ],
+   [
+    "¿Firmáis en Reus o tengo que ir a Tarragona?",
+    "Firmamos donde te venga mejor: en una notaría de Reus, de Tarragona o de Cambrils. Si no puedes desplazarte, firmamos con poder."
+   ]
+  ],
+  "kw": [
+   "proindivisos reus",
+   "vender proindiviso reus",
+   "empresas que compran proindivisos en reus",
+   "vender parte de finca baix camp"
+  ]
+ },
+ {
+  "slug": "comunidad-valenciana",
+  "nombre": "Comunidad Valenciana",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en la Comunidad Valenciana",
+  "poblacion": "cerca de 5,3 millones de habitantes (orientativo)",
+  "precio_m2": "unos 1.900 €/m² de media, con Valencia capital por encima de 2.800 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Valencia",
+   "Alicante",
+   "Elche",
+   "Castellón de la Plana",
+   "Torrevieja",
+   "Orihuela",
+   "Benidorm",
+   "Gandia",
+   "Torrent",
+   "Costa Blanca",
+   "Marina Alta",
+   "Vega Baja",
+   "La Safor",
+   "Plana Alta"
+  ],
+  "municipios": [
+   "Valencia",
+   "Alicante",
+   "Elche",
+   "Castellón de la Plana",
+   "Torrevieja",
+   "Torrent",
+   "Orihuela",
+   "Gandia",
+   "Benidorm",
+   "Paterna",
+   "Sagunto",
+   "Alcoy",
+   "Sant Vicent del Raspeig",
+   "Elda",
+   "Vila-real",
+   "Mislata",
+   "Burjassot",
+   "Ontinyent",
+   "Dénia",
+   "Alzira",
+   "Petrer",
+   "Paiporta",
+   "Xàtiva",
+   "Villena"
+  ],
+  "mercado": "La Comunidad Valenciana tiene más vivienda por habitante que casi cualquier otra región, y una parte enorme es segunda residencia en la costa: apartamentos de los 70 y 80 en Cullera, Gandia, Benidorm, Santa Pola o Torrevieja. La media ronda los 1.900 €/m², orientativo.",
+  "angulo": "Aquí los proindivisos tienen tres orígenes claros. El apartamento de la playa que compraron unos padres de Madrid o de la propia Valencia y que heredan hijos que viven a cientos de kilómetros. Las parcelas de naranjos de la Ribera, la Plana o la Vega Baja divididas entre hermanos cuando ya no dan dinero. Y los pisos de los 60 en Orriols, Virgen del Remedio o Carrús de familias llegadas de Castilla-La Mancha y Andalucía. A eso se suman los extranjeros de la Costa Blanca cuyos herederos no van a volver y las viviendas de l'Horta Sud dañadas por la DANA de 2024.",
+  "tramites": "Cada ciudad tiene su Registro de la Propiedad, y las capitales varios. El ITP de la compra de cuota se liquida en la Agència Tributària Valenciana (ATV) al 10 %; la extinción de condominio tributa por AJD al 1,5 %. La plusvalía municipal la fija cada ayuntamiento y en municipios turísticos puede ser alta. Si el fallecido era extranjero, hace falta documentación apostillada.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un proindiviso en la Comunidad Valenciana?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota. No es lo mismo primera línea de Benidorm que una casa en Els Ports, y la oferta lo refleja. La cifra te llega por escrito en 48 horas."
+   ],
+   [
+    "Heredé con mis hermanos un apartamento en la playa que solo usa uno de ellos. ¿Puedo vender mi parte?",
+    "Sí, sin pedirle permiso. Compramos tu cuota aunque tu hermano la use todo el verano, te pagamos en notaría y nosotros tratamos con él después."
+   ],
+   [
+    "¿Compráis en las tres provincias?",
+    "Sí: Valencia, Alicante y Castellón, costa e interior. Desde Vinaròs hasta Pilar de la Horadada y desde Morella hasta Villena."
+   ]
+  ],
+  "kw": [
+   "proindivisos comunidad valenciana",
+   "vender proindiviso comunidad valenciana",
+   "empresas que compran proindivisos en la comunidad valenciana",
+   "vender parte de herencia valencia"
+  ]
+ },
+ {
+  "slug": "alicante",
+  "nombre": "Alicante",
+  "tipo": "provincia",
+  "padre": "comunidad-valenciana",
+  "en": "en Alicante",
+  "poblacion": "cerca de 2 millones de habitantes en la provincia y unos 360.000 en la capital (orientativo)",
+  "precio_m2": "unos 2.100 €/m² en la capital y por encima de 3.000 €/m² en puntos de la Costa Blanca (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Playa de San Juan",
+   "Carolinas",
+   "Benalúa",
+   "San Blas",
+   "Virgen del Remedio",
+   "Juan XXIII",
+   "Vega Baja",
+   "Marina Alta",
+   "Marina Baixa",
+   "L'Alcoià",
+   "Vinalopó",
+   "Costa Blanca"
+  ],
+  "municipios": [
+   "Alicante",
+   "Elche",
+   "Torrevieja",
+   "Orihuela",
+   "Benidorm",
+   "Alcoy",
+   "Sant Vicent del Raspeig",
+   "Elda",
+   "Dénia",
+   "Petrer",
+   "Villena",
+   "Sant Joan d'Alacant",
+   "Santa Pola",
+   "Calp",
+   "Xàbia",
+   "Pilar de la Horadada",
+   "Crevillent",
+   "La Vila Joiosa",
+   "Mutxamel",
+   "Ibi",
+   "Altea",
+   "Novelda",
+   "El Campello",
+   "Almoradí"
+  ],
+  "mercado": "Alicante capital tiene dos ciudades: la de la Playa de San Juan, el Centro y Benalúa, con precios altos y mucha compra de fuera, y la de la Zona Norte, con bloques de los 60 y 70 en Virgen del Remedio, Juan XXIII o Colonia Requena. La media capitalina ronda los 2.100 €/m², orientativo.",
+  "angulo": "El proindiviso alicantino típico es el apartamento de playa en El Campello, Santa Pola o Guardamar heredado por hermanos que viven en Madrid, Albacete o Murcia. Otro muy habitual es la casa de los padres en Virgen del Remedio o en San Blas, comprada en los 60 tras llegar del campo manchego, con un hijo viviendo dentro. En el Vinalopó compramos cuotas de viña y almendro en Villena o Pinoso, y en l'Alcoià casas de pueblo repartidas entre primos. Y hay miles de herencias de británicos en la Marina Alta cuyos hijos solo quieren liquidar.",
+  "tramites": "Alicante capital tiene varios Registros de la Propiedad, y Elche, Orihuela, Torrevieja, Benidorm, Dénia, Xàbia, Alcoy, Villena, Elda o Novelda cuentan con el suyo. El ITP se paga a la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la calculamos antes de ofertar. Para herencias de extranjeros hace falta certificado sucesorio apostillado.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi parte de un apartamento en la Playa de San Juan?",
+    "Entre el 40 % y el 70 % de lo que vale tu cuota a precio real de la Playa de San Juan, que hoy está muy por encima de la media de la ciudad."
+   ],
+   [
+    "El piso de mis padres en Virgen del Remedio lo ocupa mi hermano y no paga nada. ¿Me compráis mi mitad?",
+    "Sí. Compramos cuotas con un copropietario viviendo dentro. Ajustamos el precio, te pagamos en notaría y resolvemos nosotros la situación con él."
+   ],
+   [
+    "¿Compráis en el interior de la provincia o solo en la costa?",
+    "En toda la provincia: Alcoy, Villena, Elda, Petrer, Novelda, Ibi, Cocentaina, Pinoso y el resto del Vinalopó y l'Alcoià, además de la Marina, la Vega Baja y la capital."
+   ]
+  ],
+  "kw": [
+   "proindivisos alicante",
+   "vender proindiviso alicante",
+   "empresas que compran proindivisos en alicante",
+   "vender parte de un piso alicante"
+  ]
+ },
+ {
+  "slug": "castellon",
+  "nombre": "Castellón",
+  "tipo": "provincia",
+  "padre": "comunidad-valenciana",
+  "en": "en la provincia de Castellón",
+  "poblacion": "cerca de 600.000 habitantes en la provincia y unos 175.000 en la capital (orientativo)",
+  "precio_m2": "unos 1.400 €/m² en la capital (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Grao de Castellón",
+   "Rafalafena",
+   "Plana Alta",
+   "Plana Baixa",
+   "Vila-real",
+   "Burriana",
+   "Vinaròs",
+   "Benicarló",
+   "Peñíscola",
+   "Oropesa del Mar",
+   "Els Ports",
+   "Alto Palancia",
+   "Maestrat"
+  ],
+  "municipios": [
+   "Castellón de la Plana",
+   "Vila-real",
+   "Burriana",
+   "Vinaròs",
+   "Benicarló",
+   "La Vall d'Uixó",
+   "Onda",
+   "Almassora",
+   "Benicàssim",
+   "Nules",
+   "Segorbe",
+   "L'Alcora",
+   "Oropesa del Mar",
+   "Peñíscola",
+   "Betxí",
+   "Alcalà de Xivert",
+   "Morella",
+   "Moncofa",
+   "Sant Mateu",
+   "Vilafranca"
+  ],
+  "mercado": "Castellón capital ronda los 1.400 €/m², orientativo, y es de las capitales más baratas del Mediterráneo. En la Plana del azulejo, Vila-real, Onda o L'Alcora tienen pisos de los 70. En la costa hay apartamentos turísticos en Benicàssim, Oropesa, Peñíscola y Vinaròs, y en el interior, en Els Ports, el Alto Mijares o el Alto Palancia, casas de pueblo de tres plantas vaciadas por la despoblación.",
+  "angulo": "La provincia se vació hacia la capital y la Plana en los 60 y 70, y esas familias conservan la casa del pueblo en Morella, Vilafranca, Cinctorres o Montanejos repartida entre hermanos y primos que viven en Castellón o en Valencia. Ese es el proindiviso más castellonense. Le siguen los apartamentos de Oropesa y Peñíscola heredados por hijos de Zaragoza o Madrid y los naranjos de Burriana o Nules que ya no se trabajan.",
+  "tramites": "Los Registros de la Propiedad están en Castellón de la Plana, Vila-real, Nules, Vinaròs, Segorbe, Lucena del Cid, Morella, Sant Mateu y Albocàsser. Liquidamos el ITP ante la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la fija cada ayuntamiento; en pueblos del interior muchas veces no existe.",
+  "faq": [
+   [
+    "¿Cuánto vale mi parte de la casa del pueblo en Els Ports?",
+    "Menos que un piso en la capital, pero tiene valor. Pagamos entre el 40 % y el 70 % del valor proporcional, teniendo en cuenta el estado y el tamaño de la casa, que en Morella o Vilafranca suelen ser grandes."
+   ],
+   [
+    "Somos tres hermanos con un apartamento en Oropesa que solo usa uno. ¿Compráis mi tercio?",
+    "Sí. Compramos tu tercio aunque tu hermano lo use todo el verano y aunque haya cuotas de comunidad pendientes. Te pagamos en notaría."
+   ],
+   [
+    "¿Llegáis a Vinaròs y Benicarló o solo a la capital?",
+    "A toda la provincia, del Baix Maestrat al Alto Palancia. Compramos en Vinaròs, Benicarló, Peñíscola, Segorbe, Onda, La Vall d'Uixó o cualquier pueblo del interior. La firma puede ser en tu notaría más cercana."
+   ]
+  ],
+  "kw": [
+   "proindivisos castellón",
+   "vender proindiviso castellón",
+   "empresas que compran proindivisos en castellón",
+   "vender parte de casa de pueblo castellón"
+  ]
+ },
+ {
+  "slug": "valencia",
+  "nombre": "Valencia",
+  "tipo": "provincia",
+  "padre": "comunidad-valenciana",
+  "en": "en Valencia",
+  "poblacion": "cerca de 2,7 millones de habitantes en la provincia y unos 800.000 en la capital (orientativo)",
+  "precio_m2": "unos 2.900 €/m² en la capital y cerca de 1.800 €/m² de media en la provincia (orientativo, 2026)",
+  "zonas": [
+   "Ciutat Vella",
+   "L'Eixample",
+   "Russafa",
+   "Benimaclet",
+   "Patraix",
+   "Orriols",
+   "Torrefiel",
+   "El Cabanyal",
+   "Benicalap",
+   "Quatre Carreres",
+   "L'Horta Sud",
+   "Camp de Túria",
+   "Ribera Alta",
+   "La Safor"
+  ],
+  "municipios": [
+   "Valencia",
+   "Torrent",
+   "Gandia",
+   "Paterna",
+   "Sagunto",
+   "Mislata",
+   "Burjassot",
+   "Ontinyent",
+   "Alzira",
+   "Paiporta",
+   "Xàtiva",
+   "Aldaia",
+   "Catarroja",
+   "Manises",
+   "Quart de Poblet",
+   "Alaquàs",
+   "Xirivella",
+   "Sueca",
+   "Cullera",
+   "Llíria",
+   "Riba-roja de Túria",
+   "Alfafar",
+   "Algemesí",
+   "Oliva",
+   "Carcaixent"
+  ],
+  "mercado": "Valencia capital ha subido tanto que hoy ronda los 2.900 €/m², orientativo, con Russafa y Ciutat Vella muy por encima y Orriols, Torrefiel o Benicalap aún con pisos de los 60 y 70 más baratos. En la provincia la media baja a unos 1.800 €/m², con huerta, naranjal y apartamentos de playa en Cullera o Sueca.",
+  "angulo": "Una gran parte de los proindivisos valencianos sale de las herencias de los pueblos de la Ribera, la Costera y la Safor: la casa de los abuelos en Alzira, Xàtiva o Carcaixent y las hanegadas de naranjos que ya no cubren ni la poda, divididas entre cuatro o cinco hermanos. En la capital compramos cuotas de pisos de Orriols o Patraix donde un hermano sigue viviendo. Desde octubre de 2024 recibimos además muchas consultas de l'Horta Sud: pisos y bajos de Paiporta o Catarroja afectados por la DANA que los copropietarios no saben si reformar o vender.",
+  "tramites": "Valencia capital tiene varios Registros de la Propiedad por distritos, y Torrent, Gandia, Xàtiva, Alzira, Sagunto, Llíria y Sueca tienen el suyo. El ITP de la compra de cuota se liquida en la Agència Tributària Valenciana al 10 %; la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal del Ayuntamiento de València la calculamos contigo antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un piso en Russafa o en Benimaclet?",
+    "Entre el 40 % y el 70 % de lo que vale tu cuota a precio de mercado real de ese barrio. Cobras en notaría en pocas semanas."
+   ],
+   [
+    "Heredamos naranjos en la Ribera entre cinco hermanos y nadie los trabaja. ¿Compráis mi parte?",
+    "Sí. Compramos cuotas de parcelas de naranjos y huerta en Alzira, Carcaixent, Algemesí, Sueca y el resto de la Ribera, aunque estén abandonadas. Pagamos tu parte al contado."
+   ],
+   [
+    "Tengo un tercio de un bajo en Paiporta que se inundó en la DANA. ¿Lo compráis?",
+    "Sí. Compramos cuotas de inmuebles afectados por la DANA en Paiporta, Catarroja o Alfafar, reformados o sin reformar. Tenemos en cuenta el estado y las ayudas pendientes, y te damos oferta por escrito en 48 horas."
+   ]
+  ],
+  "kw": [
+   "proindivisos valencia",
+   "vender proindiviso valencia",
+   "empresas que compran proindivisos en valencia",
+   "vender parte de un piso valencia"
+  ]
+ },
+ {
+  "slug": "elche",
+  "nombre": "Elche",
+  "tipo": "ciudad",
+  "padre": "alicante",
+  "en": "en Elche",
+  "poblacion": "unos 240.000 habitantes (orientativo)",
+  "precio_m2": "unos 1.500 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Carrús",
+   "El Raval",
+   "Altabix",
+   "El Pla",
+   "Sector V",
+   "San Antón",
+   "Els Palmerals",
+   "Torrellano",
+   "El Altet",
+   "Arenales del Sol",
+   "La Marina",
+   "Matola",
+   "La Hoya"
+  ],
+  "municipios": [
+   "Centro",
+   "Carrús",
+   "El Raval",
+   "Altabix",
+   "El Pla",
+   "Sector V",
+   "San Antón",
+   "Els Palmerals",
+   "Torrellano",
+   "El Altet",
+   "Arenales del Sol",
+   "La Marina",
+   "Matola",
+   "La Hoya"
+  ],
+  "mercado": "Elche es una ciudad de pisos asequibles, con una media de unos 1.500 €/m², orientativo. Carrús, el barrio más poblado, concentra bloques de los 60 y 70 de 70 a 90 m² levantados para los trabajadores del calzado; El Pla y San Antón repiten el patrón. Y luego está el Camp d'Elx: casas de campo con huerto y apartamentos en Arenales del Sol.",
+  "angulo": "Las familias que llegaron de Albacete, Murcia y Andalucía para coser zapatos compraron piso en Carrús y ahora esos pisos pasan a tres o cuatro hijos. Ese es el proindiviso ilicitano más común. El segundo es la casa de campo en pedanías como La Hoya, Matola, Perleta o Las Bayas, con terreno y palmeras, que los herederos no quieren mantener. También compramos cuotas de naves de calzado en Torrellano tras cerrar la empresa familiar y partes de apartamentos de playa en Arenales heredados por madrileños.",
+  "tramites": "Elche tiene varios Registros de la Propiedad que se reparten la ciudad y las pedanías. El ITP de la cuota se liquida en la Agència Tributària Valenciana al 10 % y la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal la fija el Ayuntamiento de Elche; en las casas del Camp d'Elx con parte rústica solo aplica a la parte urbana.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi parte de un piso en Carrús?",
+    "Entre el 40 % y el 70 % del valor proporcional sobre el precio real de Carrús hoy, que es de los más bajos de la ciudad pero con mucha demanda. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mi abuelo dejó una casa de campo en La Hoya a seis nietos. ¿Compráis algo tan repartido?",
+    "Sí. Compramos cuotas de una sexta parte o menores de casas del Camp d'Elx, con terreno, palmeras y construcciones anexas. Te pagamos tu parte en notaría y nosotros nos entendemos después con el resto de primos."
+   ],
+   [
+    "¿Compráis cuotas de naves de calzado en Elche?",
+    "Sí. Las naves de Torrellano, Carrús y el Altet heredadas tras cerrar el negocio familiar son uno de nuestros casos habituales. Firmamos en pocas semanas."
+   ]
+  ],
+  "kw": [
+   "proindivisos elche",
+   "vender proindiviso elche",
+   "empresas que compran proindivisos en elche",
+   "vender parte de casa de campo elche"
+  ]
+ },
+ {
+  "slug": "torrevieja",
+  "nombre": "Torrevieja",
+  "tipo": "ciudad",
+  "padre": "alicante",
+  "en": "en Torrevieja",
+  "poblacion": "unos 95.000 empadronados y muchos más en temporada (orientativo)",
+  "precio_m2": "unos 2.100 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Playa del Cura",
+   "Los Locos",
+   "La Mata",
+   "Acequión",
+   "Punta Prima",
+   "Los Balcones",
+   "Torreta",
+   "El Chaparral",
+   "Aguas Nuevas",
+   "Cabo Cervera",
+   "La Siesta",
+   "El Limonar",
+   "Playa de los Náufragos"
+  ],
+  "municipios": [
+   "Centro",
+   "Playa del Cura",
+   "Los Locos",
+   "La Mata",
+   "Acequión",
+   "Punta Prima",
+   "Los Balcones",
+   "Torreta",
+   "El Chaparral",
+   "Aguas Nuevas",
+   "Cabo Cervera",
+   "La Siesta",
+   "El Limonar",
+   "Playa de los Náufragos"
+  ],
+  "mercado": "Torrevieja es casi toda segunda residencia: apartamentos de 50 a 70 m² de los 80 y 90 en el Centro, Playa del Cura y Acequión, y bungalows y adosados en urbanizaciones como Los Balcones, La Siesta, El Chaparral o Aguas Nuevas. La media ronda los 2.100 €/m², orientativo, con La Mata y Punta Prima por encima.",
+  "angulo": "El proindiviso torrevejense es el apartamento que compraron unos padres de Madrid, Toledo o Albacete en los 80 y que ahora heredan tres hijos que no coinciden en vacaciones. Otro muy frecuente es el bungalow de un matrimonio británico, noruego o alemán cuyos hijos viven fuera y solo quieren cobrar. Compramos también cuotas de bungalows de Torreta con comunidades endeudadas y de pisos del Centro con derramas pendientes.",
+  "tramites": "Torrevieja tiene varios Registros de la Propiedad que se reparten el término por zonas. El ITP lo liquidamos ante la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la fija el Ayuntamiento de Torrevieja. Cuando el fallecido era extranjero necesitamos el certificado sucesorio europeo o el testamento apostillado y traducido, y cada heredero debe tener NIE.",
+  "faq": [
+   [
+    "¿Cuánto me pagáis por la mitad de un apartamento en Playa del Cura?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu mitad sobre el precio real de Playa del Cura, que hoy está por encima de la media de Torrevieja. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mis padres eran británicos y heredé con mi hermana un bungalow en Los Balcones. Vivimos en Inglaterra. ¿Podemos vender?",
+    "Sí. Necesitáis NIE y la herencia aceptada en España, y podéis firmar con poder sin viajar. Compramos vuestras cuotas o la vivienda entera, pagamos en notaría y nos encargamos de la gestión."
+   ],
+   [
+    "¿Compráis bungalows en urbanizaciones con la comunidad endeudada?",
+    "Sí. Revisamos la deuda de la comunidad y la plusvalía, las descontamos de la oferta y asumimos la gestión. Compramos en Torreta, El Limonar, La Siesta, San Luis y cualquier urbanización del término."
+   ]
+  ],
+  "kw": [
+   "proindivisos torrevieja",
+   "vender proindiviso torrevieja",
+   "empresas que compran proindivisos en torrevieja",
+   "vender parte de apartamento torrevieja"
+  ]
+ },
+ {
+  "slug": "orihuela",
+  "nombre": "Orihuela",
+  "tipo": "ciudad",
+  "padre": "alicante",
+  "en": "en Orihuela",
+  "poblacion": "unos 80.000 habitantes repartidos entre la ciudad, las pedanías y Orihuela Costa (orientativo)",
+  "precio_m2": "unos 1.200 €/m² en el casco urbano y por encima de 2.000 €/m² en Orihuela Costa (orientativo, 2026)",
+  "zonas": [
+   "Casco Histórico",
+   "Rabaloche",
+   "San Antón",
+   "El Palmeral",
+   "Orihuela Costa",
+   "Playa Flamenca",
+   "La Zenia",
+   "Cabo Roig",
+   "Campoamor",
+   "Villamartín",
+   "Molins",
+   "Desamparados",
+   "La Aparecida",
+   "Hurchillo"
+  ],
+  "municipios": [
+   "Casco Histórico",
+   "Rabaloche",
+   "San Antón",
+   "El Palmeral",
+   "Orihuela Costa",
+   "Playa Flamenca",
+   "La Zenia",
+   "Cabo Roig",
+   "Campoamor",
+   "Villamartín",
+   "Molins",
+   "Desamparados",
+   "La Aparecida",
+   "Hurchillo"
+  ],
+  "mercado": "Orihuela son dos mundos a veinte kilómetros. El casco urbano, con el Casco Histórico, Rabaloche o San Antón, tiene casas antiguas y pisos de los 70 a unos 1.200 €/m², orientativo, y una huerta de limoneros y naranjos partida en parcelas minúsculas. Orihuela Costa, de Playa Flamenca a Campoamor, son urbanizaciones de los 80 y 90 llenas de británicos y escandinavos, por encima de 2.000 €/m².",
+  "angulo": "En la huerta de la Vega Baja las parcelas se han dividido tanto en cada herencia que hoy es normal tener un sexto de media tahúlla con cuatro primos que ni se hablan. En pedanías como Desamparados, La Aparecida, Molins o Hurchillo las casas de los abuelos quedan cerradas mientras los herederos viven en Murcia o Alicante. Y en Orihuela Costa compramos partes de adosados de Villamartín o La Zenia de matrimonios extranjeros fallecidos cuyos hijos no piensan volver.",
+  "tramites": "Orihuela tiene varios Registros de la Propiedad: la finca va al que le corresponde por situación, y Orihuela Costa tiene el suyo. Liquidamos el ITP ante la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal del Ayuntamiento de Orihuela no se aplica a la huerta rústica.",
+  "faq": [
+   [
+    "¿Compráis la parte de una parcela de huerta en Orihuela aunque sea muy pequeña?",
+    "Sí. Compramos cuotas de parcelas de limoneros y naranjos en toda la Vega Baja, también de menos de una tahúlla. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Heredé con mis hermanos la casa de mi abuela en Desamparados y lleva diez años cerrada. ¿Cuánto vale mi parte?",
+    "Depende del estado y del tamaño de la casa, que en las pedanías suelen ser grandes y con corral. Pagamos entre el 40 % y el 70 % del valor proporcional de tu cuota, aunque la casa necesite obra."
+   ],
+   [
+    "¿Compráis en Orihuela Costa a herederos que viven en el extranjero?",
+    "Sí. Es uno de nuestros casos más frecuentes en La Zenia, Villamartín, Playa Flamenca y Cabo Roig. Firmamos con poder, aceptamos herencias con certificado sucesorio europeo y pagamos por transferencia el día de la firma."
+   ]
+  ],
+  "kw": [
+   "proindivisos orihuela",
+   "vender proindiviso orihuela",
+   "empresas que compran proindivisos en orihuela",
+   "vender parte de huerta vega baja"
+  ]
+ },
+ {
+  "slug": "benidorm",
+  "nombre": "Benidorm",
+  "tipo": "ciudad",
+  "padre": "alicante",
+  "en": "en Benidorm",
+  "poblacion": "unos 70.000 empadronados, con una población real mucho mayor en verano (orientativo)",
+  "precio_m2": "unos 2.700 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Casco Antiguo",
+   "Playa de Levante",
+   "Playa de Poniente",
+   "Rincón de Loix",
+   "La Cala",
+   "Colonia Madrid",
+   "Els Tolls",
+   "Foietes",
+   "Parque de l'Aigüera",
+   "Avenida del Mediterráneo",
+   "Sierra Helada"
+  ],
+  "municipios": [
+   "Centro",
+   "Casco Antiguo",
+   "Playa de Levante",
+   "Playa de Poniente",
+   "Rincón de Loix",
+   "La Cala",
+   "Colonia Madrid",
+   "Els Tolls",
+   "Foietes",
+   "Parque de l'Aigüera",
+   "Avenida del Mediterráneo",
+   "Sierra Helada"
+  ],
+  "mercado": "Benidorm es la ciudad de las torres: apartamentos de 40 a 70 m² de los años 70 y 80 en el Rincón de Loix, Levante y la avenida del Mediterráneo, pensados para vacaciones y hoy muy demandados para alquiler turístico. La media ronda los 2.700 €/m², orientativo.",
+  "angulo": "Casi todos los proindivisos de Benidorm nacen igual: un apartamento comprado en los 70 por una familia de Madrid, Bilbao, Zaragoza o Valladolid que hoy heredan tres hijos. Uno quiere alquilarlo por semanas, otro quiere usarlo en agosto y el tercero quiere cobrar. También compramos partes de apartamentos de británicos del Rincón de Loix y pisos de residentes en Colonia Madrid tras una separación.",
+  "tramites": "Benidorm tiene varios Registros de la Propiedad y la finca se inscribe en el que corresponde a su zona. Pagamos el ITP a la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la fija el Ayuntamiento de Benidorm.",
+  "faq": [
+   [
+    "¿Cuánto vale mi tercio de un apartamento en el Rincón de Loix?",
+    "Entre el 40 % y el 70 % del valor proporcional, sobre el precio real de la torre y la altura, no sobre el catastro. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mi hermano alquila el apartamento de mis padres a turistas y no me da nada. ¿Puedo vender mi parte?",
+    "Sí, sin su permiso. Compramos tu cuota, te pagamos en notaría y después reclamamos nosotros la parte proporcional de las rentas o acordamos su salida. Dejas de discutir por un apartamento que no disfrutas."
+   ],
+   [
+    "Vivo en Madrid, ¿tengo que ir a Benidorm a firmar?",
+    "No. Podemos firmar en una notaría de Madrid o con poder. Nosotros gestionamos nota simple, cancelación de cargas si las hay, plusvalía y ITP, y te pagamos al contado el día de la firma."
+   ]
+  ],
+  "kw": [
+   "proindivisos benidorm",
+   "vender proindiviso benidorm",
+   "empresas que compran proindivisos en benidorm",
+   "vender parte de apartamento benidorm"
+  ]
+ },
+ {
+  "slug": "torrent",
+  "nombre": "Torrent",
+  "tipo": "ciudad",
+  "padre": "valencia",
+  "en": "en Torrent",
+  "poblacion": "unos 90.000 habitantes, el mayor municipio de l'Horta Sud (orientativo)",
+  "precio_m2": "unos 1.500 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "El Xenillet",
+   "Parc Central",
+   "Sant Gregori",
+   "El Vedat",
+   "Monte Vedat",
+   "Calicanto",
+   "Mas del Jutge",
+   "Avinguda al Vedat",
+   "Camí Reial"
+  ],
+  "municipios": [
+   "Centre",
+   "El Xenillet",
+   "Parc Central",
+   "Sant Gregori",
+   "El Vedat",
+   "Monte Vedat",
+   "Calicanto",
+   "Mas del Jutge",
+   "Avinguda al Vedat",
+   "Camí Reial"
+  ],
+  "mercado": "Torrent tiene dos parques distintos. En el casco, pisos de los 60 y 70 en el Xenillet, Sant Gregori y el Centre, en torno a 1.500 €/m², orientativo. En El Vedat, Monte Vedat y Calicanto, chalets de veraneo construidos entre los 50 y los 80 por familias de Valencia, muchos ya convertidos en primera residencia.",
+  "angulo": "El chalet de El Vedat es el origen del proindiviso más típico de Torrent: la casa de verano de los abuelos repartida entre seis nietos con una factura de mantenimiento que nadie asume. En el Xenillet y Sant Gregori compramos cuotas de pisos de la emigración de los 60 con un hermano dentro. Desde la DANA de octubre de 2024 recibimos consultas de pisos y bajos de la parte baja del término donde los copropietarios no acuerdan reformar.",
+  "tramites": "Las fincas de Torrent se inscriben en los Registros de la Propiedad de Torrent, que cubren también varios pueblos de l'Horta Sud. El ITP lo pagamos a la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la fija el Ayuntamiento de Torrent y la calculamos contigo.",
+  "faq": [
+   [
+    "¿Cuánto me dais por una sexta parte de un chalet en El Vedat?",
+    "Entre el 40 % y el 70 % de lo que vale esa sexta parte a precio real de El Vedat, que depende sobre todo de la parcela y de la zona. Oferta por escrito en 48 horas."
+   ],
+   [
+    "El piso de mis padres en el Xenillet lo ocupa mi hermana con su familia. ¿Compráis mi parte?",
+    "Sí. Compramos cuotas con un copropietario viviendo dentro, ajustando el precio, y después hablamos nosotros con ella."
+   ],
+   [
+    "Mi bajo en Torrent se inundó en la DANA y mis hermanos no quieren reformar. ¿Lo compráis así?",
+    "Sí. Compramos cuotas de inmuebles dañados por la DANA sin reformar, teniendo en cuenta el estado y las ayudas que estén pendientes de cobrar. Te damos oferta por escrito y firmamos en pocas semanas."
+   ]
+  ],
+  "kw": [
+   "proindivisos torrent",
+   "vender proindiviso torrent valencia",
+   "empresas que compran proindivisos en torrent",
+   "vender parte de chalet el vedat"
+  ]
+ },
+ {
+  "slug": "gandia",
+  "nombre": "Gandia",
+  "tipo": "ciudad",
+  "padre": "valencia",
+  "en": "en Gandia",
+  "poblacion": "unos 75.000 habitantes, capital de La Safor (orientativo)",
+  "precio_m2": "unos 1.700 €/m² en la ciudad y más en la playa (orientativo, 2026)",
+  "zonas": [
+   "Centre Històric",
+   "Platja de Gandia",
+   "Grau de Gandia",
+   "Corea",
+   "Beniopa",
+   "Benipeixcar",
+   "Marxuquera",
+   "Santa Anna",
+   "Roís de Corella",
+   "Prado",
+   "El Raval"
+  ],
+  "municipios": [
+   "Centre Històric",
+   "Platja de Gandia",
+   "Grau de Gandia",
+   "Corea",
+   "Beniopa",
+   "Benipeixcar",
+   "Marxuquera",
+   "Santa Anna",
+   "Roís de Corella",
+   "Prado",
+   "El Raval"
+  ],
+  "mercado": "A Gandia se la llama la playa de Madrid por algo: la Platja de Gandia está llena de apartamentos de los 70 y 80 comprados por familias madrileñas que los usan en julio y agosto. En la ciudad hay pisos de los 60 en Corea y casas de pueblo en Beniopa. La media ronda los 1.700 €/m², orientativo, con la playa claramente por encima.",
+  "angulo": "El proindiviso gandiense por excelencia es el apartamento de la playa heredado por hermanos que viven en Madrid, Toledo o Guadalajara y no coinciden ni en fechas ni en lo que quieren hacer con él. El segundo son los naranjales de La Safor, en Gandia, Oliva, Xeraco o Bellreguard, que ya no se trabajan y se reparten entre primos. También compramos cuotas de casas en Benipeixcar y partes de pisos en Corea tras separaciones.",
+  "tramites": "Las fincas se inscriben en los Registros de la Propiedad de Gandia, que cubren la ciudad y buena parte de La Safor. El ITP de la compra lo liquidamos ante la Agència Tributària Valenciana al 10 % y la extinción de condominio por AJD al 1,5 %. La plusvalía municipal la fija el Ajuntament de Gandia y la revisamos antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi parte de un apartamento en la Platja de Gandia?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota sobre el precio real de la playa, que depende de la línea y de la altura. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Vivo en Madrid y mis hermanos también. ¿Podemos vender el apartamento de Gandia sin ir?",
+    "Sí. Firmamos en una notaría de Madrid o con poderes, y nosotros nos encargamos de todo en Gandia: nota simple, comunidad, plusvalía y liquidación del ITP. Cobráis el día de la firma."
+   ],
+   [
+    "¿Compráis cuotas de naranjales en La Safor?",
+    "Sí. Compramos partes de parcelas de naranjos en Gandia, Oliva, Xeraco, Bellreguard, Palmera o Ròtova, aunque lleven años sin trabajarse. Pagamos al contado."
+   ]
+  ],
+  "kw": [
+   "proindivisos gandia",
+   "vender proindiviso gandia",
+   "empresas que compran proindivisos en gandia",
+   "vender parte de apartamento gandia"
+  ]
+ },
+ {
+  "slug": "baleares",
+  "nombre": "Islas Baleares",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Baleares",
+  "poblacion": "cerca de 1,2 millones de habitantes, la mayoría en Mallorca (orientativo)",
+  "precio_m2": "unos 4.000 €/m² de media en las islas, con Ibiza bastante por encima (orientativo, 2026)",
+  "zonas": [
+   "Palma",
+   "Mallorca",
+   "Menorca",
+   "Ibiza",
+   "Formentera",
+   "Calvià",
+   "Manacor",
+   "Inca",
+   "Llucmajor",
+   "Marratxí",
+   "Maó",
+   "Ciutadella",
+   "Santa Eulària des Riu",
+   "Sant Antoni de Portmany"
+  ],
+  "municipios": [
+   "Palma",
+   "Calvià",
+   "Manacor",
+   "Marratxí",
+   "Llucmajor",
+   "Inca",
+   "Ibiza",
+   "Santa Eulària des Riu",
+   "Maó",
+   "Ciutadella de Menorca",
+   "Sant Josep de sa Talaia",
+   "Sant Antoni de Portmany",
+   "Alcúdia",
+   "Felanitx",
+   "Pollença",
+   "Sóller",
+   "Sa Pobla",
+   "Santanyí",
+   "Andratx",
+   "Campos",
+   "Capdepera",
+   "Santa Margalida",
+   "Son Servera",
+   "Sant Llorenç des Cardassar"
+  ],
+  "mercado": "Baleares es el mercado más caro de España después de algunos barrios de Madrid y Barcelona: la media supera los 4.000 €/m², orientativo, y en Ibiza y Formentera se dispara. Conviven pisos de los 60 y 70 en Palma, casas de pueblo en el Pla, fincas rústicas y apartamentos turísticos en Alcúdia o Sant Antoni.",
+  "angulo": "En las islas el derecho civil propio lo marca todo: la Compilación balear permite la definición y los pactos sucesorios, y aun así la mayoría de herencias acaban con una finca en Sineu, Petra o Algaida repartida entre hermanos. Compramos cuotas de esas fincas rústicas, de casas de pueblo en Sa Pobla o Felanitx, de apartamentos de s'Arenal o Can Picafort de abuelos peninsulares y de casas de Menorca con herederos en Barcelona.",
+  "tramites": "Hay Registros de la Propiedad en Palma, Inca, Manacor, Felanitx, Maó, Ciutadella e Ibiza. El ITP de la compra se liquida en la Agència Tributària de les Illes Balears (ATIB) con una escala del 8 % al 13 % según el valor; la extinción de condominio tributa por AJD al 1,5 %, con un 2 % en los tramos más altos. La plusvalía municipal la fija cada ayuntamiento. En herencias rige la Compilación de Derecho Civil de las Illes Balears.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un proindiviso en Mallorca?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota, calculado sobre precios reales de la isla, que son altos. Cifra por escrito en 48 horas."
+   ],
+   [
+    "Mi hermano se quedó la finca de mis padres por definición y yo tengo una cuota de otra parcela. ¿La compráis?",
+    "Sí. Compramos cuotas de fincas rústicas en toda Mallorca, con o sin casa. Revisamos la escritura de definición o el pacto sucesorio con tu notario y te pagamos en notaría."
+   ],
+   [
+    "¿Compráis en Menorca, Ibiza y Formentera o solo en Mallorca?",
+    "En las cuatro islas. Firmamos en notarías de Maó, Ciutadella, Ibiza o Sant Francesc, o con poder si vives en la península."
+   ]
+  ],
+  "kw": [
+   "proindivisos baleares",
+   "vender proindiviso mallorca",
+   "empresas que compran proindivisos en baleares",
+   "vender parte de herencia mallorca"
+  ]
+ },
+ {
+  "slug": "palma",
+  "nombre": "Palma",
+  "tipo": "ciudad",
+  "padre": "baleares",
+  "en": "en Palma",
+  "poblacion": "unos 420.000 habitantes (orientativo)",
+  "precio_m2": "unos 4.300 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Centre",
+   "Santa Catalina",
+   "Son Gotleu",
+   "Son Roca",
+   "Camp Redó",
+   "Pere Garau",
+   "Es Molinar",
+   "El Terreno",
+   "Son Rapinya",
+   "S'Arenal",
+   "Can Pastilla",
+   "Coll d'en Rabassa",
+   "Es Rafal",
+   "La Soledat"
+  ],
+  "municipios": [
+   "Centre",
+   "Santa Catalina",
+   "Son Gotleu",
+   "Son Roca",
+   "Camp Redó",
+   "Pere Garau",
+   "Es Molinar",
+   "El Terreno",
+   "Son Rapinya",
+   "S'Arenal",
+   "Can Pastilla",
+   "Coll d'en Rabassa",
+   "Es Rafal",
+   "La Soledat"
+  ],
+  "mercado": "Palma ronda los 4.300 €/m², orientativo, y la presión de compradores extranjeros en Santa Catalina o El Terreno arrastra al resto. Aun así, Son Gotleu, Camp Redó, La Soledat, Es Rafal y Pere Garau siguen llenos de pisos de 60 a 80 m² de los años 60 y 70 sin ascensor.",
+  "angulo": "Son Gotleu, Camp Redó y Son Roca se construyeron para la emigración andaluza y murciana de los 60, y esos pisos se heredan hoy entre hermanos de los que alguno volvió a la península. Con los precios de Palma, comprarle la parte al otro es imposible, y ahí entramos nosotros. Compramos también cuotas de pisos de Pere Garau con un hermano dentro, apartamentos de S'Arenal repartidos entre primos peninsulares y pisos de Son Rapinya tras una separación.",
+  "tramites": "Palma tiene varios Registros de la Propiedad repartidos por zonas de la ciudad. El ITP de la cuota se liquida en la ATIB con escala del 8 % al 13 %, y la extinción de condominio por AJD al 1,5 % o 2 % según el valor. La plusvalía municipal del Ajuntament de Palma la calculamos contigo antes de ofertar. Si hubo pacto sucesorio o definición, lo revisamos con tu notario.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi parte de un piso en Son Gotleu o Camp Redó?",
+    "Entre el 40 % y el 70 % del valor proporcional sobre el precio real de esos barrios. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mi hermana vive en Sevilla y yo en Palma; el piso de mi madre en Pere Garau es de los dos. ¿Puede vender ella sin venir?",
+    "Sí. Ella puede firmar con poder notarial en Sevilla y cobrar por transferencia el día de la firma en Palma. Compramos su mitad y tú decides si te quedas con la tuya o nos la vendes también."
+   ],
+   [
+    "¿Compráis plazas de garaje en proindiviso en Palma?",
+    "Sí. Compramos garajes y trasteros heredados entre hermanos en cualquier barrio, igual que pisos y locales."
+   ]
+  ],
+  "kw": [
+   "proindivisos palma",
+   "vender proindiviso palma de mallorca",
+   "empresas que compran proindivisos en palma",
+   "vender parte de un piso palma"
+  ]
+ },
+ {
+  "slug": "aragon",
+  "nombre": "Aragón",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Aragón",
+  "poblacion": "cerca de 1,35 millones de habitantes, la mitad en Zaragoza capital (orientativo)",
+  "precio_m2": "unos 1.600 €/m² de media, con Zaragoza capital en torno a 2.000 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Zaragoza",
+   "Huesca",
+   "Teruel",
+   "Calatayud",
+   "Monzón",
+   "Barbastro",
+   "Alcañiz",
+   "Jaca",
+   "Ejea de los Caballeros",
+   "Cinco Villas",
+   "Pirineo aragonés",
+   "Bajo Aragón",
+   "Matarraña",
+   "Monegros"
+  ],
+  "municipios": [
+   "Zaragoza",
+   "Huesca",
+   "Teruel",
+   "Calatayud",
+   "Utebo",
+   "Monzón",
+   "Barbastro",
+   "Alcañiz",
+   "Ejea de los Caballeros",
+   "Cuarte de Huerva",
+   "Fraga",
+   "Jaca",
+   "Tarazona",
+   "Sabiñánigo",
+   "Caspe",
+   "Binéfar",
+   "Zuera",
+   "La Almunia de Doña Godina",
+   "Andorra",
+   "Tauste",
+   "Villanueva de Gállego",
+   "María de Huerva",
+   "Borja",
+   "Sariñena"
+  ],
+  "mercado": "Aragón es la región más desequilibrada de España: la mitad de la población vive en Zaragoza capital, con pisos de los 60 y 70 en Delicias, Las Fuentes o Torrero a unos 2.000 €/m², orientativo, y el resto se reparte por pueblos donde una casa entera cuesta menos que un garaje en la capital.",
+  "angulo": "El derecho foral aragonés explica muchos proindivisos. Cuando varios hermanos heredan de sus padres sin repartir, forman un consorcio foral y ninguno puede vender su parte a un extraño sin contar con los demás hasta que se disuelve; muchas familias llevan décadas así con la casa del pueblo. Compramos cuotas de pisos de los 60 en Delicias, de casas de pueblo en el Jiloca o los Monegros y de apartamentos de Formigal o Cerler heredados por hermanos de Zaragoza.",
+  "tramites": "Hay Registros de la Propiedad en Zaragoza, Huesca, Teruel, Calatayud, Alcañiz, Barbastro y otras cabeceras. El ITP de la compra se liquida en la Dirección General de Tributos del Gobierno de Aragón con tipos del 8 % al 10 % según el valor; la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal depende de cada ayuntamiento y en muchos pueblos no existe. Si hay consorcio foral, lo disolvemos o pedimos el consentimiento en la misma notaría.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un proindiviso en Aragón?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu cuota. Un piso en el Actur y una casa en un pueblo de Teruel son cifras muy distintas. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Mis hermanos y yo heredamos de mis padres y nunca repartimos. ¿Puedo vender mi parte si hay consorcio foral?",
+    "Sí, pero hay que resolver antes el consorcio: con el acuerdo de tus hermanos o mediante partición. Lo revisamos con tu notario, preparamos la documentación y, una vez libre tu cuota, la compramos y pagamos en notaría."
+   ],
+   [
+    "¿Compráis en las tres provincias?",
+    "Sí: Zaragoza, Huesca y Teruel, capitales y pueblos. Desde el Pirineo hasta Albarracín y desde Tarazona hasta el Matarraña."
+   ]
+  ],
+  "kw": [
+   "proindivisos aragón",
+   "vender proindiviso aragón",
+   "empresas que compran proindivisos en aragón",
+   "consorcio foral vender parte herencia"
+  ]
+ },
+ {
+  "slug": "huesca",
+  "nombre": "Huesca",
+  "tipo": "provincia",
+  "padre": "aragon",
+  "en": "en la provincia de Huesca",
+  "poblacion": "cerca de 230.000 habitantes en la provincia y unos 55.000 en la capital (orientativo)",
+  "precio_m2": "unos 1.500 €/m² en la capital, con Jaca y el valle de Benasque por encima (orientativo, 2026)",
+  "zonas": [
+   "Casco Antiguo",
+   "Perpetuo Socorro",
+   "Hoya de Huesca",
+   "Monzón",
+   "Barbastro",
+   "Fraga",
+   "Jaca",
+   "Sabiñánigo",
+   "Binéfar",
+   "Benasque",
+   "Somontano",
+   "Monegros",
+   "Sobrarbe",
+   "Ribagorza"
+  ],
+  "municipios": [
+   "Huesca",
+   "Monzón",
+   "Barbastro",
+   "Fraga",
+   "Jaca",
+   "Sabiñánigo",
+   "Binéfar",
+   "Sariñena",
+   "Graus",
+   "Tamarite de Litera",
+   "Benasque",
+   "Almudévar",
+   "Grañén",
+   "Aínsa-Sobrarbe",
+   "Biescas",
+   "Boltaña",
+   "Ayerbe",
+   "Castejón de Sos",
+   "Sallent de Gállego",
+   "Canfranc"
+  ],
+  "mercado": "Huesca capital se mueve en torno a 1.500 €/m², orientativo, con pisos de los 70 en el Perpetuo Socorro. Lo que distingue a la provincia es el Pirineo: apartamentos de esquí en Sallent, Formigal, Benasque, Cerler, Jaca y Canfranc comprados por familias de Zaragoza y el País Vasco. Al sur, fincas de regadío en el Cinca y la Litera; en el Sobrarbe, casas de piedra en pueblos medio vacíos.",
+  "angulo": "El apartamento de esquí es el proindiviso oscense por excelencia: lo compraron unos padres de Zaragoza en los 80 y hoy lo heredan tres hijos que no coinciden ni en fechas ni en gastos. Después vienen las casas de pueblo del Sobrarbe, la Ribagorza y los Monegros repartidas entre primos que viven en Barcelona o Zaragoza. Y en muchas de estas herencias hay consorcio foral sin disolver desde los abuelos.",
+  "tramites": "Los Registros de la Propiedad están en Huesca, Barbastro, Boltaña, Fraga, Jaca, Monzón, Sariñena, Tamarite de Litera y Benabarre. El ITP se liquida en la Dirección General de Tributos del Gobierno de Aragón al 8 % o 10 % según el valor; la extinción de condominio paga AJD al 1,5 %. La plusvalía municipal depende de cada ayuntamiento y en pueblos pequeños no suele aplicarse.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi tercio de un apartamento en Formigal o Cerler?",
+    "Entre el 40 % y el 70 % del valor proporcional, sobre el precio real de esa urbanización, que en Sallent o Benasque es alto. Oferta por escrito en 48 horas."
+   ],
+   [
+    "La casa de mis abuelos en el Sobrarbe es de ocho primos y nadie la usa. ¿Compráis una octava parte?",
+    "Sí. Compramos cuotas pequeñas de casas de pueblo en Aínsa, Boltaña, Graus o cualquier municipio del Sobrarbe y la Ribagorza, aunque la casa necesite tejado."
+   ],
+   [
+    "¿Hay que ir a Huesca a firmar?",
+    "No. Firmamos en la notaría que te venga bien, en Zaragoza, Barcelona o donde vivas, o con poder. Nosotros preparamos la documentación, liquidamos el ITP y pagamos el día de la firma."
+   ]
+  ],
+  "kw": [
+   "proindivisos huesca",
+   "vender proindiviso huesca",
+   "empresas que compran proindivisos en huesca",
+   "vender parte de apartamento formigal"
+  ]
+ },
+ {
+  "slug": "teruel",
+  "nombre": "Teruel",
+  "tipo": "provincia",
+  "padre": "aragon",
+  "en": "en la provincia de Teruel",
+  "poblacion": "cerca de 135.000 habitantes en la provincia y unos 36.000 en la capital (orientativo)",
+  "precio_m2": "unos 1.200 €/m² en la capital, con muchos pueblos muy por debajo (orientativo, 2026)",
+  "zonas": [
+   "Centro Histórico",
+   "Ensanche",
+   "San Julián",
+   "Alcañiz",
+   "Andorra",
+   "Calamocha",
+   "Utrillas",
+   "Bajo Aragón",
+   "Matarraña",
+   "Jiloca",
+   "Gúdar-Javalambre",
+   "Maestrazgo",
+   "Cuencas Mineras",
+   "Albarracín"
+  ],
+  "municipios": [
+   "Teruel",
+   "Alcañiz",
+   "Andorra",
+   "Calamocha",
+   "Utrillas",
+   "Valderrobres",
+   "Monreal del Campo",
+   "Alcorisa",
+   "Calanda",
+   "Cella",
+   "Híjar",
+   "Albarracín",
+   "Mora de Rubielos",
+   "Montalbán",
+   "Sarrión",
+   "Mas de las Matas",
+   "Alcalá de la Selva",
+   "Castellote"
+  ],
+  "mercado": "Teruel es la provincia menos poblada de España y su mercado lo dice todo: la capital ronda los 1.200 €/m², orientativo, y en pueblos del Jiloca o el Maestrazgo hay casas de tres plantas por el precio de un coche. Las excepciones son el Matarraña, con demanda de compradores catalanes, y las estaciones de Valdelinares y Javalambre.",
+  "angulo": "Teruel se vació hacia Zaragoza, Valencia y Barcelona, y cada familia que se fue dejó una casa en el pueblo. Dos generaciones después esa casa en Cella, Calanda o Mosqueruela es de ocho o diez primos que no acuerdan ni arreglar el tejado. Ese es nuestro proindiviso más habitual aquí. En las Cuencas Mineras y Andorra compramos cuotas de pisos que perdieron valor tras cerrar las minas y la térmica. Y con frecuencia aparece un consorcio foral que nadie disolvió desde los abuelos.",
+  "tramites": "Los Registros de la Propiedad están en Teruel, Alcañiz, Calamocha, Albarracín, Montalbán, Híjar, Valderrobres, Mora de Rubielos y Aliaga. El ITP se liquida en la Dirección General de Tributos del Gobierno de Aragón al 8 % en la mayoría de operaciones por su valor; la extinción de condominio paga AJD al 1,5 %. En la mayoría de pueblos no hay plusvalía municipal. Revisamos con tu notario si hay consorcio foral o pacto sucesorio que afecte a tu cuota.",
+  "faq": [
+   [
+    "¿Cuánto vale mi parte de una casa de pueblo en Teruel?",
+    "Depende mucho del pueblo y del estado: no es igual Albarracín o Valderrobres que un pueblo del Jiloca. Pagamos entre el 40 % y el 70 % del valor proporcional de tu cuota y te lo decimos por escrito en 48 horas, sin compromiso."
+   ],
+   [
+    "Somos diez primos con una casa en el Maestrazgo. ¿Compráis una décima parte?",
+    "Sí. Compramos cuotas pequeñas de casas en Cantavieja, Mosqueruela, Villarluengo y el resto del Maestrazgo aunque la casa esté sin usar hace años."
+   ],
+   [
+    "¿Compráis pisos en Andorra o Utrillas que valen poco?",
+    "Sí. Compramos cuotas de pisos en las Cuencas Mineras y en Andorra, Alcorisa o Calanda aunque el valor sea bajo."
+   ]
+  ],
+  "kw": [
+   "proindivisos teruel",
+   "vender proindiviso teruel",
+   "empresas que compran proindivisos en teruel",
+   "vender parte de casa de pueblo teruel"
+  ]
+ },
+ {
+  "slug": "zaragoza",
+  "nombre": "Zaragoza",
+  "tipo": "provincia",
+  "padre": "aragon",
+  "en": "en Zaragoza",
+  "poblacion": "cerca de 980.000 habitantes en la provincia y unos 680.000 en la capital (orientativo)",
+  "precio_m2": "unos 2.000 €/m² en la capital (orientativo, 2026)",
+  "zonas": [
+   "Delicias",
+   "Las Fuentes",
+   "San José",
+   "Torrero",
+   "La Almozara",
+   "Actur",
+   "Casco Histórico",
+   "El Rabal",
+   "Valdefierro",
+   "Centro",
+   "Calatayud",
+   "Cinco Villas",
+   "Campo de Cariñena",
+   "Tarazona"
+  ],
+  "municipios": [
+   "Zaragoza",
+   "Calatayud",
+   "Utebo",
+   "Ejea de los Caballeros",
+   "Cuarte de Huerva",
+   "Tarazona",
+   "Caspe",
+   "Zuera",
+   "La Almunia de Doña Godina",
+   "Tauste",
+   "Villanueva de Gállego",
+   "María de Huerva",
+   "Borja",
+   "Alagón",
+   "La Muela",
+   "Cadrete",
+   "Épila",
+   "Illueca",
+   "Pedrola",
+   "Fuentes de Ebro",
+   "Cariñena",
+   "Daroca"
+  ],
+  "mercado": "Zaragoza capital ronda los 2.000 €/m², orientativo, y su barrio más grande, Delicias, es también el que más proindivisos genera: pisos de 60 a 80 m² de los años 60 y 70, muchos sin ascensor. Las Fuentes, San José y Torrero repiten el patrón; el Actur y el Centro son más caros. En la provincia, Calatayud, Ejea, Tarazona o Caspe mantienen casas de pueblo baratas y fincas de regadío y viñedo.",
+  "angulo": "Delicias y Las Fuentes se llenaron en los 60 de familias que llegaron de los pueblos de Teruel, Soria y la propia provincia, y esos pisos se heredan hoy entre hermanos que forman, sin saberlo, un consorcio foral. Compramos esas cuotas cuando uno vive dentro y los demás quieren su parte. Fuera de la capital, compramos cuotas de la casa de los abuelos en Calatayud, Daroca o Borja y de fincas de regadío en Ejea que nadie trabaja.",
+  "tramites": "Zaragoza capital tiene varios Registros de la Propiedad por zonas y Calatayud, Ejea, Caspe, Tarazona o Daroca tienen el suyo. El ITP de la cuota se liquida en la Dirección General de Tributos del Gobierno de Aragón al 8 % hasta cierto valor y al 10 % por encima; la extinción de condominio tributa por AJD al 1,5 %. La plusvalía municipal del Ayuntamiento de Zaragoza se calcula antes de ofertar.",
+  "faq": [
+   [
+    "¿Cuánto me dais por mi tercio de un piso en Delicias?",
+    "Entre el 40 % y el 70 % de lo que vale ese tercio a precio real de Delicias. Oferta por escrito en 48 horas."
+   ],
+   [
+    "Heredamos de mis padres sin hacer partición y mi hermano dice que no puedo vender por el consorcio foral. ¿Es cierto?",
+    "Mientras exista el consorcio, no puedes vender a un extraño sin el consentimiento de tus hermanos. Pero el consorcio se puede disolver pidiendo la partición. Lo tramitamos con tu notario y después compramos tu cuota."
+   ],
+   [
+    "¿Compráis en los pueblos de la provincia de Zaragoza?",
+    "Sí: Calatayud, Ejea, Tarazona, Caspe, Daroca, Borja, La Almunia y cualquier otro municipio, también fincas de regadío y viñedo."
+   ]
+  ],
+  "kw": [
+   "proindivisos zaragoza",
+   "vender proindiviso zaragoza",
+   "empresas que compran proindivisos en zaragoza",
+   "vender parte de un piso zaragoza"
+  ]
+ }
+]

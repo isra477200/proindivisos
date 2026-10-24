@@ -1,0 +1,886 @@
+{
+ "nuevos": [
+  {
+   "slug": "actio-communi-dividundo",
+   "focus_kw": "actio communi dividundo",
+   "title_corto": "Actio communi dividundo",
+   "termino": "Actio communi dividundo",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Nombre latino de la acción de división de cosa común (art. 400 CC): quién puede ejercerla, cuándo, qué pide, plazos; alternativa de vender la cuota."
+  },
+  {
+   "slug": "adjudicacion-de-un-inmueble",
+   "focus_kw": "adjudicación de un inmueble",
+   "title_corto": "Adjudicación",
+   "termino": "Adjudicación",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es adjudicar un bien en una herencia, una extinción de condominio o una subasta; adjudicatario; efectos fiscales; ejemplo con una vivienda y dos herederos."
+  },
+  {
+   "slug": "afeccion-fiscal",
+   "focus_kw": "nota de afección fiscal",
+   "title_corto": "Afección fiscal",
+   "termino": "Afección fiscal",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "La nota de afección en el Registro tras una herencia o compraventa: qué garantiza, 5 años, cómo afecta al comprador de una cuota y cómo se cancela."
+  },
+  {
+   "slug": "ajd-actos-juridicos-documentados",
+   "focus_kw": "actos jurídicos documentados",
+   "title_corto": "AJD",
+   "termino": "AJD",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué grava, cuándo se paga en operaciones con cuotas (extinción de condominio, hipoteca), tipos por comunidad, base, quién lo paga."
+  },
+  {
+   "slug": "albacea",
+   "focus_kw": "albacea",
+   "title_corto": "Albacea",
+   "termino": "Albacea",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué hace el albacea, qué poderes tiene y cuáles no, plazos, relación con los herederos que quieren vender su parte."
+  },
+  {
+   "slug": "anotacion-preventiva-de-embargo",
+   "focus_kw": "anotación preventiva de embargo",
+   "title_corto": "Anotación preventiva de embargo",
+   "termino": "Anotación preventiva de embargo",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, cómo aparece en la nota simple, caducidad a los 4 años, cómo afecta a la venta de una cuota embargada o de la cuota del vecino."
+  },
+  {
+   "slug": "contrato-de-arras",
+   "focus_kw": "contrato de arras",
+   "title_corto": "Arras",
+   "termino": "Arras",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Arras penitenciales, confirmatorias y penales; qué pasa al vender una cuota indivisa; cuánto se entrega; por qué nosotros no las pedimos."
+  },
+  {
+   "slug": "aceptacion-de-la-herencia",
+   "focus_kw": "aceptación de la herencia",
+   "title_corto": "Aceptación de la herencia",
+   "termino": "Aceptación de la herencia",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Expresa, tácita, pura y simple o a beneficio de inventario; cuándo se entiende aceptada; qué permite hacer con la cuota heredada."
+  },
+  {
+   "slug": "administrador-de-la-comunidad-de-bienes",
+   "focus_kw": "administrador de la comunidad de bienes",
+   "title_corto": "Administrador de la comunidad",
+   "termino": "Administrador de la comunidad",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Quién administra una casa compartida, mayorías (art. 398 CC), rendición de cuentas, cuándo lo nombra el juez."
+  },
+  {
+   "slug": "bien-indivisible",
+   "focus_kw": "bien indivisible",
+   "title_corto": "Bien indivisible",
+   "termino": "Bien indivisible",
+   "letra": "B",
+   "category": null,
+   "kind": "page",
+   "angulo": "Cuándo un inmueble es indivisible (art. 401 y 1062 CC), consecuencias: adjudicación a uno con compensación o venta en subasta; no hay ITP."
+  },
+  {
+   "slug": "cargas-registrales",
+   "focus_kw": "cargas registrales",
+   "title_corto": "Cargas registrales",
+   "termino": "Cargas registrales",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Hipotecas, embargos, afecciones, servidumbres, condiciones resolutorias: cómo leerlas, cómo afectan al precio de una cuota y quién las cancela."
+  },
+  {
+   "slug": "referencia-catastral",
+   "focus_kw": "referencia catastral",
+   "title_corto": "Referencia catastral",
+   "termino": "Referencia catastral",
+   "letra": "R",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, dónde está, para qué sirve al vender una parte, qué pasa si Catastro y Registro no coinciden."
+  },
+  {
+   "slug": "cesion-de-derechos-hereditarios",
+   "focus_kw": "cesión de derechos hereditarios",
+   "title_corto": "Cesión de derechos hereditarios",
+   "termino": "Cesión de derechos hereditarios",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Vender el derecho a la herencia antes de partir: escritura, precio, impuestos, retracto de coherederos; cómo lo compramos."
+  },
+  {
+   "slug": "copropietario",
+   "focus_kw": "copropietario",
+   "title_corto": "Copropietario",
+   "termino": "Copropietario",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es un copropietario o comunero, derechos (uso, frutos, disposición de su cuota) y obligaciones (gastos, conservación), cómo deja de serlo."
+  },
+  {
+   "slug": "compensacion-en-metalico",
+   "focus_kw": "compensación en metálico",
+   "title_corto": "Compensación en metálico",
+   "termino": "Compensación en metálico",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "El pago al comunero que sale cuando el bien es indivisible: cómo se calcula, fiscalidad, qué pasa si no hay dinero para compensar."
+  },
+  {
+   "slug": "condominio",
+   "focus_kw": "condominio",
+   "title_corto": "Condominio",
+   "termino": "Condominio",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Sinónimo de proindiviso/comunidad de bienes; diferencias con la propiedad horizontal; cómo se extingue; ejemplo."
+  },
+  {
+   "slug": "cuota-indivisa",
+   "focus_kw": "cuota indivisa",
+   "title_corto": "Cuota indivisa",
+   "termino": "Cuota indivisa",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "La parte ideal de cada dueño: qué da y qué no, cómo se vende sin permiso de los demás (art. 399 CC), cómo se valora."
+  },
+  {
+   "slug": "cuota-de-participacion",
+   "focus_kw": "cuota de participación",
+   "title_corto": "Cuota de participación",
+   "termino": "Cuota de participación",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Diferencia entre la cuota de participación en propiedad horizontal y la cuota indivisa; para qué sirve cada una; errores habituales."
+  },
+  {
+   "slug": "colacion-hereditaria",
+   "focus_kw": "colación hereditaria",
+   "title_corto": "Colación",
+   "termino": "Colación",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Donaciones en vida que se traen a la herencia: qué se coloca, quién puede exigirla, efecto sobre lo que le toca a cada hermano."
+  },
+  {
+   "slug": "cautela-socini",
+   "focus_kw": "cautela socini",
+   "title_corto": "Cautela socini",
+   "termino": "Cautela socini",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Cláusula testamentaria que deja al viudo el usufructo universal: qué implica para los hijos, opción de la legítima estricta, efectos sobre la venta."
+  },
+  {
+   "slug": "certificado-de-ultimas-voluntades",
+   "focus_kw": "certificado de últimas voluntades",
+   "title_corto": "Certificado de últimas voluntades",
+   "termino": "Certificado de últimas voluntades",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, cómo se pide (modelo 790, 15 días), qué informa, por qué es el primer paso para vender una parte heredada."
+  },
+  {
+   "slug": "certificado-de-defuncion",
+   "focus_kw": "certificado de defunción",
+   "title_corto": "Certificado de defunción",
+   "termino": "Certificado de defunción",
+   "letra": "C",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tipos, cómo pedirlo gratis, para qué trámites hace falta en una herencia con vivienda."
+  },
+  {
+   "slug": "declaracion-de-herederos-abintestato",
+   "focus_kw": "declaración de herederos abintestato",
+   "title_corto": "Declaración de herederos",
+   "termino": "Declaración de herederos",
+   "letra": "D",
+   "category": null,
+   "kind": "page",
+   "angulo": "Sin testamento: acta notarial, documentos, plazo de 20 días, coste; qué puede hacer cada heredero después con su cuota."
+  },
+  {
+   "slug": "derecho-de-adquisicion-preferente",
+   "focus_kw": "derecho de adquisición preferente",
+   "title_corto": "Derecho de adquisición preferente",
+   "termino": "Derecho de adquisición preferente",
+   "letra": "D",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tanteo y retracto: quién los tiene (comuneros, coherederos, inquilinos), plazos, cómo afectan a la venta de una cuota."
+  },
+  {
+   "slug": "derecho-hereditario",
+   "focus_kw": "derecho hereditario",
+   "title_corto": "Derecho hereditario",
+   "termino": "Derecho hereditario",
+   "letra": "D",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué se tiene antes de la partición (derecho abstracto sobre el conjunto), cómo se vende, fiscalidad, diferencia con la cuota sobre un bien."
+  },
+  {
+   "slug": "division-material",
+   "focus_kw": "división material",
+   "title_corto": "División material",
+   "termino": "División material",
+   "letra": "D",
+   "category": null,
+   "kind": "page",
+   "angulo": "Dividir físicamente el inmueble (segregación, división horizontal) frente a venderlo: requisitos urbanísticos, costes, cuándo es viable."
+  },
+  {
+   "slug": "atribucion-del-uso-de-la-vivienda-familiar",
+   "focus_kw": "atribución del uso de la vivienda familiar",
+   "title_corto": "Atribución del uso de la vivienda",
+   "termino": "Atribución del uso de la vivienda",
+   "letra": "A",
+   "category": null,
+   "kind": "page",
+   "angulo": "Uso para los hijos tras el divorcio (art. 96 CC): duración, límites, efecto en el valor de la cuota del que no vive allí."
+  },
+  {
+   "slug": "escritura-publica",
+   "focus_kw": "escritura pública",
+   "title_corto": "Escritura pública",
+   "termino": "Escritura pública",
+   "letra": "E",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, qué otorga el notario al vender una cuota, copias simples y autorizadas, coste orientativo, inscripción."
+  },
+  {
+   "slug": "ejecucion-hipotecaria",
+   "focus_kw": "ejecución hipotecaria",
+   "title_corto": "Ejecución hipotecaria",
+   "termino": "Ejecución hipotecaria",
+   "letra": "E",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué pasa cuando no se paga la hipoteca de una casa compartida: fases, plazos, cómo afecta a cada copropietario, salidas antes de la subasta."
+  },
+  {
+   "slug": "expediente-de-dominio",
+   "focus_kw": "expediente de dominio",
+   "title_corto": "Expediente de dominio",
+   "termino": "Expediente de dominio",
+   "letra": "E",
+   "category": null,
+   "kind": "page",
+   "angulo": "Para inmuebles sin inscribir o con tracto roto: qué es, ante quién se tramita, coste y tiempo, cuándo hace falta para vender una parte."
+  },
+  {
+   "slug": "frutos-y-rentas-de-la-cosa-comun",
+   "focus_kw": "frutos de la cosa común",
+   "title_corto": "Frutos y rentas",
+   "termino": "Frutos y rentas",
+   "letra": "F",
+   "category": null,
+   "kind": "page",
+   "angulo": "Alquileres y rendimientos de un bien compartido: reparto por cuotas (art. 393 CC), reclamación al que cobra todo, fiscalidad."
+  },
+  {
+   "slug": "finca-registral",
+   "focus_kw": "finca registral",
+   "title_corto": "Finca registral",
+   "termino": "Finca registral",
+   "letra": "F",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, número de finca, IDUFIR/CRU, cómo localizarla, por qué importa al vender una cuota."
+  },
+  {
+   "slug": "liquidacion-de-gananciales",
+   "focus_kw": "liquidación de gananciales",
+   "title_corto": "Liquidación de gananciales",
+   "termino": "Liquidación de gananciales",
+   "letra": "L",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tras el divorcio: inventario, avalúo, adjudicaciones, qué pasa con la vivienda, cuándo nace un proindiviso."
+  },
+  {
+   "slug": "gestoria-en-una-herencia",
+   "focus_kw": "gestoría en una herencia",
+   "title_corto": "Gestoría",
+   "termino": "Gestoría",
+   "letra": "G",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué hace la gestoría (impuestos, Registro, Catastro), cuánto cobra, cuándo es obligatoria en la práctica, cuándo no hace falta."
+  },
+  {
+   "slug": "heredero-forzoso",
+   "focus_kw": "heredero forzoso",
+   "title_corto": "Heredero forzoso",
+   "termino": "Heredero forzoso",
+   "letra": "H",
+   "category": null,
+   "kind": "page",
+   "angulo": "Quiénes son (descendientes, ascendientes, cónyuge), qué parte les corresponde, cómo reclamar, efectos en la venta de la cuota."
+  },
+  {
+   "slug": "hipoteca-compartida",
+   "focus_kw": "hipoteca compartida",
+   "title_corto": "Hipoteca compartida",
+   "termino": "Hipoteca compartida",
+   "letra": "H",
+   "category": null,
+   "kind": "page",
+   "angulo": "Varios titulares, deuda solidaria, qué pasa si uno vende su cuota, novación, liberación de deudor."
+  },
+  {
+   "slug": "impuesto-de-sucesiones",
+   "focus_kw": "impuesto de sucesiones",
+   "title_corto": "Impuesto de sucesiones",
+   "termino": "Impuesto de sucesiones",
+   "letra": "I",
+   "category": null,
+   "kind": "page",
+   "angulo": "Quién lo paga, plazo de 6 meses, reducciones por parentesco y comunidad, qué pasa si no se liquida; necesario para vender la parte heredada."
+  },
+  {
+   "slug": "inscripcion-registral",
+   "focus_kw": "inscripción registral",
+   "title_corto": "Inscripción registral",
+   "termino": "Inscripción registral",
+   "letra": "I",
+   "category": null,
+   "kind": "page",
+   "angulo": "Inscribir la herencia o la compra de una cuota: documentos, plazos, coste, qué pasa si no se inscribe."
+  },
+  {
+   "slug": "indivision",
+   "focus_kw": "indivisión",
+   "title_corto": "Indivisión",
+   "termino": "Indivisión",
+   "letra": "I",
+   "category": null,
+   "kind": "page",
+   "angulo": "Estado de un bien sin dividir; nadie está obligado a permanecer en ella (art. 400 CC); pacto de indivisión; salidas."
+  },
+  {
+   "slug": "inventario-de-la-herencia",
+   "focus_kw": "inventario de la herencia",
+   "title_corto": "Inventario de la herencia",
+   "termino": "Inventario de la herencia",
+   "letra": "I",
+   "category": null,
+   "kind": "page",
+   "angulo": "Relación de bienes y deudas: cómo se hace, quién lo firma, valor de cada bien, base para repartir o vender."
+  },
+  {
+   "slug": "juicio-verbal",
+   "focus_kw": "juicio verbal",
+   "title_corto": "Juicio verbal",
+   "termino": "Juicio verbal",
+   "letra": "J",
+   "category": null,
+   "kind": "page",
+   "angulo": "El procedimiento de la división de cosa común y del precario: fases, plazos orientativos, abogado y procurador, recurso."
+  },
+  {
+   "slug": "legitima",
+   "focus_kw": "legítima",
+   "title_corto": "Legítima",
+   "termino": "Legítima",
+   "letra": "L",
+   "category": null,
+   "kind": "page",
+   "angulo": "Dos tercios para los hijos (estricta y mejora), legítima del viudo; cómo se calcula y qué pasa si el testamento la vulnera."
+  },
+  {
+   "slug": "legado",
+   "focus_kw": "legado",
+   "title_corto": "Legado",
+   "termino": "Legado",
+   "letra": "L",
+   "category": null,
+   "kind": "page",
+   "angulo": "Dejar un bien concreto a alguien: legatario vs heredero, entrega del legado, qué pasa si el bien está en proindiviso."
+  },
+  {
+   "slug": "libre-disposicion-de-la-cuota",
+   "focus_kw": "libre disposición de la cuota",
+   "title_corto": "Libre disposición de la cuota",
+   "termino": "Libre disposición de la cuota",
+   "letra": "L",
+   "category": null,
+   "kind": "page",
+   "angulo": "Art. 399 CC: cada comunero puede vender, ceder o hipotecar su parte sin permiso; límites (retracto) y consecuencias."
+  },
+  {
+   "slug": "mayoria-de-cuotas",
+   "focus_kw": "mayoría de cuotas",
+   "title_corto": "Mayoría de cuotas",
+   "termino": "Mayoría de cuotas",
+   "letra": "M",
+   "category": null,
+   "kind": "page",
+   "angulo": "Acuerdos de administración por mayoría de intereses (art. 398 CC) y unanimidad para disponer (art. 397); ejemplos de qué se vota."
+  },
+  {
+   "slug": "mediacion-civil",
+   "focus_kw": "mediación civil",
+   "title_corto": "Mediación civil",
+   "termino": "Mediación civil",
+   "letra": "M",
+   "category": null,
+   "kind": "page",
+   "angulo": "Mediador, sesión informativa, acuerdos entre copropietarios, coste y plazos; cuándo sirve y cuándo no."
+  },
+  {
+   "slug": "modelo-650",
+   "focus_kw": "modelo 650",
+   "title_corto": "Modelo 650",
+   "termino": "Modelo 650",
+   "letra": "M",
+   "category": null,
+   "kind": "page",
+   "angulo": "Autoliquidación del impuesto de sucesiones: plazos, documentos, dónde se presenta según comunidad, errores."
+  },
+  {
+   "slug": "modelo-211",
+   "focus_kw": "modelo 211",
+   "title_corto": "Modelo 211",
+   "termino": "Modelo 211",
+   "letra": "M",
+   "category": null,
+   "kind": "page",
+   "angulo": "Retención del 3 % al comprar a un no residente: quién lo presenta, plazo, cómo afecta al precio de una cuota."
+  },
+  {
+   "slug": "novacion-hipotecaria",
+   "focus_kw": "novación hipotecaria",
+   "title_corto": "Novación hipotecaria",
+   "termino": "Novación hipotecaria",
+   "letra": "N",
+   "category": null,
+   "kind": "page",
+   "angulo": "Cambiar titulares o condiciones de la hipoteca al salir un copropietario: comisión, notaría, aceptación del banco."
+  },
+  {
+   "slug": "vender-un-inmueble-siendo-no-residente",
+   "focus_kw": "vender un inmueble siendo no residente",
+   "title_corto": "No residente",
+   "termino": "No residente",
+   "letra": "N",
+   "category": null,
+   "kind": "page",
+   "angulo": "Vender una cuota desde fuera de España: NIE, retención del 3 %, modelo 210, poder notarial, cómo lo gestionamos."
+  },
+  {
+   "slug": "notario",
+   "focus_kw": "notario",
+   "title_corto": "Notario",
+   "termino": "Notario",
+   "letra": "N",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué hace al vender una cuota, elección libre, arancel, qué comprueba, copias; en nuestras compras lo pagamos nosotros."
+  },
+  {
+   "slug": "oferta-vinculante",
+   "focus_kw": "oferta vinculante",
+   "title_corto": "Oferta vinculante",
+   "termino": "Oferta vinculante",
+   "letra": "O",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué compromete y qué no, plazo de validez, diferencia con una señal; cómo leer una oferta por una cuota."
+  },
+  {
+   "slug": "opcion-de-compra",
+   "focus_kw": "opción de compra",
+   "title_corto": "Opción de compra",
+   "termino": "Opción de compra",
+   "letra": "O",
+   "category": null,
+   "kind": "page",
+   "angulo": "Prima, plazo, ejercicio; usos en proindivisos (dar tiempo a un hermano para comprar); riesgos."
+  },
+  {
+   "slug": "particion-de-la-herencia",
+   "focus_kw": "partición de la herencia",
+   "title_corto": "Partición de la herencia",
+   "termino": "Partición de la herencia",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "Convencional, por contador partidor o judicial; cuaderno particional; adjudicaciones; vender antes de partir."
+  },
+  {
+   "slug": "plusvalia-municipal",
+   "focus_kw": "plusvalía municipal",
+   "title_corto": "Plusvalía municipal",
+   "termino": "Plusvalía municipal",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "IIVTNU: cuándo se paga (venta, herencia), cuándo no (extinción de condominio, pérdida), cálculo real vs objetivo, plazos."
+  },
+  {
+   "slug": "poder-notarial-para-vender",
+   "focus_kw": "poder notarial para vender",
+   "title_corto": "Poder notarial",
+   "termino": "Poder notarial",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "Poder especial para vender una cuota: contenido, coste, desde el extranjero (consulado, apostilla), revocación."
+  },
+  {
+   "slug": "precario",
+   "focus_kw": "precario",
+   "title_corto": "Precario",
+   "termino": "Precario",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "Ocupación sin título ni renta (familiar en la casa heredada): cómo se acaba, desahucio por precario, plazos."
+  },
+  {
+   "slug": "propiedad-horizontal",
+   "focus_kw": "propiedad horizontal",
+   "title_corto": "Propiedad horizontal",
+   "termino": "Propiedad horizontal",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "Diferencia con el proindiviso: elementos privativos y comunes, cuota de participación, comunidad de propietarios; cuándo conviven ambos."
+  },
+  {
+   "slug": "posesion",
+   "focus_kw": "posesión",
+   "title_corto": "Posesión",
+   "termino": "Posesión",
+   "letra": "P",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tener el bien frente a ser dueño: posesión de un copropietario, interdictos, cambio de cerradura, usucapión."
+  },
+  {
+   "slug": "registro-de-la-propiedad",
+   "focus_kw": "registro de la propiedad",
+   "title_corto": "Registro de la Propiedad",
+   "termino": "Registro de la Propiedad",
+   "letra": "R",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué inscribe, nota simple y certificación, publicidad, cuándo acudir al vender o heredar una parte."
+  },
+  {
+   "slug": "segregacion-de-finca",
+   "focus_kw": "segregación de finca",
+   "title_corto": "Segregación",
+   "termino": "Segregación",
+   "letra": "S",
+   "category": null,
+   "kind": "page",
+   "angulo": "Separar una porción de finca para repartir un proindiviso: licencia, parcela mínima, escritura, costes; cuándo no es posible."
+  },
+  {
+   "slug": "separacion-de-bienes",
+   "focus_kw": "separación de bienes",
+   "title_corto": "Separación de bienes",
+   "termino": "Separación de bienes",
+   "letra": "S",
+   "category": null,
+   "kind": "page",
+   "angulo": "Régimen en el que cada cónyuge es dueño de lo suyo: la casa comprada a medias es un proindiviso; qué pasa al separarse."
+  },
+  {
+   "slug": "tasacion-de-una-vivienda",
+   "focus_kw": "tasación de una vivienda",
+   "title_corto": "Tasación",
+   "termino": "Tasación",
+   "letra": "T",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tasación oficial vs valoración; para qué sirve en herencias, extinción y subasta; coste; cómo valoramos nosotros una cuota."
+  },
+  {
+   "slug": "testamento",
+   "focus_kw": "testamento",
+   "title_corto": "Testamento",
+   "termino": "Testamento",
+   "letra": "T",
+   "category": null,
+   "kind": "page",
+   "angulo": "Tipos, dónde consta, qué puede imponer sobre la vivienda (prohibición de dividir, usufructo), qué no puede."
+  },
+  {
+   "slug": "titulo-de-propiedad",
+   "focus_kw": "título de propiedad",
+   "title_corto": "Título de propiedad",
+   "termino": "Título de propiedad",
+   "letra": "T",
+   "category": null,
+   "kind": "page",
+   "angulo": "Escritura, herencia, sentencia: qué documento acredita la cuota, cómo recuperarlo si se perdió, nota simple."
+  },
+  {
+   "slug": "tracto-sucesivo",
+   "focus_kw": "tracto sucesivo",
+   "title_corto": "Tracto sucesivo",
+   "termino": "Tracto sucesivo",
+   "letra": "T",
+   "category": null,
+   "kind": "page",
+   "angulo": "Principio registral: para inscribir hay que venir del titular anterior; herencias sin inscribir y cómo se reanuda."
+  },
+  {
+   "slug": "usufructo",
+   "focus_kw": "usufructo",
+   "title_corto": "Usufructo",
+   "termino": "Usufructo",
+   "letra": "U",
+   "category": null,
+   "kind": "page",
+   "angulo": "Derecho a usar y disfrutar sin ser dueño: usufructo del viudo, valor por edad (89 - edad), extinción, venta de la nuda cuota."
+  },
+  {
+   "slug": "usucapion",
+   "focus_kw": "usucapión",
+   "title_corto": "Usucapión",
+   "termino": "Usucapión",
+   "letra": "U",
+   "category": null,
+   "kind": "page",
+   "angulo": "Adquirir por posesión continuada (10/20/30 años): si un hermano puede quedarse la casa por vivir en ella; requisitos reales."
+  },
+  {
+   "slug": "unanimidad-en-la-comunidad-de-bienes",
+   "focus_kw": "unanimidad en la comunidad de bienes",
+   "title_corto": "Unanimidad",
+   "termino": "Unanimidad",
+   "letra": "U",
+   "category": null,
+   "kind": "page",
+   "angulo": "Actos que exigen el acuerdo de todos (art. 397 CC): vender el inmueble entero, hipotecarlo, obras; qué pasa si uno se niega."
+  },
+  {
+   "slug": "valor-catastral",
+   "focus_kw": "valor catastral",
+   "title_corto": "Valor catastral",
+   "termino": "Valor catastral",
+   "letra": "V",
+   "category": null,
+   "kind": "page",
+   "angulo": "Qué es, cómo se consulta, diferencia con el valor de referencia y el de mercado, para qué impuestos sirve."
+  },
+  {
+   "slug": "venta-de-cuota-indivisa",
+   "focus_kw": "venta de cuota indivisa",
+   "title_corto": "Venta de cuota indivisa",
+   "termino": "Venta de cuota indivisa",
+   "letra": "V",
+   "category": null,
+   "kind": "page",
+   "angulo": "La operación que hacemos: escritura, precio, retracto, impuestos del vendedor, plazos; checklist."
+  },
+  {
+   "slug": "vivienda-habitual-a-efectos-fiscales",
+   "focus_kw": "vivienda habitual a efectos fiscales",
+   "title_corto": "Vivienda habitual",
+   "termino": "Vivienda habitual",
+   "letra": "V",
+   "category": null,
+   "kind": "page",
+   "angulo": "Requisitos (3 años), exenciones IRPF (reinversión, mayores de 65), tipos reducidos; efectos al vender una cuota."
+  }
+ ],
+ "existentes": [
+  {
+   "letra": "B",
+   "termino": "Beneficio de inventario",
+   "url": "/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/"
+  },
+  {
+   "letra": "C",
+   "termino": "Comunidad de bienes",
+   "url": "/blog/proindiviso-condominio-comunidad-de-bienes-diferencias/"
+  },
+  {
+   "letra": "C",
+   "termino": "Comunidad hereditaria",
+   "url": "/blog/comunidad-hereditaria-vs-proindiviso/"
+  },
+  {
+   "letra": "C",
+   "termino": "Cuaderno particional",
+   "url": "/blog/cuaderno-particional-que-es-y-para-que-sirve/"
+  },
+  {
+   "letra": "C",
+   "termino": "Contador partidor",
+   "url": "/blog/contador-partidor-herencia-sin-acuerdo/"
+  },
+  {
+   "letra": "C",
+   "termino": "Cuota hereditaria",
+   "url": "/blog/que-es-una-cuota-hereditaria/"
+  },
+  {
+   "letra": "D",
+   "termino": "División de cosa común",
+   "url": "/division-de-cosa-comun/"
+  },
+  {
+   "letra": "D",
+   "termino": "Desahucio por precario",
+   "url": "/blog/desahucio-por-precario-de-un-familiar-casa-heredada/"
+  },
+  {
+   "letra": "D",
+   "termino": "Donación de la cuota",
+   "url": "/blog/donar-mi-parte-de-un-proindiviso/"
+  },
+  {
+   "letra": "E",
+   "termino": "Embargo de la cuota",
+   "url": "/blog/embargo-de-una-cuota-de-proindiviso/"
+  },
+  {
+   "letra": "E",
+   "termino": "Extinción de condominio",
+   "url": "/extincion-de-condominio/"
+  },
+  {
+   "letra": "E",
+   "termino": "Exceso de adjudicación",
+   "url": "/blog/exceso-de-adjudicacion-en-la-extincion-de-condominio/"
+  },
+  {
+   "letra": "E",
+   "termino": "Escisión y cesación de condominio",
+   "url": "/blog/escision-cesacion-liquidacion-de-condominio-que-significan/"
+  },
+  {
+   "letra": "H",
+   "termino": "Herencia yacente",
+   "url": "/blog/herencia-yacente-vender-antes-de-la-particion/"
+  },
+  {
+   "letra": "I",
+   "termino": "IBI y gastos",
+   "url": "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+  },
+  {
+   "letra": "I",
+   "termino": "ITP",
+   "url": "/blog/itp-al-comprar-la-parte-de-un-piso/"
+  },
+  {
+   "letra": "I",
+   "termino": "IRPF (ganancia patrimonial)",
+   "url": "/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/"
+  },
+  {
+   "letra": "M",
+   "termino": "Multipropiedad",
+   "url": "/blog/multipropiedad-como-vender/"
+  },
+  {
+   "letra": "N",
+   "termino": "Nota simple",
+   "url": "/blog/nota-simple-como-pedirla-y-leerla/"
+  },
+  {
+   "letra": "N",
+   "termino": "Nuda propiedad",
+   "url": "/vender-nuda-propiedad/"
+  },
+  {
+   "letra": "O",
+   "termino": "Okupa",
+   "url": "/vender-proindiviso-con-inquilino-u-okupa/"
+  },
+  {
+   "letra": "P",
+   "termino": "Proindiviso",
+   "url": "/que-es-un-proindiviso/"
+  },
+  {
+   "letra": "P",
+   "termino": "Pacto de indivisión",
+   "url": "/blog/pacto-de-indivision-que-es-y-cuanto-dura/"
+  },
+  {
+   "letra": "P",
+   "termino": "Prescripción del impuesto de sucesiones",
+   "url": "/blog/herencia-prescrita-impuesto-de-sucesiones/"
+  },
+  {
+   "letra": "R",
+   "termino": "Retracto de comuneros",
+   "url": "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+  },
+  {
+   "letra": "R",
+   "termino": "Retracto de coherederos",
+   "url": "/blog/retracto-de-coherederos-que-es/"
+  },
+  {
+   "letra": "R",
+   "termino": "Renuncia a la herencia",
+   "url": "/blog/renunciar-a-la-herencia-o-vender-mi-parte/"
+  },
+  {
+   "letra": "S",
+   "termino": "Subasta judicial",
+   "url": "/blog/subasta-division-de-cosa-comun/"
+  },
+  {
+   "letra": "T",
+   "termino": "Tanteo",
+   "url": "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+  },
+  {
+   "letra": "U",
+   "termino": "Uso exclusivo (compensación)",
+   "url": "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+  },
+  {
+   "letra": "V",
+   "termino": "Valor de referencia",
+   "url": "/blog/valor-de-referencia-catastral-venta-de-tu-parte/"
+  },
+  {
+   "letra": "V",
+   "termino": "VPO",
+   "url": "/blog/vender-parte-de-una-vpo/"
+  }
+ ]
+}

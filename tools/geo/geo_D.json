@@ -1,0 +1,1822 @@
+[
+ {
+  "slug": "galicia",
+  "nombre": "Galicia",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Galicia",
+  "poblacion": "cerca de 2,7 millones de habitantes, la mitad en las provincias de A Coruña y Pontevedra",
+  "precio_m2": "unos 1.500 €/m² de media en la comunidad, con A Coruña y Vigo por encima de los 2.200 €/m² (orientativo, 2026)",
+  "zonas": [
+   "A Coruña",
+   "Vigo",
+   "Santiago de Compostela",
+   "Ourense",
+   "Lugo",
+   "Pontevedra",
+   "Ferrol",
+   "Rías Baixas",
+   "Costa da Morte",
+   "A Mariña",
+   "Terra Chá",
+   "Ribeira Sacra",
+   "O Salnés",
+   "Deza"
+  ],
+  "municipios": [
+   "Vigo",
+   "A Coruña",
+   "Ourense",
+   "Lugo",
+   "Santiago de Compostela",
+   "Pontevedra",
+   "Ferrol",
+   "Narón",
+   "Vilagarcía de Arousa",
+   "Oleiros",
+   "Carballo",
+   "Redondela",
+   "Arteixo",
+   "Culleredo",
+   "Ribeira",
+   "Ames",
+   "Marín",
+   "Cangas",
+   "Lalín",
+   "Ponteareas",
+   "Monforte de Lemos",
+   "Verín",
+   "O Barco de Valdeorras",
+   "Viveiro"
+  ],
+  "mercado": "Galicia tiene el parque de vivienda más repartido de España: casas de aldea, pisos en las siete ciudades y miles de fincas de pocos ferrados. El precio medio ronda los 1.500 €/m² orientativos, con A Coruña y Vigo por encima de 2.200 €/m². El proindiviso típico aquí es la casa, el alpendre y varias leiras repartidas entre primos.",
+  "angulo": "El minifundio y el reparto a partes iguales hacen que casi cada familia gallega tenga una cuota en algo que no usa. Un abuelo de la Terra Chá deja una casa y doce fincas a cinco hijos; dos viven en Suiza, uno en Buenos Aires y otro en Caracas, y nadie firma. Las cuotas acaban en 1/10 o 1/24 y no compensa el viaje para discutirlas.",
+  "tramites": "Compramos tu cuota en cualquier Registro de la Propiedad de Galicia, esté la finca en Ribeira o en Monforte. El ITP de la compra lo liquidamos nosotros ante la ATRIGA, al 8 % orientativo; la extinción de condominio posterior tributa por AJD al 1,5 %. La plusvalía la fija cada concello. La Ley de Derecho Civil de Galicia admite pactos de mejora y apartación, por eso a veces un hermano tiene más cuota que otro.",
+  "faq": [
+   [
+    "¿Compráis cuotas de fincas rústicas o solo de casas?",
+    "Las dos cosas, y en Galicia suelen venir juntas. Si heredaste una casa de aldea con sus leiras en Lugo o Ourense, valoramos el conjunto y te ofertamos por tu parte. Las fincas sin acceso valen poco sueltas, pero sumadas a la casa cambian el precio."
+   ],
+   [
+    "Mis hermanos viven en Suiza y Venezuela y no responden. ¿Puedo vender mi parte?",
+    "Sí. Tu cuota es tuya y la vendes sin que ellos firmen. Nosotros les notificamos la venta como exige la ley y después negociamos con ellos o pedimos la división. Tú cobras en notaría y te desentiendes."
+   ],
+   [
+    "¿Cuánto pagáis por una cuota en Galicia?",
+    "Entre el 40 % y el 70 % del valor proporcional de tu parte. Un tercio de un piso de 150.000 euros orientativos en A Coruña se mueve entre 20.000 y 35.000 euros."
+   ]
+  ],
+  "kw": [
+   "proindivisos galicia",
+   "vender proindiviso galicia",
+   "empresas que compran proindivisos en galicia",
+   "comprar cuota herencia galicia"
+  ]
+ },
+ {
+  "slug": "a-coruna",
+  "nombre": "A Coruña",
+  "tipo": "provincia",
+  "padre": "galicia",
+  "en": "en A Coruña",
+  "poblacion": "cerca de 1,1 millones de habitantes en la provincia y unos 245.000 en la ciudad",
+  "precio_m2": "unos 2.400 €/m² en la ciudad de A Coruña, bastante menos en Carballo o Betanzos (orientativo, 2026)",
+  "zonas": [
+   "Ciudad Vieja",
+   "Monte Alto",
+   "Os Mallos",
+   "Agra do Orzán",
+   "Elviña",
+   "Matogrande",
+   "Oleiros",
+   "Arteixo",
+   "Culleredo",
+   "Carballo",
+   "Betanzos",
+   "Ribeira",
+   "Costa da Morte",
+   "Barbanza"
+  ],
+  "municipios": [
+   "A Coruña",
+   "Santiago de Compostela",
+   "Ferrol",
+   "Narón",
+   "Oleiros",
+   "Carballo",
+   "Arteixo",
+   "Culleredo",
+   "Ames",
+   "Ribeira",
+   "Cambre",
+   "Boiro",
+   "Sada",
+   "Betanzos",
+   "Noia",
+   "Rianxo",
+   "Fene",
+   "Ordes",
+   "A Laracha",
+   "Teo"
+  ],
+  "mercado": "En la ciudad los proindivisos salen de pisos de los 60 y 70 en Os Mallos, Agra do Orzán, Monte Alto y Os Castros, con precios en torno a 2.400 €/m² orientativos y mucho más en Ciudad Vieja. En la provincia el mapa cambia: casas con finca en Bergantiños y el Barbanza, y segundas residencias en Sada, Oleiros y la ría de Ares.",
+  "angulo": "A Coruña creció en los 70 con bloques para obreros del puerto y de la refinería de Bens. Esos pisos se heredan entre tres o cuatro hermanos y a menudo uno vive dentro sin pagar a los demás. En Carballo, Ribeira o Boiro el problema es la casa de los padres más las leiras, con un hermano emigrado a Suiza o Londres que no contesta. En Oleiros y Sada hay chalets de verano comprados a medias entre cuñados que ya no se hablan. Te compramos la cuota en cualquiera de estos casos.",
+  "tramites": "La ciudad tiene varios Registros de la Propiedad por distritos, y hay Registros propios en Betanzos, Carballo, Ordes, Noia, Padrón y Ribeira. Liquidamos el ITP del 8 % orientativo ante la ATRIGA y asumimos notaría y gestoría. La plusvalía la calcula cada concello con las dos fórmulas del sistema estatal; tú eliges la que menos pague.",
+  "faq": [
+   [
+    "¿Cuánto vale mi parte de un piso en Os Mallos o en el Agra?",
+    "Un piso de 70 metros allí ronda los 150.000 euros orientativos. Un tercio heredado vale unos 50.000 euros de mercado y nosotros pagamos entre 20.000 y 35.000 euros al contado. Sube si hay ascensor o está reformado."
+   ],
+   [
+    "Heredé con mis primos una casa en Bergantiños que se cae. ¿La compráis igual?",
+    "Sí. Compramos cuotas de casas sin reformar en Carballo, Malpica, Laxe o Ponteceso aunque lleven años cerradas. Valoramos solar, finca anexa y estado real. Si falta la escritura de herencia, la tramitamos nosotros."
+   ],
+   [
+    "¿Trabajáis en toda la provincia o solo en la ciudad?",
+    "En toda, de Ferrol a Ribeira y de Cee a Melide. Firmamos en la notaría que te quede más cerca. Si vives fuera, puedes otorgar poder y no desplazarte."
+   ]
+  ],
+  "kw": [
+   "proindivisos a coruña",
+   "vender proindiviso a coruña",
+   "empresas que compran proindivisos en a coruña",
+   "comprar cuota piso coruña"
+  ]
+ },
+ {
+  "slug": "lugo",
+  "nombre": "Lugo",
+  "tipo": "provincia",
+  "padre": "galicia",
+  "en": "en la provincia de Lugo",
+  "poblacion": "cerca de 325.000 habitantes en la provincia y unos 98.000 en la capital",
+  "precio_m2": "unos 1.300 €/m² en la ciudad de Lugo y mucho menos en el rural (orientativo, 2026)",
+  "zonas": [
+   "Centro histórico de Lugo",
+   "A Milagrosa",
+   "Fingoi",
+   "A Piringalla",
+   "Terra Chá",
+   "A Mariña",
+   "Ribeira Sacra",
+   "Sarria",
+   "Os Ancares",
+   "Monforte de Lemos",
+   "Viveiro",
+   "Vilalba",
+   "Chantada"
+  ],
+  "municipios": [
+   "Lugo",
+   "Monforte de Lemos",
+   "Viveiro",
+   "Vilalba",
+   "Sarria",
+   "Ribadeo",
+   "Foz",
+   "Burela",
+   "Chantada",
+   "Guitiriz",
+   "Outeiro de Rei",
+   "Mondoñedo",
+   "Castro de Rei",
+   "Cervo",
+   "Xove",
+   "A Fonsagrada",
+   "Becerreá",
+   "Quiroga",
+   "Palas de Rei",
+   "Rábade"
+  ],
+  "mercado": "Lugo es la provincia con más fincas por habitante de España y con las cuotas más pequeñas. En la capital los pisos de A Milagrosa, Fingoi o la Rúa da Raíña rondan los 1.300 €/m² orientativos; en Sarria, Vilalba o Chantada una casa de labranza con cuadra y prados puede no llegar a 40.000 euros entera.",
+  "angulo": "En la Terra Chá o en Os Ancares una herencia puede tener treinta parcelas de prado, monte y souto que nadie ha medido desde la concentración parcelaria. Los hijos se fueron a Barcelona o a Zúrich y hoy sus nietos tienen 1/18 de una casa en Castroverde que no han visto. En A Mariña hay pisos de Burela y Foz pagados con la pesca o con Alcoa que se reparten entre hermanos enfrentados. En la Ribeira Sacra, viñas en bancal y casas en Sober divididas entre varias ramas. Te damos precio por tu cuota aunque sea mínima.",
+  "tramites": "Hay Registros de la Propiedad en Lugo, Monforte de Lemos, Sarria, Chantada, Vilalba, Mondoñedo, Viveiro, Ribadeo, Becerreá, Quiroga y Fonsagrada, y a menudo la misma herencia toca dos de ellos. El 8 % orientativo de ITP lo ingresamos nosotros en la ATRIGA. La plusvalía la fija cada concello y muchos pequeños no la aplican a rústica.",
+  "faq": [
+   [
+    "Tengo 1/12 de una casa en la Terra Chá y de veinte fincas. ¿Vale algo?",
+    "Vale, aunque poco. Sumamos la casa, las fincas inscritas y el prado en arriendo, y te ofertamos por tu doceava parte. Suelen ser pocos miles de euros, pero al contado y sin pelearte con nadie."
+   ],
+   [
+    "¿Compráis cuotas de pisos en Lugo capital?",
+    "Sí. En A Milagrosa, Fingoi, A Piringalla o el casco histórico compramos participaciones de pisos heredados o de parejas separadas. Un piso de 100.000 euros orientativos en Fingoi nos da una oferta de 20.000 a 35.000 euros por la mitad."
+   ],
+   [
+    "Las fincas siguen a nombre de mi abuelo. ¿Qué hacéis?",
+    "Estudiamos la cadena de títulos y, si hace falta, tramitamos la aceptación de herencia y la inscripción antes de comprar. Si no tiene arreglo, te lo decimos claro en lugar de marearte."
+   ]
+  ],
+  "kw": [
+   "proindivisos lugo",
+   "vender proindiviso lugo",
+   "empresas que compran proindivisos en lugo",
+   "vender parte herencia fincas lugo"
+  ]
+ },
+ {
+  "slug": "ourense",
+  "nombre": "Ourense",
+  "tipo": "provincia",
+  "padre": "galicia",
+  "en": "en la provincia de Ourense",
+  "poblacion": "cerca de 305.000 habitantes en la provincia y unos 105.000 en la capital",
+  "precio_m2": "unos 1.300 €/m² en la ciudad de Ourense y menos de 600 €/m² en muchas villas del interior (orientativo, 2026)",
+  "zonas": [
+   "Casco Vello de Ourense",
+   "O Couto",
+   "A Ponte",
+   "Mariñamansa",
+   "O Vinteún",
+   "Valdeorras",
+   "Verín",
+   "O Carballiño",
+   "A Limia",
+   "O Ribeiro",
+   "Celanova",
+   "Allariz",
+   "Trives"
+  ],
+  "municipios": [
+   "Ourense",
+   "Verín",
+   "O Barco de Valdeorras",
+   "O Carballiño",
+   "Xinzo de Limia",
+   "Barbadás",
+   "Celanova",
+   "Allariz",
+   "A Rúa",
+   "Ribadavia",
+   "San Cibrao das Viñas",
+   "Maceda",
+   "Pereiro de Aguiar",
+   "Coles",
+   "Viana do Bolo",
+   "Monterrei",
+   "Bande",
+   "A Pobra de Trives",
+   "Castro Caldelas",
+   "Toén"
+  ],
+  "mercado": "Ourense es la provincia más envejecida de Galicia y la que más casas cerradas tiene en sus aldeas. En la capital un piso en O Couto, A Ponte o Mariñamansa ronda los 1.300 €/m² orientativos; en Verín, Xinzo o Celanova se compran casas enteras por menos que un garaje en Vigo.",
+  "angulo": "La emigración ourensana a Venezuela, Argentina y México, y después a Suiza, dejó miles de herencias sin partir. Es habitual una casa en Bande o en Maceda con ocho herederos, tres con pasaporte venezolano y sin NIE, que lleva veinte años a nombre del abuelo. En O Ribeiro las viñas en socalco pasan a nietos que viven en Vigo y no vendimian. En la capital, los pisos de los 70 de O Vinteún se quedan en proindiviso cuando un hermano vive dentro y el otro espera cobrar.",
+  "tramites": "Los Registros de la Propiedad se reparten entre Ourense, Verín, O Barco de Valdeorras, O Carballiño, Xinzo de Limia, Celanova, Ribadavia, Allariz, Trives y Bande. Liquidamos el ITP del 8 % orientativo en la ATRIGA y la extinción de condominio al 1,5 % de AJD. La plusvalía la fija cada concello y en los pequeños no suele gravarse la rústica.",
+  "faq": [
+   [
+    "Mis tíos están en Venezuela sin NIE. ¿Puedo vender mi parte de la casa de Verín?",
+    "Sí. Vendes tu cuota sin que ellos participen. Nosotros les comunicamos la compra por los cauces legales y, cuando puedan, negociamos con ellos o pedimos la división. No te dejamos esperando a los papeles de nadie."
+   ],
+   [
+    "¿Cuánto me dais por la mitad de un piso en O Couto?",
+    "Un piso de 90.000 euros orientativos en O Couto nos da una oferta de 18.000 a 31.000 euros por la mitad. Pagamos más si se puede vender sin obras y menos si tu hermano vive en él."
+   ],
+   [
+    "¿Compráis viñas en O Ribeiro o Valdeorras heredadas entre hermanos?",
+    "Sí, cuotas de viñedo inscrito en Ribadavia, Leiro, Cenlle, A Rúa o O Barco. Valoramos superficie en producción, derechos de plantación y si hay adega. Las viñas abandonadas valen poco, pero las compramos si vienen con casa."
+   ]
+  ],
+  "kw": [
+   "proindivisos ourense",
+   "vender proindiviso ourense",
+   "empresas que compran proindivisos en ourense",
+   "vender parte casa herencia ourense"
+  ]
+ },
+ {
+  "slug": "pontevedra",
+  "nombre": "Pontevedra",
+  "tipo": "provincia",
+  "padre": "galicia",
+  "en": "en la provincia de Pontevedra",
+  "poblacion": "cerca de 950.000 habitantes en la provincia y unos 85.000 en la capital",
+  "precio_m2": "unos 1.900 €/m² en Pontevedra ciudad y por encima de 3.000 €/m² en Sanxenxo (orientativo, 2026)",
+  "zonas": [
+   "Casco Vello de Pontevedra",
+   "A Parda",
+   "Campolongo",
+   "Monte Porreiro",
+   "Marín",
+   "Poio",
+   "O Salnés",
+   "O Morrazo",
+   "Vilagarcía de Arousa",
+   "Sanxenxo",
+   "Cambados",
+   "Baixo Miño",
+   "Deza",
+   "Condado"
+  ],
+  "municipios": [
+   "Vigo",
+   "Pontevedra",
+   "Vilagarcía de Arousa",
+   "Redondela",
+   "Marín",
+   "Cangas",
+   "Lalín",
+   "Ponteareas",
+   "A Estrada",
+   "Poio",
+   "Moaña",
+   "Sanxenxo",
+   "O Porriño",
+   "Tui",
+   "Nigrán",
+   "Gondomar",
+   "Bueu",
+   "Vilanova de Arousa",
+   "Cambados",
+   "Baiona",
+   "Mos",
+   "Tomiño",
+   "Salceda de Caselas",
+   "Silleda"
+  ],
+  "mercado": "Pontevedra ciudad vive de la función pública, con pisos en Campolongo, A Parda o Monte Porreiro que rondan los 1.900 €/m² orientativos. En el resto de la provincia conviven tres mercados: el turístico de O Salnés y O Morrazo, el industrial del área de Vigo y el rural del Deza y el Condado.",
+  "angulo": "Las Rías Baixas tienen más segundas residencias por habitante que ninguna otra zona de Galicia. Un apartamento de los 80 en Sanxenxo o Portonovo se hereda entre cuatro hijos y solo uno lo usa en agosto. En Marín, Vilagarcía o Cangas hay pisos pagados con la mar o la conserva que la familia no vende porque falta una firma. En Lalín o A Estrada, la casa de la aldea se reparte entre hermanos emigrados a Suiza.",
+  "tramites": "Hay Registros de la Propiedad en Pontevedra, Vigo, Vilagarcía, Cambados, Caldas de Reis, Cangas, Redondela, Ponteareas, Tui, A Estrada y Lalín, entre otros. El ITP del 8 % orientativo lo liquidamos nosotros en la ATRIGA. La plusvalía la fija cada concello; en los de costa, donde el suelo ha subido mucho, la calculamos contigo antes de firmar.",
+  "faq": [
+   [
+    "¿Compráis la parte de un apartamento de veraneo en Sanxenxo?",
+    "Sí, es uno de los casos que más vemos. Un apartamento de 190.000 euros orientativos en primera línea repartido entre cuatro hermanos nos permite ofertar de 19.000 a 33.000 euros por cada cuarto, aunque el resto siga usándolo en verano."
+   ],
+   [
+    "Vivo en Suiza y heredé una cuota en Lalín. ¿Tengo que venir a firmar?",
+    "No. Firmas un poder en el consulado o ante notario suizo con apostilla y nosotros hacemos el resto. Recibes la oferta por escrito, la escritura por adelantado y el pago en tu cuenta el día de la firma."
+   ],
+   [
+    "¿Cubrís Pontevedra ciudad y los pueblos del interior?",
+    "Toda la provincia, de A Guarda a Lalín y de Tui a Vilagarcía. En la capital compramos en Campolongo, A Parda, Monte Porreiro y el casco vello; en el interior, casas de aldea en el Deza, Tabeirós y el Condado."
+   ]
+  ],
+  "kw": [
+   "proindivisos pontevedra",
+   "vender proindiviso pontevedra",
+   "empresas que compran proindivisos en pontevedra",
+   "vender parte apartamento sanxenxo"
+  ]
+ },
+ {
+  "slug": "vigo",
+  "nombre": "Vigo",
+  "tipo": "ciudad",
+  "padre": "pontevedra",
+  "en": "en Vigo",
+  "poblacion": "cerca de 295.000 habitantes en la ciudad y unos 480.000 en su área metropolitana",
+  "precio_m2": "unos 2.200 €/m² de media, con el centro y Alcabre por encima de 3.000 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Casco Vello",
+   "Centro",
+   "Bouzas",
+   "Coia",
+   "Teis",
+   "Lavadores",
+   "O Calvario",
+   "Navia",
+   "Travesía de Vigo",
+   "Castrelos",
+   "Alcabre",
+   "Sárdoma",
+   "Beade",
+   "Matamá"
+  ],
+  "municipios": [
+   "Casco Vello",
+   "Centro",
+   "Bouzas",
+   "Coia",
+   "Teis",
+   "Lavadores",
+   "O Calvario",
+   "Navia",
+   "Travesía de Vigo",
+   "Castrelos",
+   "Alcabre",
+   "Sárdoma",
+   "Beade",
+   "Matamá"
+  ],
+  "mercado": "Vigo es la ciudad más poblada de Galicia y la que más pisos de los 60 y 70 concentra: Coia, Teis, O Calvario y Travesía de Vigo se levantaron para los trabajadores de Citroën, los astilleros y la conserva. Esos pisos rondan los 2.000 €/m² orientativos; el centro y Alcabre pasan de 3.000 €/m².",
+  "angulo": "En Lavadores, Sárdoma, Beade o Matamá la ciudad sigue siendo parroquia: casas con finca y galpón que los padres dejaron a cuatro hijos y que hoy se tasan como suelo urbano. En Coia y Navia los bloques de protección oficial se heredan con un hermano dentro que no quiere irse ni pagar alquiler. Los divorcios con piso en el Calvario dejan cuotas al 50 % que uno necesita convertir en dinero.",
+  "tramites": "Vigo cuenta con varios Registros de la Propiedad repartidos por zonas y el tuyo depende de la calle. El ITP del 8 % orientativo lo pagamos nosotros a la ATRIGA. La plusvalía la liquida el Concello de Vigo, con uno de los tipos más altos de Galicia; te calculamos el importe antes de firmar. Si la finca viene de una parroquia y no está delimitada, hacemos la georreferenciación por nuestra cuenta.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por la mitad de un piso en Coia o Teis?",
+    "Un piso de 160.000 euros orientativos en Coia nos permite ofertar de 32.000 a 56.000 euros por la mitad. Si el otro copropietario vive dentro, baja; si está vacío y con ascensor, sube."
+   ],
+   [
+    "Mi hermano vive en el piso de mis padres en el Calvario y no paga nada. ¿Qué hago?",
+    "Vendernos tu parte. Pasamos a ser copropietarios con él y nos encargamos de negociar o de pedir la división judicial. Tú cobras al contado en notaría y no vuelves a discutir por el piso."
+   ],
+   [
+    "Heredé parte de una finca con casa en Beade sin inscribir. ¿La compráis?",
+    "Depende. Si está en el Catastro y hay escritura antigua, la inmatriculamos nosotros antes de comprar. Si no hay ningún título, lo estudiamos sin coste y te decimos si es viable."
+   ]
+  ],
+  "kw": [
+   "proindivisos vigo",
+   "vender proindiviso vigo",
+   "empresas que compran proindivisos en vigo",
+   "vender parte piso vigo"
+  ]
+ },
+ {
+  "slug": "santiago-de-compostela",
+  "nombre": "Santiago de Compostela",
+  "tipo": "ciudad",
+  "padre": "a-coruna",
+  "en": "en Santiago de Compostela",
+  "poblacion": "cerca de 98.000 habitantes en la ciudad y unos 170.000 con Ames, Teo y Oroso",
+  "precio_m2": "unos 2.200 €/m² de media, con el casco histórico y el Ensanche más caros (orientativo, 2026)",
+  "zonas": [
+   "Casco Histórico",
+   "Ensanche",
+   "Vite",
+   "Fontiñas",
+   "Conxo",
+   "San Lázaro",
+   "Santa Marta",
+   "Pontepedriña",
+   "Sar",
+   "As Cancelas",
+   "Salgueiriños",
+   "Castiñeiriño",
+   "Milladoiro",
+   "Bertamiráns"
+  ],
+  "municipios": [
+   "Casco Histórico",
+   "Ensanche",
+   "Vite",
+   "Fontiñas",
+   "Conxo",
+   "San Lázaro",
+   "Santa Marta",
+   "Pontepedriña",
+   "Sar",
+   "As Cancelas",
+   "Salgueiriños",
+   "Castiñeiriño"
+  ],
+  "mercado": "Santiago combina un casco histórico de pisos pequeños alquilados a estudiantes con barrios de los 70 y 80 como Vite, Fontiñas o Conxo donde vive la ciudad funcionaria. El precio medio ronda los 2.200 €/m² orientativos y en la zona vieja un piso reformado pasa de 3.000 €/m². Los proindivisos aquí son pisos de alquiler heredados y casas en las parroquias.",
+  "angulo": "Muchas familias compostelanas tienen un piso en el Ensanche o en San Pedro alquilado por habitaciones; al morir los padres, tres hermanos cobran rentas a medias y uno quiere salir. En Conxo, Vidán o Laraño quedan casas de labranza absorbidas por la ciudad y repartidas entre primos. Milladoiro y Bertamiráns están llenos de pisos de los 2000 comprados por parejas que luego se separaron. Y la Xunta y la universidad traen gente que hereda en Santiago pero vive en Madrid.",
+  "tramites": "El Registro de la Propiedad de Santiago cubre la ciudad y concellos del entorno como Ames y Teo. El ITP de la compra, un 8 % orientativo a nuestro cargo, se liquida en la ATRIGA, que tiene su sede central precisamente en Santiago. La plusvalía la fija el Concello y, si la casa está en suelo rústico de parroquia, puede no devengarse.",
+  "faq": [
+   [
+    "¿Compráis cuotas de pisos alquilados a estudiantes en el casco histórico?",
+    "Sí. Que esté alquilado no es problema: valoramos la renta, el estado del edificio y si hay inspección técnica pendiente. Un piso de 220.000 euros orientativos en la Rúa Nova nos da una oferta por un tercio de 29.000 a 51.000 euros."
+   ],
+   [
+    "Mi expareja y yo tenemos un piso en Milladoiro con hipoteca. ¿Compráis mi 50 %?",
+    "Sí, si la deuda pendiente es menor que el valor del piso. Descontamos la hipoteca, te ofertamos por el resto y en notaría la cancelamos o nos subrogamos. Sales del préstamo y del piso en la misma firma."
+   ],
+   [
+    "¿Atendéis Ames, Teo, Oroso y el resto de la comarca?",
+    "Sí. Compramos en Milladoiro, Bertamiráns, Cacheiras, Sigüeiro y en cualquier concello de la comarca, también Padrón y Arzúa. Firmamos en Santiago o donde te venga mejor."
+   ]
+  ],
+  "kw": [
+   "proindivisos santiago de compostela",
+   "vender proindiviso santiago",
+   "empresas que compran proindivisos en santiago de compostela",
+   "vender parte piso santiago"
+  ]
+ },
+ {
+  "slug": "ferrol",
+  "nombre": "Ferrol",
+  "tipo": "ciudad",
+  "padre": "a-coruna",
+  "en": "en Ferrol",
+  "poblacion": "cerca de 64.000 habitantes en la ciudad y unos 190.000 en Ferrolterra con Narón, Fene y Neda",
+  "precio_m2": "unos 1.000 €/m², de los más bajos de las ciudades gallegas (orientativo, 2026)",
+  "zonas": [
+   "Ferrol Vello",
+   "A Magdalena",
+   "Esteiro",
+   "Canido",
+   "Caranza",
+   "Recimil",
+   "Ultramar",
+   "Catabois",
+   "San Xoán",
+   "Serantes",
+   "O Inferniño",
+   "Narón",
+   "Fene",
+   "Neda"
+  ],
+  "municipios": [
+   "Ferrol Vello",
+   "A Magdalena",
+   "Esteiro",
+   "Canido",
+   "Caranza",
+   "Recimil",
+   "Ultramar",
+   "Catabois",
+   "San Xoán",
+   "Serantes",
+   "O Inferniño",
+   "Santa Mariña"
+  ],
+  "mercado": "Ferrol tiene el precio por metro más bajo de las grandes ciudades gallegas, en torno a 1.000 €/m² orientativos, y muchos pisos vacíos en Esteiro, Ferrol Vello y Recimil. La reconversión naval dejó viviendas heredadas que nadie quiere ocupar. Compramos cuotas de esos pisos y de casas con horta en Serantes, Covas y Doniños.",
+  "angulo": "Ferrol creció con Bazán y la Armada: Caranza y Ultramar son bloques de los 70 para el astillero que hoy heredan hijos que viven en A Coruña, Madrid o fuera de España. A Magdalena y Ferrol Vello tienen edificios enteros en manos de primos que no acuerdan si rehabilitar o vender, con galerías cerradas hace años. Los pisos de militares destinados aquí se compraron a medias y quedaron en proindiviso al cambiar de destino. Te damos precio aunque el piso lleve una década cerrado.",
+  "tramites": "El Registro de la Propiedad de Ferrol cubre la ciudad y Narón; Pontedeume y Ortigueira tienen los suyos para el resto de la comarca. Pagamos nosotros el ITP del 8 % orientativo a la ATRIGA y la notaría. La plusvalía la fija el Concello de Ferrol y, con los precios de la ciudad, a menudo sale a cero porque el valor no ha subido.",
+  "faq": [
+   [
+    "¿Merece la pena vender mi parte de un piso en Caranza que vale tan poco?",
+    "Si el piso vale 60.000 euros orientativos y tienes un tercio, te ofertamos de 8.000 a 14.000 euros. No es una fortuna, pero es dinero al contado por algo que hoy te cuesta IBI y comunidad."
+   ],
+   [
+    "El edificio de mis abuelos en A Magdalena está entre ocho primos. ¿Compráis una cuota tan pequeña?",
+    "Sí. Compramos una octava parte o menos y seguimos comprando a los primos que quieran vender. Los edificios enteros del casco interesan para rehabilitar, así que tu cuota vale más de lo que parece."
+   ],
+   [
+    "¿Cubrís Narón, Fene, Neda y el resto de Ferrolterra?",
+    "Sí, toda la comarca, incluidas Ares, Mugardos, Cedeira, Valdoviño y Ortigueira. Firmamos en Ferrol o en la notaría del municipio que elijas."
+   ]
+  ],
+  "kw": [
+   "proindivisos ferrol",
+   "vender proindiviso ferrol",
+   "empresas que compran proindivisos en ferrol",
+   "vender parte piso ferrol"
+  ]
+ },
+ {
+  "slug": "pais-vasco",
+  "nombre": "País Vasco",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en el País Vasco",
+  "poblacion": "cerca de 2,2 millones de habitantes, más de la mitad en Bizkaia",
+  "precio_m2": "unos 3.000 €/m² de media, con Donostia por encima de 5.000 €/m² (orientativo, 2026)",
+  "zonas": [
+   "Bilbao",
+   "Donostia-San Sebastián",
+   "Vitoria-Gasteiz",
+   "Margen Izquierda",
+   "Uribe Kosta",
+   "Duranguesado",
+   "Busturialdea",
+   "Bidasoa",
+   "Alto Deba",
+   "Urola Kosta",
+   "Rioja Alavesa",
+   "Tierra de Ayala",
+   "Goierri",
+   "Tolosaldea"
+  ],
+  "municipios": [
+   "Bilbao",
+   "Vitoria-Gasteiz",
+   "Donostia-San Sebastián",
+   "Barakaldo",
+   "Getxo",
+   "Irun",
+   "Portugalete",
+   "Santurtzi",
+   "Basauri",
+   "Errenteria",
+   "Leioa",
+   "Eibar",
+   "Galdakao",
+   "Zarautz",
+   "Durango",
+   "Sestao",
+   "Arrasate-Mondragón",
+   "Erandio",
+   "Hernani",
+   "Llodio",
+   "Lasarte-Oria",
+   "Amorebieta-Etxano",
+   "Hondarribia",
+   "Tolosa"
+  ],
+  "mercado": "Euskadi tiene los precios más altos del norte: Donostia supera los 5.000 €/m² orientativos, Bilbao ronda los 3.200 y Vitoria los 2.500. Buena parte del parque son pisos de los 60 y 70 en la Margen Izquierda, el Duranguesado o el Deba, construidos para la siderurgia y la máquina herramienta.",
+  "angulo": "El derecho civil vasco cambia las herencias: la legítima es de un tercio y colectiva, el testador puede apartar hijos y existen pactos sucesorios y testamento por comisario. El resultado son herencias donde un hermano recibe el caserío o el piso y otro una cuota pequeña que quiere cobrar. En Bizkaia se suma la troncalidad: los parientes tronqueros tienen preferencia sobre los bienes raíces de la tierra llana. Y en Donostia o Getxo la cuota heredada vale tanto que nadie puede comprársela al hermano.",
+  "tramites": "Cada territorio tiene su Hacienda Foral: Bizkaia, Gipuzkoa y Álava liquidan el ITP de la compra al 7 % orientativo, que pagamos nosotros, y la extinción de condominio al 0,5 % de AJD. No rige el valor de referencia estatal; las Haciendas Forales aplican sus propios criterios de valoración. La plusvalía la fija cada ayuntamiento. Si el bien es troncal, hacemos los llamamientos forales antes de firmar.",
+  "faq": [
+   [
+    "¿Qué cambia la troncalidad vizcaína si quiero vender mi parte?",
+    "Si la finca está en tierra llana de Bizkaia y es troncal, los parientes tronqueros tienen derecho preferente a comprarla. Hay que notificarles ante notario y esperar el plazo. Lo gestionamos nosotros y, si nadie ejerce el derecho, compramos tu cuota como estaba previsto."
+   ],
+   [
+    "Mi padre nos apartó a mi hermana y a mí con una cuota pequeña del piso. ¿La compráis?",
+    "Sí. En Euskadi es frecuente que un hijo reciba el piso y los demás una participación menor. Compramos cuotas del 10 % o el 15 % en Bilbao, Donostia o Vitoria y después negociamos con el heredero principal."
+   ],
+   [
+    "¿Cubrís los tres territorios o solo las capitales?",
+    "Los tres completos, desde Irun hasta Balmaseda y desde Bermeo hasta la Rioja Alavesa. Nos desplazamos a la notaría que elijas en cualquiera de los tres."
+   ]
+  ],
+  "kw": [
+   "proindivisos pais vasco",
+   "vender proindiviso euskadi",
+   "empresas que compran proindivisos en el pais vasco",
+   "vender cuota herencia euskadi"
+  ]
+ },
+ {
+  "slug": "alava",
+  "nombre": "Álava",
+  "tipo": "provincia",
+  "padre": "pais-vasco",
+  "en": "en Álava",
+  "poblacion": "cerca de 340.000 habitantes en el territorio, tres cuartas partes en Vitoria-Gasteiz",
+  "precio_m2": "unos 2.500 €/m² en Vitoria y bastante menos en Llodio o Amurrio (orientativo, 2026)",
+  "zonas": [
+   "Vitoria-Gasteiz",
+   "Llodio",
+   "Amurrio",
+   "Tierra de Ayala",
+   "Rioja Alavesa",
+   "Llanada Alavesa",
+   "Salvatierra",
+   "Laguardia",
+   "Gorbeialdea",
+   "Valles Alaveses",
+   "Montaña Alavesa",
+   "Oyón",
+   "Labastida",
+   "Elciego"
+  ],
+  "municipios": [
+   "Vitoria-Gasteiz",
+   "Llodio",
+   "Amurrio",
+   "Salvatierra-Agurain",
+   "Iruña de Oca",
+   "Oyón-Oion",
+   "Ayala-Aiara",
+   "Alegría-Dulantzi",
+   "Zuia",
+   "Laguardia",
+   "Elciego",
+   "Labastida",
+   "Artziniega",
+   "Zigoitia",
+   "Arrazua-Ubarrundia",
+   "Okondo",
+   "Lapuebla de Labarca",
+   "Legutio"
+  ],
+  "mercado": "Álava es el territorio vasco más barato y el más rural: fuera de Vitoria, que ronda los 2.500 €/m² orientativos, hay pueblos de la Llanada y de la Montaña Alavesa con casas de piedra por debajo de 60.000 euros. En Llodio y Amurrio dominan los pisos obreros de los 60 ligados a las fábricas del Nervión.",
+  "angulo": "En la Tierra de Ayala rige el Fuero de Ayala con libertad absoluta de testar: los padres pueden dejarlo todo a un hijo y a los demás una cuota simbólica. Eso genera participaciones pequeñas en caseríos de Amurrio, Okondo o Respaldiza que su dueño quiere cobrar y olvidar. En Laguardia, Elciego o Labastida las viñas pasan a tres hermanos y solo uno trabaja la bodega.",
+  "tramites": "El Registro de la Propiedad de Vitoria cubre la capital y casi toda la Llanada; Amurrio y Laguardia tienen los suyos para Ayala y la Rioja Alavesa. El ITP, al 7 % orientativo, se paga a la Hacienda Foral de Álava y corre de nuestra cuenta; esa Hacienda valora con sus propias tablas y no con el valor de referencia estatal. La plusvalía la fija cada ayuntamiento y en los concejos pequeños muchas veces no existe.",
+  "faq": [
+   [
+    "Mi padre, con vecindad ayalesa, me dejó solo un 5 % del caserío. ¿Compráis algo tan pequeño?",
+    "Sí. Un 5 % de un caserío con terreno en Ayala puede valer varios miles de euros. Te lo compramos al contado y nos entendemos después con el hermano que se quedó el resto."
+   ],
+   [
+    "¿Cuánto pagáis por una cuota de viñedo en la Rioja Alavesa?",
+    "Depende de la superficie, la edad de las cepas y de si hay bodega inscrita. Por tu tercio de una viña en Laguardia o Elciego pagamos entre el 40 % y el 70 % de su valor proporcional, por escrito en 48 horas."
+   ],
+   [
+    "¿Trabajáis en Llodio y Amurrio o solo en Vitoria?",
+    "En todo Álava. Compramos cuotas de pisos en Llodio, Amurrio y Salvatierra, de casas en la Montaña Alavesa y de fincas en Valdegovía. En Llodio y Aramaio comprobamos además la troncalidad, que allí sí rige."
+   ]
+  ],
+  "kw": [
+   "proindivisos alava",
+   "vender proindiviso alava",
+   "empresas que compran proindivisos en alava",
+   "vender parte caserio ayala"
+  ]
+ },
+ {
+  "slug": "bizkaia",
+  "nombre": "Bizkaia",
+  "tipo": "provincia",
+  "padre": "pais-vasco",
+  "en": "en Bizkaia",
+  "poblacion": "cerca de 1,15 millones de habitantes, con el Gran Bilbao sumando unos 900.000",
+  "precio_m2": "unos 2.900 €/m² de media, de 2.400 en la Margen Izquierda a más de 4.000 en Getxo (orientativo, 2026)",
+  "zonas": [
+   "Bilbao",
+   "Margen Izquierda",
+   "Margen Derecha",
+   "Uribe Kosta",
+   "Duranguesado",
+   "Busturialdea",
+   "Lea-Artibai",
+   "Arratia",
+   "Txorierri",
+   "Enkarterri",
+   "Barakaldo",
+   "Getxo",
+   "Portugalete",
+   "Durango"
+  ],
+  "municipios": [
+   "Bilbao",
+   "Barakaldo",
+   "Getxo",
+   "Portugalete",
+   "Santurtzi",
+   "Basauri",
+   "Leioa",
+   "Galdakao",
+   "Durango",
+   "Sestao",
+   "Erandio",
+   "Amorebieta-Etxano",
+   "Gernika-Lumo",
+   "Bermeo",
+   "Mungia",
+   "Ermua",
+   "Sopela",
+   "Abanto Zierbena",
+   "Balmaseda",
+   "Ortuella",
+   "Arrigorriaga",
+   "Zamudio"
+  ],
+  "mercado": "Bizkaia reúne tres mercados: la Margen Izquierda de Barakaldo, Sestao y Portugalete, con pisos de los 60 en torno a 2.400 €/m² orientativos; Bilbao y la Margen Derecha, mucho más caros; y las comarcas de Busturialdea, Lea-Artibai y el Duranguesado, con caseríos y pisos de pueblo. El proindiviso típico es un piso de la ría heredado o un caserío entre primos.",
+  "angulo": "La troncalidad vizcaína rige en la tierra llana, es decir, en casi todos los municipios menos Bilbao y las villas históricas: los bienes raíces se vinculan al tronco familiar y los parientes tronqueros tienen preferencia al venderlos. Por eso muchos caseríos de Mungia, Muxika o Busturia llevan décadas sin venderse. En la Margen Izquierda, los pisos de los Altos Hornos se heredan entre hijos que ya viven en Castro o en Sopela. En Durango y Ermua, pisos de la máquina herramienta a medias tras un divorcio.",
+  "tramites": "Los Registros de la Propiedad de Bizkaia se reparten entre Bilbao, Barakaldo, Getxo, Portugalete, Durango, Gernika, Markina, Balmaseda, Bermeo y Amorebieta. Liquidamos el ITP del 7 % orientativo ante la Hacienda Foral de Bizkaia, que comprueba con su propio valor mínimo atribuible. Cada ayuntamiento vizcaíno fija su propia plusvalía. En fincas troncales realizamos los llamamientos forales ante notario antes de comprar.",
+  "faq": [
+   [
+    "¿Compráis la parte de un caserío troncal en Busturialdea?",
+    "Sí. Primero notificamos a los parientes tronqueros según la Ley de Derecho Civil Vasco. Si en plazo ninguno ejerce su derecho, compramos tu cuota con las condiciones de la oferta. Todo el trámite corre de nuestra cuenta."
+   ],
+   [
+    "¿Cuánto vale mi mitad de un piso en Sestao o Portugalete?",
+    "Un piso de 130.000 euros orientativos en el centro de Sestao nos permite ofertar de 26.000 a 45.000 euros por la mitad. Si la finca no tiene ascensor o necesita ITE, ajustamos a la baja y te lo explicamos."
+   ],
+   [
+    "¿Cubrís Enkarterri y las comarcas del interior?",
+    "Sí. Compramos cuotas en Balmaseda, Zalla, Güeñes, Arratia, el Duranguesado y Lea-Artibai, no solo en la ría. Firmamos en la notaría que mejor te venga."
+   ]
+  ],
+  "kw": [
+   "proindivisos bizkaia",
+   "vender proindiviso bizkaia",
+   "empresas que compran proindivisos en bizkaia",
+   "vender parte caserio troncal bizkaia"
+  ]
+ },
+ {
+  "slug": "gipuzkoa",
+  "nombre": "Gipuzkoa",
+  "tipo": "provincia",
+  "padre": "pais-vasco",
+  "en": "en Gipuzkoa",
+  "poblacion": "cerca de 730.000 habitantes en el territorio, con Donostialdea rozando los 330.000",
+  "precio_m2": "unos 3.500 €/m² de media y más de 5.000 €/m² en Donostia (orientativo, 2026)",
+  "zonas": [
+   "Donostia-San Sebastián",
+   "Irun",
+   "Errenteria",
+   "Eibar",
+   "Zarautz",
+   "Arrasate",
+   "Tolosa",
+   "Hernani",
+   "Hondarribia",
+   "Bidasoa",
+   "Goierri",
+   "Alto Deba",
+   "Urola Kosta",
+   "Tolosaldea"
+  ],
+  "municipios": [
+   "Donostia-San Sebastián",
+   "Irun",
+   "Errenteria",
+   "Eibar",
+   "Zarautz",
+   "Arrasate-Mondragón",
+   "Hernani",
+   "Lasarte-Oria",
+   "Hondarribia",
+   "Tolosa",
+   "Pasaia",
+   "Andoain",
+   "Oñati",
+   "Azpeitia",
+   "Bergara",
+   "Beasain",
+   "Zumaia",
+   "Oiartzun",
+   "Azkoitia",
+   "Elgoibar",
+   "Ordizia",
+   "Legazpi"
+  ],
+  "mercado": "Gipuzkoa es el territorio más caro del norte de España. Donostia supera los 5.000 €/m² orientativos y Zarautz, Hondarribia o Getaria se le acercan por la demanda de segunda residencia. En el interior, Eibar, Arrasate o Beasain mantienen pisos de los 60 construidos para la industria del Deba y del Goierri a precios mucho más bajos. Aquí una cuota pequeña es una cantidad grande.",
+  "angulo": "El caserío guipuzcoano tiene una ordenación sucesoria propia en la Ley de Derecho Civil Vasco, pensada para que pase entero a un heredero; los demás reciben una compensación o una cuota que a veces nunca se paga. Los pisos de Donostia comprados en los 70 valen hoy medio millón y ningún hermano puede comprar la parte de los otros. En Irun y Hondarribia hay pisos de parejas transfronterizas que se separan con uno viviendo en Hendaia. En Eibar y Elgoibar, viviendas de la máquina herramienta heredadas y vacías.",
+  "tramites": "Hay Registros de la Propiedad en Donostia, Irun, Tolosa, Azpeitia, Bergara, Eibar y Ordizia. Liquidamos el ITP del 7 % orientativo ante la Hacienda Foral de Gipuzkoa y más adelante el AJD del 0,5 % de la extinción de condominio. La plusvalía la fija cada ayuntamiento; el de Donostia la cobra con tipos altos y conviene calcularla antes, lo hacemos contigo.",
+  "faq": [
+   [
+    "Heredé un cuarto de un piso en Gros que vale 600.000 euros. ¿Tenéis liquidez para comprarlo?",
+    "Sí. Compramos con fondos propios, y una cuota de 150.000 euros de valor proporcional nos da una oferta de 60.000 a 105.000 euros al contado en notaría. Cerramos en dos o cuatro semanas."
+   ],
+   [
+    "¿Compráis la parte de un caserío en el Goierri o en Urola?",
+    "Sí. Valoramos la casa, el terreno y si está dentro de la ordenación del caserío. Si el heredero principal tiene derecho preferente, lo respetamos y, si no lo ejerce, cerramos contigo."
+   ],
+   [
+    "¿Cubrís Irun, Eibar y los pueblos del Deba?",
+    "Toda Gipuzkoa, de Hondarribia a Mutriku y de Zumaia a Leintz Gatzaga. Firmamos en Donostia, Eibar, Tolosa o donde te venga bien."
+   ]
+  ],
+  "kw": [
+   "proindivisos gipuzkoa",
+   "vender proindiviso gipuzkoa",
+   "empresas que compran proindivisos en gipuzkoa",
+   "vender parte piso heredado guipuzcoa"
+  ]
+ },
+ {
+  "slug": "bilbao",
+  "nombre": "Bilbao",
+  "tipo": "ciudad",
+  "padre": "bizkaia",
+  "en": "en Bilbao",
+  "poblacion": "cerca de 345.000 habitantes en la villa y unos 900.000 en el Gran Bilbao",
+  "precio_m2": "unos 3.200 €/m² de media, de 2.300 en Otxarkoaga a más de 5.000 en Abando (orientativo, 2026)",
+  "zonas": [
+   "Casco Viejo",
+   "Abando",
+   "Indautxu",
+   "Deusto",
+   "Begoña",
+   "Santutxu",
+   "Rekalde",
+   "Basurto",
+   "Zorroza",
+   "San Ignacio",
+   "Otxarkoaga",
+   "Txurdinaga",
+   "Uribarri",
+   "Bilbao La Vieja"
+  ],
+  "municipios": [
+   "Casco Viejo",
+   "Abando",
+   "Indautxu",
+   "Deusto",
+   "Begoña",
+   "Santutxu",
+   "Rekalde",
+   "Basurto",
+   "Zorroza",
+   "San Ignacio",
+   "Otxarkoaga",
+   "Txurdinaga",
+   "Uribarri",
+   "Bilbao La Vieja"
+  ],
+  "mercado": "Bilbao tiene dos ciudades en una: Abando e Indautxu, con pisos señoriales por encima de 5.000 €/m² orientativos, y los barrios obreros de Santutxu, Rekalde, Otxarkoaga o Zorroza, levantados en los 60 y 70 para quienes venían a trabajar a la ría, en torno a 2.300 €/m². En ambas compramos cuotas de pisos heredados.",
+  "angulo": "La villa de Bilbao queda fuera de la troncalidad salvo en las antiguas anteiglesias anexionadas, así que aquí la herencia se rige por el derecho civil vasco común: legítima de un tercio y libertad para apartar hijos. Eso crea cuotas desiguales entre hermanos en pisos de Santutxu o Deusto que uno quiere vender ya. En Otxarkoaga y Txurdinaga, los pisos de protección de los 60 siguen a nombre de abuelos fallecidos hace años. Y en Abando, herederos que viven en Madrid con un tercio de un piso de 700.000 euros.",
+  "tramites": "Bilbao reparte su territorio entre varios Registros de la Propiedad según el barrio. El 7 % orientativo de ITP lo ingresamos nosotros en la Hacienda Foral de Bizkaia, que revisa el precio con sus tablas de valor mínimo. La plusvalía la fija el Ayuntamiento de Bilbao y en el centro suele ser elevada; te la calculamos antes de firmar. Si tu cuota está en Deusto o Begoña, comprobamos si aplica la troncalidad.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un tercio de un piso en Santutxu?",
+    "Un piso de 210.000 euros orientativos en Santutxu da un tercio de 70.000 euros de mercado. Te ofertamos de 28.000 a 49.000 euros al contado, por escrito en 48 horas."
+   ],
+   [
+    "Mi madre nos dejó el piso de Rekalde a cuatro y mi hermana vive en él. ¿Compráis mi cuarto?",
+    "Sí. Compramos tu 25 % y pasamos a ser copropietarios con tu hermana. Negociamos con ella una compra o un alquiler y, si no hay acuerdo, pedimos la división. Tú cobras el día de la firma."
+   ],
+   [
+    "¿Cubrís los municipios del Gran Bilbao?",
+    "Sí. Compramos cuotas en Basauri, Galdakao, Erandio, Leioa, Etxebarri y en toda la Margen Izquierda. Firmamos en una notaría de Bilbao o del municipio donde esté el piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos bilbao",
+   "vender proindiviso bilbao",
+   "empresas que compran proindivisos en bilbao",
+   "vender parte piso bilbao"
+  ]
+ },
+ {
+  "slug": "barakaldo",
+  "nombre": "Barakaldo",
+  "tipo": "ciudad",
+  "padre": "bizkaia",
+  "en": "en Barakaldo",
+  "poblacion": "cerca de 100.000 habitantes",
+  "precio_m2": "unos 2.400 €/m², más en el centro y en Urban-Galindo (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Rontegi",
+   "Cruces",
+   "Lutxana",
+   "Retuerto",
+   "Burtzeña",
+   "Zuazo",
+   "Beurko",
+   "Bagatza",
+   "San Vicente",
+   "Urban-Galindo",
+   "Kareaga",
+   "Arteagabeitia",
+   "Llano"
+  ],
+  "municipios": [
+   "Centro",
+   "Rontegi",
+   "Cruces",
+   "Lutxana",
+   "Retuerto",
+   "Burtzeña",
+   "Zuazo",
+   "Beurko",
+   "Bagatza",
+   "San Vicente",
+   "Urban-Galindo",
+   "Kareaga",
+   "Arteagabeitia",
+   "Llano"
+  ],
+  "mercado": "Barakaldo es el municipio más grande de la Margen Izquierda y su parque de viviendas se construyó para Altos Hornos y Babcock: bloques de los 60 en Rontegi, Cruces, Lutxana o Zuazo que rondan los 2.400 €/m² orientativos. En Urban-Galindo, sobre los antiguos terrenos de la fábrica, los pisos nuevos pasan de 3.000. Los proindivisos salen de las herencias de aquellos pisos obreros.",
+  "angulo": "Los trabajadores que llegaron de Extremadura, Castilla o Galicia en los 60 compraron piso en Cruces o Bagatza y lo pagaron en treinta años. Hoy sus hijos lo heredan entre tres o cuatro y viven en Castro, Sopela o fuera de Euskadi. Barakaldo es anteiglesia, así que a los pisos les puede aplicar la troncalidad vizcaína y hay que notificar a los parientes tronqueros antes de vender. También compramos cuotas de divorcios con piso en Retuerto o San Vicente y de lonjas y garajes en el centro.",
+  "tramites": "El Registro de la Propiedad de Barakaldo cubre el municipio. Nosotros asumimos el ITP, un 7 % orientativo, ante la Hacienda Foral de Bizkaia. La plusvalía la fija el Ayuntamiento de Barakaldo. Si el piso es troncal, hacemos los llamamientos forales ante notario; si no, firmamos directamente en dos o cuatro semanas.",
+  "faq": [
+   [
+    "¿Qué me pagáis por mi mitad de un piso en Rontegi?",
+    "Un piso de 150.000 euros orientativos en Rontegi nos permite ofertar de 30.000 a 52.000 euros por tu mitad. Pagamos más si tiene ascensor y menos si el edificio arrastra derramas pendientes."
+   ],
+   [
+    "¿Qué pasa con la troncalidad en un piso de Cruces?",
+    "Comprobamos si la finca es troncal según la ley vasca. Si lo es, notificamos a los parientes tronqueros y esperamos el plazo legal; si ninguno compra, firmamos contigo. Tú no haces nada."
+   ],
+   [
+    "¿Compráis cuotas de lonjas y garajes, no solo de pisos?",
+    "Sí. En Barakaldo compramos participaciones de lonjas en el centro, garajes en Urban-Galindo y naves en el polígono de El Juncal. Misma oferta por escrito en 48 horas."
+   ]
+  ],
+  "kw": [
+   "proindivisos barakaldo",
+   "vender proindiviso barakaldo",
+   "empresas que compran proindivisos en barakaldo",
+   "vender parte piso baracaldo"
+  ]
+ },
+ {
+  "slug": "getxo",
+  "nombre": "Getxo",
+  "tipo": "ciudad",
+  "padre": "bizkaia",
+  "en": "en Getxo",
+  "poblacion": "cerca de 77.000 habitantes",
+  "precio_m2": "unos 4.200 €/m², con Neguri y Las Arenas muy por encima (orientativo, 2026)",
+  "zonas": [
+   "Algorta",
+   "Las Arenas",
+   "Neguri",
+   "Romo",
+   "Andra Mari",
+   "Santa Ana",
+   "Zugazarte",
+   "Puerto Viejo",
+   "Gobela",
+   "Fadura",
+   "Ereaga",
+   "Azkorri"
+  ],
+  "municipios": [
+   "Algorta",
+   "Las Arenas",
+   "Neguri",
+   "Romo",
+   "Andra Mari",
+   "Santa Ana",
+   "Zugazarte",
+   "Puerto Viejo",
+   "Gobela",
+   "Fadura",
+   "Ereaga",
+   "Azkorri"
+  ],
+  "mercado": "Getxo es el municipio más caro de Bizkaia y uno de los más caros de España fuera de Madrid y Barcelona: chalets de Neguri y Zugazarte, pisos de Las Arenas y Algorta por encima de 4.000 €/m² orientativos. Romo y la zona de Gobela son algo más asequibles. Los proindivisos aquí valen mucho dinero y nadie en la familia puede comprarlos.",
+  "angulo": "Las grandes casas de Neguri y Las Arenas se heredan entre cinco o seis hermanos y primos, con cuotas de un sexto o un doceavo que valen más de 100.000 euros y que nadie puede adquirir al resto. Getxo es anteiglesia y le aplica la troncalidad, por lo que las ventas de esas casas se enredan durante años. En Algorta y Romo, pisos de los 70 heredados por hijos que viven en Bilbao. Te compramos la cuota al contado y nosotros tratamos con la familia.",
+  "tramites": "El Registro de la Propiedad de Getxo cubre el municipio y parte de Uribe Kosta. El ITP del 7 % orientativo lo pagamos nosotros a la Hacienda Foral de Bizkaia. La plusvalía la fija el Ayuntamiento de Getxo y en Neguri o Las Arenas puede ser alta; la calculamos contigo. Las fincas troncales llevan sus llamamientos forales previos.",
+  "faq": [
+   [
+    "Tengo un sexto de una casa en Neguri valorada en un millón. ¿Compráis algo así?",
+    "Sí. Un sexto son unos 165.000 euros de valor proporcional y te ofertamos de 66.000 a 115.000 euros al contado. Firmamos en notaría y después negociamos con el resto de la familia."
+   ],
+   [
+    "Somos nueve primos con un piso en Las Arenas. ¿Compráis a varios a la vez?",
+    "Sí, y es lo mejor para todos. Hacemos una oferta individual a cada primo que quiera vender y firmamos con todos el mismo día. Quien no quiera vender se queda como copropietario nuestro."
+   ],
+   [
+    "¿Cubrís Leioa, Berango y Sopela?",
+    "Sí. Compramos cuotas en toda Uribe Kosta, de Leioa a Plentzia, y en Erandio. Firmamos en Getxo o en el municipio del inmueble."
+   ]
+  ],
+  "kw": [
+   "proindivisos getxo",
+   "vender proindiviso getxo",
+   "empresas que compran proindivisos en getxo",
+   "vender parte casa neguri"
+  ]
+ },
+ {
+  "slug": "donostia-san-sebastian",
+  "nombre": "Donostia-San Sebastián",
+  "tipo": "ciudad",
+  "padre": "gipuzkoa",
+  "en": "en Donostia-San Sebastián",
+  "poblacion": "cerca de 190.000 habitantes en la ciudad y unos 330.000 en Donostialdea",
+  "precio_m2": "unos 5.500 €/m², de los más altos de España (orientativo, 2026)",
+  "zonas": [
+   "Parte Vieja",
+   "Centro",
+   "Gros",
+   "Amara",
+   "Antiguo",
+   "Egia",
+   "Intxaurrondo",
+   "Altza",
+   "Aiete",
+   "Ibaeta",
+   "Loiola",
+   "Bidebieta",
+   "Añorga",
+   "Martutene"
+  ],
+  "municipios": [
+   "Parte Vieja",
+   "Centro",
+   "Gros",
+   "Amara",
+   "Antiguo",
+   "Egia",
+   "Intxaurrondo",
+   "Altza",
+   "Aiete",
+   "Ibaeta",
+   "Loiola",
+   "Bidebieta",
+   "Añorga",
+   "Martutene"
+  ],
+  "mercado": "Donostia tiene los precios más altos del norte: un piso de 80 metros en Gros, el Centro o el Antiguo pasa de 500.000 euros con 5.500 €/m² orientativos. Altza, Intxaurrondo y Bidebieta, barrios de los 60 y 70 para la industria de Pasaia, se mueven en torno a 3.500. Un cuarto de cualquier piso donostiarra es una cantidad que casi nadie de la familia puede pagar.",
+  "angulo": "El proindiviso donostiarra nace de los precios. Los padres compraron en Amara o Egia en los 70 por cuatro millones de pesetas y hoy ese piso vale 450.000 euros; tres hijos lo heredan y ninguno puede comprar a los otros, así que se queda vacío o alquilado por obligación. La legítima vasca de un tercio permite apartar hijos y deja cuotas desiguales que generan conflicto. Y en Altza o Intxaurrondo, pisos de hermanos que viven en Irun o fuera. Pagamos la cuota al contado para que no esperes a que alguien ceda.",
+  "tramites": "Donostia cuenta con varios Registros de la Propiedad distribuidos por zonas. El ITP, un 7 % orientativo que pagamos nosotros, se ingresa en la Hacienda Foral de Gipuzkoa, que aplica sus propias reglas de comprobación de valor. La plusvalía municipal de Donostia es de las más altas de Euskadi por la subida del suelo; te la calculamos antes de firmar para que la cifra neta no tenga sorpresas.",
+  "faq": [
+   [
+    "¿De verdad pagáis al contado un tercio de un piso de 600.000 euros en Gros?",
+    "Sí. Compramos con fondos propios. Un tercio son 200.000 euros de valor proporcional y nuestra oferta va de 80.000 a 140.000 euros, transferidos el día de la firma en notaría."
+   ],
+   [
+    "Mi hermano ocupa el piso familiar de Amara y se niega a vender. ¿Qué hago?",
+    "Vendernos tu cuota. Nosotros entramos como copropietarios y le planteamos comprarle, venderle o pedir la división judicial. Tú cobras y dejas de discutir."
+   ],
+   [
+    "¿Cubrís Pasaia, Errenteria, Hernani y Lasarte?",
+    "Sí, toda Donostialdea y el Bidasoa, con Irun y Hondarribia. Firmamos en Donostia o en el pueblo donde esté el piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos donostia",
+   "vender proindiviso san sebastian",
+   "empresas que compran proindivisos en donostia san sebastian",
+   "vender parte piso san sebastian"
+  ]
+ },
+ {
+  "slug": "vitoria-gasteiz",
+  "nombre": "Vitoria-Gasteiz",
+  "tipo": "ciudad",
+  "padre": "alava",
+  "en": "en Vitoria-Gasteiz",
+  "poblacion": "cerca de 255.000 habitantes",
+  "precio_m2": "unos 2.500 €/m², con Salburua y Zabalgana por encima y Zaramaga o Adurtza por debajo (orientativo, 2026)",
+  "zonas": [
+   "Casco Viejo",
+   "Ensanche",
+   "Lakua",
+   "Salburua",
+   "Zabalgana",
+   "Judimendi",
+   "Adurtza",
+   "San Martín",
+   "Txagorritxu",
+   "Coronación",
+   "Zaramaga",
+   "Arana",
+   "Aranbizkarra",
+   "Abetxuko"
+  ],
+  "municipios": [
+   "Casco Viejo",
+   "Ensanche",
+   "Lakua",
+   "Salburua",
+   "Zabalgana",
+   "Judimendi",
+   "Adurtza",
+   "San Martín",
+   "Txagorritxu",
+   "Coronación",
+   "Zaramaga",
+   "Arana",
+   "Aranbizkarra",
+   "Abetxuko"
+  ],
+  "mercado": "Vitoria creció con las fábricas de Michelin y Mercedes y con ellas se levantaron Zaramaga, Adurtza, Arana o Aranbizkarra en los 60 y 70; esos pisos rondan hoy los 2.200 €/m² orientativos. Salburua y Zabalgana, los ensanches de los 2000, pasan de 2.800. Aquí los proindivisos vienen de dos sitios: la herencia de un piso obrero y la ruptura de una pareja en un ensanche nuevo.",
+  "angulo": "Los hijos de quienes llegaron a Vitoria en los 60 heredan hoy pisos de Zaramaga o Coronación que no quieren ocupar porque viven en Lakua o Salburua. Muchas parejas que compraron en Zabalgana con hipoteca entre 2005 y 2010 se han separado y uno sigue en el piso sin poder quedárselo. En el Casco Viejo hay edificios antiguos entre varios herederos con rehabilitación pendiente. Y en los pueblos del municipio, como Aberasturi o Arkaia, casas con huerta repartidas entre primos.",
+  "tramites": "Las fincas de la capital se inscriben en el Registro de la Propiedad de Vitoria. La compra tributa por ITP al 7 % orientativo en la Hacienda Foral de Álava, y lo pagamos nosotros; la extinción de condominio posterior va por AJD al 0,5 %. La plusvalía la fija el Ayuntamiento de Vitoria-Gasteiz. En Vitoria no rige la troncalidad, que en Álava solo afecta a Llodio y Aramaio, así que la compra es directa.",
+  "faq": [
+   [
+    "Nos separamos y el piso de Zabalgana tiene hipoteca. ¿Qué pagáis por mi mitad?",
+    "Si el piso vale 220.000 euros orientativos y quedan 120.000 de hipoteca, el valor neto es 100.000 y tu mitad, 50.000. Te ofertamos de 20.000 a 35.000 euros y resolvemos la hipoteca en la misma firma."
+   ],
+   [
+    "Heredamos el piso de Zaramaga tres hermanos y uno no responde. ¿Puedo vender mi tercio?",
+    "Sí, sin su consentimiento. Nosotros le notificamos la compra y después negociamos con él o instamos la división. El dinero lo recibes en notaría en dos o cuatro semanas."
+   ],
+   [
+    "¿Compráis cuotas en los pueblos de la Llanada?",
+    "Sí. Salvatierra, Alegría, Nanclares, Iruña de Oca y cualquier concejo del municipio de Vitoria. La firma puede ser en Vitoria o en la notaría del pueblo."
+   ]
+  ],
+  "kw": [
+   "proindivisos vitoria",
+   "vender proindiviso vitoria gasteiz",
+   "empresas que compran proindivisos en vitoria",
+   "vender parte piso vitoria"
+  ]
+ },
+ {
+  "slug": "asturias",
+  "nombre": "Asturias",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Asturias",
+  "poblacion": "cerca de 1 millón de habitantes, la mitad entre Gijón, Oviedo y Avilés",
+  "precio_m2": "unos 1.700 €/m² de media, con Gijón y Oviedo por encima de 2.000 y las cuencas por debajo de 900 (orientativo, 2026)",
+  "zonas": [
+   "Gijón",
+   "Oviedo",
+   "Avilés",
+   "Siero",
+   "Cuenca del Nalón",
+   "Cuenca del Caudal",
+   "Langreo",
+   "Mieres",
+   "Llanes",
+   "Oriente",
+   "Occidente",
+   "Cangas del Narcea",
+   "Villaviciosa",
+   "Navia"
+  ],
+  "municipios": [
+   "Gijón",
+   "Oviedo",
+   "Avilés",
+   "Siero",
+   "Langreo",
+   "Mieres",
+   "Castrillón",
+   "San Martín del Rey Aurelio",
+   "Corvera de Asturias",
+   "Llanera",
+   "Villaviciosa",
+   "Laviana",
+   "Carreño",
+   "Aller",
+   "Lena",
+   "Cangas del Narcea",
+   "Llanes",
+   "Valdés",
+   "Gozón",
+   "Grado",
+   "Navia",
+   "Piloña",
+   "Tineo",
+   "Noreña"
+  ],
+  "mercado": "Asturias tiene dos mercados que no se parecen: el eje Gijón, Oviedo y Avilés, con pisos de los 70 por encima de 2.000 €/m² orientativos, y las cuencas mineras de Langreo, Mieres o San Martín del Rey Aurelio, donde un piso entero puede costar menos de 50.000 euros. Entre medias, casas de aldea con hórreo en el Oriente y el Occidente repartidas entre herederos emigrados.",
+  "angulo": "Las cuencas del Nalón y del Caudal se despoblaron al cerrar los pozos y dejaron pisos en Sama, La Felguera o Mieres a nombre de abuelos, con hijos en Gijón y nietos en Madrid que no quieren ni pagar la comunidad. En el Oriente y en Cangas del Narcea, la casería con cuadra y prados se divide entre primos que viven en Bélgica, Alemania o México desde hace dos generaciones. Y en Oviedo y Gijón, hermanos con un piso de los padres que uno ocupa sin pagar.",
+  "tramites": "Hay Registros de la Propiedad en Oviedo, Gijón, Avilés, Langreo, Mieres, Pola de Siero, Llanes, Cangas de Onís, Luarca, Tineo y Cangas del Narcea, entre otros. Liquidamos el ITP ante los Servicios Tributarios del Principado, al 8 % orientativo en los tramos bajos y hasta el 10 % en los altos; la extinción de condominio tributa por AJD al 1,2 %. La plusvalía la fija cada concejo.",
+  "faq": [
+   [
+    "Tengo un tercio de un piso en La Felguera que vale 40.000 euros. ¿Merece la pena?",
+    "Te ofertamos de 5.000 a 9.000 euros al contado. Es poco dinero, pero más que lo que te da un piso cerrado que paga IBI, comunidad y derramas de una finca de los 60."
+   ],
+   [
+    "La casería de mis abuelos en Cangas del Narcea tiene doce herederos, varios en Bélgica. ¿Compráis mi parte?",
+    "Sí. Compramos tu doceava parte sin que firmen los demás y después negociamos con ellos. Valoramos casa, cuadra, hórreo y prados aunque lleven años sin uso."
+   ],
+   [
+    "¿Cubrís toda Asturias o solo el centro?",
+    "Todo el Principado, de Vegadeo a Ribadedeva y de Luanco a Pajares. Firmamos en la notaría más cercana a ti; si vives fuera, con poder."
+   ]
+  ],
+  "kw": [
+   "proindivisos asturias",
+   "vender proindiviso asturias",
+   "empresas que compran proindivisos en asturias",
+   "vender parte piso cuencas mineras"
+  ]
+ },
+ {
+  "slug": "gijon",
+  "nombre": "Gijón",
+  "tipo": "ciudad",
+  "padre": "asturias",
+  "en": "en Gijón",
+  "poblacion": "cerca de 270.000 habitantes",
+  "precio_m2": "unos 2.100 €/m², con Somió y el Muro muy por encima y La Calzada por debajo (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Cimadevilla",
+   "El Llano",
+   "La Calzada",
+   "Pumarín",
+   "El Coto",
+   "Somió",
+   "Viesques",
+   "La Arena",
+   "Natahoyo",
+   "Tremañes",
+   "Nuevo Gijón",
+   "Montevil",
+   "Contrueces"
+  ],
+  "municipios": [
+   "Centro",
+   "Cimadevilla",
+   "El Llano",
+   "La Calzada",
+   "Pumarín",
+   "El Coto",
+   "Somió",
+   "Viesques",
+   "La Arena",
+   "Natahoyo",
+   "Tremañes",
+   "Nuevo Gijón",
+   "Montevil",
+   "Contrueces"
+  ],
+  "mercado": "Gijón es la ciudad más poblada de Asturias y su parque de viviendas se levantó en los 60 y 70 para los obreros de Uninsa, los astilleros y el puerto de El Musel: El Llano, La Calzada, Natahoyo o Pumarín rondan los 1.900 €/m² orientativos. El Centro, La Arena y Somió superan los 3.000. El proindiviso típico es el piso de los padres en El Llano con un hermano dentro.",
+  "angulo": "El Llano es uno de los barrios más poblados de Asturias y casi todos sus pisos tienen cuarenta o cincuenta años: se heredan entre tres hermanos, uno vive dentro, otro en Madrid y el tercero quiere cobrar. En La Calzada y Natahoyo hay pisos de los astilleros con viudas en usufructo y nudos propietarios que no se hablan. Somió y Cabueñes tienen quintanas y chalets repartidos entre primos. Y en Cimadevilla, casas de pescadores entre varios herederos con rehabilitación cara.",
+  "tramites": "Gijón reparte sus fincas entre varios Registros de la Propiedad según la zona. El ITP, un 8 % orientativo que corre de nuestra cuenta, se ingresa en los Servicios Tributarios del Principado de Asturias. La plusvalía la fija el Ayuntamiento de Gijón y la calculamos contigo antes de firmar. Si hay usufructo de viuda, compramos la nuda propiedad o la cuota con usufructo, según el caso.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un tercio de un piso en El Llano?",
+    "Un piso de 140.000 euros orientativos en El Llano da un tercio de unos 47.000. Te ofertamos de 19.000 a 33.000 euros, menos si no hay ascensor y más si está reformado."
+   ],
+   [
+    "Mi madre tiene el usufructo del piso de La Calzada y mis hermanos no quieren vender. ¿Compráis mi nuda propiedad?",
+    "Sí. La nuda propiedad se compra igual que una cuota plena, solo que con el usufructo de tu madre inscrito. Descontamos ese usufructo de la oferta y cobras ahora en lugar de dentro de años."
+   ],
+   [
+    "¿Compráis parte de una quintana en Somió o en las parroquias?",
+    "Sí. Valoramos casa, finca y si es suelo urbanizable, y te ofertamos por tu participación. También en Cabueñes, Deva, Caldones o Porceyo."
+   ]
+  ],
+  "kw": [
+   "proindivisos gijon",
+   "vender proindiviso gijon",
+   "empresas que compran proindivisos en gijon",
+   "vender parte piso gijon"
+  ]
+ },
+ {
+  "slug": "oviedo",
+  "nombre": "Oviedo",
+  "tipo": "ciudad",
+  "padre": "asturias",
+  "en": "en Oviedo",
+  "poblacion": "cerca de 220.000 habitantes",
+  "precio_m2": "unos 2.000 €/m², con el centro y Buenavista por encima de 3.000 (orientativo, 2026)",
+  "zonas": [
+   "Casco Antiguo",
+   "Centro",
+   "La Corredoria",
+   "Pumarín",
+   "Ventanielles",
+   "Teatinos",
+   "Ciudad Naranco",
+   "Buenavista",
+   "La Florida",
+   "Montecerrao",
+   "Vallobín",
+   "La Tenderina",
+   "Otero",
+   "San Lázaro"
+  ],
+  "municipios": [
+   "Casco Antiguo",
+   "Centro",
+   "La Corredoria",
+   "Pumarín",
+   "Ventanielles",
+   "Teatinos",
+   "Ciudad Naranco",
+   "Buenavista",
+   "La Florida",
+   "Montecerrao",
+   "Vallobín",
+   "La Tenderina",
+   "Otero",
+   "Las Campas"
+  ],
+  "mercado": "Oviedo es ciudad de funcionarios, sanitarios del HUCA y profesionales, y su mercado lo refleja: el Centro, Uría y Buenavista pasan de 3.000 €/m² orientativos mientras Pumarín, Ventanielles, Teatinos o La Tenderina, barrios de los 60 y 70, rondan los 1.800. La Corredoria, el barrio más joven, se llenó de pisos con hipoteca en los 2000. Compramos cuotas en todos.",
+  "angulo": "Los pisos del Ensanche y de la calle Uría se compraron hace cincuenta años y hoy los heredan hijos que viven en Madrid; valen demasiado para que uno compre a los otros y se quedan alquilados a medias. En Ventanielles y Pumarín, un hermano vive en el piso de los padres y no paga. La Corredoria y Las Campas están llenas de divorcios con hipoteca de 2006. Y en Trubia, Olloniego o las parroquias del Naranco, casas con finca entre primos.",
+  "tramites": "Las fincas de Oviedo se inscriben en varios Registros de la Propiedad, cada uno con sus calles. Liquidamos el ITP del 8 % orientativo, o más según tramo, ante los Servicios Tributarios del Principado, con sede aquí mismo. La plusvalía la fija el Ayuntamiento de Oviedo. Si la cuota está en un piso con hipoteca, la cancelamos en la misma firma.",
+  "faq": [
+   [
+    "¿Cuánto vale mi cuarto de un piso en Uría?",
+    "Un piso de 400.000 euros orientativos en Uría da un cuarto de 100.000. Te ofertamos de 40.000 a 70.000 euros al contado en notaría, en dos o cuatro semanas."
+   ],
+   [
+    "Nos separamos y el piso de La Corredoria tiene hipoteca. ¿Compráis mi mitad?",
+    "Sí, si la deuda es menor que el valor. Descontamos lo pendiente, te ofertamos por el resto y en la firma cancelamos o nos subrogamos. Tú sales del préstamo."
+   ],
+   [
+    "¿Cubrís Siero, Llanera y Noreña?",
+    "Sí, toda el área central: Lugones, Pola de Siero, Posada de Llanera, Noreña, Colloto y Las Regueras. Firmamos en Oviedo o en el municipio del piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos oviedo",
+   "vender proindiviso oviedo",
+   "empresas que compran proindivisos en oviedo",
+   "vender parte piso oviedo"
+  ]
+ },
+ {
+  "slug": "aviles",
+  "nombre": "Avilés",
+  "tipo": "ciudad",
+  "padre": "asturias",
+  "en": "en Avilés",
+  "poblacion": "cerca de 78.000 habitantes en la ciudad y unos 130.000 en la comarca con Castrillón, Corvera y Gozón",
+  "precio_m2": "unos 1.300 €/m², con el casco histórico y Las Meanas más caros (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "Casco Histórico",
+   "Sabugo",
+   "Versalles",
+   "La Luz",
+   "Llaranes",
+   "El Quirinal",
+   "La Magdalena",
+   "Jardín de Cantos",
+   "Las Meanas",
+   "La Carriona",
+   "Miranda",
+   "Valliniello",
+   "El Pozón"
+  ],
+  "municipios": [
+   "Centro",
+   "Casco Histórico",
+   "Sabugo",
+   "Versalles",
+   "La Luz",
+   "Llaranes",
+   "El Quirinal",
+   "La Magdalena",
+   "Jardín de Cantos",
+   "Las Meanas",
+   "La Carriona",
+   "Miranda"
+  ],
+  "mercado": "Avilés se construyó alrededor de Ensidesa: Llaranes fue poblado de empresa, y La Luz, Versalles, El Quirinal y La Magdalena se levantaron en los 50 y 60 para los trabajadores de la siderurgia. Esos pisos rondan hoy los 1.200 €/m² orientativos; el casco histórico y Las Meanas, algo más. Los proindivisos avilesinos son casi todos herencias de aquellas viviendas.",
+  "angulo": "La generación que vino de Castilla, Extremadura y Galicia a trabajar en Ensidesa compró piso en La Luz o Versalles, y sus hijos lo heredan hoy sin querer vivir en él. Muchas de esas fincas no tienen ascensor y nadie quiere pagar la derrama. En Llaranes los pisos del poblado se han ido vendiendo entre vecinos, pero quedan herencias sin partir. En Salinas y Castrillón, chalets de verano a medias entre hermanos. Te compramos la cuota aunque el piso lleve años vacío.",
+  "tramites": "El Registro de la Propiedad de Avilés cubre la ciudad y municipios de la comarca como Castrillón, Corvera y Gozón. Liquidamos el ITP del 8 % orientativo ante los Servicios Tributarios del Principado. La plusvalía la fija el Ayuntamiento de Avilés y, en barrios donde el valor no ha subido, puede salir a cero.",
+  "faq": [
+   [
+    "¿Cuánto vale mi tercio de un piso en La Luz sin ascensor?",
+    "Un piso de 70.000 euros orientativos en La Luz da un tercio de 23.000. Te ofertamos de 9.000 a 16.000 euros al contado. Si la finca tiene ascensor aprobado, mejoramos la cifra."
+   ],
+   [
+    "Mis hermanos viven en Madrid y el piso de Versalles lleva años cerrado. ¿Puedo vender solo mi parte?",
+    "Sí. Vendes tu cuota sin que ellos firmen; nosotros les notificamos y después negociamos con ellos. Cobras en notaría y dejas de pagar comunidad e IBI."
+   ],
+   [
+    "¿Compráis en Salinas, Piedras Blancas y Luanco?",
+    "Sí, toda la comarca de Avilés: Castrillón, Corvera, Gozón, Illas y Soto del Barco. Firmamos en Avilés o en la notaría que elijas."
+   ]
+  ],
+  "kw": [
+   "proindivisos aviles",
+   "vender proindiviso aviles",
+   "empresas que compran proindivisos en aviles",
+   "vender parte piso aviles"
+  ]
+ },
+ {
+  "slug": "cantabria",
+  "nombre": "Cantabria",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Cantabria",
+  "poblacion": "cerca de 590.000 habitantes, unos 175.000 en Santander",
+  "precio_m2": "unos 2.000 €/m² de media, con Santander por encima de 2.700 y Noja o Castro cerca de 2.500 (orientativo, 2026)",
+  "zonas": [
+   "Santander",
+   "Torrelavega",
+   "Castro-Urdiales",
+   "Laredo",
+   "Santoña",
+   "Noja",
+   "Suances",
+   "Comillas",
+   "Valles Pasiegos",
+   "Campoo",
+   "Liébana",
+   "Besaya",
+   "Trasmiera",
+   "Camargo"
+  ],
+  "municipios": [
+   "Santander",
+   "Torrelavega",
+   "Castro-Urdiales",
+   "Camargo",
+   "Piélagos",
+   "El Astillero",
+   "Laredo",
+   "Santa Cruz de Bezana",
+   "Los Corrales de Buelna",
+   "Santoña",
+   "Reinosa",
+   "Santa María de Cayón",
+   "Suances",
+   "Colindres",
+   "Medio Cudeyo",
+   "Cabezón de la Sal",
+   "Marina de Cudeyo",
+   "Polanco",
+   "Noja",
+   "Ribamontán al Mar",
+   "Comillas",
+   "San Vicente de la Barquera"
+  ],
+  "mercado": "Cantabria tiene uno de los porcentajes más altos de segunda residencia de España: en Noja, Laredo, Suances o Comillas más de la mitad de los pisos son de veraneo, muchos de familias de Bilbao, Madrid o Valladolid. Santander ronda los 2.700 €/m² orientativos; Torrelavega y el Besaya bajan de 1.500. Los proindivisos salen de apartamentos de playa y de pisos de los padres en Santander.",
+  "angulo": "Un apartamento en Noja o en la playa de Laredo comprado en los 80 por una familia vizcaína se hereda hoy entre tres hermanos: uno lo usa en agosto, otro vive en Madrid y el tercero quiere su dinero. En Torrelavega y Los Corrales, pisos de Sniace, Solvay o las Forjas repartidos entre hijos que se han ido. En los Valles Pasiegos y en Campoo, cabañas y prados entre primos que ya no ganadean. Y en Liébana, casas de pueblo en Potes o Camaleño con herederos que viven en Santander.",
+  "tramites": "Hay Registros de la Propiedad en Santander, Torrelavega, Castro-Urdiales, Laredo, Santoña, Reinosa, Medio Cudeyo, San Vicente de la Barquera, Potes y Villacarriedo. Liquidamos el ITP del 9 % orientativo ante la Agencia Cántabra de Administración Tributaria y, cuando después extinguimos el condominio, el AJD del 1,5 %. Cada ayuntamiento cántabro decide su plusvalía y los de costa suelen tenerla alta.",
+  "faq": [
+   [
+    "¿Compráis mi tercio de un apartamento en Noja que solo usamos en verano?",
+    "Sí. Un apartamento de 180.000 euros orientativos en Noja da un tercio de 60.000 y te ofertamos de 24.000 a 42.000 euros. Tus hermanos pueden seguir usándolo; nosotros negociamos con ellos."
+   ],
+   [
+    "Heredé parte de una cabaña pasiega con prados. ¿Tiene valor?",
+    "Sí, sobre todo si la cabaña está inscrita y tiene acceso. Valoramos la superficie, el estado y la posibilidad de uso turístico, y te ofertamos por tu participación."
+   ],
+   [
+    "¿Trabajáis en Torrelavega y en los valles o solo en Santander?",
+    "En toda Cantabria, de Castro-Urdiales a Unquera y de Reinosa a Potes. Vamos a firmar a la notaría que mejor te venga."
+   ]
+  ],
+  "kw": [
+   "proindivisos cantabria",
+   "vender proindiviso cantabria",
+   "empresas que compran proindivisos en cantabria",
+   "vender parte apartamento noja"
+  ]
+ },
+ {
+  "slug": "santander",
+  "nombre": "Santander",
+  "tipo": "ciudad",
+  "padre": "cantabria",
+  "en": "en Santander",
+  "poblacion": "cerca de 175.000 habitantes",
+  "precio_m2": "unos 2.800 €/m², con El Sardinero y Puertochico por encima de 4.000 (orientativo, 2026)",
+  "zonas": [
+   "Centro",
+   "El Sardinero",
+   "Puertochico",
+   "Castilla-Hermida",
+   "Cuatro Caminos",
+   "General Dávila",
+   "Cazoña",
+   "Peñacastillo",
+   "Monte",
+   "Cueto",
+   "Valdenoja",
+   "Nueva Montaña",
+   "La Albericia",
+   "Calle Alta"
+  ],
+  "municipios": [
+   "Centro",
+   "El Sardinero",
+   "Puertochico",
+   "Castilla-Hermida",
+   "Cuatro Caminos",
+   "General Dávila",
+   "Cazoña",
+   "Peñacastillo",
+   "Monte",
+   "Cueto",
+   "Valdenoja",
+   "Nueva Montaña",
+   "La Albericia",
+   "Calle Alta"
+  ],
+  "mercado": "Santander mezcla pisos burgueses de El Sardinero, Puertochico y el Paseo Pereda, por encima de 4.000 €/m² orientativos, con barrios de los 60 y 70 como Castilla-Hermida, Cazoña, El Alisal o General Dávila, en torno a 2.300. Monte, Cueto y Peñacastillo guardan todavía casas con huerta. Los proindivisos santanderinos son pisos del centro heredados por hijos que viven en Madrid.",
+  "angulo": "Muchos pisos del Sardinero y Puertochico se compraron como segunda residencia por familias madrileñas y castellanas en los 60 y 70; hoy los heredan primos repartidos entre Madrid, Bilbao y Valladolid que solo coinciden en agosto. En Castilla-Hermida y Cuatro Caminos, pisos de los padres con un hermano dentro. En Cueto y Monte, las antiguas fincas de labranza se han convertido en suelo urbano y su reparto entre herederos vale mucho. Pagamos tu cuota en notaría y nos entendemos con el resto.",
+  "tramites": "Santander cuenta con varios Registros de la Propiedad y cada distrito tiene el suyo. El ITP, un 9 % orientativo que pagamos nosotros, se ingresa en la Agencia Cántabra de Administración Tributaria. La plusvalía la fija el Ayuntamiento de Santander y en el Sardinero o el centro puede ser alta; la estimamos contigo antes de la firma.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por un cuarto de un piso en Puertochico?",
+    "Un piso de 380.000 euros orientativos en Puertochico da un cuarto de 95.000. Te ofertamos de 38.000 a 66.000 euros al contado, por escrito en 48 horas."
+   ],
+   [
+    "Somos cinco primos con un piso en El Sardinero que solo se usa en verano. ¿Compráis a varios?",
+    "Sí. Cada primo recibe su propia oferta y las escrituras se otorgan en una sola sesión en notaría. El que prefiera conservar su parte sigue como copropietario y hablamos con él más adelante."
+   ],
+   [
+    "¿Cubrís Camargo, Bezana, El Astillero y Piélagos?",
+    "Sí, toda la bahía y el arco de Santander, de Suances a Somo. Firmamos en la capital o en el municipio del piso."
+   ]
+  ],
+  "kw": [
+   "proindivisos santander",
+   "vender proindiviso santander",
+   "empresas que compran proindivisos en santander",
+   "vender parte piso santander"
+  ]
+ },
+ {
+  "slug": "navarra",
+  "nombre": "Navarra",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en Navarra",
+  "poblacion": "cerca de 680.000 habitantes, más de la mitad en la comarca de Pamplona",
+  "precio_m2": "unos 2.300 €/m² de media, con Pamplona por encima de 2.700 y la Ribera por debajo de 1.300 (orientativo, 2026)",
+  "zonas": [
+   "Pamplona",
+   "Comarca de Pamplona",
+   "Tudela",
+   "Ribera",
+   "Estella-Lizarra",
+   "Tafalla",
+   "Sangüesa",
+   "Baztan",
+   "Sakana",
+   "Zona Media",
+   "Valle de Egüés",
+   "Tierra Estella",
+   "Roncal",
+   "Barañáin"
+  ],
+  "municipios": [
+   "Pamplona",
+   "Tudela",
+   "Barañáin",
+   "Valle de Egüés",
+   "Burlada",
+   "Estella-Lizarra",
+   "Zizur Mayor",
+   "Tafalla",
+   "Ansoáin",
+   "Villava",
+   "Berriozar",
+   "Aranguren",
+   "Noáin",
+   "Cintruénigo",
+   "Corella",
+   "Alsasua",
+   "Peralta",
+   "San Adrián",
+   "Baztan",
+   "Huarte",
+   "Olite",
+   "Sangüesa",
+   "Castejón",
+   "Lodosa"
+  ],
+  "mercado": "Navarra tiene su propio derecho civil y su propia Hacienda, y eso cambia cómo se heredan y se transmiten las cuotas. Pamplona y su comarca rondan los 2.700 €/m² orientativos; Tudela y la Ribera, en torno a 1.200; y en Tierra Estella o la Zona Media hay casas de pueblo por debajo de 60.000 euros. Compramos participaciones en todos estos mercados.",
+  "angulo": "El Fuero Nuevo permite libertad de testar y pactos sucesorios, pero también reconoce al cónyuge viudo el usufructo de fidelidad sobre todos los bienes: los hijos heredan la nuda propiedad en proindiviso y no pueden disponer hasta que la madre o el padre fallece. Por eso hay tantas cuotas bloqueadas en pisos de Pamplona y en casas de la Ribera. En los valles del norte, la casa de Baztan pasa a un hijo y los demás reciben cuotas pequeñas. En Tudela y Corella, fincas de regadío entre hermanos. Compramos nuda propiedad y cuotas de pleno dominio.",
+  "tramites": "Hay Registros de la Propiedad en Pamplona, Tudela, Estella, Tafalla, Aoiz y Elizondo. Liquidamos el ITP del 6 % orientativo ante la Hacienda Foral de Navarra, uno de los tipos más bajos de España, y, al extinguir el condominio, el 0,5 % de AJD. La plusvalía la fija cada ayuntamiento o concejo. La comprobación de valores sigue criterios forales propios.",
+  "faq": [
+   [
+    "Mi madre tiene el usufructo de fidelidad del piso de mi padre. ¿Puedo vender mi parte de la nuda propiedad?",
+    "Sí. Tu nuda propiedad se puede vender aunque el usufructo de fidelidad siga vigente; lo respetamos y lo hacemos constar en la escritura. La oferta descuenta el valor del usufructo según la edad de tu madre, y cobras en notaría sin esperar."
+   ],
+   [
+    "¿Compráis parte de una casa en Baztan o en el Roncal?",
+    "Sí, incluidas las casas de los valles repartidas entre hermanos que viven en Pamplona o en Francia. Valoramos la casa, las bordas y los prados y te damos precio por tu cuota."
+   ],
+   [
+    "¿Cubrís Tudela y la Ribera?",
+    "Sí, toda Navarra, de Bera a Cortes y de Viana a Burgui. Firmamos en Pamplona, Tudela, Estella o donde te pille más cerca."
+   ]
+  ],
+  "kw": [
+   "proindivisos navarra",
+   "vender proindiviso navarra",
+   "empresas que compran proindivisos en navarra",
+   "vender nuda propiedad navarra"
+  ]
+ },
+ {
+  "slug": "pamplona",
+  "nombre": "Pamplona",
+  "tipo": "ciudad",
+  "padre": "navarra",
+  "en": "en Pamplona",
+  "poblacion": "cerca de 205.000 habitantes en la ciudad y unos 370.000 en la comarca",
+  "precio_m2": "unos 2.800 €/m², con el Ensanche e Iturrama por encima de 3.500 (orientativo, 2026)",
+  "zonas": [
+   "Casco Antiguo",
+   "Ensanche",
+   "Iturrama",
+   "San Juan",
+   "Rochapea",
+   "Chantrea",
+   "Milagrosa",
+   "Azpilagaña",
+   "Mendillorri",
+   "Buztintxuri",
+   "San Jorge",
+   "Ermitagaña",
+   "Mendebaldea",
+   "Lezkairu"
+  ],
+  "municipios": [
+   "Casco Antiguo",
+   "Ensanche",
+   "Iturrama",
+   "San Juan",
+   "Rochapea",
+   "Chantrea",
+   "Milagrosa",
+   "Azpilagaña",
+   "Mendillorri",
+   "Buztintxuri",
+   "San Jorge",
+   "Ermitagaña",
+   "Mendebaldea",
+   "Lezkairu"
+  ],
+  "mercado": "Pamplona es una ciudad de pisos de los 60 y 70: la Chantrea, la Rochapea, San Juan, Iturrama y la Milagrosa se levantaron para los trabajadores de Volkswagen y la industria de la comarca y rondan los 2.500 €/m² orientativos. El Ensanche pasa de 3.500 y Lezkairu, el barrio nuevo, ronda los 3.000. Los proindivisos nacen de herencias con usufructo de fidelidad y de divorcios en Mendillorri o Buztintxuri.",
+  "angulo": "El usufructo de fidelidad del Fuero Nuevo es la causa más habitual del proindiviso pamplonés: al morir el padre, la madre conserva el usufructo de todo y los hijos se quedan con la nuda propiedad del piso de San Juan o Iturrama a partes iguales, sin poder vender ni alquilar. Cuando la madre fallece, el piso sigue a medias entre hermanos que ya viven en Zizur, Barañáin o Madrid. En Mendillorri y Buztintxuri, parejas con hipoteca de 2007 que se separan. Compramos la cuota y, si hace falta, la nuda propiedad.",
+  "tramites": "Los pisos de Pamplona se reparten entre varios Registros de la Propiedad. El ITP, un 6 % orientativo a nuestro cargo, se ingresa en la Hacienda Foral de Navarra, con sede en la propia ciudad. La plusvalía la fija el Ayuntamiento de Pamplona. En los pisos con nuda propiedad, inscribimos la cuota con el usufructo vigente.",
+  "faq": [
+   [
+    "¿Qué oferta hacéis por el 50 % de un piso en Iturrama?",
+    "Un piso de 300.000 euros orientativos en Iturrama da una mitad de 150.000. Te ofertamos de 60.000 a 105.000 euros al contado, por escrito en 48 horas."
+   ],
+   [
+    "Somos cuatro hermanos con la nuda propiedad del piso de la Chantrea y mi madre sigue viviendo allí. ¿Me compráis mi 25 %?",
+    "Sí. Compramos tu nuda propiedad respetando el usufructo de tu madre. Pagamos menos que por el pleno dominio, pero cobras ya y no quedas pendiente del reparto futuro."
+   ],
+   [
+    "¿Cubrís Barañáin, Burlada, Zizur y el Valle de Egüés?",
+    "Sí, toda la comarca de Pamplona: también Villava, Berriozar, Ansoáin, Huarte, Noáin y Sarriguren. Firmamos donde esté el piso o en Pamplona, como prefieras."
+   ]
+  ],
+  "kw": [
+   "proindivisos pamplona",
+   "vender proindiviso pamplona",
+   "empresas que compran proindivisos en pamplona",
+   "vender nuda propiedad piso pamplona"
+  ]
+ },
+ {
+  "slug": "la-rioja",
+  "nombre": "La Rioja",
+  "tipo": "ccaa",
+  "padre": null,
+  "en": "en La Rioja",
+  "poblacion": "cerca de 325.000 habitantes, casi la mitad en Logroño",
+  "precio_m2": "unos 1.700 €/m² de media, con Logroño cerca de 2.000 y Calahorra o Arnedo en torno a 1.100 (orientativo, 2026)",
+  "zonas": [
+   "Logroño",
+   "Calahorra",
+   "Arnedo",
+   "Haro",
+   "Alfaro",
+   "Nájera",
+   "Santo Domingo de la Calzada",
+   "Rioja Alta",
+   "Rioja Oriental",
+   "Cameros",
+   "Ezcaray",
+   "Cervera del Río Alhama",
+   "Lardero",
+   "Villamediana de Iregua"
+  ],
+  "municipios": [
+   "Logroño",
+   "Calahorra",
+   "Arnedo",
+   "Haro",
+   "Alfaro",
+   "Lardero",
+   "Nájera",
+   "Villamediana de Iregua",
+   "Santo Domingo de la Calzada",
+   "Autol",
+   "Rincón de Soto",
+   "Cervera del Río Alhama",
+   "Ezcaray",
+   "Fuenmayor",
+   "Aldeanueva de Ebro",
+   "Pradejón",
+   "Navarrete",
+   "Alberite",
+   "Quel",
+   "Cenicero",
+   "San Vicente de la Sonsierra",
+   "Albelda de Iregua"
+  ],
+  "mercado": "La Rioja es pequeña y muy concentrada: Logroño ronda los 2.000 €/m² orientativos, Calahorra y Arnedo bajan de 1.200 y en los pueblos de los Cameros o de la Sonsierra hay casas de piedra por menos de 40.000 euros. El viñedo es el otro gran activo: parcelas de Rioja Alta y Rioja Oriental que valen más que la casa del pueblo.",
+  "angulo": "Las viñas se heredan a partes iguales y acaban con tres hermanos: uno vendimia y entrega la uva a la cooperativa de Haro o de Cenicero, los otros viven en Logroño o Bilbao y solo quieren cobrar su parte. En Calahorra y Arnedo, pisos de la conserva y el calzado que se reparten entre hijos. En los Cameros y en el valle del Oja, casas de pueblos casi vacíos como Torrecilla, Ortigosa o Viniegra con diez herederos. Y en Logroño, pisos de San José o Madre de Dios con un hermano dentro.",
+  "tramites": "Hay Registros de la Propiedad en Logroño, Calahorra, Arnedo, Haro, Nájera, Santo Domingo de la Calzada, Alfaro, Cervera y Torrecilla en Cameros. Liquidamos el ITP del 7 % orientativo ante la Dirección General de Tributos de La Rioja y la extinción de condominio al 1 % de AJD. Cada ayuntamiento riojano fija su plusvalía y en los pueblos de la sierra a menudo no existe.",
+  "faq": [
+   [
+    "¿Cuánto pagáis por mi tercio de una viña en la Rioja Alta?",
+    "Influyen las hectáreas, la edad de las cepas y si la parcela está dentro de la DOCa. Valoramos la finca por hectárea, calculamos tu tercio y te ofertamos entre el 40 % y el 70 % de ese valor, por escrito."
+   ],
+   [
+    "Heredé parte de una casa en los Cameros con nueve primos. ¿Compráis algo tan repartido?",
+    "Sí. Compramos tu décima parte y luego vamos comprando a los primos que quieran vender. Las casas de pueblo en Torrecilla, Villoslada o Lumbreras valen poco, pero las compramos igual."
+   ],
+   [
+    "¿Cubrís Calahorra, Arnedo y la Rioja Oriental?",
+    "Sí, toda la comunidad, de Haro a Alfaro y de Ezcaray a Cervera. Firmamos donde te resulte más cómodo, también en Calahorra o Haro."
+   ]
+  ],
+  "kw": [
+   "proindivisos la rioja",
+   "vender proindiviso la rioja",
+   "empresas que compran proindivisos en la rioja",
+   "vender parte viña heredada rioja"
+  ]
+ },
+ {
+  "slug": "logrono",
+  "nombre": "Logroño",
+  "tipo": "ciudad",
+  "padre": "la-rioja",
+  "en": "en Logroño",
+  "poblacion": "cerca de 155.000 habitantes",
+  "precio_m2": "unos 2.000 €/m², con el Casco Antiguo reformado y El Cubo por encima (orientativo, 2026)",
+  "zonas": [
+   "Casco Antiguo",
+   "Centro",
+   "El Cubo",
+   "Cascajos",
+   "Valdegastea",
+   "La Estrella",
+   "Yagüe",
+   "Madre de Dios",
+   "San José",
+   "Lobete",
+   "Varea",
+   "Los Lirios",
+   "La Guindalera",
+   "El Arco"
+  ],
+  "municipios": [
+   "Casco Antiguo",
+   "Centro",
+   "El Cubo",
+   "Cascajos",
+   "Valdegastea",
+   "La Estrella",
+   "Yagüe",
+   "Madre de Dios",
+   "San José",
+   "Lobete",
+   "Varea",
+   "Los Lirios",
+   "La Guindalera",
+   "El Arco"
+  ],
+  "mercado": "Logroño se levantó en los 60 y 70 alrededor de la industria agroalimentaria y la Gran Vía: Madre de Dios, San José, Lobete o La Estrella tienen bloques de esa época en torno a 1.700 €/m² orientativos. El Cubo, Cascajos y Valdegastea, de los 2000, superan los 2.300. El Casco Antiguo guarda edificios enteros entre herederos y pisos pequeños alquilados.",
+  "angulo": "Logroño absorbió a medio pueblo de La Rioja en los 60: los abuelos compraron piso en San José o Madre de Dios y dejaron además la casa y la viña en Cenicero o Nalda. Hoy sus nietos tienen cuotas en las tres cosas y no se ponen de acuerdo en ninguna. En El Cubo y Cascajos hay pisos de parejas que se separaron con hipoteca de 2008. En Varea y La Guindalera, huertas convertidas en suelo urbano entre primos. Y en el Casco Antiguo, edificios de la calle Mayor o Ruavieja con seis herederos y obras pendientes.",
+  "tramites": "En Logroño hay más de un Registro de la Propiedad y el tuyo depende de la calle. El ITP de la compra, un 7 % orientativo a nuestro cargo, se ingresa en la Dirección General de Tributos de La Rioja, con sede en la ciudad. La plusvalía la fija el Ayuntamiento de Logroño; la calculamos contigo antes de firmar. Si la herencia incluye viña fuera de la ciudad, la valoramos en la misma oferta.",
+  "faq": [
+   [
+    "¿Cuánto dais por medio piso en Madre de Dios?",
+    "Un piso de 125.000 euros orientativos en Madre de Dios da una mitad de 62.500. Te ofertamos de 25.000 a 44.000 euros al contado, más si tiene ascensor y menos si necesita obra."
+   ],
+   [
+    "Mi hermano se quedó viviendo en el piso de San José y no quiere vender. ¿Puedo vender mi parte?",
+    "Sí, sin su permiso. Nosotros entramos como copropietarios y le proponemos comprarle o venderle; si se cierra en banda, instamos la división. Tú ya habrás cobrado en notaría."
+   ],
+   [
+    "¿Compráis en Lardero, Villamediana y Navarrete?",
+    "Sí, toda el área de Logroño, también Alberite, Fuenmayor, Agoncillo y Arrúbal. Firmamos en la capital o donde esté el inmueble."
+   ]
+  ],
+  "kw": [
+   "proindivisos logroño",
+   "vender proindiviso logroño",
+   "empresas que compran proindivisos en logroño",
+   "vender parte piso logroño"
+  ]
+ }
+]

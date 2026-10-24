@@ -1,0 +1,71 @@
+- /blog/vender-herencia-sin-escriturar/ : ¿Se puede vender una casa heredada sin escrituras? Lo que hay que hacer antes
+- /blog/vender-mi-parte-de-la-herencia-a-otro-heredero/ : Vender mi parte de la herencia a otro heredero: pasos e impuestos de cada uno
+- /blog/herencia-cuatro-hermanos-dos-quieren-vender/ : Herencia de 4 hermanos: dos quieren vender y dos no. Qué pasa y cómo se resuelve
+- /blog/como-se-reparte-una-herencia-de-una-casa-entre-hermanos/ : Cómo se reparte una herencia de una casa entre hermanos (con y sin testamento)
+- /blog/vender-un-piso-heredado-impuestos/ : Vender un piso heredado: impuestos, plazos y cómo declararlo
+- /blog/vender-parte-herencia-desde-el-extranjero/ : Vender tu parte de una herencia en España viviendo en el extranjero
+- /blog/no-quiero-vender-mi-parte-de-la-casa/ : No quiero vender mi parte de la casa: tus derechos y qué pueden hacer los demás
+- /blog/extincion-de-condominio-con-compensacion-economica/ : Extinción de condominio con compensación económica: cómo se calcula y qué impuestos lleva
+- /blog/extincion-de-condominio-sin-compensacion-economica/ : Extinción de condominio sin compensación económica: cuándo es posible y qué dice Hacienda
+- /blog/escritura-de-extincion-de-condominio/ : Escritura de extinción de condominio: qué contiene, documentos y quién firma
+- /blog/extincion-parcial-de-condominio/ : Extinción parcial de condominio: cuando sale solo uno de los copropietarios
+- /blog/ejemplo-de-extincion-de-condominio-con-cifras/ : Ejemplo de extinción de condominio con cifras: tres casos resueltos paso a paso
+- /blog/hipoteca-para-extincion-de-condominio/ : Hipoteca para extinción de condominio: qué piden los bancos y cómo conseguirla
+- /blog/disolucion-de-condominio-entre-hermanos/ : Disolución de condominio entre hermanos: es lo mismo que la extinción y así se hace
+- /blog/cuanto-cobra-el-notario-extincion-de-condominio/ : Cuánto cobra el notario por una extinción de condominio en 2026
+- /blog/valor-de-la-vivienda-en-la-extincion-de-condominio/ : Qué valor poner a la vivienda en la extinción de condominio (y qué pasa si lo pones bajo)
+- /blog/extincion-de-condominio-por-divorcio/ : Extinción de condominio por divorcio: cómo quedarse la casa o salir de ella
+- /blog/vender-o-hacer-extincion-de-condominio/ : ¿Qué es mejor, vender mi parte o hacer una extinción de condominio?
+- /blog/que-significa-proindiviso-en-una-escritura/ : Qué significa proindiviso en una escritura (y qué es una mitad indivisa)
+- /blog/proindiviso-ventajas-y-desventajas/ : Proindiviso: ventajas y desventajas de tener una propiedad compartida
+- /blog/proindiviso-condominio-comunidad-de-bienes-diferencias/ : Proindiviso, condominio y comunidad de bienes: diferencias (y por qué es lo mismo)
+- /blog/proindiviso-codigo-civil/ : El proindiviso en el Código Civil: artículos 392 a 406 explicados en lenguaje claro
+- /blog/como-se-calcula-la-cuota-de-un-proindiviso/ : Cómo se calcula tu cuota en un proindiviso y cuánto vale
+- /blog/riesgos-de-un-proindiviso/ : Los 9 riesgos de un proindiviso que nadie te cuenta (y cómo evitarlos)
+- /blog/merece-la-pena-comprar-un-proindiviso/ : ¿Merece la pena comprar un proindiviso? Riesgos, rentabilidad y quién lo hace de verdad
+- /blog/abogado-proindiviso-cuando-hace-falta/ : Abogado para un proindiviso: cuándo lo necesitas y cuánto cuesta (minuta orientativa)
+- /blog/subasta-division-de-cosa-comun/ : La subasta en la división de cosa común: cómo funciona y a cuánto se adjudica
+- /blog/se-puede-obligar-a-vender-a-un-copropietario/ : ¿Se puede obligar a vender a un copropietario? Qué dice la ley
+- /blog/derecho-de-tanteo-y-retracto-entre-copropietarios/ : Derecho de tanteo y retracto entre copropietarios: plazos, precio y cómo se ejerce
+- /blog/vender-tu-parte-de-la-casa-a-tu-pareja/ : Vender tu parte de la casa a tu pareja o expareja: pasos, impuestos y alternativas
+- /blog/uno-quiere-vender-y-el-otro-no/ : Qué pasa si uno quiere vender la casa y el otro no: tus tres salidas
+- /blog/como-salir-de-una-propiedad-compartida/ : Cómo salir de una propiedad compartida (deshacer un proindiviso) paso a paso
+- /blog/embargo-de-una-cuota-de-proindiviso/ : Embargo de un proindiviso: qué pasa si un copropietario tiene deudas
+- /blog/donar-mi-parte-de-un-proindiviso/ : Donar mi parte de un proindiviso: impuestos y cuándo es mejor vender
+- /blog/soy-copropietario-y-quiero-vender/ : Soy copropietario y quiero vender: la guía rápida en 7 pasos
+- /blog/urge-vender-por-herencia/ : Urge vender por herencia: cómo cobrar tu parte en semanas
+- /blog/que-hacen-las-empresas-que-compran-proindivisos/ : Qué hacen las empresas que compran proindivisos con tu parte (y con el otro copropietario)
+- /blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/ : Mi hermano vive en la casa de mis padres y no quiere vender: qué puedes hacer
+- /blog/puedo-vender-la-casa-de-mi-madre-con-usufructo/ : ¿Puedo vender la casa de mi madre si ella tiene el usufructo?
+- /blog/piso-heredado-con-hipoteca-vender-mi-parte/ : Piso heredado con hipoteca: cómo vender tu parte sin asumir la deuda
+- /blog/vender-casa-heredada-sin-testamento/ : Vender una casa heredada sin testamento: declaración de herederos y pasos
+- /blog/herencia-yacente-vender-antes-de-la-particion/ : Herencia yacente: qué se puede vender antes de la partición y qué no
+- /blog/heredero-ilocalizable-o-en-el-extranjero/ : Un heredero está ilocalizable o vive fuera: cómo vender igualmente
+- /blog/heredero-menor-o-incapacitado-venta-de-la-casa/ : Un heredero es menor o está incapacitado: cómo se vende la casa heredada
+- /blog/cuanto-tarda-vender-un-proindiviso/ : Cuánto tarda vender un proindiviso: plazos reales paso a paso
+- /blog/documentos-para-vender-tu-parte-de-un-piso/ : Documentos para vender tu parte de un piso: la lista completa
+- /blog/nota-simple-como-pedirla-y-leerla/ : Nota simple del Registro: cómo pedirla online y cómo leer tu cuota y las cargas
+- /blog/valor-de-referencia-catastral-venta-de-tu-parte/ : Valor de referencia del Catastro: cómo afecta a la venta de tu parte y a los impuestos
+- /blog/vender-parte-de-un-garaje-trastero-o-local-heredado/ : Vender tu parte de un garaje, trastero o local heredado: precio y pasos
+- /blog/vender-parte-de-una-vpo/ : Vender tu parte de una VPO o vivienda protegida: límites, precio máximo y cómo lo hacemos
+- /blog/cuanto-me-dan-por-mi-parte-de-un-piso/ : ¿Cuánto me dan por mi parte de un piso? Cálculo rápido con ejemplos
+- /blog/pacto-de-indivision-que-es-y-cuanto-dura/ : Pacto de indivisión: qué es, cuánto dura y cómo salir aunque exista
+- /blog/comunidad-hereditaria-vs-proindiviso/ : Comunidad hereditaria y proindiviso: diferencias y qué puedes vender en cada caso
+- /blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/ : Compensación por el uso exclusivo de la vivienda común: cuándo se puede reclamar
+- /blog/ibi-y-gastos-en-un-proindiviso-quien-paga/ : IBI, comunidad y derramas en un proindiviso: quién paga y cómo reclamar
+- /blog/alquilar-un-piso-en-proindiviso/ : Alquilar un piso en proindiviso: qué mayoría hace falta y cómo se reparte la renta
+- /blog/vender-proindiviso-a-un-familiar-o-a-una-empresa/ : Vender tu parte a un familiar o a una empresa: diferencias de precio, impuestos y plazos
+- /blog/vender-parte-de-un-garaje-o-trastero/ : Vender tu parte de un garaje o trastero: sí se puede y así lo compramos
+- /blog/vender-parte-de-un-terreno-rustico-heredado/ : Vender tu parte de un terreno rústico heredado: fincas, olivar, viñedo y parcelas
+- /blog/proindiviso-por-divorcio-sin-acuerdo/ : Proindiviso tras el divorcio sin acuerdo: salir de la casa sin volver al juzgado
+- /blog/testamento-con-usufructo-universal-puede-vender-el-viudo/ : Usufructo universal del viudo: ¿puede vender la casa? ¿Y los hijos su parte?
+- /blog/que-es-una-cuota-hereditaria/ : Qué es una cuota hereditaria y cómo se vende sin esperar a la partición
+- /blog/vender-casa-con-deudas-o-embargo-mi-parte/ : Vender tu parte de una casa con deudas o embargo: qué se puede hacer
+- /blog/multipropiedad-como-vender/ : Multipropiedad o aprovechamiento por turno: cómo salir y qué compramos (y qué no)
+- /blog/preguntas-antes-de-vender-tu-parte/ : Las 20 preguntas que nos hacen antes de vender su parte (con respuestas claras)
+- /blog/comprar-la-parte-de-mi-hermano/ : Comprar la parte de mi hermano en la casa heredada: valor, vías, impuestos e hipoteca
+- /blog/escision-cesacion-liquidacion-de-condominio-que-significan/ : Escisión de condominio, cesación, liquidación: qué significa cada nombre
+- /blog/cuanto-vale-la-nuda-propiedad-calculo/ : Cuánto vale la nuda propiedad: cálculo por edad del usufructuario, tabla y ejemplo
+- /blog/indivisos-inmobiliarios-que-son-y-quien-los-compra/ : Indivisos inmobiliarios: qué son, quién los compra de verdad y cuánto pagan
+- /blog/inmobiliarias-que-compran-pisos-al-contado-o-empresa-de-proindivisos/ : Inmobiliarias que compran pisos al contado o empresa de proindivisos: cuál te conviene
+- /blog/vender-una-casa-con-problemas-quien-la-compra/ : Vender una casa con problemas: qué empresas la compran y qué hacer con cada bloqueo

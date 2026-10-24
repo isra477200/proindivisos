@@ -1,0 +1,90 @@
+[
+ {
+  "slug": "no-puedo-pagar-el-impuesto-de-sucesiones",
+  "focus_kw": "no puedo pagar el impuesto de sucesiones",
+  "title_corto": "Sin dinero para sucesiones",
+  "category": "impuestos-y-tramites",
+  "angulo": "Heredero sin liquidez: prórroga de 6 meses, aplazamiento/fraccionamiento, liquidación parcial, qué pasa si no se paga (recargos, no inscribes, no vendes) y la salida de vender la cuota para pagar el ISD. gestionatuproindiviso (/cambios-fiscales-e-impuestos-proindivisos-herencias/) y vendetuproindiviso (/blog/impuestos-a-pagar-por-una-herencia/) tratan el impuesto sin dar esta salida.",
+  "kind": "post"
+ },
+ {
+  "slug": "aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto",
+  "focus_kw": "aceptar la herencia y vender en el mismo acto",
+  "title_corto": "Aceptar y vender a la vez",
+  "category": "herencias",
+  "angulo": "Escritura única de aceptación + adjudicación + venta de la cuota ante notario: requisitos, ISD previo, costes, plazos reales. vendetuproindiviso (/blog/aceptacion-herencia-imprenscindible-para-venta/) y compraproindiviso (/aceptacion-de-herencia-y-venta-de-inmueble-1/) lo usan como argumento de rapidez.",
+  "kind": "post"
+ },
+ {
+  "slug": "vender-mi-parte-de-un-piso-por-mi-cuenta",
+  "focus_kw": "vender mi parte de un piso por mi cuenta",
+  "title_corto": "Venderla por tu cuenta",
+  "category": "copropiedad",
+  "angulo": "Qué pasa si la anuncias en Idealista/Wallapop o se la vendes a un particular: nadie financia cuotas, retracto, contrato, estafas, meses perdidos. gestionatuproindiviso (/vender-un-proindiviso-por-mi-cuenta/), proindiviso360 (/venta-de-proindiviso-entre-particulares-como-funciona-y-que-riesgos-tiene/) y vendetuproindiviso (/blog/como-vender-mitad-indivisa-piso-atraer-compradores/).",
+  "kind": "post"
+ },
+ {
+  "slug": "como-cobrar-seguro-al-vender-mi-parte-de-un-piso",
+  "focus_kw": "cómo cobrar al vender mi parte de un piso",
+  "title_corto": "Cobrar seguro en notaría",
+  "category": "impuestos-y-tramites",
+  "angulo": "Cheque bancario conformado vs transferencia OMF, pago íntegro en el acto, por qué no aceptar pagos aplazados ni señales, qué comprueba el notario, retención a no residentes. proindiviso10 (/proteccion-legal-vendedor-nuda-propiedad-notario/) y FAQ de compraproindiviso ('¿y si el comprador propone pagar una parte después?').",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-bloqueada-que-hacer",
+  "focus_kw": "herencia bloqueada qué hacer",
+  "title_corto": "Herencia bloqueada",
+  "category": "herencias",
+  "angulo": "Pilar: las 8 causas de bloqueo (heredero que no firma, ausente, menor, ISD impagado, usufructo, deudas, testamento impugnado, herencia yacente) y la salida de cada una, con la venta de la cuota como vía común. proindiviso360 construye toda su landing sobre 'herencias bloqueadas' (/vender-parte-herencia/). Enlazar a /un-heredero-no-quiere-vender/.",
+  "kind": "post"
+ },
+ {
+  "slug": "piso-heredado-con-inquilino-de-renta-antigua-vender-mi-parte",
+  "focus_kw": "piso heredado con inquilino de renta antigua",
+  "title_corto": "Renta antigua heredada",
+  "category": "herencias",
+  "angulo": "LAU 1964: subrogaciones, renta congelada, imposibilidad de desahucio, cómo hunde el valor y por qué los hermanos se bloquean; compramos cuotas con renta antigua. proindiviso10 tiene servicio propio (/vender-piso-renta-antigua/) y vendetuproindiviso (/blog/mitad-indivisa-y-derechos-de-los-inquilinos-en-la-propiedad/). Distinto del programado 'heredar un piso con inquilino' (LAU actual).",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-con-varios-pisos-vender-mi-parte-de-uno",
+  "focus_kw": "herencia con varios pisos vender mi parte",
+  "title_corto": "Varios inmuebles heredados",
+  "category": "herencias",
+  "angulo": "Cuota sobre el lote vs cuota sobre cada finca, partición parcial, adjudicar un inmueble a cada hermano, vender tu parte de todos o de uno. Solo lo toca la FAQ de compraproindiviso ('¿Puedo vender un proindiviso si hay varios inmuebles familiares?').",
+  "kind": "post"
+ },
+ {
+  "slug": "casa-del-pueblo-heredada-entre-hermanos",
+  "focus_kw": "casa del pueblo heredada entre hermanos",
+  "title_corto": "La casa del pueblo",
+  "category": "herencias",
+  "angulo": "Segunda residencia heredada (pueblo o playa): turnos de verano, quién paga, el hermano que la usa siempre, valor bajo y difícil de vender entera; cómo vender tu parte. gestionatuproindiviso ataca el tema dos veces (/casa-heredada-verano-proindiviso/ y /segunda-residencia-heredada-playa-verano/).",
+  "kind": "post"
+ },
+ {
+  "slug": "cuanto-tengo-que-pagar-a-mi-ex-por-la-casa",
+  "focus_kw": "cuánto tengo que pagar a mi ex por la casa",
+  "title_corto": "Cuánto dar a tu ex",
+  "category": "extincion-de-condominio",
+  "angulo": "La cuenta real: valor − hipoteca pendiente, aportaciones desiguales (entrada, cuotas pagadas por uno), mejoras, uso atribuido, gastos; tres ejemplos numéricos y alternativa de vendernos tu mitad. vendetuproindiviso (/blog/cuanto-tiene-dar-piso-ex/). Diferenciar del existente 'extinción con compensación económica' (ese explica la figura; este es la negociación).",
+  "kind": "post"
+ },
+ {
+  "slug": "herencia-con-la-segunda-mujer-de-mi-padre",
+  "focus_kw": "herencia con la segunda mujer de mi padre",
+  "title_corto": "Viuda e hijos del primer matrimonio",
+  "category": "herencias",
+  "angulo": "Hijos de un primer matrimonio + viuda (o pareja) del causante: usufructo del tercio, gananciales, casa donde vive ella, bloqueo mutuo y cómo vender la cuota (o comprar la suya). Dolor recurrente en foros (HelpMyCash); ningún competidor lo trata de forma específica.",
+  "kind": "post"
+ },
+ {
+  "slug": "una-empresa-ha-comprado-la-parte-de-mi-hermano",
+  "focus_kw": "una empresa ha comprado la parte de mi hermano",
+  "title_corto": "Empresa dueña de la otra parte",
+  "category": "copropiedad",
+  "angulo": "El lado contrario: has recibido burofax, qué puede y no puede hacer la empresa, retracto de 9 días (art. 1524 CC), acuerdos posibles, vender también tu parte. Capta a los copropietarios que quedan dentro. Competidores solo prometen 'no avisamos a tus hermanos' (FAQ vendetuproindiviso, proindiviso10).",
+  "kind": "post"
+ }
+]
