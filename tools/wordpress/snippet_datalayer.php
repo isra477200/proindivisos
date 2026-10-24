@@ -1,7 +1,7 @@
 <?php
 /* Zona Proindiviso — capa de datos para GTM/GA4 (snippet 164, global).
  * Empuja un evento `zp_contexto` ANTES del contenedor GTM con:
- *   pagina_tipo  home | geo | intencion | guia | entrada | blog | contacto | gracias | legal | otra
+ *   pagina_tipo  home | geo | intencion | guia | diccionario (5140 y sus términos) | herramienta (calculadoras 4917, 4920) | entrada | blog | contacto | gracias | legal | otra
  *   lugar        nombre del lugar en las páginas geo (p. ej. "Getafe"); vacío en el resto
  *   lugar_nivel  ccaa | provincia | ciudad (profundidad bajo el hub 55)
  *   keyphrase    keyphrase de Yoast de la página
@@ -34,6 +34,8 @@ add_action( 'wp_head', function () {
 		elseif ( $id === 57 ) { $tipo = 'contacto'; }
 		elseif ( $id === 1359 ) { $tipo = 'gracias'; }
 		elseif ( in_array( $id, $guias, true ) ) { $tipo = 'guia'; }
+		elseif ( $id === 5140 || in_array( 5140, $anc, true ) ) { $tipo = 'diccionario'; }
+		elseif ( in_array( $id, [ 4917, 4920 ], true ) ) { $tipo = 'herramienta'; }
 		else { $tipo = 'intencion'; }
 	}
 	$kw = $id ? (string) get_post_meta( $id, '_yoast_wpseo_focuskw', true ) : '';

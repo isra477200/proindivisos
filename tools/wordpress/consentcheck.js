@@ -6,7 +6,7 @@ const URL0 = process.argv[2] || 'https://zonaproindiviso.com/';
 (async () => {
   const b = await chromium.launch();
   for (const modo of ['accept', 'deny']) {
-    const ctx = await b.newContext({ viewport: { width: 1366, height: 900 } }); const pg = await ctx.newPage(); const hits = [];
+    const ctx = await b.newContext({ viewport: { width: 1366, height: 900 } }); const pg = await ctx.newPage(); const hits = []; await pg.route(/\/g\/collect/, r => r.fulfill({ status: 204, body: "" })); // no envía nada a GA4: captura el hit y responde 204
     pg.on('request', r => { const u = r.url(); if (/\/g\/collect/.test(u)) { const q = new URL(u).searchParams; hits.push(q.get('en') + ':' + q.get('gcs')); } });
     await pg.goto(URL0 + '?c=' + Date.now(), { waitUntil: 'networkidle', timeout: 90000 }); await pg.waitForTimeout(4000);
     const banner = await pg.$('.cmplz-cookiebanner'); const vis = banner ? await banner.isVisible() : false;

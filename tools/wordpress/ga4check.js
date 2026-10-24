@@ -1,3 +1,4 @@
+// Desde el 24/10/2026 los hits se capturan y se responden con 204 (page.route): la prueba no ensucia GA4 con visitas ni leads falsos.
 // Comprueba en vivo que GTM carga GA4 y que los eventos llegan con sus parámetros. Uso: node ga4check.js [url] (requiere playwright).
 // Comprueba: page_view con ep.pagina_tipo/lugar/lugar_nivel (ajustes de evento compartidos), llamada y whatsapp (clic), abrir_formulario
 // (clic en enlace elementor-action), generate_lead con ep.form_name (simula el éxito del e-form añadiendo la clase form-state-success,
@@ -6,7 +7,7 @@ const { chromium } = require('playwright');
 const URL0 = process.argv[2] || 'https://zonaproindiviso.com/vender-proindiviso/madrid/getafe/';
 (async () => {
   const b = await chromium.launch(); const pg = await (await b.newContext({ viewport: { width: 1366, height: 900 } })).newPage();
-  const hits = [];
+  const hits = []; await pg.route(/\/g\/collect/, r => r.fulfill({ status: 204, body: "" })); // no envía nada a GA4: captura el hit y responde 204
   pg.on('request', r => { const u = r.url(); if (/\/g\/collect/.test(u)) { const q = new URL(u).searchParams; const ep = {}; for (const [k, v] of q) if (k.startsWith('ep.')) ep[k.slice(3)] = v; hits.push({ en: q.get('en'), gcs: q.get('gcs'), ...ep }); } });
   const show = (t) => { console.log(t, JSON.stringify(hits)); hits.length = 0; };
   await pg.goto(URL0 + (URL0.includes('?') ? '&' : '?') + 'v=' + Date.now(), { waitUntil: 'networkidle', timeout: 90000 }); await pg.waitForTimeout(5000);
