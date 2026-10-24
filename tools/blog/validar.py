@@ -31,6 +31,7 @@ def has_kw(text,kw,ratio=0.5):
     cw=[w for w in words(kw) if w not in FUNC] or words(kw)
     tw=set(words(norm(text))); cwn=[norm(w) for w in cw]
     return sum(1 for w in cwn if w in tw)/len(cwn)>ratio if cwn else True
+MODO={'min':1100,'max':1700,'secs':(5,8),'faqs':(5,6)}
 def check(s, plan=None):
     err=[]; slug=s.get('slug','?')
     req=["slug","kind","category","kicker","h1","sub","checks","card_title","card_text","sections","faqs","faq_title","related","cta_title","cta_text","yoast_title","meta_desc","focus_kw","title_corto","imagen_prompt","imagen_alt"]
@@ -40,10 +41,12 @@ def check(s, plan=None):
     kw=s['focus_kw']
     if plan and slug in plan:
         if norm(kw)!=norm(plan[slug]['focus_kw']): err.append(f'focus_kw distinta del plan: {kw!r} vs {plan[slug]["focus_kw"]!r}')
-        if s['category']!=plan[slug]['category']: err.append('categoría distinta del plan')
+        if s['category']!=plan[slug].get('category'): err.append('categoría distinta del plan')
+        if plan[slug].get('kind') and s.get('kind')!=plan[slug]['kind']: err.append('kind distinto del plan')
+    elif plan: err.append('slug no está en el plan')
     secs=s['sections']
-    if not 5<=len(secs)<=8: err.append(f'secciones {len(secs)} (5-8)')
-    if not 5<=len(s['faqs'])<=6: err.append(f'faqs {len(s["faqs"])} (5-6)')
+    if not MODO['secs'][0]<=len(secs)<=MODO['secs'][1]: err.append(f'secciones {len(secs)} ({MODO["secs"][0]}-{MODO["secs"][1]})')
+    if not MODO['faqs'][0]<=len(s['faqs'])<=MODO['faqs'][1]: err.append(f'faqs {len(s["faqs"])} ({MODO["faqs"][0]}-{MODO["faqs"][1]})')
     for q,a in s['faqs']:
         if len(words(a))<25: err.append(f'respuesta FAQ corta: {q[:40]}')
     total=0; h2s=[]; textos=[]
@@ -55,7 +58,7 @@ def check(s, plan=None):
         if n>300 and t!='table': err.append(f'sección {i} «{sec.get("h2","")[:30]}» {n} palabras (>300: Yoast pide subtítulo cada 300)')
         for p in (sec.get('intro',[]) if isinstance(sec.get('intro',[]),list) else [sec.get('intro','')])+(sec.get('outro',[]) if isinstance(sec.get('outro',[]),list) else [sec.get('outro','')]):
             if len(words(strip(p)))>150: err.append(f'párrafo >150 palabras en sección {i}')
-    if not 1100<=total<=1700: err.append(f'{total} palabras de cuerpo (1.100-1.600)')
+    if not MODO['min']<=total<=MODO['max']: err.append(f'{total} palabras de cuerpo ({MODO["min"]}-{MODO["max"]})')
     if not has_kw(s['h1'],kw,0.99): err.append('keyphrase no está completa en h1')
     if not has_kw(s['sub'],kw,0.99): err.append('keyphrase no está completa en sub (primer párrafo)')
     if not has_kw(s['meta_desc'],kw,0.99): err.append('keyphrase no está en meta_desc')
@@ -87,8 +90,11 @@ def check(s, plan=None):
         if not url.startswith('/'): err.append(f'related con url externa: {url}')
     return err
 if __name__=='__main__':
+    if '--diccionario' in sys.argv: MODO.update({'min':550,'max':1100,'secs':(4,7),'faqs':(3,6)}); sys.argv.remove('--diccionario')
     specs=json.load(open(sys.argv[1]))
-    plan={p['slug']:p for p in json.load(open(sys.argv[2]))} if len(sys.argv)>2 else None
+    planj=json.load(open(sys.argv[2])) if len(sys.argv)>2 else None
+    if isinstance(planj,dict): planj=planj.get('nuevos',[])
+    plan={p['slug']:p for p in planj} if planj else None
     bad=0
     for s in specs:
         e=check(s,plan)

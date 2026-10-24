@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "mediacion-civil",
+  "focus_kw": "mediación civil",
+  "title_corto": "Mediación civil",
+  "termino": "Mediación civil",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Mediador, sesión informativa, acuerdos entre copropietarios, coste y plazos; cuándo sirve y cuándo no."
+ },
+ {
+  "slug": "modelo-650",
+  "focus_kw": "modelo 650",
+  "title_corto": "Modelo 650",
+  "termino": "Modelo 650",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Autoliquidación del impuesto de sucesiones: plazos, documentos, dónde se presenta según comunidad, errores."
+ },
+ {
+  "slug": "modelo-211",
+  "focus_kw": "modelo 211",
+  "title_corto": "Modelo 211",
+  "termino": "Modelo 211",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Retención del 3 % al comprar a un no residente: quién lo presenta, plazo, cómo afecta al precio de una cuota."
+ },
+ {
+  "slug": "novacion-hipotecaria",
+  "focus_kw": "novación hipotecaria",
+  "title_corto": "Novación hipotecaria",
+  "termino": "Novación hipotecaria",
+  "letra": "N",
+  "category": null,
+  "kind": "page",
+  "angulo": "Cambiar titulares o condiciones de la hipoteca al salir un copropietario: comisión, notaría, aceptación del banco."
+ },
+ {
+  "slug": "no-residente",
+  "focus_kw": "vender un inmueble siendo no residente",
+  "title_corto": "No residente",
+  "termino": "No residente",
+  "letra": "N",
+  "category": null,
+  "kind": "page",
+  "angulo": "Vender una cuota desde fuera de España: NIE, retención del 3 %, modelo 210, poder notarial, cómo lo gestionamos."
+ },
+ {
+  "slug": "notario",
+  "focus_kw": "notario",
+  "title_corto": "Notario",
+  "termino": "Notario",
+  "letra": "N",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué hace al vender una cuota, elección libre, arancel, qué comprueba, copias; en nuestras compras lo pagamos nosotros."
+ },
+ {
+  "slug": "oferta-vinculante",
+  "focus_kw": "oferta vinculante",
+  "title_corto": "Oferta vinculante",
+  "termino": "Oferta vinculante",
+  "letra": "O",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué compromete y qué no, plazo de validez, diferencia con una señal; cómo leer una oferta por una cuota."
+ },
+ {
+  "slug": "opcion-de-compra",
+  "focus_kw": "opción de compra",
+  "title_corto": "Opción de compra",
+  "termino": "Opción de compra",
+  "letra": "O",
+  "category": null,
+  "kind": "page",
+  "angulo": "Prima, plazo, ejercicio; usos en proindivisos (dar tiempo a un hermano para comprar); riesgos."
+ },
+ {
+  "slug": "particion-de-la-herencia",
+  "focus_kw": "partición de la herencia",
+  "title_corto": "Partición de la herencia",
+  "termino": "Partición de la herencia",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Convencional, por contador partidor o judicial; cuaderno particional; adjudicaciones; vender antes de partir."
+ },
+ {
+  "slug": "plusvalia-municipal",
+  "focus_kw": "plusvalía municipal",
+  "title_corto": "Plusvalía municipal",
+  "termino": "Plusvalía municipal",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "IIVTNU: cuándo se paga (venta, herencia), cuándo no (extinción de condominio, pérdida), cálculo real vs objetivo, plazos."
+ },
+ {
+  "slug": "poder-notarial",
+  "focus_kw": "poder notarial para vender",
+  "title_corto": "Poder notarial",
+  "termino": "Poder notarial",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Poder especial para vender una cuota: contenido, coste, desde el extranjero (consulado, apostilla), revocación."
+ },
+ {
+  "slug": "precario",
+  "focus_kw": "precario",
+  "title_corto": "Precario",
+  "termino": "Precario",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Ocupación sin título ni renta (familiar en la casa heredada): cómo se acaba, desahucio por precario, plazos."
+ },
+ {
+  "slug": "propiedad-horizontal",
+  "focus_kw": "propiedad horizontal",
+  "title_corto": "Propiedad horizontal",
+  "termino": "Propiedad horizontal",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Diferencia con el proindiviso: elementos privativos y comunes, cuota de participación, comunidad de propietarios; cuándo conviven ambos."
+ },
+ {
+  "slug": "posesion",
+  "focus_kw": "posesión",
+  "title_corto": "Posesión",
+  "termino": "Posesión",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tener el bien frente a ser dueño: posesión de un copropietario, interdictos, cambio de cerradura, usucapión."
+ },
+ {
+  "slug": "registro-de-la-propiedad",
+  "focus_kw": "registro de la propiedad",
+  "title_corto": "Registro de la Propiedad",
+  "termino": "Registro de la Propiedad",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué inscribe, nota simple y certificación, publicidad, cuándo acudir al vender o heredar una parte."
+ }
+]

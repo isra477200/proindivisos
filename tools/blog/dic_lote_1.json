@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "actio-communi-dividundo",
+  "focus_kw": "actio communi dividundo",
+  "title_corto": "Actio communi dividundo",
+  "termino": "Actio communi dividundo",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Nombre latino de la acción de división de cosa común (art. 400 CC): quién puede ejercerla, cuándo, qué pide, plazos; alternativa de vender la cuota."
+ },
+ {
+  "slug": "adjudicacion",
+  "focus_kw": "adjudicación de un inmueble",
+  "title_corto": "Adjudicación",
+  "termino": "Adjudicación",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es adjudicar un bien en una herencia, una extinción de condominio o una subasta; adjudicatario; efectos fiscales; ejemplo con una vivienda y dos herederos."
+ },
+ {
+  "slug": "afeccion-fiscal",
+  "focus_kw": "nota de afección fiscal",
+  "title_corto": "Afección fiscal",
+  "termino": "Afección fiscal",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "La nota de afección en el Registro tras una herencia o compraventa: qué garantiza, 5 años, cómo afecta al comprador de una cuota y cómo se cancela."
+ },
+ {
+  "slug": "ajd-actos-juridicos-documentados",
+  "focus_kw": "actos jurídicos documentados",
+  "title_corto": "AJD",
+  "termino": "AJD",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué grava, cuándo se paga en operaciones con cuotas (extinción de condominio, hipoteca), tipos por comunidad, base, quién lo paga."
+ },
+ {
+  "slug": "albacea",
+  "focus_kw": "albacea",
+  "title_corto": "Albacea",
+  "termino": "Albacea",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué hace el albacea, qué poderes tiene y cuáles no, plazos, relación con los herederos que quieren vender su parte."
+ },
+ {
+  "slug": "anotacion-preventiva-de-embargo",
+  "focus_kw": "anotación preventiva de embargo",
+  "title_corto": "Anotación preventiva de embargo",
+  "termino": "Anotación preventiva de embargo",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cómo aparece en la nota simple, caducidad a los 4 años, cómo afecta a la venta de una cuota embargada o de la cuota del vecino."
+ },
+ {
+  "slug": "arras",
+  "focus_kw": "contrato de arras",
+  "title_corto": "Arras",
+  "termino": "Arras",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Arras penitenciales, confirmatorias y penales; qué pasa al vender una cuota indivisa; cuánto se entrega; por qué nosotros no las pedimos."
+ },
+ {
+  "slug": "aceptacion-de-la-herencia",
+  "focus_kw": "aceptación de la herencia",
+  "title_corto": "Aceptación de la herencia",
+  "termino": "Aceptación de la herencia",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Expresa, tácita, pura y simple o a beneficio de inventario; cuándo se entiende aceptada; qué permite hacer con la cuota heredada."
+ },
+ {
+  "slug": "administrador-de-la-comunidad-de-bienes",
+  "focus_kw": "administrador de la comunidad de bienes",
+  "title_corto": "Administrador de la comunidad",
+  "termino": "Administrador de la comunidad",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Quién administra una casa compartida, mayorías (art. 398 CC), rendición de cuentas, cuándo lo nombra el juez."
+ },
+ {
+  "slug": "bien-indivisible",
+  "focus_kw": "bien indivisible",
+  "title_corto": "Bien indivisible",
+  "termino": "Bien indivisible",
+  "letra": "B",
+  "category": null,
+  "kind": "page",
+  "angulo": "Cuándo un inmueble es indivisible (art. 401 y 1062 CC), consecuencias: adjudicación a uno con compensación o venta en subasta; no hay ITP."
+ },
+ {
+  "slug": "cargas-registrales",
+  "focus_kw": "cargas registrales",
+  "title_corto": "Cargas registrales",
+  "termino": "Cargas registrales",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Hipotecas, embargos, afecciones, servidumbres, condiciones resolutorias: cómo leerlas, cómo afectan al precio de una cuota y quién las cancela."
+ },
+ {
+  "slug": "referencia-catastral",
+  "focus_kw": "referencia catastral",
+  "title_corto": "Referencia catastral",
+  "termino": "Referencia catastral",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, dónde está, para qué sirve al vender una parte, qué pasa si Catastro y Registro no coinciden."
+ },
+ {
+  "slug": "cesion-de-derechos-hereditarios",
+  "focus_kw": "cesión de derechos hereditarios",
+  "title_corto": "Cesión de derechos hereditarios",
+  "termino": "Cesión de derechos hereditarios",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Vender el derecho a la herencia antes de partir: escritura, precio, impuestos, retracto de coherederos; cómo lo compramos."
+ },
+ {
+  "slug": "copropietario",
+  "focus_kw": "copropietario",
+  "title_corto": "Copropietario",
+  "termino": "Copropietario",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es un copropietario o comunero, derechos (uso, frutos, disposición de su cuota) y obligaciones (gastos, conservación), cómo deja de serlo."
+ },
+ {
+  "slug": "compensacion-en-metalico",
+  "focus_kw": "compensación en metálico",
+  "title_corto": "Compensación en metálico",
+  "termino": "Compensación en metálico",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "El pago al comunero que sale cuando el bien es indivisible: cómo se calcula, fiscalidad, qué pasa si no hay dinero para compensar."
+ }
+]

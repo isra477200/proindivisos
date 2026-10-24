@@ -1,0 +1,122 @@
+[
+ {
+  "slug": "segregacion",
+  "focus_kw": "segregación de finca",
+  "title_corto": "Segregación",
+  "termino": "Segregación",
+  "letra": "S",
+  "category": null,
+  "kind": "page",
+  "angulo": "Separar una porción de finca para repartir un proindiviso: licencia, parcela mínima, escritura, costes; cuándo no es posible."
+ },
+ {
+  "slug": "separacion-de-bienes",
+  "focus_kw": "separación de bienes",
+  "title_corto": "Separación de bienes",
+  "termino": "Separación de bienes",
+  "letra": "S",
+  "category": null,
+  "kind": "page",
+  "angulo": "Régimen en el que cada cónyuge es dueño de lo suyo: la casa comprada a medias es un proindiviso; qué pasa al separarse."
+ },
+ {
+  "slug": "tasacion",
+  "focus_kw": "tasación de una vivienda",
+  "title_corto": "Tasación",
+  "termino": "Tasación",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tasación oficial vs valoración; para qué sirve en herencias, extinción y subasta; coste; cómo valoramos nosotros una cuota."
+ },
+ {
+  "slug": "testamento",
+  "focus_kw": "testamento",
+  "title_corto": "Testamento",
+  "termino": "Testamento",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tipos, dónde consta, qué puede imponer sobre la vivienda (prohibición de dividir, usufructo), qué no puede."
+ },
+ {
+  "slug": "titulo-de-propiedad",
+  "focus_kw": "título de propiedad",
+  "title_corto": "Título de propiedad",
+  "termino": "Título de propiedad",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Escritura, herencia, sentencia: qué documento acredita la cuota, cómo recuperarlo si se perdió, nota simple."
+ },
+ {
+  "slug": "tracto-sucesivo",
+  "focus_kw": "tracto sucesivo",
+  "title_corto": "Tracto sucesivo",
+  "termino": "Tracto sucesivo",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Principio registral: para inscribir hay que venir del titular anterior; herencias sin inscribir y cómo se reanuda."
+ },
+ {
+  "slug": "usufructo",
+  "focus_kw": "usufructo",
+  "title_corto": "Usufructo",
+  "termino": "Usufructo",
+  "letra": "U",
+  "category": null,
+  "kind": "page",
+  "angulo": "Derecho a usar y disfrutar sin ser dueño: usufructo del viudo, valor por edad (89 - edad), extinción, venta de la nuda cuota."
+ },
+ {
+  "slug": "usucapion",
+  "focus_kw": "usucapión",
+  "title_corto": "Usucapión",
+  "termino": "Usucapión",
+  "letra": "U",
+  "category": null,
+  "kind": "page",
+  "angulo": "Adquirir por posesión continuada (10/20/30 años): si un hermano puede quedarse la casa por vivir en ella; requisitos reales."
+ },
+ {
+  "slug": "unanimidad",
+  "focus_kw": "unanimidad en la comunidad de bienes",
+  "title_corto": "Unanimidad",
+  "termino": "Unanimidad",
+  "letra": "U",
+  "category": null,
+  "kind": "page",
+  "angulo": "Actos que exigen el acuerdo de todos (art. 397 CC): vender el inmueble entero, hipotecarlo, obras; qué pasa si uno se niega."
+ },
+ {
+  "slug": "valor-catastral",
+  "focus_kw": "valor catastral",
+  "title_corto": "Valor catastral",
+  "termino": "Valor catastral",
+  "letra": "V",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cómo se consulta, diferencia con el valor de referencia y el de mercado, para qué impuestos sirve."
+ },
+ {
+  "slug": "venta-de-cuota-indivisa",
+  "focus_kw": "venta de cuota indivisa",
+  "title_corto": "Venta de cuota indivisa",
+  "termino": "Venta de cuota indivisa",
+  "letra": "V",
+  "category": null,
+  "kind": "page",
+  "angulo": "La operación que hacemos: escritura, precio, retracto, impuestos del vendedor, plazos; checklist."
+ },
+ {
+  "slug": "vivienda-habitual",
+  "focus_kw": "vivienda habitual a efectos fiscales",
+  "title_corto": "Vivienda habitual",
+  "termino": "Vivienda habitual",
+  "letra": "V",
+  "category": null,
+  "kind": "page",
+  "angulo": "Requisitos (3 años), exenciones IRPF (reinversión, mayores de 65), tipos reducidos; efectos al vender una cuota."
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "condominio",
+  "focus_kw": "condominio",
+  "title_corto": "Condominio",
+  "termino": "Condominio",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Sinónimo de proindiviso/comunidad de bienes; diferencias con la propiedad horizontal; cómo se extingue; ejemplo."
+ },
+ {
+  "slug": "cuota-indivisa",
+  "focus_kw": "cuota indivisa",
+  "title_corto": "Cuota indivisa",
+  "termino": "Cuota indivisa",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "La parte ideal de cada dueño: qué da y qué no, cómo se vende sin permiso de los demás (art. 399 CC), cómo se valora."
+ },
+ {
+  "slug": "cuota-de-participacion",
+  "focus_kw": "cuota de participación",
+  "title_corto": "Cuota de participación",
+  "termino": "Cuota de participación",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Diferencia entre la cuota de participación en propiedad horizontal y la cuota indivisa; para qué sirve cada una; errores habituales."
+ },
+ {
+  "slug": "colacion-hereditaria",
+  "focus_kw": "colación hereditaria",
+  "title_corto": "Colación",
+  "termino": "Colación",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Donaciones en vida que se traen a la herencia: qué se coloca, quién puede exigirla, efecto sobre lo que le toca a cada hermano."
+ },
+ {
+  "slug": "cautela-socini",
+  "focus_kw": "cautela socini",
+  "title_corto": "Cautela socini",
+  "termino": "Cautela socini",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Cláusula testamentaria que deja al viudo el usufructo universal: qué implica para los hijos, opción de la legítima estricta, efectos sobre la venta."
+ },
+ {
+  "slug": "certificado-de-ultimas-voluntades",
+  "focus_kw": "certificado de últimas voluntades",
+  "title_corto": "Certificado de últimas voluntades",
+  "termino": "Certificado de últimas voluntades",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cómo se pide (modelo 790, 15 días), qué informa, por qué es el primer paso para vender una parte heredada."
+ },
+ {
+  "slug": "certificado-de-defuncion",
+  "focus_kw": "certificado de defunción",
+  "title_corto": "Certificado de defunción",
+  "termino": "Certificado de defunción",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tipos, cómo pedirlo gratis, para qué trámites hace falta en una herencia con vivienda."
+ },
+ {
+  "slug": "declaracion-de-herederos-abintestato",
+  "focus_kw": "declaración de herederos abintestato",
+  "title_corto": "Declaración de herederos",
+  "termino": "Declaración de herederos",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Sin testamento: acta notarial, documentos, plazo de 20 días, coste; qué puede hacer cada heredero después con su cuota."
+ },
+ {
+  "slug": "derecho-de-adquisicion-preferente",
+  "focus_kw": "derecho de adquisición preferente",
+  "title_corto": "Derecho de adquisición preferente",
+  "termino": "Derecho de adquisición preferente",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tanteo y retracto: quién los tiene (comuneros, coherederos, inquilinos), plazos, cómo afectan a la venta de una cuota."
+ },
+ {
+  "slug": "derecho-hereditario",
+  "focus_kw": "derecho hereditario",
+  "title_corto": "Derecho hereditario",
+  "termino": "Derecho hereditario",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué se tiene antes de la partición (derecho abstracto sobre el conjunto), cómo se vende, fiscalidad, diferencia con la cuota sobre un bien."
+ },
+ {
+  "slug": "division-material",
+  "focus_kw": "división material",
+  "title_corto": "División material",
+  "termino": "División material",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Dividir físicamente el inmueble (segregación, división horizontal) frente a venderlo: requisitos urbanísticos, costes, cuándo es viable."
+ },
+ {
+  "slug": "atribucion-del-uso-de-la-vivienda-familiar",
+  "focus_kw": "atribución del uso de la vivienda familiar",
+  "title_corto": "Atribución del uso de la vivienda",
+  "termino": "Atribución del uso de la vivienda",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Uso para los hijos tras el divorcio (art. 96 CC): duración, límites, efecto en el valor de la cuota del que no vive allí."
+ },
+ {
+  "slug": "escritura-publica",
+  "focus_kw": "escritura pública",
+  "title_corto": "Escritura pública",
+  "termino": "Escritura pública",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, qué otorga el notario al vender una cuota, copias simples y autorizadas, coste orientativo, inscripción."
+ },
+ {
+  "slug": "ejecucion-hipotecaria",
+  "focus_kw": "ejecución hipotecaria",
+  "title_corto": "Ejecución hipotecaria",
+  "termino": "Ejecución hipotecaria",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué pasa cuando no se paga la hipoteca de una casa compartida: fases, plazos, cómo afecta a cada copropietario, salidas antes de la subasta."
+ },
+ {
+  "slug": "expediente-de-dominio",
+  "focus_kw": "expediente de dominio",
+  "title_corto": "Expediente de dominio",
+  "termino": "Expediente de dominio",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Para inmuebles sin inscribir o con tracto roto: qué es, ante quién se tramita, coste y tiempo, cuándo hace falta para vender una parte."
+ }
+]
