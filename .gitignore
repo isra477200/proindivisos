@@ -7,3 +7,4 @@ tools/wordpress/snippet_resave_recent.json
 __pycache__/
 tools/wordpress/comp_home.json
 tools/wordpress/.geo_changed_slugs.txt
+tools/wordpress/.informe_key

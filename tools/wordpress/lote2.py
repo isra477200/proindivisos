@@ -54,7 +54,7 @@ P.append({"post_id":35,"kicker":"Copropiedad","h1":"Vender tu parte de un piso c
 ("¿Necesito el permiso del otro propietario?","No. Tiene derecho de retracto (quedarse tu parte al mismo precio en nueve días desde que conoce la venta), pero no puede impedirla."),
 ("¿Cuánto vale mi parte de un piso?","Entre el 40 % y el 70 % de la proporción que te corresponde del valor de mercado. Depende de la ciudad, de si el piso está ocupado y de las cargas."),
 ("¿Y si el otro propietario quiere comprarme después de ver vuestra oferta?","Perfecto. Muchas personas usan nuestra oferta como precio de referencia y cierran con su familia o su expareja. No te compromete a nada.")],
-"related":[("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("La mitad de una casa","/vender-la-mitad-de-una-casa/"),("Con inquilino u okupa","/vender-proindiviso-con-inquilino-u-okupa/")],
+"related":[("Calcula cuánto vale tu parte","/cuanto-vale-mi-parte-de-un-piso/"),("Vender tras un divorcio","/vender-proindiviso-divorcio/"),("Vender con hipoteca","/vender-proindiviso-con-hipoteca/"),("Qué es un proindiviso","/que-es-un-proindiviso/"),("Cuánto pagan","/cuanto-pagan-por-un-proindiviso/"),("La mitad de una casa","/vender-la-mitad-de-una-casa/"),("Con inquilino u okupa","/vender-proindiviso-con-inquilino-u-okupa/")],
 "cta_title":"Vende tu parte del piso y sal de la copropiedad"})
 # ---------- 37 HIPOTECA ----------
 P.append({"post_id":37,"kicker":"Proindiviso con hipoteca","h1":"Vender un proindiviso con hipoteca: sí se puede, y así funciona",

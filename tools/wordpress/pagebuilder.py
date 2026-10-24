@@ -117,6 +117,11 @@ def build(spec):
             parts.append(f'<e-flexbox configuration-id="{cc}"><e-heading configuration-id="{cc} t"></e-heading><e-paragraph configuration-id="{cc} p"></e-paragraph><e-button configuration-id="{cc} b"></e-button></e-flexbox>')
             c.st(cc,"display:flex; flex-direction:column; gap: 10px; width:100%; max-width: 820px; padding: 32px; background-color: var(--brand-primary); border-radius: 18px;")
             c.h(f"{cc} t",it['t'],"h3","font-size: 24px; color: var(--white);"); c.p(f"{cc} p",it['p'],"font-size: 16px; line-height: 1.6; color: rgba(255,255,255,0.88);"); c.btn(f"{cc} b",it['cta'],it.get('url',POPUP),"accent","md","align-self:flex-start; margin-top: 6px;")
+        elif t=='tool':
+            # herramienta interactiva servida por shortcode (snippet_calculadoras.php): e-paragraph con tag span (el único que admite
+            # bloques dentro sin que el navegador cierre la etiqueta) y texto dinámico «shortcode»; el CSS/JS lo imprime el snippet
+            cc=f"{sc} tool"; parts.append(f'<e-paragraph configuration-id="{cc}"></e-paragraph>')
+            c.cfg(cc,{"tag":"span","paragraph":{"name":"shortcode","settings":{"shortcode":sec['shortcode']}}}); c.st(cc,"display:block; width:100%; max-width: 860px;")
         elif t=='table':
             cc=f"{sc} tabla"; rows=sec['items']
             parts.append(f'<e-flexbox configuration-id="{cc}">'+''.join(f'<e-flexbox configuration-id="{cc} fila {k}"><e-paragraph configuration-id="{cc} fila {k} a"></e-paragraph><e-paragraph configuration-id="{cc} fila {k} b"></e-paragraph></e-flexbox>' for k in range(len(rows)))+'</e-flexbox>')
