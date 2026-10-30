@@ -1689,5 +1689,837 @@
   "title_corto": "Lanzamiento",
   "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, cold morning natural light: an empty apartment hallway in Spain with a stack of plain unmarked brown cardboard boxes beside an open front door, bare white walls, a new shiny lock cylinder on the door, worn tiled floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
   "imagen_alt": "Lanzamiento: cajas de cartón junto a la puerta abierta de un piso vacío"
+ },
+ {
+  "slug": "pacto-sucesorio",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Pacto sucesorio: qué es, dónde se admite y cómo afecta a tu parte",
+  "sub": "Un pacto sucesorio es un contrato en el que una persona acuerda en vida con sus herederos el destino de su herencia o de bienes concretos, de forma vinculante y, a veces, con entrega inmediata. El Código Civil común lo prohíbe, pero lo admiten los derechos forales de Galicia, Cataluña, Aragón, Navarra, País Vasco y Baleares. Decide quién acaba siendo dueño de un inmueble; si te dejó una cuota, te la compramos.",
+  "checks": [
+   "Derecho común y foral",
+   "Impuestos y regla de cinco años",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Recibiste una parte en vida?",
+  "card_text": "Te damos precio por tu cuota en 48 horas y te avisamos de cómo afecta la venta a tu IRPF.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un pacto sucesorio y por qué el Código Civil lo prohíbe",
+    "type": "text",
+    "intro": [
+     "En el derecho común solo se puede ordenar la herencia por testamento, que es revocable hasta el último día. Además, el artículo 1271 del Código Civil prohíbe los contratos sobre la herencia futura. Solo salva la partición en vida del artículo 1056. Por eso, si el causante tiene vecindad civil común, un pacto sucesorio no es válido.",
+     "Los derechos forales, en cambio, lo regulan con detalle. El pacto sucesorio se firma en escritura pública y vincula a las dos partes. Es decir, el causante no puede cambiarlo por su cuenta, salvo causas tasadas. Puede limitarse a designar heredero para cuando muera o transmitir bienes ya en vida, lo que se llama pacto con eficacia de presente."
+    ]
+   },
+   {
+    "overline": "Territorios",
+    "h2": "Dónde se admite el pacto sucesorio y qué tipos hay",
+    "type": "table",
+    "intro": [
+     "Lo que cuenta es la vecindad civil del causante, no dónde está el inmueble. Estas son las figuras principales, de forma orientativa."
+    ],
+    "items": [
+     [
+      "Territorio",
+      "Figuras más habituales"
+     ],
+     [
+      "Galicia",
+      "Pacto de mejora, que entrega bienes concretos a un descendiente. También la apartación, que excluye a un legitimario a cambio de bienes que recibe en vida."
+     ],
+     [
+      "Cataluña",
+      "Heredamiento, que nombra heredero de forma irrevocable, y pactos de atribución particular y de renuncia."
+     ],
+     [
+      "Aragón",
+      "Pactos de institución de heredero, de disposición a favor de tercero y de renuncia."
+     ],
+     [
+      "Navarra",
+      "Pactos sucesorios amplios, dentro de la libertad de testar navarra."
+     ],
+     [
+      "País Vasco",
+      "Pacto sucesorio con o sin transmisión de presente de los bienes."
+     ],
+     [
+      "Baleares",
+      "Definición en Mallorca y Menorca, que es una renuncia a la legítima a cambio de una donación, y finiquito en Ibiza y Formentera."
+     ]
+    ]
+   },
+   {
+    "overline": "Propiedad",
+    "h2": "Cómo decide quién acaba siendo dueño de un inmueble",
+    "type": "text",
+    "intro": [
+     "Con testamento en derecho común, una madre con tres hijos y una casa de 180.000 euros suele dejarla a los tres por igual. Al fallecer, nace un proindiviso entre hermanos, con un tercio cada uno. En cambio, con un pacto sucesorio gallego de mejora, la madre puede entregar la casa en vida a un solo hijo. Ese hijo es dueño único desde la firma.",
+     "La apartación funciona al revés. El hijo apartado recibe ahora, por ejemplo, 40.000 euros o un garaje, y queda fuera de la legítima. Así se evita que la casa termine dividida entre todos. En Baleares, la definición cumple una función parecida.",
+     "Aun así, el pacto sucesorio también puede crear copropiedades. Si se atribuye la casa a dos hijos a la vez, ambos serán dueños por mitades indivisas desde la entrega. Desde ese momento rigen las mismas reglas que en cualquier proindiviso."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Impuestos y venta posterior del inmueble",
+    "type": "text",
+    "intro": [
+     "Un pacto sucesorio con eficacia de presente tributa en el impuesto de sucesiones, no en donaciones. Por eso suele salir más barato, según comunidad autónoma. Además, en el IRPF, quien entrega los bienes no tributa por la ganancia, igual que en una herencia.",
+     "Hay un matiz importante si quieres vender. Desde la reforma de 2021, el beneficiario que vende antes de cinco años desde el pacto, y en vida del causante, se subroga en su valor y fecha de adquisición. Es decir, pierde la actualización de valor y puede pagar más IRPF al vender. Por tanto, conviene calcular la operación antes de firmar."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Pacto sucesorio frente a testamento y donación",
+    "type": "list",
+    "intro": [
+     "Las cuatro figuras se confunden a menudo. Así se diferencian."
+    ],
+    "items": [
+     "<strong>Testamento.</strong> Unilateral y revocable. No transmite nada hasta la muerte.",
+     "<strong>Pacto sucesorio.</strong> Bilateral y, en general, irrevocable. Puede transmitir bienes en vida y tributa como herencia.",
+     "<strong>Donación.</strong> Transmite en vida y tributa en el impuesto de donaciones. Además, se computa para calcular la legítima.",
+     "<strong>Partición en vida, del artículo 1056.</strong> Es la opción más cercana en derecho común: el testador reparte sus bienes, pero solo surte efecto a su muerte."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Si el pacto te dejó una cuota, te la compramos",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de inmuebles recibidas por herencia, donación o pacto sucesorio en cualquier comunidad autónoma. Pagamos con fondos propios entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Los gastos de notaría y gestión corren de nuestra cuenta. Antes de firmar, te avisamos si la regla de los cinco años afecta a tu IRPF."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas, sin exclusividad y sin compromiso.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede hacer un pacto sucesorio en Madrid o Andalucía?",
+    "Solo si el causante tiene vecindad civil foral, por ejemplo gallega o catalana, aunque viva en Madrid. Con vecindad civil común, el Código Civil prohíbe los contratos sobre la herencia futura y el pacto sucesorio no sería válido. Lo que cuenta es la vecindad, no la residencia."
+   ],
+   [
+    "¿Un pacto sucesorio se puede deshacer?",
+    "En general es irrevocable por voluntad de una sola parte. Las leyes forales permiten dejarlo sin efecto de mutuo acuerdo o revocarlo por causas tasadas, como incumplimientos graves. Cada territorio tiene sus propias reglas, así que conviene revisar la ley aplicable."
+   ],
+   [
+    "¿Cuánto se paga de impuestos por un pacto sucesorio?",
+    "Tributa en el impuesto de sucesiones con las reducciones y bonificaciones de la comunidad autónoma competente. Entre padres e hijos suele ser poco o nada en muchas comunidades. La cuantía exacta depende del valor recibido y del patrimonio del beneficiario."
+   ],
+   [
+    "¿Puedo vender una casa que recibí por pacto sucesorio?",
+    "Sí, eres dueño desde la entrega. Pero si vendes en vida del causante y antes de cinco años desde el pacto, tomarás su valor y fecha de adquisición en el IRPF. Si la recibiste junto a un hermano, puedes vender tu cuota sin su permiso."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el pacto sucesorio",
+  "related": [
+   [
+    "Vecindad civil",
+    "/diccionario-del-proindiviso/vecindad-civil/"
+   ],
+   [
+    "Derecho foral",
+    "/diccionario-del-proindiviso/derecho-foral/"
+   ],
+   [
+    "Legítima",
+    "/diccionario-del-proindiviso/legitima/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Vender un proindiviso en Galicia",
+    "/vender-proindiviso/galicia/"
+   ]
+  ],
+  "cta_title": "Vende la parte que recibiste en semanas",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Pacto sucesorio: qué es, dónde se admite y cómo tributa",
+  "meta_desc": "Un pacto sucesorio ordena la herencia por contrato en vida. Dónde se admite, tipos, impuestos y cómo afecta a la propiedad de un inmueble y a tu cuota.",
+  "focus_kw": "pacto sucesorio",
+  "title_corto": "Pacto sucesorio",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft overcast light after rain: a traditional Galician stone farmhouse with a granite horreo granary standing on stone pillars in the garden, moss on the walls, green hills behind, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Pacto sucesorio: casa de piedra gallega con hórreo en el jardín bajo un cielo nublado"
+ },
+ {
+  "slug": "renta-vitalicia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Renta vitalicia: qué es vender tu casa o tu parte a cambio de una pensión",
+  "sub": "La renta vitalicia es el contrato por el que una persona entrega un inmueble o un capital a cambio de una pensión periódica que cobra hasta su fallecimiento. La usan sobre todo mayores de 65 años que quieren completar su jubilación. Frente a ella, vender tu cuota al contado te da todo el dinero de una vez y sin riesgo de impago: te damos precio en 48 horas.",
+  "checks": [
+   "Artículos 1802 a 1808 CC",
+   "Ventajas fiscales a partir de 65",
+   "Compramos tu cuota al contado"
+  ],
+  "card_title": "¿Mejor cobrar ahora?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Cobras al contado en notaría y decides después qué hacer.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la renta vitalicia según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El Código Civil regula la renta vitalicia en los artículos 1802 a 1808. Es un contrato aleatorio: el deudor se obliga a pagar una pensión durante la vida de una o más personas. A cambio recibe un capital en bienes muebles o inmuebles, cuya propiedad se le transmite desde el principio. Si el beneficiario vive muchos años, gana él; si fallece pronto, gana el pagador.",
+     "Hay dos riesgos que conviene conocer. Por un lado, el artículo 1804 declara nula la renta constituida sobre una persona que muere en veinte días por una enfermedad que ya padecía. Por otro, el artículo 1805 dice que el impago no permite, por sí solo, recuperar la vivienda. Solo cabe reclamar lo atrasado y exigir garantías. Por eso se pacta una condición resolutoria expresa o una hipoteca."
+    ]
+   },
+   {
+    "overline": "Funcionamiento",
+    "h2": "Cómo funciona vender un inmueble a cambio de renta vitalicia",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Tasación y cálculo",
+      "p": "Se valora el inmueble y se calcula la renta según la edad y la esperanza de vida del vendedor. Cuanto mayor es, más alta es la pensión."
+     },
+     {
+      "t": "Con o sin usufructo",
+      "p": "El vendedor puede reservarse el usufructo y seguir en casa. También puede entregar la vivienda y cobrar una renta mayor."
+     },
+     {
+      "t": "Garantías",
+      "p": "Se firma en escritura con condición resolutoria o hipoteca a favor del vendedor. Así puede recuperar el inmueble si el comprador deja de pagar."
+     },
+     {
+      "t": "Pago periódico",
+      "p": "El comprador, normalmente una empresa especializada, paga hasta el fallecimiento. Después no hay nada que devolver a los herederos."
+     }
+    ],
+    "outro": [
+     "Sobre una cuota indivisa la operación es rara. Pocas empresas aceptan pagar una pensión de por vida por un porcentaje de un piso que comparten otros copropietarios."
+    ]
+   },
+   {
+    "overline": "Fiscalidad",
+    "h2": "Ventajas fiscales para mayores de 65 años",
+    "type": "text",
+    "intro": [
+     "Si un mayor de 65 años vende su vivienda habitual, la ganancia está exenta en el IRPF, cobre al contado o en forma de renta. Si vende otro inmueble, como su cuota de un piso heredado, también puede evitar tributar. Para ello debe reinvertir el dinero en una renta vitalicia asegurada en seis meses, con un máximo de 240.000 euros, según el artículo 38 de la ley del IRPF.",
+     "Además, las pensiones de una renta vitalicia tributan solo en parte como rendimiento del capital mobiliario. El porcentaje depende de la edad al constituirla: un 20 % entre 66 y 69 años y un 8 % a partir de 70. Por ejemplo, de 1.000 euros al mes, un vendedor de 72 años solo integra 80 euros en su base."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Renta vitalicia frente a vender al contado",
+    "type": "table",
+    "intro": [
+     "Veamos un ejemplo orientativo. Una mujer de 75 años es dueña de un tercio de un piso de 180.000 euros, es decir, unos 60.000 euros de valor proporcional."
+    ],
+    "items": [
+     [
+      "Opción",
+      "Qué recibe y qué riesgo asume"
+     ],
+     [
+      "Renta vitalicia por su tercio",
+      "Pocas empresas la ofrecen sobre una cuota. Si alguna lo hace, la pensión sería modesta y dependería de la solvencia del pagador."
+     ],
+     [
+      "Venta de la cuota al contado",
+      "Entre 24.000 y 42.000 euros en notaría, de forma orientativa, en dos a cuatro semanas. Sin riesgo de impago."
+     ],
+     [
+      "Venta al contado y renta asegurada",
+      "Cobra el precio y lo invierte en una aseguradora. Si cumple los requisitos, la ganancia queda exenta y recibe una pensión garantizada."
+     ],
+     [
+      "Esperar a vender el piso entero",
+      "Necesita la firma de todos los copropietarios. Puede obtener más, pero sin plazo cierto."
+     ]
+    ],
+    "outro": [
+     "La tercera fila suele ser la combinación más interesante para un mayor de 65 años con una cuota. Así consigue liquidez segura y una renta vitalicia sin depender de un comprador del inmueble."
+    ]
+   },
+   {
+    "overline": "Términos vecinos",
+    "h2": "Términos parecidos: nuda propiedad, hipoteca inversa y exenciones",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Nuda propiedad",
+      "p": "Vendes la propiedad y te quedas el usufructo. Cobras al contado y sigues en casa.",
+      "url": "/vender-nuda-propiedad/",
+      "cta": "Vender la nuda propiedad →"
+     },
+     {
+      "t": "Hipoteca inversa",
+      "p": "Préstamo sobre tu vivienda que se devuelve al fallecer. No vendes nada en vida.",
+      "url": "/diccionario-del-proindiviso/hipoteca-inversa/",
+      "cta": "Ver hipoteca inversa →"
+     },
+     {
+      "t": "Exención para mayores de 65",
+      "p": "Las reglas del IRPF que dejan sin tributar la venta de la vivienda habitual o la ganancia reinvertida.",
+      "url": "/diccionario-del-proindiviso/exencion-para-mayores-de-65-anos/",
+      "cta": "Ver la exención →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Cobra tu parte al contado y decide después",
+    "type": "callout",
+    "intro": [
+     "Si tienes una cuota y una renta vitalicia no encaja, compramos tu parte con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Los gastos de notaría y gestión corren de nuestra cuenta. Con ese dinero puedes contratar después una renta asegurada, si te conviene."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Oferta por escrito en 48 horas, sin exclusividad. Firma en notaría en dos a cuatro semanas.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es buena idea vender la casa por una renta vitalicia?",
+    "Puede serlo si no tienes herederos interesados en la vivienda y quieres una pensión segura. El riesgo es la solvencia del comprador y la falta de liquidez inmediata. Compara siempre con vender al contado o vender la nuda propiedad y contratar después una renta asegurada."
+   ],
+   [
+    "¿Qué pasa si el comprador deja de pagar la renta vitalicia?",
+    "Según el artículo 1805 del Código Civil, el impago no permite por sí solo recuperar el inmueble. Solo podrás reclamar las rentas atrasadas y exigir garantías, salvo que en la escritura se pactara una condición resolutoria o una hipoteca. Revisa ese punto antes de firmar."
+   ],
+   [
+    "¿Cuánto tributa una renta vitalicia en el IRPF?",
+    "Solo una parte de cada pago se integra como rendimiento del capital mobiliario, según la edad al constituirla. Por ejemplo, a partir de 70 años tributa el 8 % de la renta. Las cifras son orientativas y dependen de la modalidad contratada."
+   ],
+   [
+    "¿Pueden mis herederos reclamar algo tras una renta vitalicia?",
+    "Normalmente no, porque la vivienda ya no forma parte de tu patrimonio al fallecer. Sin embargo, si la operación se hizo a un precio muy bajo para perjudicar a los legitimarios, podrían impugnarla. Por eso conviene una tasación independiente."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la renta vitalicia",
+  "related": [
+   [
+    "Vender la nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ],
+   [
+    "Exención para mayores de 65 años",
+    "/diccionario-del-proindiviso/exencion-para-mayores-de-65-anos/"
+   ],
+   [
+    "Usufructo",
+    "/diccionario-del-proindiviso/usufructo/"
+   ],
+   [
+    "Exención por reinversión",
+    "/diccionario-del-proindiviso/exencion-por-reinversion/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ]
+  ],
+  "cta_title": "Cobra tu cuota de una vez y sin riesgos",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Renta vitalicia: qué es, ventajas fiscales y riesgos al vender",
+  "meta_desc": "La renta vitalicia cambia tu casa o tu cuota por una pensión de por vida. Ventajas fiscales a partir de 65, riesgos y cómo cobrar tu parte al contado.",
+  "focus_kw": "renta vitalicia",
+  "title_corto": "Renta vitalicia",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, morning natural light: a small sunlit kitchen in an older Spanish apartment with a moka coffee pot on a gas stove, potted basil and rosemary on the windowsill, blue and white patterned wall tiles, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Renta vitalicia: cocina soleada de un piso antiguo con plantas en la ventana"
+ },
+ {
+  "slug": "subrogacion-hipotecaria",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Subrogación hipotecaria: qué es y cómo afecta a tu parte del piso",
+  "sub": "La subrogación hipotecaria es el cambio de una de las partes de un préstamo hipotecario: un nuevo deudor asume la hipoteca, o un nuevo banco sustituye al anterior. En un proindiviso aparece cuando un copropietario se queda el piso y asume toda la hipoteca, algo que solo libera al otro si el banco lo acepta. Si no lo acepta, puedes vender tu cuota con hipoteca: te damos precio en 48 horas.",
+  "checks": [
+   "Ley 2/1994 y artículo 118 LH",
+   "Ejemplo con cifras",
+   "Compramos pisos con hipoteca"
+  ],
+  "card_title": "¿El banco no te libera?",
+  "card_text": "Te damos precio por tu parte del piso con hipoteca en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la subrogación hipotecaria y qué tipos hay",
+    "type": "text",
+    "intro": [
+     "La subrogación hipotecaria consiste en ocupar la posición de otro en un préstamo con hipoteca. Hay dos formas. La subrogación de deudor, o pasiva, se da cuando alguien asume la deuda en lugar del deudor original, como el comprador de una vivienda hipotecada. En cambio, la subrogación de acreedor, o activa, se da cuando el cliente se lleva su hipoteca a otro banco.",
+     "El cambio de banco se rige por la Ley 2/1994. Permite cambiar de entidad aunque la actual no quiera, si esta no iguala la oferta. Además, las comisiones están limitadas por la Ley 5/2019 y la escritura está exenta de actos jurídicos documentados. El cambio de deudor, por el contrario, depende siempre del banco: el artículo 1205 del Código Civil exige su conformidad."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Cuando un copropietario se queda el piso y asume la hipoteca",
+    "type": "text",
+    "intro": [
+     "Es el caso típico de un divorcio o de dos hermanos que compraron juntos. Uno se adjudica el 100 % del piso en una extinción de condominio y se compromete a pagar toda la hipoteca. Para que el otro salga del préstamo, el banco tiene que aceptar la subrogación hipotecaria y liberarlo. Antes estudiará la solvencia de quien se queda.",
+     "Si el banco no acepta, la extinción puede firmarse igual, pero el que sale sigue siendo deudor frente al banco. Entre ellos, responde quien se queda el piso. Sin embargo, si deja de pagar, el banco puede reclamar a los dos. El artículo 118 de la Ley Hipotecaria lo dice claro: el vendedor solo queda desligado si el acreedor presta su consentimiento."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de subrogación hipotecaria con un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Ana y Luis tienen un piso de 180.000 euros al 50 % con 80.000 euros de hipoteca pendiente. Ana se lo queda. Como el valor neto es de 100.000 euros, Ana paga a Luis 50.000 euros y asume los 80.000 del préstamo. Si el banco aprueba la subrogación hipotecaria, Luis queda libre. Si no, Luis sigue figurando como deudor.",
+     "Para pagar esos 50.000 euros, Ana suele necesitar una hipoteca nueva o ampliar la existente. Eso ya es una novación o un préstamo distinto, con su propia tasación y sus gastos. Además, la extinción de condominio tributa normalmente por actos jurídicos documentados, según comunidad autónoma."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Subrogación hipotecaria frente a novación y cancelación",
+    "type": "table",
+    "intro": [
+     "La subrogación hipotecaria se confunde a menudo con otras operaciones sobre el préstamo. Así se diferencian."
+    ],
+    "items": [
+     [
+      "Operación",
+      "Qué cambia"
+     ],
+     [
+      "Subrogación de deudor",
+      "Cambia quién debe. Hace falta el consentimiento del banco para liberar al deudor anterior."
+     ],
+     [
+      "Subrogación de acreedor",
+      "Cambia el banco. El nuevo paga la deuda al anterior y mejora las condiciones."
+     ],
+     [
+      "Novación hipotecaria",
+      "Se mantienen banco y deudor, pero cambian el plazo, el tipo de interés o el importe."
+     ],
+     [
+      "Cancelación de hipoteca",
+      "Se paga toda la deuda y se elimina la carga del Registro."
+     ]
+    ]
+   },
+   {
+    "overline": "Salidas",
+    "h2": "Qué hacer si el banco no acepta el cambio",
+    "type": "list",
+    "intro": [
+     "Si el banco rechaza la subrogación hipotecaria y quieres salir del piso, tienes varias salidas."
+    ],
+    "items": [
+     "<strong>Vender el piso entero</strong> con el acuerdo de todos y cancelar la hipoteca con el precio.",
+     "<strong>Pedir a tu copropietario que refinancie</strong> la deuda en otro banco a su nombre, cancelando la anterior.",
+     "<strong>Vender tu cuota con la hipoteca.</strong> Compramos partes de pisos hipotecados: la carga sigue sobre el inmueble y la descontamos del precio.",
+     "<strong>Demandar la división de la cosa común</strong> como último recurso, con subasta y reparto del sobrante tras pagar al banco."
+    ],
+    "outro": [
+     "Cuidado con un punto: vender tu cuota no te libera por sí solo de la deuda personal con el banco. Por eso lo estudiamos contigo antes de firmar, para que sepas en qué situación quedas."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Sal del piso aunque tenga hipoteca",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos con hipoteca pendiente en toda España, con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Los gastos de notaría y gestión corren de nuestra cuenta."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos la dirección, tu porcentaje y la deuda pendiente. Oferta por escrito en 48 horas.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede mi expareja quedarse el piso y la hipoteca sin que el banco me libere?",
+    "Sí, la extinción de condominio puede firmarse, pero seguirás siendo deudor frente al banco. Si tu expareja deja de pagar, el banco podrá reclamarte la deuda. Para quedar fuera hace falta que acepte la subrogación hipotecaria y te libere de forma expresa."
+   ],
+   [
+    "¿Cuánto cuesta una subrogación hipotecaria?",
+    "En el cambio de banco, la escritura está exenta de actos jurídicos documentados y las comisiones están limitadas por ley. Quedan la notaría, el Registro y, a veces, la tasación, aunque muchas entidades los asumen para captar al cliente. En el cambio de deudor, el banco puede cobrar la comisión prevista en el contrato."
+   ],
+   [
+    "¿El banco está obligado a aceptar la subrogación de un copropietario?",
+    "No. El cambio de deudor exige el consentimiento del acreedor, según el artículo 1205 del Código Civil. El banco estudiará los ingresos y el endeudamiento de quien se queda el piso, y puede pedir avales o rechazar la operación."
+   ],
+   [
+    "¿Puedo vender mi parte de un piso con hipoteca?",
+    "Sí. La hipoteca grava el inmueble entero y el comprador de tu cuota la asume como carga. Ten en cuenta que tu obligación personal con el banco sigue hasta que te liberen o se cancele la deuda, así que conviene planificarlo bien."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la subrogación hipotecaria",
+  "related": [
+   [
+    "Novación hipotecaria",
+    "/diccionario-del-proindiviso/novacion-hipotecaria/"
+   ],
+   [
+    "Hipoteca compartida",
+    "/diccionario-del-proindiviso/hipoteca-compartida/"
+   ],
+   [
+    "Extinción de condominio con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Vender un proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "Vende tu parte del piso hipotecado",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Subrogación hipotecaria: qué es y qué pasa en un proindiviso",
+  "meta_desc": "La subrogación hipotecaria cambia el deudor o el banco de una hipoteca. Cuándo libera al copropietario que sale y cómo vender tu parte con hipoteca.",
+  "focus_kw": "subrogación hipotecaria",
+  "title_corto": "Subrogación hipotecaria",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, late afternoon natural light: a modern Spanish residential complex with a communal swimming pool and landscaped gardens seen from a top-floor terrace, white facades with glass railings, palm trees, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Subrogación hipotecaria: urbanización moderna con piscina comunitaria vista desde una terraza"
+ },
+ {
+  "slug": "testamento-olografo",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Testamento ológrafo: qué es y por qué retrasa la venta de la casa heredada",
+  "sub": "El testamento ológrafo es el que el testador escribe entero a mano y firma, con indicación del año, el mes y el día, sin notario ni testigos. Para que valga, hay que adverarlo y protocolizarlo ante notario dentro de los cinco años siguientes al fallecimiento. Hasta entonces no se puede inscribir la herencia ni vender el inmueble con normalidad; después, te compramos tu cuota.",
+  "checks": [
+   "Artículos 688 a 693 CC",
+   "Plazo de cinco años",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Heredas con un testamento a mano?",
+  "card_text": "Te damos precio por tu cuota en 48 horas y te orientamos sobre los pasos previos.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un testamento ológrafo y qué requisitos tiene",
+    "type": "list",
+    "intro": [
+     "El Código Civil regula el testamento ológrafo en los artículos 688 a 693. Es una forma de testamento común, igual de válida que la notarial si cumple estos requisitos."
+    ],
+    "items": [
+     "<strong>Testador mayor de edad.</strong> El artículo 688 solo lo permite a personas mayores de edad.",
+     "<strong>Escrito todo a mano.</strong> Ni a máquina ni en ordenador. Una parte impresa basta para que no valga como ológrafo.",
+     "<strong>Firmado por el testador.</strong> La firma debe ser la suya habitual, al final del texto.",
+     "<strong>Con fecha completa.</strong> Año, mes y día. Sin fecha exacta, el testamento es nulo.",
+     "<strong>Tachaduras salvadas.</strong> Las palabras tachadas, enmendadas o entre renglones deben salvarse con su firma.",
+     "<strong>En su propia lengua.</strong> Los extranjeros pueden otorgarlo en su idioma."
+    ],
+    "outro": [
+     "Su gran ventaja es que es gratis y privado. Sin embargo, nadie comprueba la capacidad del testador ni la redacción, y puede perderse u ocultarse."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Adveración y protocolización ante notario en cinco años",
+    "type": "steps",
+    "intro": [
+     "Desde la reforma de la jurisdicción voluntaria, el trámite se hace ante notario y no ante el juez. Estos son los pasos."
+    ],
+    "items": [
+     {
+      "t": "Presentarlo",
+      "p": "Quien lo tenga debe llevarlo al notario en diez días desde que conozca el fallecimiento, o responderá de los daños. El plazo máximo es de cinco años."
+     },
+     {
+      "t": "Acreditar la letra",
+      "p": "El notario comprueba con tres testigos que conozcan la letra y la firma que el documento es del fallecido. Si hay dudas, puede pedir un perito calígrafo."
+     },
+     {
+      "t": "Citar a los interesados",
+      "p": "Se cita al viudo, a descendientes y ascendientes y, si no los hay, a los parientes hasta el cuarto grado. Así pueden presenciar el acto y alegar."
+     },
+     {
+      "t": "Protocolizarlo",
+      "p": "Si el notario lo considera auténtico, autoriza el acta de protocolización. Desde ese momento, el testamento ológrafo sirve como título sucesorio."
+     }
+    ],
+    "outro": [
+     "Si el notario no lo considera acreditado, los interesados pueden acudir al juzgado. Por otra parte, en Cataluña rige su propio Código Civil, con un plazo distinto."
+    ]
+   },
+   {
+    "overline": "Retrasos",
+    "h2": "Por qué un testamento ológrafo retrasa la venta",
+    "type": "text",
+    "intro": [
+     "Mientras el testamento ológrafo no esté protocolizado, no es un título válido para el Registro. Por tanto, los herederos no pueden firmar la aceptación ni inscribir el inmueble a su nombre. Sin eso, casi ningún comprador firma. El trámite notarial suele llevar de uno a tres meses, y bastante más si alguien se opone o hace falta una pericial.",
+     "Además, el testamento ológrafo es más fácil de impugnar. Un hermano que se considere perjudicado puede discutir la letra, la fecha o la capacidad del testador. Mientras dure el pleito, la herencia sigue en el aire y el inmueble no se puede vender entero.",
+     "Si pasan los cinco años sin protocolizarlo, el documento pierde su eficacia. En ese caso, la herencia se rige por un testamento anterior o, si no lo hay, por la sucesión intestada, con declaración de herederos."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: tres hermanos y un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Una madre deja en un cajón un testamento ológrafo en el que reparte su piso de 180.000 euros entre sus tres hijos. Uno quiere vender su tercio enseguida. Primero hay que pedir el certificado de últimas voluntades, que dirá si existe algún testamento notarial. Después se protocoliza el ológrafo, se acepta la herencia y se liquida el impuesto de sucesiones.",
+     "En la práctica, entre la protocolización y la herencia pasan de tres a seis meses. A partir de ahí, ese hermano puede vender su tercio, valorado en 60.000 euros, sin permiso de los otros dos. Por esa cuota, un comprador profesional paga de forma orientativa entre 24.000 y 42.000 euros, al contado en notaría."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Testamento ológrafo frente a otros testamentos",
+    "type": "table",
+    "items": [
+     [
+      "Tipo",
+      "Cómo se hace y qué pasa al fallecer"
+     ],
+     [
+      "Testamento ológrafo",
+      "A mano y sin notario. Hay que adverarlo y protocolizarlo en cinco años antes de usarlo."
+     ],
+     [
+      "Testamento abierto notarial",
+      "Ante notario, que valora la capacidad. Se usa directamente con una copia autorizada."
+     ],
+     [
+      "Testamento cerrado",
+      "El testador entrega al notario un sobre cerrado. Se abre y protocoliza tras el fallecimiento."
+     ],
+     [
+      "Sin testamento",
+      "Herencia intestada. Requiere declaración de herederos ante notario o juez."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Cuando la herencia esté lista, compramos tu parte",
+    "type": "callout",
+    "intro": [
+     "En cuanto el testamento esté protocolizado y la herencia aceptada, puedes vender tu cuota sin esperar a tus hermanos. Compramos partes de inmuebles heredados con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional al contado en notaría y asumimos los gastos de notaría y gestión."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas, sin exclusividad ni compromiso, también si aún estás con el trámite.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es válido un testamento ológrafo escrito en una hoja cualquiera?",
+    "Sí, si está escrito entero a mano, firmado y con año, mes y día. No importa el tipo de papel. Lo que no vale es un texto a ordenador con la firma a mano, ni uno sin fecha completa, porque el artículo 688 exige esos requisitos."
+   ],
+   [
+    "¿Cuánto cuesta protocolizar un testamento ológrafo?",
+    "Depende del notario y de la complejidad, sobre todo si hace falta perito calígrafo. De forma orientativa, el acta cuesta desde unos cientos de euros hasta más de mil si hay pericial o muchos comparecientes. Después vienen los gastos normales de la herencia."
+   ],
+   [
+    "¿Qué pasa si encuentro un testamento ológrafo después de firmar la herencia?",
+    "Si cumple los requisitos y se protocoliza dentro de los cinco años desde el fallecimiento, puede cambiar el reparto ya hecho. Los herederos perjudicados podrían tener que devolver bienes. Por eso conviene revisar a fondo los papeles del fallecido antes de repartir."
+   ],
+   [
+    "¿Puedo vender mi parte si el testamento está impugnado?",
+    "Lo normal es esperar a que se resuelva, porque aún no se sabe quién hereda ni en qué proporción. Si la impugnación solo afecta a otros bienes o hay un acuerdo parcial, quizá puedas vender antes. Consulta tu caso concreto."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el testamento ológrafo",
+  "related": [
+   [
+    "Testamento",
+    "/diccionario-del-proindiviso/testamento/"
+   ],
+   [
+    "Certificado de últimas voluntades",
+    "/diccionario-del-proindiviso/certificado-de-ultimas-voluntades/"
+   ],
+   [
+    "Testamento abierto",
+    "/diccionario-del-proindiviso/testamento-abierto/"
+   ],
+   [
+    "Declaración de herederos abintestato",
+    "/diccionario-del-proindiviso/declaracion-de-herederos-abintestato/"
+   ],
+   [
+    "Vender una casa heredada sin testamento",
+    "/blog/vender-casa-heredada-sin-testamento/"
+   ]
+  ],
+  "cta_title": "Vende tu parte de la herencia en semanas",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Testamento ológrafo: requisitos, plazo de 5 años y herencia",
+  "meta_desc": "El testamento ológrafo se escribe a mano y hay que protocolizarlo en 5 años. Requisitos, plazos y cómo afecta a vender tu parte de la herencia.",
+  "focus_kw": "testamento ológrafo",
+  "title_corto": "Testamento ológrafo",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft light through a lace curtain: a closed drawer of an antique walnut bureau with a small brass keyhole in the bedroom of an old Spanish flat, faded floral wallpaper, a ceramic vase on top, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Testamento ológrafo: cajón cerrado de un antiguo bureau de nogal en un dormitorio"
+ },
+ {
+  "slug": "vecindad-civil",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Vecindad civil: qué es y por qué decide cómo se reparte tu herencia",
+  "sub": "La vecindad civil es la condición que determina a qué derecho civil español, común o foral, está sujeta una persona y, por tanto, qué ley regula su herencia. No es lo mismo que el empadronamiento ni que la residencia fiscal. De ella dependen la legítima, los derechos del viudo y si los hijos acaban o no en proindiviso; si ya compartes un inmueble heredado, te compramos tu cuota.",
+  "checks": [
+   "Artículos 14, 16 y 9.8 CC",
+   "Legítimas por territorio",
+   "Compramos en toda España"
+  ],
+  "card_title": "¿Heredas con derecho foral?",
+  "card_text": "Sea cual sea la ley aplicable, te damos precio por tu cuota en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la vecindad civil y cómo se adquiere",
+    "type": "list",
+    "intro": [
+     "En España conviven el Código Civil común y varios derechos forales. La vecindad civil, regulada en los artículos 14 a 16 del Código Civil, dice cuál se aplica a cada persona. Se adquiere de estas formas."
+    ],
+    "items": [
+     "<strong>Por filiación.</strong> Los hijos tienen la de sus padres. Si estos tienen vecindades distintas, pueden elegir una de las dos en los seis meses siguientes al nacimiento.",
+     "<strong>Por nacimiento.</strong> Si no se puede aplicar la regla anterior, cuenta el lugar de nacimiento y, en último término, la vecindad común.",
+     "<strong>Por residencia.</strong> Dos años de residencia continuada en otro territorio más una declaración ante el Registro Civil, o diez años sin declarar lo contrario.",
+     "<strong>Por opción.</strong> Un cónyuge puede optar por la vecindad del otro. A su vez, el hijo, desde los catorce años, puede elegir la del lugar de nacimiento o la de uno de sus padres."
+    ],
+    "outro": [
+     "En cambio, el matrimonio no altera por sí solo la vecindad civil de ninguno de los cónyuges."
+    ]
+   },
+   {
+    "overline": "Ley aplicable",
+    "h2": "Por qué la vecindad civil decide qué ley de herencias se aplica",
+    "type": "text",
+    "intro": [
+     "El artículo 9.8 del Código Civil, aplicado dentro de España por el artículo 16, dispone que la sucesión se rige por la ley personal del causante al fallecer. Para un español, esa ley es la de su vecindad civil. No importa dónde vivía ni dónde están los inmuebles. Por ejemplo, un catalán que lleva cinco años en Madrid sin declarar nada sigue heredándose por el derecho catalán. Si hay elementos internacionales, entra además en juego el reglamento europeo de sucesiones.",
+     "En el impuesto de sucesiones, en cambio, el punto de conexión es otro. Se aplica la normativa de la comunidad donde el fallecido residió más días en los cinco años anteriores. Por eso una misma herencia puede regirse por el derecho civil gallego y tributar según las normas de Madrid."
+    ]
+   },
+   {
+    "overline": "Legítimas",
+    "h2": "Las legítimas cambian según el territorio",
+    "type": "table",
+    "intro": [
+     "La diferencia más visible está en la legítima de los hijos. De forma orientativa, así queda en cada territorio."
+    ],
+    "items": [
+     [
+      "Vecindad civil",
+      "Legítima de los descendientes y efecto práctico"
+     ],
+     [
+      "Común",
+      "Dos tercios de la herencia, uno de legítima estricta y otro de mejora. Lo normal es que los hijos hereden el piso a partes iguales."
+     ],
+     [
+      "Catalana",
+      "Una cuarta parte, como derecho de crédito. El testador puede dejar el piso a un hijo y pagar al resto en dinero."
+     ],
+     [
+      "Aragonesa",
+      "La mitad, que se puede repartir libremente entre los descendientes, incluso a uno solo."
+     ],
+     [
+      "Navarra",
+      "Legítima formal sin contenido económico. Hay libertad casi total para dejar el inmueble a quien se quiera."
+     ],
+     [
+      "Gallega",
+      "Una cuarta parte para los hijos, que puede pagarse en dinero o con otros bienes."
+     ],
+     [
+      "Vasca",
+      "Un tercio para los descendientes, que el causante puede atribuir a uno o a varios de ellos."
+     ],
+     [
+      "Balear, en Mallorca y Menorca",
+      "Un tercio si hay hasta cuatro hijos y la mitad si hay más."
+     ]
+    ]
+   },
+   {
+    "overline": "Cuotas",
+    "h2": "Efecto de la vecindad civil en las cuotas de un inmueble",
+    "type": "text",
+    "intro": [
+     "Imagina un padre viudo con tres hijos y un piso de 180.000 euros, sin testamento. Con vecindad civil común, los tres heredan por igual y nace un proindiviso de un tercio cada uno. Cada tercio tiene 60.000 euros de valor proporcional. Con testamento, en derecho común podría mejorar a uno, pero sin tocar la legítima estricta de los demás.",
+     "Con vecindad catalana, en cambio, el mismo padre puede nombrar heredero único a un hijo. Los otros dos reciben su legítima, una cuarta parte repartida entre los tres hijos y pagadera en dinero. Así, el piso no se divide y no hay proindiviso. En Navarra o Aragón, el margen para dejar el piso a uno solo es todavía mayor.",
+     "También cambian los derechos del viudo. En derecho común tiene un usufructo sobre parte de la herencia, mientras que otros territorios prevén usufructos universales o derechos distintos. Todo ello altera quién firma y qué porcentaje tiene cada uno cuando llega el momento de vender."
+    ]
+   },
+   {
+    "overline": "Prueba",
+    "h2": "Cómo se acredita ante el notario",
+    "type": "text",
+    "intro": [
+     "No existe un documento único que la pruebe. El notario la deduce del lugar de nacimiento, de la vecindad de los padres y de los cambios de residencia. Además, suele pedir una declaración del interesado. Si hubo una declaración ante el Registro Civil, consta en la inscripción de nacimiento.",
+     "Cuando hay dudas, por ejemplo con padres de territorios distintos o mudanzas largas, conviene aclararlo antes de aceptar la herencia. Una vecindad civil mal determinada puede llevar a aplicar una ley equivocada y obligar a rehacer la partición."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Sea cual sea la ley aplicable, compramos tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de inmuebles heredados en todo el territorio, con derecho común o foral. Pagamos con fondos propios entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Los gastos de notaría y gestión corren de nuestra cuenta."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas, sin exclusividad. Firma en notaría en dos a cuatro semanas.",
+     "cta": "Quiero una oferta"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué diferencia hay entre vecindad civil y empadronamiento?",
+    "El padrón solo acredita dónde vives. La vecindad civil determina qué derecho civil te corresponde y se adquiere por filiación, opción o residencia prolongada, con los requisitos del artículo 14. Puedes estar empadronado en Barcelona y conservar la vecindad común."
+   ],
+   [
+    "¿Cómo sé cuál es mi vecindad civil?",
+    "Parte de la de tus padres al nacer. Después, revisa si has vivido diez años seguidos en otro territorio o si hiciste alguna declaración ante el Registro Civil. En caso de duda, el notario te ayudará a determinarla antes de testar o de aceptar una herencia."
+   ],
+   [
+    "¿La vecindad civil afecta al impuesto de sucesiones?",
+    "No directamente. El impuesto se rige por la normativa de la comunidad autónoma donde el fallecido residió más días en los cinco años anteriores. La vecindad civil decide el reparto civil de la herencia, pero no cuánto se paga."
+   ],
+   [
+    "¿Puedo cambiar de vecindad civil para hacer un testamento distinto?",
+    "Sí, por residencia de dos años con declaración ante el Registro Civil o de diez años sin ella. El cambio rige desde entonces. Si se hace solo para eludir la legítima, podría discutirse como fraude de ley, así que conviene asesorarse."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la vecindad civil",
+  "related": [
+   [
+    "Derecho foral",
+    "/diccionario-del-proindiviso/derecho-foral/"
+   ],
+   [
+    "Pacto sucesorio",
+    "/diccionario-del-proindiviso/pacto-sucesorio/"
+   ],
+   [
+    "Legítima",
+    "/diccionario-del-proindiviso/legitima/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Cómo se reparte una herencia de una casa entre hermanos",
+    "/blog/como-se-reparte-una-herencia-de-una-casa-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota heredada en cualquier comunidad",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Vecindad civil: qué es y cómo decide la ley de tu herencia",
+  "meta_desc": "La vecindad civil decide si tu herencia se rige por el derecho común o foral: legítimas, viudo y cuotas. Cómo se adquiere y cómo vender tu parte en 48 h.",
+  "focus_kw": "vecindad civil",
+  "title_corto": "Vecindad civil",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, early morning light with soft mist: an old stone arched bridge over a calm river linking two small Spanish towns, a bell tower rising on each bank, poplar trees along the water, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Vecindad civil: puente de piedra sobre un río entre dos pueblos españoles al amanecer"
  }
 ]

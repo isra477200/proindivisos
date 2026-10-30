@@ -419,11 +419,11 @@
     ]
    },
    {
-    "overline": "Plusvalía e IRPF",
+    "overline": "Otros impuestos",
     "h2": "Plusvalía e IRPF después de la extinción de condominio en Aragón",
     "type": "text",
     "intro": [
-     "Plusvalía municipal e IRPF son impuestos estatales, iguales en Huesca, Teruel y Zaragoza. Con carácter general, la extinción de condominio en Aragón no paga plusvalía ni genera ganancia en el IRPF. El motivo es que no se trata como una venta, sino como la concreción de lo que ya era tuyo.",
+     "La plusvalía municipal y el IRPF son impuestos estatales, iguales en Huesca, Teruel y Zaragoza. Con carácter general, la extinción de condominio en Aragón no paga plusvalía ni genera ganancia en el IRPF. El motivo es que no se trata como una venta, sino como la concreción de lo que ya era tuyo.",
      "Si vendes tu cuota a un tercero, el escenario cambia. Pagas la plusvalía a tu ayuntamiento y declaras la ganancia en la renta, si la hay. Haz números con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a> o lee nuestra guía del <a href=\"/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/\">IRPF al vender tu parte heredada</a>."
     ]
    },
@@ -1169,10 +1169,10 @@
     "h2": "Por qué Canarias tiene impuestos distintos",
     "type": "text",
     "intro": [
-     "Canarias tiene un régimen económico y fiscal propio. Por eso no hay IVA, sino IGIC, y los impuestos cedidos tienen tipos distintos a los de la península. En la extinción de condominio en Canarias se nota en el AJD: un 0,75 % frente al 1,2 % o el 1,5 % de la mayoría de comunidades.",
-     "El AJD es el impuesto de la escritura de extinción. Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás. Salvo el caso de La Palma, que vemos más abajo, Canarias no tiene una regla específica para la extinción de condominio: se aplican el tipo general y sus variantes.",
-     "Hay un matiz propio de las islas. Si la operación está sujeta a IGIC o a IVA, el AJD sube al 1 %, algo que ocurre, por ejemplo, cuando vende un promotor. En cambio, entre particulares que salen de un proindiviso lo habitual es el 0,75 %.",
-     "Gestiona el impuesto la Agencia Tributaria Canaria. Se presenta con el modelo 600 en el plazo de un mes desde la firma."
+     "Canarias tiene un régimen económico y fiscal propio. Por eso no hay IVA, sino IGIC, y los impuestos cedidos tienen tipos distintos a los de la península. Así, en la extinción de condominio en Canarias se nota en el AJD: un 0,75 % frente al 1,2 % o el 1,5 % de la mayoría de comunidades.",
+     "Por definición, el AJD es el impuesto de la escritura de extinción. Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás. Salvo el caso de La Palma, que vemos más abajo, Canarias no tiene una regla específica para la extinción de condominio: se aplican el tipo general y sus variantes.",
+     "Además, hay un matiz propio de las islas. Si la operación está sujeta a IGIC o a IVA, el AJD sube al 1 %, algo que ocurre, por ejemplo, cuando vende un promotor. En cambio, entre particulares que salen de un proindiviso lo habitual es el 0,75 %.",
+     "Por último, gestiona el impuesto la Agencia Tributaria Canaria. Después de firmar, tienes un mes para presentarlo con el modelo 600."
     ]
    },
    {
@@ -1180,7 +1180,7 @@
     "h2": "Impuestos de la extinción de condominio en Canarias y del resto de salidas",
     "type": "table",
     "intro": [
-     "La tabla resume los tipos que aplica la Agencia Tributaria Canaria en 2026. Las cifras proceden del texto refundido canario de tributos cedidos."
+     "La tabla resume, por tipo de operación, lo que aplica la Agencia Tributaria Canaria en 2026. Como fuente, usamos el texto refundido canario de tributos cedidos."
     ],
     "items": [
      [
@@ -1230,20 +1230,20 @@
     "h2": "AJD de la extinción de condominio en Canarias: tipos y requisitos",
     "type": "cards",
     "intro": [
-     "El AJD canario tiene un tipo general y dos variantes. Conviene conocerlas antes de ir a la notaría."
+     "El AJD canario tiene un tipo general y varias variantes, así que conviene conocerlas antes de ir a la notaría."
     ],
     "items": [
      {
       "t": "Tipo general: 0,75 %",
-      "p": "Es el que se aplica a la escritura de extinción entre particulares. Se calcula sobre el valor de la parte que adquieres."
+      "p": "Es el que se aplica, por regla general, a la escritura de extinción entre particulares. Además, se calcula sobre el valor de la parte que adquieres."
      },
      {
       "t": "Tipo reducido: 0,40 %",
-      "p": "Para la vivienda habitual de familias numerosas, personas con discapacidad, familias monoparentales, jóvenes o vivienda protegida, con límites de renta. Se pensó para compras, así que confirma con la notaría si encaja en tu extinción."
+      "p": "Sirve para la vivienda habitual de familias numerosas, personas con discapacidad, familias monoparentales, jóvenes o vivienda protegida, si se cumplen límites de renta. Se pensó para compras, así que confirma con la notaría si encaja en tu extinción."
      },
      {
       "t": "Tipo incrementado: 1 %",
-      "p": "Se aplica cuando la operación está sujeta a IGIC o a IVA, por ejemplo, si vende un promotor. No es lo normal entre copropietarios particulares."
+      "p": "Se aplica cuando la operación está sujeta a IGIC o a IVA, por ejemplo, si vende un promotor. Por eso no es lo normal entre copropietarios particulares."
      },
      {
       "t": "La Palma: tipo 0 %",
@@ -1251,7 +1251,7 @@
      },
      {
       "t": "Base: solo lo que adquieres",
-      "p": "Según la doctrina del Tribunal Supremo desde 2018, no tributa el valor total del inmueble. Si te quedas el 50 % de tu hermana, pagas por ese 50 %.",
+      "p": "Según la doctrina del Tribunal Supremo desde 2018, no tributa el valor total del inmueble, sino tu parte. Si te quedas el 50 % de tu hermana, pagas por ese 50 %.",
       "url": "/extincion-de-condominio/impuestos-y-notario/",
       "cta": "Impuestos y notaría →"
      }
@@ -1262,7 +1262,7 @@
     "h2": "Ejemplo con un piso de 220.000 € en Las Palmas de Gran Canaria",
     "type": "steps",
     "intro": [
-     "Dos hermanos tienen al 50 % un piso en Las Palmas de Gran Canaria con un valor de referencia de 220.000 €. Uno se lo queda y el otro quiere cobrar. Así queda la extinción de condominio en Canarias con números redondos y orientativos."
+     "Dos hermanos tienen al 50 % un piso en Las Palmas de Gran Canaria con un valor de referencia de 220.000 €. Uno se lo queda, pero el otro quiere cobrar. Así queda la extinción de condominio en Canarias con números redondos y orientativos."
     ],
     "items": [
      {
@@ -1271,19 +1271,19 @@
      },
      {
       "t": "AJD: 825 €",
-      "p": "Al 0,75 %, la extinción de condominio en Canarias cuesta 825 € de impuesto. En una comunidad con el 1,5 %, serían 1.650 €."
+      "p": "Así, al 0,75 %, la extinción de condominio en Canarias cuesta 825 € de impuesto. Por comparación, en una comunidad con el 1,5 %, serían 1.650 €."
      },
      {
       "t": "Compensación: 110.000 €",
-      "p": "El que se queda el piso paga a su hermano el valor de su mitad, con ahorros o con una hipoteca."
+      "p": "El que se queda el piso paga a su hermano el valor de su mitad, ya sea con ahorros o con una hipoteca."
      },
      {
       "t": "O vender la mitad",
-      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su 50 % por entre 44.000 y 77.000 €, del 40 % al 70 % del valor proporcional. El ITP del 6,5 %, unos 7.150 €, lo pagamos nosotros."
+      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su 50 % por entre 44.000 y 77.000 €, del 40 % al 70 % del valor proporcional. Además, el ITP del 6,5 %, unos 7.150 €, lo pagamos nosotros."
      }
     ],
     "outro": [
-     "Haz tu propio cálculo en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+     "Si quieres, haz tu propio cálculo en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
     ]
    },
    {
@@ -1295,11 +1295,11 @@
     ],
     "items": [
      "<strong>Hijos, cónyuge y padres.</strong> Bonificación del 99,9 % de la cuota. Antes se aplican reducciones propias, como 23.125 € para hijos de 21 años o más y 40.400 € para el cónyuge.",
-     "<strong>Hijos menores de 21 años.</strong> La reducción llega a 138.650 € para menores de 10 años y baja con la edad, hasta 40.400 € entre los 18 y los 21.",
-     "<strong>Hermanos, sobrinos y tíos.</strong> También tienen una bonificación del 99,9 %, con una reducción de 9.300 €. Casi ninguna comunidad ofrece algo parecido.",
+     "<strong>Hijos menores de 21 años.</strong> La reducción llega a 138.650 € para menores de 10 años y luego baja con la edad, hasta 40.400 € entre los 18 y los 21.",
+     "<strong>Hermanos, sobrinos y tíos.</strong> También tienen una bonificación del 99,9 %, con una reducción de 9.300 €. Por cierto, casi ninguna comunidad ofrece algo parecido.",
      "<strong>Primos y personas sin parentesco.</strong> No tienen bonificación ni reducción por parentesco, así que pagan la cuota completa.",
-     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % con un límite de 200.000 € de valor, si la conservas 5 años. Vale para cónyuge, descendientes y colaterales mayores de 65 años que convivieran con el fallecido 2 años.",
-     "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % con un límite de 200.000 € de valor, si la conservas 5 años. Además, vale para cónyuge, descendientes y colaterales mayores de 65 años que convivieran con el fallecido 2 años.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650, como cualquier herencia."
     ],
     "outro": [
      "Si heredas de un tío sin hijos, revisa nuestra guía sobre la <a href=\"/blog/herencia-de-un-tio-sin-hijos-sobrinos/\">herencia de los sobrinos</a>."
@@ -1342,7 +1342,7 @@
   "faqs": [
    [
     "¿Cuánto se paga por una extinción de condominio en Tenerife o Gran Canaria?",
-    "Un 0,75 % de AJD sobre el valor de la parte que adquieres, igual en todas las islas. Con un piso de 220.000 € al 50 %, son unos 825 €. A eso se suman notaría y Registro."
+    "Un 0,75 % de AJD sobre el valor de la parte que adquieres, igual en todas las islas. Por ejemplo, con un piso de 220.000 € al 50 %, son unos 825 €. Además, se suman notaría y Registro."
    ],
    [
     "¿Por qué el AJD es más bajo en Canarias?",
@@ -1354,7 +1354,7 @@
    ],
    [
     "¿Qué ITP paga quien compra mi cuota en Canarias?",
-    "El tipo general es del 6,5 % y lo paga siempre el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría y la gestión. Tú solo declaras la posible ganancia en el IRPF."
+    "El tipo general es del 6,5 % y, como siempre, lo paga el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría y la gestión. Tú, por tu parte, solo declaras la posible ganancia en el IRPF."
    ],
    [
     "¿Se paga IGIC al vender una cuota de vivienda en Canarias?",
@@ -1362,7 +1362,7 @@
    ],
    [
     "¿Dónde se presentan los impuestos en Canarias?",
-    "Ante la Agencia Tributaria Canaria. El AJD y el ITP van en el modelo 600, en un mes desde la firma, y sucesiones en el 650, en seis meses desde el fallecimiento. Puedes hacerlo en su sede electrónica o a través de la notaría."
+    "Ante la Agencia Tributaria Canaria. El AJD y el ITP van en el modelo 600, en un mes desde la firma, y sucesiones en el 650, en seis meses desde el fallecimiento. Puedes hacerlo en su sede electrónica o, si lo prefieres, a través de la notaría."
    ]
   ],
   "faq_title": "Preguntas sobre impuestos del proindiviso en Canarias",
@@ -1482,12 +1482,12 @@
     "h2": "Novedades de 2026 que afectan al condominio en Cantabria",
     "type": "list",
     "intro": [
-     "La Ley de Cantabria 5/2026, de medidas fiscales, cambió varios tipos con efectos desde el 1 de mayo de 2026. Estos son los cambios que afectan a quien tiene un proindiviso."
+     "Como novedad, la Ley de Cantabria 5/2026, de medidas fiscales, cambió varios tipos con efectos desde el 1 de mayo de 2026. Estos son, por tanto, los cambios que afectan a quien tiene un proindiviso."
     ],
     "items": [
-     "<strong>ITP de vivienda habitual.</strong> El tipo del 7 % se aplica ahora hasta 300.000 € de valor, antes hasta 200.000 €. El exceso tributa al 9 %.",
+     "<strong>ITP de vivienda habitual.</strong> El tipo del 7 % se aplica ahora hasta 300.000 € de valor, mientras que antes llegaba a 200.000 €. Después, el exceso tributa al 9 %.",
      "<strong>Jóvenes.</strong> El ITP reducido del 4 % y el AJD del 0,1 % alcanzan ahora a los menores de 40 años, cuando antes el límite eran 36.",
-     "<strong>Tope de 300.000 €.</strong> Los tipos reducidos de ITP y AJD se aplican solo hasta 300.000 € del valor del inmueble. Por encima, rige el tipo general.",
+     "<strong>Tope de 300.000 €.</strong> Así, los tipos reducidos de ITP y AJD se aplican solo hasta 300.000 € del valor del inmueble. Por encima, rige el tipo general.",
      "<strong>Rehabilitación.</strong> El ITP del 5 % para viviendas que se rehabilitan de inmediato ya no se aplica a las viviendas de uso turístico.",
      "<strong>Sucesiones.</strong> El tiempo que el fallecido pasó en una residencia de mayores justo antes de morir ya no rompe los dos años de convivencia exigidos en la reducción por vivienda habitual."
     ]
@@ -1497,11 +1497,11 @@
     "h2": "AJD de la extinción de condominio en Cantabria",
     "type": "text",
     "intro": [
-     "La extinción de condominio en Cantabria tributa al 1,5 % por Actos Jurídicos Documentados. Es el tipo general del artículo 13 del texto refundido cántabro, el Decreto Legislativo 62/2008. Paga quien se queda el inmueble, porque adquiere la parte de los demás.",
-     "La base es solo el valor de esa parte, según la doctrina del Tribunal Supremo desde 2018. Si te quedas el 50 % de tu hermano, tributas por ese 50 %. Como mínimo, Hacienda toma el valor de referencia del Catastro.",
-     "Cantabria tiene tipos reducidos para los documentos que formalizan la adquisición de vivienda habitual. El general baja al 1 %. Para menores de 40 años, familias numerosas o monoparentales, discapacidad del 33 % al 65 % y municipios en riesgo de despoblamiento, baja al 0,1 %. Con discapacidad del 65 % o más, el tipo es del 0,05 %.",
+     "La extinción de condominio en Cantabria tributa al 1,5 % por Actos Jurídicos Documentados. Como tipo general, lo fija el artículo 13 del texto refundido cántabro, el Decreto Legislativo 62/2008. Paga quien se queda el inmueble, porque adquiere la parte de los demás.",
+     "Además, la base es solo el valor de esa parte, según la doctrina del Tribunal Supremo desde 2018. Si te quedas el 50 % de tu hermano, tributas por ese 50 %. Como mínimo, Hacienda toma el valor de referencia del Catastro.",
+     "Cantabria tiene tipos reducidos para los documentos que formalizan la adquisición de vivienda habitual. Primero, el tipo general baja al 1 %. Después, para menores de 40 años, familias numerosas o monoparentales, discapacidad del 33 % al 65 % y municipios en riesgo de despoblamiento, baja al 0,1 %. Y si la discapacidad es del 65 % o más, el tipo es del 0,05 %.",
      "Si quien se queda el piso firma una hipoteca para compensar, esa escritura tributa en Cantabria al 2 % de AJD. Sin embargo, desde 2018 ese impuesto lo paga el banco, no tú.",
-     "Hay dos condiciones. Los tipos reducidos solo alcanzan los primeros 300.000 € del inmueble y hay que pedirlos en la propia escritura. Además, se pensaron para la compra de vivienda, así que en una extinción de condominio en Cantabria confirma con la notaría si encajan."
+     "Pero hay dos condiciones. Los tipos reducidos solo alcanzan los primeros 300.000 € del inmueble y hay que pedirlos en la propia escritura. Además, se pensaron para la compra de vivienda, así que en una extinción de condominio en Cantabria confirma con la notaría si encajan."
     ]
    },
    {
@@ -1509,7 +1509,7 @@
     "h2": "Tipos del proindiviso en Cantabria (2026)",
     "type": "table",
     "intro": [
-     "La tabla recoge los tipos vigentes tras la Ley 5/2026. Las cifras proceden del resumen oficial del Ministerio de Hacienda."
+     "La tabla recoge los tipos vigentes después de la Ley 5/2026. Como fuente, usamos el resumen oficial del Ministerio de Hacienda."
     ],
     "items": [
      [
@@ -1559,7 +1559,7 @@
     "h2": "Ejemplo de extinción de condominio en Cantabria: piso de 190.000 € en Santander",
     "type": "steps",
     "intro": [
-     "Dos hermanos heredan al 50 % un piso en Santander con un valor de referencia de 190.000 €. Uno se lo queda y el otro prefiere el dinero. Las cifras son orientativas."
+     "Dos hermanos heredan al 50 % un piso en Santander con un valor de referencia de 190.000 €. Uno se lo queda, pero el otro prefiere el dinero. Por supuesto, las cifras son orientativas."
     ],
     "items": [
      {
@@ -1572,11 +1572,11 @@
      },
      {
       "t": "Compensación: 95.000 €",
-      "p": "Es lo que recibe el hermano que sale, con los ahorros del otro o con una hipoteca."
+      "p": "Es lo que recibe el hermano que sale, ya sea con los ahorros del otro o con una hipoteca."
      },
      {
       "t": "Alternativa: vender el 50 %",
-      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su mitad por entre 38.000 y 66.500 €, del 40 % al 70 % del valor proporcional. El ITP del 9 %, unos 8.550 €, corre de nuestra cuenta."
+      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su mitad por entre 38.000 y 66.500 €, del 40 % al 70 % del valor proporcional. Además, el ITP del 9 %, unos 8.550 €, corre de nuestra cuenta."
      }
     ],
     "outro": [
@@ -1588,7 +1588,7 @@
     "h2": "Herencias en Cantabria: hijos, cónyuge y hermanos",
     "type": "cards",
     "intro": [
-     "Si la cuota viene de una herencia, primero se liquida sucesiones ante la Agencia Cántabra de Administración Tributaria. Junto con Baleares, Cantabria es la comunidad con bonificación del 100 % para la familia directa."
+     "Si la cuota viene de una herencia, primero se liquida sucesiones ante la Agencia Cántabra de Administración Tributaria. Así, junto con Baleares, Cantabria es la comunidad con bonificación del 100 % para la familia directa."
     ],
     "items": [
      {
@@ -1597,7 +1597,7 @@
      },
      {
       "t": "Hermanos",
-      "p": "Bonificación del 50 % de la cuota y una reducción de 25.000 €. Pocas comunidades mejoran tanto a los hermanos."
+      "p": "Bonificación del 50 % de la cuota y una reducción de 25.000 €. Por cierto, pocas comunidades mejoran tanto a los hermanos."
      },
      {
       "t": "Sobrinos y tíos",
@@ -1605,7 +1605,7 @@
      },
      {
       "t": "Vivienda habitual del fallecido",
-      "p": "Reducción del 95 % con un límite de 125.000 € por heredero, si la conservas 5 años. Se aplica a los grupos I, II y III."
+      "p": "Reducción del 95 % con un límite de 125.000 € por heredero, si la conservas 5 años. Además, se aplica a los grupos I, II y III."
      },
      {
       "t": "Plazo y prórroga",
@@ -1620,7 +1620,7 @@
     "h2": "Plusvalía, IRPF y cómo presentar los impuestos en Cantabria",
     "type": "text",
     "intro": [
-     "La plusvalía municipal y el IRPF son estatales. Con carácter general, la extinción de condominio en Cantabria no paga plusvalía ni genera ganancia en el IRPF, porque no se considera una venta. Si vendes tu cuota a un tercero, en cambio, sí aparecen los dos.",
+     "Por su parte, la plusvalía municipal y el IRPF son estatales. Con carácter general, la extinción de condominio en Cantabria no paga plusvalía ni genera ganancia en el IRPF, porque no se considera una venta. Si vendes tu cuota a un tercero, en cambio, sí aparecen los dos.",
      "Estima lo que te tocaría con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>, o lee nuestra guía del <a href=\"/blog/extincion-de-condominio-irpf-ganancia-patrimonial/\">IRPF en la extinción de condominio</a>.",
      "El AJD y el ITP se presentan con el modelo 600 y sucesiones con el 650, ante la Agencia Cántabra de Administración Tributaria. Puedes hacerlo por su registro electrónico o en persona, aunque lo habitual es que se ocupe la notaría o una gestoría. Además, si pediste a Hacienda una valoración previa del inmueble, Cantabria permite deducir esa tasa de la cuota cuando se cumplen ciertos requisitos."
     ]
@@ -1652,11 +1652,11 @@
   "faqs": [
    [
     "¿Cuánto cuesta una extinción de condominio en Santander?",
-    "El impuesto general es el 1,5 % de AJD sobre la parte que adquieres. Con un piso de 190.000 € al 50 %, son unos 1.425 €. A eso se suman notaría y Registro, y la hipoteca si la necesitas para compensar."
+    "El impuesto general es el 1,5 % de AJD sobre la parte que adquieres. Por ejemplo, con un piso de 190.000 € al 50 %, son unos 1.425 €. A eso se suman notaría y Registro, y la hipoteca si la necesitas para compensar."
    ],
    [
     "¿Qué cambió en 2026 en los impuestos de la vivienda en Cantabria?",
-    "Desde el 1 de mayo de 2026, el ITP del 7 % para vivienda habitual se aplica hasta 300.000 €. Además, el 4 % de ITP y el 0,1 % de AJD alcanzan a los menores de 40 años. Lo aprobó la Ley de Cantabria 5/2026."
+    "Desde el 1 de mayo de 2026, el ITP del 7 % para vivienda habitual se aplica hasta 300.000 €. Además, el 4 % de ITP y el 0,1 % de AJD alcanzan a los menores de 40 años. Lo aprobó la Ley de Cantabria 5/2026, como parte de sus medidas fiscales."
    ],
    [
     "¿Pagan sucesiones los hijos en Cantabria?",
@@ -1664,15 +1664,15 @@
    ],
    [
     "¿Cuánto paga un hermano que hereda en Cantabria?",
-    "Tiene una reducción de 25.000 € y una bonificación del 50 % de la cuota. Es un trato mejor que en la mayoría de comunidades, aunque puede salir una cantidad relevante. Calcúlalo antes de aceptar la herencia."
+    "Primero, tiene una reducción de 25.000 € y, después, una bonificación del 50 % de la cuota. Es un trato mejor que en la mayoría de comunidades, aunque puede salir una cantidad relevante. Calcúlalo antes de aceptar la herencia."
    ],
    [
     "¿Qué ITP paga la empresa que compra mi cuota en Cantabria?",
-    "El tipo general del 9 %, porque los reducidos son para quien compra su vivienda habitual. Lo paga siempre el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría."
+    "El tipo general del 9 %, porque los reducidos son para quien compra su vivienda habitual. Además, lo paga siempre el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría."
    ],
    [
     "¿Cómo pido la prórroga del impuesto de sucesiones en Cantabria?",
-    "Se solicita a la Agencia Cántabra de Administración Tributaria dentro de los cinco primeros meses desde el fallecimiento. La prórroga añade otros seis meses al plazo. Puedes pedirla por registro electrónico o de forma presencial."
+    "Se solicita a la Agencia Cántabra de Administración Tributaria dentro de los cinco primeros meses desde el fallecimiento. Así, la prórroga añade otros seis meses al plazo. Puedes pedirla por registro electrónico o de forma presencial."
    ]
   ],
   "faq_title": "Preguntas sobre impuestos del proindiviso en Cantabria",
