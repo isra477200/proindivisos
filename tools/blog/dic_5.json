@@ -1803,7 +1803,7 @@
      ],
      [
       "IRPF por ganancia patrimonial",
-      "El vendedor. Tributa la diferencia entre el precio de venta y el valor de adquisición, entre el 19 % y el 28 % según tramo. Si hay pérdida, no se paga."
+      "El vendedor. Tributa la diferencia entre el precio de venta y el valor de adquisición, entre el 19 % y el 30 % según tramo. Si hay pérdida, no se paga."
      ],
      [
       "Plusvalía municipal",
@@ -1860,7 +1860,7 @@
    ],
    [
     "¿Qué impuestos pago al vender mi cuota?",
-    "Como vendedor pagas el IRPF por la ganancia patrimonial, entre el 19 % y el 28 % de la diferencia entre lo que cobras y lo que te costó, y la plusvalía municipal si el suelo ha subido de valor. El ITP, la notaría y el Registro corren por cuenta del comprador, es decir, de nosotros."
+    "Como vendedor pagas el IRPF por la ganancia patrimonial, entre el 19 % y el 30 % de la diferencia entre lo que cobras y lo que te costó, y la plusvalía municipal si el suelo ha subido de valor. El ITP, la notaría y el Registro corren por cuenta del comprador, es decir, de nosotros."
    ],
    [
     "¿Qué es el retracto de comuneros y me afecta?",
@@ -1948,7 +1948,7 @@
     "h2": "Exenciones del IRPF por vivienda habitual a efectos fiscales",
     "type": "cards",
     "intro": [
-     "Al vender tu casa o tu parte, la ganancia tributa en el IRPF entre el 19 % y el 28 %. Si la casa es tu vivienda habitual a efectos fiscales, puedes evitarlo en estos casos."
+     "Al vender tu casa o tu parte, la ganancia tributa en el IRPF entre el 19 % y el 30 %. Si la casa es tu vivienda habitual a efectos fiscales, puedes evitarlo en estos casos."
     ],
     "items": [
      {

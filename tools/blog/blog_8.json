@@ -2004,7 +2004,7 @@
   "category": "impuestos-y-tramites",
   "kicker": "Impuestos al vender",
   "h1": "IRPF al vender mi parte de un piso heredado: cálculo, tipos, exenciones y ejemplo",
-  "sub": "El IRPF al vender tu parte de un piso heredado se calcula sobre la ganancia: precio de venta menos el valor declarado en sucesiones más los gastos de la herencia. Tributa entre el 19 % y el 28 % por tramos, y si vendes por debajo de ese valor no pagas nada. Te lo explicamos con cifras, y si quieres vender tu cuota, te la compramos.",
+  "sub": "El IRPF al vender tu parte de un piso heredado se calcula sobre la ganancia: precio de venta menos el valor declarado en sucesiones más los gastos de la herencia. Tributa entre el 19 % y el 30 % por tramos, y si vendes por debajo de ese valor no pagas nada. Te lo explicamos con cifras, y si quieres vender tu cuota, te la compramos.",
   "checks": [
    "IRPF calculado en la oferta",
    "Precio escrito en 48 h",
@@ -2093,7 +2093,7 @@
      ],
      [
       "Más de 300.000 €",
-      "28 %, elevado al 30 % desde 2025"
+      "30 % (desde 2025)"
      ]
     ],
     "outro": [
@@ -2159,7 +2159,7 @@
      },
      {
       "t": "Si no resides en España",
-      "p": "El comprador retiene el 3 % del precio y lo ingresa a cuenta. Tú presentas el modelo 210 en cuatro meses y pagas el 19 % si vives en la UE o el 24 % si no. Nosotros gestionamos esa retención."
+      "p": "El comprador retiene el 3 % del precio y lo ingresa a cuenta. Tú presentas el modelo 210 en cuatro meses y pagas el 19 %, vivas donde vivas. Nosotros gestionamos esa retención."
      }
     ]
    },
@@ -2180,7 +2180,7 @@
   "faqs": [
    [
     "¿Cuánto IRPF se paga por vender la parte de un piso heredado?",
-    "Entre el 19 % y el 28 % de la ganancia, por tramos, y nada si no hay ganancia. La ganancia es el precio de venta menos el valor declarado en sucesiones por tu cuota más los gastos de la herencia. No se tributa sobre el precio total."
+    "Entre el 19 % y el 30 % de la ganancia, por tramos, y nada si no hay ganancia. La ganancia es el precio de venta menos el valor declarado en sucesiones por tu cuota más los gastos de la herencia. No se tributa sobre el precio total."
    ],
    [
     "¿Qué valor de adquisición tiene un piso heredado a efectos de IRPF?",
@@ -2200,7 +2200,7 @@
    ],
    [
     "¿Cómo tributa si vivo en el extranjero y vendo mi parte del piso heredado?",
-    "No pagas IRPF sino el impuesto de no residentes. El comprador retiene el 3 % del precio y tú presentas el modelo 210 en cuatro meses, al 19 % si resides en la Unión Europea o al 24 % si no. Nosotros gestionamos la retención."
+    "No pagas IRPF sino el impuesto de no residentes. El comprador retiene el 3 % del precio y tú presentas el modelo 210 en cuatro meses, al 19 %, residas donde residas. Nosotros gestionamos la retención."
    ]
   ],
   "faq_title": "Preguntas sobre el IRPF al vender tu parte de un piso heredado",
@@ -2229,7 +2229,7 @@
   "cta_title": "Vende tu parte sabiendo lo que te queda limpio",
   "cta_text": "Compramos tu cuota con fondos propios y te damos la estimación de IRPF por escrito. Oferta en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
   "yoast_title": "IRPF vender parte de un piso heredado: cálculo y ejemplos",
-  "meta_desc": "IRPF al vender tu parte de un piso heredado: valor de adquisición, de transmisión, tipos del 19 al 28 %, exenciones y ejemplo con cifras. Te la compramos.",
+  "meta_desc": "IRPF al vender tu parte de un piso heredado: valor de adquisición, de transmisión, tipos del 19 al 30 %, exenciones y ejemplo con cifras. Te la compramos.",
   "focus_kw": "irpf vender parte de un piso heredado",
   "title_corto": "IRPF al vender mi parte",
   "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm natural afternoon light. Facade of an old Spanish apartment building with wrought iron balconies and faded ochre plaster, some shutters open and others closed, a narrow city street below, muted palette with dark blue and terracotta accents, subtle film grain. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",

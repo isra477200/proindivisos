@@ -21,6 +21,7 @@
     "intro": [
      "La extinción de condominio en Andalucía tributa por Actos Jurídicos Documentados (AJD), no por Transmisiones Patrimoniales. En 2026 el tipo general es del 1,2 %, según el artículo 49 de la Ley 5/2021 de Tributos Cedidos. Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás.",
      "La base imponible no es el valor de todo el piso. Según la doctrina del Tribunal Supremo desde 2018, solo cuenta el valor de la parte que adquiere el adjudicatario. Por ejemplo, si te quedas la mitad de tu hermano, tributas por esa mitad. Como referencia mínima, Hacienda usa el valor de referencia del Catastro cuando existe.",
+     "Con más de dos copropietarios la regla es la misma. Si tres hermanos tienen un tercio cada uno y uno se queda el piso entero, tributa por los dos tercios que adquiere. En cambio, si solo sale uno de los tres, los que siguen pagan por el tercio que reparten entre ellos.",
      "Además, la extinción de condominio en Andalucía no tiene una regla propia distinta de la estatal. Por tanto, se aplican el tipo general y, en su caso, los reducidos. La autoliquidación se presenta con el modelo 600 ante la Agencia Tributaria de Andalucía, y la notaría suele encargarse del trámite."
     ]
    },
@@ -123,7 +124,7 @@
      }
     ],
     "outro": [
-     "Puedes repetir el cálculo con tus cifras en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+     "Puedes repetir el cálculo con tus cifras en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>. Para la notaría y el Registro, mira cuánto <a href=\"/blog/cuanto-cobra-el-notario-extincion-de-condominio/\">cobra el notario en una extinción</a>, porque depende del valor."
     ]
    },
    {
@@ -136,6 +137,7 @@
     "items": [
      "<strong>Hijos, cónyuge y padres.</strong> Tienen una reducción de 1.000.000 € y, además, una bonificación del 99 % de la cuota. En la práctica, casi nadie de este grupo paga.",
      "<strong>Hermanos, sobrinos y tíos.</strong> Solo tienen una reducción de 10.000 € y un coeficiente de 1,5. La tarifa andaluza va del 7 % al 26 %, así que aquí sí puede salir una cuota relevante.",
+     "<strong>Primos y personas sin parentesco.</strong> No tienen reducción por parentesco y el coeficiente sube a 1,9. Es el grupo que más paga.",
      "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % sin límite de importe, siempre que conserves la vivienda 3 años.",
      "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
     ],
@@ -285,6 +287,1484 @@
   ],
   "dudas": [
    "Aplicación de los tipos reducidos de AJD de vivienda habitual (1 %, 0,3 %, 0,1 %) a una extinción de condominio: la ley los prevé para la adquisición de vivienda habitual; no he encontrado criterio 2026 de la ATRIAN que lo confirme para extinciones"
+  ]
+ },
+ {
+  "slug": "extincion-de-condominio-aragon",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Aragón",
+  "h1": "Extinción de condominio en Aragón: AJD, ITP y sucesiones en 2026",
+  "sub": "La extinción de condominio en Aragón paga un 1,5 % de AJD, solo sobre la parte que adquiere quien se queda el inmueble. Si vendes tu cuota a una empresa, el ITP del 8 % al 10 % lo asume el comprador. Nosotros compramos tu parte al contado y te damos precio por escrito en 48 horas.",
+  "checks": [
+   "Cifras de 2026 verificadas",
+   "Ejemplo en Zaragoza",
+   "Compramos tu parte"
+  ],
+  "card_title": "¿Tienes un proindiviso en Aragón?",
+  "card_text": "Cuéntanos dónde está el inmueble y qué porcentaje tienes. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "En resumen",
+    "h2": "Lo esencial de la extinción de condominio en Aragón",
+    "type": "list",
+    "intro": [
+     "Estas son las cifras que más pesan en una extinción de condominio en Aragón en 2026. La comunidad no aprobó cambios en los tributos cedidos para este año, así que siguen vigentes los tipos anteriores."
+    ],
+    "items": [
+     "<strong>AJD del 1,5 %.</strong> Grava la escritura de extinción y solo se calcula sobre la parte que adquieres.",
+     "<strong>ITP del 8 % al 10 %.</strong> Solo aparece si vendes tu cuota a otra persona o a una empresa, y lo paga el comprador.",
+     "<strong>Sucesiones muy bajas en la familia directa.</strong> Cónyuge, hijos y padres reducen el 100 % de la base hasta un máximo de 500.000 € sumando todas sus reducciones.",
+     "<strong>Plazo corto.</strong> El AJD se presenta en un mes desde la firma, con el modelo 600."
+    ]
+   },
+   {
+    "overline": "AJD",
+    "h2": "AJD en Aragón: 1,5 % sobre la parte que adquieres",
+    "type": "text",
+    "intro": [
+     "En Aragón, la escritura de extinción de condominio tributa al 1,5 % por Actos Jurídicos Documentados. Lo fija el artículo 122-1 del texto refundido de tributos cedidos, aprobado por el Decreto Legislativo 1/2005. Paga quien se queda el inmueble, porque es quien adquiere.",
+     "La base es solo el valor de la parte que se adquiere, según la doctrina del Tribunal Supremo desde 2018. Es decir, si te quedas el 50 % de tu hermana, el impuesto recae sobre ese 50 %. Como mínimo se toma el valor de referencia del Catastro, si el inmueble lo tiene.",
+     "Aragón no tiene un tipo reducido general de AJD para vivienda habitual. En su lugar, aplica bonificaciones de la cuota. Hay un 30 % para menores de 35 años, personas con discapacidad del 65 % o más y víctimas de violencia de género, si el inmueble no supera 100.000 €. Además, existe un 60 % para familias numerosas que cambian a una vivienda mayor, con límites de renta.",
+     "Estas bonificaciones se pensaron para la compra de vivienda habitual. Por eso, en una extinción de condominio en Aragón conviene que la notaría confirme si encajan antes de firmar."
+    ]
+   },
+   {
+    "overline": "Tabla",
+    "h2": "Impuestos del proindiviso en Aragón en 2026",
+    "type": "table",
+    "intro": [
+     "La tabla reúne los tipos vigentes para la extinción de condominio en Aragón y para el resto de salidas. Las cifras proceden del texto refundido aragonés que recopila el Ministerio de Hacienda."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Aragón en 2026"
+     ],
+     [
+      "AJD de la extinción.",
+      "1,5 % sobre la parte adquirida. Bonificación del 30 % o del 60 % en ciertos casos de vivienda habitual."
+     ],
+     [
+      "ITP si vendes tu cuota.",
+      "Escala por tramos del valor total del inmueble: 8 % hasta 400.000 €, 8,5 % hasta 450.000 €, 9 % hasta 500.000 €, 9,5 % hasta 750.000 € y 10 % por encima."
+     ],
+     [
+      "Bonificaciones del ITP.",
+      "12,5 % para menores de 35 años y otros colectivos si la vivienda no supera 100.000 €. 50 % para familias numerosas con requisitos."
+     ],
+     [
+      "Sucesiones de cónyuge, hijos y padres.",
+      "Reducción del 100 % de la base con un tope de 500.000 € sumando reducciones. Los hijos menores de edad llegan a 3.000.000 €."
+     ],
+     [
+      "Sucesiones de hermanos.",
+      "Reducción de 15.000 €, sin bonificación. Se aplican la tarifa y los coeficientes estatales."
+     ],
+     [
+      "Vivienda habitual heredada.",
+      "Reducción del 100 % hasta 200.000 € si la conservas 5 años."
+     ],
+     [
+      "Plazos.",
+      "Un mes para el AJD o el ITP. Seis meses para sucesiones."
+     ]
+    ],
+    "outro": [
+     "El ITP aragonés tiene un detalle importante: el tramo se mira con el valor del inmueble completo. Después, el tipo resultante se aplica a tu parte en la misma proporción. Así, vender la mitad de un piso de 600.000 € no tributa como si valiera 300.000 €."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de extinción de condominio en Aragón: piso de 180.000 € en Zaragoza",
+    "type": "text",
+    "intro": [
+     "Imagina a dos hermanas con un piso en Zaragoza de 180.000 € de valor de referencia, al 50 %. Una quiere quedárselo y la otra quiere cobrar su parte. Las cifras son orientativas.",
+     "La que se queda el piso adquiere la mitad de su hermana, así que la base es de 90.000 €. Al 1,5 %, la extinción de condominio en Aragón le cuesta 1.350 € de AJD. Además, compensa a su hermana con 90.000 € y paga notaría y Registro.",
+     "Si no hay acuerdo o no hay dinero, la hermana que quiere salir puede vendernos su mitad. Pagamos entre el 40 % y el 70 % del valor proporcional, es decir, de 36.000 a 63.000 €. El ITP sería del 8 %, porque el piso entero no supera 400.000 €. Son unos 7.200 € que pagamos nosotros.",
+     "Prueba tus propias cifras en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Sucesiones en Aragón si heredaste la cuota",
+    "type": "cards",
+    "intro": [
+     "Cuando el proindiviso viene de una herencia, cada heredero liquida antes el impuesto de sucesiones. Aragón no tiene tarifa propia y usa la estatal, pero con reducciones muy amplias para la familia directa. Ese impuesto va aparte de la extinción de condominio en Aragón que hagáis después.",
+     "Aragón tiene además figuras forales propias, como la fiducia sucesoria o los pactos sucesorios. Desde julio de 2025, las escrituras de pacto sucesorio tienen una bonificación del 75 % en el AJD."
+    ],
+    "items": [
+     {
+      "t": "Hijos menores de edad",
+      "p": "Reducción del 100 % de lo que heredan, con un máximo de 3.000.000 €. Además, los menores de 21 años tienen una bonificación del 99 % de la cuota."
+     },
+     {
+      "t": "Cónyuge, hijos mayores y padres",
+      "p": "Reducen el 100 % de la base, siempre que la suma de sus reducciones no pase de 500.000 €. Lo que exceda de esa cifra tributa con la tarifa estatal."
+     },
+     {
+      "t": "Hermanos",
+      "p": "Tienen una reducción de 15.000 €, casi el doble que la estatal, pero no bonificación. Con una cuota de valor, el impuesto puede ser relevante."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Se reduce el 100 % de su valor, con un límite de 200.000 €, si la conservas 5 años. Si vale hasta 300.000 €, cónyuge, padres e hijos suman una bonificación del 65 % en esa parte de la cuota."
+     },
+     {
+      "t": "Plazo y modelo",
+      "p": "Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650.",
+      "url": "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/",
+      "cta": "Si no puedes pagarlo →"
+     }
+    ]
+   },
+   {
+    "overline": "Plusvalía e IRPF",
+    "h2": "Plusvalía e IRPF después de la extinción de condominio en Aragón",
+    "type": "text",
+    "intro": [
+     "Plusvalía municipal e IRPF son impuestos estatales, iguales en Huesca, Teruel y Zaragoza. Con carácter general, la extinción de condominio en Aragón no paga plusvalía ni genera ganancia en el IRPF. El motivo es que no se trata como una venta, sino como la concreción de lo que ya era tuyo.",
+     "Si vendes tu cuota a un tercero, el escenario cambia. Pagas la plusvalía a tu ayuntamiento y declaras la ganancia en la renta, si la hay. Haz números con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a> o lee nuestra guía del <a href=\"/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/\">IRPF al vender tu parte heredada</a>."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "Condominio en Aragón: ¿pagar la extinción o vender tu parte?",
+    "type": "callout",
+    "intro": [
+     "La extinción de condominio en Aragón sale barata si hay acuerdo y dinero para compensar. Cuando falta alguno de los dos, vender tu cuota te saca en semanas. Compramos proindivisos en las tres provincias, como ves en nuestra página de <a href=\"/vender-proindiviso/aragon/\">Aragón</a>."
+    ],
+    "items": {
+     "t": "Precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Quiero vender mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.aragon.es/administracion-tributaria-de-aragon\">Administración Tributaria de Aragón</a>. Modelos 600 y 650, plazos y presentación telemática.",
+     "<a href=\"https://www.aragon.es/administracion-tributaria-de-aragon/impuestos/normativa\">Normativa tributaria de Aragón</a>. Texto refundido de tributos cedidos (Decreto Legislativo 1/2005) y sus modificaciones.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué impuesto se paga al disolver un condominio en Aragón?",
+    "Se paga AJD al 1,5 % sobre el valor de la parte que adquiere quien se queda el inmueble. Con carácter general no hay ITP, porque la extinción no se considera una venta. El adjudicatario lo presenta con el modelo 600."
+   ],
+   [
+    "¿Cuánto cuesta una extinción de condominio en Zaragoza?",
+    "El impuesto es el 1,5 % de la parte adquirida: con un piso de 180.000 € al 50 %, unos 1.350 €. A eso se suman notaría y Registro, que dependen del valor. Si necesitas hipoteca para compensar, añade también sus gastos."
+   ],
+   [
+    "¿Cuánto pagan de sucesiones los hijos en Aragón?",
+    "Si sus reducciones no pasan de 500.000 €, normalmente nada, porque reducen el 100 % de la base. Lo que exceda de esa cifra tributa con la tarifa estatal. Los hijos menores de edad tienen un tope mucho mayor, de 3.000.000 €."
+   ],
+   [
+    "¿Y si heredo de un hermano en Aragón?",
+    "Los hermanos tienen una reducción de 15.000 € y no cuentan con bonificación en la cuota. Por eso, con una herencia de cierto valor, el impuesto puede ser notable. Haz el cálculo antes de aceptar y valora todas tus opciones."
+   ],
+   [
+    "¿Qué ITP paga la empresa que compra mi cuota en Aragón?",
+    "Paga según la escala aragonesa, del 8 % hasta 400.000 € de valor total del inmueble al 10 % por encima de 750.000 €. El impuesto corre siempre a cargo del comprador. Si nos vendes tu parte, lo pagamos nosotros."
+   ],
+   [
+    "¿En qué plazo se presenta el AJD de una extinción de condominio en Aragón?",
+    "En un mes desde el día siguiente a la firma de la escritura. Se presenta con el modelo 600 ante la Administración Tributaria de Aragón, de forma presencial o telemática. Normalmente, la notaría o una gestoría se encarga del trámite."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Aragón",
+  "related": [
+   [
+    "Vender un proindiviso en Aragón",
+    "/vender-proindiviso/aragon/"
+   ],
+   [
+    "Extinción de condominio: guía completa",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notaría en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Ejemplo de extinción con cifras",
+    "/blog/ejemplo-de-extincion-de-condominio-con-cifras/"
+   ]
+  ],
+  "cta_title": "Vende tu parte en Aragón sin depender de nadie",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Aragón: impuestos y gastos",
+  "meta_desc": "Extinción de condominio en Aragón: AJD del 1,5 %, ITP del 8 % al 10 % y sucesiones en 2026. Ejemplo en Zaragoza y opción de vender tu cuota en 48 h.",
+  "focus_kw": "extinción de condominio en Aragón",
+  "title_corto": "Aragón",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a narrow street in an old Aragonese town with exposed brick facades, wooden balconies with iron railings, terracotta roof tiles and a closed dark blue door, crisp winter light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Aragón: calle de ladrillo con balcones de madera",
+  "datos": {
+   "ajd_general": "1,5 %",
+   "ajd_reducidos": "Sin tipo reducido general de vivienda; bonificaciones de la cuota: 30 % menores de 35, discapacidad ≥65 % y víctimas de violencia de género (valor ≤100.000 €); 60 % familias numerosas con requisitos (70 % en asentamientos rurales con riesgo de despoblación)",
+   "itp_general": "Escala por tramos del valor del bien: 8 % hasta 400.000 €, 8,5 % hasta 450.000 €, 9 % hasta 500.000 €, 9,5 % hasta 750.000 €, 10 % por encima; se aplica a la base en la misma proporción que sobre el valor del bien",
+   "itp_reducidos": "Bonificación 12,5 % (menores de 35, discapacidad ≥65 %, víctimas; valor ≤100.000 €); 50 % familias numerosas; 3 % sin renuncia a la exención de IVA; 1 % inmuebles para iniciar actividad (valor catastral <150.000 €)",
+   "isd_hijos_conyuge": "Reducción del 100 % de la base para cónyuge, ascendientes y descendientes con límite conjunto de 500.000 € (575.000 € con discapacidad 33-65 %); hijos menores 100 % hasta 3.000.000 €; bonificación 99 % solo grupo I",
+   "isd_hermanos": "Reducción de 15.000 € para hermanos; tarifa y coeficientes estatales; sin bonificación",
+   "isd_vivienda_habitual": "Reducción del 100 % con límite de 200.000 € y 5 años; bonificación adicional del 65 % de la cuota de la vivienda para cónyuge, ascendientes y descendientes si vale ≤300.000 €",
+   "organismo": "Administración Tributaria de Aragón (Dirección General de Tributos del Gobierno de Aragón)",
+   "url_organismo": "https://www.aragon.es/administracion-tributaria-de-aragon"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 1,5 % (art. 122-1 DLeg 1/2005) y bonificaciones del 30 %, 60 % y 70 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP: escala 8-10 % por tramos y aplicación proporcional a la base (art. 121-1); bonificaciones 12,5 % y 50 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: reducción 100 % con límite 500.000 €, hijos menores 3.000.000 €, hermanos 15.000 €, bonificación 99 % grupo I, vivienda habitual 100 % hasta 200.000 € y 5 años, bonificación 65 % vivienda ≤300.000 €; tarifa estatal",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Plazos: 1 mes ITP y AJD (art. 123-1.3), 6 meses sucesiones (art. 133-1.3)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Bonificación del 75 % de AJD en escrituras de pacto sucesorio (art. 122-11, Ley 3/2025, vigor 8/7/2025)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Aragón no aprobó medidas nuevas en tributos cedidos para 2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Web de la Administración Tributaria de Aragón y su página de normativa (URL localizada en buscador; el dominio aragon.es no respondía desde el entorno de trabajo)",
+    "https://www.aragon.es/administracion-tributaria-de-aragon"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Aplicación de las bonificaciones de AJD del 30 % y del 60 % (adquisición de vivienda habitual) a una extinción de condominio: no confirmado"
+  ]
+ },
+ {
+  "slug": "extincion-de-condominio-asturias",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Asturias",
+  "h1": "Extinción de condominio en Asturias: cuánto se paga de impuestos en 2026",
+  "sub": "La extinción de condominio en Asturias tributa al 1,2 % de AJD sobre el valor de la parte que adquiere quien se queda el inmueble. Si vendes tu cuota, el comprador paga un ITP del 8 % al 10 %. Nosotros te compramos la parte con fondos propios y oferta por escrito en 48 horas.",
+  "checks": [
+   "Tipos de 2026 verificados",
+   "Ejemplo en Gijón",
+   "Compramos tu cuota"
+  ],
+  "card_title": "¿Tienes un proindiviso en Asturias?",
+  "card_text": "Dinos dónde está el inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "AJD",
+    "h2": "Cuánto cuesta la extinción de condominio en Asturias",
+    "type": "text",
+    "intro": [
+     "La extinción de condominio en Asturias paga Actos Jurídicos Documentados al 1,2 %. Es el tipo general para escrituras notariales del texto refundido asturiano, que lo recoge en el artículo 34 del Decreto Legislativo 2/2014. Lo abona quien se queda el inmueble, porque es quien adquiere la parte de los demás.",
+     "La base es solo lo que adquieres. Así lo entiende la doctrina del Tribunal Supremo desde 2018: si te quedas el 50 % de tu hermano, tributas por ese 50 % y no por el piso entero. Como mínimo, Hacienda toma el valor de referencia del Catastro.",
+     "A diferencia de otras comunidades, Asturias no tiene un AJD reducido general para vivienda habitual. Solo baja al 0,3 % en casos muy concretos, como viviendas protegidas compradas con ayudas públicas. Por tanto, en una extinción de condominio en Asturias lo normal es pagar el 1,2 %.",
+     "Si quien se queda el piso no compensa al otro, la diferencia puede tributar como donación. En Asturias, las donaciones entre padres, hijos y cónyuges hechas en escritura tienen una escala propia. Empieza en el 2 % hasta 150.000 €, si el patrimonio de quien recibe no supera 402.678,11 €. Entre hermanos no hay esa ventaja, como explicamos en la guía de <a href=\"/blog/extincion-de-condominio-sin-compensacion-economica/\">extinción sin compensación</a>.",
+     "El impuesto se presenta con el modelo 600 ante el Ente Público de Servicios Tributarios del Principado de Asturias. Normalmente lo tramita la notaría o una gestoría."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de extinción de condominio en Asturias: piso de 160.000 € en Gijón",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos heredan al 50 % un piso en Gijón con un valor de referencia de 160.000 €. Uno quiere quedárselo y el otro necesita liquidez. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Calcula la base",
+      "p": "Quien se queda el piso adquiere la mitad de su hermano. Por tanto, la base del AJD es de 80.000 €."
+     },
+     {
+      "t": "Paga el AJD",
+      "p": "Al 1,2 %, la extinción de condominio en Asturias cuesta 960 € de impuesto. Después hay que sumar notaría y Registro."
+     },
+     {
+      "t": "Compensa al otro",
+      "p": "El adjudicatario entrega 80.000 € a su hermano. Si no los tiene, necesita una hipoteca y el banco valorará su solvencia."
+     },
+     {
+      "t": "O vende tu mitad",
+      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su 50 % por entre 32.000 y 56.000 €, del 40 % al 70 % del valor proporcional. El ITP, al 8 %, son unos 6.400 € que pagamos nosotros."
+     }
+    ],
+    "outro": [
+     "Repite el cálculo con tus datos en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+    ]
+   },
+   {
+    "overline": "Tabla",
+    "h2": "Impuestos del proindiviso en Asturias en 2026",
+    "type": "table",
+    "intro": [
+     "Esta tabla resume los tipos vigentes en el Principado. Fíjate en el ITP, porque Asturias lo calcula de una forma particular."
+    ],
+    "items": [
+     [
+      "Impuesto",
+      "Cuándo aparece",
+      "Tipo o beneficio en 2026"
+     ],
+     [
+      "AJD.",
+      "Extinción de condominio.",
+      "1,2 % sobre la parte adquirida."
+     ],
+     [
+      "ITP.",
+      "Venta de tu cuota a un tercero.",
+      "8 %, 9 % o 10 % según el valor total del inmueble. Lo paga el comprador."
+     ],
+     [
+      "ITP reducido.",
+      "Vivienda habitual de ciertos colectivos o en zonas rurales.",
+      "4 % hasta 150.000 € y 6 % por encima."
+     ],
+     [
+      "Sucesiones.",
+      "Herencia de la cuota.",
+      "Reducción de 300.000 € para hijos, cónyuge y padres."
+     ],
+     [
+      "Vivienda heredada.",
+      "Casa habitual del fallecido.",
+      "Reducción del 95 % al 99 % según su valor, con tope de 122.606,47 € por heredero."
+     ],
+     [
+      "Plusvalía e IRPF.",
+      "Venta a un tercero.",
+      "Normas estatales. Paga quien vende."
+     ]
+    ]
+   },
+   {
+    "overline": "ITP",
+    "h2": "ITP en Asturias: el tipo depende del valor total del piso",
+    "type": "text",
+    "intro": [
+     "Si vendes tu cuota a un tercero o a una empresa, el comprador paga ITP. Asturias aplica un 8 % si el inmueble vale hasta 300.000 €, un 9 % entre 300.000 y 500.000 € y un 10 % por encima.",
+     "El matiz importante es que el tipo se fija con el valor íntegro del bien, aunque solo se transmita una parte. Así lo dice el artículo 26 del texto refundido. Por ejemplo, vender el 50 % de un piso de 400.000 € tributa al 9 %, aunque tu mitad valga 200.000 €.",
+     "También hay tipos reducidos del 4 % y del 6 % para la vivienda habitual de ciertos colectivos. Se benefician los jóvenes hasta 35 años y las familias numerosas o monoparentales. Además, las víctimas de violencia de género y las viviendas en zonas rurales en riesgo de despoblación.",
+     "En el extremo opuesto, desde diciembre de 2025 existe un tipo del 20 % cuando compra una vivienda un gran tenedor. En cualquier caso, el ITP lo paga siempre el comprador, nunca quien vende."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Sucesiones en Asturias: la gran diferencia con otras comunidades",
+    "type": "list",
+    "intro": [
+     "Si la cuota es heredada, primero toca el impuesto de sucesiones. Asturias no bonifica la cuota como Andalucía o Cantabria, pero tiene una reducción alta para la familia directa."
+    ],
+    "items": [
+     "<strong>Hijos, cónyuge y padres.</strong> Reducen 300.000 € de la base por heredero. Por debajo de esa cifra no pagan; por encima, la escala específica empieza en el 21,25 %.",
+     "<strong>Hijos menores de 21 años.</strong> Si su patrimonio previo no supera 402.678,11 €, el coeficiente multiplicador es cero, así que no pagan cuota.",
+     "<strong>Hermanos, sobrinos y tíos.</strong> No tienen mejora autonómica: solo la reducción estatal de 7.993,46 € y la tarifa general, del 7,65 % al 36,5 %.",
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % si vale hasta 90.000 €, que baja por tramos hasta el 95 % por encima de 240.000 €. Rige el tope estatal de 122.606,47 € por heredero y debes conservarla 3 años.",
+     "<strong>Discapacidad del 65 % o más.</strong> Bonificación del 100 % de la cuota, siempre que el patrimonio previo no supere 402.678,11 €.",
+     "<strong>Plazo y modelo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
+    ],
+    "outro": [
+     "Si el impuesto te bloquea la herencia, revisa <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a>."
+    ]
+   },
+   {
+    "overline": "Plusvalía e IRPF",
+    "h2": "Después de la extinción de condominio en Asturias: plusvalía, IRPF y herramientas",
+    "type": "cards",
+    "intro": [
+     "Plusvalía municipal e IRPF son estatales y funcionan igual en Oviedo, Gijón o Avilés. Con carácter general, la extinción de condominio en Asturias no genera ninguno de los dos, porque no se considera una venta."
+    ],
+    "items": [
+     {
+      "t": "Plusvalía municipal",
+      "p": "Solo la pagas si vendes tu cuota a un tercero. La liquida tu ayuntamiento y depende, entre otras cosas, de los años que hayas tenido el inmueble.",
+      "url": "/blog/plusvalia-municipal-al-vender-mi-parte-heredada/",
+      "cta": "Plusvalía al vender →"
+     },
+     {
+      "t": "IRPF",
+      "p": "En la extinción no suele haber ganancia patrimonial. Si vendes a un tercero, declaras la diferencia entre el valor de adquisición y el precio de venta.",
+      "url": "/blog/extincion-de-condominio-irpf-ganancia-patrimonial/",
+      "cta": "IRPF y extinción →"
+     },
+     {
+      "t": "Calcula tus impuestos",
+      "p": "Estima lo que pagarías al vender tu parte con nuestra calculadora, antes de decidir nada.",
+      "url": "/calculadora-impuestos-vender-tu-parte/",
+      "cta": "Abrir la calculadora →"
+     }
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "Condominio en Asturias: si no hay acuerdo o dinero, vende tu parte",
+    "type": "callout",
+    "intro": [
+     "La extinción de condominio en Asturias funciona bien cuando todos están de acuerdo y hay dinero para compensar. Si no, vender tu cuota es la salida más rápida. Compramos proindivisos en todo el Principado, como ves en nuestra página de <a href=\"/vender-proindiviso/asturias/\">Asturias</a>."
+    ],
+    "items": {
+     "t": "Te damos precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://sede.tributasenasturias.es/\">Ente Público de Servicios Tributarios del Principado de Asturias</a>. Sede electrónica con los modelos 600 y 650.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones (BOE)</a>. Reducciones estatales que Asturias mantiene para hermanos y tope de vivienda habitual.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto es el AJD de una extinción de condominio en Asturias?",
+    "Es el 1,2 % del valor de la parte que adquiere quien se queda el inmueble. Con un piso de 160.000 € al 50 %, la base es de 80.000 € y el impuesto, unos 960 €. A eso se suman notaría y Registro."
+   ],
+   [
+    "¿Hay tipo reducido de AJD por vivienda habitual en Asturias?",
+    "No con carácter general. El 0,3 % solo se aplica en supuestos concretos, como viviendas protegidas compradas con ayudas públicas. Por eso, en la mayoría de extinciones se paga el 1,2 %."
+   ],
+   [
+    "¿Cuánto pagan los hijos de sucesiones en Asturias?",
+    "Nada si lo que heredan no supera 300.000 € por heredero, gracias a la reducción por parentesco. Por encima, la escala para hijos y cónyuge arranca en el 21,25 %. Si heredan la vivienda habitual, suman otra reducción del 95 % al 99 %."
+   ],
+   [
+    "¿Los hermanos pagan mucho de sucesiones en Asturias?",
+    "Bastante más que los hijos. Solo tienen la reducción estatal de 7.993,46 € y la tarifa general, que llega al 36,5 %, con coeficientes multiplicadores. Antes de aceptar, calcula la cuota y valora vender tu parte para pagarla."
+   ],
+   [
+    "Si vendo mi cuota, ¿qué tipo de ITP se aplica en Asturias?",
+    "El que corresponde al valor íntegro del inmueble, aunque vendas solo una parte: 8 % hasta 300.000 €, 9 % hasta 500.000 € y 10 % por encima. Lo paga el comprador. Si nos vendes a nosotros, ese impuesto corre de nuestra cuenta."
+   ],
+   [
+    "¿Dónde se presentan estos impuestos en Asturias?",
+    "Ante el Ente Público de Servicios Tributarios del Principado de Asturias. El AJD y el ITP van en el modelo 600 y sucesiones en el 650, con seis meses de plazo desde el fallecimiento. Puedes hacerlo en su sede electrónica o con una gestoría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Asturias",
+  "related": [
+   [
+    "Vender un proindiviso en Asturias",
+    "/vender-proindiviso/asturias/"
+   ],
+   [
+    "Extinción de condominio: guía completa",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notaría en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "ITP al comprar la parte de un piso",
+    "/blog/itp-al-comprar-la-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Vende tu parte en Asturias en semanas",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Asturias: impuestos 2026",
+  "meta_desc": "Extinción de condominio en Asturias: AJD del 1,2 %, ITP del 8 % al 10 % y sucesiones en 2026, con ejemplo en Gijón. También compramos tu cuota.",
+  "focus_kw": "extinción de condominio en Asturias",
+  "title_corto": "Asturias",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a row of traditional Asturian village houses with stone walls, glazed wooden galleries, slate and terracotta roofs and a green hillside behind, soft overcast light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Asturias: casas de piedra con galerías de madera",
+  "datos": {
+   "ajd_general": "1,2 %",
+   "ajd_reducidos": "Sin tipo reducido general de vivienda habitual; 0,3 % en vivienda protegida adquirida con ayudas públicas y otros supuestos concretos; incrementado 1,5 % en préstamos hipotecarios y renuncia a la exención de IVA",
+   "itp_general": "8 % hasta 300.000 €, 9 % hasta 500.000 € y 10 % por encima, según el valor íntegro del bien aunque se transmita solo una parte",
+   "itp_reducidos": "4 % (≤150.000 €) y 6 % (>150.000 €) en vivienda habitual de jóvenes hasta 35 años, familias numerosas o monoparentales, víctimas de violencia de género y zonas rurales en riesgo de despoblamiento; 3 % VPO; incrementado 20 % si compra vivienda un gran tenedor (desde 3/12/2025)",
+   "isd_hijos_conyuge": "Reducción de 300.000 € (grupos I y II); escala específica desde el 21,25 % para el exceso; coeficiente 0 para el grupo I con patrimonio ≤402.678,11 €; sin bonificación de cuota",
+   "isd_hermanos": "Sin mejora autonómica: reducción estatal de 7.993,46 € y tarifa general del 7,65 % al 36,5 %",
+   "isd_vivienda_habitual": "99 % hasta 90.000 €, 98 % hasta 120.000 €, 97 % hasta 180.000 €, 96 % hasta 240.000 € y 95 % por encima; mantenimiento 3 años; límite estatal de 122.606,47 € por heredero",
+   "organismo": "Ente Público de Servicios Tributarios del Principado de Asturias",
+   "url_organismo": "https://sede.tributasenasturias.es/"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 1,2 % (art. 34 DLeg 2/2014), reducido 0,3 % y incrementado 1,5 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP 8/9/10 % según valor íntegro del bien aunque se transmita una parte (art. 26); reducidos 4 %/6 % (art. 32 bis); 20 % grandes tenedores (art. 31 bis, vigor 3/12/2025)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD donaciones grupos I y II en documento público: escala específica desde el 2 % hasta 150.000 € con patrimonio ≤402.678,11 € (art. 21.3); bonificación 100 % discapacidad ≥65 % (art. 23)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: reducción 300.000 € grupos I y II, escala específica desde 21,25 %, coeficiente 0 grupo I, tarifa general 7,65-36,5 %, vivienda habitual 95-99 % y 3 años",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Art. 17 bis: los restantes límites de la reducción por vivienda habitual son los estatales (122.606,47 €)",
+    "https://www.hacienda.gob.es/DocLeyes/onlinelt/C13.11.tributos_cedidos_asturias.htm"
+   ],
+   [
+    "Novedades 2026 (Ley 5/2025): supresión del 3 % para empresas inmobiliarias y redefinición de concejos en riesgo de despoblamiento",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Sede del Ente Público de Servicios Tributarios (URL localizada en buscador; el dominio no respondía desde el entorno de trabajo)",
+    "https://sede.tributasenasturias.es/"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Aplicación del tipo de ITP del 20 % para grandes tenedores a la compra de una cuota indivisa de vivienda: la norma habla de transmisiones de vivienda; no confirmado para cuotas"
+  ]
+ },
+ {
+  "slug": "extincion-de-condominio-baleares",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Baleares",
+  "h1": "Extinción de condominio en Baleares: AJD, ITP progresivo y sucesiones 2026",
+  "sub": "La extinción de condominio en Baleares tributa por AJD al 1,5 % sobre la parte que adquiere quien se queda la vivienda. Si vendes tu cuota, el comprador paga un ITP progresivo del 8 % al 13 %. Nosotros compramos tu parte con fondos propios en todas las islas.",
+  "checks": [
+   "Escalas de 2026 verificadas",
+   "Ejemplo en Palma",
+   "Compramos en todas las islas"
+  ],
+  "card_title": "¿Tienes un proindiviso en Baleares?",
+  "card_text": "Dinos isla, dirección y porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Resumen",
+    "h2": "Tres salidas del condominio en Baleares y su impuesto",
+    "type": "cards",
+    "intro": [
+     "Cada forma de salir de un proindiviso activa un impuesto distinto. Estas son las tres situaciones más habituales en Mallorca, Menorca, Ibiza y Formentera."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Uno se queda el inmueble y compensa a los demás. Paga un 1,5 % de AJD sobre la parte que adquiere.",
+      "url": "/extincion-de-condominio/",
+      "cta": "Cómo funciona →"
+     },
+     {
+      "t": "Venta de tu cuota",
+      "p": "Vendes tu porcentaje a un tercero o a una empresa. El comprador paga ITP según una escala del 8 % al 13 %."
+     },
+     {
+      "t": "Herencia",
+      "p": "Hijos, cónyuge y padres tienen una bonificación del 100 % en sucesiones. Hermanos y sobrinos llegan al 60 % en muchos casos."
+     }
+    ]
+   },
+   {
+    "overline": "AJD",
+    "h2": "AJD de la extinción de condominio en Baleares: base y tipo",
+    "type": "text",
+    "intro": [
+     "La extinción de condominio en Baleares tributa al 1,5 % de Actos Jurídicos Documentados. Es el tipo general del artículo 15 del texto refundido balear. Lo paga quien se queda el inmueble, porque adquiere la parte de los demás. Además, la base es solo esa parte, según la doctrina del Tribunal Supremo desde 2018.",
+     "Con varios copropietarios, cada uno tributa por lo que recibe. Por ejemplo, con cuatro hermanos al 25 %, quien se queda la casa paga por el 75 % que adquiere de los otros tres.",
+     "Baleares tiene también un tipo del 2 % para escrituras de transmisión de inmuebles de 1.000.000 € o más. Si vuestro inmueble supera esa cifra, pregunta a la notaría qué tipo aplica la Agencia Tributaria de las Illes Balears a la extinción.",
+     "Para la primera vivienda habitual hay tipos reducidos. El 1 % se aplica hasta 270.151,20 € de valor. Desde junio de 2026 baja al 0,5 % para menores de 36 años, familias numerosas o monoparentales y quien tiene a su cargo un familiar con discapacidad. Los menores de 30 años con hipoteca y otros requisitos pueden llegar a una bonificación del 100 %.",
+     "Ojo: estos tipos exigen adquirir al menos el 50 % de la vivienda y no tener otra. Se pensaron para compraventas, así que en una extinción de condominio en Baleares conviene confirmarlos antes de firmar."
+    ]
+   },
+   {
+    "overline": "ITP",
+    "h2": "Escala del ITP en Baleares en 2026",
+    "type": "table",
+    "intro": [
+     "Si vendes tu cuota a un tercero o a una empresa, el comprador paga ITP. Baleares usa una escala progresiva por tramos del valor total del inmueble."
+    ],
+    "items": [
+     [
+      "Tramo de valor total del inmueble",
+      "Tipo aplicable"
+     ],
+     [
+      "Hasta 400.000 €.",
+      "8 %."
+     ],
+     [
+      "De 400.000 a 600.000 €.",
+      "9 %."
+     ],
+     [
+      "De 600.000 a 1.000.000 €.",
+      "10 %."
+     ],
+     [
+      "De 1.000.000 a 2.000.000 €.",
+      "12 %."
+     ],
+     [
+      "Más de 2.000.000 €.",
+      "13 %."
+     ],
+     [
+      "Plazas de garaje no anejas a la vivienda.",
+      "8 % hasta 30.000 € y 9 % por encima."
+     ],
+     [
+      "Vivienda habitual con requisitos.",
+      "4 % o 2 % sobre los primeros 270.151,20 € y 8 % en el resto."
+     ]
+    ],
+    "outro": [
+     "La escala se mira con el valor total del inmueble y el tipo resultante se aplica a tu parte. Por eso vender la mitad de una casa de 900.000 € no tributa como si valiera 450.000 €. Desde junio de 2026, el valor máximo para los tipos reducidos sube a 331.859,70 € en Mallorca y Menorca y a 378.211,68 € en Ibiza y Formentera. En cualquier caso, el ITP lo paga el comprador, nunca quien vende."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de extinción de condominio en Baleares: piso de 300.000 € en Palma",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos tienen al 50 % un piso en Palma con un valor de referencia de 300.000 €. Uno se lo queda y el otro quiere su dinero. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base: 150.000 €",
+      "p": "El adjudicatario adquiere la mitad de su hermano, así que tributa solo por 150.000 €."
+     },
+     {
+      "t": "AJD: 2.250 €",
+      "p": "Al 1,5 %, la extinción de condominio en Baleares cuesta 2.250 € de impuesto. Después se suman notaría y Registro."
+     },
+     {
+      "t": "Compensación: 150.000 €",
+      "p": "Es lo que recibe el hermano que sale. Con los precios de las islas, muchas veces exige una hipoteca que no todos consiguen."
+     },
+     {
+      "t": "Alternativa: vender el 50 %",
+      "p": "El hermano que sale puede vendernos su mitad por entre 60.000 y 105.000 €, del 40 % al 70 % del valor proporcional. El ITP, al 8 % porque el piso no supera 400.000 €, son unos 12.000 € a nuestro cargo."
+     }
+    ],
+    "outro": [
+     "Calcula tu caso en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Herencias en Baleares: bonificación del 100 % y excesos de adjudicación",
+    "type": "list",
+    "intro": [
+     "Si la cuota viene de una herencia, cada heredero liquida antes sucesiones ante la Agencia Tributaria de las Illes Balears. Junto con Cantabria, Baleares es la única comunidad con una bonificación del 100 % para la familia directa."
+    ],
+    "items": [
+     "<strong>Hijos, cónyuge y padres.</strong> Bonificación del 100 % de la cuota. Si heredas inmuebles, el valor en la escritura no puede superar el valor de referencia más un 20 %.",
+     "<strong>Hermanos, sobrinos y tíos.</strong> Bonificación del 60 % si el fallecido no deja descendientes o estos fueron desheredados. En los demás casos del grupo III, del 35 %.",
+     "<strong>Primos y personas sin parentesco.</strong> Solo tienen una reducción de 1.000 € y ninguna bonificación, así que pagan la cuota casi completa.",
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 100 % de su valor, con un límite de 270.151,20 € por heredero, si la conservas 5 años. La norma prevé cuantías mayores por isla, así que confírmalo con la ATIB.",
+     "<strong>Uno se queda la casa y paga a los demás.</strong> Si en el reparto surge un exceso de adjudicación, Baleares deduce el 100 % del ITP cuando hay acuerdo entre herederos de los grupos I a III.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
+    ]
+   },
+   {
+    "overline": "Plusvalía e IRPF",
+    "h2": "Plusvalía e IRPF en la extinción de condominio en Baleares",
+    "type": "text",
+    "intro": [
+     "La plusvalía municipal y el IRPF son estatales, así que no cambian entre islas. Con carácter general, la extinción de condominio en Baleares no genera plusvalía ni ganancia patrimonial, porque no se considera una venta.",
+     "Si vendes tu cuota a un tercero, sí pagas plusvalía a tu ayuntamiento y declaras la ganancia en el IRPF, si existe. Con los precios de las islas, conviene calcularlo antes con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>. Tienes más detalle en la guía sobre <a href=\"/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/\">el IRPF al vender tu parte heredada</a>.",
+     "Si no resides en España, algo frecuente entre propietarios de las islas, la venta sigue las reglas del impuesto de no residentes. En ese caso, pide asesoramiento antes de firmar, porque cambian las retenciones y los plazos."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "¿Vender tu parte del condominio en Baleares?",
+    "type": "callout",
+    "intro": [
+     "La extinción de condominio en Baleares exige acuerdo y, sobre todo, dinero para compensar, algo difícil con los precios de las islas. Si no lo hay, vender tu cuota te saca en semanas. Mira cómo compramos en <a href=\"/vender-proindiviso/baleares/\">Baleares</a>."
+    ],
+    "items": {
+     "t": "Precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Quiero vender mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.atib.es/\">Agència Tributària de les Illes Balears (ATIB)</a>. Modelos 600 y 650, tipos y presentación telemática.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: novedades autonómicas de 2026</a>. Cambios de la Ley 4/2026 y de las órdenes 5/2026 y 13/2026 en vivienda.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta una extinción de condominio en Mallorca?",
+    "El impuesto es el 1,5 % de AJD sobre la parte que adquieres. Con un piso de 300.000 € al 50 %, son unos 2.250 €. A eso se suman notaría, Registro y, si hace falta, la hipoteca para compensar."
+   ],
+   [
+    "¿El ITP de Baleares se calcula sobre mi cuota o sobre todo el piso?",
+    "La escala se mira con el valor total del inmueble y el tipo resultante se aplica a la parte que se vende. Hasta 400.000 € es un 8 % y sube hasta el 13 % por encima de 2.000.000 €. Lo paga siempre el comprador."
+   ],
+   [
+    "¿Pagan sucesiones los hijos en Baleares?",
+    "Prácticamente no. Hijos, cónyuge y padres tienen una bonificación del 100 % de la cuota. El requisito es declarar los inmuebles por un valor que no supere el de referencia más un 20 %."
+   ],
+   [
+    "¿Cuánto pagan los hermanos o sobrinos que heredan en Baleares?",
+    "Tienen una bonificación del 60 % si el fallecido no deja descendientes, o del 35 % si concurren con ellos. Además, aplican una reducción de 8.000 € y la tarifa autonómica, que llega al 34 %."
+   ],
+   [
+    "¿Qué pasa si en la herencia uno se queda la casa y paga a los demás?",
+    "Se produce un exceso de adjudicación compensado en dinero. Baleares deduce el 100 % del ITP de esos excesos cuando hay acuerdo en la partición entre herederos de los grupos I a III. Conviene que la notaría lo refleje bien en la escritura."
+   ],
+   [
+    "¿Dónde se presentan los impuestos del proindiviso en Baleares?",
+    "Ante la Agència Tributària de les Illes Balears. El AJD y el ITP van en el modelo 600 y sucesiones en el 650, con seis meses de plazo desde el fallecimiento. Puedes presentarlos en su web o a través de la notaría o una gestoría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Baleares",
+  "related": [
+   [
+    "Vender un proindiviso en Baleares",
+    "/vender-proindiviso/baleares/"
+   ],
+   [
+    "Impuestos y notaría en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Exceso de adjudicación en la extinción",
+    "/blog/exceso-de-adjudicacion-en-la-extincion-de-condominio/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "Vende tu parte en Baleares sin esperar a nadie",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Baleares: impuestos 2026",
+  "meta_desc": "Extinción de condominio en Baleares: AJD del 1,5 %, ITP del 8 % al 13 % y sucesiones en 2026, con ejemplo en Palma. Si vendes tu cuota, te la compramos.",
+  "focus_kw": "extinción de condominio en Baleares",
+  "title_corto": "Baleares",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a quiet street in a Mallorcan village with honey-coloured stone houses, green wooden shutters, terracotta roof tiles and a closed dark blue door, warm morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Baleares: casas de piedra con persianas de madera",
+  "datos": {
+   "ajd_general": "1,5 % (2 % en transmisiones de inmuebles de 1.000.000 € o más)",
+   "ajd_reducidos": "1 % primera vivienda habitual ≤270.151,20 €; 0,5 % desde 14/6/2026 para menores de 36, mínimo por discapacidad de ascendientes o descendientes y familias numerosas o monoparentales; bonificación 100 % primera vivienda de menores de 30 o discapacidad ≥33 % con requisitos; valor máximo por isla: 331.859,70 € Mallorca y Menorca, 378.211,68 € Ibiza y Formentera",
+   "itp_general": "Escala por tramos del valor total: 8 % hasta 400.000 €, 9 % hasta 600.000 €, 10 % hasta 1.000.000 €, 12 % hasta 2.000.000 €, 13 % por encima; garajes 8 % hasta 30.000 € y 9 % por encima",
+   "itp_reducidos": "4 % vivienda habitual y 2 % menores de 36, discapacidad y familias numerosas o monoparentales, sobre los primeros 270.151,20 € (8 % el resto); bonificación 100 % menores de 30 y discapacidad ≥33 %; bonificación 50 % vivienda de precio limitado; deducción 100 % de excesos de adjudicación hereditarios con acuerdo (grupos I a III)",
+   "isd_hijos_conyuge": "Bonificación del 100 % de la cuota (grupos I y II); reducción de 25.000 € en grupo II; valor de inmuebles en escritura ≤ valor de referencia + 20 %",
+   "isd_hermanos": "Bonificación del 60 % para colaterales de 2.º y 3.er grado si no concurren con descendientes (35 % resto del grupo III); reducción de 8.000 €; tarifa del 7,65 % al 34 %",
+   "isd_vivienda_habitual": "Reducción del 100 % con límite de 270.151,20 € por heredero (cuantías por isla según Orden 13/2026); mantenimiento 5 años; cónyuge, ascendientes, descendientes o colateral mayor de 65 años conviviente 2 años",
+   "organismo": "Agència Tributària de les Illes Balears (ATIB)",
+   "url_organismo": "https://www.atib.es/"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 1,5 % (art. 15 DLeg 1/2014), 2 % en inmuebles ≥1.000.000 € (art. 17 bis), reducidos 1 % y 0,5 % (art. 17, Ley 4/2026) y bonificación 100 % jóvenes <30",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP: escala 8-13 % por valor total del inmueble y garajes 8-9 % (art. 10); reducidos 4 % y 2 %; deducción 100 % excesos de adjudicación hereditarios (art. 14 quinquies)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: bonificación 100 % grupos I y II (art. 36), 60 %/35 % grupo III (art. 36 bis, desde 25/7/2025), reducción 25.000 € (grupo II), 8.000 € (grupo III) y 1.000 € (grupo IV), vivienda habitual 100 % con 270.151,20 € y 5 años (art. 23), tarifa 7,65-34 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026: 0,5 % AJD, bonificación 100 % jóvenes <30 y valores máximos por isla (Ley 4/2026, Órdenes 5/2026 y 13/2026)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Tipo incrementado del 2 % de AJD para inmuebles ≥1.000.000 € y deducción de excesos de adjudicación (resumen de líneas de actuación)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Web oficial de la ATIB",
+    "https://www.atib.es/"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Si el tipo incrementado del 2 % de AJD para inmuebles de 1.000.000 € o más alcanza también a la extinción de condominio: no confirmado",
+   "Límite exacto de la reducción por vivienda habitual en sucesiones tras la Orden 13/2026: la ley fija 270.151,20 € por heredero y prevé cuantías por isla (331.859,70 € y 378.211,68 €); Hacienda indica que la reducción se aplica solo a los primeros 270.151,20 €",
+   "Cálculo del ITP al vender una cuota: la tarifa toma el valor total del inmueble (tipo medio aplicado a la parte); deducido de la redacción de la tarifa, sin haber podido leer el texto consolidado 2026 del art. 10"
+  ]
+ },
+ {
+  "slug": "extincion-de-condominio-canarias",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Canarias",
+  "h1": "Extinción de condominio en Canarias: impuestos propios y gastos en 2026",
+  "sub": "La extinción de condominio en Canarias paga un 0,75 % de AJD, solo sobre la parte que adquiere quien se queda el inmueble. Es, junto con Madrid, el tipo más bajo de España. Si vendes tu cuota, el ITP del 6,5 % lo paga el comprador, y nosotros compramos tu parte en cualquier isla con oferta en 48 horas.",
+  "checks": [
+   "Régimen canario explicado",
+   "Ejemplo en Gran Canaria",
+   "Compramos en todas las islas"
+  ],
+  "card_title": "¿Tienes un proindiviso en Canarias?",
+  "card_text": "Dinos isla, dirección y porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Régimen propio",
+    "h2": "Por qué Canarias tiene impuestos distintos",
+    "type": "text",
+    "intro": [
+     "Canarias tiene un régimen económico y fiscal propio. Por eso no hay IVA, sino IGIC, y los impuestos cedidos tienen tipos distintos a los de la península. En la extinción de condominio en Canarias se nota en el AJD: un 0,75 % frente al 1,2 % o el 1,5 % de la mayoría de comunidades.",
+     "El AJD es el impuesto de la escritura de extinción. Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás. Salvo el caso de La Palma, que vemos más abajo, Canarias no tiene una regla específica para la extinción de condominio: se aplican el tipo general y sus variantes.",
+     "Hay un matiz propio de las islas. Si la operación está sujeta a IGIC o a IVA, el AJD sube al 1 %, algo que ocurre, por ejemplo, cuando vende un promotor. En cambio, entre particulares que salen de un proindiviso lo habitual es el 0,75 %.",
+     "Gestiona el impuesto la Agencia Tributaria Canaria. Se presenta con el modelo 600 en el plazo de un mes desde la firma."
+    ]
+   },
+   {
+    "overline": "Tabla",
+    "h2": "Impuestos de la extinción de condominio en Canarias y del resto de salidas",
+    "type": "table",
+    "intro": [
+     "La tabla resume los tipos que aplica la Agencia Tributaria Canaria en 2026. Las cifras proceden del texto refundido canario de tributos cedidos."
+    ],
+    "items": [
+     [
+      "Operación",
+      "Impuesto",
+      "Tipo en 2026"
+     ],
+     [
+      "Extinción de condominio.",
+      "AJD.",
+      "0,75 % sobre la parte adquirida."
+     ],
+     [
+      "Compra de vivienda habitual con requisitos.",
+      "AJD reducido.",
+      "0,40 %."
+     ],
+     [
+      "Operación sujeta a IGIC o IVA.",
+      "AJD incrementado.",
+      "1 %."
+     ],
+     [
+      "Venta de tu cuota a un tercero.",
+      "ITP.",
+      "6,5 %, a cargo del comprador."
+     ],
+     [
+      "Compra de vivienda habitual hasta 200.000 €.",
+      "ITP reducido.",
+      "5 %, o 1 % para familias numerosas, monoparentales o con discapacidad."
+     ],
+     [
+      "Disolución de comunidad sobre inmuebles dañados por la erupción de La Palma.",
+      "AJD.",
+      "0 % hasta el 31 de diciembre de 2026."
+     ],
+     [
+      "Herencia de la cuota.",
+      "Sucesiones.",
+      "Bonificación del 99,9 % para hijos, cónyuge, padres, hermanos, sobrinos y tíos."
+     ]
+    ]
+   },
+   {
+    "overline": "AJD",
+    "h2": "AJD de la extinción de condominio en Canarias: tipos y requisitos",
+    "type": "cards",
+    "intro": [
+     "El AJD canario tiene un tipo general y dos variantes. Conviene conocerlas antes de ir a la notaría."
+    ],
+    "items": [
+     {
+      "t": "Tipo general: 0,75 %",
+      "p": "Es el que se aplica a la escritura de extinción entre particulares. Se calcula sobre el valor de la parte que adquieres."
+     },
+     {
+      "t": "Tipo reducido: 0,40 %",
+      "p": "Para la vivienda habitual de familias numerosas, personas con discapacidad, familias monoparentales, jóvenes o vivienda protegida, con límites de renta. Se pensó para compras, así que confirma con la notaría si encaja en tu extinción."
+     },
+     {
+      "t": "Tipo incrementado: 1 %",
+      "p": "Se aplica cuando la operación está sujeta a IGIC o a IVA, por ejemplo, si vende un promotor. No es lo normal entre copropietarios particulares."
+     },
+     {
+      "t": "La Palma: tipo 0 %",
+      "p": "Las disoluciones de comunidades de bienes sobre inmuebles destruidos, inhabitables o inaccesibles por la erupción volcánica tributan al 0 % si se firman antes del 31 de diciembre de 2026."
+     },
+     {
+      "t": "Base: solo lo que adquieres",
+      "p": "Según la doctrina del Tribunal Supremo desde 2018, no tributa el valor total del inmueble. Si te quedas el 50 % de tu hermana, pagas por ese 50 %.",
+      "url": "/extincion-de-condominio/impuestos-y-notario/",
+      "cta": "Impuestos y notaría →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con un piso de 220.000 € en Las Palmas de Gran Canaria",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos tienen al 50 % un piso en Las Palmas de Gran Canaria con un valor de referencia de 220.000 €. Uno se lo queda y el otro quiere cobrar. Así queda la extinción de condominio en Canarias con números redondos y orientativos."
+    ],
+    "items": [
+     {
+      "t": "Base: 110.000 €",
+      "p": "El adjudicatario solo adquiere la mitad de su hermano, así que tributa por 110.000 €."
+     },
+     {
+      "t": "AJD: 825 €",
+      "p": "Al 0,75 %, la extinción de condominio en Canarias cuesta 825 € de impuesto. En una comunidad con el 1,5 %, serían 1.650 €."
+     },
+     {
+      "t": "Compensación: 110.000 €",
+      "p": "El que se queda el piso paga a su hermano el valor de su mitad, con ahorros o con una hipoteca."
+     },
+     {
+      "t": "O vender la mitad",
+      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su 50 % por entre 44.000 y 77.000 €, del 40 % al 70 % del valor proporcional. El ITP del 6,5 %, unos 7.150 €, lo pagamos nosotros."
+     }
+    ],
+    "outro": [
+     "Haz tu propio cálculo en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Sucesiones en Canarias: bonificación del 99,9 % hasta para hermanos y sobrinos",
+    "type": "list",
+    "intro": [
+     "Si la cuota viene de una herencia, primero se liquida sucesiones. Canarias es la única comunidad que bonifica casi por completo también las herencias de hermanos, sobrinos y tíos, y desde septiembre de 2023 sin límite de cuota. Este impuesto va antes y aparte de la extinción de condominio en Canarias, si la hacéis después."
+    ],
+    "items": [
+     "<strong>Hijos, cónyuge y padres.</strong> Bonificación del 99,9 % de la cuota. Antes se aplican reducciones propias, como 23.125 € para hijos de 21 años o más y 40.400 € para el cónyuge.",
+     "<strong>Hijos menores de 21 años.</strong> La reducción llega a 138.650 € para menores de 10 años y baja con la edad, hasta 40.400 € entre los 18 y los 21.",
+     "<strong>Hermanos, sobrinos y tíos.</strong> También tienen una bonificación del 99,9 %, con una reducción de 9.300 €. Casi ninguna comunidad ofrece algo parecido.",
+     "<strong>Primos y personas sin parentesco.</strong> No tienen bonificación ni reducción por parentesco, así que pagan la cuota completa.",
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % con un límite de 200.000 € de valor, si la conservas 5 años. Vale para cónyuge, descendientes y colaterales mayores de 65 años que convivieran con el fallecido 2 años.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
+    ],
+    "outro": [
+     "Si heredas de un tío sin hijos, revisa nuestra guía sobre la <a href=\"/blog/herencia-de-un-tio-sin-hijos-sobrinos/\">herencia de los sobrinos</a>."
+    ]
+   },
+   {
+    "overline": "Plusvalía e IRPF",
+    "h2": "Plusvalía e IRPF tras la extinción de condominio en Canarias",
+    "type": "text",
+    "intro": [
+     "La plusvalía municipal y el IRPF son estatales, así que en las islas funcionan igual que en el resto de España. Con carácter general, la extinción de condominio en Canarias no paga plusvalía ni genera ganancia en el IRPF, porque no se considera una venta.",
+     "Si vendes tu cuota a un tercero, sí pagas plusvalía a tu ayuntamiento y declaras la ganancia, si la hay. Estímalo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a> y consulta la guía de <a href=\"/blog/plusvalia-municipal-al-vender-mi-parte-heredada/\">plusvalía al vender tu parte heredada</a>.",
+     "Si heredaste la cuota, tu valor de adquisición en el IRPF será el que declaraste en sucesiones. Por eso conviene que ese valor sea realista, porque un valor muy bajo en la herencia aumenta la ganancia cuando vendes."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "¿Sin acuerdo para la extinción de condominio en Canarias?",
+    "type": "callout",
+    "intro": [
+     "El impuesto de la extinción de condominio en Canarias es bajo, pero sigue haciendo falta acuerdo y dinero para compensar. Si no los hay, vender tu cuota es la salida más rápida. Compramos en todas las islas, como ves en nuestra página de <a href=\"/vender-proindiviso/canarias/\">Canarias</a>."
+    ],
+    "items": {
+     "t": "Te damos precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www3.gobiernodecanarias.org/tributos/atc/\">Agencia Tributaria Canaria</a>. Modelos 600 y 650, plazos y presentación telemática.",
+     "<a href=\"https://www3.gobiernodecanarias.org/tributos/atc/impuestos?ida=186590&prnt=942\">Transmisiones patrimoniales y actos jurídicos documentados en Canarias</a>. Ficha oficial del impuesto y del modelo 600.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto se paga por una extinción de condominio en Tenerife o Gran Canaria?",
+    "Un 0,75 % de AJD sobre el valor de la parte que adquieres, igual en todas las islas. Con un piso de 220.000 € al 50 %, son unos 825 €. A eso se suman notaría y Registro."
+   ],
+   [
+    "¿Por qué el AJD es más bajo en Canarias?",
+    "Porque la comunidad fijó un tipo general del 0,75 %, el mismo que Madrid y el más bajo de España. Sube al 1 % cuando la operación está sujeta a IGIC o a IVA. Entre particulares que extinguen un condominio, lo normal es el 0,75 %."
+   ],
+   [
+    "¿Pagan sucesiones los hermanos en Canarias?",
+    "Casi nada. Desde septiembre de 2023, hermanos, sobrinos y tíos tienen una bonificación del 99,9 % de la cuota, sin límite. Los primos y las personas sin parentesco, en cambio, pagan la cuota completa."
+   ],
+   [
+    "¿Qué ITP paga quien compra mi cuota en Canarias?",
+    "El tipo general es del 6,5 % y lo paga siempre el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría y la gestión. Tú solo declaras la posible ganancia en el IRPF."
+   ],
+   [
+    "¿Se paga IGIC al vender una cuota de vivienda en Canarias?",
+    "Si vende un particular, no: la operación tributa por ITP, que paga el comprador. El IGIC aparece cuando vende un empresario, por ejemplo un promotor. En ese caso, además, el AJD sube al 1 %."
+   ],
+   [
+    "¿Dónde se presentan los impuestos en Canarias?",
+    "Ante la Agencia Tributaria Canaria. El AJD y el ITP van en el modelo 600, en un mes desde la firma, y sucesiones en el 650, en seis meses desde el fallecimiento. Puedes hacerlo en su sede electrónica o a través de la notaría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Canarias",
+  "related": [
+   [
+    "Vender un proindiviso en Canarias",
+    "/vender-proindiviso/canarias/"
+   ],
+   [
+    "Extinción de condominio: guía completa",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "ITP al comprar la parte de un piso",
+    "/blog/itp-al-comprar-la-parte-de-un-piso/"
+   ],
+   [
+    "Extinción de condominio con compensación",
+    "/blog/extincion-de-condominio-con-compensacion-economica/"
+   ]
+  ],
+  "cta_title": "Vende tu parte en Canarias sin depender de los demás",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Canarias: AJD, ITP y sucesiones",
+  "meta_desc": "Extinción de condominio en Canarias: AJD del 0,75 %, ITP del 6,5 % y sucesiones bonificadas al 99,9 % en 2026, con ejemplo. Compramos tu cuota en 48 h.",
+  "focus_kw": "extinción de condominio en Canarias",
+  "title_corto": "Canarias",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a street of traditional Canarian houses with ochre and white facades, carved wooden balconies, volcanic stone corners and a closed dark blue door, bright Atlantic light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Canarias: casas canarias con balcones de madera tallada",
+  "datos": {
+   "ajd_general": "0,75 %",
+   "ajd_reducidos": "0,40 % en la adquisición de vivienda habitual con los requisitos de familias numerosas, discapacidad, familias monoparentales, jóvenes o vivienda protegida; incrementado 1 % si la operación está sujeta a IGIC o IVA",
+   "itp_general": "6,5 %",
+   "itp_reducidos": "5 % vivienda habitual sin otra vivienda y base ≤200.000 € (bonificación adicional del 20 % para 40 años o menos con renta ≤46.455 € o víctimas de violencia de género); 1 % familias numerosas, discapacidad ≥65 % y familias monoparentales con límites de renta; 0 % primera vivienda protegida; 7 % subastas y expedientes de dominio",
+   "isd_hijos_conyuge": "Bonificación del 99,9 % de la cuota (grupos I y II); reducciones de 23.125 € (hijos ≥21), 40.400 € (cónyuge), 18.500 € (ascendientes y resto de descendientes) y hasta 138.650 € en el grupo I según edad",
+   "isd_hermanos": "Bonificación del 99,9 % también para el grupo III (desde 6/9/2023, sin límite de cuota); reducción de 9.300 €",
+   "isd_vivienda_habitual": "Reducción del 99 % con límite de 200.000 € de valor de la vivienda; mantenimiento 5 años; cónyuge, descendientes y colaterales mayores de 65 convivientes 2 años",
+   "organismo": "Agencia Tributaria Canaria (ATC)",
+   "url_organismo": "https://www3.gobiernodecanarias.org/tributos/atc/"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 0,75 % (art. 36 DLeg 1/2009), reducido 0,40 % (art. 37.1) e incrementado 1 % con IGIC o IVA",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP general 6,5 % (art. 31, redacción Ley 9/2025), 5 % vivienda habitual ≤200.000 €, 1 % colectivos (arts. 32-33 bis), bonificación 20 % (art. 35)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: bonificación 99,9 % grupos I, II y III sin límite desde 6/9/2023 (art. 24-ter, Decreto ley 5/2023); reducciones 23.125/40.400/9.300 € (art. 20); vivienda habitual 99 % con 200.000 € y 5 años (art. 22-ter)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Plazos: ITP y AJD 1 mes (art. 39), sucesiones 6 meses (art. 27)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "AJD 0 % en disoluciones de comunidades de bienes sobre inmuebles destruidos, inhabitables o inaccesibles por la erupción volcánica, con devengo antes del 31/12/2026 (art. 6 Decreto ley 12/2021)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Reducción grupo I por edad: 138.650 € (<10 años), 92.150 €, 57.650 € y 40.400 € (18-21 años)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "AJD 0,75 % igual que Madrid, el más bajo de las comunidades de régimen común; ITP 6,5 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Única novedad 2026 en tributos cedidos: SGR (Decreto ley 5/2026), sin cambios en tipos generales",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Modelo 600 y ficha oficial del ITP y AJD en la Agencia Tributaria Canaria",
+    "https://www3.gobiernodecanarias.org/tributos/atc/impuestos?ida=186590&prnt=942"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Aplicación del AJD reducido del 0,40 % (adquisición de vivienda habitual con requisitos) a una extinción de condominio: no confirmado",
+   "Edad del colectivo de jóvenes en el AJD reducido del 0,40 %: el resumen de Hacienda dice «menores de 35 años», pero la bonificación del art. 35 a la que remite se aplica ya a 40 años o menos (Ley 9/2025); en la página no se cita edad"
+  ]
+ },
+ {
+  "slug": "extincion-de-condominio-cantabria",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Cantabria",
+  "h1": "Extinción de condominio en Cantabria: impuestos y novedades de 2026",
+  "sub": "La extinción de condominio en Cantabria paga un 1,5 % de AJD sobre la parte que adquiere quien se queda el inmueble. Si vendes tu cuota, el ITP general es del 9 % y lo abona el comprador. Nosotros compramos tu parte con fondos propios, con oferta por escrito en 48 horas y gastos a nuestro cargo.",
+  "checks": [
+   "Novedades de mayo de 2026",
+   "Ejemplo en Santander",
+   "Compramos tu cuota"
+  ],
+  "card_title": "¿Tienes un proindiviso en Cantabria?",
+  "card_text": "Dinos dónde está el inmueble y qué porcentaje tienes. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Novedades 2026",
+    "h2": "Novedades de 2026 que afectan al condominio en Cantabria",
+    "type": "list",
+    "intro": [
+     "La Ley de Cantabria 5/2026, de medidas fiscales, cambió varios tipos con efectos desde el 1 de mayo de 2026. Estos son los cambios que afectan a quien tiene un proindiviso."
+    ],
+    "items": [
+     "<strong>ITP de vivienda habitual.</strong> El tipo del 7 % se aplica ahora hasta 300.000 € de valor, antes hasta 200.000 €. El exceso tributa al 9 %.",
+     "<strong>Jóvenes.</strong> El ITP reducido del 4 % y el AJD del 0,1 % alcanzan ahora a los menores de 40 años, cuando antes el límite eran 36.",
+     "<strong>Tope de 300.000 €.</strong> Los tipos reducidos de ITP y AJD se aplican solo hasta 300.000 € del valor del inmueble. Por encima, rige el tipo general.",
+     "<strong>Rehabilitación.</strong> El ITP del 5 % para viviendas que se rehabilitan de inmediato ya no se aplica a las viviendas de uso turístico.",
+     "<strong>Sucesiones.</strong> El tiempo que el fallecido pasó en una residencia de mayores justo antes de morir ya no rompe los dos años de convivencia exigidos en la reducción por vivienda habitual."
+    ]
+   },
+   {
+    "overline": "AJD",
+    "h2": "AJD de la extinción de condominio en Cantabria",
+    "type": "text",
+    "intro": [
+     "La extinción de condominio en Cantabria tributa al 1,5 % por Actos Jurídicos Documentados. Es el tipo general del artículo 13 del texto refundido cántabro, el Decreto Legislativo 62/2008. Paga quien se queda el inmueble, porque adquiere la parte de los demás.",
+     "La base es solo el valor de esa parte, según la doctrina del Tribunal Supremo desde 2018. Si te quedas el 50 % de tu hermano, tributas por ese 50 %. Como mínimo, Hacienda toma el valor de referencia del Catastro.",
+     "Cantabria tiene tipos reducidos para los documentos que formalizan la adquisición de vivienda habitual. El general baja al 1 %. Para menores de 40 años, familias numerosas o monoparentales, discapacidad del 33 % al 65 % y municipios en riesgo de despoblamiento, baja al 0,1 %. Con discapacidad del 65 % o más, el tipo es del 0,05 %.",
+     "Si quien se queda el piso firma una hipoteca para compensar, esa escritura tributa en Cantabria al 2 % de AJD. Sin embargo, desde 2018 ese impuesto lo paga el banco, no tú.",
+     "Hay dos condiciones. Los tipos reducidos solo alcanzan los primeros 300.000 € del inmueble y hay que pedirlos en la propia escritura. Además, se pensaron para la compra de vivienda, así que en una extinción de condominio en Cantabria confirma con la notaría si encajan."
+    ]
+   },
+   {
+    "overline": "Tabla",
+    "h2": "Tipos del proindiviso en Cantabria (2026)",
+    "type": "table",
+    "intro": [
+     "La tabla recoge los tipos vigentes tras la Ley 5/2026. Las cifras proceden del resumen oficial del Ministerio de Hacienda."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Impuesto",
+      "Tipo desde mayo de 2026"
+     ],
+     [
+      "Extinción de condominio.",
+      "AJD.",
+      "1,5 % sobre la parte adquirida."
+     ],
+     [
+      "Adquisición de vivienda habitual.",
+      "AJD reducido.",
+      "1 %, o 0,1 % para menores de 40 y otros colectivos, hasta 300.000 €."
+     ],
+     [
+      "Hipoteca para compensar.",
+      "AJD.",
+      "2 %, a cargo del banco."
+     ],
+     [
+      "Venta de tu cuota a un tercero.",
+      "ITP.",
+      "9 %, a cargo del comprador."
+     ],
+     [
+      "Compra de vivienda habitual.",
+      "ITP reducido.",
+      "7 % hasta 300.000 € y 9 % por encima."
+     ],
+     [
+      "Compra por menores de 40 o familias numerosas.",
+      "ITP reducido.",
+      "4 % hasta 300.000 €."
+     ],
+     [
+      "Herencia de la cuota.",
+      "Sucesiones.",
+      "Bonificación del 100 % para hijos, cónyuge y padres, y del 50 % para hermanos."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de extinción de condominio en Cantabria: piso de 190.000 € en Santander",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos heredan al 50 % un piso en Santander con un valor de referencia de 190.000 €. Uno se lo queda y el otro prefiere el dinero. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base: 95.000 €",
+      "p": "El adjudicatario adquiere la mitad de su hermano, así que tributa solo por 95.000 €."
+     },
+     {
+      "t": "AJD: 1.425 €",
+      "p": "Al 1,5 % general, la extinción de condominio en Cantabria cuesta 1.425 €. Si la notaría admite el 1 % de vivienda habitual, serían 950 €."
+     },
+     {
+      "t": "Compensación: 95.000 €",
+      "p": "Es lo que recibe el hermano que sale, con los ahorros del otro o con una hipoteca."
+     },
+     {
+      "t": "Alternativa: vender el 50 %",
+      "p": "Si no hay acuerdo, el hermano que sale puede vendernos su mitad por entre 38.000 y 66.500 €, del 40 % al 70 % del valor proporcional. El ITP del 9 %, unos 8.550 €, corre de nuestra cuenta."
+     }
+    ],
+    "outro": [
+     "Prueba con tus cifras en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>. Si dudas entre quedarte el piso o vender, revisa nuestra comparativa entre <a href=\"/blog/vender-o-hacer-extincion-de-condominio/\">vender o hacer la extinción</a>."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Herencias en Cantabria: hijos, cónyuge y hermanos",
+    "type": "cards",
+    "intro": [
+     "Si la cuota viene de una herencia, primero se liquida sucesiones ante la Agencia Cántabra de Administración Tributaria. Junto con Baleares, Cantabria es la comunidad con bonificación del 100 % para la familia directa."
+    ],
+    "items": [
+     {
+      "t": "Hijos, cónyuge y padres",
+      "p": "Bonificación del 100 % de la cuota. Antes se aplica una reducción de 50.000 €, que sube 5.000 € por cada año que le falte al hijo para cumplir 21."
+     },
+     {
+      "t": "Hermanos",
+      "p": "Bonificación del 50 % de la cuota y una reducción de 25.000 €. Pocas comunidades mejoran tanto a los hermanos."
+     },
+     {
+      "t": "Sobrinos y tíos",
+      "p": "Solo tienen una reducción de 8.000 € y ninguna bonificación, así que pagan la cuota casi completa."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Reducción del 95 % con un límite de 125.000 € por heredero, si la conservas 5 años. Se aplica a los grupos I, II y III."
+     },
+     {
+      "t": "Plazo y prórroga",
+      "p": "Seis meses desde el fallecimiento. La prórroga de otros seis se pide a la Agencia Cántabra dentro de los cinco primeros meses.",
+      "url": "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/",
+      "cta": "Si no puedes pagarlo →"
+     }
+    ]
+   },
+   {
+    "overline": "Plusvalía, IRPF y trámites",
+    "h2": "Plusvalía, IRPF y cómo presentar los impuestos en Cantabria",
+    "type": "text",
+    "intro": [
+     "La plusvalía municipal y el IRPF son estatales. Con carácter general, la extinción de condominio en Cantabria no paga plusvalía ni genera ganancia en el IRPF, porque no se considera una venta. Si vendes tu cuota a un tercero, en cambio, sí aparecen los dos.",
+     "Estima lo que te tocaría con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>, o lee nuestra guía del <a href=\"/blog/extincion-de-condominio-irpf-ganancia-patrimonial/\">IRPF en la extinción de condominio</a>.",
+     "El AJD y el ITP se presentan con el modelo 600 y sucesiones con el 650, ante la Agencia Cántabra de Administración Tributaria. Puedes hacerlo por su registro electrónico o en persona, aunque lo habitual es que se ocupe la notaría o una gestoría. Además, si pediste a Hacienda una valoración previa del inmueble, Cantabria permite deducir esa tasa de la cuota cuando se cumplen ciertos requisitos."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "¿Extinción de condominio en Cantabria o venta de tu cuota?",
+    "type": "callout",
+    "intro": [
+     "La extinción de condominio en Cantabria tiene un coste fiscal moderado, pero exige acuerdo y dinero para compensar. Si falta alguno de los dos, vender tu parte te saca en semanas. Compramos en toda la comunidad, como ves en nuestra página de <a href=\"/vender-proindiviso/cantabria/\">Cantabria</a>."
+    ],
+    "items": {
+     "t": "Te damos precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534\">Agencia Cántabra de Administración Tributaria: prórroga de sucesiones</a>. Trámite oficial, plazos y vías de presentación.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: novedades autonómicas de 2026</a>. Resumen de la Ley de Cantabria 5/2026 de medidas fiscales.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta una extinción de condominio en Santander?",
+    "El impuesto general es el 1,5 % de AJD sobre la parte que adquieres. Con un piso de 190.000 € al 50 %, son unos 1.425 €. A eso se suman notaría y Registro, y la hipoteca si la necesitas para compensar."
+   ],
+   [
+    "¿Qué cambió en 2026 en los impuestos de la vivienda en Cantabria?",
+    "Desde el 1 de mayo de 2026, el ITP del 7 % para vivienda habitual se aplica hasta 300.000 €. Además, el 4 % de ITP y el 0,1 % de AJD alcanzan a los menores de 40 años. Lo aprobó la Ley de Cantabria 5/2026."
+   ],
+   [
+    "¿Pagan sucesiones los hijos en Cantabria?",
+    "No en la práctica. Hijos, cónyuge y padres tienen una bonificación del 100 % de la cuota, sin límite de importe. Eso sí, tienen que presentar la autoliquidación en plazo para aplicarla."
+   ],
+   [
+    "¿Cuánto paga un hermano que hereda en Cantabria?",
+    "Tiene una reducción de 25.000 € y una bonificación del 50 % de la cuota. Es un trato mejor que en la mayoría de comunidades, aunque puede salir una cantidad relevante. Calcúlalo antes de aceptar la herencia."
+   ],
+   [
+    "¿Qué ITP paga la empresa que compra mi cuota en Cantabria?",
+    "El tipo general del 9 %, porque los reducidos son para quien compra su vivienda habitual. Lo paga siempre el comprador. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría."
+   ],
+   [
+    "¿Cómo pido la prórroga del impuesto de sucesiones en Cantabria?",
+    "Se solicita a la Agencia Cántabra de Administración Tributaria dentro de los cinco primeros meses desde el fallecimiento. La prórroga añade otros seis meses al plazo. Puedes pedirla por registro electrónico o de forma presencial."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Cantabria",
+  "related": [
+   [
+    "Vender un proindiviso en Cantabria",
+    "/vender-proindiviso/cantabria/"
+   ],
+   [
+    "Extinción de condominio: guía completa",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notaría en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Hipoteca para la extinción de condominio",
+    "/blog/hipoteca-para-extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota en Cantabria con oferta en 48 horas",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Cantabria: impuestos 2026",
+  "meta_desc": "Extinción de condominio en Cantabria: AJD del 1,5 %, ITP del 9 % y sucesiones en 2026, con las novedades de mayo. Si vendes tu cuota, te la compramos.",
+  "focus_kw": "extinción de condominio en Cantabria",
+  "title_corto": "Cantabria",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a Cantabrian village street with stone houses, deep wooden balconies painted dark blue, terracotta roof tiles and green mountains in the background, soft cloudy light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Cantabria: casonas de piedra con balcones de madera",
+  "datos": {
+   "ajd_general": "1,5 %",
+   "ajd_reducidos": "1 % adquisición de vivienda habitual; 0,1 % menores de 40 (desde 1/5/2026), familias numerosas o monoparentales, discapacidad 33-65 % y municipios en riesgo de despoblamiento; 0,05 % discapacidad ≥65 %; solo hasta 300.000 € del valor y solicitados en la escritura",
+   "itp_general": "9 %",
+   "itp_reducidos": "7 % vivienda habitual hasta 300.000 € y 9 % el exceso (desde 1/5/2026); 4 % menores de 40, familias numerosas o monoparentales, discapacidad 33-65 %, vivienda protegida y municipios en riesgo de despoblamiento; 3 % discapacidad ≥65 %; 5 % vivienda para rehabilitación inmediata; reducidos solo hasta 300.000 €",
+   "isd_hijos_conyuge": "Bonificación del 100 % de la cuota (grupos I y II); reducción de 50.000 € (grupo II) y 50.000 € más 5.000 € por año menor de 21 (grupo I)",
+   "isd_hermanos": "Hermanos: reducción de 25.000 € y bonificación del 50 %; resto del grupo III: reducción de 8.000 € sin bonificación",
+   "isd_vivienda_habitual": "Reducción del 95 % con límite de 125.000 € por heredero y 5 años; grupos I, II y III; desde 1/5/2026 no computa el tiempo en residencia de mayores para la convivencia de 2 años",
+   "organismo": "Agencia Cántabra de Administración Tributaria (ACAT)",
+   "url_organismo": "https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 1,5 % (art. 13.3 DLeg 62/2008), reducidos 1 %, 0,1 % y 0,05 %, tope de 300.000 € y solicitud en escritura",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP general 9 % (art. 9.1), vivienda habitual 7 % hasta 300.000 € (art. 9.2), 4 % (art. 9.3), 3 % y 5 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: bonificación 100 % grupos I y II y 50 % hermanos (art. 8.1); reducciones 50.000 €, 25.000 € y 8.000 € (art. 5.A).1); vivienda habitual con límite 125.000 € y 5 años (art. 5.A).5)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades Ley de Cantabria 5/2026 con efectos 1/5/2026: 7 % hasta 300.000 €, menores de 40, tope de inmuebles y convivencia en residencias",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Deducción de la tasa de valoración previa en ITP y AJD (arts. 9.11 y 13.12)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "AJD incrementado del 2 % en préstamos con garantía hipotecaria (art. 13.3) y exclusión de viviendas de uso turístico del 5 % de rehabilitación (Ley 5/2026)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Prórroga de sucesiones: se pide dentro de los cinco meses posteriores al fallecimiento, por seis meses, ante la ACAT",
+    "https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534"
+   ],
+   [
+    "Ley de Cantabria 5/2026 publicada en el BOC extraordinario núm. 12 de 30/4/2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/libro-02-26.pdf"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Aplicación del AJD reducido del 1 % (documentos que protocolicen la adquisición de vivienda habitual) a una extinción de condominio: no confirmado"
   ]
  }
 ]
