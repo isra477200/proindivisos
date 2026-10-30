@@ -1,6 +1,6 @@
 <?php
 /* Zona Proindiviso — modelos descargables y bloques de preguntas frecuentes (snippet 226, global).
- *   [zp_modelo id="modelo-burofax-copropietario"] → caja con el texto completo del modelo (huecos [EN MAYÚSCULAS] resaltados), botón
+ *   [zp_modelo id="modelo-burofax-copropietario"] → caja con el texto completo del modelo en un blockquote (así Yoast no lo cuenta como texto sin subtítulos; huecos [EN MAYÚSCULAS] resaltados), botón
  *       «Copiar el texto» y enlace «Descargar en Word». Datos en la opción zp_modelo_{id} = {titulo, texto, docx} (la escribe modelos.py).
  *   [zp_faq_bloque n="2"] → preguntas del bloque 2 como desplegables (pregunta en h4: Yoast cuenta H2 y H3 para la keyphrase en subtítulos y todos para la distribución). Datos en la opción zp_faq_bloque_{n} = [[p, r], ...]
  *       (la escribe faq.py; una opción por bloque porque el WAF de Hostinger corta cuerpos REST de más de ~15 KB). En wp_head se imprime
@@ -26,7 +26,7 @@ function zp_mf_modelo_html( $id ) {
 	$dl = ! empty( $m['docx'] ) ? $lt . 'a class="zpm-dl" href="' . esc_url( $m['docx'] ) . '" download>Descargar en Word (.docx)' . $lt . '/a>' : '';
 	return $lt . 'div class="zpm" data-modelo="' . esc_attr( $id ) . '">' . $lt . 'div class="zpm-bar">' . $lt . 'span class="zpm-t">' . esc_html( $m['titulo'] ?? '' ) . $lt . '/span>'
 		. $lt . 'div class="zpm-acc">' . $lt . 'button type="button" class="zpm-copy">Copiar el texto' . $lt . '/button>' . $dl . $lt . '/div>' . $lt . '/div>'
-		. $lt . 'div class="zpm-doc">' . $ps . $lt . '/div>' . $lt . 'p class="zpm-nota">Los huecos en ' . $lt . 'mark>[MAYÚSCULAS]' . $lt . '/mark> son los que tienes que rellenar. Modelo orientativo: revísalo con un abogado si hay importes altos o conflicto.' . $lt . '/p>' . $lt . '/div>';
+		. $lt . 'blockquote class="zpm-doc">' . $ps . $lt . '/blockquote>' . $lt . 'p class="zpm-nota">Los huecos en ' . $lt . 'mark>[MAYÚSCULAS]' . $lt . '/mark> son los que tienes que rellenar. Modelo orientativo: revísalo con un abogado si hay importes altos o conflicto.' . $lt . '/p>' . $lt . '/div>';
 }
 function zp_mf_faq_items( $n ) {
 	$b = get_option( 'zp_faq_bloque_' . $n );
@@ -57,8 +57,8 @@ add_action( 'wp_head', function () {
 .zpm-bar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:16px 22px;background:#0d4f78;color:#fff}
 .zpm-t{font-size:16px;font-weight:800}.zpm-acc{display:flex;flex-wrap:wrap;gap:10px}
 .zpm-copy,.zpm-dl{display:inline-flex;align-items:center;padding:9px 16px;border-radius:999px;font:inherit;font-size:14px;font-weight:800;text-decoration:none;cursor:pointer}
-.zpm-copy{background:#fff;color:#0d4f78;border:0}.zpm-dl{background:#e87524;color:#fff;border:0}.zpm-copy:hover{background:#eff5f8}.zpm-dl:hover{background:#d06316}
-.zpm-doc{max-height:560px;overflow:auto;padding:24px 28px;font-size:15.5px;line-height:1.7;background:#fbfcfd}
+.zpm .zpm-acc .zpm-copy{background:#fff;color:#0d4f78;border:0}.zpm .zpm-acc a.zpm-dl{display:inline-flex!important;align-items:center;padding:9px 16px!important;border-radius:999px!important;font-size:14px!important;font-weight:800!important;line-height:1.2!important;background:#e87524!important;color:#fff!important;border:0;text-decoration:none!important}.zpm .zpm-acc .zpm-copy:hover{background:#eff5f8}.zpm .zpm-acc a.zpm-dl:hover{background:#d06316!important}
+.zpm-doc{margin:0;border:0;max-height:560px;overflow:auto;padding:24px 28px;font-size:15.5px;line-height:1.7;background:#fbfcfd}
 .zpm-doc p{margin:0 0 14px}.zpm-doc mark{background:#fff1e5;color:#b45309;padding:0 3px;border-radius:4px;font-family:Manrope,sans-serif;font-size:.9em;font-weight:700}
 .zpm-nota{margin:0;padding:12px 22px;font-size:13px;color:#4f5b66;border-top:1px solid #e3e8ec;background:#fff}.zpm-nota mark{background:#fff1e5;color:#b45309}
 .zpq{display:flex;flex-direction:column;gap:10px;width:100%;font-family:Manrope,sans-serif}
