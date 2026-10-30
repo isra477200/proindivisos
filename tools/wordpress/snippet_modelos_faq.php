@@ -2,7 +2,7 @@
 /* Zona Proindiviso — modelos descargables y bloques de preguntas frecuentes (snippet 226, global).
  *   [zp_modelo id="modelo-burofax-copropietario"] → caja con el texto completo del modelo (huecos [EN MAYÚSCULAS] resaltados), botón
  *       «Copiar el texto» y enlace «Descargar en Word». Datos en la opción zp_modelo_{id} = {titulo, texto, docx} (la escribe modelos.py).
- *   [zp_faq_bloque n="2"] → preguntas del bloque 2 como desplegables (pregunta en h3). Datos en la opción zp_faq_bloque_{n} = [[p, r], ...]
+ *   [zp_faq_bloque n="2"] → preguntas del bloque 2 como desplegables (pregunta en h4: Yoast cuenta H2 y H3 para la keyphrase en subtítulos y todos para la distribución). Datos en la opción zp_faq_bloque_{n} = [[p, r], ...]
  *       (la escribe faq.py; una opción por bloque porque el WAF de Hostinger corta cuerpos REST de más de ~15 KB). En wp_head se imprime
  *       UN solo schema FAQPage con todas las preguntas de todos los bloques de la página.
  * Igual que las calculadoras: el e-paragraph de Elementor pasa el shortcode por wp_kses → marcador + filtro de contenido.
@@ -35,7 +35,7 @@ function zp_mf_faq_items( $n ) {
 function zp_mf_faq_html( $n ) {
 	$lt = chr( 60 ); $h = '';
 	foreach ( zp_mf_faq_items( $n ) as $i => $qa ) {
-		$h .= $lt . 'details class="zpq-i"' . ( $i === 0 ? ' open' : '' ) . '>' . $lt . 'summary>' . $lt . 'h3>' . esc_html( $qa[0] ) . $lt . '/h3>' . $lt . '/summary>'
+		$h .= $lt . 'details class="zpq-i"' . ( $i === 0 ? ' open' : '' ) . '>' . $lt . 'summary>' . $lt . 'h4>' . esc_html( $qa[0] ) . $lt . '/h4>' . $lt . '/summary>'
 			. $lt . 'div class="zpq-a">' . $lt . 'p>' . wp_kses( $qa[1], [ 'a' => [ 'href' => [] ], 'strong' => [] ] ) . $lt . '/p>' . $lt . '/div>' . $lt . '/details>';
 	}
 	return $h ? $lt . 'div class="zpq">' . $h . $lt . '/div>' : '';
@@ -66,9 +66,9 @@ add_action( 'wp_head', function () {
 .zpq-i summary{list-style:none;cursor:pointer;padding:16px 52px 16px 20px;position:relative}.zpq-i summary::-webkit-details-marker{display:none}
 .zpq-i summary::after{content:"+";position:absolute;right:20px;top:50%;transform:translateY(-50%);font-size:22px;font-weight:700;color:#e87524}
 .zpq-i[open] summary::after{content:"−"}
-.zpq-i summary h3{margin:0;font-size:17px;line-height:1.35;font-weight:800;color:#0d4f78}
+.zpq-i summary h4{margin:0;font-size:17px;line-height:1.35;font-weight:800;color:#0d4f78}
 .zpq-a{padding:0 20px 18px;font-size:16px;line-height:1.6;color:#1f2a33}.zpq-a p{margin:0}.zpq-a a{color:#d06316;font-weight:700}
-@media(max-width:767px){.zpm-doc{padding:18px;font-size:14.5px;max-height:460px}.zpm-bar{padding:14px 16px}.zpq-i summary h3{font-size:16px}}
+@media(max-width:767px){.zpm-doc{padding:18px;font-size:14.5px;max-height:460px}.zpm-bar{padding:14px 16px}.zpq-i summary h4{font-size:16px}}
 CSS;
 	echo '<' . $t . ' id="zpmf-css">' . $css . '</' . $t . '>';
 	if ( $faq ) {

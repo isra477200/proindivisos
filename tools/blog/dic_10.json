@@ -1,0 +1,727 @@
+[
+ {
+  "slug": "ajuar-domestico",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Ajuar doméstico: qué es y cómo afecta a tu parte de la herencia",
+  "sub": "El ajuar doméstico es el conjunto de muebles, ropa, enseres y objetos de uso personal del fallecido que la ley del impuesto de sucesiones presume incluido en la herencia y valora, salvo prueba en contra, en el 3 % del caudal. Para quien hereda una parte de un piso, ese porcentaje sube la base del impuesto aunque no reciba un solo mueble de valor. Si después quieres vender tu cuota, te damos precio por escrito en 48 horas.",
+  "checks": [
+   "Cálculo con un ejemplo real",
+   "Doctrina del Supremo explicada",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Heredas una parte de un piso?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin compromiso y sin esperar a que tus hermanos decidan.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el ajuar doméstico y qué ley lo regula",
+    "type": "text",
+    "intro": [
+     "El artículo 15 de la Ley del Impuesto sobre Sucesiones presume que el ajuar doméstico forma parte de la herencia. Además, fija su valor en el 3 % del caudal relicto, salvo que los herederos prueben otra cifra. Es una presunción fiscal: Hacienda no inventaría muebles, simplemente suma ese porcentaje a la base del impuesto.",
+     "Para saber qué entra, hay que acudir al artículo 1321 del Código Civil. Allí el ajuar son las ropas, el mobiliario y los enseres de la vivienda familiar. En cambio, quedan fuera las joyas, las obras de arte y los objetos de valor extraordinario, que se declaran aparte con su valor real. Por eso el ajuar doméstico es, en la práctica, lo que había en casa del fallecido y no tiene un valor propio en el mercado.",
+     "La presunción afecta a los herederos. Los legatarios quedan fuera, salvo que el testamento les deje de forma expresa el contenido de la vivienda."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el 3 % después de la doctrina del Supremo",
+    "type": "steps",
+    "intro": [
+     "Durante años, muchas comunidades autónomas aplicaban el 3 % sobre toda la herencia, incluidas cuentas y acciones. La doctrina del Tribunal Supremo cambió ese criterio: el porcentaje solo recae sobre los bienes que pueden servir al uso personal del causante. Hoy el cálculo sigue, de forma orientativa, estos pasos."
+    ],
+    "items": [
+     {
+      "t": "Suma el caudal relicto",
+      "p": "Valora todos los bienes de la herencia y resta las deudas y los gastos deducibles. Ese es el punto de partida."
+     },
+     {
+      "t": "Aparta lo que nunca es ajuar",
+      "p": "Dinero en cuentas, acciones, fondos, inmuebles alquilados o cedidos a otra persona y bienes de una actividad económica. Para excluirlos no hace falta aportar prueba."
+     },
+     {
+      "t": "Aplica el 3 % al resto",
+      "p": "La Administración y muchos tribunales toman como base las viviendas de uso propio del causante, la habitual y la segunda residencia, con sus anejos."
+     },
+     {
+      "t": "Resta la parte del viudo",
+      "p": "Si hay cónyuge superviviente, se descuenta lo que el artículo 1321 le entrega sin computarlo en su haber, estimado en el 3 % del valor catastral de la vivienda habitual."
+     }
+    ],
+    "outro": [
+     "Después, el ajuar doméstico resultante se reparte entre los herederos en proporción a su cuota y se suma a lo que recibe cada uno."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo con números: tres hermanos, un piso y un local",
+    "type": "text",
+    "intro": [
+     "Una madre viuda fallece y deja a sus tres hijos su piso, valorado en 180.000 euros, un local alquilado de 90.000 euros y 60.000 euros en el banco. El caudal suma 330.000 euros.",
+     "Con el criterio antiguo, el ajuar doméstico habría sido el 3 % de todo: 9.900 euros. En cambio, con la doctrina actual el local alquilado y el dinero quedan fuera, así que el 3 % se aplica solo al piso. El ajuar baja a 5.400 euros, es decir, 4.500 euros menos de base imponible.",
+     "Repartido entre tres, cada hermano declara 1.500 euros menos. En comunidades con bonificación casi total para hijos, la diferencia apenas se nota. Sin embargo, donde la cuota se paga entera, puede suponer de 150 a 250 euros por heredero, orientativo y según comunidad autónoma. En herencias con mucho patrimonio financiero, el ahorro se multiplica."
+    ]
+   },
+   {
+    "overline": "Defensa",
+    "h2": "Cómo rebatir el ajuar doméstico ante Hacienda",
+    "type": "list",
+    "intro": [
+     "Hay dos niveles de defensa. Uno no exige pruebas; el otro sí."
+    ],
+    "items": [
+     "<strong>Excluir los bienes que no pueden ser ajuar.</strong> Cuentas, valores, inmuebles alquilados o cedidos y bienes empresariales quedan fuera sin más.",
+     "<strong>Probar un valor inferior.</strong> Sirve un acta notarial que describa el contenido de la vivienda o la tasación de un perito hecha cerca del fallecimiento. Las fotos y un inventario ayudan.",
+     "<strong>Acreditar que no había ajuar del causante.</strong> Por ejemplo, si vivía en una residencia y el piso lo ocupaba un hijo de forma estable.",
+     "<strong>Rectificar lo ya pagado.</strong> Si declaraste el 3 % sobre todo, puedes pedir la rectificación de la autoliquidación y la devolución de lo cobrado de más, dentro del plazo de cuatro años."
+    ],
+    "outro": [
+     "Antes de presentar el modelo 650, revisa con tu gestoría qué base usa tu comunidad autónoma para el ajuar doméstico. Es una corrección pequeña que casi nadie pide."
+    ]
+   },
+   {
+    "overline": "Si vendes",
+    "h2": "Qué cambia cuando quieres vender tu parte del piso",
+    "type": "text",
+    "intro": [
+     "El ajuar doméstico es una figura fiscal. No te obliga a repartir los muebles ni a vender su contenido. Tampoco forma parte del precio de tu cuota: cuando vendes tu parte del piso, vendes un porcentaje del inmueble, no de lo que hay dentro, salvo que lo pactes.",
+     "Lo que sí importa es el orden. Para inscribir la herencia y vender, el impuesto de sucesiones tiene que estar presentado. Si no tienes liquidez para pagarlo, hay soluciones, y las explicamos en nuestra guía sobre qué hacer cuando no puedes pagar el impuesto. Además, el valor del ajuar doméstico no suma al valor de adquisición del piso, así que en principio no reduce tu ganancia en el IRPF cuando vendas."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Ajuar doméstico frente a otros conceptos de la herencia",
+    "type": "cards",
+    "intro": [
+     "Cuatro términos aparecen siempre junto al ajuar. Conviene distinguirlos."
+    ],
+    "items": [
+     {
+      "t": "Inventario de la herencia",
+      "p": "Es la relación de bienes y deudas del fallecido. El ajuar entra en él como una partida estimada, no mueble a mueble.",
+      "url": "/diccionario-del-proindiviso/inventario-de-la-herencia/",
+      "cta": "Ver inventario →"
+     },
+     {
+      "t": "Impuesto de sucesiones",
+      "p": "Grava lo que recibe cada heredero. El ajuar doméstico aumenta su base, pero las reducciones y bonificaciones dependen de cada comunidad.",
+      "url": "/diccionario-del-proindiviso/impuesto-de-sucesiones/",
+      "cta": "Ver el impuesto →"
+     },
+     {
+      "t": "Comprobación de valores",
+      "p": "Es la revisión que hace Hacienda del valor declarado. Si sube el valor del piso, sube también el 3 % del ajuar.",
+      "url": "/diccionario-del-proindiviso/comprobacion-de-valores/",
+      "cta": "Ver comprobación →"
+     },
+     {
+      "t": "Modelo 650",
+      "p": "Es el impreso de autoliquidación del impuesto en la mayoría de comunidades. Allí se declara el ajuar en una línea propia.",
+      "url": "/diccionario-del-proindiviso/modelo-650/",
+      "cta": "Ver modelo 650 →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Si heredas una parte y prefieres venderla",
+    "type": "callout",
+    "intro": [
+     "Si heredas una cuota del piso y no quieres seguir en copropiedad con tus hermanos, compramos tu parte con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional, según ubicación, ocupación y cargas."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la herencia",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría y gestión a nuestro cargo. Sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿El ajuar doméstico se paga siempre en el impuesto de sucesiones?",
+    "Se incluye siempre que haya herederos, porque la ley lo presume. Sin embargo, no se aplica sobre dinero, acciones ni inmuebles alquilados, y puedes probar que su valor real es menor. En comunidades con bonificación alta para hijos, su efecto final suele ser pequeño."
+   ],
+   [
+    "¿Cómo se calcula el ajuar si hay viudo?",
+    "Primero se aplica el 3 % sobre los bienes que pueden ser ajuar. Después se resta lo que corresponde al cónyuge superviviente por el artículo 1321 del Código Civil, que se estima en el 3 % del valor catastral de la vivienda habitual. El resto se reparte entre los herederos."
+   ],
+   [
+    "¿Puedo recuperar lo que pagué de más por el ajuar?",
+    "Sí, si declaraste el 3 % sobre toda la herencia y no han pasado cuatro años desde el fin del plazo de presentación. Se pide la rectificación de la autoliquidación ante la comunidad autónoma, que devuelve lo ingresado de más con intereses."
+   ],
+   [
+    "¿Los muebles del piso se incluyen al vender mi parte?",
+    "No, salvo que lo pactes. Al vender tu cuota transmites un porcentaje del inmueble. Los muebles son de todos los herederos y se reparten o se retiran aparte; en la práctica, quien compra suele aceptar el piso tal como está."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el ajuar doméstico",
+  "related": [
+   [
+    "Inventario de la herencia",
+    "/diccionario-del-proindiviso/inventario-de-la-herencia/"
+   ],
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "No puedo pagar el impuesto de sucesiones",
+    "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Vende tu parte de la herencia sin esperar",
+  "cta_text": "Compramos cuotas de pisos heredados con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Ajuar doméstico: qué es, cómo se calcula y cómo rebatirlo",
+  "meta_desc": "El ajuar doméstico suma un 3 % a tu herencia en sucesiones. Cómo se calcula tras el Supremo y cómo rebatirlo; si vendes tu parte, te damos precio en 48 h.",
+  "focus_kw": "ajuar doméstico",
+  "title_corto": "Ajuar doméstico",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural window light: an antique carved wooden wardrobe and a chest of drawers with a crocheted runner in the quiet bedroom of an old Spanish flat, a folded wool blanket on a chair, worn parquet floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Ajuar doméstico: armario antiguo de madera en el dormitorio de un piso heredado"
+ },
+ {
+  "slug": "bienes-gananciales",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Bienes gananciales: qué son y por qué el piso acaba en proindiviso",
+  "sub": "Los bienes gananciales son los que un matrimonio en régimen de gananciales adquiere durante la convivencia con su trabajo, sus rentas o dinero común, y pertenecen a los dos cónyuges por mitad. Cuando uno fallece o hay divorcio, la sociedad se disuelve y el piso ganancial suele quedar en proindiviso entre el viudo y los hijos, o entre los ex. Si quieres salir de esa copropiedad, compramos tu parte.",
+  "checks": [
+   "Explicado con el Código Civil",
+   "Ejemplo de herencia real",
+   "Compramos tu cuota del piso"
+  ],
+  "card_title": "¿Te ha tocado parte de un piso ganancial?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin compromiso y sin que los demás tengan que estar de acuerdo.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué son los bienes gananciales según el Código Civil",
+    "type": "text",
+    "intro": [
+     "La sociedad de gananciales hace comunes las ganancias que obtiene cualquiera de los cónyuges durante el matrimonio, según el artículo 1344 del Código Civil. Al disolverse, se reparten por mitad. Es el régimen por defecto en el derecho común cuando la pareja no firma capitulaciones.",
+     "El artículo 1347 enumera los bienes gananciales: los sueldos, los rendimientos de bienes de cualquiera de los dos y lo que se compra con dinero común. En cambio, el artículo 1346 deja como privativo lo que cada uno tenía antes de casarse y lo que recibe por herencia o donación. Además, el artículo 1361 presume que son bienes gananciales todos los del matrimonio mientras no se pruebe lo contrario.",
+     "Ojo con el territorio. En Cataluña y Baleares el régimen supletorio es la separación de bienes, y Aragón y Navarra tienen regímenes propios. Por eso conviene mirar la vecindad civil de la pareja antes de dar nada por supuesto."
+    ]
+   },
+   {
+    "overline": "Casos mixtos",
+    "h2": "Pisos que son en parte gananciales y en parte privativos",
+    "type": "list",
+    "intro": [
+     "No todo es blanco o negro. Hay viviendas mixtas, y eso cambia cuánto vale cada parte."
+    ],
+    "items": [
+     "<strong>Piso comprado de soltero y pagado casado.</strong> Si uno compró antes de la boda y la hipoteca se pagó después con dinero común, la vivienda familiar es en parte ganancial, en proporción a lo pagado, según los artículos 1354 y 1357.",
+     "<strong>Entrada pagada con una herencia propia.</strong> Quien aporta dinero privativo puede reclamar que esa parte sea suya o que se le reembolse al liquidar.",
+     "<strong>Herencia recibida durante el matrimonio.</strong> Es privativa del cónyuge que hereda, aunque las rentas que produzca sí entran en los bienes gananciales.",
+     "<strong>Piso a nombre de uno solo.</strong> Que la escritura figure a nombre de uno no impide que sea ganancial si se compró casado y con dinero común."
+    ],
+    "outro": [
+     "Estas mezclas explican muchos conflictos al liquidar. Tienes más casos en nuestra entrada sobre si la herencia es privativa o ganancial."
+    ]
+   },
+   {
+    "overline": "Al fallecer",
+    "h2": "Cómo se reparten los bienes gananciales al morir un cónyuge",
+    "type": "steps",
+    "intro": [
+     "La muerte disuelve la sociedad de gananciales, según el artículo 1392. A partir de ahí, el reparto sigue un orden."
+    ],
+    "items": [
+     {
+      "t": "Se liquida la sociedad",
+      "p": "Se hace inventario del activo y del pasivo comunes. La mitad del haber neto es del viudo por derecho propio, no por herencia."
+     },
+     {
+      "t": "La otra mitad entra en la herencia",
+      "p": "Se suma a los bienes privativos del fallecido y se reparte según el testamento o, sin él, según la ley."
+     },
+     {
+      "t": "El viudo recibe además su legítima",
+      "p": "Con hijos, el artículo 834 le da el usufructo del tercio de mejora. Es decir, el usufructo de un tercio de la mitad del fallecido."
+     },
+     {
+      "t": "Nace el proindiviso",
+      "p": "Si nadie se adjudica el piso entero, viudo e hijos quedan como copropietarios por cuotas, a veces con usufructo y nuda propiedad mezclados."
+     }
+    ],
+    "outro": [
+     "Mientras no se liquida, existe una comunidad postganancial que bloquea las decisiones sobre cada bien. Lo explicamos en la entrada de liquidación de gananciales del diccionario."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 180.000 euros, una viuda y dos hijos",
+    "type": "text",
+    "intro": [
+     "Un matrimonio en gananciales compró su piso, hoy valorado en 180.000 euros. Fallece el marido sin testamento y deja viuda y dos hijos. Al liquidar los bienes gananciales, la viuda conserva su mitad: 90.000 euros en pleno dominio.",
+     "La otra mitad, también de 90.000 euros, forma la herencia. La viuda recibe el usufructo de un tercio de esa mitad, que equivale a 30.000 euros del piso. Los hijos reciben el resto: cada uno queda con un 25 % del piso, una parte en nuda propiedad y otra en pleno dominio.",
+     "Resultado: tres copropietarios con cuotas distintas y un usufructo encima. Si un hijo quiere irse, necesita a los otros dos o vender su cuota. Por ejemplo, su 25 % vale menos que 45.000 euros en el mercado, porque el comprador asume el usufructo y la copropiedad."
+    ]
+   },
+   {
+    "overline": "Divorcio",
+    "h2": "Y en un divorcio, qué pasa con los bienes gananciales",
+    "type": "text",
+    "intro": [
+     "El divorcio también disuelve la sociedad. Los ex pueden liquidarla de mutuo acuerdo ante notario o en el convenio regulador, y entonces uno se queda el piso y compensa al otro. Si no hay acuerdo, cualquiera puede pedir la liquidación judicial. Hasta que se liquida, ninguno puede vender por separado su mitad de un bien concreto.",
+     "Muchas parejas adjudican el piso a los dos por mitad y cierran así la liquidación. En ese caso pasa a ser un proindiviso ordinario al 50 %, con la complicación añadida de que el uso puede estar atribuido a uno de ellos por los hijos. Por eso conviene leer nuestra guía de venta de un proindiviso por divorcio antes de decidir."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Gananciales frente a figuras parecidas",
+    "type": "table",
+    "intro": [
+     "Cuatro conceptos se confunden a menudo con los gananciales. Esta es la diferencia clave de cada uno."
+    ],
+    "items": [
+     [
+      "Término",
+      "Diferencia clave"
+     ],
+     [
+      "Bienes privativos",
+      "Pertenecen a un solo cónyuge: los anteriores a la boda y los heredados o donados."
+     ],
+     [
+      "Separación de bienes",
+      "Cada cónyuge es dueño de lo suyo. Un piso comprado a medias es un proindiviso desde el primer día."
+     ],
+     [
+      "Comunidad postganancial",
+      "Situación transitoria entre la disolución y la liquidación. Nadie puede disponer de bienes concretos por su cuenta."
+     ],
+     [
+      "Liquidación de gananciales",
+      "Operación que reparte el patrimonio común y pone fin a la comunidad."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Si te ha tocado una parte del piso",
+    "type": "callout",
+    "intro": [
+     "Cuando la herencia o la liquidación ya están hechas y el piso queda en proindiviso, puedes vender tu cuota sin el permiso de los demás. Compramos cuotas de pisos con usufructo, con hipoteca o con uso atribuido, y pagamos entre el 40 % y el 70 % del valor proporcional."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría y gestión a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Un piso comprado antes de casarse es ganancial?",
+    "En principio es privativo de quien lo compró. Pero si la hipoteca se pagó durante el matrimonio con dinero común, la sociedad tiene derecho a una parte proporcional. Si es la vivienda familiar, esa parte pasa a ser ganancial en proindiviso con el cónyuge comprador."
+   ],
+   [
+    "¿Qué parte del piso ganancial hereda el viudo?",
+    "El viudo no hereda su mitad: ya era suya por la sociedad de gananciales. De la otra mitad, si hay hijos, recibe por ley el usufructo de un tercio. Con testamento puede recibir más, según lo que disponga el causante y la normativa de cada territorio."
+   ],
+   [
+    "¿Puedo vender mi mitad de un bien ganancial antes de liquidar?",
+    "No de forma aislada. Mientras la sociedad no se liquida, cada cónyuge o sus herederos tienen una cuota sobre el conjunto, no sobre un piso concreto. Primero hay que liquidar y adjudicar; después, tu cuota del piso sí se puede vender sin permiso de los demás."
+   ],
+   [
+    "¿Cuánto cuesta liquidar los gananciales ante notario?",
+    "De forma orientativa, entre 600 y 1.500 euros de notaría y Registro, según el valor y el número de bienes. Las adjudicaciones a los cónyuges en pago de su haber ganancial suelen estar exentas del impuesto de transmisiones, salvo excesos de adjudicación, según el caso."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los bienes gananciales",
+  "related": [
+   [
+    "Liquidación de gananciales",
+    "/diccionario-del-proindiviso/liquidacion-de-gananciales/"
+   ],
+   [
+    "Comunidad postganancial",
+    "/diccionario-del-proindiviso/comunidad-postganancial/"
+   ],
+   [
+    "Bienes privativos",
+    "/diccionario-del-proindiviso/bienes-privativos/"
+   ],
+   [
+    "La herencia, ¿privativa o ganancial?",
+    "/blog/la-herencia-es-privativa-o-ganancial/"
+   ],
+   [
+    "Vender un proindiviso por divorcio",
+    "/vender-proindiviso-divorcio/"
+   ]
+  ],
+  "cta_title": "Sal del piso compartido en semanas",
+  "cta_text": "Compramos tu cuota con fondos propios, con o sin usufructo. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Bienes gananciales: qué son y cómo se reparten al fallecer",
+  "meta_desc": "Los bienes gananciales son del matrimonio a medias. Cómo se reparten al morir un cónyuge o en un divorcio y por qué el piso acaba en proindiviso.",
+  "focus_kw": "bienes gananciales",
+  "title_corto": "Bienes gananciales",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm late afternoon light: a small dining nook in a 1980s Spanish apartment with two matching wooden chairs at a round table, a ceramic fruit bowl, net curtains on a window overlooking a residential street, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Bienes gananciales: rincón de comedor con dos sillas iguales en un piso español"
+ },
+ {
+  "slug": "cedula-de-habitabilidad",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Cédula de habitabilidad: qué es y qué pasa si tu casa heredada no la tiene",
+  "sub": "La cédula de habitabilidad es el documento administrativo que acredita que una vivienda cumple las condiciones mínimas para vivir en ella: superficie, ventilación, luz, agua, saneamiento e instalaciones. Solo la exigen algunas comunidades autónomas, y en ellas puede frenar la venta o el alquiler de una casa heredada. Si tu parte está en una vivienda sin cédula, también te damos precio por ella.",
+  "checks": [
+   "Mapa por comunidades",
+   "Coste y trámite reales",
+   "Compramos tu parte igual"
+  ],
+  "card_title": "¿Tu casa heredada no tiene cédula?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, con la casa tal como está y sin esperar a regularizarla.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la cédula de habitabilidad y quién la expide",
+    "type": "text",
+    "intro": [
+     "La cédula de habitabilidad certifica que una vivienda reúne los requisitos mínimos que fija la comunidad autónoma. Hay dos tipos: la de primera ocupación, para obra nueva o gran rehabilitación, y la de segunda ocupación, para viviendas usadas. La expide el órgano de vivienda autonómico o, en algunos sitios, el ayuntamiento.",
+     "Para pedirla, un técnico visita la casa y firma un certificado de habitabilidad. Después se presenta con la tasa correspondiente. La vigencia varía: en Cataluña, por ejemplo, la de segunda ocupación dura quince años y la de primera ocupación, veinticinco. Al caducar, hay que renovarla.",
+     "No es lo mismo que la licencia municipal de primera ocupación ni que el certificado energético. Son tres papeles distintos, aunque a veces se piden juntos."
+    ]
+   },
+   {
+    "overline": "Dónde se exige",
+    "h2": "En qué comunidades es obligatoria",
+    "type": "table",
+    "intro": [
+     "El mapa cambia con frecuencia, así que tómalo como orientativo y confirma en tu comunidad autónoma antes de firmar."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Comunidades autónomas"
+     ],
+     [
+      "Cédula exigida para vender o alquilar vivienda usada",
+      "Cataluña, Baleares, Navarra, Asturias, Cantabria, Extremadura, La Rioja, Murcia y Canarias"
+     ],
+     [
+      "Documento equivalente de segunda ocupación",
+      "Comunidad Valenciana, con declaración responsable o licencia de segunda ocupación"
+     ],
+     [
+      "Sin cédula para vivienda usada",
+      "Madrid, Andalucía, Galicia, País Vasco, Aragón, Castilla-La Mancha y Castilla y León, entre otras"
+     ]
+    ],
+    "outro": [
+     "Donde se exige, sirve también para dar de alta el agua y la luz y para alquilar de forma legal. En Cataluña, además, el notario la pide en la compraventa y el registrador no inscribe si no se cumple esa obligación."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se obtiene la cédula de habitabilidad paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Visita del técnico",
+      "p": "Un arquitecto o arquitecto técnico comprueba superficie, alturas, ventilación, iluminación, cocina, baño e instalaciones."
+     },
+     {
+      "t": "Certificado técnico",
+      "p": "Si la vivienda cumple, emite el certificado de habitabilidad. Si no, indica qué obras faltan."
+     },
+     {
+      "t": "Solicitud y tasa",
+      "p": "Se presenta en el organismo de vivienda de la comunidad, normalmente por vía telemática, con la tasa autonómica."
+     },
+     {
+      "t": "Resolución",
+      "p": "La Administración expide la cédula en unas semanas, según comunidad. En algunas se puede avanzar con el justificante de solicitud."
+     }
+    ],
+    "outro": [
+     "El coste orientativo suma el técnico, entre 100 y 300 euros en un piso estándar, y la tasa, que suele ser de unas decenas de euros. En casas antiguas y grandes, el técnico cobra más."
+    ]
+   },
+   {
+    "overline": "Casa heredada",
+    "h2": "Qué pasa si la casa heredada no tiene cédula",
+    "type": "text",
+    "intro": [
+     "Heredar una casa sin cédula no impide aceptar la herencia ni inscribirla. En Cataluña, por ejemplo, la exigencia no se aplica a herencias ni donaciones, sino a las transmisiones con precio, como la compraventa. El problema llega cuando los herederos quieren vender o alquilar.",
+     "Si la casa cumple los mínimos, basta con encargar la cédula. Sin embargo, muchas casas de pueblo heredadas no los cumplen: falta un baño completo, los techos son bajos o las instalaciones están obsoletas. En ese caso, o se hacen obras o se vende sin cédula cuando la norma lo permite. En Cataluña el comprador puede eximir al vendedor solo por causas tasadas, como que la vivienda se vaya a rehabilitar o a derribar.",
+     "Entre hermanos, además, el coste de la cédula se reparte por cuotas como cualquier gasto necesario. Y si uno se niega a pagarlo, la venta conjunta se atasca."
+    ]
+   },
+   {
+    "overline": "Tu parte",
+    "h2": "Cómo afecta la cédula de habitabilidad a la venta de tu parte",
+    "type": "text",
+    "intro": [
+     "Cuando vendes tu cuota, no vendes la vivienda entera, pero el comprador adquiere un porcentaje de una casa que quizá no se pueda alquilar ni ocupar legalmente. Eso pesa en el precio. Por ejemplo, la mitad de una casa de 180.000 euros sin cédula y con obras pendientes vale menos que la mitad de un piso listo para alquilar.",
+     "Nosotros compramos cuotas de viviendas con y sin cédula de habitabilidad, siempre dentro de lo que permite la normativa de cada comunidad. Valoramos el estado real de la casa, descontamos lo que cueste regularizarla y nos encargamos después del trámite. Para ti, la venta no depende de que tus hermanos paguen al técnico."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "La cédula frente a otros papeles de la vivienda",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Licencia de primera ocupación",
+      "p": "La concede el ayuntamiento al terminar una obra nueva y acredita que se ajusta a la licencia de obras. No sustituye a la cédula donde esta se exige.",
+      "url": "/diccionario-del-proindiviso/licencia-de-primera-ocupacion/",
+      "cta": "Ver la licencia →"
+     },
+     {
+      "t": "Certificado energético",
+      "p": "Califica el consumo de la vivienda y es obligatorio en toda España para vender o alquilar, también al vender una cuota.",
+      "url": "/blog/certificado-energetico-para-vender-mi-parte/",
+      "cta": "Ver el certificado →"
+     },
+     {
+      "t": "Inspección técnica de edificios",
+      "p": "Revisa el estado del edificio completo, no de cada vivienda. Su resultado puede obligar a la comunidad a hacer obras y derramas.",
+      "url": "/diccionario-del-proindiviso/inspeccion-tecnica-de-edificios/",
+      "cta": "Ver la ITE →"
+     },
+     {
+      "t": "Declaración de obra nueva",
+      "p": "Inscribe en el Registro una construcción o una ampliación. Una casa con obra sin declarar puede tener cédula y, aun así, problemas registrales.",
+      "url": "/diccionario-del-proindiviso/declaracion-de-obra-nueva/",
+      "cta": "Ver obra nueva →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte sin regularizar antes la casa",
+    "type": "callout",
+    "intro": [
+     "Si tu cuota está en una casa sin cédula, con obras pendientes o con hermanos que no se ponen de acuerdo, te damos una oferta igual. Pagamos entre el 40 % y el 70 % del valor proporcional, según estado, ubicación y ocupación."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la casa",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría y gestión a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender una casa sin cédula de habitabilidad?",
+    "Depende de la comunidad. Donde no se exige, la venta es normal. En Cataluña y otras comunidades que la piden, el notario la exige en la compraventa, aunque el comprador puede eximir al vendedor en casos tasados, como una rehabilitación. Consulta tu caso antes de firmar arras."
+   ],
+   [
+    "¿Cuánto cuesta sacar la cédula de habitabilidad?",
+    "De forma orientativa, entre 120 y 400 euros sumando el técnico y la tasa autonómica en un piso estándar. Si la vivienda necesita obras para cumplir los mínimos, ese coste va aparte y puede ser muy superior."
+   ],
+   [
+    "¿Hace falta cédula para aceptar una herencia?",
+    "No. La aceptación y la adjudicación de la herencia se escrituran e inscriben sin cédula. La exigencia aparece después, cuando los herederos quieren vender, alquilar o contratar suministros en una comunidad que la pide."
+   ],
+   [
+    "¿Quién paga la cédula si la casa es de varios hermanos?",
+    "En principio se trata como un gasto necesario de la cosa común, así que se reparte según la cuota de cada uno, como prevé el artículo 395 del Código Civil. Si uno adelanta el pago, puede reclamar a los demás su parte."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la cédula de habitabilidad",
+  "related": [
+   [
+    "Licencia de primera ocupación",
+    "/diccionario-del-proindiviso/licencia-de-primera-ocupacion/"
+   ],
+   [
+    "Certificado energético para vender tu parte",
+    "/blog/certificado-energetico-para-vender-mi-parte/"
+   ],
+   [
+    "Casa heredada sin licencia o fuera de ordenación",
+    "/blog/casa-heredada-sin-licencia-o-fuera-de-ordenacion/"
+   ],
+   [
+    "Casa del pueblo heredada entre hermanos",
+    "/blog/casa-del-pueblo-heredada-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "Tu cuota tiene comprador, con papeles o sin ellos",
+  "cta_text": "Compramos partes de casas y pisos heredados con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Cédula de habitabilidad: dónde se exige y cómo sacarla",
+  "meta_desc": "La cédula de habitabilidad acredita que una vivienda cumple los mínimos. En qué comunidades se exige, cuánto cuesta y qué pasa al vender tu parte heredada.",
+  "focus_kw": "cédula de habitabilidad",
+  "title_corto": "Cédula de habitabilidad",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft side light from a small window: an old village kitchen in inland Spain with patterned wall tiles, a stone sink under a small wooden window, an old enamel gas cooker and a bare bulb hanging from the ceiling, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Cédula de habitabilidad: cocina antigua de una casa de pueblo heredada en España"
+ },
+ {
+  "slug": "comprobacion-de-valores",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Comprobación de valores: qué es y cómo recurrirla si heredas o compras",
+  "sub": "La comprobación de valores es el procedimiento con el que Hacienda revisa el valor que declaraste de un inmueble en el impuesto de sucesiones o en el ITP y, si lo considera bajo, lo sustituye por otro y te reclama la diferencia. Desde 2022, en muchos casos el punto de partida es el valor de referencia del Catastro. Si heredas una cuota y quieres venderla, una comprobación pendiente no impide que te demos precio en 48 horas.",
+  "checks": [
+   "Plazos y recursos claros",
+   "Ejemplo con cifras",
+   "Compramos tu parte igual"
+  ],
+  "card_title": "¿Hacienda te ha subido el valor?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, aunque tengas una comprobación abierta.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la comprobación de valores y qué ley la regula",
+    "type": "text",
+    "intro": [
+     "La Ley General Tributaria permite a la Administración comprobar el valor de los bienes declarados. El artículo 57 enumera los medios: precios medios de mercado, coeficientes sobre el valor catastral, dictamen de peritos o tasación hipotecaria, entre otros. Después, el artículo 134 regula el procedimiento: Hacienda notifica una propuesta de valoración motivada y abre un plazo de alegaciones.",
+     "En sucesiones, donaciones y transmisiones, la comprobación de valores la hace la comunidad autónoma, que gestiona esos impuestos. Tiene cuatro años para hacerlo desde que termina el plazo de declaración. Por tanto, una herencia declarada hace tres años todavía puede recibir una carta."
+    ]
+   },
+   {
+    "overline": "Valor de referencia",
+    "h2": "El valor de referencia del Catastro: lo que cambió en 2022",
+    "type": "text",
+    "intro": [
+     "Desde el 1 de enero de 2022, la base imponible de sucesiones, donaciones e ITP es el valor de referencia del Catastro cuando el inmueble lo tiene. Si declaras menos, la comunidad autónoma no necesita una comprobación de valores: aplica el valor de referencia y liquida la diferencia.",
+     "Si declaras un valor igual o superior, en general se respeta lo declarado. Además, quedan fuera los inmuebles sin valor de referencia asignado, como muchas fincas rústicas con construcciones; ahí sigue mandando la comprobación clásica.",
+     "Para impugnar el valor de referencia hay que pedir la rectificación de la autoliquidación o recurrir la liquidación. En ambos casos, el Catastro emite un informe vinculante. El Tribunal Constitucional ha avalado el sistema precisamente porque admite prueba en contra."
+    ]
+   },
+   {
+    "overline": "Procedimiento",
+    "h2": "Cómo llega la propuesta y qué plazos tienes",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Propuesta de valoración",
+      "p": "Recibes una carta con el nuevo valor y el método usado. Debe explicar por qué tu valor es bajo; una motivación genérica es recurrible."
+     },
+     {
+      "t": "Alegaciones",
+      "p": "Tienes un plazo breve, normalmente de 10 a 15 días hábiles, para aportar una tasación, fotos del estado del inmueble u otras pruebas."
+     },
+     {
+      "t": "Liquidación",
+      "p": "Hacienda resuelve y te notifica la cuota extra con intereses de demora. Si declaraste todos los bienes y solo discrepa del valor, lo habitual es que no haya sanción."
+     },
+     {
+      "t": "Recurso",
+      "p": "Desde la notificación tienes un mes para el recurso de reposición o la reclamación económico-administrativa. En ese mismo plazo puedes pedir la tasación pericial contradictoria."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de comprobación de valores en una herencia entre hermanos",
+    "type": "text",
+    "intro": [
+     "Tres hermanos heredan una casa de pueblo con huerto en suelo rústico, sin valor de referencia. La declaran por 120.000 euros, según una tasación con visita. Dos años después, la comunidad autónoma aplica un coeficiente sobre el valor catastral y propone 165.000 euros.",
+     "Son 45.000 euros más de base, 15.000 por hermano. Con un tipo marginal cercano al 12 %, cada uno pagaría unos 1.800 euros más, con intereses, orientativo y según comunidad autónoma. En regiones con bonificación casi total para hijos, la diferencia se reduce mucho.",
+     "La doctrina del Tribunal Supremo exige que la valoración se refiera al inmueble concreto. Un coeficiente genérico, sin justificar el estado real de la casa, no basta por sí solo. Con su tasación y fotos del inmueble, los hermanos tienen argumentos para recurrir esa comprobación de valores."
+    ]
+   },
+   {
+    "overline": "Si vendes",
+    "h2": "Qué significa si quieres vender tu parte",
+    "type": "text",
+    "intro": [
+     "Una comprobación de valores pendiente no impide vender tu cuota. La deuda tributaria es personal tuya. Aun así, el inmueble queda afecto al pago del impuesto durante cinco años, y por eso el Registro anota una nota de afección fiscal que cualquier comprador serio revisa.",
+     "Por otro lado, el valor comprobado tiene una cara positiva. Si Hacienda sube el valor de la herencia y pagas por él, ese mayor valor cuenta como valor de adquisición en el IRPF cuando vendas. Así, la ganancia patrimonial baja. Es un matiz que conviene tener presente antes de decidir si recurres."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Comprobación de valores frente a términos parecidos",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Valor de referencia",
+      "p": "Valor objetivo que fija el Catastro para cada inmueble urbano. Sustituye a la comprobación cuando declaras por debajo.",
+      "url": "/blog/valor-de-referencia-catastral-venta-de-tu-parte/",
+      "cta": "Ver valor de referencia →"
+     },
+     {
+      "t": "Tasación pericial contradictoria",
+      "p": "Vía para enfrentar la valoración de Hacienda con la de tu propio perito, con efecto suspensivo y sin aval.",
+      "url": "/diccionario-del-proindiviso/tasacion-pericial-contradictoria/",
+      "cta": "Ver tasación contradictoria →"
+     },
+     {
+      "t": "Valor catastral",
+      "p": "Valor administrativo para el IBI, normalmente muy por debajo del mercado. Hacienda lo multiplica por coeficientes para comprobar.",
+      "url": "/diccionario-del-proindiviso/valor-catastral/",
+      "cta": "Ver valor catastral →"
+     },
+     {
+      "t": "Nota de afección fiscal",
+      "p": "Anotación en el Registro que garantiza el pago del impuesto durante cinco años, por si llega una liquidación posterior.",
+      "url": "/diccionario-del-proindiviso/afeccion-fiscal/",
+      "cta": "Ver afección fiscal →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "¿Tienes una herencia con valores en discusión?",
+    "type": "callout",
+    "intro": [
+     "Si heredaste una cuota y no quieres seguir pagando impuestos y gastos por un inmueble compartido, compramos tu parte aunque haya una comprobación abierta. Pagamos entre el 40 % y el 70 % del valor proporcional, con fondos propios."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría y gestión a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tiempo tiene Hacienda para hacer una comprobación de valores?",
+    "Cuatro años desde que termina el plazo voluntario de presentación del impuesto. En sucesiones ese plazo es de seis meses desde el fallecimiento, así que la prescripción llega, en general, a los cuatro años y seis meses si no hay interrupciones."
+   ],
+   [
+    "¿Merece la pena recurrir una comprobación de valores?",
+    "Compensa cuando la diferencia es grande y la motivación es genérica, por ejemplo un coeficiente sin visitar el inmueble. Con una tasación singular, fotos del estado real y comparables, las posibilidades mejoran. Si la diferencia es pequeña, el coste del perito puede no salir a cuenta."
+   ],
+   [
+    "¿Me pueden sancionar por una comprobación de valores?",
+    "Si declaraste todos los bienes y solo discrepas del valor, lo habitual es que pagues la diferencia y los intereses de demora, sin sanción. La situación cambia si ocultaste bienes o declaraste valores claramente ficticios."
+   ],
+   [
+    "¿Qué pasa si declaro por debajo del valor de referencia?",
+    "La comunidad autónoma aplica directamente el valor de referencia del Catastro y te liquida la diferencia con intereses. Para discutirlo debes pedir la rectificación o recurrir la liquidación, con un informe del Catastro y pruebas del valor real del inmueble."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la comprobación de valores",
+  "related": [
+   [
+    "Tasación pericial contradictoria",
+    "/diccionario-del-proindiviso/tasacion-pericial-contradictoria/"
+   ],
+   [
+    "Valor de referencia y venta de tu parte",
+    "/blog/valor-de-referencia-catastral-venta-de-tu-parte/"
+   ],
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "ITP al comprar la parte de un piso",
+    "/blog/itp-al-comprar-la-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Cierra la herencia vendiendo tu parte",
+  "cta_text": "Compramos cuotas de inmuebles heredados con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Comprobación de valores: qué es, plazos y cómo recurrirla",
+  "meta_desc": "La comprobación de valores permite a Hacienda subir el valor de tu herencia o compra. Plazos, valor de referencia y cómo recurrir; si vendes tu parte, te ayudamos.",
+  "focus_kw": "comprobación de valores",
+  "title_corto": "Comprobación de valores",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, late morning light: a row of similar mid-rise apartment blocks in a Spanish residential neighbourhood seen from across a wide tree-lined avenue, uniform balconies and awnings, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Comprobación de valores: bloques de viviendas parecidos en un barrio residencial español"
+ }
+]

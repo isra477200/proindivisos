@@ -1,0 +1,290 @@
+[
+ {
+  "slug": "extincion-de-condominio-andalucia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos en Andalucía",
+  "h1": "Extinción de condominio en Andalucía: impuestos y gastos en 2026",
+  "sub": "La extinción de condominio en Andalucía tributa por AJD al 1,2 % y solo sobre la parte que adquiere quien se queda el inmueble. Si prefieres vender tu cuota, el ITP del 7 % lo paga el comprador. Nosotros compramos tu parte con fondos propios y te damos precio por escrito en 48 horas.",
+  "checks": [
+   "Tipos de 2026 verificados",
+   "Ejemplo con cifras reales",
+   "Compramos tu cuota"
+  ],
+  "card_title": "¿Tu proindiviso está en Andalucía?",
+  "card_text": "Dinos dónde está el inmueble y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "AJD",
+    "h2": "Qué impuesto paga la extinción de condominio en Andalucía",
+    "type": "text",
+    "intro": [
+     "La extinción de condominio en Andalucía tributa por Actos Jurídicos Documentados (AJD), no por Transmisiones Patrimoniales. En 2026 el tipo general es del 1,2 %, según el artículo 49 de la Ley 5/2021 de Tributos Cedidos. Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás.",
+     "La base imponible no es el valor de todo el piso. Según la doctrina del Tribunal Supremo desde 2018, solo cuenta el valor de la parte que adquiere el adjudicatario. Por ejemplo, si te quedas la mitad de tu hermano, tributas por esa mitad. Como referencia mínima, Hacienda usa el valor de referencia del Catastro cuando existe.",
+     "Además, la extinción de condominio en Andalucía no tiene una regla propia distinta de la estatal. Por tanto, se aplican el tipo general y, en su caso, los reducidos. La autoliquidación se presenta con el modelo 600 ante la Agencia Tributaria de Andalucía, y la notaría suele encargarse del trámite."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla de impuestos del proindiviso en Andalucía (2026)",
+    "type": "table",
+    "intro": [
+     "Cada salida del proindiviso activa un impuesto distinto. Esta tabla resume los tipos vigentes en 2026 y quién los paga."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Impuesto y tipo en 2026",
+      "Quién paga"
+     ],
+     [
+      "Extinción de condominio.",
+      "AJD del 1,2 % sobre la parte que adquieres.",
+      "Quien se queda el inmueble."
+     ],
+     [
+      "Vivienda habitual con requisitos.",
+      "AJD reducido del 1 %, 0,3 % o 0,1 % según el caso y el valor.",
+      "El adquirente, si cumple los límites."
+     ],
+     [
+      "Venta de tu cuota a un tercero.",
+      "ITP del 7 %, o reducido en vivienda habitual de ciertos colectivos.",
+      "El comprador."
+     ],
+     [
+      "Herencia de la cuota.",
+      "Sucesiones con bonificación del 99 % para hijos, cónyuge y padres.",
+      "Cada heredero."
+     ],
+     [
+      "Plusvalía municipal.",
+      "Solo si vendes a un tercero. Fija el importe tu ayuntamiento.",
+      "Quien vende."
+     ],
+     [
+      "IRPF.",
+      "Ganancia patrimonial en la base del ahorro, si vendes con beneficio.",
+      "Quien vende."
+     ]
+    ]
+   },
+   {
+    "overline": "Tipos reducidos",
+    "h2": "Cuándo podrías pagar menos AJD en Andalucía",
+    "type": "cards",
+    "intro": [
+     "La ley andaluza fija tipos reducidos para la compra de vivienda habitual. Se pensaron para compraventas, así que en una extinción conviene confirmar con la notaría si tu caso encaja."
+    ],
+    "items": [
+     {
+      "t": "Vivienda habitual hasta 150.000 €",
+      "p": "El tipo baja al 1 % si el inmueble será tu vivienda habitual y su valor real no supera 150.000 €."
+     },
+     {
+      "t": "Menores de 35 años",
+      "p": "Si tienes menos de 35 años y la vivienda no supera 150.000 €, el tipo es del 0,3 %. También se aplica a víctimas de violencia doméstica o terrorismo y a municipios con despoblación."
+     },
+     {
+      "t": "Discapacidad o familia numerosa",
+      "p": "El tipo cae al 0,1 % con un límite de 250.000 €. Desde 2026 basta con que la discapacidad afecte a alguien de tu núcleo familiar que viva en la casa."
+     },
+     {
+      "t": "Pide confirmación antes de firmar",
+      "p": "Estos tipos exigen requisitos de valor y de uso. Por eso conviene pedir a la notaría que revise tu caso con el criterio de la Agencia Tributaria de Andalucía.",
+      "url": "/extincion-de-condominio/impuestos-y-notario/",
+      "cta": "Impuestos y notaría →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de extinción de condominio en Andalucía con un piso de 200.000 €",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos heredan a partes iguales un piso en Sevilla con un valor de referencia de 200.000 €. Uno quiere quedárselo y el otro prefiere cobrar. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base del impuesto: 100.000 €",
+      "p": "Quien se queda el piso adquiere la mitad de su hermano. Por eso la base es de 100.000 € y no de 200.000 €."
+     },
+     {
+      "t": "AJD a pagar: 1.200 €",
+      "p": "Al 1,2 % general, la extinción de condominio en Andalucía cuesta 1.200 € de impuesto. Después hay que sumar notaría y Registro."
+     },
+     {
+      "t": "Compensación: 100.000 €",
+      "p": "El adjudicatario paga a su hermano el valor de su mitad. Si no tiene ahorros, necesita una hipoteca, y el banco estudiará su solvencia."
+     },
+     {
+      "t": "Alternativa: vender la mitad",
+      "p": "Si no hay acuerdo o dinero, el hermano que quiere salir puede vendernos su 50 %. Pagamos entre el 40 % y el 70 % del valor proporcional, es decir, de 40.000 a 70.000 €. El ITP del 7 %, unos 7.000 €, corre de nuestra cuenta."
+     }
+    ],
+    "outro": [
+     "Puedes repetir el cálculo con tus cifras en el <a href=\"/simulador-extincion-de-condominio/\">simulador de extinción de condominio</a>."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Si la cuota viene de una herencia: sucesiones en Andalucía",
+    "type": "list",
+    "intro": [
+     "Muchos proindivisos andaluces nacen de una herencia. Antes de extinguir o vender, cada heredero liquida el impuesto de sucesiones, aunque en Andalucía suele salir muy bajo."
+    ],
+    "items": [
+     "<strong>Hijos, cónyuge y padres.</strong> Tienen una reducción de 1.000.000 € y, además, una bonificación del 99 % de la cuota. En la práctica, casi nadie de este grupo paga.",
+     "<strong>Hermanos, sobrinos y tíos.</strong> Solo tienen una reducción de 10.000 € y un coeficiente de 1,5. La tarifa andaluza va del 7 % al 26 %, así que aquí sí puede salir una cuota relevante.",
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 99 % sin límite de importe, siempre que conserves la vivienda 3 años.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Se presenta con el modelo 650."
+    ],
+    "outro": [
+     "Si te cuesta pagar el impuesto, en nuestra guía sobre <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> tienes las opciones."
+    ]
+   },
+   {
+    "overline": "Plusvalía e IRPF",
+    "h2": "Plusvalía municipal e IRPF tras la extinción de condominio en Andalucía",
+    "type": "text",
+    "intro": [
+     "La plusvalía municipal y el IRPF son estatales, así que funcionan igual en Sevilla que en Málaga o Almería. Con carácter general, la extinción de condominio en Andalucía no genera plusvalía municipal. Tampoco suele haber ganancia en el IRPF, porque no se considera una venta sino una concreción de lo que ya era tuyo.",
+     "En cambio, si vendes tu cuota a un tercero, sí aparecen los dos. Pagas plusvalía a tu ayuntamiento y declaras la ganancia en la renta, si la hay. Puedes estimarlo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Para el detalle, revisa nuestras guías sobre el <a href=\"/blog/extincion-de-condominio-irpf-ganancia-patrimonial/\">IRPF en la extinción de condominio</a> y sobre la <a href=\"/blog/plusvalia-municipal-al-vender-mi-parte-heredada/\">plusvalía al vender tu parte heredada</a>. Cada caso tiene matices, así que consulta el tuyo."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "h2": "¿Extinción de condominio en Andalucía o vender tu cuota?",
+    "type": "callout",
+    "intro": [
+     "La extinción de condominio en Andalucía es barata en impuestos, pero exige acuerdo y dinero para compensar. Si falta alguno de los dos, vender tu parte es la salida rápida. Compramos cuotas en las ocho provincias, también en tu <a href=\"/vender-proindiviso/andalucia/\">provincia de Andalucía</a>."
+    ],
+    "items": {
+     "t": "Te damos precio por tu cuota en 48 horas",
+     "p": "Oferta por escrito, firma en notaría en 2-4 semanas y pago al contado. Notaría, gestión e ITP corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.juntadeandalucia.es/organismos/atrian.html\">Agencia Tributaria de Andalucía</a>. Presentación de los modelos 600 y 650, plazos y consultas.",
+     "<a href=\"https://www.boe.es/eli/es-an/l/2021/10/20/5/con\">Ley 5/2021 de Tributos Cedidos de Andalucía (BOE, texto consolidado)</a>. Tipos de AJD e ITP y beneficios de sucesiones.",
+     "<a href=\"https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Financiacion%20Autonomica/Paginas/tributacion-autonomica-2026.aspx\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Recopilación oficial de los tipos y beneficios vigentes en cada comunidad, actualizada a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto se paga por una extinción de condominio en Andalucía?",
+    "En 2026 pagas un 1,2 % de AJD sobre el valor de la parte que adquieres, no sobre el total. Con un piso de 200.000 € al 50 %, son unos 1.200 €. A eso se suman notaría, Registro y, si la necesitas, la hipoteca."
+   ],
+   [
+    "¿Quién paga el AJD de la extinción de condominio?",
+    "Lo paga quien se queda el inmueble, porque es quien adquiere la parte de los demás. Se presenta con el modelo 600 ante la Agencia Tributaria de Andalucía. Podéis pactar otro reparto entre vosotros, pero Hacienda se lo reclama al adjudicatario."
+   ],
+   [
+    "¿Hay que pagar plusvalía municipal en una extinción de condominio?",
+    "Con carácter general, no, porque la extinción no se considera una transmisión. Sí la pagas si vendes tu cuota a un tercero o a una empresa. Aun así, cada ayuntamiento revisa el caso, así que conviene consultarlo."
+   ],
+   [
+    "¿Cuánto paga de sucesiones un hijo que hereda una casa en Andalucía?",
+    "Muy poco o nada en la mayoría de casos. Hijos, cónyuge y padres tienen una reducción de 1.000.000 € y una bonificación del 99 % de la cuota. Además, la vivienda habitual del fallecido se reduce un 99 % si la conservas tres años."
+   ],
+   [
+    "¿Qué ITP paga una empresa que compra mi cuota en Andalucía?",
+    "El tipo general es del 7 % y lo paga siempre el comprador, nunca quien vende. Si nos vendes tu parte, ese impuesto corre de nuestra cuenta, igual que la notaría y la gestión. Tú solo declaras en el IRPF la ganancia, si existe."
+   ],
+   [
+    "¿Puedo aplicar el tipo reducido de AJD si el piso será mi vivienda habitual?",
+    "Los tipos reducidos andaluces se pensaron para la compra de vivienda habitual y tienen límites de valor de 150.000 o 250.000 €. En una extinción, la notaría y la Agencia Tributaria de Andalucía revisarán si cumples los requisitos. Pide confirmación antes de firmar."
+   ]
+  ],
+  "faq_title": "Preguntas sobre impuestos del proindiviso en Andalucía",
+  "related": [
+   [
+    "Vender un proindiviso en Andalucía",
+    "/vender-proindiviso/andalucia/"
+   ],
+   [
+    "Extinción de condominio: guía completa",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos de todas las comunidades",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "ITP al comprar la parte de un piso",
+    "/blog/itp-al-comprar-la-parte-de-un-piso/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte en Andalucía?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Extinción de condominio en Andalucía: impuestos 2026",
+  "meta_desc": "Extinción de condominio en Andalucía: AJD del 1,2 %, ITP del 7 % y sucesiones en 2026, con ejemplo. Si prefieres vender tu cuota, te la compramos.",
+  "focus_kw": "extinción de condominio en Andalucía",
+  "title_corto": "Andalucía",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a whitewashed Andalusian courtyard with terracotta floor tiles, potted geraniums hanging on white walls, a wrought iron window grille and a closed dark blue wooden door, soft late afternoon light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Extinción de condominio en Andalucía: patio encalado con macetas y puerta azul",
+  "datos": {
+   "ajd_general": "1,2 %",
+   "ajd_reducidos": "1 % vivienda habitual de valor real ≤150.000 €; 0,3 % menores de 35 años, víctimas de violencia doméstica o terrorismo y municipios con despoblación (≤150.000 €); 0,1 % discapacidad del adquirente o de su núcleo familiar y familia numerosa (≤250.000 €)",
+   "itp_general": "7 %",
+   "itp_reducidos": "6 % vivienda habitual ≤150.000 €; 3,5 % menores de 35 (≤150.000 €), discapacidad en el núcleo familiar (≤250.000 €), familia numerosa (≤250.000 €), víctimas y municipios con despoblación (≤150.000 €); 2 % profesionales inmobiliarios que revenden la vivienda en 2 años (≤500.000 €)",
+   "isd_hijos_conyuge": "Reducción de 1.000.000 € (grupos I y II) y bonificación del 99 % de la cuota",
+   "isd_hermanos": "Reducción de 10.000 € (grupo III), tarifa autonómica del 7 % al 26 % y coeficiente 1,5; sin bonificación",
+   "isd_vivienda_habitual": "Reducción del 99 % sin límite de importe; mantenimiento 3 años",
+   "organismo": "Agencia Tributaria de Andalucía (ATRIAN)",
+   "url_organismo": "https://www.juntadeandalucia.es/organismos/atrian.html"
+  },
+  "fuentes_verificacion": [
+   [
+    "AJD general 1,2 % (art. 49 Ley 5/2021) y reducidos 1 %, 0,3 % y 0,1 % con límites de 150.000/250.000 € (art. 50)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ITP general 7 % (art. 41) y reducidos 6 %, 3,5 % y 2 % (arts. 43 y 44, redacción Ley 8/2025)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "ISD: reducción 1.000.000 € grupos I y II, 10.000 € grupo III, bonificación 99 %, vivienda habitual 99 % sin límite y 3 años, tarifa 7-26 %, coeficiente 1,5 grupo III",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 (Ley 8/2025 y Decreto-ley 1/2026): 3,5 % y 0,1 % ampliados a discapacidad en el núcleo familiar",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Texto consolidado de la Ley 5/2021",
+    "https://www.boe.es/eli/es-an/l/2021/10/20/5/con"
+   ],
+   [
+    "Organismo y web de la Agencia Tributaria de Andalucía",
+    "https://www.juntadeandalucia.es/organismos/atrian.html"
+   ],
+   [
+    "Plazo de sucesiones: 6 meses desde el fallecimiento; prórroga por otros 6 meses si se pide en los 5 primeros (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Reducción estatal grupo III 7.993,46 € y vivienda habitual 95 % con límite 122.606,47 € por heredero (art. 20.2 LISD), referencia cuando la comunidad no mejora",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tipos generales 2026 de AJD e ITP de todas las comunidades (resumen oficial)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-i-tributacion-autonomica-2026.pdf"
+   ]
+  ],
+  "dudas": [
+   "Aplicación de los tipos reducidos de AJD de vivienda habitual (1 %, 0,3 %, 0,1 %) a una extinción de condominio: la ley los prevé para la adquisición de vivienda habitual; no he encontrado criterio 2026 de la ATRIAN que lo confirme para extinciones"
+  ]
+ }
+]

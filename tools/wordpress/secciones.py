@@ -14,9 +14,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 IMGDIR = os.environ.get('ZP_IMGDIR', '/tmp/claude-0/-home-claude/465a46cd-02da-53eb-bb5e-39c7569fb424/scratchpad/img')
 CFG = {
     'fiscal': {'hub': 'impuestos-del-proindiviso', 'files': ['fiscal_hub.json', 'fiscal_1.json', 'fiscal_2.json', 'fiscal_3.json'], 'pref': 'impuestos-proindiviso-'},
-    'modelos': {'hub': 'modelos-documentos-proindiviso', 'files': ['modelos.json'], 'pref': ''},
-    'herramientas': {'hub': None, 'files': ['herramientas.json'], 'pref': ''},
-    'faq': {'hub': None, 'files': ['faq.json'], 'pref': ''},
+    'modelos': {'hub': 'modelos-documentos-proindiviso', 'files': ['modelos.json'], 'pref': 'imagen-'},
+    'herramientas': {'hub': None, 'files': ['herramientas.json'], 'pref': 'imagen-'},
+    'faq': {'hub': None, 'files': ['faq.json'], 'pref': 'imagen-'},
 }
 env = {}
 for l in open(os.path.join(HERE, 'wp.env')):
