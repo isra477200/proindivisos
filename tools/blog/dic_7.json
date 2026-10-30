@@ -1,0 +1,2420 @@
+[
+ {
+  "slug": "actos-de-administracion",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Actos de administración: qué son y quién decide en un proindiviso",
+  "sub": "Los actos de administración son las decisiones para conservar un bien común y sacarle un rendimiento normal, y en un proindiviso se aprueban por mayoría de cuotas. Alquilar el piso, pagar reparaciones o nombrar a quien lo gestiona entran aquí. Si siempre te toca perder la votación, te compramos tu parte sin necesitar la firma de los demás.",
+  "checks": [
+   "Con el artículo 398 del Código Civil",
+   "Ejemplo con tres hermanos",
+   "Compramos tu parte si eres minoría"
+  ],
+  "card_title": "¿Los demás deciden por ti?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin compromiso y sin que el resto de copropietarios tenga que votar ni firmar.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué son los actos de administración según el Código Civil",
+    "type": "text",
+    "intro": [
+     "Los actos de administración son las decisiones para conservar la cosa común y obtener de ella un rendimiento normal. No cambian su naturaleza ni la sacan del patrimonio de los comuneros. El artículo 398 del Código Civil los somete a la mayoría. Pero esa mayoría no se cuenta por cabezas, sino por cuotas: manda quien reúne más de la mitad del valor.",
+     "Si no hay mayoría, o si el acuerdo perjudica gravemente a alguno, cualquier comunero puede acudir al juez. El juez decide lo que proceda e incluso puede nombrar un administrador. En cambio, las alteraciones de la cosa común exigen unanimidad, según el artículo 397. Por eso conviene distinguir bien unos actos de otros antes de votar."
+    ]
+   },
+   {
+    "overline": "Ejemplos",
+    "h2": "Qué decisiones entran y cuáles se quedan fuera",
+    "type": "list",
+    "intro": [
+     "La frontera no siempre es nítida, aunque la práctica de los tribunales ofrece una guía bastante clara. Estos son los casos más habituales."
+    ],
+    "items": [
+     "<strong>Alquilar la vivienda.</strong> Un arrendamiento ordinario entra en los actos de administración. Sin embargo, los tribunales suelen tratarlo como disposición cuando supera los seis años o grava la finca de forma duradera.",
+     "<strong>Reparaciones y mantenimiento.</strong> Cambiar una caldera o arreglar una filtración se aprueba por mayoría. Además, las obras urgentes las puede pagar cualquiera y reclamar después su parte a los demás.",
+     "<strong>Gastos ordinarios.</strong> IBI, cuotas de comunidad, seguro y suministros mínimos se reparten según la cuota de cada uno, como marca el artículo 393.",
+     "<strong>Nombrar un gestor.</strong> La mayoría puede encargar la gestión a un comunero o a un administrador externo, con poderes limitados a esas tareas.",
+     "<strong>Lo que queda fuera.</strong> Vender o hipotecar el inmueble, reformarlo a fondo o cambiar su uso no son actos de administración. Por tanto, necesitan el acuerdo de todos."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un caso con tres hermanos y un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Ana, Luis y Marta heredan a partes iguales un piso valorado en 180.000 euros. Ana y Luis quieren alquilarlo por 750 euros al mes; Marta prefiere dejarlo vacío. Como Ana y Luis suman dos tercios de las cuotas, su acuerdo obliga a Marta. Alquilar a un plazo ordinario forma parte de los actos de administración, así que el contrato vale aunque ella no lo firme.",
+     "La renta se reparte por cuotas: 250 euros brutos al mes para cada hermano. De ahí salen también los gastos: un IBI de 600 euros al año supone 200 euros por cabeza. Marta cobra su parte aunque votara en contra. Además, si el acuerdo le causara un perjuicio grave, podría pedir al juez que lo revise.",
+     "Cambia el reparto a una pareja con el 50 % cada uno. Ahí no hay mayoría posible: cualquier empate bloquea los actos de administración y solo un juez puede desatascarlo. De hecho, los proindivisos al 50 % son los que más se enquistan."
+    ]
+   },
+   {
+    "overline": "Procedimiento",
+    "h2": "Cómo se aprueban los actos de administración paso a paso",
+    "type": "steps",
+    "intro": [
+     "El Código Civil no exige una forma concreta. Aun así, la doctrina pide que todos los comuneros puedan opinar antes de que se vote, y este orden evita discusiones después."
+    ],
+    "items": [
+     {
+      "t": "Informar a todos",
+      "p": "Comunica la propuesta a cada comunero, también al que no quiere saber nada. Un burofax o un correo con acuse deja constancia de que tuvo ocasión de opinar."
+     },
+     {
+      "t": "Votar por cuotas",
+      "p": "Suma los porcentajes a favor. Si superan el 50 % del valor, el acuerdo obliga a todos, incluidos los que votaron en contra o no contestaron."
+     },
+     {
+      "t": "Dejarlo por escrito",
+      "p": "Firma con la mayoría un documento con la fecha y el reparto de gastos e ingresos. Así tendrás una prueba si después hay pleito."
+     },
+     {
+      "t": "Rendir cuentas",
+      "p": "Quien gestiona debe informar de lo que cobra y paga. Si no lo hace, cualquier comunero puede exigirle cuentas o pedir al juez que nombre un administrador."
+     }
+    ],
+    "outro": [
+     "Cuando un comunero vive en el piso, el asunto se complica. La mayoría puede regular el uso, por ejemplo con turnos o una compensación, pero estos conflictos suelen acabar en el juzgado."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Actos de administración frente a otros conceptos",
+    "type": "cards",
+    "intro": [
+     "Estos son los términos con los que más se confunden los actos de administración. Cada uno pide una mayoría distinta."
+    ],
+    "items": [
+     {
+      "t": "Actos de disposición",
+      "p": "Vender, hipotecar o donar el inmueble entero, o alquilarlo a muy largo plazo. Exigen la unanimidad de los comuneros.",
+      "url": "/diccionario-del-proindiviso/actos-de-disposicion/",
+      "cta": "Ver actos de disposición →"
+     },
+     {
+      "t": "Mayoría de cuotas",
+      "p": "Es la regla de cálculo: gana quien suma más del 50 % del valor, no quien tiene más hermanos de su lado.",
+      "url": "/diccionario-del-proindiviso/mayoria-de-cuotas/",
+      "cta": "Ver mayoría de cuotas →"
+     },
+     {
+      "t": "Unanimidad",
+      "p": "Hace falta para alterar la cosa común, según el artículo 397. Basta con que un comunero diga que no para bloquear la decisión.",
+      "url": "/diccionario-del-proindiviso/unanimidad-en-la-comunidad-de-bienes/",
+      "cta": "Ver unanimidad →"
+     },
+     {
+      "t": "Gastos de conservación",
+      "p": "Las reparaciones necesarias obligan a todos a pagar su parte, según el artículo 395. Quien no quiera pagar solo se libra renunciando a su cuota.",
+      "url": "/diccionario-del-proindiviso/gastos-de-conservacion/",
+      "cta": "Ver gastos de conservación →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Si siempre pierdes la votación, vende tu cuota",
+    "type": "callout",
+    "intro": [
+     "Ser minoría en un proindiviso significa pagar tu parte de los gastos y aceptar lo que decidan los demás. Si no te compensa, nosotros compramos tu cuota con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional. Además, no necesitamos la firma de nadie más, porque el artículo 399 te deja vender tu parte."
+    ],
+    "items": {
+     "t": "¿Te toca siempre perder la votación?",
+     "p": "Dinos dónde está el inmueble y qué porcentaje tienes. Te damos precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede un copropietario alquilar el piso sin permiso de los demás?",
+    "Solo si tiene la mayoría de cuotas. Alquilar es un acto de administración y lo decide quien suma más del 50 % del valor. Si un comunero alquila por su cuenta sin esa mayoría, el contrato no vincula a los demás y pueden reclamarle."
+   ],
+   [
+    "¿Qué pasa si hay empate al 50 % entre dos copropietarios?",
+    "No hay mayoría y nadie puede imponer su criterio. El artículo 398 permite pedir al juez que decida o que nombre un administrador. En la práctica, muchos empates acaban en una división de cosa común o en la venta de una de las cuotas."
+   ],
+   [
+    "¿Alquilar un piso en proindiviso es un acto de administración o de disposición?",
+    "El alquiler ordinario se considera acto de administración y basta la mayoría de cuotas. Los tribunales suelen tratarlo como acto de disposición cuando supera los seis años o se inscribe en el Registro, y entonces hace falta unanimidad. Consulta tu caso antes de firmar un contrato largo."
+   ],
+   [
+    "¿Quién cobra el alquiler si lo decide la mayoría?",
+    "Lo cobra quien gestione, pero pertenece a todos según su cuota, también al que votó en contra. Los gastos ordinarios se descuentan en la misma proporción. Si el gestor no reparte, cualquier comunero puede exigirle cuentas por vía judicial."
+   ],
+   [
+    "¿Puedo vender mi parte si no estoy de acuerdo con lo que decide la mayoría?",
+    "Sí. Vender tu cuota no es administrar la cosa común, sino disponer de lo tuyo, y el artículo 399 te permite hacerlo sin permiso. Los demás solo tienen derecho de retracto durante nueve días desde que conocen la venta."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los actos de administración",
+  "related": [
+   [
+    "Actos de disposición",
+    "/diccionario-del-proindiviso/actos-de-disposicion/"
+   ],
+   [
+    "Mayoría de cuotas",
+    "/diccionario-del-proindiviso/mayoria-de-cuotas/"
+   ],
+   [
+    "Alquilar un piso en proindiviso",
+    "/blog/alquilar-un-piso-en-proindiviso/"
+   ],
+   [
+    "Administrador de la comunidad de bienes",
+    "/diccionario-del-proindiviso/administrador-de-la-comunidad-de-bienes/"
+   ],
+   [
+    "Calculadora de gastos entre copropietarios",
+    "/calculadora-gastos-entre-copropietarios/"
+   ]
+  ],
+  "cta_title": "Deja de depender de la mayoría",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado, sin exclusividad.",
+  "yoast_title": "Actos de administración: qué son y qué decide la mayoría",
+  "meta_desc": "Los actos de administración de un proindiviso se aprueban por mayoría de cuotas: alquilar, reparar o pagar gastos. Si quieres salir, compramos tu parte.",
+  "focus_kw": "actos de administración",
+  "title_corto": "Actos de administración",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, soft natural window light: a narrow kitchen in an old Spanish apartment under repair, an open cabinet below the sink with a new copper pipe, a closed metal toolbox resting on patterned hydraulic floor tiles, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Actos de administración: cocina de un piso compartido con una reparación bajo el fregadero"
+ },
+ {
+  "slug": "aplazamiento-del-impuesto-de-sucesiones",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Aplazamiento del impuesto de sucesiones: plazos, garantías y alternativas",
+  "sub": "El aplazamiento del impuesto de sucesiones es el permiso para pagar más tarde, o a plazos, la cuota de una herencia. A cambio se pagan intereses de demora y, en algunos casos, se aporta una garantía. Si heredas parte de un piso pero no el dinero, puedes vendernos tu cuota y pagar con lo que cobres.",
+  "checks": [
+   "Modalidades y requisitos reales",
+   "Ejemplo con cifras",
+   "Compramos tu parte para pagarlo"
+  ],
+  "card_title": "¿Heredas un piso y no el dinero?",
+  "card_text": "Te damos precio por tu parte en 48 horas. Con lo que cobras en notaría pagas el impuesto y te quedas el resto.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el aplazamiento del impuesto de sucesiones y qué ley lo regula",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones se paga en los seis meses siguientes al fallecimiento. Muchos herederos reciben un piso, pero no el dinero para pagar lo que les toca. Para ellos existe el aplazamiento del impuesto de sucesiones. Lo regulan el artículo 38 de la Ley 29/1987 y su reglamento.",
+     "Conviene no confundirlo con la prórroga. La prórroga alarga seis meses más el plazo para presentar la declaración. Se pide en los cinco primeros meses y también genera intereses. En cambio, el aplazamiento del impuesto de sucesiones retrasa el pago de una deuda ya calculada. Además, el impuesto está cedido a las comunidades autónomas. Por eso cada una tramita las solicitudes con sus formularios y criterios."
+    ]
+   },
+   {
+    "overline": "Modalidades",
+    "h2": "Tipos de aplazamiento y fraccionamiento del impuesto",
+    "type": "table",
+    "intro": [
+     "La norma estatal recoge cuatro vías. Las comunidades pueden matizar requisitos y límites, así que toma esta tabla como orientativa."
+    ],
+    "items": [
+     [
+      "Modalidad",
+      "Requisitos, garantía y coste"
+     ],
+     [
+      "Aplazamiento de hasta un año",
+      "Sin liquidez en la herencia. Se concede si no hay dinero ni bienes fáciles de vender. Hay que pedirlo antes de que acabe el plazo y genera interés de demora."
+     ],
+     [
+      "Fraccionamiento hasta cinco anualidades",
+      "Mismos requisitos. Además, exige una garantía que cubra la deuda, los intereses y un 25 % más. Lo normal es un aval o una hipoteca."
+     ],
+     [
+      "Aplazamiento por vivienda habitual",
+      "Solo para familia cercana. Pueden pedirlo el cónyuge, hijos, padres o un colateral mayor de 65 años que conviviera con el fallecido. Permite aplazar tres años y fraccionar después en siete plazos semestrales, con garantía e interés legal."
+     ],
+     [
+      "Aplazamiento general",
+      "Es el de la Ley General Tributaria. Para deudas pequeñas muchas administraciones no piden garantía. Cada una fija su propio límite."
+     ]
+    ],
+    "outro": [
+     "Ojo: el aplazamiento por vivienda habitual solo cubre la parte del impuesto que corresponde a esa casa."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: tres sobrinos, un piso y 8.270 euros por cabeza",
+    "type": "text",
+    "intro": [
+     "Tres sobrinos heredan de su tío un piso de 180.000 euros, es decir, 60.000 euros cada uno. Con la tarifa estatal y el coeficiente de 1,5882, cada sobrino paga unos 8.270 euros. Es una cifra orientativa, sin bonificaciones autonómicas. Ninguno tiene ese dinero ahorrado y en la herencia solo está el piso.",
+     "Si piden el aplazamiento del impuesto de sucesiones por un año, pagarán la cuota más unos 336 euros de intereses. El problema es que, pasado ese año, seguirán sin liquidez si nadie vende. Por eso el fraccionamiento en cinco años parece más cómodo. Sin embargo, exige un aval bancario o hipotecar la cuota, y eso también cuesta dinero.",
+     "Una tercera salida es que uno de ellos venda su tercio y pague con lo que cobre. Así cierra el impuesto de una vez y no arrastra intereses."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo pedir el aplazamiento del impuesto de sucesiones",
+    "type": "steps",
+    "intro": [
+     "El orden es casi siempre el mismo en todas las comunidades, aunque cambien los impresos."
+    ],
+    "items": [
+     {
+      "t": "Calcula la deuda",
+      "p": "Haz la autoliquidación con el valor de cada bien. Sin una cuota calculada no hay nada que aplazar."
+     },
+     {
+      "t": "Solicítalo a tiempo",
+      "p": "Pídelo antes de que acabe el periodo voluntario de pago. Lo normal es presentarlo junto con la autoliquidación en tu comunidad."
+     },
+     {
+      "t": "Justifica la falta de liquidez",
+      "p": "Aporta el inventario de la herencia. Así demuestras que no hay dinero ni bienes fáciles de vender."
+     },
+     {
+      "t": "Ofrece la garantía si la piden",
+      "p": "Puede ser un aval, un seguro de caución o una hipoteca. Si no resuelven en seis meses, la solicitud puede entenderse denegada."
+     }
+    ],
+    "outro": [
+     "Mientras se tramita el aplazamiento del impuesto de sucesiones, no te exigen el pago. Eso sí, los intereses corren desde el final del plazo voluntario."
+    ]
+   },
+   {
+    "overline": "Coste",
+    "h2": "Cuánto cuesta aplazar y cuándo compensa vender tu parte",
+    "type": "text",
+    "intro": [
+     "El interés de demora es del 4,0625 % anual en 2025. Sigue igual en 2026 mientras estén prorrogados los presupuestos. A eso se suma el coste del aval, que el banco cobra cada año. Además, si dejas de pagar un plazo, la deuda pasa a vía de apremio con recargos de hasta el 20 %.",
+     "Antes de pedir el aplazamiento del impuesto de sucesiones, compara con la venta. Vender tu parte convierte la herencia en dinero sin depender de nadie. Si tu tercio vale 60.000 euros, pagamos entre el 40 % y el 70 % de esa cifra. Cobras al contado en notaría, pagas el impuesto y te quedas el resto. Para afinar, revisa también los impuestos de cada comunidad en nuestra sección de impuestos del proindiviso."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Paga el impuesto con la venta de tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos partes de pisos, casas, locales y terrenos heredados en toda España. Da igual que la herencia esté aceptada o a punto de aceptarse. No pedimos exclusividad ni la firma de los demás herederos."
+    ],
+    "items": {
+     "t": "Pide precio antes de que venza el plazo",
+     "p": "Te damos una oferta por escrito en 48 horas. Firma en notaría en dos a cuatro semanas, pago al contado y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede aplazar el impuesto de sucesiones sin aval?",
+    "Sí, en algunos casos. El aplazamiento de hasta un año de la ley del impuesto se concede si en la herencia no hay dinero ni bienes fáciles de vender, y la norma no lo condiciona a una garantía. El fraccionamiento en cinco anualidades sí la exige."
+   ],
+   [
+    "¿Cuánto interés cobra Hacienda por aplazar el impuesto de sucesiones?",
+    "El interés de demora, que en 2025 es del 4,0625 % anual y sigue igual en 2026 mientras no haya nuevos presupuestos. En el aplazamiento especial por vivienda habitual se aplica el interés legal del dinero, que es más bajo."
+   ],
+   [
+    "¿Qué pasa si no presento el impuesto de sucesiones en plazo?",
+    "Pagas un recargo que empieza en el 1 % y crece un punto por cada mes completo de retraso, hasta el 15 % pasado un año, más intereses. Si Hacienda te requiere antes, puede añadir una sanción. Por eso conviene presentarlo aunque pidas aplazar el pago."
+   ],
+   [
+    "¿Puedo vender mi parte de la herencia antes de pagar el impuesto?",
+    "Puedes vender tus derechos hereditarios o tu cuota, pero el impuesto hay que presentarlo igualmente, porque el Registro lo exige para inscribir. Lo habitual es presentar la autoliquidación y pagar con lo que cobras en la firma."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el aplazamiento del impuesto de sucesiones",
+  "related": [
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "No puedo pagar el impuesto de sucesiones",
+    "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/"
+   ],
+   [
+    "Recargo por presentación fuera de plazo",
+    "/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/"
+   ],
+   [
+    "Afección fiscal",
+    "/diccionario-del-proindiviso/afeccion-fiscal/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "Convierte tu parte de la herencia en dinero",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado para pagar lo que debas.",
+  "yoast_title": "Aplazamiento del impuesto de sucesiones: plazos y requisitos",
+  "meta_desc": "Aplazamiento del impuesto de sucesiones: un año, cinco anualidades, garantías e intereses. O vende tu parte y págalo: oferta en 48 h y cobro en notaría.",
+  "focus_kw": "aplazamiento del impuesto de sucesiones",
+  "title_corto": "Aplazamiento del impuesto de sucesiones",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, soft afternoon light: an antique wooden hourglass with the sand half fallen, standing on the stone windowsill of an old Spanish flat, blurred terracotta rooftops beyond the open shutters, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Aplazamiento del impuesto de sucesiones: reloj de arena en la ventana de un piso"
+ },
+ {
+  "slug": "cancelacion-de-hipoteca",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Cancelación de hipoteca: qué es y por qué hacerla antes de vender",
+  "sub": "La cancelación de hipoteca es el trámite que borra del Registro de la Propiedad una hipoteca ya pagada, mediante escritura notarial e inscripción. Pagar la última cuota no basta: hasta que se cancela, la carga sigue apareciendo en la nota simple. Si heredas una parte de un piso con hipoteca, pagada o pendiente, también te la compramos.",
+  "checks": [
+   "Pasos, coste y plazos",
+   "Con la Ley Hipotecaria",
+   "Compramos con hipoteca viva"
+  ],
+  "card_title": "¿Tu parte tiene una hipoteca encima?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, con la hipoteca cancelada o sin cancelar, y sin que los demás tengan que firmar.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la cancelación de hipoteca y por qué no es automática",
+    "type": "text",
+    "intro": [
+     "Una hipoteca tiene dos caras. Por un lado está el préstamo, que se extingue al pagar la última cuota. Por otro está la garantía, un derecho real inscrito en el Registro de la Propiedad que no desaparece solo. La cancelación de hipoteca es el paso que elimina esa garantía del Registro.",
+     "Por eso se habla de cancelación económica y cancelación registral. La primera ocurre al saldar la deuda. La segunda exige, según el artículo 82 de la Ley Hipotecaria, una escritura pública firmada por el banco o una resolución judicial. Mientras no se inscribe, cualquier comprador verá la carga en la nota simple y pedirá explicaciones antes de pagar."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Los pasos para cancelar una hipoteca pagada",
+    "type": "steps",
+    "intro": [
+     "El proceso es sencillo y suele durar entre dos semanas y dos meses. Este es el orden habitual."
+    ],
+    "items": [
+     {
+      "t": "Certificado de deuda cero",
+      "p": "Pide al banco un certificado que acredite que el préstamo está saldado. Sin él, ningún notario prepara la escritura."
+     },
+     {
+      "t": "Escritura de cancelación",
+      "p": "Un apoderado del banco firma ante notario. Tú eliges la notaría y no hace falta que estés presente en la firma."
+     },
+     {
+      "t": "Autoliquidación del impuesto",
+      "p": "La escritura queda exenta de actos jurídicos documentados, pero hay que presentar la declaración ante la oficina tributaria de tu comunidad."
+     },
+     {
+      "t": "Inscripción en el Registro",
+      "p": "El registrador anota la cancelación y la hipoteca desaparece de la nota simple. Desde ese momento la finca queda libre."
+     }
+    ],
+    "outro": [
+     "El coste total, sumando notaría, Registro y gestoría, suele moverse entre 300 y 600 euros, de forma orientativa. Si haces tú las gestiones en lugar del banco, pagarás menos."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: piso heredado con un préstamo pagado hace años",
+    "type": "text",
+    "intro": [
+     "Tres hermanos heredan un piso de 180.000 euros. Su padre terminó de pagar la hipoteca en 2015, pero nunca la canceló. La nota simple todavía muestra una carga de 90.000 euros a favor de una caja que hoy forma parte de otro banco.",
+     "Primero, los herederos piden el certificado de deuda cero a la entidad que absorbió a la caja. Después firman la cancelación y la inscriben. En total, dos meses y unos 500 euros que se reparten a tercios. Con la carga fuera, cada uno puede vender su parte o pactar una extinción de condominio sin sorpresas.",
+     "Hay otra vía para préstamos muy antiguos. La Ley Hipotecaria permite cancelar por caducidad cuando han pasado veinte años desde el último vencimiento, más uno. En ese caso basta una solicitud al Registro, sin escritura del banco."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Cancelación de hipoteca y venta de tu parte",
+    "type": "text",
+    "intro": [
+     "Si la deuda está pagada, la cancelación de hipoteca antes de vender evita retrasos y descuentos. Un comprador que ve una carga en la nota simple pide garantías, retiene dinero o directamente se echa atrás.",
+     "En cambio, si la deuda sigue viva, la hipoteca grava el piso entero y no cuotas sueltas. Puedes vender tu parte igualmente, y el comprador la adquiere con esa carga. Lo habitual es saldar el préstamo con el precio en la propia notaría y cancelar después. Cuando el préstamo es de todos y solo vende uno, el banco no libera la finca hasta cobrar la deuda completa.",
+     "Nosotros compramos cuotas con hipoteca pagada sin cancelar y también con préstamo pendiente. La carga se tiene en cuenta en el precio, sin que tengas que adelantar nada."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Cancelación de hipoteca frente a términos parecidos",
+    "type": "table",
+    "items": [
+     [
+      "Término",
+      "Qué es y en qué se diferencia"
+     ],
+     [
+      "Cancelación económica",
+      "Es pagar toda la deuda. El préstamo se extingue, pero la carga sigue inscrita en el Registro."
+     ],
+     [
+      "Cancelación registral",
+      "Es la escritura más la inscripción. Solo entonces la finca queda libre a ojos de cualquier comprador."
+     ],
+     [
+      "Subrogación hipotecaria",
+      "Otra persona asume el préstamo vivo. La hipoteca no se cancela, cambia de deudor."
+     ],
+     [
+      "Novación hipotecaria",
+      "Se modifican las condiciones del préstamo, como el plazo o el interés. La hipoteca sigue viva."
+     ],
+     [
+      "Caducidad",
+      "La carga se borra por el paso del tiempo, a petición del dueño, sin intervención del banco."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte aunque la hipoteca siga inscrita",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos, casas y locales con cargas o sin ellas, en toda España. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte, según la deuda pendiente y la situación del inmueble."
+    ],
+    "items": {
+     "t": "Cuéntanos qué carga aparece en tu nota simple",
+     "p": "Te damos precio por escrito en 48 horas. Firma en notaría en dos a cuatro semanas, cobro al contado y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta cancelar una hipoteca en el Registro?",
+    "De forma orientativa, entre 300 y 600 euros sumando notaría, Registro y gestoría. La escritura está exenta del impuesto de actos jurídicos documentados, aunque hay que presentar la declaración. Si el banco te impone su gestoría, el coste sube."
+   ],
+   [
+    "¿Es obligatorio cancelar la hipoteca cuando se termina de pagar?",
+    "No es obligatorio, pero sí muy recomendable. La carga sigue en el Registro y complica cualquier venta, herencia o nueva financiación. Además, cuanto más tiempo pasa, más difícil puede ser localizar a la entidad que debe firmar."
+   ],
+   [
+    "¿Qué pasa si el banco que dio la hipoteca ya no existe?",
+    "La entidad que lo absorbió hereda sus obligaciones y es quien firma la cancelación. Si no hay sucesor o no colabora, queda la vía judicial o, en préstamos muy antiguos, la cancelación por caducidad que prevé la Ley Hipotecaria."
+   ],
+   [
+    "¿Puedo vender mi parte de un piso con la hipoteca sin cancelar?",
+    "Sí. La hipoteca grava el piso y el comprador adquiere tu cuota con esa carga. Si la deuda está pagada, basta el certificado de deuda cero; si no, se salda con el precio en la notaría y se cancela después."
+   ],
+   [
+    "¿Hay que pagar impuestos por la cancelación de hipoteca?",
+    "La escritura de cancelación está exenta del impuesto de actos jurídicos documentados según la ley del impuesto. Aun así, hay que presentar la autoliquidación en plazo ante la comunidad autónoma, normalmente con el modelo 600 o su equivalente."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la cancelación de hipoteca",
+  "related": [
+   [
+    "Vender un proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Piso heredado con hipoteca",
+    "/blog/piso-heredado-con-hipoteca-vender-mi-parte/"
+   ],
+   [
+    "Cargas registrales",
+    "/diccionario-del-proindiviso/cargas-registrales/"
+   ],
+   [
+    "Subrogación hipotecaria",
+    "/diccionario-del-proindiviso/subrogacion-hipotecaria/"
+   ],
+   [
+    "Nota simple: cómo pedirla y leerla",
+    "/blog/nota-simple-como-pedirla-y-leerla/"
+   ]
+  ],
+  "cta_title": "Vende tu parte con o sin cargas",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Cancelación de hipoteca: pasos, coste y cuándo hacerla",
+  "meta_desc": "La cancelación de hipoteca borra del Registro un préstamo ya pagado. Pasos, coste y qué pasa si vendes tu parte con la carga: oferta en 48 h.",
+  "focus_kw": "cancelación de hipoteca",
+  "title_corto": "Cancelación de hipoteca",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, warm morning light: an open old iron padlock hanging loose from the wrought iron gate of a Spanish townhouse, whitewashed wall and a terracotta tiled step behind it, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Cancelación de hipoteca: candado abierto en la verja de una casa española"
+ },
+ {
+  "slug": "coeficiente-multiplicador",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Coeficiente multiplicador: qué es y cómo encarece el impuesto de sucesiones",
+  "sub": "El coeficiente multiplicador es la cifra que eleva el impuesto de sucesiones según el parentesco y el patrimonio previo del heredero. En la norma estatal va de 1 a 2,4, y cada comunidad autónoma puede cambiarlo. Si heredas parte de un piso de un tío o un hermano, te compramos tu cuota para que puedas pagarlo.",
+  "checks": [
+   "Con la tabla estatal completa",
+   "Ejemplo con cifras reales",
+   "Compramos tu parte para pagar"
+  ],
+  "card_title": "¿El impuesto se come tu herencia?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Cobras en notaría y pagas el impuesto sin pedir préstamos.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el coeficiente multiplicador y dónde se regula",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones se calcula por fases. Primero se fija la base, después se restan las reducciones y a la base liquidable se le aplica la tarifa. Así sale la cuota íntegra. El coeficiente multiplicador es el último paso. Convierte esa cuota íntegra en la que de verdad se paga, antes de las bonificaciones autonómicas.",
+     "El artículo 22 de la Ley 29/1987 regula el coeficiente multiplicador. Depende de dos datos del heredero. Por un lado, su parentesco con el fallecido, ordenado en cuatro grupos. Por otro, su patrimonio preexistente, es decir, lo que ya tenía antes de heredar. Se valora con las reglas del impuesto sobre el patrimonio."
+    ]
+   },
+   {
+    "overline": "Tabla",
+    "h2": "La tabla estatal por parentesco y patrimonio previo",
+    "type": "table",
+    "intro": [
+     "Hay cuatro grupos de parentesco. El I son los hijos menores de 21 años y el II, los hijos mayores, el cónyuge y los padres. En el III están hermanos, sobrinos, tíos y familia política. El IV reúne a primos, parientes más lejanos y extraños. Así, el coeficiente multiplicador de cada heredero sale de cruzar su grupo con su patrimonio."
+    ],
+    "items": [
+     [
+      "Patrimonio preexistente",
+      "Grupos I y II / grupo III / grupo IV"
+     ],
+     [
+      "Hasta 402.678,11 €",
+      "1,0000 / 1,5882 / 2,0000."
+     ],
+     [
+      "De 402.678,11 a 2.007.380,43 €",
+      "1,0500 / 1,6676 / 2,1000."
+     ],
+     [
+      "De 2.007.380,43 a 4.020.770,98 €",
+      "1,1000 / 1,7471 / 2,2000."
+     ],
+     [
+      "Más de 4.020.770,98 €",
+      "1,2000 / 1,9059 / 2,4000."
+     ]
+    ],
+    "outro": [
+     "Esta tabla se aplica cuando la comunidad no tiene una propia. La diferencia entre grupos es enorme: un primo paga el doble que un hijo por la misma herencia."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con un tercio de un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Imagina que heredas un tercio de un piso de 180.000 euros, es decir, 60.000 euros. Para ver solo el efecto del coeficiente, supón que la cuota íntegra sale en 5.200 euros. Las cifras son orientativas y no incluyen bonificaciones autonómicas.",
+     "Si eres hijo y tienes poco patrimonio, el coeficiente es 1 y pagas 5.200 euros. Como sobrino, la cuota se multiplica por 1,5882 y sube a unos 8.259 euros. Con un patrimonio previo de 500.000 euros, el sobrino pasa a 1,6676 y paga unos 8.672 euros. En cambio, un primo con poco patrimonio pagaría 10.400 euros. Así se ve el peso real del coeficiente multiplicador.",
+     "Hay otro detalle que pocos conocen. Hacienda valora tu tercio por su parte del valor de referencia, aunque en el mercado una cuota indivisa valga menos."
+    ]
+   },
+   {
+    "overline": "Comunidades",
+    "h2": "Por qué el coeficiente multiplicador cambia según la comunidad autónoma",
+    "type": "text",
+    "intro": [
+     "El impuesto está cedido a las comunidades autónomas. La ley de financiación les permite regular la tarifa, las reducciones y los coeficientes del patrimonio preexistente. Por eso algunas tienen su propia tabla y otras aplican la estatal. Manda la comunidad donde el fallecido residió más tiempo en los cinco años anteriores, no la del heredero.",
+     "Además, las bonificaciones del grupo II reducen la cuota casi a cero en muchas comunidades. Sin embargo, rara vez alcanzan a hermanos, sobrinos o primos. De ahí que el coeficiente multiplicador pese tanto entre colaterales, que son justo quienes más proindivisos generan."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Qué significa el coeficiente multiplicador si quieres vender tu parte",
+    "type": "text",
+    "intro": [
+     "El impuesto vence a los seis meses del fallecimiento, con o sin dinero en la herencia. Si heredas parte del piso de un tío, el coeficiente multiplicador puede subir la factura a varios miles de euros. Las salidas habituales son aplazar el pago, pedir un préstamo o vender.",
+     "Vender tu parte no rebaja el impuesto, porque grava lo que heredas y no lo que cobras. Pero sí te da liquidez para pagarlo sin endeudarte. Compramos cuotas heredadas en toda España. Pagamos entre el 40 % y el 70 % de su valor proporcional, al contado en notaría."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Paga el impuesto con el precio de tu cuota",
+    "type": "callout",
+    "intro": [
+     "¿Eres sobrino, hermano o primo del fallecido y el impuesto se dispara? No esperes a que los demás herederos se pongan de acuerdo. Compramos tu parte sin su firma."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte heredada",
+     "p": "Dinos qué inmueble es y qué porcentaje te corresponde. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué es el patrimonio preexistente en el impuesto de sucesiones?",
+    "Es el valor de los bienes y derechos que el heredero ya tenía antes de recibir la herencia, calculado con las reglas del impuesto sobre el patrimonio. Cuanto mayor es, más alto es el coeficiente multiplicador que se aplica a su cuota."
+   ],
+   [
+    "¿Qué coeficiente multiplicador se aplica a los sobrinos?",
+    "Con la norma estatal, los sobrinos están en el grupo III. Si su patrimonio previo no supera 402.678,11 euros, el coeficiente es 1,5882, y sube por tramos hasta 1,9059. Tu comunidad autónoma puede tener una tabla distinta."
+   ],
+   [
+    "¿Los hermanos pagan más impuesto de sucesiones que los hijos?",
+    "Sí, y bastante más. Los hermanos tienen una reducción menor, un coeficiente de al menos 1,5882 y casi nunca disfrutan de las bonificaciones del grupo II. Por la misma herencia pueden pagar varias veces lo que pagaría un hijo."
+   ],
+   [
+    "¿El coeficiente multiplicador se aplica antes o después de las bonificaciones?",
+    "Antes. Primero se calcula la cuota íntegra con la tarifa, después se multiplica por el coeficiente y, sobre ese resultado, se aplican las deducciones y bonificaciones que tenga tu comunidad autónoma."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el coeficiente multiplicador",
+  "related": [
+   [
+    "Grupos de parentesco",
+    "/diccionario-del-proindiviso/grupos-de-parentesco/"
+   ],
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Herencia de un tío sin hijos",
+    "/blog/herencia-de-un-tio-sin-hijos-sobrinos/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Vende tu parte heredada y paga sin préstamos",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Coeficiente multiplicador: qué es y cómo se aplica",
+  "meta_desc": "El coeficiente multiplicador sube el impuesto de sucesiones según parentesco y patrimonio previo. Tabla, ejemplo y cómo pagarlo vendiendo tu parte.",
+  "focus_kw": "coeficiente multiplicador",
+  "title_corto": "Coeficiente multiplicador",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, bright Mediterranean daylight: three terracotta flower pots of increasing size lined up on the whitewashed steps of a sunny Andalusian patio, each with a green plant, a dark blue painted door in the background, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Coeficiente multiplicador: macetas de tamaño creciente en un patio andaluz encalado"
+ },
+ {
+  "slug": "consolidacion-del-dominio",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Consolidación del dominio: qué es y qué pasa al morir el usufructuario",
+  "sub": "La consolidación del dominio es la reunión del usufructo y la nuda propiedad en una misma persona, que pasa a ser pleno propietario. Lo habitual es que ocurra al fallecer el usufructuario, por ejemplo la madre viuda. Si tienes una parte de un piso en nuda propiedad o ya en pleno dominio, te compramos tu cuota en cualquiera de los dos momentos.",
+  "checks": [
+   "Trámites e impuestos claros",
+   "Con ejemplo de usufructo viudal",
+   "Compramos nuda y plena propiedad"
+  ],
+  "card_title": "¿Ya eres pleno propietario de tu parte?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, antes o después de la consolidación, y sin que tus hermanos tengan que firmar.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la consolidación del dominio",
+    "type": "text",
+    "intro": [
+     "La propiedad se puede partir en dos. El usufructuario usa la casa y cobra sus rentas; el nudo propietario es el dueño, pero sin ese disfrute. La consolidación del dominio es el momento en que las dos piezas vuelven a juntarse y el nudo propietario pasa a tener el pleno dominio.",
+     "El artículo 513 del Código Civil enumera las causas que extinguen el usufructo: la muerte del usufructuario, el fin del plazo, la reunión en una misma persona, la renuncia, la pérdida de la cosa y la prescripción. En la práctica, la consolidación del dominio llega casi siempre por fallecimiento. El caso típico es el usufructo viudal: muere el padre, la madre se queda el usufructo y los hijos la nuda propiedad."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Qué hay que hacer cuando muere el usufructuario",
+    "type": "steps",
+    "intro": [
+     "El usufructo vitalicio no se hereda: se extingue con la muerte de su titular. Aun así, hay papeleo que hacer para que el Registro y Hacienda lo sepan."
+    ],
+    "items": [
+     {
+      "t": "Certificado de defunción",
+      "p": "Lo expide el Registro Civil y es la prueba de que el usufructo ha terminado."
+     },
+     {
+      "t": "Cancelar el usufructo en el Registro",
+      "p": "Basta una solicitud al Registro de la Propiedad con el certificado. Después, la nota simple refleja el pleno dominio a nombre de los nudos propietarios."
+     },
+     {
+      "t": "Autoliquidar el impuesto",
+      "p": "Si la nuda propiedad vino de una herencia o donación, hay que presentar la autoliquidación por la consolidación en seis meses desde el fallecimiento."
+     },
+     {
+      "t": "Actualizar el Catastro",
+      "p": "Mientras vivía, el IBI lo pagaba el usufructuario. Desde ahora lo pagan los nuevos plenos propietarios según su cuota."
+     }
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Qué impuestos genera la consolidación del dominio",
+    "type": "text",
+    "intro": [
+     "Cuando la nuda propiedad se heredó, la consolidación del dominio tributa en el impuesto de sucesiones, según el artículo 26 de la Ley 29/1987. Es el pago pendiente de la primera herencia. Se calcula sobre el valor que tenía el usufructo cuando se constituyó, con el tipo medio que se aplicó entonces a la nuda propiedad. Si la nuda propiedad se compró, en cambio, no hay sucesiones por la consolidación.",
+     "Un ejemplo orientativo. El padre falleció en 2015 y la madre, con 70 años, recibió el usufructo de un piso de 180.000 euros. Su usufructo valía el 19 %, es decir, 34.200 euros. Cada uno de los tres hijos heredó la nuda propiedad por 48.600 euros y pagó por ella. Al morir la madre, cada hijo consolida 11.400 euros de usufructo. Con las bonificaciones del grupo II de muchas comunidades, el importe suele quedar bajo.",
+     "Sobre la plusvalía municipal, la extinción por fallecimiento no se considera en general una transmisión. Aun así, confírmalo con tu ayuntamiento."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Cómo afecta la consolidación del dominio a la venta de tu parte",
+    "type": "text",
+    "intro": [
+     "Antes de la consolidación del dominio tienes una cuota de nuda propiedad. Se puede vender, pero vale menos, porque el comprador no podrá usar la casa hasta que muera el usufructuario. Después, tu cuota es de pleno dominio y su valor sube.",
+     "Siguiendo el ejemplo, tu tercio de pleno dominio vale 60.000 euros en proporción. Nosotros pagamos entre el 40 % y el 70 % de esa cifra, según la ciudad, el estado del piso y si alguien lo ocupa. Si todavía estás en nuda propiedad, también te la compramos, con un cálculo distinto."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Términos que conviene no confundir",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Usufructo",
+      "p": "Derecho a usar un bien ajeno y quedarse sus frutos. Suele ser vitalicio y se extingue con la muerte de su titular.",
+      "url": "/diccionario-del-proindiviso/usufructo/",
+      "cta": "Ver usufructo →"
+     },
+     {
+      "t": "Nuda propiedad",
+      "p": "Ser dueño sin poder usar ni cobrar rentas mientras dure el usufructo. Es lo que se consolida al terminar este.",
+      "url": "/vender-nuda-propiedad/",
+      "cta": "Vender nuda propiedad →"
+     },
+     {
+      "t": "Usufructo viudal",
+      "p": "El que la ley da al cónyuge viudo sobre parte de la herencia. Es el origen más frecuente de una consolidación.",
+      "url": "/diccionario-del-proindiviso/usufructo-viudal/",
+      "cta": "Ver usufructo viudal →"
+     },
+     {
+      "t": "Conmutación del usufructo",
+      "p": "Cambiar el usufructo del viudo por un capital, una renta o bienes concretos, para adelantar la plena propiedad sin esperar.",
+      "url": "/diccionario-del-proindiviso/conmutacion-del-usufructo/",
+      "cta": "Ver conmutación →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu cuota, con usufructo o sin él",
+    "type": "callout",
+    "intro": [
+     "Compramos partes de pisos y casas en nuda propiedad y en pleno dominio en toda España. No necesitamos la firma de tus hermanos ni que esté resuelto el reparto."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos dónde está el inmueble, tu porcentaje y si hay usufructo vigente. Oferta por escrito en 48 horas y firma en notaría en dos a cuatro semanas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hay que pagar impuesto de sucesiones cuando muere el usufructuario?",
+    "Sí, si la nuda propiedad se heredó o se recibió en donación. Se paga sobre el valor del usufructo calculado cuando se constituyó y con el tipo medio de entonces. En muchas comunidades las bonificaciones para hijos dejan la cuota muy baja."
+   ],
+   [
+    "¿Cuánto tiempo hay para declarar la consolidación del dominio?",
+    "Seis meses desde el fallecimiento del usufructuario, igual que en una herencia. Si se presenta tarde, se aplican los recargos por presentación fuera de plazo. Conviene hacerlo a la vez que la cancelación del usufructo en el Registro."
+   ],
+   [
+    "¿Puedo vender la nuda propiedad antes de que muera mi madre?",
+    "Sí. La nuda propiedad se puede vender libremente y tu madre conserva el usufructo hasta su fallecimiento. El precio es menor que el del pleno dominio, porque el comprador espera para poder usar la vivienda."
+   ],
+   [
+    "¿Qué pasa si el usufructuario renuncia en vida?",
+    "También hay consolidación del dominio, pero la renuncia a favor de los nudos propietarios se trata como una donación. Por eso tributa por el impuesto de donaciones, con las reglas de tu comunidad autónoma."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la consolidación del dominio",
+  "related": [
+   [
+    "Usufructo",
+    "/diccionario-del-proindiviso/usufructo/"
+   ],
+   [
+    "Vender nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ],
+   [
+    "Cuánto vale la nuda propiedad",
+    "/blog/cuanto-vale-la-nuda-propiedad-calculo/"
+   ],
+   [
+    "Vender la casa de mi madre con usufructo",
+    "/blog/puedo-vender-la-casa-de-mi-madre-con-usufructo/"
+   ],
+   [
+    "Usufructo viudal",
+    "/diccionario-del-proindiviso/usufructo-viudal/"
+   ]
+  ],
+  "cta_title": "Vende tu parte en pleno dominio o en nuda propiedad",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Consolidación del dominio: qué es, trámites e impuestos",
+  "meta_desc": "La consolidación del dominio une usufructo y nuda propiedad al morir el usufructuario. Trámites, impuesto de sucesiones y cómo vender tu parte después.",
+  "focus_kw": "consolidación del dominio",
+  "title_corto": "Consolidación del dominio",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, soft late autumn light: an empty wicker rocking chair under a fig tree on the stone terrace of a Spanish country house, fallen leaves on the terracotta floor, closed dark blue shutters behind, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Consolidación del dominio: mecedora vacía bajo una higuera en la terraza de una casa"
+ },
+ {
+  "slug": "derecho-de-habitacion",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Derecho de habitación: qué es y cómo condiciona la venta de una casa",
+  "sub": "El derecho de habitación es el derecho real a ocupar en una casa ajena las piezas necesarias para uno mismo y su familia, sin poder alquilarlas ni cederlas. Lo regulan los artículos 523 a 529 del Código Civil. Si tu casa heredada lo tiene inscrito, tu parte se puede vender igualmente, y nosotros la compramos con esa carga.",
+  "checks": [
+   "Con los artículos 523 a 529 y 822",
+   "Diferencias con el usufructo",
+   "Compramos tu parte con la carga"
+  ],
+  "card_title": "¿Alguien vive en la casa con derecho?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, aunque haya un derecho de habitación o un usufructo encima.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el derecho de habitación según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El artículo 524 del Código Civil lo define con precisión. La habitación da a su titular la facultad de ocupar en una casa ajena las piezas necesarias para sí y para su familia. No da derecho a cobrar rentas ni a explotar la vivienda. Es, por tanto, el más estrecho de los derechos de goce.",
+     "Además, el derecho de habitación es personalísimo. El artículo 525 prohíbe arrendarlo o traspasarlo por cualquier título. Si el titular ocupa toda la casa, paga las reparaciones ordinarias y los tributos como un usufructuario, según el artículo 527. Suele ser vitalicio y nace por testamento, donación, contrato o por la propia ley.",
+     "Se extingue por las mismas causas que el usufructo: muerte, fin del plazo o renuncia, entre otras. El artículo 529 añade una más, el abuso grave de la vivienda."
+    ]
+   },
+   {
+    "overline": "Diferencias",
+    "h2": "En qué se diferencia del usufructo y del derecho de uso",
+    "type": "table",
+    "intro": [
+     "Los tres son derechos sobre una cosa ajena, pero su alcance cambia mucho. Esta comparación evita confusiones al leer una escritura."
+    ],
+    "items": [
+     [
+      "Derecho",
+      "Qué permite y qué no"
+     ],
+     [
+      "Usufructo",
+      "Usar y disfrutar. El usufructuario vive en la casa, puede alquilarla y cobrar la renta, e incluso vender su derecho."
+     ],
+     [
+      "Uso",
+      "Aprovechar los frutos necesarios. Solo cubre lo que necesitan el titular y su familia, y no se puede ceder."
+     ],
+     [
+      "Habitación",
+      "Ocupar las piezas necesarias. No permite alquilar, ceder ni cobrar nada: solo vivir allí."
+     ],
+     [
+      "Comodato",
+      "Préstamo gratuito de la casa. No es un derecho real y el dueño puede recuperarla en los casos que prevé la ley."
+     ]
+    ]
+   },
+   {
+    "overline": "Discapacidad",
+    "h2": "El derecho de habitación del hijo con discapacidad",
+    "type": "text",
+    "intro": [
+     "El artículo 822 del Código Civil protege al legitimario con discapacidad que convivía con el fallecido. Si sus padres le dejan un derecho de habitación sobre la vivienda habitual, no se computa para calcular las legítimas de los hermanos. Así no se considera un trato de favor.",
+     "Pero hay más. Si el testamento no dice nada, la ley le atribuye ese derecho de habitación de forma automática, siempre que lo necesite y conviviera con el fallecido. Solo queda fuera si el testador lo excluyó. Eso sí, no puede impedir que sigan viviendo allí otros legitimarios que también lo necesiten. Además, es intransmisible.",
+     "Un ejemplo. Tres hermanos heredan de su madre un piso de 180.000 euros. Uno de ellos tiene una discapacidad y vivía con ella. Los tres son dueños a partes iguales, pero él conserva el derecho a seguir viviendo en la casa."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Cómo afecta el derecho de habitación a vender la casa",
+    "type": "text",
+    "intro": [
+     "La casa se puede vender, pero el comprador la adquiere con la carga. Si el derecho de habitación consta en el Registro, nadie puede alegar que no lo conocía. Por eso el precio cae con fuerza, igual que con un usufructo.",
+     "Hacienda lo valora en el 75 % de lo que valdría un usufructo sobre la misma casa. Con un titular de 50 años, el usufructo vitalicio vale el 39 %, de modo que la habitación supone el 29,25 %. Sobre 180.000 euros, son 52.650 euros que no recibe ningún propietario. Las cifras son orientativas.",
+     "La carga solo desaparece con la muerte del titular, el fin del plazo o su renuncia ante notario. Mientras tanto, cada hermano puede vender su cuota sin pedir permiso a los demás, según el artículo 399."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte aunque alguien tenga derecho a vivir allí",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de viviendas con derechos de habitación, usufructos u ocupantes, en toda España. Pagamos entre el 40 % y el 70 % del valor proporcional, ajustado a la carga. No necesitamos que nadie se marche ni que tus hermanos firmen."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota con carga",
+     "p": "Dinos qué derecho consta en la escritura y tu porcentaje. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender una casa con derecho de habitación?",
+    "Sí. El dueño puede vender, pero el comprador respeta el derecho de habitación hasta que se extinga. Por eso el precio baja bastante. Cada copropietario también puede vender solo su cuota sin que el titular del derecho tenga que firmar."
+   ],
+   [
+    "¿Qué diferencia hay entre usufructo y derecho de habitación?",
+    "El usufructuario puede vivir en la casa, alquilarla, cobrar la renta y hasta vender su derecho. El titular del derecho de habitación solo puede ocupar las piezas que necesita para él y su familia, sin alquilarlas ni cederlas a nadie."
+   ],
+   [
+    "¿El derecho de habitación se puede alquilar?",
+    "No. El artículo 525 del Código Civil prohíbe arrendar o traspasar los derechos de uso y habitación por cualquier título. Si el titular deja de necesitar la vivienda, lo normal es que renuncie ante notario."
+   ],
+   [
+    "¿Cuánto vale un derecho de habitación a efectos fiscales?",
+    "En el impuesto de sucesiones se valora en el 75 % del valor que tendría un usufructo sobre el mismo inmueble. Para el vitalicio, el usufructo es 89 menos la edad del titular, en porcentaje, con un mínimo del 10 % y un máximo del 70 %."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el derecho de habitación",
+  "related": [
+   [
+    "Usufructo",
+    "/diccionario-del-proindiviso/usufructo/"
+   ],
+   [
+    "Comodato",
+    "/diccionario-del-proindiviso/comodato/"
+   ],
+   [
+    "Legítima",
+    "/diccionario-del-proindiviso/legitima/"
+   ],
+   [
+    "Heredero con discapacidad y venta de la casa",
+    "/blog/heredero-menor-o-incapacitado-venta-de-la-casa/"
+   ],
+   [
+    "Vender nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota con la carga incluida",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Derecho de habitación: qué es y cómo afecta a la venta",
+  "meta_desc": "El derecho de habitación permite vivir en una casa ajena sin alquilarla ni cederla. Diferencias con el usufructo, artículo 822 y cómo vender tu parte.",
+  "focus_kw": "derecho de habitación",
+  "title_corto": "Derecho de habitación",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, soft morning light through lace curtains: a simple bedroom in an old Spanish flat with a neatly made single bed, a wooden bedside table with a small lamp and a tiled floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Derecho de habitación: dormitorio sencillo con cama hecha en un piso antiguo español"
+ },
+ {
+  "slug": "desheredacion",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Desheredación: qué es, causas legales y efecto en la casa heredada",
+  "sub": "La desheredación es la privación de la legítima a un heredero forzoso, hecha en testamento y basada en una causa que prevé el Código Civil. Si la causa no existe o no se prueba, el desheredado puede impugnarla y recuperar su parte. Mientras ese pleito sigue, la casa queda bloqueada; si eres uno de los herederos y no quieres esperar, valoramos comprarte tu parte.",
+  "checks": [
+   "Causas de los artículos 848 a 857",
+   "Ejemplo de reparto con cifras",
+   "Valoramos tu parte sin esperar"
+  ],
+  "card_title": "¿La herencia está en pleito?",
+  "card_text": "Cuéntanos el caso. Te decimos en 48 horas si podemos comprar tu parte y por cuánto, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la desheredación y qué artículos la regulan",
+    "type": "text",
+    "intro": [
+     "La legítima es la parte de la herencia que la ley reserva a hijos, padres y cónyuge. La desheredación es la única forma de quitársela a uno de ellos. Los artículos 848 a 857 del Código Civil fijan tres requisitos: hacerla en testamento, indicar la causa y que esa causa sea una de las previstas en la ley.",
+     "Si el desheredado niega la causa, son los demás herederos quienes deben probarla, según el artículo 850. Además, la reconciliación posterior entre testador y desheredado deja sin efecto la desheredación, como dice el artículo 856. En Cataluña y otros territorios con derecho civil propio las reglas cambian."
+    ]
+   },
+   {
+    "overline": "Causas",
+    "h2": "Las causas de desheredación más habituales",
+    "type": "list",
+    "intro": [
+     "Cada grupo de legitimarios tiene sus propias causas. Estas son las que más llegan a los juzgados."
+    ],
+    "items": [
+     "<strong>Negar alimentos.</strong> Haber negado sin motivo legítimo la ayuda económica al padre o a la madre que la necesitaba.",
+     "<strong>Maltrato de obra o injurias graves.</strong> La doctrina del Tribunal Supremo incluye aquí el maltrato psicológico, que debe probarse.",
+     "<strong>Falta de relación imputable al hijo.</strong> Un abandono emocional largo y continuado puede encajar como maltrato psicológico. Sin embargo, no basta un simple distanciamiento ni sirve si el padre contribuyó a él.",
+     "<strong>Causas de indignidad.</strong> El artículo 852 remite a varias del artículo 756, como atentar contra la vida del testador.",
+     "<strong>Causas del cónyuge.</strong> Incumplir de forma grave o reiterada los deberes conyugales, entre otras que recoge el artículo 855."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Cómo cambia el reparto de un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Un padre viudo con tres hijos deja su piso de 180.000 euros a Ana y Beatriz, y deshereda a Carlos por maltrato. Si la causa se sostiene, el piso queda a medias entre ellas. Pero si Carlos tiene hijos, ellos ocupan su lugar en la legítima, según el artículo 857.",
+     "Ahora imagina que Carlos impugna y el juez no ve probada la causa. Entonces la institución de heredero se anula en lo que perjudique a Carlos, como prevé el artículo 851. En la práctica, recibe como mínimo su legítima estricta: un tercio de la herencia dividido entre tres hijos, es decir, un noveno. Son unos 20.000 euros de valor.",
+     "El piso queda en proindiviso con cuatro novenos para Ana, cuatro para Beatriz y uno para Carlos. Es un reparto incómodo que suele acabar en venta o en división."
+    ]
+   },
+   {
+    "overline": "Impugnación",
+    "h2": "Qué pasa si se impugna la desheredación",
+    "type": "text",
+    "intro": [
+     "El Código Civil no fija un plazo expreso. Sin embargo, el Tribunal Supremo aplica cuatro años desde que se abre la sucesión y puede conocerse el testamento. Pasado ese plazo, la desheredación queda firme aunque fuera injusta.",
+     "Mientras dura el pleito, la herencia se complica. El desheredado puede pedir una anotación de demanda en el Registro, y entonces ningún comprador quiere el piso entero. Los herederos tampoco suelen ponerse de acuerdo para repartir. Por eso estos casos pueden alargarse varios años, de forma orientativa.",
+     "Aun así, cada heredero puede vender su parte de la herencia a un tercero. El precio tendrá en cuenta el litigio, pero el heredero sale del conflicto sin esperar a la sentencia."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Diferencias con la indignidad, la preterición y la renuncia",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "Qué es y en qué se diferencia"
+     ],
+     [
+      "Indignidad para suceder",
+      "Opera por ley, sin necesidad de testamento. Las causas del artículo 756 impiden heredar a quien las comete."
+     ],
+     [
+      "Preterición",
+      "El testador omite a un legitimario sin desheredarlo. El omitido conserva su derecho a la legítima."
+     ],
+     [
+      "Renuncia a la herencia",
+      "La decide el propio heredero. Nadie le quita nada: es él quien no quiere heredar."
+     ],
+     [
+      "Legítima",
+      "Es lo que la desheredación quita. Sin causa legal válida, el legitimario la recupera."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Si la herencia está en pleito, valora vender tu parte",
+    "type": "callout",
+    "intro": [
+     "Un pleito por desheredación puede tener la casa parada años. Si eres uno de los herederos, analizamos tu caso y te decimos si podemos comprar tu parte y en qué condiciones. Pagamos entre el 40 % y el 70 % del valor proporcional, según el riesgo del litigio."
+    ],
+    "items": {
+     "t": "Cuéntanos en qué punto está la herencia",
+     "p": "Te respondemos por escrito en 48 horas. Si hay acuerdo, firma en notaría y cobro al contado, sin exclusividad y con gastos a nuestro cargo.",
+     "cta": "Pedir valoración de mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede desheredar a un hijo por no tener relación con él?",
+    "Solo si la falta de relación es larga, continuada e imputable al hijo, porque la doctrina del Tribunal Supremo la trata como maltrato psicológico. Hay que indicarlo en el testamento y, si el hijo lo niega, los demás herederos deben probarlo."
+   ],
+   [
+    "¿Cuánto tiempo hay para impugnar una desheredación?",
+    "El Tribunal Supremo aplica un plazo de cuatro años desde que se abre la sucesión y puede conocerse el contenido del testamento. Conviene consultar a un abogado cuanto antes, porque pasado ese tiempo la desheredación queda firme."
+   ],
+   [
+    "¿Qué recibe un hijo desheredado injustamente?",
+    "Recupera, como mínimo, su legítima estricta. Las demás disposiciones del testamento valen en lo que no perjudiquen esa legítima, según el artículo 851 del Código Civil. El resto de la herencia sigue el reparto que quiso el testador."
+   ],
+   [
+    "¿Los hijos del desheredado heredan algo?",
+    "Sí. Según el artículo 857 del Código Civil, los hijos o descendientes del desheredado ocupan su lugar y conservan los derechos de herederos forzosos respecto a la legítima. Lo que pierde el padre puede llegar a sus hijos."
+   ],
+   [
+    "¿Se puede vender la casa si hay una desheredación impugnada?",
+    "Venderla entera es muy difícil mientras dure el pleito, sobre todo si hay una anotación de demanda. Lo que sí puede hacer cada heredero es vender su parte de la herencia, asumiendo el comprador el resultado del litigio."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la desheredación",
+  "related": [
+   [
+    "Legítima",
+    "/diccionario-del-proindiviso/legitima/"
+   ],
+   [
+    "Heredero forzoso",
+    "/diccionario-del-proindiviso/heredero-forzoso/"
+   ],
+   [
+    "Impugnar un testamento y vender la casa",
+    "/blog/impugnar-testamento-vender-la-casa/"
+   ],
+   [
+    "Anotación de demanda",
+    "/diccionario-del-proindiviso/anotacion-de-demanda/"
+   ],
+   [
+    "Reclamar la legítima a mis hermanos",
+    "/blog/reclamar-la-legitima-a-mis-hermanos/"
+   ]
+  ],
+  "cta_title": "Sal de una herencia en conflicto",
+  "cta_text": "Valoramos comprar tu parte con fondos propios. Respuesta por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Desheredación: qué es, causas y qué pasa si se impugna",
+  "meta_desc": "La desheredación quita la legítima a un heredero forzoso por una causa legal. Causas, plazo para impugnar, ejemplo de reparto y cómo vender tu parte.",
+  "focus_kw": "desheredación",
+  "title_corto": "Desheredación",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, low winter afternoon light: the stone facade of an old family house in a Castilian village where one former doorway has been bricked up with newer red bricks next to the main wooden door, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Desheredación: fachada de una casa de pueblo con una puerta tapiada con ladrillo"
+ },
+ {
+  "slug": "exencion-por-reinversion",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Exención por reinversión: cómo no pagar IRPF al vender tu vivienda",
+  "sub": "La exención por reinversión es el beneficio del IRPF que deja sin tributar la ganancia por vender tu vivienda habitual si reinviertes el dinero en otra en dos años. Si reinviertes solo una parte, la exención es proporcional. También sirve cuando vendes tu parte de la casa que era tu hogar, por ejemplo tras un divorcio, y esa parte te la podemos comprar nosotros.",
+  "checks": [
+   "Requisitos del artículo 38 de la ley del IRPF",
+   "Ejemplo de reinversión parcial",
+   "Compramos tu mitad tras el divorcio"
+  ],
+  "card_title": "¿Vendes tu parte de la que era tu casa?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Cobras en notaría y puedes reinvertir en tu nueva vivienda.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la exención por reinversión y qué norma la regula",
+    "type": "text",
+    "intro": [
+     "Vender un inmueble por más de lo que costó genera una ganancia patrimonial que tributa en el IRPF. La exención por reinversión la deja a cero cuando lo vendido es tu vivienda habitual y el dinero va a otra vivienda habitual. El artículo 38 de la Ley del IRPF y el artículo 41 de su reglamento la regulan.",
+     "La clave está en el importe total obtenido, no en la ganancia. Si reinviertes todo lo que cobras, la ganancia queda exenta entera. En cambio, si reinviertes la mitad, la exención por reinversión cubre solo la mitad de la ganancia. Además, si tenías un préstamo pendiente sobre la casa vendida, se descuenta del importe que debes reinvertir."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Requisitos de la exención por reinversión",
+    "type": "list",
+    "intro": [
+     "Hacienda revisa con lupa estos puntos. Basta con fallar uno para perder la exención por reinversión."
+    ],
+    "items": [
+     "<strong>Vivienda habitual vendida.</strong> Debiste vivir en ella al menos tres años seguidos, salvo excepciones como divorcio, traslado laboral o fallecimiento.",
+     "<strong>Margen de dos años.</strong> Sigue contando como habitual si dejaste de vivir allí en los dos años anteriores a la venta.",
+     "<strong>Plazo para reinvertir.</strong> Tienes dos años, antes o después de la venta, para comprar la nueva vivienda habitual.",
+     "<strong>Ocupación efectiva.</strong> Debes habitar la nueva casa en un plazo de doce meses desde la compra o el fin de las obras.",
+     "<strong>Comunicarlo a Hacienda.</strong> En la declaración del año de la venta tienes que indicar tu intención de reinvertir."
+    ],
+    "outro": [
+     "Si al final no reinviertes a tiempo, toca presentar una declaración complementaria con intereses de demora."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: vendes tu mitad de la casa tras el divorcio",
+    "type": "text",
+    "intro": [
+     "Jorge y Elena compraron su casa en 2002 por 60.000 euros, 30.000 cada uno. Tras el divorcio, Jorge se fue hace un año y quiere vender su mitad por 50.000 euros. Su ganancia es de 20.000 euros, sin contar gastos. Como dejó la casa hace menos de dos años, aún cuenta como su vivienda habitual.",
+     "Si reinvierte los 50.000 euros en otra vivienda habitual, la exención por reinversión cubre toda la ganancia. Si solo reinvierte 25.000, queda exenta la mitad y tributa por 10.000 euros. Con la escala del ahorro, serían unos 1.980 euros, de forma orientativa. Sin reinversión, la factura subiría a unos 4.080 euros.",
+     "Ahora supón que su mitad tenía 20.000 euros de hipoteca pendiente. En ese caso, el importe a reinvertir baja a 30.000 euros para quedar exento del todo."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "La exención por reinversión al vender tu parte de un proindiviso",
+    "type": "text",
+    "intro": [
+     "La exención por reinversión no exige vender la casa entera. Funciona igual con tu cuota, siempre que esa vivienda fuera tu residencia habitual. Es el caso típico del divorcio o de la pareja que se separa y uno sale de la casa común. También vale si cedes tu parte al otro en una extinción de condominio y cobras una compensación.",
+     "En cambio, no se aplica a la casa heredada en la que nunca viviste. Ahí la ganancia tributa sin más, salvo que tengas más de 65 años y fuera tu vivienda habitual. Por otro lado, la nueva vivienda puede comprarse en proindiviso con otra persona: cuenta lo que tú pones.",
+     "Un detalle útil. Una cuota indivisa se vende con descuento, así que muchas veces la ganancia es pequeña o incluso no existe."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Otras vías para no tributar por la ganancia",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Exención para mayores de 65 años",
+      "p": "Si tienes 65 años o más y vendes tu vivienda habitual, la ganancia no tributa aunque no reinviertas.",
+      "url": "/diccionario-del-proindiviso/exencion-para-mayores-de-65-anos/",
+      "cta": "Ver exención mayores de 65 →"
+     },
+     {
+      "t": "Renta vitalicia",
+      "p": "Los mayores de 65 pueden dejar exenta la ganancia de cualquier inmueble si destinan hasta 240.000 euros a una renta vitalicia asegurada.",
+      "url": "/diccionario-del-proindiviso/renta-vitalicia/",
+      "cta": "Ver renta vitalicia →"
+     },
+     {
+      "t": "Dación en pago",
+      "p": "Entregar la vivienda habitual al banco para saldar la hipoteca no genera ganancia tributable, con requisitos.",
+      "url": "/diccionario-del-proindiviso/dacion-en-pago/",
+      "cta": "Ver dación en pago →"
+     },
+     {
+      "t": "Valor de adquisición",
+      "p": "Sumar bien los gastos de compra y mejoras reduce la ganancia antes de pensar en exenciones.",
+      "url": "/diccionario-del-proindiviso/valor-de-adquisicion/",
+      "cta": "Ver valor de adquisición →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte y reinvierte en tu nueva casa",
+    "type": "callout",
+    "intro": [
+     "Compramos tu cuota de la vivienda común con fondos propios, sin que tu ex tenga que firmar. Pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Con ese dinero puedes reinvertir dentro del plazo."
+    ],
+    "items": {
+     "t": "Pide precio por tu mitad",
+     "p": "Dinos dónde está la casa y qué porcentaje tienes. Oferta por escrito en 48 horas, firma en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tiempo tengo para reinvertir en otra vivienda habitual?",
+    "Dos años, antes o después de la venta. Si compraste la nueva casa hasta dos años antes de vender la anterior, también cuenta. Después tienes doce meses para ir a vivir a ella de forma efectiva y permanente."
+   ],
+   [
+    "¿Puedo aplicar la exención por reinversión si vendo mi mitad tras el divorcio?",
+    "Sí, si la casa fue tu vivienda habitual y la dejaste hace menos de dos años. La exención se calcula sobre lo que cobras por tu mitad. Conviene guardar pruebas de cuándo dejaste de vivir allí, como el empadronamiento."
+   ],
+   [
+    "¿Qué pasa si no reinvierto todo el dinero?",
+    "La exención es proporcional. Si reinviertes el 60 % de lo que cobras, queda exento el 60 % de la ganancia y el resto tributa en la base del ahorro. Si no reinviertes nada, tributa toda la ganancia."
+   ],
+   [
+    "¿Hay que declarar la venta aunque vaya a estar exenta?",
+    "Sí. Debes declarar la ganancia en el IRPF del año de la venta e indicar que vas a reinvertir. Si al final no lo haces en plazo, presentas una complementaria con intereses de demora."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la exención por reinversión",
+  "related": [
+   [
+    "Vivienda habitual a efectos fiscales",
+    "/diccionario-del-proindiviso/vivienda-habitual-a-efectos-fiscales/"
+   ],
+   [
+    "Vender un proindiviso por divorcio",
+    "/vender-proindiviso-divorcio/"
+   ],
+   [
+    "IRPF en la extinción de condominio",
+    "/blog/extincion-de-condominio-irpf-ganancia-patrimonial/"
+   ],
+   [
+    "Exención para mayores de 65 años",
+    "/diccionario-del-proindiviso/exencion-para-mayores-de-65-anos/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ]
+  ],
+  "cta_title": "Cobra tu parte y reinvierte a tiempo",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Exención por reinversión: requisitos, plazos y ejemplo",
+  "meta_desc": "La exención por reinversión libra del IRPF la venta de tu vivienda habitual si reinviertes en otra. Requisitos, plazos y qué pasa si vendes solo tu parte.",
+  "focus_kw": "exención por reinversión",
+  "title_corto": "Exención por reinversión",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, bright morning light: an empty newly finished apartment in a Spanish coastal town with fresh white walls, light oak floor, a folded wooden stepladder against the wall and a large window overlooking the sea, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Exención por reinversión: piso nuevo vacío con vistas al mar en la costa española"
+ },
+ {
+  "slug": "herencia-vacante",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Herencia vacante: qué pasa cuando no hay herederos y quién se la queda",
+  "sub": "Una herencia vacante es la que se queda sin heredero porque el fallecido no hizo testamento válido y no tiene cónyuge ni parientes hasta el cuarto grado, o porque todos renuncian. En ese caso hereda el Estado o, en algunos territorios, la comunidad autónoma. Si el fallecido era copropietario contigo, la Administración entra en el proindiviso; tu cuota, mientras tanto, te la compramos.",
+  "checks": [
+   "Con los artículos 954 a 958",
+   "Qué pasa con su cuota",
+   "Compramos tu parte sin esperar"
+  ],
+  "card_title": "¿Tu copropietario murió sin herederos?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin esperar a que la Administración termine su expediente.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es una herencia vacante y qué dice el Código Civil",
+    "type": "text",
+    "intro": [
+     "Sin testamento, la ley llama a heredar por orden a descendientes, ascendientes, cónyuge y colaterales. El artículo 954 del Código Civil corta en el cuarto grado: más allá de los primos hermanos no hereda nadie. Cuando no queda ningún llamado, o todos renuncian, la herencia es vacante.",
+     "Entonces entra el Estado. El artículo 956 dice que, tras liquidar los bienes, ingresa el dinero en el Tesoro y destina dos tercios a fines de interés social. Además, el artículo 957 le da los mismos derechos y obligaciones que a cualquier heredero, pero con la herencia siempre aceptada a beneficio de inventario. Por último, el artículo 958 exige una declaración administrativa de heredero antes de tocar nada."
+    ]
+   },
+   {
+    "overline": "Quién hereda",
+    "h2": "El Estado o la comunidad autónoma, según la vecindad civil",
+    "type": "table",
+    "intro": [
+     "Lo que cuenta es la vecindad civil del fallecido, no dónde estén los bienes. Esta es la regla general."
+    ],
+    "items": [
+     [
+      "Vecindad civil del fallecido",
+      "Quién se queda la herencia vacante"
+     ],
+     [
+      "Derecho común",
+      "El Estado, a través de la Administración General del Estado y su Dirección General del Patrimonio."
+     ],
+     [
+      "Cataluña",
+      "La Generalitat, según su Código Civil."
+     ],
+     [
+      "Aragón",
+      "La Comunidad Autónoma de Aragón."
+     ],
+     [
+      "Navarra",
+      "La Comunidad Foral de Navarra."
+     ],
+     [
+      "Galicia",
+      "La Comunidad Autónoma de Galicia."
+     ]
+    ],
+    "outro": [
+     "Otros territorios con derecho civil propio tienen reglas especiales. En todos los casos hay un expediente administrativo que puede tardar de meses a años."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Qué pasa con la cuota del fallecido en un proindiviso",
+    "type": "text",
+    "intro": [
+     "Luisa y Andrés, pareja de hecho, compraron a medias un piso de 180.000 euros. Andrés muere sin testamento, sin hijos, sin padres y sin hermanos ni primos vivos. En derecho común, la pareja de hecho no hereda sin testamento. Su mitad acaba siendo una herencia vacante y el Estado se convierte en copropietario de Luisa.",
+     "Mientras se tramita el expediente, nadie administra esa mitad. Luisa sigue pagando IBI, comunidad y derramas, y puede reclamar la parte de Andrés con cargo a la herencia. Después, el Estado suele vender la cuota. La ley de patrimonio público permite venderla de forma directa a un copropietario, así que Luisa podría comprarla.",
+     "Por otro lado, Luisa no está obligada a esperar. Puede vender su propia mitad en cualquier momento, porque el artículo 399 le deja disponer de su cuota."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Cómo afecta una herencia vacante a la venta de tu parte",
+    "type": "text",
+    "intro": [
+     "Una herencia vacante bloquea el inmueble durante años. No hay con quién negociar una extinción de condominio ni un reparto, y vender el piso entero exige la firma de la Administración. Tampoco es rápido pedir la división judicial contra el Estado.",
+     "Además, el Estado responde de las deudas del fallecido solo hasta donde llegan sus bienes, por el beneficio de inventario. Si había una hipoteca o deudas con la comunidad, se pagan con el caudal antes de repartir nada. Nosotros compramos cuotas en esta situación, con la Administración como copropietaria. Pagamos entre el 40 % y el 70 % del valor proporcional."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Herencia vacante frente a términos parecidos",
+    "type": "cards",
+    "intro": [
+     "No hay que confundir la herencia vacante con otras situaciones de la herencia sin dueño claro."
+    ],
+    "items": [
+     {
+      "t": "Herencia yacente",
+      "p": "La que todavía no han aceptado los llamados. Tiene herederos, pero aún no han dicho que sí.",
+      "url": "/blog/herencia-yacente-vender-antes-de-la-particion/",
+      "cta": "Ver herencia yacente →"
+     },
+     {
+      "t": "Declaración de herederos",
+      "p": "El acta notarial que fija quién hereda sin testamento. Solo si no aparece nadie se pasa al Estado.",
+      "url": "/diccionario-del-proindiviso/declaracion-de-herederos-abintestato/",
+      "cta": "Ver declaración de herederos →"
+     },
+     {
+      "t": "Renuncia a la herencia",
+      "p": "Si todos los llamados renuncian, la herencia avanza al siguiente grado y, al final, puede quedar vacante.",
+      "url": "/blog/renunciar-a-la-herencia-o-vender-mi-parte/",
+      "cta": "Ver renuncia →"
+     },
+     {
+      "t": "Beneficio de inventario",
+      "p": "Aceptar respondiendo de las deudas solo con los bienes heredados. Es como hereda siempre el Estado.",
+      "url": "/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/",
+      "cta": "Ver beneficio de inventario →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Sal del proindiviso sin esperar a la Administración",
+    "type": "callout",
+    "intro": [
+     "Si tu copropietario ha muerto sin herederos, no tienes por qué quedarte años atrapado. Compramos tu cuota con fondos propios y asumimos nosotros la relación con el nuevo copropietario."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos dónde está el inmueble y tu porcentaje. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién hereda si no hay testamento ni familiares?",
+    "Si no hay cónyuge ni parientes hasta el cuarto grado, hereda el Estado o, si el fallecido tenía vecindad civil catalana, aragonesa, navarra o gallega, su comunidad autónoma. Antes debe tramitarse una declaración administrativa de heredero."
+   ],
+   [
+    "¿Hereda la pareja de hecho si no hay testamento?",
+    "En derecho común, no. La pareja de hecho no tiene derechos sucesorios sin testamento, aunque algunas comunidades con derecho civil propio sí se los reconocen. Por eso conviene que las parejas con bienes en común hagan testamento."
+   ],
+   [
+    "¿Qué hace el Estado con un piso que hereda?",
+    "Normalmente lo vende y el dinero va al Tesoro, con dos tercios destinados a fines de interés social. Si solo hereda una cuota, puede venderla también, incluso de forma directa al resto de copropietarios."
+   ],
+   [
+    "¿Puedo vender mi parte si la otra mitad está en una herencia vacante?",
+    "Sí. Tu cuota es tuya y puedes venderla sin permiso del Estado ni de nadie, según el artículo 399 del Código Civil. El comprador entra en el proindiviso con la Administración como copropietaria."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la herencia vacante",
+  "related": [
+   [
+    "Quién hereda si no hay testamento",
+    "/blog/quien-hereda-si-no-hay-testamento/"
+   ],
+   [
+    "Fallece un copropietario: qué pasa con su parte",
+    "/blog/fallece-un-copropietario-que-pasa-con-su-parte/"
+   ],
+   [
+    "Declaración de herederos abintestato",
+    "/diccionario-del-proindiviso/declaracion-de-herederos-abintestato/"
+   ],
+   [
+    "Herencia yacente",
+    "/blog/herencia-yacente-vender-antes-de-la-particion/"
+   ],
+   [
+    "Vecindad civil",
+    "/diccionario-del-proindiviso/vecindad-civil/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota aunque falte el otro dueño",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Herencia vacante: qué es y quién hereda sin herederos",
+  "meta_desc": "Una herencia vacante pasa al Estado o a la comunidad autónoma cuando no hay herederos. Qué ocurre con su cuota en un proindiviso y cómo vender la tuya.",
+  "focus_kw": "herencia vacante",
+  "title_corto": "Herencia vacante",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, flat overcast light: a neglected balcony of an old apartment building in a Spanish city, dry dead plants in cracked terracotta pots, faded green wooden shutters closed and peeling paint on the railing, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Herencia vacante: balcón abandonado con plantas secas en un edificio antiguo"
+ },
+ {
+  "slug": "interpelacion-judicial",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Interpelación judicial: cómo obligar a un heredero a aceptar o renunciar",
+  "sub": "La interpelación judicial es el requerimiento a un heredero indeciso para que acepte o repudie la herencia en un plazo, de forma que su silencio cuente como aceptación. Desde 2015 se hace ante notario y no ante el juez, con un plazo de treinta días naturales, según el artículo 1005 del Código Civil. Es la llave para desbloquear una herencia parada y poder vender tu parte.",
+  "checks": [
+   "Con el artículo 1005 del Código Civil",
+   "Plazos y coste orientativo",
+   "Compramos tu parte después"
+  ],
+  "card_title": "¿Un heredero no contesta?",
+  "card_text": "Te damos precio por tu parte en 48 horas, aunque la herencia esté parada por un hermano que no responde.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la interpelación judicial y por qué ahora es notarial",
+    "type": "text",
+    "intro": [
+     "Un heredero puede tardar años en decir si acepta o renuncia, y mientras tanto la herencia no avanza. Para evitarlo nació la interpelación judicial. Antes se pedía al juez, pero la Ley de Jurisdicción Voluntaria de 2015 la trasladó al notario. Aun así, el nombre de interpelación judicial se sigue usando.",
+     "El artículo 1005 del Código Civil permite a cualquier interesado acudir al notario. El notario comunica al heredero que tiene treinta días naturales para aceptar, aceptar a beneficio de inventario o repudiar. Además, le advierte de que, si calla, la herencia se entiende aceptada pura y simplemente. Eso sí, según el artículo 1004 no puede pedirse hasta pasados nueve días del fallecimiento."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo se hace ante notario paso a paso",
+    "type": "steps",
+    "intro": [
+     "El trámite es breve y no necesita abogado, aunque conviene llevarlo bien preparado."
+    ],
+    "items": [
+     {
+      "t": "Acredita tu interés",
+      "p": "Puede pedirlo un coheredero, un acreedor o un legatario. Lleva el certificado de defunción, el de últimas voluntades y el testamento o la declaración de herederos."
+     },
+     {
+      "t": "El notario notifica",
+      "p": "Levanta un acta y requiere al heredero en su domicilio. Si está en paradero desconocido o en el extranjero, el asunto se complica."
+     },
+     {
+      "t": "Corren treinta días naturales",
+      "p": "El plazo cuenta desde la notificación. En ese tiempo el heredero puede comparecer y manifestar su decisión."
+     },
+     {
+      "t": "Se cierra el acta",
+      "p": "El notario recoge la respuesta o hace constar el silencio. Con eso, el heredero queda como aceptante o como renunciante."
+     }
+    ],
+    "outro": [
+     "El coste suele moverse entre 100 y 300 euros, de forma orientativa, según las notificaciones que hagan falta."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: tres hermanos y uno que no contesta",
+    "type": "text",
+    "intro": [
+     "Lucía, Raúl y Pablo heredan de su madre un piso de 180.000 euros. Lucía y Pablo quieren aceptar y repartir, pero Raúl lleva dos años sin responder. Por eso Lucía pide al notario la interpelación judicial de Raúl.",
+     "Raúl recibe el requerimiento y deja pasar los treinta días sin contestar. Desde ese momento ha aceptado la herencia pura y simplemente. Ya no puede alegar dudas y responde también de las deudas de su madre, si las hubiera.",
+     "Sin embargo, el reparto sigue necesitando a los tres. Si Raúl no firma la partición, Lucía puede pedir un contador partidor dativo o la división judicial. Mientras tanto, también puede vender su parte de la herencia, un tercio que vale 60.000 euros en proporción."
+    ]
+   },
+   {
+    "overline": "Alcance",
+    "h2": "Qué consigue la interpelación judicial y qué no",
+    "type": "list",
+    "intro": [
+     "Conviene tener claras sus limitaciones antes de empezar."
+    ],
+    "items": [
+     "<strong>Sí fija quién hereda.</strong> El silencio equivale a aceptar, así que ya se sabe con quién hay que repartir.",
+     "<strong>Sí presiona al indeciso.</strong> Aceptar pura y simplemente significa responder de las deudas con su propio patrimonio.",
+     "<strong>No obliga a firmar el reparto.</strong> Para eso hacen falta el acuerdo, un contador partidor o un juez.",
+     "<strong>No obliga a vender.</strong> Tampoco saca de la casa a quien la ocupa ni resuelve el uso del inmueble.",
+     "<strong>No sirve si no se le localiza.</strong> Sin notificación válida, el plazo no empieza a correr."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Interpelación judicial frente a otras herramientas",
+    "type": "cards",
+    "intro": [
+     "Cada herramienta resuelve un atasco distinto de la herencia. Estas son las más cercanas a la interpelación judicial."
+    ],
+    "items": [
+     {
+      "t": "Aceptación de la herencia",
+      "p": "Es lo que la interpelación busca provocar: que el heredero diga sí o no de forma clara.",
+      "url": "/diccionario-del-proindiviso/aceptacion-de-la-herencia/",
+      "cta": "Ver aceptación →"
+     },
+     {
+      "t": "Aceptación tácita",
+      "p": "Cuando el heredero actúa como dueño, por ejemplo vendiendo o alquilando, se entiende que ha aceptado sin decirlo.",
+      "url": "/diccionario-del-proindiviso/aceptacion-tacita-de-la-herencia/",
+      "cta": "Ver aceptación tácita →"
+     },
+     {
+      "t": "Requerimiento notarial",
+      "p": "Un aviso formal ante notario con fines muy distintos, como exigir un pago o comunicar una venta.",
+      "url": "/diccionario-del-proindiviso/requerimiento-notarial/",
+      "cta": "Ver requerimiento →"
+     },
+     {
+      "t": "Contador partidor",
+      "p": "El profesional que reparte la herencia cuando los herederos no se ponen de acuerdo.",
+      "url": "/blog/contador-partidor-herencia-sin-acuerdo/",
+      "cta": "Ver contador partidor →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Desbloquea la herencia vendiendo tu parte",
+    "type": "callout",
+    "intro": [
+     "Una herencia parada te hace pagar impuestos y gastos sin poder usar nada. Compramos partes de herencias y cuotas de inmuebles en toda España, sin la firma del hermano que no contesta. Pagamos entre el 40 % y el 70 % del valor proporcional."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la herencia",
+     "p": "Dinos qué inmuebles hay y qué porcentaje te corresponde. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tiempo tiene un heredero para aceptar la herencia?",
+    "La ley no fija un plazo corto y la doctrina mayoritaria lo sitúa en treinta años. Por eso existe la interpelación: obliga a decidir en treinta días naturales, con el silencio como aceptación. El impuesto, en cambio, vence a los seis meses."
+   ],
+   [
+    "¿Qué pasa si el heredero no contesta a la interpelación?",
+    "Se entiende que ha aceptado la herencia pura y simplemente. Desde ese momento es heredero a todos los efectos y responde de las deudas del fallecido también con sus propios bienes."
+   ],
+   [
+    "¿Hace falta abogado para la interpelación ante notario?",
+    "No es obligatorio. Basta con acudir a un notario y acreditar el interés con el certificado de defunción, el de últimas voluntades y el título sucesorio. Un abogado ayuda si después hay que forzar el reparto."
+   ],
+   [
+    "¿Puedo vender mi parte si un heredero no acepta?",
+    "Sí. Puedes vender tus derechos hereditarios a un tercero sin esperar a los demás, y los coherederos tendrán derecho de retracto durante un mes. Tras la partición, puedes vender tu cuota del inmueble."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la interpelación judicial",
+  "related": [
+   [
+    "Herencia bloqueada: qué hacer",
+    "/blog/herencia-bloqueada-que-hacer/"
+   ],
+   [
+    "Plazo para aceptar una herencia",
+    "/blog/plazo-para-aceptar-una-herencia/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Heredero ilocalizable o en el extranjero",
+    "/blog/heredero-ilocalizable-o-en-el-extranjero/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ]
+  ],
+  "cta_title": "Cobra tu parte aunque la herencia esté parada",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Interpelación judicial: plazo de 30 días y cómo pedirla",
+  "meta_desc": "La interpelación judicial obliga al heredero a aceptar o repudiar en 30 días ante notario; si calla, acepta. Cómo pedirla y cómo vender después tu parte.",
+  "focus_kw": "interpelación judicial",
+  "title_corto": "Interpelación judicial",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, side morning light: an ornate black iron door knocker shaped like a hand on a heavy dark wooden front door of an old Spanish townhouse, worn stone doorstep, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Interpelación judicial: aldaba de hierro en la puerta de madera de una casa antigua"
+ },
+ {
+  "slug": "pacto-de-retro",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Pacto de retro: qué es la venta con derecho a recomprar y sus riesgos",
+  "sub": "El pacto de retro es la cláusula de una compraventa por la que el vendedor se reserva el derecho a recuperar lo vendido devolviendo el precio y ciertos gastos. Lo regulan los artículos 1507 a 1520 del Código Civil y su plazo no puede pasar de diez años. Si prefieres vender tu parte de un proindiviso sin ataduras ni recompras, te la compramos al contado.",
+  "checks": [
+   "Con los artículos 1507 a 1520",
+   "Riesgos explicados sin rodeos",
+   "Venta limpia, sin recompra"
+  ],
+  "card_title": "¿Necesitas liquidez sin hipotecar tu futuro?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Venta definitiva, sin plazos de recompra ni intereses ocultos.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el pacto de retro según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El Código Civil lo llama retracto convencional. El artículo 1507 lo define como el derecho que se reserva el vendedor a recuperar la cosa vendida. Para hacerlo, debe devolver al comprador el precio, los gastos del contrato y los gastos necesarios y útiles hechos en la cosa, según el artículo 1518.",
+     "El plazo es la pieza clave. Sin pacto expreso, el pacto de retro dura cuatro años desde el contrato. Con pacto, no puede superar los diez años, como fija el artículo 1508. Si el vendedor no recompra a tiempo, el comprador se queda la cosa de forma irrevocable, según el artículo 1509.",
+     "Además, el derecho puede ejercitarse contra quien haya comprado después al primer comprador. Para que perjudique a terceros, debe constar inscrito en el Registro de la Propiedad."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Cómo funciona con un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Marta necesita 120.000 euros con urgencia y tiene un piso que vale 180.000. Lo vende por 120.000 con un pacto de retro de tres años. Durante ese tiempo, el comprador es el dueño y puede cobrarle un alquiler si ella sigue viviendo allí.",
+     "Si Marta reúne el dinero antes del plazo, recupera el piso pagando los 120.000 euros, los gastos de la escritura y las mejoras necesarias. Si se retrasa un solo día, lo pierde para siempre. Ha vendido por dos tercios de su valor y sin posibilidad de vuelta.",
+     "En la práctica, muchas de estas operaciones funcionan como un préstamo muy caro con el piso de garantía. Por eso conviene analizarlas con calma antes de firmar."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "El pacto de retro sobre una parte indivisa",
+    "type": "text",
+    "intro": [
+     "El Código Civil dedica dos artículos a los proindivisos. Según el artículo 1514, si varios copropietarios venden juntos una finca indivisa con pacto de retro, cada uno solo puede recomprar su parte.",
+     "El artículo 1513 contempla otro caso. Quien compra con pacto de retro una cuota y después se queda la finca entera en una división puede obligar al vendedor a recomprar el todo, si quiere ejercer su derecho. Es decir, la recompra se puede encarecer mucho por el camino.",
+     "Por otro lado, la venta de una cuota a un extraño activa el retracto de comuneros. Los demás copropietarios pueden subrogarse en la compra en un plazo breve, lo que añade otra capa de incertidumbre al pacto de retro."
+    ]
+   },
+   {
+    "overline": "Riesgos",
+    "h2": "Riesgos del pacto de retro para quien vende",
+    "type": "list",
+    "items": [
+     "<strong>Préstamo encubierto.</strong> Si en realidad es una garantía, los tribunales pueden declarar nula la operación. El Código Civil prohíbe que el acreedor se quede la cosa por impago, el llamado pacto comisorio.",
+     "<strong>Usura.</strong> Un precio muy bajo frente a un precio de recompra alto puede esconder intereses abusivos, y la Ley de Usura permite anular esos contratos.",
+     "<strong>Plazo implacable.</strong> No hay prórroga automática. Pasado el plazo, la propiedad se pierde sin compensación.",
+     "<strong>Doble coste.</strong> La venta paga notaría e impuestos como cualquier compraventa, y la recompra genera otros gastos.",
+     "<strong>Precio bajo.</strong> El comprador asume el riesgo de devolver el bien, así que paga bastante menos que el valor de mercado."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Diferencias con vender tu parte sin recompra",
+    "type": "table",
+    "items": [
+     [
+      "Operación",
+      "Cómo funciona y qué implica"
+     ],
+     [
+      "Venta con pacto de retro",
+      "Vendes y te reservas recomprar. Si no pagas en plazo, pierdes el bien para siempre."
+     ],
+     [
+      "Opción de compra",
+      "Es al revés. El futuro comprador paga una prima por el derecho a comprar en un plazo."
+     ],
+     [
+      "Préstamo con hipoteca",
+      "Sigues siendo dueño. Si no pagas, el banco ejecuta la hipoteca mediante subasta."
+     ],
+     [
+      "Venta de tu cuota sin recompra",
+      "Vendes tu parte de forma definitiva y cobras al contado. No hay plazos, intereses ni riesgo de perder nada más."
+     ]
+    ],
+    "outro": [
+     "Si lo que buscas es liquidez y no piensas volver al inmueble, la venta definitiva de tu cuota suele ser la opción más limpia."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte de forma definitiva y sin letra pequeña",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos, casas, locales y terrenos en toda España con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional, sin pactos de recompra ni intereses. Cobras el día de la firma."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Dinos dónde está el inmueble y qué porcentaje tienes. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto dura como máximo un pacto de retro?",
+    "Diez años si se pacta un plazo, según el artículo 1508 del Código Civil. Si el contrato no dice nada, dura cuatro años desde la fecha de la compraventa. Pasado ese plazo sin recomprar, el comprador se queda el bien definitivamente."
+   ],
+   [
+    "¿Qué hay que pagar para recuperar lo vendido con pacto de retro?",
+    "El precio de la venta, los gastos del contrato y cualquier pago legítimo hecho para la venta, además de los gastos necesarios y útiles en la cosa. También lo que se haya pactado en la escritura, que a veces es bastante más."
+   ],
+   [
+    "¿Es legal la compraventa con pacto de retro?",
+    "Sí, está regulada en el Código Civil. Pero los tribunales la anulan cuando encubre un préstamo con garantía o intereses usurarios. Antes de firmar conviene que un abogado revise el precio, el plazo y las condiciones."
+   ],
+   [
+    "¿Se puede vender una parte de un piso con pacto de retro?",
+    "Sí, el pacto de retro puede recaer sobre una cuota indivisa. Sin embargo, los demás copropietarios pueden ejercer el retracto de comuneros y, si el comprador acaba con el piso entero, la recompra puede afectar al todo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el pacto de retro",
+  "related": [
+   [
+    "Opción de compra",
+    "/diccionario-del-proindiviso/opcion-de-compra/"
+   ],
+   [
+    "Retracto de comuneros",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Contrato de arras",
+    "/diccionario-del-proindiviso/contrato-de-arras/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Liquidez hoy, sin recompras mañana",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Pacto de retro: qué es, plazo y riesgos de la retroventa",
+  "meta_desc": "El pacto de retro permite recomprar lo vendido en un plazo de hasta diez años. Cómo funciona, sus riesgos y la alternativa de vender tu parte sin recompra.",
+  "focus_kw": "pacto de retro",
+  "title_corto": "Pacto de retro",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, warm late afternoon light: an old wooden gate of a Mediterranean country estate held half open by a thick rope tied to a whitewashed stone pillar, a gravel path and olive trees beyond, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Pacto de retro: portón de madera atado con una cuerda a un pilar"
+ },
+ {
+  "slug": "reduccion-por-vivienda-habitual",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Reducción por vivienda habitual en sucesiones: requisitos y qué pasa si vendes",
+  "sub": "La reducción por vivienda habitual es la rebaja del 95 % del valor de la casa del fallecido en el impuesto de sucesiones. La ley estatal la limita a 122.606,47 euros por heredero y exige conservarla diez años, o menos según comunidad autónoma. Si vendes tu parte antes, la pierdes, así que conviene hacer números antes de vendernos tu cuota.",
+  "checks": [
+   "Requisitos de la ley estatal",
+   "Ejemplo con tres hijos",
+   "Te ayudamos a hacer números"
+  ],
+  "card_title": "¿Heredaste la casa de tus padres?",
+  "card_text": "Te damos precio por tu parte en 48 horas para que compares con calma si te compensa vender ya o esperar.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la reducción por vivienda habitual y quién puede aplicarla",
+    "type": "text",
+    "intro": [
+     "La recoge el artículo 20.2.c de la Ley 29/1987. Permite restar el 95 % del valor de la vivienda habitual del fallecido de la base del impuesto de sucesiones. El tope estatal es de 122.606,47 euros por cada heredero.",
+     "No todos los herederos pueden usarla. La reducción por vivienda habitual está reservada al cónyuge, a los descendientes y a los ascendientes. También a un pariente colateral mayor de 65 años que hubiera convivido con el fallecido durante los dos años anteriores. Un sobrino o un hermano más joven no tienen derecho a ella."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Requisitos y plazo de permanencia",
+    "type": "list",
+    "intro": [
+     "Cada punto puede hacerte perder la reducción por vivienda habitual. Conviene revisarlos todos antes de presentar el impuesto."
+    ],
+    "items": [
+     "<strong>Que fuera la casa del fallecido.</strong> Debe ser su vivienda habitual según las reglas del IRPF, normalmente con tres años de residencia.",
+     "<strong>Parentesco.</strong> Cónyuge, hijos, padres o el colateral mayor de 65 años conviviente.",
+     "<strong>Mantenerla diez años.</strong> El heredero debe conservarla en su patrimonio durante los diez años siguientes al fallecimiento, salvo que muera antes.",
+     "<strong>No hace falta vivir allí.</strong> Según el criterio administrativo, basta con no venderla ni donarla; puedes tenerla cerrada o alquilada.",
+     "<strong>Mejoras autonómicas.</strong> Muchas comunidades suben el porcentaje, amplían el límite o rebajan la permanencia a cinco años o menos."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con un piso de 180.000 euros y tres hijos",
+    "type": "text",
+    "intro": [
+     "Una madre deja a sus tres hijos el piso donde vivía, valorado en 180.000 euros. Cada hijo recibe 60.000 euros y aplica el 95 %, así que su base por la casa baja a 3.000 euros. Con la reducción por parentesco del grupo II, la cuota estatal queda en cero.",
+     "Sin el beneficio, cada hijo pagaría unos 4.220 euros con la tarifa estatal, de forma orientativa. En muchas comunidades la bonificación del grupo II ya deja la cuota muy baja, y la diferencia es menor.",
+     "Tres años después, uno de los hijos quiere vender su tercio. Si su comunidad mantiene el plazo de diez años, pierde la reducción por vivienda habitual y debe pagar esos 4.220 euros más intereses de demora. Sus hermanos, que conservan su parte, la mantienen."
+    ]
+   },
+   {
+    "overline": "Venta",
+    "h2": "Qué pasa si vendes tu parte de la vivienda habitual antes de plazo",
+    "type": "text",
+    "intro": [
+     "Vender o donar tu cuota antes de tiempo rompe la permanencia que exige la reducción por vivienda habitual. Tendrás que presentar una autoliquidación complementaria con el impuesto que te ahorraste y los intereses de demora. El plazo para hacerlo lo fija cada comunidad.",
+     "Aun así, vender puede compensar. Si el ahorro fue pequeño por las bonificaciones autonómicas, o si quedan pocos meses para cumplir el plazo, el cálculo cambia. También pesa lo que te cuesta seguir pagando IBI, comunidad y derramas de una casa que no usas.",
+     "Por eso, antes de vender, suma tres cifras: lo que cobrarías, lo que tendrías que devolver y lo que pagarías por esperar. Nosotros te damos la primera por escrito y sin compromiso."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Reducción por vivienda habitual frente a otros beneficios",
+    "type": "table",
+    "intro": [
+     "La reducción por vivienda habitual convive con otros beneficios fiscales. Conviene no confundirlos, porque cada uno funciona distinto."
+    ],
+    "items": [
+     [
+      "Beneficio",
+      "En qué consiste"
+     ],
+     [
+      "Reducción por parentesco",
+      "Resta una cantidad fija según el grupo. En la norma estatal, 15.956,87 euros para hijos mayores de 21 años y cónyuge."
+     ],
+     [
+      "Bonificación autonómica",
+      "Descuento sobre la cuota final. En muchas comunidades llega al 99 % para hijos y cónyuge."
+     ],
+     [
+      "Aplazamiento por vivienda habitual",
+      "No rebaja el impuesto, pero permite pagar la parte de la casa en varios años con garantía."
+     ],
+     [
+      "Exención por reinversión",
+      "Es del IRPF, no de sucesiones. Deja sin tributar la venta de tu propia vivienda habitual si compras otra."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Compara antes de decidir",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de viviendas heredadas en toda España. Pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría. Si te conviene esperar a cumplir el plazo, te lo diremos igual."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la casa",
+     "p": "Dinos dónde está el inmueble y tu porcentaje. Oferta por escrito en 48 horas, firma en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hay que vivir en la casa heredada para mantener la reducción?",
+    "No. Lo que se exige es conservarla en tu patrimonio durante el plazo, no habitarla. Puedes tenerla cerrada o alquilada sin perder la reducción, siempre que no la vendas ni la dones antes de tiempo."
+   ],
+   [
+    "¿Qué pasa si vendo la casa heredada antes de diez años?",
+    "Pierdes la reducción y debes ingresar el impuesto que te ahorraste, más intereses de demora, con una autoliquidación complementaria. Si tu comunidad autónoma ha rebajado el plazo a cinco años o menos, solo te afecta si vendes antes de ese plazo."
+   ],
+   [
+    "¿Se aplica la reducción si mi madre vivía en una residencia?",
+    "Depende. Varias comunidades lo admiten expresamente si el traslado fue por motivos de salud o dependencia y la casa no se alquiló. En otras el criterio es más estricto, así que conviene consultarlo antes de presentar el impuesto."
+   ],
+   [
+    "¿Pueden aplicar los hermanos la reducción por vivienda habitual?",
+    "Solo un hermano mayor de 65 años que hubiera convivido con el fallecido durante los dos años anteriores al fallecimiento. Los demás colaterales no tienen derecho a esta reducción en la norma estatal."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la reducción por vivienda habitual",
+  "related": [
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Bonificación del impuesto de sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender un piso heredado: impuestos",
+    "/blog/vender-un-piso-heredado-impuestos/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Vender parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Haz números con una oferta real",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Reducción por vivienda habitual: requisitos y plazo",
+  "meta_desc": "La reducción por vivienda habitual rebaja el 95 % de la casa heredada en sucesiones si la conservas diez años. Requisitos y qué pasa si vendes tu parte.",
+  "focus_kw": "reducción por vivienda habitual",
+  "title_corto": "Reducción por vivienda habitual",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, soft morning light: a lived-in kitchen of an old Spanish family flat with a steel moka coffee pot on the gas stove, an embroidered cloth on a small wooden table and a window with half-open blinds, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Reducción por vivienda habitual: cocina de un piso familiar con una cafetera"
+ },
+ {
+  "slug": "servidumbre",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Servidumbre: qué es y cómo afecta a un inmueble en proindiviso",
+  "sub": "Una servidumbre es un gravamen impuesto sobre un inmueble en beneficio de otro de distinto dueño, según el artículo 530 del Código Civil. Los casos típicos son el paso por una finca vecina o tener luces y vistas sobre ella, y la carga sigue a la finca aunque cambie de dueño o se divida. Si tu inmueble está en proindiviso y una servidumbre complica el reparto, te compramos tu parte con ella incluida.",
+  "checks": [
+   "Con los artículos 530 a 604",
+   "Qué pasa al dividir",
+   "Compramos tu parte con cargas"
+  ],
+  "card_title": "¿Una servidumbre bloquea el reparto?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, con servidumbres, cargas o pleitos con el vecino incluidos.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es una servidumbre y qué tipos existen",
+    "type": "text",
+    "intro": [
+     "En toda servidumbre hay dos fincas. El predio dominante es el que se beneficia; el predio sirviente, el que soporta la carga. Por eso la servidumbre es inseparable de la finca: se transmite con ella, como dice el artículo 534 del Código Civil.",
+     "El Código las clasifica de varias formas. Pueden ser continuas, como una ventana, o discontinuas, como un paso que se usa a ratos. También aparentes, si se ven a simple vista, o no aparentes. Además, unas nacen de la ley, como el paso a una finca sin salida, y otras de un acuerdo entre dueños. Las continuas y aparentes pueden adquirirse por veinte años de uso; las demás solo con título."
+    ]
+   },
+   {
+    "overline": "Tipos",
+    "h2": "Las cargas más frecuentes en pisos, casas y fincas",
+    "type": "table",
+    "intro": [
+     "Estas son las que más aparecen en notas simples y en conflictos entre vecinos o herederos."
+    ],
+    "items": [
+     [
+      "Tipo",
+      "En qué consiste"
+     ],
+     [
+      "De paso",
+      "Permite cruzar una finca ajena. La finca sin salida a camino público puede exigirla pagando una indemnización, según el artículo 564."
+     ],
+     [
+      "De luces y vistas",
+      "Ventanas o balcones sobre la finca vecina. Sin ella, las vistas rectas exigen dos metros de distancia y las oblicuas sesenta centímetros."
+     ],
+     [
+      "De acueducto o desagüe",
+      "Permite pasar agua o tuberías por el terreno de otro, con indemnización al dueño."
+     ],
+     [
+      "De medianería",
+      "Regula muros, setos o vallas compartidos entre dos fincas y quién paga su conservación."
+     ]
+    ]
+   },
+   {
+    "overline": "Registro",
+    "h2": "Cómo consta una servidumbre en el Registro",
+    "type": "text",
+    "intro": [
+     "Lo normal es que una servidumbre voluntaria se inscriba en el folio de las dos fincas. Así aparece en la nota simple de ambas y nadie puede alegar que no la conocía. Las legales no siempre constan, porque nacen de la propia ley.",
+     "Sin embargo, una servidumbre aparente puede perjudicar al comprador aunque no esté inscrita, porque se ve. Un camino marcado o una ventana abierta avisan por sí solos. Por eso conviene visitar la finca y no fiarse solo del Registro.",
+     "Hay un caso que sorprende a muchos herederos. El artículo 541 dice que, si el dueño de dos fincas crea un signo visible de servidumbre entre ellas, al separarse su propiedad la servidumbre nace sola, salvo que la escritura diga lo contrario."
+    ]
+   },
+   {
+    "overline": "División",
+    "h2": "Qué pasa con la servidumbre al dividir un proindiviso",
+    "type": "text",
+    "intro": [
+     "El artículo 535 establece que las servidumbres son indivisibles. Si se divide la finca sirviente, cada trozo soporta la carga en su parte. Si se divide la dominante, cada nuevo dueño puede usarla entera, sin agravarla.",
+     "Imagina dos hermanos que heredan una casa de pueblo de 180.000 euros con un patio trasero. Al dividirla en dos viviendas, la de atrás solo tiene acceso cruzando el patio de la otra. Para repartirla hace falta crear una servidumbre de paso en la propia escritura. Además, el artículo 597 exige que todos los copropietarios consientan para imponerla sobre una finca indivisa.",
+     "Si un hermano se niega, no hay servidumbre y la división física se complica. Entonces suele acabar en venta o en una extinción de condominio con compensación."
+    ]
+   },
+   {
+    "overline": "Valor",
+    "h2": "Cómo afecta al valor y a la venta de tu cuota",
+    "type": "text",
+    "intro": [
+     "La finca que soporta una servidumbre de paso o de vistas vale menos. En cambio, la que se beneficia de ella vale más, porque gana acceso o luz. El efecto depende de cada caso y lo mide el tasador.",
+     "Las servidumbres se extinguen por varias vías. Entre ellas están reunir las dos fincas en un mismo dueño, no usarlas durante veinte años o redimirlas por acuerdo. Mientras siguen vivas, cada comunero puede vender su cuota con la carga, sin pedir permiso a los demás."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte con la carga incluida",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de casas, fincas y terrenos con servidumbres, lindes discutidas o accesos complicados, en toda España. Pagamos entre el 40 % y el 70 % del valor proporcional, ajustado a la situación real del inmueble."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Envíanos la referencia catastral y tu porcentaje. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cómo sé si mi casa tiene una servidumbre?",
+    "Pide una nota simple en el Registro de la Propiedad, donde suelen constar las voluntarias. Revisa también la escritura y visita la finca, porque una servidumbre aparente, como un camino marcado o una ventana, puede existir aunque no esté inscrita."
+   ],
+   [
+    "¿Se puede eliminar una servidumbre de paso?",
+    "Sí, en varios casos: por acuerdo con el dueño de la finca beneficiada, por no usarla durante veinte años, porque ambas fincas pasen al mismo dueño o porque la finca dominante consiga otra salida. Si no hay acuerdo, decide un juez."
+   ],
+   [
+    "¿Cuánto baja el valor de una finca con servidumbre?",
+    "No hay un porcentaje fijo. Depende del tipo de carga, de cuánto limita el uso y de la zona. Un paso que cruza el jardín resta mucho más que una tubería enterrada en un lindero. Lo valora un tasador caso por caso."
+   ],
+   [
+    "¿Puede un solo copropietario imponer una servidumbre sobre la finca común?",
+    "No. El artículo 597 del Código Civil exige el consentimiento de todos los copropietarios para imponer una servidumbre sobre una finca indivisa. La concesión de solo algunos queda en suspenso hasta que firme el último."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la servidumbre",
+  "related": [
+   [
+    "Cargas registrales",
+    "/diccionario-del-proindiviso/cargas-registrales/"
+   ],
+   [
+    "División material",
+    "/diccionario-del-proindiviso/division-material/"
+   ],
+   [
+    "Dividir una casa en dos para repartir la herencia",
+    "/blog/dividir-una-casa-en-dos-para-repartir-la-herencia/"
+   ],
+   [
+    "Retracto de colindantes",
+    "/diccionario-del-proindiviso/retracto-de-colindantes/"
+   ],
+   [
+    "Vender un terreno en proindiviso",
+    "/vender-terreno-proindiviso/"
+   ]
+  ],
+  "cta_title": "Sal del proindiviso aunque haya cargas",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Servidumbre: qué es, tipos y cómo afecta a tu inmueble",
+  "meta_desc": "Una servidumbre es una carga de una finca en favor de otra: paso, luces o vistas. Cómo consta en el Registro, qué pasa al dividir y cómo vender tu parte.",
+  "focus_kw": "servidumbre",
+  "title_corto": "Servidumbre",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, golden late afternoon light: a narrow dirt path running between two low stone walls that separate neighbouring rural properties, leading to an old whitewashed farmhouse in the Spanish countryside, almond trees on both sides, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Servidumbre: camino de tierra entre dos fincas rurales hacia un cortijo encalado"
+ },
+ {
+  "slug": "testamento-abierto",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Testamento abierto: qué es, cómo pedir copia y cómo agiliza la herencia",
+  "sub": "El testamento abierto es el que se otorga ante notario, que redacta la voluntad del testador y la guarda en su protocolo. Lo regulan los artículos 679 y 694 a 705 del Código Civil, y es el más habitual en España. Con su copia y dos certificados, los herederos pueden aceptar la herencia y vender su parte en pocas semanas.",
+  "checks": [
+   "Pasos para pedir la copia",
+   "Comparado con otras formas",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Ya tienes la copia del testamento?",
+  "card_text": "Te damos precio por tu parte de la herencia en 48 horas y podemos firmar en el mismo acto de la aceptación.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un testamento abierto y cómo se otorga",
+    "type": "text",
+    "intro": [
+     "El artículo 679 del Código Civil define el testamento abierto como aquel en que el testador manifiesta su última voluntad ante quien debe autorizarlo. En la práctica, ese es un notario. Primero, el testador explica lo que quiere; después, el notario lo redacta, se lo lee y ambos firman.",
+     "Desde 2015 no hacen falta testigos, salvo casos concretos que recoge el artículo 697. Por ejemplo, cuando el testador no sabe o no puede firmar, es ciego o lo pide él o el notario. Además, el notario comunica el testamento al Registro General de Actos de Última Voluntad. Su coste ronda los 50 euros, de forma orientativa. También se puede cambiar cuantas veces se quiera, porque el último revoca al anterior."
+    ]
+   },
+   {
+    "overline": "Copia",
+    "h2": "Cómo pedir la copia tras el fallecimiento",
+    "type": "steps",
+    "intro": [
+     "Los herederos no suelen tener el original, ya que se queda en la notaría. Por eso necesitan una copia autorizada, y el camino es siempre el mismo."
+    ],
+    "items": [
+     {
+      "t": "Certificado de defunción",
+      "p": "Se pide en el Registro Civil, en persona o por internet, y es gratuito."
+     },
+     {
+      "t": "Certificado de últimas voluntades",
+      "p": "Se solicita a partir de quince días hábiles desde el fallecimiento, con una tasa de pocos euros. Así sabrás si hubo testamento, cuál fue el último y ante qué notario."
+     },
+     {
+      "t": "Copia autorizada en la notaría",
+      "p": "Con ambos certificados, cualquier heredero o legatario la pide al notario que lo autorizó. Normalmente cuesta unas decenas de euros."
+     },
+     {
+      "t": "Si el notario ya no está",
+      "p": "El protocolo pasa a su sucesor en la plaza o al archivo del colegio notarial. Además, el certificado indica dónde dirigirse."
+     }
+    ]
+   },
+   {
+    "overline": "Ventajas",
+    "h2": "Por qué el testamento abierto agiliza aceptar la herencia",
+    "type": "text",
+    "intro": [
+     "Con un testamento abierto no hay que validar nada ante un juez ni ante otro notario. En cambio, el testamento ológrafo debe adverarse ante notario en los cinco años siguientes al fallecimiento. Y sin testamento hace falta antes una declaración de herederos.",
+     "Además, un notario lo redactó y comprobó que el testador era capaz, así que las impugnaciones son más raras. Por eso, con la copia en la mano, los herederos pueden firmar la aceptación y el reparto en una sola escritura. Incluso puedes aceptar la herencia y vender tu parte en el mismo acto."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: tres hermanos y la herencia de su madre",
+    "type": "text",
+    "intro": [
+     "Una madre otorgó en 2010 un testamento abierto que deja su piso de 180.000 euros a sus tres hijos a partes iguales. Fallece en marzo. Pasados quince días hábiles, los hijos piden el certificado de últimas voluntades, que les indica la notaría.",
+     "Después, con la copia autorizada, firman la aceptación y se adjudican un tercio cada uno. Si uno quiere vender, su parte vale 60.000 euros en proporción y nosotros pagamos entre el 40 % y el 70 % de esa cifra. Así, todo el proceso puede cerrarse en dos o tres meses.",
+     "Sin testamento, en cambio, habría que sumar la declaración de herederos ante notario. Eso añade, de forma orientativa, uno o dos meses y unos cientos de euros."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Testamento abierto frente a otros tipos de testamento",
+    "type": "table",
+    "items": [
+     [
+      "Tipo",
+      "Cómo se hace y qué exige después"
+     ],
+     [
+      "Abierto",
+      "Ante notario, que lo redacta y lo guarda. Por eso no necesita ningún trámite de validación tras el fallecimiento."
+     ],
+     [
+      "Ológrafo",
+      "Escrito a mano y firmado por el testador mayor de edad, con fecha. Después debe adverarse ante notario en cinco años."
+     ],
+     [
+      "Cerrado",
+      "Se entrega al notario en sobre cerrado, aunque este no conoce su contenido. Hoy es muy raro."
+     ],
+     [
+      "En peligro de muerte o epidemia",
+      "Ante testigos, sin notario. Pero pierde eficacia a los dos meses si el testador sale del peligro."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Acepta y vende tu parte en el mismo acto",
+    "type": "callout",
+    "intro": [
+     "Si ya tienes la copia del testamento, el camino es corto. Además, compramos tu parte de la herencia con fondos propios, sin esperar a que tus hermanos decidan qué hacer con la suya."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte heredada",
+     "p": "Dinos qué inmuebles hay y qué porcentaje te deja el testamento. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cómo sé si mi padre hizo testamento abierto?",
+    "Pide el certificado de últimas voluntades al Ministerio de Justicia, a partir de quince días hábiles desde el fallecimiento. Indica si otorgó testamento, la fecha del último y el notario ante el que lo hizo."
+   ],
+   [
+    "¿Quién puede pedir copia del testamento de un fallecido?",
+    "Los herederos, los legatarios y quienes tengan un interés legítimo, como quienes heredarían si no hubiera testamento. Para ello hay que presentar en la notaría el certificado de defunción y el de últimas voluntades."
+   ],
+   [
+    "¿Cuánto cuesta pedir la copia en la notaría?",
+    "La copia autorizada suele costar unas decenas de euros, según los folios que tenga. A eso se suma la tasa del certificado de últimas voluntades, que es de pocos euros, y el certificado de defunción, que es gratuito."
+   ],
+   [
+    "¿Se puede impugnar un testamento abierto?",
+    "Sí, por defectos de forma, falta de capacidad del testador, presiones o por perjudicar la legítima. Pero es más difícil que con otros testamentos, porque un notario lo redactó y valoró la capacidad del testador."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el testamento abierto",
+  "related": [
+   [
+    "Tipos de testamento",
+    "/diccionario-del-proindiviso/testamento/"
+   ],
+   [
+    "Testamento ológrafo",
+    "/diccionario-del-proindiviso/testamento-olografo/"
+   ],
+   [
+    "Certificado de últimas voluntades",
+    "/blog/certificado-de-ultimas-voluntades-como-pedirlo/"
+   ],
+   [
+    "Aceptar la herencia y vender en el mismo acto",
+    "/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/"
+   ],
+   [
+    "Impugnar un testamento y vender la casa",
+    "/blog/impugnar-testamento-vender-la-casa/"
+   ]
+  ],
+  "cta_title": "Convierte tu herencia en dinero en semanas",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Testamento abierto: qué es, copia y ventajas para heredar",
+  "meta_desc": "El testamento abierto se otorga ante notario y no hay que validarlo. Cómo pedir copia tras el fallecimiento y cómo agiliza aceptar la herencia y vender.",
+  "focus_kw": "testamento abierto",
+  "title_corto": "Testamento abierto",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, calm daylight from a tall window: a quiet archive room in an old Spanish building with rows of dark wooden cabinets with plain brass handles and no labels, a polished stone floor and an empty wooden chair, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Testamento abierto: sala de archivo con armarios de madera en un edificio antiguo"
+ },
+ {
+  "slug": "valor-de-mercado",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Valor de mercado: qué es y por qué tu cuota vale menos que su parte",
+  "sub": "El valor de mercado es el precio más probable que pagaría por un inmueble un comprador independiente, en condiciones normales y sin prisas. No coincide con el valor catastral, el de referencia ni el de tasación. Y una cuota de un proindiviso no se vende por su parte proporcional del valor de mercado, sino con descuento: nosotros pagamos entre el 40 % y el 70 % de esa cifra.",
+  "checks": [
+   "Los cuatro valores comparados",
+   "Ejemplo con un tercio de piso",
+   "Precio por escrito en 48 h"
+  ],
+  "card_title": "¿Cuánto vale de verdad tu parte?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, por escrito y sin compromiso, con el cálculo explicado.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el valor de mercado de un inmueble",
+    "type": "text",
+    "intro": [
+     "La normativa de tasaciones lo define como el precio al que podría venderse un inmueble entre un vendedor voluntario y un comprador independiente. Se supone que el bien se ha ofrecido públicamente y que hay un plazo normal para negociar. Es decir, sin urgencias ni condiciones raras.",
+     "Nadie publica el valor de mercado de tu piso. Se estima comparando ventas recientes de viviendas parecidas en la misma zona. Pesan la ubicación, los metros, la planta, el ascensor, el estado y la orientación. Por eso dos pisos del mismo edificio pueden tener valores distintos."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Valor de mercado frente a catastral, de referencia y de tasación",
+    "type": "table",
+    "intro": [
+     "Estos cuatro valores se mezclan a menudo, pero cada uno sirve para algo distinto."
+    ],
+    "items": [
+     [
+      "Valor",
+      "Quién lo fija y para qué sirve"
+     ],
+     [
+      "De mercado",
+      "Lo marca la oferta y la demanda. Es la referencia para negociar una venta."
+     ],
+     [
+      "Catastral",
+      "Lo fija el Catastro y suele rondar la mitad del de mercado. Sirve de base para el IBI y la plusvalía municipal."
+     ],
+     [
+      "De referencia",
+      "También lo calcula el Catastro, desde 2022, a partir de compraventas reales. Es la base mínima del ITP y del impuesto de sucesiones."
+     ],
+     [
+      "De tasación",
+      "Lo emite una sociedad de tasación homologada para una hipoteca. Suele quedar cerca del de mercado."
+     ]
+    ],
+    "outro": [
+     "En una herencia, Hacienda toma el valor de referencia o el declarado, si es mayor. Para vender, en cambio, lo que cuenta es el valor de mercado."
+    ]
+   },
+   {
+    "overline": "Descuento",
+    "h2": "Por qué una cuota se vende por menos que su parte proporcional",
+    "type": "list",
+    "intro": [
+     "Quien compra un tercio de un piso no compra un tercio de las ventajas. Estas son las razones del descuento."
+    ],
+    "items": [
+     "<strong>No hay uso exclusivo.</strong> El comprador no puede entrar a vivir ni alquilar el piso por su cuenta.",
+     "<strong>Hace falta acuerdo o juicio.</strong> Para vender el inmueble entero necesita a los demás o una división de cosa común, que tarda de uno a tres años.",
+     "<strong>Costes del proceso.</strong> Abogado, procurador, tasación y, a veces, una subasta con precio bajo.",
+     "<strong>Ocupación.</strong> Si un comunero vive en la casa, el descuento crece.",
+     "<strong>Tiempo e incertidumbre.</strong> El dinero queda inmovilizado meses o años sin saber cómo acabará."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: el valor de mercado de un tercio de un piso de 180.000 euros",
+    "type": "text",
+    "intro": [
+     "Tres hermanos heredan un piso con un valor de mercado de 180.000 euros. Su valor catastral es de 70.000 euros y el de referencia, de 150.000. Cada tercio vale, en proporción, 60.000 euros de mercado, 23.333 de catastral y 50.000 de referencia.",
+     "Para el impuesto de sucesiones, cada hermano declara al menos 50.000 euros. Sin embargo, si uno quiere vender su tercio a un tercero, no cobrará 60.000. Una cuota indivisa se paga, de forma orientativa, entre 24.000 y 42.000 euros, según la ciudad, la ocupación y las cargas.",
+     "Si los tres venden juntos el piso entero, cada uno cobra cerca de su parte del valor de mercado. Pero eso exige acuerdo, y el acuerdo es justo lo que suele faltar."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo calcular cuánto pedir por tu parte",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Estima el valor del piso entero",
+      "p": "Mira ventas recientes de pisos parecidos en tu zona o encarga una tasación, que cuesta unos pocos cientos de euros."
+     },
+     {
+      "t": "Aplica tu porcentaje",
+      "p": "Multiplica por tu cuota: un tercio, la mitad o el porcentaje que figure en la escritura."
+     },
+     {
+      "t": "Ajusta por la situación",
+      "p": "Resta el efecto de la ocupación, las cargas y el número de comuneros. Nuestra calculadora te da una horquilla en un minuto."
+     },
+     {
+      "t": "Compara ofertas por escrito",
+      "p": "Pide precio a compradores profesionales y compara con lo que costaría un juicio de división."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Pide una cifra real por tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos, casas, locales, garajes y terrenos en toda España con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional y te explicamos cómo llegamos a la cifra."
+    ],
+    "items": {
+     "t": "Averigua cuánto vale tu parte hoy",
+     "p": "Dinos la dirección y tu porcentaje. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿El valor de mercado es lo mismo que el valor de tasación?",
+    "No exactamente. La tasación es un informe técnico que estima el valor de mercado con reglas oficiales, sobre todo para hipotecas. Suelen estar cerca, pero el precio real lo marca lo que un comprador esté dispuesto a pagar."
+   ],
+   [
+    "¿Cómo sé el valor de mercado de mi piso?",
+    "Compara precios de venta recientes de pisos similares en tu zona, consulta a varias inmobiliarias o encarga una tasación oficial. Para una cuota indivisa, usa además una calculadora que aplique el descuento por indivisión."
+   ],
+   [
+    "¿Qué valor usa Hacienda en una herencia?",
+    "Desde 2022, el valor de referencia del Catastro o el valor declarado, si es mayor. No usa el valor de mercado ni el catastral. Por eso puedes tributar por un tercio entero aunque en el mercado tu cuota valga menos."
+   ],
+   [
+    "¿Por qué me ofrecen menos que mi parte del valor de mercado?",
+    "Porque quien compra una cuota no puede usar ni vender el inmueble entero sin acuerdo o juicio. Ese riesgo, el tiempo y los costes se descuentan del precio, normalmente entre un 30 % y un 60 %."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el valor de mercado",
+  "related": [
+   [
+    "Valor catastral",
+    "/diccionario-del-proindiviso/valor-catastral/"
+   ],
+   [
+    "Valor de referencia catastral",
+    "/blog/valor-de-referencia-catastral-venta-de-tu-parte/"
+   ],
+   [
+    "Descuento por indivisión",
+    "/diccionario-del-proindiviso/descuento-por-indivision/"
+   ],
+   [
+    "Tasación de una vivienda",
+    "/diccionario-del-proindiviso/tasacion-de-una-vivienda/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Sabe hoy cuánto vale tu cuota",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Valor de mercado: qué es y en qué se diferencia del catastral",
+  "meta_desc": "El valor de mercado es lo que pagaría un comprador independiente. Diferencias con el catastral y el de referencia, y por qué tu cuota vale menos.",
+  "focus_kw": "valor de mercado",
+  "title_corto": "Valor de mercado",
+  "imagen_prompt": "Editorial photograph, 16:9, 35 mm lens, clear morning light: a tree-lined residential street in a Spanish city with a row of apartment buildings of different ages and heights, brick and pale stone facades with balconies, parked bicycles and no cars, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Valor de mercado: calle residencial con edificios de distintas épocas en una ciudad"
+ }
+]
