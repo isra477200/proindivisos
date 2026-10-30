@@ -21,9 +21,9 @@
     "h2": "Cuánto cuesta la extinción de condominio en Madrid en 2026",
     "type": "text",
     "intro": [
-     "La extinción de condominio en Madrid paga el impuesto de actos jurídicos documentados (AJD) al 0,75 %. Es el tipo general que la Comunidad de Madrid fija para las escrituras notariales en 2026. Lo abona quien se queda el inmueble, porque es quien adquiere.",
-     "La base no es el valor total del piso. Según la doctrina del Tribunal Supremo desde 2018, solo tributa el valor de la parte que adquiere el adjudicatario. Por ejemplo, si te quedas la mitad de tu hermano, pagas solo por esa mitad.",
-     "Además del AJD, cuenta con notaría, registro y, si hace falta, gestoría. En cambio, quien cobra la compensación no paga AJD. En principio, tampoco hay plusvalía municipal ni ganancia en el IRPF. La ley no trata la división de la cosa común como una venta. Todo es orientativo: consulta tu caso."
+     "Además, la extinción de condominio en Madrid paga el impuesto de actos jurídicos documentados (AJD) al 0,75 %. En la práctica, es el tipo general que la Comunidad de Madrid fija para las escrituras notariales en 2026. Lo abona quien se queda el inmueble, porque es quien adquiere.",
+     "En concreto, la base no es el valor total del piso. Asimismo, según la doctrina del Tribunal Supremo desde 2018, solo tributa el valor de la parte que adquiere el adjudicatario. Por ejemplo, si te quedas la mitad de tu hermano, pagas solo por esa mitad.",
+     "Además del AJD, cuenta con notaría, registro y, si hace falta, gestoría. En cambio, quien cobra la compensación no paga AJD. En principio, tampoco hay plusvalía municipal ni ganancia en el IRPF. La ley no trata la división de la cosa común como una venta. Además, todo es orientativo: consulta tu caso."
     ]
    },
    {
@@ -31,7 +31,7 @@
     "h2": "Los impuestos del proindiviso en la Comunidad de Madrid",
     "type": "table",
     "intro": [
-     "En la extinción de condominio en Madrid solo aparece el AJD. El resto depende de la salida que elijas. Estos son los tipos de 2026 según la normativa madrileña de tributos cedidos y la estatal."
+     "En la práctica, en la extinción de condominio en Madrid solo aparece el AJD. En concreto, el resto depende de la salida que elijas. Asimismo, estos son los tipos de 2026 según la normativa madrileña de tributos cedidos y la estatal."
     ],
     "items": [
      [
@@ -71,7 +71,7 @@
      ]
     ],
     "outro": [
-     "Ojo con los tipos reducidos. La Dirección General de Tributos madrileña los vincula a transmisiones de vivienda. Y la extinción no es una transmisión en sentido estricto. Por eso, lo prudente es calcular al 0,75 % y pedir al notario que confirme si cabe alguna rebaja."
+     "Además, ojo con los tipos reducidos. La Dirección General de Tributos madrileña los vincula a transmisiones de vivienda. Y la extinción no es una transmisión en sentido estricto. Por eso, lo prudente es calcular al 0,75 % y pedir al notario que confirme si cabe alguna rebaja."
     ]
    },
    {
@@ -961,51 +961,35 @@
     "items": [
      [
       "Concepto",
-      "Álava",
-      "Bizkaia",
-      "Gipuzkoa"
+      "Álava, Bizkaia y Gipuzkoa"
      ],
      [
       "AJD en la extinción",
-      "0,5 %.",
-      "0,5 %.",
-      "0,5 %."
+      "0,5 % en los tres territorios."
      ],
      [
       "ITP de vivienda si vendes tu cuota",
-      "4 %. Sube al 6 % si el comprador tiene más de cinco viviendas.",
-      "4 %. Sube al 6 % si el comprador tiene más de cinco viviendas.",
-      "4 %."
+      "4 %; en Álava y Bizkaia sube al 6 % si el comprador tiene más de cinco viviendas."
      ],
      [
       "ITP reducido en vivienda habitual",
-      "2,5 % hasta 120 m² o familia numerosa. 1,5 % en algunos núcleos rurales.",
-      "2,5 % hasta 120 m² o familia numerosa.",
-      "2,5 % hasta 120 m² o familia numerosa."
+      "2,5 % hasta 120 m² o con familia numerosa; 1,5 % en algunos núcleos rurales de Álava."
      ],
      [
       "Locales, terrenos y garajes sueltos",
-      "7 %.",
-      "7 %.",
-      "7 %."
+      "7 % en los tres territorios."
      ],
      [
       "Herencia de hijos, cónyuge o padres",
-      "Reducción de 400.000 € y 1,5 %.",
-      "Reducción de 400.000 € y 1,5 %.",
-      "Reducción de 400.000 € y 1,5 %."
+      "Reducción de 400.000 € y tipo fijo del 1,5 %."
      ],
      [
       "Herencia de hermanos",
-      "Reducción de 38.156 € y escala del 5,70 % al 34,58 %.",
-      "Reducción de 40.000 € y escala del 5,70 % al 34,58 %.",
-      "Reducción de 16.150 € y escala del 5,70 % al 34,58 %."
+      "Escala del 5,70 % al 34,58 %, con reducción de 38.156 € en Álava, 40.000 € en Bizkaia y 16.150 € en Gipuzkoa."
      ],
      [
       "Vivienda en la que convivías dos años",
-      "Reducción del 95 % hasta 212.242 €.",
-      "Reducción del 95 % hasta 215.000 €.",
-      "Reducción del 95 % hasta 220.000 €."
+      "Reducción del 95 %, con límite de 212.242 € en Álava, 215.000 € en Bizkaia y 220.000 € en Gipuzkoa."
      ]
     ],
     "outro": [

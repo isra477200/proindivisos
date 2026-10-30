@@ -368,7 +368,7 @@
     "h2": "Qué es la tasación de una vivienda y quién puede hacerla",
     "type": "text",
     "intro": [
-     "La tasación de una vivienda es un informe técnico firmado por un arquitecto o un aparejador. Además, el profesional trabaja para una sociedad de tasación homologada e inscrita en el Banco de España. De hecho, en la práctica, el tasador visita el inmueble, lo mide y revisa la nota simple y el Catastro. Después aplica los métodos de la Orden ECO/805/2003. En concreto, los principales son la comparación con ventas recientes, el coste de reposición, la actualización de rentas y el método residual.",
+     "La tasación de una vivienda es un informe técnico firmado por un arquitecto o un aparejador. Además, el profesional trabaja para una sociedad de tasación homologada e inscrita en el Banco de España. En la práctica, el tasador visita el inmueble, lo mide y revisa la nota simple y el Catastro. Después aplica los métodos de la Orden ECO/805/2003. En concreto, los principales son la comparación con ventas recientes, el coste de reposición, la actualización de rentas y el método residual.",
      "Asimismo, el resultado es un valor con validez de seis meses. Solo esa tasación oficial sirve para que un banco conceda una hipoteca. Además, tiene peso probatorio en un juzgado y en Hacienda, porque la firma un profesional independiente con responsabilidad."
     ]
    },
@@ -377,7 +377,7 @@
     "h2": "Tasación oficial frente a valoración: no es lo mismo",
     "type": "table",
     "intro": [
-     "Además, cuatro cifras distintas pueden describir el mismo piso. De hecho, en la práctica, conviene saber cuál pide cada trámite."
+     "Además, cuatro cifras distintas pueden describir el mismo piso. En la práctica, conviene saber cuál pide cada trámite."
     ],
     "items": [
      [
@@ -425,7 +425,7 @@
      },
      {
       "t": "Inventario de la herencia",
-      "p": "De hecho, en la práctica, sirve para valorar la casa en el cuaderno particional. Así se reparte con equilibrio cuando hay varios bienes y varios herederos.",
+      "p": "En la práctica, sirve para valorar la casa en el cuaderno particional. Así se reparte con equilibrio cuando hay varios bienes y varios herederos.",
       "url": "/diccionario-del-proindiviso/inventario-de-la-herencia/",
       "cta": "Ver inventario →"
      },
@@ -1060,7 +1060,7 @@
     "type": "text",
     "intro": [
      "El usufructo divide la propiedad en dos. Por un lado, el usufructuario tiene el uso y los frutos: puede vivir en la vivienda, alquilarla y cobrar la renta, según el artículo 480 del Código Civil. El nudo propietario conserva la titularidad y recupera el pleno dominio cuando el usufructo se extingue. Puede vender su nuda propiedad en cualquier momento, según el artículo 489.",
-     "Cada uno tiene sus cargas. El usufructuario paga las reparaciones ordinarias, el IBI y los gastos de comunidad, según los artículos 500 y 504. Las obras extraordinarias corren por cuenta del nudo propietario, según el artículo 501. En la práctica, además, el usufructuario no puede cambiar el destino de la casa ni dejarla deteriorarse."
+     "Cada uno tiene sus cargas. El usufructuario paga las reparaciones ordinarias, el IBI y los gastos de comunidad, según los artículos 500 y 504. Las obras extraordinarias corren por cuenta del nudo propietario, según el artículo 501. Además, el usufructuario no puede cambiar el destino de la casa ni dejarla deteriorarse."
     ]
    },
    {
@@ -1565,7 +1565,7 @@
     "h2": "Qué es el valor catastral y cómo se calcula",
     "type": "text",
     "intro": [
-     "Además, el valor catastral lo fija Catastro, no el ayuntamiento ni el propietario. De hecho, en la práctica, se calcula con la ponencia de valores de cada municipio, que asigna un valor al suelo según la zona y otro a la construcción según superficie, antigüedad, calidad y uso. La suma de ambos es el valor catastral, y por ley no puede superar el valor de mercado. En concreto, en la práctica se fija alrededor de la mitad.",
+     "Además, el valor catastral lo fija Catastro, no el ayuntamiento ni el propietario. De hecho, se calcula con la ponencia de valores de cada municipio, que asigna un valor al suelo según la zona y otro a la construcción según superficie, antigüedad, calidad y uso. La suma de ambos es el valor catastral, y por ley no puede superar el valor de mercado. En concreto, en la práctica se fija alrededor de la mitad.",
      "Asimismo, las ponencias se revisan cada varios años, a veces décadas. Además, entre revisiones, la Ley de Presupuestos aplica coeficientes de actualización a los municipios que lo piden. Por eso dos pisos iguales en ciudades distintas pueden tener un valor catastral muy diferente, sin que eso diga nada de su precio real."
     ]
    },
@@ -1580,11 +1580,11 @@
      },
      {
       "t": "Sede Electrónica del Catastro",
-      "p": "Con certificado digital o Cl@ve puedes ver los datos protegidos de tus inmuebles, incluido el valor catastral. Sin identificarte solo verás superficie, año y referencia."
+      "p": "Además, con certificado digital o Cl@ve puedes ver los datos protegidos de tus inmuebles, incluido el valor catastral. De hecho, sin identificarte solo verás superficie, año y referencia."
      },
      {
       "t": "Punto de Información Catastral",
-      "p": "Están en ayuntamientos y oficinas de Hacienda. Te dan una certificación catastral con el valor, gratis o por una tasa pequeña."
+      "p": "En concreto, están en ayuntamientos y oficinas de Hacienda. Te dan una certificación catastral con el valor, gratis o por una tasa pequeña."
      },
      {
       "t": "Notaría o gestoría",

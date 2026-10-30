@@ -6,7 +6,7 @@ el pie tiene caché de elementos (_elementor_element_cache, 24 h). Tras el build
 guarda el autoguardado como versión publicada, borra _elementor_element_cache y limpia el CSS."""
 import json, subprocess, re, urllib.request
 COL='60f130d4'  # «Pie col 3» (Guías) en el pie 684
-NUEVOS=[("Calculadora: cuánto vale tu parte","/cuanto-vale-mi-parte-de-un-piso/"),("Simulador de extinción de condominio","/simulador-extincion-de-condominio/"),("Diccionario del proindiviso","/diccionario-del-proindiviso/")]
+NUEVOS=[("Calculadora: cuánto vale tu parte","/cuanto-vale-mi-parte-de-un-piso/"),("Simulador de extinción de condominio","/simulador-extincion-de-condominio/"),("Diccionario del proindiviso","/diccionario-del-proindiviso/"),("Impuestos por comunidad","/impuestos-del-proindiviso/"),("Modelos de documentos","/modelos-documentos-proindiviso/"),("Preguntas frecuentes","/preguntas-frecuentes-proindiviso/")]
 STYLE="font-weight:500; font-size:15px; color:rgba(255,255,255,0.88); text-decoration:none; &:hover { color: var(--brand-accent); }"
 def emcp(tool,args): return subprocess.run(['./emcp.sh',tool,json.dumps(args,ensure_ascii=False)],capture_output=True,text=True).stdout
 html=urllib.request.urlopen('https://zonaproindiviso.com/?zpfoot=1').read().decode('utf8','ignore')

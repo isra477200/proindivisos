@@ -528,7 +528,7 @@
     "h2": "Qué son los actos jurídicos documentados",
     "type": "text",
     "intro": [
-     "Los actos jurídicos documentados son una de las tres modalidades del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, regulado por el Real Decreto Legislativo 1/1993. Además, gravan los documentos notariales, mercantiles y administrativos. De hecho, en la práctica, en el mundo inmobiliario interesa la cuota variable sobre documentos notariales. En concreto, se aplica a las primeras copias de escrituras con objeto valuable, inscribibles en el Registro y no sujetas a ITP ni a sucesiones.",
+     "Los actos jurídicos documentados son una de las tres modalidades del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, regulado por el Real Decreto Legislativo 1/1993. Además, gravan los documentos notariales, mercantiles y administrativos. En la práctica, en el mundo inmobiliario interesa la cuota variable sobre documentos notariales. En concreto, se aplica a las primeras copias de escrituras con objeto valuable, inscribibles en el Registro y no sujetas a ITP ni a sucesiones.",
      "Asimismo, es un impuesto cedido a las comunidades autónomas. Por eso cada una fija su tipo y sus bonificaciones. Además, hay una cuota fija por el papel timbrado de 0,30 euros por pliego, que paga la notaría y repercute en la factura. Cuando hablamos de actos jurídicos documentados en un proindiviso, nos referimos casi siempre a la cuota variable sobre la escritura."
     ]
    },
@@ -542,7 +542,7 @@
     "items": [
      {
       "t": "Extinción de condominio",
-      "p": "De hecho, en la práctica, uno se queda el inmueble y compensa en dinero al resto. No hay ITP porque no es una transmisión, pero la escritura tributa por AJD sobre el valor total del bien, según el criterio más extendido.",
+      "p": "En la práctica, uno se queda el inmueble y compensa en dinero al resto. No hay ITP porque no es una transmisión, pero la escritura tributa por AJD sobre el valor total del bien, según el criterio más extendido.",
       "url": "/extincion-de-condominio/impuestos-y-notario/",
       "cta": "Impuestos de la extinción →"
      },
@@ -567,7 +567,7 @@
     "h2": "Tipos de actos jurídicos documentados por comunidad autónoma",
     "type": "table",
     "intro": [
-     "De hecho, en la práctica, tipos orientativos de la cuota variable. Compruébalo con tu comunidad, porque cambian con frecuencia:"
+     "En la práctica, tipos orientativos de la cuota variable. Compruébalo con tu comunidad, porque cambian con frecuencia:"
     ],
     "items": [
      [
@@ -1686,7 +1686,7 @@
     "h2": "Qué son las cargas registrales",
     "type": "text",
     "intro": [
-     "Además, las cargas registrales son los gravámenes, derechos reales y limitaciones que constan inscritos o anotados sobre una finca en el Registro de la Propiedad. De hecho, en la práctica, siguen a la finca, no al dueño. Es decir, si compras un piso o una cuota con una hipoteca inscrita, la hipoteca sigue ahí aunque tú no la firmaras. En concreto, ese es el efecto de la publicidad registral de los artículos 32 y 34 de la Ley Hipotecaria.",
+     "Además, las cargas registrales son los gravámenes, derechos reales y limitaciones que constan inscritos o anotados sobre una finca en el Registro de la Propiedad. De hecho, siguen a la finca, no al dueño. Es decir, si compras un piso o una cuota con una hipoteca inscrita, la hipoteca sigue ahí aunque tú no la firmaras. En concreto, ese es el efecto de la publicidad registral de los artículos 32 y 34 de la Ley Hipotecaria.",
      "Asimismo, no todas las cargas registrales pesan igual. Además, una servidumbre de paso apenas afecta al valor; una hipoteca viva o un embargo pueden absorber todo el precio. Por eso, antes de vender tu cuota conviene pedir una nota simple actualizada y entender qué dice cada asiento."
     ]
    },
@@ -1736,7 +1736,7 @@
     "h2": "Cómo leer las cargas en la nota simple",
     "type": "list",
     "intro": [
-     "De hecho, en la práctica, la nota simple tiene un apartado de cargas registrales. Léelo en este orden:"
+     "De hecho, la nota simple tiene un apartado de cargas registrales. Además, léelo en este orden:"
     ],
     "items": [
      "<strong>Si pone «libre de cargas».</strong> No hay nada inscrito. Aun así, revisa el IBI y la comunidad, que no constan en el Registro.",
@@ -1751,7 +1751,7 @@
     "h2": "Cuánto restan las cargas registrales al precio de una cuota",
     "type": "text",
     "intro": [
-     "Imagina un piso de 180.000 euros con una hipoteca pendiente de 60.000 euros y tres hermanos a partes iguales. El valor neto es 120.000 euros, 40.000 euros por cabeza. Un comprador profesional paga entre el 40 % y el 70 % de esos 40.000 euros, es decir, de 16.000 a 28.000 euros. Si además el hermano vendedor tiene un embargo de 5.000 euros sobre su cuota, se paga al acreedor en notaría y él recibe el resto.",
+     "De hecho, imagina un piso de 180.000 euros con una hipoteca pendiente de 60.000 euros y tres hermanos a partes iguales. El valor neto es 120.000 euros, 40.000 euros por cabeza. Un comprador profesional paga entre el 40 % y el 70 % de esos 40.000 euros, es decir, de 16.000 a 28.000 euros. Si además el hermano vendedor tiene un embargo de 5.000 euros sobre su cuota, se paga al acreedor en notaría y él recibe el resto.",
      "Las cargas registrales no impiden vender, pero sí condicionan el precio y la mecánica de la firma. Nosotros calculamos el neto con la nota simple en la mano. Te decimos qué parte se destina a cancelar cargas y cuánto cobras limpio, sin sorpresas el día de la notaría."
     ]
    },
@@ -1872,7 +1872,7 @@
     "h2": "Qué es la referencia catastral y cómo se compone",
     "type": "text",
     "intro": [
-     "Además, la referencia catastral es el código alfanumérico que identifica de forma única cada bien inmueble en el Catastro Inmobiliario, el registro administrativo que depende del Ministerio de Hacienda. De hecho, en la práctica, tiene 20 caracteres. En concreto, los 14 primeros identifican la parcela o el edificio. Después vienen cuatro que señalan el piso, local o garaje concreto dentro de él. Por último, dos dígitos de control.",
+     "Además, la referencia catastral es el código alfanumérico que identifica de forma única cada bien inmueble en el Catastro Inmobiliario, el registro administrativo que depende del Ministerio de Hacienda. En la práctica, tiene 20 caracteres. En concreto, los 14 primeros identifican la parcela o el edificio. Después vienen cuatro que señalan el piso, local o garaje concreto dentro de él. Por último, dos dígitos de control.",
      "Asimismo, la regula el texto refundido de la Ley del Catastro Inmobiliario. Además, desde 1996 es obligatorio hacerla constar en escrituras, contratos de alquiler y en cualquier documento que afecte a un inmueble. Además, el notario la comprueba antes de autorizar la venta y advierte si no coincide con la descripción de la finca."
     ]
    },
@@ -1881,7 +1881,7 @@
     "h2": "Dónde encontrar la referencia catastral de tu inmueble",
     "type": "list",
     "intro": [
-     "De hecho, en la práctica, no hace falta pedir nada a nadie. En concreto, la referencia catastral está en varios sitios:"
+     "En la práctica, no hace falta pedir nada a nadie. En concreto, la referencia catastral está en varios sitios:"
     ],
     "items": [
      "<strong>Recibo del IBI.</strong> Aparece siempre, junto al valor catastral. Es el sitio más rápido si pagas el impuesto.",
@@ -1901,7 +1901,7 @@
     "items": [
      {
       "t": "Identificar sin error qué vendes",
-      "p": "Además, un edificio puede tener diez pisos con la misma calle y número. De hecho, en la práctica, la referencia señala exactamente cuál y evita confusiones en la oferta y en la escritura."
+      "p": "Además, un edificio puede tener diez pisos con la misma calle y número. En la práctica, la referencia señala exactamente cuál y evita confusiones en la oferta y en la escritura."
      },
      {
       "t": "Calcular impuestos",

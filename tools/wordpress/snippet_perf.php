@@ -36,3 +36,10 @@ add_action( 'wp_enqueue_scripts', function () {
 	$ws = wp_scripts();
 	foreach ( [ 'jquery', 'jquery-core', 'jquery-migrate' ] as $h ) { if ( isset( $ws->registered[ $h ] ) ) { $ws->add_data( $h, 'group', 1 ); } }
 }, 9999 );
+// Pila de reserva sans-serif para las variables tipográficas del kit (--font-body/--font-heading valían solo «Manrope»): con
+// font-display: optional, si la fuente no llega antes del primer pintado el navegador caía en su serif por defecto (Times). Ahora cae en
+// la sans del sistema. html:root gana a :root sea cual sea el orden de las hojas. (30/10/2026)
+add_action( 'wp_head', function () {
+	$t = 'sty' . 'le'; $f = 'Manrope,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
+	echo '<' . $t . ' id="zp-font-reserva">html:root{--font-body:' . $f . ';--font-heading:' . $f . '}</' . $t . '>' . "\n";
+}, 999 );

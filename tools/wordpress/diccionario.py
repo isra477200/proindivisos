@@ -1,5 +1,5 @@
 """Diccionario del proindiviso (A-Z): páginas hijas de /diccionario-del-proindiviso/ + índice.
-Uso: python3 diccionario.py blog/dic_1.json [blog/dic_2.json ...] [--solo slug] [--sin-imagenes] [--solo-indice]
+Uso: python3 diccionario.py blog/dic_1.json [blog/dic_2.json ...] [--solo slug [slug...]] [--sin-imagenes] [--solo-indice] [--sin-indice]
 Cada término: imagen MiniMax (manifest_dic.json en el scratchpad) → adjunto → página hija (parent = hub) → composición → metas Yoast → publicada.
 Al final (o con --solo-indice) recompone el índice A-Z: una sección por grupo de letras con enlaces a los términos nuevos y a las
 páginas/entradas ya existentes que hacen de entrada del diccionario (diccionario_plan.json → «existentes»)."""
@@ -11,7 +11,7 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 IMGDIR=os.environ.get('ZP_IMGDIR','/tmp/claude-0/-home-claude/465a46cd-02da-53eb-bb5e-39c7569fb424/scratchpad/img')
 HUB_SLUG='diccionario-del-proindiviso'; HUB_KW='diccionario del proindiviso'
 args=sys.argv[1:]; files=[a for a in args if a.endswith('.json')]
-solo=args[args.index('--solo')+1] if '--solo' in args else None
+solo=[x for x in args[args.index('--solo')+1:] if not x.startswith('--') and not x.endswith('.json')] if '--solo' in args else None  # uno o varios slugs
 PLAN=json.load(open(os.path.join(HERE,'blog','diccionario_plan.json')))
 ids=b.load_ids(); IMG_F=os.path.join(HERE,'images.json'); IMG=json.load(open(IMG_F))
 def ensure_hub():
@@ -30,7 +30,7 @@ def defin(s):
 hub=ensure_hub(); print('hub',hub)
 S=[]
 for f in files: S+=json.load(open(f if os.path.isabs(f) else os.path.join(HERE,f)))
-if solo: S=[s for s in S if s['slug']==solo]
+if solo: S=[s for s in S if s['slug'] in solo]
 if '--solo-indice' not in args:
     print(len(S),'términos')
     MF=os.path.join(IMGDIR,'manifest_dic.json'); MAP_F=os.path.join(IMGDIR,'media_map_dic.json')
@@ -62,6 +62,7 @@ if '--solo-indice' not in args:
     if hechos:
         urls=[f"https://zonaproindiviso.com/{HUB_SLUG}/{s['slug']}/" for s in hechos]
         r=subprocess.run(['python3','yoastqa.py','--urls']+urls+['--save'],cwd=HERE,capture_output=True,text=True); print(r.stdout[-1200:])
+if '--sin-indice' in args: sys.exit(0)
 # ---- índice A-Z ----
 entradas=[]  # solo para la cifra del hero; el índice lo pinta el snippet 176 ([zp_diccionario]) y se actualiza solo
 r=b.api('GET',f"/wp/v2/pages?parent={hub}&status=publish&per_page=100&_fields=id")

@@ -5,7 +5,7 @@
     "overline": "Herramienta",
     "h2": "Calcula cuánto vale tu parte del piso",
     "intro": [
-     "Además, los resultados cambian según escribes. De hecho, en la práctica, todo el cálculo está a la vista: nada de fórmulas ocultas ni de registrarte para ver la cifra."
+     "Además, los resultados cambian según escribes. En la práctica, todo el cálculo está a la vista: nada de fórmulas ocultas ni de registrarte para ver la cifra."
     ],
     "type": "tool",
     "shortcode": "[zp_calculadora tipo=\"parte\"]"
@@ -77,7 +77,7 @@
      }
     ],
     "outro": [
-     "De hecho, en la práctica, la calculadora compara las tres salidas con tus números. Si el resultado de la subasta te parece parecido al de la venta directa, fíjate en lo que no sale en la cifra: dos años de espera, el riesgo de que no haya postores y el trato con la otra parte durante todo el proceso."
+     "En la práctica, la calculadora compara las tres salidas con tus números. Si el resultado de la subasta te parece parecido al de la venta directa, fíjate en lo que no sale en la cifra: dos años de espera, el riesgo de que no haya postores y el trato con la otra parte durante todo el proceso."
     ]
    },
    {
@@ -133,7 +133,7 @@
     "overline": "Con acuerdo",
     "h2": "Qué gastos tiene una extinción de condominio con acuerdo",
     "intro": [
-     "La extinción de condominio es la escritura por la que uno de los copropietarios se queda con el inmueble entero y compensa a los demás en dinero. No es una compraventa, y por eso no paga ITP: tributa por Actos Jurídicos Documentados, que es más barato. De hecho, en la práctica, estos son los gastos que aparecen en la simulación."
+     "La extinción de condominio es la escritura por la que uno de los copropietarios se queda con el inmueble entero y compensa a los demás en dinero. No es una compraventa, y por eso no paga ITP: tributa por Actos Jurídicos Documentados, que es más barato. En la práctica, estos son los gastos que aparecen en la simulación."
     ],
     "type": "table",
     "items": [
@@ -219,7 +219,7 @@
     "items": [
      {
       "t": "Demanda de división de cosa común",
-      "p": "Si un copropietario no quiere firmar, no hay extinción posible: hay que pedir al juzgado la división. De hecho, en la práctica, abogado y procurador obligatorios; los honorarios medios van de 3.000 € a 9.000 € según el valor del inmueble."
+      "p": "Si un copropietario no quiere firmar, no hay extinción posible: hay que pedir al juzgado la división. En la práctica, abogado y procurador obligatorios; los honorarios medios van de 3.000 € a 9.000 € según el valor del inmueble."
      },
      {
       "t": "Tasación pericial y sentencia",

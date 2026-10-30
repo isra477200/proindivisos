@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from validar import norm, sentences
 import yoastpre as Y
 TRANS=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'yoast_transition_words_es.json')))['single']
-CON=["Además, ","En la práctica, ","De hecho, ","En concreto, ","Asimismo, "]
+CON=["Además, ","De hecho, ","En concreto, ","Asimismo, ","Por otra parte, "]  # «en la práctica» NO es palabra de transición para Yoast
 def has_trans(x):
     nx=norm(x); return any(re.search(r'\b'+re.escape(norm(t))+r'\b',nx) for t in TRANS)
 def texts(s):

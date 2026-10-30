@@ -1581,7 +1581,7 @@
     "type": "table",
     "items": [
      [
-      "Resultado",
+      "Dictamen de la ITE",
       "Qué implica para el piso y para tu cuota"
      ],
      [
@@ -2421,8 +2421,8 @@
     "h2": "Qué es el valor de adquisición en el IRPF",
     "type": "text",
     "intro": [
-     "Cuando vendes un inmueble, el IRPF grava la diferencia entre lo que obtienes y lo que te costó (artículo 34 de la ley). La primera cifra es el valor de transmisión. La segunda es el valor de adquisición. El artículo 35 lo define así: importe real pagado, más mejoras, gastos y tributos de la compra, sin intereses.",
-     "Si heredaste, no pagaste precio. Por eso el artículo 36 manda tomar el valor que resulte de las normas del impuesto de sucesiones, sin que supere el valor de mercado. En la práctica, ese es tu valor de adquisición: el que declaraste en la herencia, o el que fijó Hacienda si lo comprobó.",
+     "Cuando vendes un inmueble, el IRPF grava la diferencia entre lo que obtienes y lo que te costó (artículo 34 de la ley). Además, la primera cifra es el valor de transmisión. De hecho, la segunda es el valor de adquisición. El artículo 35 lo define así: importe real pagado, más mejoras, gastos y tributos de la compra, sin intereses.",
+     "Si heredaste, no pagaste precio. Por eso el artículo 36 manda tomar el valor que resulte de las normas del impuesto de sucesiones, sin que supere el valor de mercado. De hecho, ese es tu valor de adquisición: el que declaraste en la herencia, o el que fijó Hacienda si lo comprobó.",
      "Desde 2015 ya no se actualiza por inflación. Solo los bienes adquiridos antes de 1995 pueden aplicar coeficientes reductores, con un límite conjunto de 400.000 € de valor de transmisión."
     ]
    },
@@ -2431,7 +2431,7 @@
     "h2": "Qué se suma al coste de tu parte",
     "type": "list",
     "intro": [
-     "Estos conceptos suben tu valor de adquisición. Cada uno se prorratea según tu cuota."
+     "En concreto, estos conceptos suben tu valor de adquisición. Cada uno se prorratea según tu cuota."
     ],
     "items": [
      "<strong>Valor declarado en sucesiones.</strong> El de tu parte del inmueble, tal como figura en la autoliquidación o en la comprobación de Hacienda.",
