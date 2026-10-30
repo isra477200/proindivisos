@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "ajuar-domestico",
+  "focus_kw": "ajuar doméstico",
+  "title_corto": "Ajuar doméstico",
+  "termino": "Ajuar doméstico",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el ajuar doméstico en el impuesto de sucesiones (3 % del caudal), cómo se calcula, cómo rebatirlo y efecto en lo que paga cada heredero.",
+  "lote": 10
+ },
+ {
+  "slug": "bienes-gananciales",
+  "focus_kw": "bienes gananciales",
+  "title_corto": "Bienes gananciales",
+  "termino": "Bienes gananciales",
+  "letra": "B",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué son (arts. 1347 y ss. CC), cómo se reparten al morir uno de los cónyuges o al divorciarse, por qué un piso ganancial acaba en proindiviso entre viudo e hijos.",
+  "lote": 10
+ },
+ {
+  "slug": "cedula-de-habitabilidad",
+  "focus_kw": "cédula de habitabilidad",
+  "title_corto": "Cédula de habitabilidad",
+  "termino": "Cédula de habitabilidad",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, en qué comunidades es obligatoria para vender o alquilar, cómo se obtiene y qué pasa si una casa heredada no la tiene.",
+  "lote": 10
+ },
+ {
+  "slug": "comprobacion-de-valores",
+  "focus_kw": "comprobación de valores",
+  "title_corto": "Comprobación de valores",
+  "termino": "Comprobación de valores",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la comprobación de valores de Hacienda en sucesiones o ITP, valor de referencia, cómo llega la propuesta y cómo recurrirla.",
+  "lote": 10
+ },
+ {
+  "slug": "declaracion-de-obra-nueva",
+  "focus_kw": "declaración de obra nueva",
+  "title_corto": "Declaración de obra nueva",
+  "termino": "Declaración de obra nueva",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cuándo hace falta (casa construida o ampliada sin inscribir), requisitos (licencia o prescripción urbanística) y cómo afecta a vender una parte.",
+  "lote": 10
+ },
+ {
+  "slug": "derecho-real",
+  "focus_kw": "derecho real",
+  "title_corto": "Derecho real",
+  "termino": "Derecho real",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es un derecho real (propiedad, usufructo, hipoteca, servidumbre) frente a un derecho personal; por qué la cuota indivisa es un derecho real que se puede vender.",
+  "lote": 10
+ },
+ {
+  "slug": "escritura-de-herencia",
+  "focus_kw": "escritura de herencia",
+  "title_corto": "Escritura de herencia",
+  "termino": "Escritura de herencia",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la escritura de aceptación y adjudicación de herencia, quién la firma, documentos, coste orientativo y por qué hace falta para vender la parte.",
+  "lote": 10
+ },
+ {
+  "slug": "gastos-de-conservacion",
+  "focus_kw": "gastos de conservación",
+  "title_corto": "Gastos de conservación",
+  "termino": "Gastos de conservación",
+  "letra": "G",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué son (art. 395 CC), quién los paga y en qué proporción, cómo reclamar lo adelantado a otro copropietario y la opción de renunciar a la cuota.",
+  "lote": 10
+ },
+ {
+  "slug": "inmatriculacion",
+  "focus_kw": "inmatriculación",
+  "title_corto": "Inmatriculación",
+  "termino": "Inmatriculación",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es inscribir por primera vez una finca en el Registro, vías (doble título, expediente notarial), por qué un inmueble no inscrito vale menos y cuesta vender.",
+  "lote": 10
+ },
+ {
+  "slug": "modelo-210",
+  "focus_kw": "modelo 210",
+  "title_corto": "Modelo 210",
+  "termino": "Modelo 210",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el modelo 210 del IRNR, cuándo lo presenta un no residente que vende su parte, plazo y relación con la retención del 3 % (modelo 211).",
+  "lote": 10
+ },
+ {
+  "slug": "portal-de-subastas-del-boe",
+  "focus_kw": "portal de subastas del boe",
+  "title_corto": "Portal de subastas del BOE",
+  "termino": "Portal de subastas del BOE",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el Portal de Subastas de la Agencia Estatal BOE, cómo se publican las subastas de división de cosa común, depósito del 5 %, plazos y por qué se venden baratas.",
+  "lote": 10
+ },
+ {
+  "slug": "rescision-por-lesion",
+  "focus_kw": "rescisión por lesión",
+  "title_corto": "Rescisión por lesión",
+  "termino": "Rescisión por lesión",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Rescisión de la partición por lesión en más de la cuarta parte (art. 1074 CC): plazo de 4 años, cómo se calcula y riesgo en repartos mal valorados.",
+  "lote": 10
+ },
+ {
+  "slug": "tasacion-pericial-contradictoria",
+  "focus_kw": "tasación pericial contradictoria",
+  "title_corto": "Tasación pericial contradictoria",
+  "termino": "Tasación pericial contradictoria",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cuándo se pide tras una comprobación de valores, plazos, coste del perito y cuándo compensa frente a recurrir.",
+  "lote": 10
+ },
+ {
+  "slug": "unidad-minima-de-cultivo",
+  "focus_kw": "unidad mínima de cultivo",
+  "title_corto": "Unidad mínima de cultivo",
+  "termino": "Unidad mínima de cultivo",
+  "letra": "U",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, por qué impide dividir materialmente muchas fincas rústicas heredadas y obliga a vender o a extinguir el condominio; varía por comunidad.",
+  "lote": 10
+ }
+]

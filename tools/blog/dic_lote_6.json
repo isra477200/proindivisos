@@ -1,0 +1,167 @@
+[
+ {
+  "slug": "aceptacion-tacita-de-la-herencia",
+  "focus_kw": "aceptación tácita de la herencia",
+  "title_corto": "Aceptación tácita de la herencia",
+  "termino": "Aceptación tácita de la herencia",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué actos implican aceptar sin decirlo (vender, cobrar rentas, pagar deudas con la herencia), riesgos con deudas y cómo afecta a vender tu parte.",
+  "lote": 6
+ },
+ {
+  "slug": "anotacion-de-demanda",
+  "focus_kw": "anotación de demanda",
+  "title_corto": "Anotación de demanda",
+  "termino": "Anotación de demanda",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la anotación preventiva de demanda en el Registro, cuándo se pide en una división de cosa común y qué efecto tiene sobre compradores de cuotas.",
+  "lote": 6
+ },
+ {
+  "slug": "bonificacion-del-impuesto-de-sucesiones",
+  "focus_kw": "bonificación del impuesto de sucesiones",
+  "title_corto": "Bonificación del impuesto de sucesiones",
+  "termino": "Bonificación del impuesto de sucesiones",
+  "letra": "B",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la bonificación en cuota del impuesto de sucesiones, cómo varía por comunidad autónoma y parentesco; enlaza a los impuestos por comunidad.",
+  "lote": 6
+ },
+ {
+  "slug": "codigo-registral-unico",
+  "focus_kw": "código registral único",
+  "title_corto": "Código registral único",
+  "termino": "Código registral único",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el CRU o IDUFIR de una finca, dónde aparece (nota simple), para qué sirve al identificar el inmueble en la venta de una cuota.",
+  "lote": 6
+ },
+ {
+  "slug": "conmutacion-del-usufructo",
+  "focus_kw": "conmutación del usufructo",
+  "title_corto": "Conmutación del usufructo",
+  "termino": "Conmutación del usufructo",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Conmutar el usufructo del viudo por una renta, capital o bienes (art. 839 CC): cómo se calcula y cómo facilita vender el inmueble heredado.",
+  "lote": 6
+ },
+ {
+  "slug": "derecho-de-acrecer",
+  "focus_kw": "derecho de acrecer",
+  "title_corto": "Derecho de acrecer",
+  "termino": "Derecho de acrecer",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es (arts. 981-987 CC): la parte de un coheredero que renuncia o no puede heredar acrece a los demás; efecto en cuotas del inmueble heredado y al vender.",
+  "lote": 6
+ },
+ {
+  "slug": "descuento-por-indivision",
+  "focus_kw": "descuento por indivisión",
+  "title_corto": "Descuento por indivisión",
+  "termino": "Descuento por indivisión",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Por qué una cuota indivisa vale menos que su porcentaje del inmueble (falta de control, riesgo, tiempo), horquillas habituales y cómo reducir el descuento.",
+  "lote": 6
+ },
+ {
+  "slug": "exencion-para-mayores-de-65-anos",
+  "focus_kw": "exención para mayores de 65 años",
+  "title_corto": "Exención para mayores de 65 años",
+  "termino": "Exención para mayores de 65 años",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Exención en el IRPF de la ganancia al vender la vivienda habitual a partir de 65 años y por rentas vitalicias; qué pasa si solo es tuya una parte.",
+  "lote": 6
+ },
+ {
+  "slug": "heredero-universal",
+  "focus_kw": "heredero universal",
+  "title_corto": "Heredero universal",
+  "termino": "Heredero universal",
+  "letra": "H",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué significa ser heredero universal, diferencia con legatario, deudas y legítimas; qué ocurre con los inmuebles cuando hay varios herederos universales.",
+  "lote": 6
+ },
+ {
+  "slug": "inspeccion-tecnica-de-edificios",
+  "focus_kw": "inspección técnica de edificios",
+  "title_corto": "Inspección técnica de edificios",
+  "termino": "Inspección técnica de edificios",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la ITE o IEE, obligación por antigüedad, quién paga en un piso en proindiviso y cómo afecta un resultado desfavorable a la venta.",
+  "lote": 6
+ },
+ {
+  "slug": "modelo-900d",
+  "focus_kw": "modelo 900d",
+  "title_corto": "Modelo 900D",
+  "termino": "Modelo 900D",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la declaración catastral de alteración de titularidad, cuándo hay que presentarla tras una herencia o una venta y qué pasa si el catastro sigue a nombre del fallecido.",
+  "lote": 6
+ },
+ {
+  "slug": "recargo-por-presentacion-fuera-de-plazo",
+  "focus_kw": "recargo por presentación fuera de plazo",
+  "title_corto": "Recargo por presentación fuera de plazo",
+  "termino": "Recargo por presentación fuera de plazo",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Recargos de Hacienda por presentar tarde sucesiones o ITP (1 % más 1 % por mes, hasta 15 % y más intereses), sin requerimiento previo; cómo evitarlos.",
+  "lote": 6
+ },
+ {
+  "slug": "retracto-de-colindantes",
+  "focus_kw": "retracto de colindantes",
+  "title_corto": "Retracto de colindantes",
+  "termino": "Retracto de colindantes",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es (art. 1523 CC), en fincas rústicas de menos de una hectárea; prioridad frente al retracto de comuneros; efecto al vender una parte de un terreno.",
+  "lote": 6
+ },
+ {
+  "slug": "tercio-de-mejora",
+  "focus_kw": "tercio de mejora",
+  "title_corto": "Tercio de mejora",
+  "termino": "Tercio de mejora",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es (art. 823 CC), a quién se puede mejorar, cómo cambia el reparto de un piso entre hermanos y cómo se calcula en cifras.",
+  "lote": 6
+ },
+ {
+  "slug": "valor-de-adquisicion",
+  "focus_kw": "valor de adquisición",
+  "title_corto": "Valor de adquisición",
+  "termino": "Valor de adquisición",
+  "letra": "V",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el valor de adquisición en el IRPF (precio o valor declarado en sucesiones más gastos e impuestos), cómo calcularlo en una cuota heredada y ejemplo.",
+  "lote": 6
+ }
+]
