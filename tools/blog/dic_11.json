@@ -1,0 +1,2297 @@
+[
+ {
+  "slug": "anejo",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Anejo: qué es una plaza de garaje o trastero vinculado y cómo afecta a tu parte",
+  "sub": "Un anejo es un espacio, normalmente una plaza de garaje o un trastero, que el Registro une a un piso como parte de la misma finca. Si heredas una cuota del piso, tienes la misma cuota de esa plaza o trastero. No puedes venderlo por separado sin desvincularlo antes, pero te compramos tu parte del conjunto tal como está inscrita.",
+  "checks": [
+   "Explicado con la nota simple",
+   "Garaje y trastero incluidos",
+   "Compramos tu cuota con su anejo"
+  ],
+  "card_title": "¿Heredaste un piso con garaje o trastero?",
+  "card_text": "Te damos precio por tu cuota del piso y de su anejo en 48 horas, sin compromiso y sin depender de los demás.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un anejo y qué dice la ley",
+    "type": "text",
+    "intro": [
+     "En propiedad horizontal, un anejo es un elemento que pertenece en exclusiva a un piso aunque esté fuera de él. Suele ser la plaza del sótano, el trastero de la azotea o, a veces, un patio. El artículo 3 de la Ley de Propiedad Horizontal lo incluye en el derecho sobre el piso cuando el título lo señala de forma expresa. Por eso no tiene vida propia: forma parte de la finca registral de la vivienda.",
+     "En una nota simple suele leerse «le corresponde como anejo inseparable la plaza de garaje 14». Esa palabra, inseparable, es la clave. Significa que la plaza se vende, se hereda, se hipoteca y se embarga junto con la vivienda. En cambio, si el garaje tiene número de finca propio, es una finca independiente y se puede vender suelto."
+    ]
+   },
+   {
+    "overline": "Tres situaciones",
+    "h2": "Cómo puede figurar tu garaje o trastero en el Registro",
+    "type": "cards",
+    "intro": [
+     "Antes de hacer números, pide una nota simple. La plaza o el trastero puede figurar de tres formas, y cada una cambia lo que puedes hacer."
+    ],
+    "items": [
+     {
+      "t": "Anejo inseparable.",
+      "p": "Va dentro de la descripción del piso y comparte su finca registral. Quien tiene el 50 % de la vivienda tiene el 50 % de la plaza, y no puede venderla aparte."
+     },
+     {
+      "t": "Finca independiente.",
+      "p": "Tiene número de finca propio y su propio historial. Se puede vender, heredar o adjudicar a un hermano distinto del que se queda la vivienda."
+     },
+     {
+      "t": "Cuota de un local garaje.",
+      "p": "Es habitual en edificios con sótano. Se inscribe una participación indivisa del local, por ejemplo 1/40, con derecho a usar la plaza 14. En realidad ya es un proindiviso con los vecinos."
+     }
+    ],
+    "outro": [
+     "Un detalle frecuente: en Catastro la plaza puede tener referencia catastral propia aunque en el Registro sea un anejo. Ese desajuste no impide vender, pero conviene detectarlo antes de ir al notario."
+    ]
+   },
+   {
+    "overline": "Herencia y extinción",
+    "h2": "El anejo en una herencia o en una extinción de condominio",
+    "type": "text",
+    "intro": [
+     "Cuando se hereda un piso con anejo, los herederos reciben cuotas de toda la finca. Si son tres hermanos, cada uno tiene un tercio de la vivienda y un tercio de la plaza. Mientras siga vinculada, no cabe que uno se adjudique el piso y otro el garaje. Sería dividir una finca que la ley trata como una sola.",
+     "Pongamos un piso de 180.000 € con un trastero vinculado que vale unos 6.000 €. En una extinción de condominio, el hermano que se queda la vivienda se queda también el trastero. Por tanto, compensa a cada uno de los otros dos con 62.000 €, es decir, un tercio de 186.000 €.",
+     "Desvincular un anejo no es un simple trámite. Suele exigir el acuerdo de la junta de propietarios según sus estatutos. Después hace falta una escritura que modifique la descripción, su inscripción y, en algunos municipios, licencia. De hecho, en la práctica casi siempre se reparte el conjunto."
+    ]
+   },
+   {
+    "overline": "Vender tu parte",
+    "h2": "Qué significa el anejo si quieres vender tu cuota",
+    "type": "list",
+    "intro": [
+     "Si la plaza o el trastero va unido al piso, vender tu parte es vender una cuota del conjunto. Esto tiene consecuencias prácticas:"
+    ],
+    "items": [
+     "<strong>No eliges qué vendes.</strong> Tu cuota del anejo va con tu cuota de la vivienda. Tampoco puedes quedarte la plaza y vender el resto.",
+     "<strong>El precio lo recoge.</strong> Una plaza de garaje en una ciudad con poco aparcamiento sube el valor de la finca. Por tanto, también el de tu cuota.",
+     "<strong>El retracto alcanza a todo.</strong> Tus copropietarios pueden ejercer el retracto de comuneros sobre tu cuota completa, anejo incluido. Tienen nueve días, según el artículo 1524 del Código Civil.",
+     "<strong>La escritura ya lo describe.</strong> El notario copia la descripción registral, así que el anejo aparece sin que tengas que pedirlo."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Diferencias con otros términos parecidos",
+    "type": "table",
+    "items": [
+     [
+      "Término",
+      "En qué se diferencia del anejo"
+     ],
+     [
+      "Elemento común.",
+      "Pertenece a todos los vecinos según su cuota de participación, como el portal o la escalera. El anejo, en cambio, es de un solo piso."
+     ],
+     [
+      "Finca independiente.",
+      "Tiene número propio y se transmite sola. Un anejo comparte la finca del piso."
+     ],
+     [
+      "Cuota de participación.",
+      "Es el porcentaje de cada piso en los gastos y elementos comunes del edificio. No dice quién es dueño de la plaza."
+     ],
+     [
+      "División horizontal.",
+      "Es el acto que crea los pisos y fija sus anejos. Modificarla es la vía para desvincular uno."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte del piso con su garaje o trastero",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de viviendas con anejo de garaje o trastero en toda España. También compramos cuotas de plazas y trasteros que son fincas independientes. Pagamos entre el 40 % y el 70 % del valor proporcional, según ciudad, ocupación y cargas."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota y su anejo",
+     "p": "Envíanos la nota simple o la dirección y tu porcentaje. Oferta por escrito en 48 horas, firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede vender una plaza de garaje que es anejo del piso?",
+    "No por separado mientras siga vinculada. Primero hay que desvincular el anejo, lo que suele requerir el acuerdo de la junta, una escritura y su inscripción, y a veces licencia. Mientras tanto, la plaza solo se transmite junto con la vivienda."
+   ],
+   [
+    "¿Cómo sé si mi trastero es anejo o finca independiente?",
+    "Pide una nota simple del piso en el Registro de la Propiedad. Si el trastero aparece dentro de la descripción de la vivienda como anejo, va unido a ella. Si tiene un número de finca distinto, es independiente y tiene su propia nota simple."
+   ],
+   [
+    "¿El anejo paga IBI aparte?",
+    "Depende de Catastro. Muchas plazas y trasteros tienen su propia referencia catastral y su propio recibo de IBI aunque en el Registro sean anejos del piso. Entre copropietarios, ese recibo se reparte por cuotas igual que el de la vivienda."
+   ],
+   [
+    "¿Qué pasa con el anejo si un heredero se queda el piso?",
+    "Se lo queda también, porque forma parte de la misma finca. La compensación a los demás herederos debe calcularse sobre el valor del conjunto, piso más anejo. Repartirlos entre herederos distintos exige desvincular antes el anejo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el anejo",
+  "related": [
+   [
+    "Finca registral",
+    "/diccionario-del-proindiviso/finca-registral/"
+   ],
+   [
+    "Propiedad horizontal",
+    "/diccionario-del-proindiviso/propiedad-horizontal/"
+   ],
+   [
+    "Vender parte de un garaje o trastero",
+    "/blog/vender-parte-de-un-garaje-o-trastero/"
+   ],
+   [
+    "Nota simple: cómo pedirla y leerla",
+    "/blog/nota-simple-como-pedirla-y-leerla/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota del piso y su anejo sin esperar a nadie",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Anejo: qué es, si se puede vender aparte y cómo se hereda",
+  "meta_desc": "Un anejo es la plaza de garaje o el trastero unido a un piso en el Registro. Si se puede vender aparte, cómo se hereda y cómo te compramos tu parte.",
+  "focus_kw": "anejo",
+  "title_corto": "Anejo",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, cool natural light entering through a high ventilation opening: an empty underground residential parking bay beside a closed grey metal storage room door, bare concrete pillars and a clean unmarked concrete floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Anejo: plaza de garaje vacía junto a la puerta de un trastero"
+ },
+ {
+  "slug": "bienes-privativos",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Bienes privativos: qué son y cómo afectan a la venta de tu parte de un piso",
+  "sub": "Los bienes privativos son los que pertenecen solo a uno de los cónyuges aunque el matrimonio esté en gananciales: los que tenía antes de la boda y los que recibe después por herencia o donación, según el artículo 1346 del Código Civil. Si tu cuota de un piso heredado es privativa, puedes venderla sin la firma de tu pareja, salvo que sea la vivienda familiar. Te compramos esa cuota en semanas.",
+  "checks": [
+   "Artículo 1346 explicado",
+   "Cómo se prueba la privatividad",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Tu parte del piso es privativa?",
+  "card_text": "Si heredaste una cuota, normalmente puedes venderla tú solo. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué son los bienes privativos según el Código Civil",
+    "type": "list",
+    "intro": [
+     "En el régimen de gananciales casi todo lo que se gana durante el matrimonio es común. La excepción son los bienes privativos, que enumera el artículo 1346 del Código Civil. En materia de vivienda, los más habituales son estos:"
+    ],
+    "items": [
+     "<strong>Lo que ya tenías al casarte.</strong> Un piso comprado de soltero sigue siendo tuyo aunque después te cases.",
+     "<strong>Lo que recibes gratis durante el matrimonio.</strong> Herencias, legados y donaciones son privativos del cónyuge que los recibe. Es el caso típico de la cuota de la casa de los padres.",
+     "<strong>Lo que compras con dinero privativo.</strong> Si vendes un piso heredado y con ese dinero compras otro, el nuevo también es privativo, siempre que se pueda rastrear el origen del dinero.",
+     "<strong>Lo adquirido por un retracto que solo era tuyo.</strong> Por ejemplo, la cuota que compras al ejercer el retracto de comuneros en un proindiviso en el que ya tenías una parte privativa."
+    ],
+    "outro": [
+     "En los matrimonios en gananciales, el artículo 1361 parte de la regla contraria: presume gananciales los bienes del matrimonio mientras no se pruebe que son privativos. En cambio, en Cataluña o Baleares, donde rige por defecto la separación de bienes, la cuestión se plantea de otra forma."
+    ]
+   },
+   {
+    "overline": "Prueba",
+    "h2": "Cómo se demuestra que un piso o una cuota es privativa",
+    "type": "cards",
+    "intro": [
+     "Como juega esa presunción, quien dice que un bien es privativo tiene que probarlo. Estas son las pruebas que acepta un notario o un registrador:"
+    ],
+    "items": [
+     {
+      "t": "Escritura de herencia o donación.",
+      "p": "Es la prueba más limpia. Si la cuota te llegó por herencia de tus padres, la escritura de aceptación acredita el título gratuito y el Registro la inscribe como privativa."
+     },
+     {
+      "t": "Fecha anterior a la boda.",
+      "p": "La escritura de compra fechada antes del matrimonio demuestra que el piso ya era tuyo. Aunque se pagara a plazos, el artículo 1357 mantiene su carácter privativo, con reglas especiales para la vivienda familiar."
+     },
+     {
+      "t": "Confesión de tu cónyuge.",
+      "p": "Tu pareja puede declarar en escritura que el bien es tuyo (artículo 1324). Ojo: se inscribe como privativo por confesión y, si el confesante fallece, para vender necesitarás a sus herederos forzosos, salvo que confesara en testamento."
+     },
+     {
+      "t": "Rastro del dinero.",
+      "p": "Si compraste con dinero privativo, guarda los extractos y haz constar el origen en la escritura. Sin esa prueba, lo comprado durante el matrimonio se presume ganancial."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Bienes privativos en la práctica: la cuota heredada de Laura",
+    "type": "text",
+    "intro": [
+     "Laura está casada en gananciales. Su madre fallece y deja un piso de 180.000 € a sus tres hijos, así que a Laura le corresponde un tercio, unos 60.000 € de valor. Esa cuota es uno de sus bienes privativos aunque la herencia llegue en pleno matrimonio, porque procede de un título gratuito.",
+     "Tres años después, Laura quiere salir del proindiviso. Puede vender su tercio sin que firme su marido, porque el piso no es la vivienda familiar. Además, la ganancia patrimonial del IRPF es solo suya y se calcula desde el valor que declaró en la herencia.",
+     "En cambio, si con dinero ganancial hubiera comprado antes la parte de un hermano, ese nuevo tercio podría considerarse ganancial o, como mínimo, generar un reembolso a favor de la sociedad. En ese caso conviene que firmen los dos o revisar el caso con un abogado."
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Qué cambia al vender bienes privativos",
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Quién firma la venta"
+     ],
+     [
+      "Cuota privativa de un piso que no es la vivienda familiar.",
+      "Solo el titular. Es el caso habitual de la herencia."
+     ],
+     [
+      "Cuota privativa de la vivienda familiar.",
+      "El titular y, además, su cónyuge o, en su defecto, un juez, según el artículo 1320 del Código Civil."
+     ],
+     [
+      "Cuota privativa por confesión, con el confesante fallecido.",
+      "El titular, con el consentimiento de los herederos forzosos del confesante, salvo confesión en testamento."
+     ],
+     [
+      "Cuota ganancial.",
+      "Los dos cónyuges, porque pertenece a la sociedad de gananciales."
+     ]
+    ],
+    "outro": [
+     "Con los bienes privativos, el notario comprueba cómo está inscrita la cuota y pide la firma que corresponda. Por eso conviene revisar la nota simple antes de comprometerte con un comprador."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Privativo, ganancial y otros términos parecidos",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Bienes gananciales.",
+      "p": "Son comunes de los dos cónyuges y se reparten por mitad al liquidar la sociedad. Para venderlos firman ambos.",
+      "url": "/diccionario-del-proindiviso/bienes-gananciales/",
+      "cta": "Ver bienes gananciales →"
+     },
+     {
+      "t": "Separación de bienes.",
+      "p": "Régimen en el que cada bien es de quien lo adquiere. Si los dos compran juntos, nace un proindiviso ordinario.",
+      "url": "/diccionario-del-proindiviso/separacion-de-bienes/",
+      "cta": "Ver separación de bienes →"
+     },
+     {
+      "t": "Capitulaciones matrimoniales.",
+      "p": "Escritura con la que los cónyuges cambian de régimen o pactan qué es de cada uno. Pueden convertir gananciales en privativos.",
+      "url": "/diccionario-del-proindiviso/capitulaciones-matrimoniales/",
+      "cta": "Ver capitulaciones →"
+     },
+     {
+      "t": "Comunidad postganancial.",
+      "p": "Es lo que queda tras disolver los gananciales y antes de liquidarlos. Los bienes privativos no entran en ella.",
+      "url": "/diccionario-del-proindiviso/comunidad-postganancial/",
+      "cta": "Ver comunidad postganancial →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu cuota heredada sin depender de nadie",
+    "type": "callout",
+    "intro": [
+     "Si tu parte del piso viene de una herencia, casi siempre forma parte de tus bienes privativos y la decisión de vender es solo tuya. Compramos cuotas de viviendas, locales y terrenos en toda España y pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría."
+    ],
+    "items": {
+     "t": "Te damos precio por tu cuota",
+     "p": "Dinos dónde está el inmueble y qué porcentaje tienes. Oferta por escrito en 48 horas, firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿La herencia es un bien privativo aunque esté casado en gananciales?",
+    "Sí. El artículo 1346 del Código Civil considera privativos los bienes que un cónyuge recibe por herencia, legado o donación durante el matrimonio. Tu pareja no tiene derecho sobre esa cuota, aunque sí sobre las rentas que genere, que son gananciales."
+   ],
+   [
+    "¿Necesito la firma de mi marido o mi mujer para vender mi parte heredada?",
+    "Normalmente no. Basta tu firma si la cuota es privativa y el piso no es la vivienda familiar. Si lo es, el artículo 1320 exige el consentimiento de tu cónyuge o una autorización judicial, aunque el bien sea solo tuyo."
+   ],
+   [
+    "¿Qué pasa si compré la casa de soltero y la pagamos ya casados?",
+    "La casa sigue siendo tuya, pero la sociedad de gananciales tiene derecho a recuperar lo que aportó. Si es la vivienda familiar, el artículo 1354 la convierte en un proindiviso entre tú y la sociedad, en proporción a lo que pagó cada uno."
+   ],
+   [
+    "¿Cómo se inscriben los bienes privativos en el Registro?",
+    "Con la escritura que acredita su origen, como la herencia o la compra anterior a la boda, el registrador los inscribe a nombre del cónyuge con carácter privativo. Si solo hay confesión del otro cónyuge, consta como privativo por confesión, lo que limita la venta tras su fallecimiento."
+   ]
+  ],
+  "faq_title": "Dudas sobre bienes privativos",
+  "related": [
+   [
+    "La herencia, ¿es privativa o ganancial?",
+    "/blog/la-herencia-es-privativa-o-ganancial/"
+   ],
+   [
+    "Liquidación de gananciales",
+    "/diccionario-del-proindiviso/liquidacion-de-gananciales/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Vender un proindiviso en un divorcio",
+    "/vender-proindiviso-divorcio/"
+   ]
+  ],
+  "cta_title": "Bienes privativos: vende tu cuota heredada en semanas",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Bienes privativos: qué son, cómo se prueban y cómo se venden",
+  "meta_desc": "Bienes privativos: herencias, donaciones y lo que tenías antes de casarte. Cómo probarlo y vender tu cuota sin tu cónyuge. Precio en 48 horas.",
+  "focus_kw": "bienes privativos",
+  "title_corto": "Bienes privativos",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural window light: an antique carved wooden chest at the foot of a neatly made bed in a bright bedroom of an old Spanish flat, white linen, terracotta floor tiles and a tall shuttered window, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Bienes privativos: arcón antiguo de madera en el dormitorio de un piso español"
+ },
+ {
+  "slug": "certificacion-catastral",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Certificación catastral: qué es, cómo obtenerla y por qué la pide el notario",
+  "sub": "La certificación catastral descriptiva y gráfica es el documento oficial del Catastro que describe un inmueble: referencia catastral, superficie, uso, titulares y plano de la parcela. El notario la incorpora a la escritura cuando vendes tu parte, y si los datos no cuadran conviene saber cómo corregirlos. Nosotros la revisamos por ti al preparar la oferta.",
+  "checks": [
+   "Paso a paso en la Sede",
+   "Errores de titularidad típicos",
+   "La revisamos al comprarte"
+  ],
+  "card_title": "¿Tu parte sigue a nombre de tus padres en Catastro?",
+  "card_text": "No bloquea la venta. Te damos precio por tu cuota en 48 horas y nos ocupamos de los papeles.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la certificación catastral descriptiva y gráfica",
+    "type": "text",
+    "intro": [
+     "El Catastro es un registro administrativo que depende del Ministerio de Hacienda. Describe los inmuebles de España con fines fiscales, como el IBI o los valores de referencia. La certificación catastral acredita esos datos en una fecha concreta, y la versión descriptiva y gráfica añade el plano de la parcela con sus coordenadas.",
+     "Incluye la referencia catastral de 20 caracteres, la localización, la clase de inmueble, el uso, la superficie y el año de construcción. Sin embargo, los nombres de los titulares y el valor catastral son datos protegidos según la Ley del Catastro Inmobiliario, así que solo los ve el titular o quien tenga un interés legítimo. En País Vasco y Navarra el catastro es foral y tiene sus propias sedes.",
+     "Ojo con una idea equivocada: la certificación catastral no prueba que seas propietario. Esa función corresponde al Registro de la Propiedad, cuyos datos jurídicos prevalecen. El Catastro dice cómo es el inmueble y a quién se le cobra el IBI."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo obtener la certificación catastral en la Sede Electrónica",
+    "type": "steps",
+    "intro": [
+     "Si eres titular, la obtienes gratis en pocos minutos. Estos son los pasos habituales:"
+    ],
+    "items": [
+     {
+      "t": "Entra en la Sede Electrónica del Catastro.",
+      "p": "Identifícate con certificado digital, DNI electrónico o Cl@ve. Sin identificación solo verás los datos no protegidos."
+     },
+     {
+      "t": "Busca el inmueble.",
+      "p": "Hazlo por referencia catastral o por dirección. Si eres cotitular, el sistema te muestra tus inmuebles directamente."
+     },
+     {
+      "t": "Elige el tipo de certificado.",
+      "p": "Para una venta interesa la descriptiva y gráfica. También existen la literal y la de todos tus bienes."
+     },
+     {
+      "t": "Descarga el PDF.",
+      "p": "Lleva un código seguro de verificación con el que el notario o el comprador comprueban que es auténtico."
+     }
+    ],
+    "outro": [
+     "Si no tienes certificado digital, puedes pedir la certificación catastral en un Punto de Información Catastral, la mayoría en ayuntamientos, presentando tu DNI."
+    ]
+   },
+   {
+    "overline": "Notaría",
+    "h2": "Para qué la pide el notario cuando vendes tu parte",
+    "type": "text",
+    "intro": [
+     "La normativa catastral obliga a hacer constar la referencia catastral en las escrituras de compraventa, y el notario obtiene por vía telemática la certificación catastral para incorporarla. Con ella comprueba que el inmueble descrito en el título coincide con el del Catastro. Si hay diferencias, lo advierte en la escritura y pregunta a los otorgantes cuál es la descripción correcta.",
+     "Después de la firma, el notario comunica el cambio de titular al Catastro. Por eso, cuando vendes tu cuota, no tienes que presentar ninguna declaración: el comprador figura como nuevo cotitular catastral en unas semanas y, desde el año siguiente, le llega a él su parte del IBI."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores típicos de titularidad en la certificación catastral",
+    "type": "list",
+    "intro": [
+     "En los proindivisos de origen familiar casi siempre aparece alguno de estos fallos. Ninguno impide vender, pero conviene saber cómo se arregla:"
+    ],
+    "items": [
+     "<strong>El titular es un padre fallecido.</strong> Pasa cuando la herencia no se escrituró. Se corrige con la escritura de herencia, que comunica el notario, o con una declaración catastral, el modelo 900D.",
+     "<strong>Solo aparece uno de los hermanos.</strong> Catastro lo tiene como único titular y le llegan a él todos los recibos. Hay que dar de alta al resto con sus porcentajes.",
+     "<strong>Porcentajes mal repartidos.</strong> Por ejemplo, un 100 % a la madre viuda cuando le correspondía la mitad más un usufructo. Se corrige aportando la escritura.",
+     "<strong>Superficie distinta de la real.</strong> Una ampliación no declarada o una medición antigua. Si la diferencia con el Registro es grande, puede haber un exceso de cabida que rectificar."
+    ],
+    "outro": [
+     "Tener los porcentajes bien en Catastro también sirve para pedir al ayuntamiento que divida el recibo del IBI entre los copropietarios, algo que muchos desconocen."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Frente a la nota simple y otros documentos",
+    "type": "table",
+    "items": [
+     [
+      "Documento",
+      "Para qué sirve"
+     ],
+     [
+      "Nota simple.",
+      "La expide el Registro de la Propiedad. Dice quién es el dueño y qué cargas tiene la finca, así que es la prueba jurídica."
+     ],
+     [
+      "Referencia catastral.",
+      "Es el código de 20 caracteres que identifica el inmueble. Aparece dentro de la certificación catastral."
+     ],
+     [
+      "Valor catastral.",
+      "Es el valor administrativo sobre el que se calcula el IBI. Figura en la certificación que pide el titular."
+     ],
+     [
+      "Modelo 900D.",
+      "Es la declaración para comunicar al Catastro cambios que no pasan por notario, como una reforma o un cambio de titular."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Te compramos tu parte aunque Catastro no esté al día",
+    "type": "callout",
+    "intro": [
+     "Muchas cuotas que compramos tienen el Catastro desactualizado: titulares fallecidos, superficies antiguas o recibos a nombre de un solo hermano. Lo revisamos con la certificación catastral y la nota simple, y cuando es posible lo dejamos resuelto en la misma escritura."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Dinos la dirección o la referencia catastral y tu porcentaje. Oferta por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta la certificación catastral?",
+    "Es gratuita si la descarga el titular en la Sede Electrónica del Catastro. En un Punto de Información Catastral no hay tasa, aunque la entidad que lo gestiona puede cobrar un pequeño precio por el servicio. En las gerencias del Catastro se paga la tasa de acreditación catastral."
+   ],
+   [
+    "¿La certificación catastral demuestra que soy el propietario?",
+    "No. El Catastro tiene fines fiscales y sus datos se presumen ciertos, pero la propiedad la acredita el Registro de la Propiedad o tu título, como la escritura de herencia. Puedes figurar en Catastro sin ser dueño, y al revés."
+   ],
+   [
+    "¿Qué hago si en Catastro sigue mi padre fallecido?",
+    "Si ya hay escritura de herencia, pide al notario que la comunique o preséntala tú. Si no, cualquiera de los herederos puede presentar el modelo 900D con el certificado de defunción y los documentos de la herencia. El cambio en Catastro no es requisito previo para vender tu parte."
+   ],
+   [
+    "¿Puede pedir la certificación catastral alguien que no es titular?",
+    "Puede consultar los datos no protegidos, como la superficie, el uso o el plano de la parcela. Los nombres de los titulares y el valor catastral solo los obtiene el titular, alguien autorizado por él o quien acredite un interés legítimo previsto en la ley, como un notario."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la certificación catastral",
+  "related": [
+   [
+    "Referencia catastral",
+    "/diccionario-del-proindiviso/referencia-catastral/"
+   ],
+   [
+    "Modelo 900D",
+    "/diccionario-del-proindiviso/modelo-900d/"
+   ],
+   [
+    "Documentos para vender tu parte de un piso",
+    "/blog/documentos-para-vender-tu-parte-de-un-piso/"
+   ],
+   [
+    "Exceso de cabida",
+    "/diccionario-del-proindiviso/exceso-de-cabida/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque la certificación catastral tenga errores",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Certificación catastral: qué es, cómo pedirla y errores",
+  "meta_desc": "La certificación catastral describe tu inmueble y la pide el notario. Cómo obtenerla gratis, errores de titularidad típicos y cómo vender tu parte igual.",
+  "focus_kw": "certificación catastral",
+  "title_corto": "Certificación catastral",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm late afternoon light: a view from a gentle hillside over a patchwork of small walled garden plots, orchards and low rooftops at the edge of a Spanish village, dry stone walls separating each parcel, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Certificación catastral: parcelas y tejados a las afueras de un pueblo español"
+ },
+ {
+  "slug": "comunidad-postganancial",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Comunidad postganancial: qué es y cómo vender un piso antes de liquidar",
+  "sub": "La comunidad postganancial es la situación en la que quedan los bienes gananciales desde que se disuelve la sociedad de gananciales, por divorcio, separación o fallecimiento, hasta que se liquida. Los excónyuges, o el viudo y los herederos, tienen una cuota sobre todo el patrimonio, no la mitad de cada piso. Por eso, para vender tu parte primero conviene liquidar, y podemos firmar la compra justo después.",
+  "checks": [
+   "Divorcio y fallecimiento",
+   "Artículos del Código Civil",
+   "Compramos tu mitad al liquidar"
+  ],
+  "card_title": "¿Divorciado y con el piso sin repartir?",
+  "card_text": "Te explicamos cómo liquidar y te damos precio por tu mitad en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la comunidad postganancial y cuándo nace",
+    "type": "text",
+    "intro": [
+     "La sociedad de gananciales se disuelve en los casos del artículo 1392 del Código Civil: divorcio, separación, nulidad, muerte de uno de los cónyuges o cambio de régimen en capitulaciones. Desde ese momento ya no hay gananciales nuevos, pero los que existían no se reparten solos. Hasta que se liquidan, forman una comunidad postganancial.",
+     "La doctrina del Tribunal Supremo la describe como una comunidad sobre un patrimonio entero. Cada titular tiene una cuota abstracta sobre el conjunto de bienes y deudas, no un porcentaje sobre cada bien. Dicho de otro modo, mientras no se liquide, ninguno es dueño de «la mitad del piso»: es dueño de la mitad de todo lo que había.",
+     "Tras un divorcio, los titulares son los excónyuges. Si la disolución es por fallecimiento, la comunidad postganancial la forman el viudo y los herederos del fallecido, que ocupan su lugar."
+    ]
+   },
+   {
+    "overline": "Quién es dueño de qué",
+    "h2": "Qué puede hacer cada uno mientras no se liquida",
+    "type": "table",
+    "items": [
+     [
+      "Acto",
+      "¿Puede hacerlo uno solo?"
+     ],
+     [
+      "Vivir en el piso.",
+      "Sí, si el otro lo consiente o un juez le atribuye el uso. Si no, el otro puede plantear una compensación por el uso."
+     ],
+     [
+      "Pagar la hipoteca y el IBI.",
+      "Sí, y quien paga de más tendrá un crédito al liquidar."
+     ],
+     [
+      "Alquilar el piso.",
+      "Con dos titulares al 50 %, en la práctica hace falta acuerdo."
+     ],
+     [
+      "Vender el piso entero.",
+      "No. Tienen que firmar todos los titulares."
+     ],
+     [
+      "Vender «su mitad» del piso.",
+      "No como tal, porque esa mitad aún no existe. Por regla general, el Registro no inscribe esa venta antes de liquidar."
+     ]
+    ],
+    "outro": [
+     "La comunidad postganancial se gestiona con la lógica de la comunidad de bienes, pero con una diferencia que importa: el objeto es el patrimonio entero, no cada piso."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un divorcio con un piso de 180.000 € y una hipoteca",
+    "type": "text",
+    "intro": [
+     "Marta y Jorge se divorcian. Tienen un piso ganancial de 180.000 € con 60.000 € de hipoteca pendiente y una cuenta con 10.000 €. Mientras no liquiden, siguen en comunidad postganancial y cada uno tiene la mitad de un patrimonio neto de 130.000 €, es decir, 65.000 €.",
+     "Si Jorge quiere salir, tiene tres caminos. Puede liquidar y que Marta se quede el piso a cambio de compensarle. También pueden adjudicarse el piso por mitades, con lo que nace un proindiviso ordinario y cada uno puede vender su mitad sin permiso del otro, como permite el artículo 399. O bien pueden vender el piso entero de común acuerdo.",
+     "La segunda vía es la que eligen quienes no tienen dinero para comprar al otro ni acuerdo para vender. Una liquidación por mitades suele estar exenta de ITP cuando las adjudicaciones son proporcionales. Aun así, consulta tu caso, porque los excesos de adjudicación pueden tributar."
+    ]
+   },
+   {
+    "overline": "Liquidar",
+    "h2": "Cómo salir de la comunidad postganancial",
+    "type": "steps",
+    "intro": [
+     "La liquidación sigue los artículos 1396 a 1410 del Código Civil y, en lo no previsto, las reglas de la partición de herencia. Estos son sus pasos:"
+    ],
+    "items": [
+     {
+      "t": "Inventario.",
+      "p": "Se listan los bienes y las deudas gananciales, y los créditos de cada cónyuge contra la sociedad, por ejemplo por pagar la hipoteca con dinero privativo."
+     },
+     {
+      "t": "Valoración y reparto.",
+      "p": "Se valora cada bien y se forman los lotes. Cada parte recibe la mitad del haber neto, en bienes concretos o en cuotas indivisas."
+     },
+     {
+      "t": "Escritura ante notario.",
+      "p": "Si hay acuerdo, se firma la liquidación en notaría. En un divorcio de mutuo acuerdo puede incluirse en el propio convenio regulador."
+     },
+     {
+      "t": "Liquidación judicial.",
+      "p": "Sin acuerdo, se acude al procedimiento de los artículos 806 y siguientes de la Ley de Enjuiciamiento Civil. Es más lento: de forma orientativa, entre uno y tres años."
+     }
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Qué significa la comunidad postganancial si quieres vender",
+    "type": "text",
+    "intro": [
+     "Mientras dura la comunidad postganancial, vender tu parte a un tercero es casi imposible, porque no hay una cuota concreta que inscribir. Lo práctico es liquidar primero. En cuanto la escritura de liquidación adjudica el piso por mitades, tu mitad es una cuota indivisa normal y puedes venderla sin la firma de tu ex.",
+     "Además, liquidación y venta pueden firmarse el mismo día, una detrás de otra, ante el mismo notario. Así no tienes que esperar a inscribir la primera escritura para cobrar. Tu ex conserva su mitad y su derecho de retracto de comuneros durante nueve días.",
+     "Si la disolución es por fallecimiento, el orden es parecido: primero se liquidan los gananciales, que dan al viudo la mitad, y después se reparte la otra mitad entre los herederos. Normalmente se hace todo en la misma escritura de herencia."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Liquida y vende tu mitad en el mismo acto",
+    "type": "callout",
+    "intro": [
+     "Compramos la mitad indivisa de pisos y casas al salir de una comunidad postganancial, tras un divorcio o una herencia, con o sin hipoteca, y aunque tu ex siga viviendo en ellos. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Te damos precio por tu mitad",
+     "p": "Cuéntanos la situación y te enviamos una oferta por escrito en 48 horas. Firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi mitad"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo vender mi mitad del piso si todavía no hemos liquidado los gananciales?",
+    "No como mitad concreta, porque en la comunidad postganancial tu derecho recae sobre todo el patrimonio y no sobre cada bien. Primero hay que liquidar y adjudicar el piso, por ejemplo por mitades. Liquidación y venta pueden firmarse el mismo día."
+   ],
+   [
+    "¿Cuánto tiempo puede durar la comunidad postganancial?",
+    "No tiene plazo máximo. Hay matrimonios divorciados hace décadas que siguen sin liquidar. Cualquiera de los dos puede pedir la liquidación en cualquier momento, de mutuo acuerdo ante notario o por la vía judicial si no hay acuerdo."
+   ],
+   [
+    "¿Quién paga la hipoteca durante la comunidad postganancial?",
+    "Frente al banco, quienes firmaron el préstamo, normalmente los dos y de forma solidaria. Entre vosotros, lo que pague cada uno se tiene en cuenta al liquidar: quien haya pagado más de su mitad tendrá un crédito a su favor."
+   ],
+   [
+    "¿Qué pasa si fallece uno de los excónyuges antes de liquidar?",
+    "Sus herederos ocupan su lugar en la comunidad postganancial. La liquidación se hace entonces entre el excónyuge vivo y esos herederos, lo que suele complicar el acuerdo. Por eso conviene no dejarla pendiente durante años."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la comunidad postganancial",
+  "related": [
+   [
+    "Liquidación de gananciales",
+    "/diccionario-del-proindiviso/liquidacion-de-gananciales/"
+   ],
+   [
+    "Bienes gananciales",
+    "/diccionario-del-proindiviso/bienes-gananciales/"
+   ],
+   [
+    "Vender un proindiviso en un divorcio",
+    "/vender-proindiviso-divorcio/"
+   ],
+   [
+    "Proindiviso por divorcio sin acuerdo",
+    "/blog/proindiviso-por-divorcio-sin-acuerdo/"
+   ],
+   [
+    "Liquidación de gananciales en la herencia",
+    "/blog/liquidacion-de-gananciales-en-la-herencia/"
+   ]
+  ],
+  "cta_title": "Sal de la comunidad postganancial en semanas",
+  "cta_text": "Compramos tu mitad con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Comunidad postganancial: qué es y cómo vender el piso común",
+  "meta_desc": "La comunidad postganancial dura desde el divorcio o el fallecimiento hasta liquidar. Quién es dueño de qué y cómo vender tu mitad. Precio en 48 horas.",
+  "focus_kw": "comunidad postganancial",
+  "title_corto": "Comunidad postganancial",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft morning light through white blinds: a quiet kitchen in a Spanish city flat with a small breakfast bar and two high wooden stools, one of them pushed far away from the counter, plain tiled wall and a single plant, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Comunidad postganancial: cocina de un piso con dos taburetes separados junto a una barra"
+ },
+ {
+  "slug": "defensor-judicial",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Defensor judicial: qué es y cuándo hace falta en una herencia o una venta",
+  "sub": "El defensor judicial es la persona que nombra el juzgado para representar a un menor, o apoyar a una persona con discapacidad, cuando sus intereses chocan con los de quien normalmente le representa. Aparece sobre todo cuando el viudo y los hijos menores heredan juntos. Su nombramiento puede retrasar la operación varios meses. Si eres otro heredero y no quieres esperar, puedes vendernos tu parte.",
+  "checks": [
+   "Artículos 163 y 295 del Código Civil",
+   "Plazos orientativos reales",
+   "Compramos tu parte sin esperar"
+  ],
+  "card_title": "¿Hay un menor entre los herederos?",
+  "card_text": "Tú puedes vender tu cuota sin esperar al juzgado. Te damos precio en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un defensor judicial y qué ley lo regula",
+    "type": "text",
+    "intro": [
+     "Los padres representan a sus hijos menores y los curadores apoyan a las personas con discapacidad que lo necesitan. Pero a veces ese representante tiene un interés propio en el mismo asunto. Para esos casos, la ley prevé un defensor judicial: alguien sin conflicto que actúa solo en esa operación y cesa cuando termina.",
+     "El artículo 163 del Código Civil lo exige cuando los padres tienen un interés opuesto al de sus hijos no emancipados. Si el conflicto es solo con uno de los progenitores, representa al menor el otro. Para las personas con discapacidad, lo regulan los artículos 295 a 298, tras la reforma de 2021.",
+     "El nombramiento se tramita como expediente de jurisdicción voluntaria. Lo resuelve el Letrado de la Administración de Justicia, según los artículos 27 a 32 de la Ley 15/2015."
+    ]
+   },
+   {
+    "overline": "Cuándo",
+    "h2": "Casos en los que se nombra un defensor judicial",
+    "type": "list",
+    "intro": [
+     "En materia de vivienda y herencias, estos son los supuestos más frecuentes."
+    ],
+    "items": [
+     "<strong>Viudo y menores en la misma herencia.</strong> Fallece el padre y heredan la madre y los hijos menores. Si la madre reparte la herencia en nombre de sus hijos, estaría negociando consigo misma.",
+     "<strong>Un progenitor que se adjudica la cuota del hijo.</strong> Por ejemplo, el padre se queda el piso entero en una extinción y compensa al menor.",
+     "<strong>Un curador que también hereda.</strong> No puede apoyar a la persona con discapacidad en una partición en la que él mismo recibe bienes.",
+     "<strong>Un representante que no puede actuar.</strong> Por enfermedad, ausencia o cualquier imposibilidad, aunque no haya conflicto."
+    ],
+    "outro": [
+     "Si todos venden a la vez a un tercero y el precio se reparte según las cuotas, no suele haber conflicto de intereses. Aun así, para vender el inmueble de un menor los padres necesitan autorización judicial, según el artículo 166 del Código Civil, que es otro trámite distinto."
+    ]
+   },
+   {
+    "overline": "Trámite y plazos",
+    "h2": "Cuánto retrasa la operación el defensor judicial",
+    "type": "steps",
+    "intro": [
+     "El expediente es sencillo, pero depende de la carga del juzgado. Este es el recorrido orientativo."
+    ],
+    "items": [
+     {
+      "t": "Solicitud.",
+      "p": "La presenta cualquier interesado o el Ministerio Fiscal. No es obligatorio ir con abogado ni procurador, según el artículo 28 de la Ley de la Jurisdicción Voluntaria."
+     },
+     {
+      "t": "Comparecencia.",
+      "p": "El Letrado de la Administración de Justicia cita a los interesados, al fiscal y al menor si tiene más de 12 años o suficiente madurez."
+     },
+     {
+      "t": "Nombramiento.",
+      "p": "Se designa a la persona más idónea y se fijan sus funciones. A menudo es un familiar sin interés en la herencia, como un tío."
+     },
+     {
+      "t": "Aprobación de la partición.",
+      "p": "Si interviene en una partición, el artículo 1060 del Código Civil exige después la aprobación judicial, salvo que al nombrarlo se haya dispuesto otra cosa."
+     }
+    ],
+    "outro": [
+     "En total, de forma orientativa, entre uno y seis meses para el nombramiento, según el juzgado. Si después hace falta aprobación o autorización judicial, el plazo puede duplicarse."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo: la herencia de un padre con hijos menores",
+    "type": "text",
+    "intro": [
+     "Fallece Andrés y deja un piso privativo de 180.000 € a sus dos hijos, de 9 y 14 años. Su viuda, Elena, tiene el usufructo de un tercio. Para hacer la partición, Elena y los niños tienen intereses enfrentados, así que el juzgado nombra defensor judicial a un hermano de Andrés.",
+     "El defensor firma la partición en nombre de los menores y, después, el juzgado la aprueba. Si más adelante Elena quiere vender el piso entero, necesitará además la autorización judicial del artículo 166 para vender la parte de sus hijos. Entre unos trámites y otros, la operación puede superar el medio año.",
+     "Si entre los herederos hubiera un hijo mayor de edad, este podría vender su cuota sin esperar a nada de esto. Su parte no necesita defensor ni autorización. Es habitual en familias con hijos de distintos matrimonios."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Figuras parecidas que conviene distinguir",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Contador partidor.",
+      "p": "Lo designa el testador o el juez para hacer la partición. No representa a nadie: reparte.",
+      "url": "/blog/contador-partidor-herencia-sin-acuerdo/",
+      "cta": "Ver contador partidor →"
+     },
+     {
+      "t": "Albacea.",
+      "p": "Ejecuta la voluntad del fallecido: paga, entrega legados y vigila que se cumpla el testamento.",
+      "url": "/diccionario-del-proindiviso/albacea/",
+      "cta": "Ver albacea →"
+     },
+     {
+      "t": "Tutor y curador.",
+      "p": "Son cargos estables. El defensor judicial, en cambio, actúa solo en un asunto concreto o mientras dura el conflicto."
+     },
+     {
+      "t": "Autorización judicial.",
+      "p": "No es una persona sino un permiso del juez para vender bienes de un menor. Puede hacer falta además del defensor judicial."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu cuota sin esperar al juzgado",
+    "type": "callout",
+    "intro": [
+     "Cuando hace falta un defensor judicial, el resto de copropietarios suele quedarse bloqueado durante meses. Tu cuota es tuya y puedes venderla sin su permiso. Compramos cuotas de herencias con menores y pagamos entre el 40 % y el 70 % del valor proporcional."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Te enviamos una oferta por escrito en 48 horas. Firma en notaría en dos a cuatro semanas, pago al contado y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién puede ser defensor judicial de un menor?",
+    "Cualquier persona mayor de edad e idónea que no tenga intereses en el asunto. Suele ser un familiar cercano, como un tío o un abuelo que no herede. Si no hay nadie adecuado en la familia, el juzgado puede designar a otra persona."
+   ],
+   [
+    "¿Cuánto cuesta nombrar un defensor judicial?",
+    "El expediente no exige abogado ni procurador, y los particulares no pagan tasas judiciales. El cargo suele ser gratuito cuando lo asume un familiar. Si contratas un abogado para preparar la solicitud o la partición, pagarás sus honorarios, que varían según el caso."
+   ],
+   [
+    "¿Hace falta defensor judicial para vender un piso con un menor como copropietario?",
+    "No siempre. Si los padres venden su parte y la del hijo al mismo comprador y por el mismo precio proporcional, no suele haber conflicto, pero sí hace falta autorización judicial. Si el menor tiene 16 años o más y consiente en documento público, la ley permite prescindir de ella."
+   ],
+   [
+    "¿Puedo vender mi parte de la herencia si otro heredero es menor de edad?",
+    "Sí. Tu cuota es tuya y no necesitas el permiso del menor, de sus padres ni del juzgado. Si la herencia está sin repartir, lo que vendes son tus derechos hereditarios; si ya está repartida, vendes tu cuota del inmueble."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el defensor judicial",
+  "related": [
+   [
+    "Heredero menor o incapacitado y venta de la casa",
+    "/blog/heredero-menor-o-incapacitado-venta-de-la-casa/"
+   ],
+   [
+    "Partición de la herencia",
+    "/diccionario-del-proindiviso/particion-de-la-herencia/"
+   ],
+   [
+    "Cesión de derechos hereditarios",
+    "/diccionario-del-proindiviso/cesion-de-derechos-hereditarios/"
+   ],
+   [
+    "Vender un proindiviso con un copropietario menor",
+    "/blog/vender-proindiviso-con-un-copropietario-menor-de-edad/"
+   ]
+  ],
+  "cta_title": "Tu parte, vendida sin esperar al defensor judicial",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Defensor judicial: qué es, cuándo se nombra y cuánto tarda",
+  "meta_desc": "El defensor judicial representa a un menor cuando choca con sus padres o tutor. Cuándo se nombra, cuánto retrasa una herencia y cómo vender tu parte.",
+  "focus_kw": "defensor judicial",
+  "title_corto": "Defensor judicial",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural light from a tall window: a small child-sized wooden chair standing alone beside the window of an empty sunlit room in an old Spanish flat, bare white walls and a patterned hydraulic tile floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Defensor judicial: silla infantil de madera junto a una ventana en un piso vacío"
+ },
+ {
+  "slug": "derrama",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Derrama: qué es y quién la paga cuando el piso está en proindiviso",
+  "sub": "Una derrama es una aportación extraordinaria que la comunidad de propietarios exige a cada vecino, según su cuota de participación, para pagar obras o gastos que no cubren las cuotas ordinarias. Si el piso es de varios copropietarios, se reparte entre ellos según su porcentaje, aunque frente a la comunidad pueden responder todos por el total. Si no quieres seguir pagando, podemos comprarte tu parte.",
+  "checks": [
+   "Artículo 395 del Código Civil",
+   "Qué pasa si un hermano no paga",
+   "Compramos tu parte con obras"
+  ],
+  "card_title": "¿Te toca pagar una derrama que no quieres?",
+  "card_text": "Vende tu cuota y olvídate de obras y recibos. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es una derrama y cuándo se aprueba",
+    "type": "text",
+    "intro": [
+     "La comunidad de propietarios se financia con cuotas mensuales o trimestrales. Cuando hace falta más dinero, por ejemplo para rehabilitar la fachada, instalar un ascensor o atender una avería urgente, la junta aprueba una derrama. Es un pago adicional que cada piso abona según su cuota de participación, en uno o varios plazos.",
+     "La obligación nace del artículo 9.1.e de la Ley de Propiedad Horizontal, que obliga a cada propietario a contribuir a los gastos generales según su coeficiente. Las obras necesarias de conservación son obligatorias y la junta se limita a repartir su coste. En cambio, las mejoras necesitan mayorías y, en algunos casos, quien vota en contra queda exento."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Quién paga la derrama cuando el piso es de varios",
+    "type": "text",
+    "intro": [
+     "Entre los copropietarios, la regla es clara. El artículo 393 del Código Civil reparte las cargas según las cuotas. Además, el artículo 395 permite a cada copropietario obligar a los demás a contribuir a los gastos de conservación, y solo se libra quien renuncia a su parte del inmueble en favor de los otros.",
+     "Frente a la comunidad de propietarios, la cosa cambia. La mayoría de las Audiencias Provinciales considera que los copropietarios de un piso responden de forma solidaria, así que la comunidad puede reclamar el recibo completo a cualquiera de ellos. Quien paga de más tiene después derecho a que los demás le devuelvan su parte, según el artículo 1145 del Código Civil.",
+     "Por otro lado, el propio piso garantiza la deuda. La ley lo afecta al pago de la parte vencida del año en curso y de los tres años anteriores, de modo que la deuda sigue al inmueble aunque cambie de dueño."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo con números: tres hermanos y una fachada",
+    "type": "text",
+    "intro": [
+     "Tres hermanos heredan a partes iguales un piso de 180.000 € con una cuota de participación del 4 %. La junta aprueba una derrama de 60.000 € para la fachada. Al piso le tocan 2.400 € y a cada hermano, 800 €.",
+     "Dos hermanos pagan su parte y el tercero se niega. La comunidad puede reclamar los 800 € pendientes por un proceso monitorio y, según el criterio mayoritario, dirigirse contra cualquiera de los tres. Si uno de ellos los adelanta, podrá exigírselos después al hermano que no pagó.",
+     "Mientras exista la deuda, el piso responde de ella. Por tanto, una derrama impagada no solo enfrenta a los hermanos con la comunidad, sino que también complica cualquier venta futura."
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Qué pasa con la derrama si vendes tu parte",
+    "type": "list",
+    "intro": [
+     "Vender tu cuota con una derrama aprobada es perfectamente posible. Conviene tener claras cuatro reglas:"
+    ],
+    "items": [
+     "<strong>Paga quien es dueño cuando vence cada plazo.</strong> El artículo 17.11 de la Ley de Propiedad Horizontal lo establece para las derramas de mejoras, y muchos tribunales aplican el mismo criterio al resto, salvo pacto distinto.",
+     "<strong>Hará falta un certificado de deudas.</strong> Lo emite el secretario de la comunidad e indica si el piso está al corriente o qué debe. El comprador puede exonerarte de aportarlo.",
+     "<strong>Lo pactado manda entre las partes.</strong> Podéis acordar que el comprador asuma la derrama pendiente a cambio de un precio menor.",
+     "<strong>Comunica la venta a la comunidad.</strong> Si no informas del cambio de titular, puedes seguir respondiendo de las deudas posteriores junto al comprador."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Cómo se reparten otros gastos del piso",
+    "type": "table",
+    "items": [
+     [
+      "Gasto",
+      "Cómo se reparte en un proindiviso"
+     ],
+     [
+      "Cuota ordinaria.",
+      "Pago mensual o trimestral para el mantenimiento. Se reparte por cuotas, igual que la derrama."
+     ],
+     [
+      "IBI.",
+      "Impuesto municipal anual. Lo paga quien figura como titular a 1 de enero y se reparte entre los copropietarios."
+     ],
+     [
+      "Gastos de conservación.",
+      "Reparaciones necesarias del propio piso. El artículo 395 obliga a todos a contribuir."
+     ],
+     [
+      "Mejoras voluntarias.",
+      "Reformas que no son necesarias. Requieren el acuerdo de los copropietarios según su alcance."
+     ]
+    ],
+    "outro": [
+     "Si quieres calcular cuánto te debe cada copropietario por estos gastos, usa nuestra calculadora de gastos entre copropietarios."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte aunque haya obras en marcha",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos con derramas aprobadas, recibos pendientes o hermanos que no pagan. La deuda pendiente se tiene en cuenta en la oferta, sin sorpresas el día de la firma. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo. Sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tengo que pagar una derrama si el piso es de mis hermanos y mío?",
+    "Sí, en proporción a tu cuota. Entre copropietarios, el artículo 393 del Código Civil reparte las cargas según el porcentaje de cada uno. Frente a la comunidad, además, puedes tener que adelantar la parte de un hermano que no paga y reclamársela después."
+   ],
+   [
+    "¿Qué pasa si un copropietario no paga la derrama?",
+    "La comunidad puede reclamar la deuda por un proceso monitorio y, si no se paga, embargar el piso o la cuota del deudor. El copropietario que adelanta el dinero puede reclamárselo al que no pagó. Si el conflicto se cronifica, vender tu cuota es una salida rápida."
+   ],
+   [
+    "¿Quién paga la derrama si vendo el piso con la obra ya aprobada?",
+    "Salvo pacto, quien sea propietario cuando venza cada pago, según el artículo 17.11 de la Ley de Propiedad Horizontal para las mejoras. Por eso conviene dejar escrito en la escritura quién asume cada plazo y cómo afecta al precio."
+   ],
+   [
+    "¿Puedo negarme a pagar una derrama?",
+    "Solo en casos concretos, como algunas mejoras no necesarias y de coste elevado que hayas votado en contra. Las obras de conservación, accesibilidad o seguridad son obligatorias. Dentro del proindiviso, el artículo 395 solo permite librarse renunciando a tu parte del inmueble."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la derrama",
+  "related": [
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Calculadora de gastos entre copropietarios",
+    "/calculadora-gastos-entre-copropietarios/"
+   ],
+   [
+    "Gastos de conservación",
+    "/diccionario-del-proindiviso/gastos-de-conservacion/"
+   ],
+   [
+    "Cuota de participación",
+    "/diccionario-del-proindiviso/cuota-de-participacion/"
+   ],
+   [
+    "Renunciar a tu parte para no pagar gastos",
+    "/blog/renunciar-a-mi-parte-de-un-proindiviso-para-no-pagar-gastos/"
+   ]
+  ],
+  "cta_title": "Deja de pagar derramas: vende tu parte en semanas",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Derrama: qué es, quién la paga y qué pasa si no se paga",
+  "meta_desc": "Una derrama es un pago extra que aprueba la comunidad. Quién la paga si el piso está en proindiviso, qué pasa si un hermano no paga y cómo vender tu parte.",
+  "focus_kw": "derrama",
+  "title_corto": "Derrama",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, clear morning light: the facade of a 1960s apartment building in a Spanish city covered with metal scaffolding and plain green safety netting during a renovation, balconies partly visible behind the netting, quiet street below, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Derrama: fachada de un edificio de viviendas con andamios durante una rehabilitación"
+ },
+ {
+  "slug": "exceso-de-cabida",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Exceso de cabida: qué es y cómo afecta a la venta de tu parte de una finca",
+  "sub": "El exceso de cabida es la diferencia a favor de la realidad entre la superficie medida de una finca y la que figura inscrita en el Registro de la Propiedad. Se rectifica con la certificación catastral, ante notario o ante el registrador, según el porcentaje. No impide vender tu cuota, y compramos fincas con la superficie sin cuadrar.",
+  "checks": [
+   "Artículos 199 y 201 de la Ley Hipotecaria",
+   "Las vías de rectificación",
+   "Compramos tu cuota igual"
+  ],
+  "card_title": "¿La superficie de tu finca no cuadra?",
+  "card_text": "No hace falta arreglarlo para vender tu parte. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un exceso de cabida",
+    "type": "text",
+    "intro": [
+     "Cabida es la superficie de una finca. Muchas fincas se inscribieron hace décadas con medidas aproximadas, sin planos ni coordenadas. Cuando hoy se miden con precisión, aparecen diferencias. Si la finca real es mayor que la inscrita, hay un exceso de cabida; si es menor, un defecto de cabida.",
+     "Lo importante es que el exceso de cabida corrija un error de medición y no esconda terreno nuevo. El Registro solo admite rectificar la superficie de la misma finca, con los mismos linderos. Si el terreno de más procede de una parcela vecina, ya no es una rectificación sino una adquisición, y necesita otro título.",
+     "Desde la reforma de 2015, la Ley Hipotecaria busca que Registro y Catastro coincidan. Por eso la certificación catastral descriptiva y gráfica es la pieza clave de casi cualquier rectificación."
+    ]
+   },
+   {
+    "overline": "Rectificación",
+    "h2": "Cómo se rectifica un exceso de cabida",
+    "type": "cards",
+    "intro": [
+     "La vía depende del tamaño de la diferencia y de si coincide con el Catastro. Son reglas orientativas, porque el registrador puede pedir más si duda de la identidad de la finca."
+    ],
+    "items": [
+     {
+      "t": "Hasta el 5 %.",
+      "p": "Basta la manifestación del titular en la escritura. El artículo 201.3 de la Ley Hipotecaria lo permite sin expediente, y el registrador avisa después a los colindantes."
+     },
+     {
+      "t": "Hasta el 10 %.",
+      "p": "Se acredita con la certificación catastral descriptiva y gráfica, siempre que la finca inscrita y la catastral coincidan y no haya dudas fundadas."
+     },
+     {
+      "t": "Más del 10 %.",
+      "p": "Hace falta un expediente: el registral del artículo 199, con representación gráfica y aviso a los vecinos, o el notarial del artículo 201, con edictos y notificaciones."
+     },
+     {
+      "t": "Con oposición.",
+      "p": "Si un vecino se opone y no hay acuerdo, la cuestión acaba en un juicio declarativo, que puede durar más de un año."
+     }
+    ],
+    "outro": [
+     "Si la descripción catastral tampoco es correcta, un técnico redacta una representación gráfica alternativa georreferenciada. En ese caso suele convenir corregir también el Catastro."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo: la casa del pueblo de tres hermanos",
+    "type": "text",
+    "intro": [
+     "Tres hermanos heredan una casa con corral inscrita con 300 metros cuadrados de parcela. La certificación catastral da 380, un 27 % más. Como supera el 10 %, la rectificación exige expediente notarial o registral, avisos a los vecinos y, si el Catastro no es fiable, un plano técnico.",
+     "El coste orientativo, sumando notario, Registro y técnico, puede ir de unos cientos de euros a un par de miles, y el trámite, de dos a seis meses. Además, lo normal es que lo pidan todos los titulares, porque afecta a la descripción de toda la finca. Si un hermano no colabora, el exceso de cabida se queda sin inscribir."
+    ]
+   },
+   {
+    "overline": "Vender tu parte",
+    "h2": "Qué significa el exceso de cabida si quieres vender tu cuota",
+    "type": "text",
+    "intro": [
+     "Un exceso de cabida sin inscribir no impide vender una cuota. La escritura describe la finca como consta en el Registro y el notario advierte de la discrepancia con el Catastro. Lo que se vende es un porcentaje de la finca tal como es.",
+     "Además, las fincas suelen venderse como cuerpo cierto y por un precio alzado. En ese caso, el artículo 1471 del Código Civil impide pedir un ajuste del precio aunque luego resulte más o menos superficie.",
+     "Donde sí pesa es en el precio y en la financiación. Un banco puede negarse a hipotecar una finca con la superficie descuadrada, y un comprador particular tiende a pedir rebaja o a exigir que se rectifique antes. Un comprador profesional de cuotas, en cambio, valora la finca real y asume después la rectificación."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Términos que se suelen confundir",
+    "type": "table",
+    "items": [
+     [
+      "Término",
+      "Qué es"
+     ],
+     [
+      "Defecto de cabida.",
+      "Lo contrario: la finca real es más pequeña que la inscrita. Suele rectificarse con menos requisitos."
+     ],
+     [
+      "Inmatriculación.",
+      "Inscribir por primera vez una finca que nunca estuvo en el Registro."
+     ],
+     [
+      "Expediente de dominio.",
+      "Procedimiento notarial para inmatricular, reanudar el tracto o rectificar la superficie."
+     ],
+     [
+      "Segregación de finca.",
+      "Separar una parte de una finca para crear otra nueva. No corrige errores: cambia la finca."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu cuota sin rectificar la finca",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de casas, solares y fincas rústicas con exceso de cabida o con la superficie sin cuadrar, con o sin el acuerdo de los demás copropietarios. Valoramos la finca real y, si después hay que rectificar, es cosa nuestra. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte de la finca",
+     "p": "Dinos la referencia catastral y tu porcentaje. Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta inscribir un exceso de cabida?",
+    "Depende de la vía. Si la diferencia es pequeña y coincide con el Catastro, apenas sube los aranceles de notario y Registro. Si supera el 10 % y hace falta expediente y plano técnico, el coste orientativo puede ir de unos cientos de euros a un par de miles."
+   ],
+   [
+    "¿Se puede vender una finca con exceso de cabida sin inscribir?",
+    "Sí. La venta es válida y se inscribe con la superficie que consta en el Registro. El notario advierte de la diferencia con el Catastro, y comprador y vendedor pueden pactar quién se encarga de rectificarla después."
+   ],
+   [
+    "¿Qué diferencia hay entre exceso de cabida e inmatriculación?",
+    "El exceso de cabida corrige la medida de una finca ya inscrita, sin añadir terreno. La inmatriculación inscribe por primera vez una finca que nunca estuvo en el Registro. Si el terreno de más procede de otra parcela, no cabe rectificar: hay que adquirirlo e inscribirlo con su propio título."
+   ],
+   [
+    "¿Pueden oponerse los vecinos a un exceso de cabida?",
+    "Sí. En los expedientes de los artículos 199 y 201 de la Ley Hipotecaria se notifica a los colindantes, que pueden alegar que el terreno es suyo. Si hay oposición fundada, el expediente se detiene y la cuestión se decide en un juicio."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el exceso de cabida",
+  "related": [
+   [
+    "Certificación catastral",
+    "/diccionario-del-proindiviso/certificacion-catastral/"
+   ],
+   [
+    "Expediente de dominio",
+    "/diccionario-del-proindiviso/expediente-de-dominio/"
+   ],
+   [
+    "Vender un terreno en proindiviso",
+    "/vender-terreno-proindiviso/"
+   ],
+   [
+    "Casa heredada no inscrita en el Registro",
+    "/blog/casa-heredada-no-inscrita-en-el-registro-vender-mi-parte/"
+   ],
+   [
+    "Finca registral",
+    "/diccionario-del-proindiviso/finca-registral/"
+   ]
+  ],
+  "cta_title": "Tu cuota, vendida aunque haya exceso de cabida",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Exceso de cabida: qué es, cómo se rectifica y cuánto cuesta",
+  "meta_desc": "El exceso de cabida es la superficie real que supera a la inscrita. Cómo se rectifica según el porcentaje y cómo vender tu cuota igual. Precio en 48 h.",
+  "focus_kw": "exceso de cabida",
+  "title_corto": "Exceso de cabida",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, bright natural midday light with soft clouds: a plain unbranded surveying tripod with a satellite antenna standing alone on a dry rural plot in inland Spain, an old wire fence and a small stone boundary marker half hidden in the grass, wide open sky, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Exceso de cabida: trípode topográfico en una parcela rústica junto a una cerca"
+ },
+ {
+  "slug": "grupos-de-parentesco",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Grupos de parentesco: qué son y por qué un sobrino paga más que un hijo",
+  "sub": "Los grupos de parentesco son las cuatro categorías en las que el impuesto de sucesiones clasifica a cada heredero según su relación con el fallecido. De ellas dependen la reducción y el coeficiente multiplicador, y por eso un sobrino puede pagar muchas veces más que un hijo por la misma cuota. Si el impuesto te ahoga, puedes vender tu parte para pagarlo.",
+  "checks": [
+   "Ley 29/1987, artículos 20 y 22",
+   "Ejemplo hijo frente a sobrino",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Te ha llegado una herencia de un tío?",
+  "card_text": "Si no puedes pagar el impuesto, te compramos tu cuota y cobras en notaría. Precio en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué son los grupos de parentesco del impuesto de sucesiones",
+    "type": "text",
+    "intro": [
+     "La Ley 29/1987, del Impuesto sobre Sucesiones y Donaciones, reparte a los herederos en cuatro grupos de parentesco en su artículo 20. El grupo decide dos cosas. Primero, cuánto se resta de la herencia antes de aplicar la tarifa, que es la reducción por parentesco. Después, por cuánto se multiplica el impuesto, que es el coeficiente del artículo 22.",
+     "Las comunidades autónomas pueden mejorar esas reducciones y aprobar bonificaciones, y casi todas lo han hecho para los grupos I y II. Por eso el mismo piso puede salir casi gratis a un hijo y costar decenas de miles de euros a un sobrino."
+    ]
+   },
+   {
+    "overline": "Los cuatro grupos",
+    "h2": "Quién está en cada grupo y qué reducción estatal tiene",
+    "type": "table",
+    "items": [
+     [
+      "Grupo",
+      "Quién lo forma y reducción estatal orientativa"
+     ],
+     [
+      "Grupo I.",
+      "Hijos y descendientes menores de 21 años. 15.956,87 € más 3.990,72 € por cada año menos de 21, con un máximo de 47.858,59 €."
+     ],
+     [
+      "Grupo II.",
+      "Hijos y descendientes de 21 años o más, cónyuge, padres y ascendientes. 15.956,87 €."
+     ],
+     [
+      "Grupo III.",
+      "Hermanos, tíos, sobrinos y parientes por afinidad, como suegros, yernos, nueras o hijastros. 7.993,46 €."
+     ],
+     [
+      "Grupo IV.",
+      "Primos, parientes más lejanos y personas sin parentesco. Sin reducción."
+     ]
+    ],
+    "outro": [
+     "Los coeficientes también cambian según los grupos de parentesco. Van de 1 a 1,20 en los grupos I y II y de 1,5882 a 1,9059 en el grupo III. En el grupo IV, de 2 a 2,4. Dentro de cada tramo, sube con el patrimonio previo del heredero."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Hijo frente a sobrino: el mismo piso, dos impuestos",
+    "type": "text",
+    "intro": [
+     "Imagina un piso de 180.000 € que hereda una sola persona, sin otros bienes y con un patrimonio previo pequeño. Aplicamos la tarifa estatal, sin bonificaciones autonómicas ni reducción por vivienda habitual, solo para ver el efecto del parentesco. Son cifras orientativas.",
+     "Si hereda un hijo de 30 años, del grupo II, la base queda en unos 164.000 € y la cuota, en torno a 24.000 €. Con coeficiente 1, paga esos 24.000 €. En cambio, si hereda un sobrino, del grupo III, la base sube a unos 172.000 € y la cuota ronda los 25.700 €. Después, el coeficiente de 1,5882 la eleva a unos 40.800 €.",
+     "Ahora suma las bonificaciones. En comunidades como Madrid o Andalucía, el hijo tiene una bonificación del 99 % y pagaría unos 240 €. El sobrino, en cambio, sigue en la tarifa general en muchas comunidades, aunque algunas, como Madrid, ya bonifican una parte a hermanos, tíos y sobrinos. Entre grupos de parentesco, la distancia puede ir de unos cientos de euros a decenas de miles por el mismo piso."
+    ]
+   },
+   {
+    "overline": "Detalles",
+    "h2": "Reglas de los grupos de parentesco que suelen sorprender",
+    "type": "list",
+    "items": [
+     "<strong>Los afines están en el grupo III.</strong> Un hijastro o una nuera tributan como un sobrino. Además, la doctrina del Tribunal Supremo mantiene ese grupo aunque haya fallecido el cónyuge que hacía de vínculo.",
+     "<strong>La pareja de hecho depende de la comunidad.</strong> Muchas comunidades la equiparan al cónyuge si está inscrita, pero la ley estatal no lo hace.",
+     "<strong>El patrimonio previo cuenta.</strong> Con más de 402.678,11 € de patrimonio, el coeficiente sube en todos los grupos.",
+     "<strong>Manda la residencia del fallecido.</strong> Se aplica la ley de la comunidad donde más tiempo vivió el causante en sus últimos cinco años. No importa dónde vivan los herederos ni dónde esté el piso."
+    ]
+   },
+   {
+    "overline": "Qué hacer",
+    "h2": "Qué significa si heredas una cuota y no puedes pagar",
+    "type": "text",
+    "intro": [
+     "En los grupos de parentesco III y IV es habitual heredar una cuota, como un tercio de la casa de un tío sin hijos. Con ella llega una factura fiscal que muchos no pueden asumir. El impuesto se paga en seis meses desde el fallecimiento, prorrogables otros seis si se piden a tiempo. Salvo excepciones, Hacienda no acepta el piso como pago.",
+     "Las salidas habituales son pedir aplazamiento o fraccionamiento, renunciar a la herencia o vender la cuota. Vender a un comprador profesional permite pagar el impuesto con el dinero de la propia cuota. Incluso se puede firmar la aceptación de la herencia y la venta en la misma notaría."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Paga el impuesto con el valor de tu cuota",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas heredadas en toda España, de herederos de todos los grupos de parentesco y también antes de pagar el impuesto de sucesiones. Pagamos entre el 40 % y el 70 % del valor proporcional, al contado en notaría."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota heredada",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo. Sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿En qué grupo de parentesco está un sobrino?",
+    "En el grupo III, junto con hermanos, tíos y parientes por afinidad como suegros o hijastros. Tiene una reducción estatal de 7.993,46 € y un coeficiente multiplicador de entre 1,5882 y 1,9059, salvo mejoras de su comunidad autónoma."
+   ],
+   [
+    "¿Qué grupo de parentesco tiene un primo?",
+    "El grupo IV, igual que cualquier persona sin parentesco. No tiene reducción estatal por parentesco y su coeficiente va de 2 a 2,4. Es el grupo que más paga y, en muchas comunidades, no tiene bonificaciones."
+   ],
+   [
+    "¿Los hijastros heredan como hijos a efectos fiscales?",
+    "No, salvo que estén adoptados. Son parientes por afinidad y tributan en el grupo III. Algunas comunidades autónomas mejoran su tratamiento, así que conviene revisar la normativa de la comunidad donde residía el fallecido."
+   ],
+   [
+    "¿Cuánto paga un sobrino por heredar un piso?",
+    "Depende de la comunidad autónoma y del valor. Con la tarifa estatal, un piso de 180.000 € puede costarle unos 40.000 €, frente a unos 24.000 € de un hijo sin bonificaciones. Con las bonificaciones regionales para hijos, la diferencia suele ser todavía mayor."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los grupos de parentesco",
+  "related": [
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Coeficiente multiplicador",
+    "/diccionario-del-proindiviso/coeficiente-multiplicador/"
+   ],
+   [
+    "Herencia de un tío sin hijos",
+    "/blog/herencia-de-un-tio-sin-hijos-sobrinos/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "No puedo pagar el impuesto de sucesiones",
+    "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota y paga el impuesto sin endeudarte",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Grupos de parentesco: qué son y cuánto paga cada heredero",
+  "meta_desc": "Los grupos de parentesco del impuesto de sucesiones fijan reducciones y coeficientes. Ejemplo de hijo frente a sobrino y cómo vender tu cuota para pagar.",
+  "focus_kw": "grupos de parentesco",
+  "title_corto": "Grupos de parentesco",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm afternoon light: the shaded porch of a village house in Castile with a row of mismatched wooden chairs of different sizes lined up against a whitewashed wall, a worn stone floor and a climbing vine overhead, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Grupos de parentesco: sillas distintas en el porche de una casa de pueblo"
+ },
+ {
+  "slug": "inquiokupa",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Inquiokupa: qué es y cómo afecta a vender tu parte de un piso alquilado",
+  "sub": "Un inquiokupa es un inquilino que entró en la vivienda con un contrato de alquiler válido y deja de pagar la renta sin marcharse. A diferencia del okupa, tiene título, así que no comete un delito y solo se le puede sacar con un desahucio por falta de pago. Si el piso es de varios copropietarios y quieres salir, te compramos tu parte con el inquilino dentro.",
+  "checks": [
+   "Desahucio por impago explicado",
+   "Novedades de 2023 y 2025",
+   "Compramos tu parte ocupada"
+  ],
+  "card_title": "¿Tu piso compartido tiene un inquilino que no paga?",
+  "card_text": "Te compramos tu cuota tal como está, sin esperar al desahucio. Precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un inquiokupa y en qué se diferencia de un okupa",
+    "type": "text",
+    "intro": [
+     "Inquiokupa es una palabra coloquial que mezcla inquilino y okupa. Describe al arrendatario que firmó un contrato, a menudo pagó los primeros meses y después dejó de pagar, pero sigue viviendo en el piso. No es un término legal: para los tribunales, el inquiokupa es un arrendatario en situación de impago.",
+     "La diferencia con el okupa es el título. El okupa entra sin permiso y puede cometer un delito de usurpación o de allanamiento, según el caso. En cambio, el inquiokupa entró con tu consentimiento, así que la vía penal no sirve y hay que ir al juzgado civil. Algo parecido pasa con quien se queda al acabar el contrato: hay que pedir el desahucio por expiración del plazo."
+    ]
+   },
+   {
+    "overline": "Desahucio",
+    "h2": "Cómo se recupera el piso: el desahucio por impago",
+    "type": "steps",
+    "intro": [
+     "El camino es el juicio verbal de desahucio por falta de pago, previsto en el artículo 250 de la Ley de Enjuiciamiento Civil. Estos son los pasos habituales."
+    ],
+    "items": [
+     {
+      "t": "Requerimiento de pago.",
+      "p": "Un burofax con lo adeudado. Si pasan 30 días sin pago antes de demandar, el inquilino ya no podrá enervar, es decir, frenar el desahucio pagando la deuda."
+     },
+     {
+      "t": "Intento de acuerdo.",
+      "p": "Desde abril de 2025 hay que acreditar un intento de solución negociada antes de demandar. El propio requerimiento, si ofrece negociar, puede servir."
+     },
+     {
+      "t": "Demanda.",
+      "p": "Debe indicar si el piso es la vivienda habitual del inquilino y si el propietario es gran tenedor, como exige la Ley de Vivienda de 2023."
+     },
+     {
+      "t": "Vulnerabilidad y lanzamiento.",
+      "p": "Si los servicios sociales aprecian vulnerabilidad, el proceso puede suspenderse unos meses. Después llegan la sentencia y la fecha de lanzamiento."
+     }
+    ],
+    "outro": [
+     "De forma orientativa, echar a un inquiokupa lleva entre seis meses y año y medio, según el juzgado y la situación del inquilino."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "El inquiokupa en un piso de varios copropietarios",
+    "type": "text",
+    "intro": [
+     "Cuando el piso es de varios hermanos o excónyuges, todos son arrendadores aunque el contrato lo firmara uno. Alquilar es un acto de administración que se decide por mayoría de cuotas, según el artículo 398 del Código Civil. Las rentas, por tanto, se reparten según el porcentaje de cada uno.",
+     "Para demandar no hace falta que firmen todos. La doctrina del Tribunal Supremo permite a cualquier copropietario ejercitar acciones en beneficio de la comunidad, siempre que los demás no se opongan. El problema es otro: el abogado, el procurador, el IBI y la comunidad siguen corriendo, y no todos quieren o pueden adelantarlos.",
+     "Pongamos un piso de 180.000 € alquilado por 800 € al mes. Con un inquiokupa que lleva un año sin pagar, los tres hermanos dejan de cobrar 9.600 € y, aun así, pagan IBI, comunidad y seguro. Cada mes de retraso agranda la pérdida y el conflicto entre ellos."
+    ]
+   },
+   {
+    "overline": "Vender tu parte",
+    "h2": "Vender tu cuota con un inquiokupa dentro",
+    "type": "list",
+    "intro": [
+     "Se puede vender una cuota de un piso alquilado, aunque el inquilino no pague. Esto es lo que cambia."
+    ],
+    "items": [
+     "<strong>El comprador entra como arrendador.</strong> Quien compra tu cuota ocupa tu posición en el contrato, con sus derechos y sus problemas.",
+     "<strong>El precio baja.</strong> Un piso con impago y desahucio pendiente vale menos, porque el comprador asume meses de juicio y de gastos sin rentas.",
+     "<strong>El inquilino puede tener derecho preferente.</strong> En ciertos casos puede ejercer tanteo o retracto al venderse una cuota, salvo que renunciara en el contrato. Ese derecho cede ante el retracto de los demás copropietarios.",
+     "<strong>Las rentas debidas se pactan.</strong> Podéis acordar si los atrasos anteriores a la venta los sigue reclamando el vendedor o pasan al comprador."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Inquilino moroso, okupa y precarista",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "Título y vía para recuperar el piso"
+     ],
+     [
+      "Inquiokupa.",
+      "Tiene un contrato de alquiler válido. Se recupera el piso con un desahucio por falta de pago."
+     ],
+     [
+      "Okupa.",
+      "No tiene ningún título. Cabe denuncia penal o un juicio civil para recuperar la posesión."
+     ],
+     [
+      "Precarista.",
+      "Usa el piso gratis con la tolerancia del dueño, como un familiar. Se le saca con un desahucio por precario."
+     ],
+     [
+      "Copropietario que lo usa solo.",
+      "Es dueño y no se le puede desahuciar. Cabe pedir compensación por uso exclusivo o la división de la cosa común."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Te compramos tu parte con el inquilino dentro",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos alquilados, con un inquiokupa o con desahucios en curso, en toda España. Tú cobras al contado y dejas atrás el juicio, los gastos y la discusión con los demás copropietarios. Pagamos entre el 40 % y el 70 % del valor proporcional, según la situación."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota ocupada",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué diferencia hay entre un inquiokupa y un okupa?",
+    "El inquiokupa tiene un contrato de alquiler válido y ha dejado de pagar; el okupa entró sin ningún título. Por eso al primero solo se le puede sacar con un desahucio civil por impago, mientras que la ocupación sin título puede denunciarse por la vía penal."
+   ],
+   [
+    "¿Cuánto tarda echar a un inquiokupa?",
+    "De forma orientativa, entre seis meses y año y medio desde el requerimiento de pago, según el juzgado. Puede alargarse si se aprecia vulnerabilidad o si el inquilino recurre. El intento de acuerdo previo, obligatorio desde 2025, añade unas semanas."
+   ],
+   [
+    "¿Puedo vender mi parte de un piso con un inquilino que no paga?",
+    "Sí. La venta de una cuota no necesita el permiso del inquilino ni de los demás copropietarios, aunque estos tienen derecho de retracto. El comprador se coloca en tu lugar como arrendador, y el precio será menor que el de un piso libre."
+   ],
+   [
+    "¿Un copropietario puede demandar solo al inquilino moroso?",
+    "Sí, en beneficio de todos y siempre que los demás no se opongan, según la doctrina del Tribunal Supremo. Lo recuperado se reparte por cuotas. Los gastos del proceso también deberían repartirse, aunque en la práctica suele adelantarlos quien demanda."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el inquiokupa",
+  "related": [
+   [
+    "Vender un proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Lanzamiento",
+    "/diccionario-del-proindiviso/lanzamiento/"
+   ],
+   [
+    "Alquilar un piso en proindiviso",
+    "/blog/alquilar-un-piso-en-proindiviso/"
+   ],
+   [
+    "Retracto arrendaticio",
+    "/diccionario-del-proindiviso/retracto-arrendaticio/"
+   ],
+   [
+    "Precario",
+    "/diccionario-del-proindiviso/precario/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque haya un inquiokupa",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Inquiokupa: qué es, cómo se desahucia y cómo vender tu parte",
+  "meta_desc": "Un inquiokupa es un inquilino que deja de pagar y no se va. Diferencia con el okupa, desahucio por impago y cómo vender tu parte del piso alquilado.",
+  "focus_kw": "inquiokupa",
+  "title_corto": "Inquiokupa",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, blue hour light at dusk: the facade of a residential apartment block in a Spanish city where every window is dark except one warmly lit window behind drawn curtains, a small balcony with dry potted plants, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Inquiokupa: ventana iluminada tras cortinas en un bloque de pisos al anochecer"
+ },
+ {
+  "slug": "modelo-600",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Modelo 600: qué es y quién lo presenta al comprar una cuota o extinguir el condominio",
+  "sub": "El modelo 600 es la autoliquidación del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados ante la comunidad autónoma donde está el inmueble. En la compra de una cuota lo presenta el comprador y, en una extinción de condominio, quien se queda el inmueble, con un plazo general de 30 días hábiles. Cuando te compramos tu parte, lo presentamos y pagamos nosotros.",
+  "checks": [
+   "Plazo de 30 días hábiles",
+   "Compra de cuota y extinción",
+   "Lo pagamos nosotros al comprar"
+  ],
+  "card_title": "¿Vendes tu parte y te preocupan los impuestos?",
+  "card_text": "El ITP y su modelo 600 son cosa del comprador. Te damos precio por tu cuota en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el modelo 600 y qué impuestos liquida",
+    "type": "text",
+    "intro": [
+     "El ITP y AJD es un impuesto estatal cedido a las comunidades autónomas y regulado por el Real Decreto Legislativo 1/1993. Tiene tres modalidades: transmisiones patrimoniales onerosas, operaciones societarias y actos jurídicos documentados. El modelo 600 sirve para declarar e ingresar las dos que afectan a la vivienda: el ITP de una compra entre particulares y el AJD de una escritura.",
+     "Cada comunidad gestiona su propio modelo 600, con su formulario y su web de tributos. País Vasco y Navarra, además, tienen haciendas forales con impresos propios. El nombre es el mismo en casi toda España, pero los tipos, las bonificaciones y la forma de presentarlo cambian."
+    ]
+   },
+   {
+    "overline": "Quién lo presenta",
+    "h2": "Quién presenta el modelo 600 en cada operación",
+    "type": "table",
+    "items": [
+     [
+      "Operación",
+      "Quién lo presenta y qué paga"
+     ],
+     [
+      "Compra de una cuota por un tercero.",
+      "El comprador. Paga ITP, entre el 6 % y el 11 % según comunidad, sobre el precio o el valor de referencia de la cuota, el mayor."
+     ],
+     [
+      "Extinción de condominio.",
+      "El copropietario que se queda el inmueble. Paga AJD, normalmente entre el 0,5 % y el 1,5 %, sobre el valor de la parte que adquiere."
+     ],
+     [
+      "Compra de vivienda nueva.",
+      "El comprador. Paga AJD por la escritura, además del IVA."
+     ],
+     [
+      "Préstamo hipotecario.",
+      "El banco, desde noviembre de 2018."
+     ],
+     [
+      "Venta de tu cuota.",
+      "Tú no presentas nada. Tus impuestos son el IRPF por la ganancia y, si la hay, la plusvalía municipal."
+     ]
+    ],
+    "outro": [
+     "Ojo con la extinción de condominio. Si el inmueble no es indivisible o la adjudicación no es proporcional, Hacienda puede tratar el exceso como una compra sujeta a ITP, así que consulta tu caso antes de firmar."
+    ]
+   },
+   {
+    "overline": "Plazo",
+    "h2": "Plazo del modelo 600: 30 días hábiles desde la firma",
+    "type": "text",
+    "intro": [
+     "El plazo general es de 30 días hábiles desde la firma de la escritura, según el reglamento del impuesto. No cuentan sábados, domingos ni festivos nacionales y autonómicos, así que en la práctica son unas seis semanas. Es la regla habitual en todas las comunidades, pero conviene confirmarla en la web de tributos de la tuya, porque cada una puede cambiar su normativa.",
+     "Fuera de plazo hay recargos: el 1 % por cada mes completo de retraso sin requerimiento previo y, a partir de doce meses, el 15 % más intereses de demora. Si es Hacienda quien lo detecta, puede haber sanción. Además, el Registro de la Propiedad no inscribe la escritura sin el justificante del modelo 600."
+    ]
+   },
+   {
+    "overline": "Variaciones",
+    "h2": "Qué cambia de una comunidad a otra",
+    "type": "list",
+    "intro": [
+     "Aunque el impuesto es el mismo, cada comunidad fija buena parte de sus reglas. Estas son las diferencias que más se notan."
+    ],
+    "items": [
+     "<strong>El tipo del ITP.</strong> Va del 6 % de Madrid al 10 % u 11 % de otras, como Cataluña, con tramos según el valor en algunas.",
+     "<strong>El tipo del AJD.</strong> Suele estar entre el 0,5 % y el 1,5 %. Algunas comunidades aplican tipos especiales a la extinción de condominio o a la vivienda habitual.",
+     "<strong>Las bonificaciones.</strong> Jóvenes, familias numerosas, personas con discapacidad o municipios despoblados tienen tipos rebajados en muchas comunidades.",
+     "<strong>La forma de presentarlo.</strong> Unas exigen la vía telemática y otras permiten ir en persona con cita previa. Muchas notarías envían la copia electrónica de la escritura para facilitarlo."
+    ],
+    "outro": [
+     "Tienes los tipos resumidos en nuestra sección de impuestos del proindiviso, y el cálculo para tu caso en la calculadora de impuestos al vender tu parte."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo: comprar un tercio de un piso de 180.000 €",
+    "type": "text",
+    "intro": [
+     "Un comprador adquiere un tercio de un piso de 180.000 € por 45.000 €. Si el valor de referencia del piso es 165.000 €, el de la cuota es 55.000 €, más que el precio pagado. Por tanto, el ITP se calcula sobre esos 55.000 €. En Madrid, al 6 %, serían 3.300 €; en una comunidad al 10 %, 5.500 €.",
+     "En una extinción de condominio del mismo piso entre tres hermanos, quien se queda la vivienda adquiere dos tercios. El AJD se aplica sobre el valor de esa parte, 120.000 €, y al 1,5 % serían 1.800 €. En ambos casos presenta el modelo 600 quien adquiere, en su comunidad."
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Cuando te compramos, el impuesto es cosa nuestra",
+    "type": "callout",
+    "intro": [
+     "Al vender tu cuota no tienes que presentar el modelo 600 ni pagar ITP: esa obligación es del comprador. Nosotros lo presentamos y te entregamos copia del justificante. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte, al contado en notaría."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién paga el modelo 600 cuando vendo mi parte de un piso?",
+    "El comprador. En la compraventa de una cuota, quien debe pagar el ITP es el que adquiere, así que tú no presentas el modelo 600. Tus impuestos como vendedor son el IRPF por la ganancia patrimonial y, si la hay, la plusvalía municipal."
+   ],
+   [
+    "¿Qué pasa si presento el modelo 600 fuera de plazo?",
+    "Si lo presentas antes de que Hacienda te requiera, pagas un recargo del 1 % por cada mes completo de retraso, que pasa al 15 % más intereses a partir del año. Si te requieren antes, puede haber sanción. Además, el Registro no inscribirá la escritura."
+   ],
+   [
+    "¿La extinción de condominio se declara con el modelo 600?",
+    "Sí. Tributa normalmente por actos jurídicos documentados, y el adjudicatario lo declara con el modelo 600 de su comunidad en 30 días hábiles. Si la adjudicación no es proporcional o el bien no es indivisible, el exceso puede tributar por ITP."
+   ],
+   [
+    "¿Dónde se presenta el modelo 600?",
+    "En la Hacienda de la comunidad autónoma donde está el inmueble, normalmente por internet en su web de tributos. En País Vasco y Navarra, en la hacienda foral que corresponda. Muchas gestorías y notarías lo tramitan por un precio cerrado."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el modelo 600",
+  "related": [
+   [
+    "ITP al comprar la parte de un piso",
+    "/blog/itp-al-comprar-la-parte-de-un-piso/"
+   ],
+   [
+    "Actos jurídicos documentados",
+    "/diccionario-del-proindiviso/ajd-actos-juridicos-documentados/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ],
+   [
+    "Recargo por presentación fuera de plazo",
+    "/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/"
+   ]
+  ],
+  "cta_title": "Vende tu parte: el modelo 600 lo presentamos nosotros",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Modelo 600: qué es, quién lo presenta y plazo de 30 días",
+  "meta_desc": "El modelo 600 liquida el ITP y el AJD. Quién lo presenta al comprar una cuota o extinguir un condominio, plazo de 30 días hábiles y cambios por comunidad.",
+  "focus_kw": "modelo 600",
+  "title_corto": "Modelo 600",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, crisp morning light: the modern glass and steel entrance of a regional public administration building in a Spanish city, closed automatic sliding doors, an empty paved plaza with plane trees and a long stone bench, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo 600: entrada acristalada de un edificio de la administración autonómica"
+ },
+ {
+  "slug": "procurador",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Procurador: qué hace, cuándo es obligatorio y cuánto cuesta en un juicio",
+  "sub": "El procurador de los tribunales es el profesional que representa a una parte ante el juzgado: presenta escritos, recibe notificaciones y mueve el procedimiento, mientras el abogado la defiende. Es obligatorio en la mayoría de los juicios civiles, también en la división de cosa común de un piso. Si quieres evitar abogado, procurador y años de pleito, puedes vender tu parte.",
+  "checks": [
+   "Artículo 23 de la LEC",
+   "Costes orientativos",
+   "Alternativas al juicio"
+  ],
+  "card_title": "¿Te hablan de demanda, abogado y procurador?",
+  "card_text": "Hay una salida sin juicio: te compramos tu cuota. Precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es un procurador de los tribunales",
+    "type": "text",
+    "intro": [
+     "El procurador es un profesional del derecho, colegiado, que actúa como representante técnico de su cliente ante los juzgados. El abogado escribe la defensa y habla en el juicio. En cambio, el procurador la presenta, recibe las resoluciones, controla los plazos y se encarga de trámites como los embargos o las subastas.",
+     "Su papel lo regulan la Ley de Enjuiciamiento Civil y la Ley Orgánica del Poder Judicial. Para actuar necesita un poder. Puede ser un poder general para pleitos firmado ante notario o un apoderamiento apud acta, que se hace de forma electrónica o en la oficina judicial."
+    ]
+   },
+   {
+    "overline": "Cuándo",
+    "h2": "Cuándo es obligatorio el procurador",
+    "type": "list",
+    "intro": [
+     "El artículo 23 de la Ley de Enjuiciamiento Civil exige procurador como regla general. Las excepciones más comunes son pocas."
+    ],
+    "items": [
+     "<strong>Juicios verbales de hasta 2.000 €.</strong> Puedes ir sin procurador ni abogado.",
+     "<strong>La petición inicial del proceso monitorio.</strong> Es útil para reclamar a otro copropietario gastos impagados.",
+     "<strong>Algunos expedientes de jurisdicción voluntaria.</strong> Por ejemplo, el nombramiento de un defensor judicial.",
+     "<strong>Las medidas urgentes previas al juicio.</strong> Se pueden pedir sin él cuando no pueden esperar."
+    ],
+    "outro": [
+     "Fuera de esos casos, el procurador es obligatorio. Una acción de división de cosa común sobre un piso supera de largo los 15.000 € y se tramita por juicio ordinario, con procurador y abogado. Lo mismo ocurre con un desahucio cuya cuantía supere los 2.000 €."
+    ]
+   },
+   {
+    "overline": "Coste",
+    "h2": "Cuánto cuesta un procurador",
+    "type": "text",
+    "intro": [
+     "Los derechos del procurador se fijan por arancel, regulado por el Real Decreto 1373/2003 y reformado en 2022. Dependen del tipo de procedimiento y de su cuantía, y el profesional puede pactar hasta un 12 % por encima o por debajo. Además, lo que cobra en un mismo asunto tiene un tope legal general de 75.000 €.",
+     "Como orientación, en una división de cosa común de un piso de 180.000 €, el procurador puede costar entre 500 y 1.500 € más IVA en primera instancia. Si hay ejecución, subasta o recurso, cada fase suma. A eso se añaden el abogado, que suele multiplicar varias veces esa cifra, y el posible perito.",
+     "Si pierdes y te condenan en costas, pagas también el procurador y el abogado de la otra parte, con ciertos límites. En la división de cosa común no siempre hay condena en costas, pero conviene contar con esa posibilidad."
+    ]
+   },
+   {
+    "overline": "Evitar el juicio",
+    "h2": "Cómo evitar el juicio y sus gastos",
+    "type": "cards",
+    "intro": [
+     "Desde abril de 2025, antes de presentar una demanda civil hay que intentar un medio adecuado de solución de controversias. Aprovecha ese paso para cerrar el conflicto sin juzgado."
+    ],
+    "items": [
+     {
+      "t": "Negociar una extinción de condominio.",
+      "p": "Uno se queda el inmueble y compensa a los demás. Se firma en notaría en semanas.",
+      "url": "/extincion-de-condominio/",
+      "cta": "Ver extinción →"
+     },
+     {
+      "t": "Mediación o conciliación notarial.",
+      "p": "Un tercero neutral ayuda a pactar la venta o el reparto. Es más barato y rápido que un pleito.",
+      "url": "/blog/conciliacion-notarial-para-dividir-un-proindiviso/",
+      "cta": "Ver conciliación →"
+     },
+     {
+      "t": "Vender tu cuota.",
+      "p": "No necesitas el acuerdo de nadie ni pisar un juzgado. El artículo 399 del Código Civil te permite vender tu parte.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte →"
+     }
+    ],
+    "outro": [
+     "Si el juicio es inevitable, pide presupuesto cerrado al abogado y al procurador por fases. Pregunta también cuánto pueden durar la ejecución y la subasta."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Quién es quién en un juicio de división",
+    "type": "table",
+    "items": [
+     [
+      "Profesional",
+      "Qué hace"
+     ],
+     [
+      "Procurador.",
+      "Representa a la parte ante el juzgado, presenta escritos y recibe notificaciones."
+     ],
+     [
+      "Abogado.",
+      "Dirige la defensa, redacta la demanda e interviene en el juicio."
+     ],
+     [
+      "Perito judicial.",
+      "Tasa el inmueble cuando las partes no se ponen de acuerdo en su valor."
+     ],
+     [
+      "Letrado de la Administración de Justicia.",
+      "Funcionario del juzgado que tramita el proceso y dirige la subasta."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Sal del proindiviso sin pisar un juzgado",
+    "type": "callout",
+    "intro": [
+     "Una división de cosa común puede costar miles de euros entre abogado y procurador, y tardar de uno a tres años, con una subasta final que suele dar un precio bajo. Nosotros compramos tu cuota sin juicio y pagamos entre el 40 % y el 70 % de su valor proporcional."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatorio el procurador en una división de cosa común?",
+    "Casi siempre sí. La acción de división de un piso o una casa supera los 15.000 € de cuantía, se tramita por juicio ordinario y exige procurador y abogado. Solo en bienes de menos de 2.000 € se podría prescindir de ellos."
+   ],
+   [
+    "¿Cuánto cobra un procurador por un juicio?",
+    "Depende de la cuantía y del procedimiento, porque se rige por arancel. De forma orientativa, en un pleito sobre un piso de valor medio, entre 500 y 1.500 € más IVA por instancia, más lo que sumen la ejecución y los recursos."
+   ],
+   [
+    "¿Quién paga el procurador si gano el juicio?",
+    "Si el juez condena en costas a la otra parte, esta debe reembolsarte los derechos de tu procurador y los honorarios de tu abogado, con límites. Si no hay condena en costas, cada parte paga los suyos y las comunes por mitad."
+   ],
+   [
+    "¿Puedo pedir justicia gratuita para no pagar procurador?",
+    "Sí, si tus ingresos están por debajo de los umbrales de la Ley de Asistencia Jurídica Gratuita. Te asignan abogado y procurador de oficio sin coste. Ten en cuenta que ser copropietario de un inmueble puede pesar en la valoración de tus recursos."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el procurador",
+  "related": [
+   [
+    "Abogado para un proindiviso: cuándo hace falta",
+    "/blog/abogado-proindiviso-cuando-hace-falta/"
+   ],
+   [
+    "Costas en la división de cosa común",
+    "/blog/costas-en-la-division-de-cosa-comun-quien-paga/"
+   ],
+   [
+    "Justicia gratuita en la división de cosa común",
+    "/blog/justicia-gratuita-division-de-cosa-comun/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Juicio verbal",
+    "/diccionario-del-proindiviso/juicio-verbal/"
+   ]
+  ],
+  "cta_title": "Evita el procurador: vende tu parte en semanas",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Procurador: qué hace, cuándo es obligatorio y cuánto cuesta",
+  "meta_desc": "El procurador te representa ante el juzgado. Cuándo es obligatorio en una división de cosa común, cuánto cuesta y cómo vender tu parte sin pleito.",
+  "focus_kw": "procurador",
+  "title_corto": "Procurador",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, even natural light from a skylight: rows of grey metal waiting seats in the empty hallway of a modern Spanish courthouse, frosted glass partitions and a single black court robe hanging on a wooden coat stand, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Procurador: toga negra colgada en el pasillo de espera de unos juzgados"
+ },
+ {
+  "slug": "retracto-arrendaticio",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Retracto arrendaticio: qué es y cuándo puede el inquilino quedarse tu parte",
+  "sub": "El retracto arrendaticio es el derecho del inquilino a quedarse con la vivienda que el dueño ha vendido a otro, pagando el mismo precio. Lo regula el artículo 25 de la Ley de Arrendamientos Urbanos junto con el tanteo, que funciona antes de la venta. En la venta de una cuota indivisa puede aplicarse, pero cede ante el retracto de los copropietarios, y si nos vendes tu parte preparamos las notificaciones.",
+  "checks": [
+   "Artículo 25 de la LAU",
+   "Plazos de 30 días naturales",
+   "Te guiamos en la notificación"
+  ],
+  "card_title": "¿Vendes tu parte de un piso alquilado?",
+  "card_text": "Te damos precio en 48 horas y preparamos las notificaciones al inquilino si hacen falta.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el retracto arrendaticio y cómo se relaciona con el tanteo",
+    "type": "text",
+    "intro": [
+     "El artículo 25 de la Ley de Arrendamientos Urbanos da al inquilino de una vivienda un derecho de adquisición preferente con dos caras. La primera es el tanteo, que le permite comprar antes que nadie. Para ello, el dueño debe comunicarle su intención de vender, el precio y las condiciones, y el inquilino tiene 30 días naturales para aceptar.",
+     "El retracto arrendaticio funciona después. Si no se le notificó, o la venta se hizo por un precio menor o en mejores condiciones que las comunicadas, el inquilino puede subrogarse en la compra. Tiene 30 días naturales desde que el comprador le entrega copia de la escritura. Por remisión de la propia ley, se aplica también a los locales alquilados."
+    ]
+   },
+   {
+    "overline": "Cuándo no hay",
+    "h2": "Cuándo no hay retracto arrendaticio",
+    "type": "list",
+    "intro": [
+     "El retracto arrendaticio tiene excepciones importantes. Estos son los casos más habituales en los que el inquilino no puede retraer."
+    ],
+    "items": [
+     "<strong>Renuncia en el contrato.</strong> La ley permite pactar que el inquilino renuncie. En ese caso, el dueño solo debe avisarle de la venta con 30 días de antelación.",
+     "<strong>Venta del edificio entero.</strong> No hay derecho si la vivienda se vende junto con el resto de viviendas y locales del mismo inmueble.",
+     "<strong>Transmisiones que no son compraventa.</strong> Herencias, donaciones y repartos de una comunidad entre sus miembros, como una extinción de condominio, no lo activan, según el criterio general de los tribunales.",
+     "<strong>Venta de una cuota a otro copropietario.</strong> El retracto de comuneros del condueño tiene preferencia sobre el del inquilino, que no puede desplazarlo."
+    ]
+   },
+   {
+    "overline": "Cuotas indivisas",
+    "h2": "Retracto arrendaticio en la venta de una cuota indivisa",
+    "type": "text",
+    "intro": [
+     "Es la situación que más dudas genera. La antigua Dirección General de los Registros y el Tribunal Supremo han admitido que el inquilino conserva el tanteo y el retracto cuando se vende solo una cuota. De lo contrario, bastaría con vender el piso por partes para esquivar la ley.",
+     "Ahora bien, ese derecho va detrás del retracto de comuneros. Si vendes tu mitad a un tercero, primero pueden quedársela tus copropietarios en nueve días, y solo si no lo hacen podría ejercerlo el inquilino. Si el comprador ya es copropietario, el inquilino no tiene nada que hacer.",
+     "En la práctica, pocos inquilinos quieren comprar una cuota minoritaria de su piso. Aun así, conviene notificarles para cerrar la puerta al retracto arrendaticio. Además, el Registro exige justificar la notificación para inscribir la venta de una vivienda arrendada."
+    ]
+   },
+   {
+    "overline": "Notificar",
+    "h2": "Cómo notificar al inquilino paso a paso",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Antes de vender.",
+      "p": "Envía un burofax con certificación de texto y acuse de recibo, o un requerimiento notarial, con el precio, la forma de pago y las condiciones esenciales."
+     },
+     {
+      "t": "Espera 30 días naturales.",
+      "p": "Si el inquilino no contesta o rechaza la oferta, puedes vender al comprador previsto en esas mismas condiciones."
+     },
+     {
+      "t": "Firma y declaración.",
+      "p": "En la escritura se acredita la notificación. Si el piso no está alquilado, el vendedor lo declara expresamente."
+     },
+     {
+      "t": "Notificación de la venta.",
+      "p": "El comprador entrega al inquilino copia de la escritura. Desde ese momento corren los 30 días del retracto arrendaticio, si procede."
+     }
+    ],
+    "outro": [
+     "En nuestra sección de modelos tienes una notificación de venta de cuota. Está pensada para los copropietarios, pero su estructura sirve de base."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Frente a otros derechos de retracto",
+    "type": "table",
+    "items": [
+     [
+      "Derecho",
+      "Quién lo tiene y plazo"
+     ],
+     [
+      "Retracto de comuneros.",
+      "Los copropietarios, sobre la cuota vendida a un extraño. Nueve días, según los artículos 1522 y 1524 del Código Civil."
+     ],
+     [
+      "Retracto de coherederos.",
+      "Los demás herederos, sobre la cuota hereditaria vendida antes de la partición. Un mes, según el artículo 1067."
+     ],
+     [
+      "Retracto de colindantes.",
+      "Los dueños de fincas rústicas vecinas, sobre fincas de hasta una hectárea. Nueve días, según el artículo 1523."
+     ],
+     [
+      "Retracto arrendaticio.",
+      "El inquilino, sobre la vivienda o el local alquilado. Treinta días naturales, según el artículo 25 de la LAU."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu parte del piso alquilado sin complicaciones",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas de pisos y locales alquilados en toda España. Revisamos el contrato, comprobamos si hay renuncia al retracto arrendaticio y preparamos las notificaciones al inquilino y a los copropietarios. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tiene el inquilino derecho de retracto si vendo solo mi parte del piso?",
+    "Puede tenerlo, según el criterio de la antigua Dirección General de los Registros y del Tribunal Supremo, salvo que renunciara en el contrato. Pero su derecho cede ante el de los demás copropietarios, que pueden quedarse tu cuota antes que él."
+   ],
+   [
+    "¿Cuánto tiempo tiene el inquilino para ejercer el retracto arrendaticio?",
+    "Treinta días naturales desde que el comprador le notifica de forma fehaciente las condiciones de la venta, entregándole copia de la escritura. Si antes se le ofreció el tanteo correctamente y la venta se hizo en esas condiciones, ya no hay retracto."
+   ],
+   [
+    "¿Qué pasa si vendo un piso alquilado sin avisar al inquilino?",
+    "El inquilino puede ejercer el retracto y quedarse la vivienda pagando el precio de la escritura. Además, el Registro puede negarse a inscribir la venta si no se justifica la notificación. Por eso conviene hacerla siempre de forma fehaciente."
+   ],
+   [
+    "¿Es válida la renuncia al derecho de tanteo y retracto en el contrato de alquiler?",
+    "Sí, la ley permite pactarla. En ese caso, el arrendador solo debe comunicar al inquilino su intención de vender con al menos 30 días de antelación a la firma. Conviene revisar la redacción exacta y la fecha del contrato."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el retracto arrendaticio",
+  "related": [
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Derecho de adquisición preferente",
+    "/diccionario-del-proindiviso/derecho-de-adquisicion-preferente/"
+   ],
+   [
+    "Modelo de notificación de venta de cuota",
+    "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/"
+   ],
+   [
+    "Heredar un piso con inquilino",
+    "/blog/heredar-un-piso-con-inquilino/"
+   ],
+   [
+    "Retracto de colindantes",
+    "/diccionario-del-proindiviso/retracto-de-colindantes/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque haya retracto arrendaticio",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Retracto arrendaticio: qué es, plazos y venta de una cuota",
+  "meta_desc": "El retracto arrendaticio permite al inquilino quedarse la vivienda vendida. Plazos del artículo 25 LAU, cuándo no aplica y qué pasa al vender tu cuota.",
+  "focus_kw": "retracto arrendaticio",
+  "title_corto": "Retracto arrendaticio",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft afternoon light: the lived-in living room of a rented flat in a Spanish city, a bicycle leaning against a white wall, a full bookshelf and a balcony door open to a narrow street with wrought iron railings, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Retracto arrendaticio: salón de un piso alquilado con bicicleta y balcón abierto"
+ },
+ {
+  "slug": "terceria-de-dominio",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Tercería de dominio: qué es y cómo proteger tu parte del embargo de otro",
+  "sub": "La tercería de dominio es el proceso con el que una persona ajena a una ejecución pide al juzgado que levante el embargo de un bien que es suyo y no del deudor. En un proindiviso, la usa el copropietario cuando el embargo por las deudas de otro alcanza también su cuota. Si prefieres no litigar, puedes vendernos tu parte, incluso con cargas.",
+  "checks": [
+   "Artículos 595 a 604 de la LEC",
+   "Plazos y requisitos",
+   "Compramos tu cuota con cargas"
+  ],
+  "card_title": "¿Han embargado el piso por las deudas de tu hermano?",
+  "card_text": "Tu cuota no responde de sus deudas. Te damos precio por ella en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es la tercería de dominio",
+    "type": "text",
+    "intro": [
+     "Cuando un juzgado embarga bienes para cobrar una deuda, a veces se equivoca de dueño. La Ley de Enjuiciamiento Civil da al verdadero propietario una herramienta para defenderse: la tercería de dominio, regulada en los artículos 595 a 604. El tercerista no discute la deuda; solo dice que el bien embargado, o parte de él, es suyo.",
+     "Si gana, el juez ordena alzar el embargo sobre su bien y cancelar la anotación en el Registro. Existe además una figura hermana, la tercería de mejor derecho, que no reclama la propiedad sino cobrar antes que el acreedor ejecutante."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Cuándo la usa un copropietario",
+    "type": "text",
+    "intro": [
+     "Un acreedor solo puede embargar lo que pertenece a su deudor. Si tu hermano debe dinero, el juzgado puede embargar su cuota del piso, pero no la tuya. Normalmente el Registro lo garantiza: si el piso consta a nombre de los dos, la anotación de embargo solo recae sobre la cuota del deudor.",
+     "El problema surge cuando el Registro no refleja la realidad. Por ejemplo, compraste tu mitad en documento privado y nunca la inscribiste, así que el deudor sigue figurando como único titular. Ahí el embargo puede recaer sobre todo el inmueble, y la tercería de dominio es la vía para liberar tu parte.",
+     "Pasa también en los matrimonios. Un acreedor embarga un piso como ganancial cuando en realidad era privativo del cónyuge que no debía nada."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Requisitos y plazos de la tercería de dominio",
+    "type": "list",
+    "intro": [
+     "La ley exige varias condiciones para admitir la demanda. Estas son las principales."
+    ],
+    "items": [
+     "<strong>Ser tercero.</strong> No puedes ser parte en la ejecución ni el deudor del que se trata.",
+     "<strong>Título anterior al embargo.</strong> Tu propiedad debe existir antes del embargo, por ejemplo por herencia, compra o adjudicación, aunque no esté inscrita.",
+     "<strong>Principio de prueba por escrito.</strong> La demanda debe acompañar un documento que respalde tu derecho; sin él no se admite.",
+     "<strong>Plazo.</strong> Se puede presentar desde que se embarga el bien hasta que se transmite al adjudicatario de la subasta. Después ya no se admite.",
+     "<strong>Abogado y procurador.</strong> Se tramita por los cauces del juicio ordinario, así que ambos son obligatorios."
+    ],
+    "outro": [
+     "Admitida la demanda, la ejecución se suspende respecto de ese bien, aunque el juez puede exigir una caución si el acreedor lo pide. De forma orientativa, el procedimiento dura de seis meses a más de un año."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo con números",
+    "type": "text",
+    "intro": [
+     "Ana compró en 2019 la mitad del piso de su hermano Luis, valorado en 180.000 €, por 90.000 € en documento privado, y nunca lo escrituró. En 2025, un acreedor de Luis embarga el piso entero, que en el Registro sigue a su nombre. Ana presenta una tercería de dominio con el contrato y los justificantes bancarios del pago.",
+     "La dificultad está en probar la fecha. Frente a terceros, un documento privado solo tiene fecha cierta en los casos del artículo 1227 del Código Civil. Por eso ayudan las transferencias, los recibos del IBI a su nombre o cualquier prueba de que ya era dueña.",
+     "Si el juez lo da por acreditado, alza el embargo sobre la mitad de Ana, y la deuda de Luis solo persigue su cuota. Entre abogado, procurador y meses de pleito, la tercería puede costar varios miles de euros; si hay condena en costas, Ana recupera parte."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Tercería de dominio frente a figuras parecidas",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Embargo de la cuota.",
+      "p": "Es la medida contra la parte del deudor. Afecta solo a su porcentaje y puede acabar en subasta de esa cuota.",
+      "url": "/blog/embargo-de-una-cuota-de-proindiviso/",
+      "cta": "Ver embargo de la cuota →"
+     },
+     {
+      "t": "Anotación preventiva de embargo.",
+      "p": "Es la constancia del embargo en el Registro. Si ganas la tercería de dominio, se cancela sobre tu parte.",
+      "url": "/diccionario-del-proindiviso/anotacion-preventiva-de-embargo/",
+      "cta": "Ver anotación →"
+     },
+     {
+      "t": "Tercería de mejor derecho.",
+      "p": "No reclama la propiedad del bien, sino cobrar antes que el acreedor que embargó."
+     },
+     {
+      "t": "Expediente de dominio.",
+      "p": "Sirve para inscribir una finca o reanudar el tracto. Ayuda a evitar que el Registro siga a nombre de otro.",
+      "url": "/diccionario-del-proindiviso/expediente-de-dominio/",
+      "cta": "Ver expediente →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vende tu cuota aunque el piso tenga embargos",
+    "type": "callout",
+    "intro": [
+     "Si no quieres pleitear con una tercería de dominio, compramos cuotas de inmuebles con embargos, anotaciones y deudas de otros copropietarios. Tu parte no responde de deudas ajenas, y lo tenemos en cuenta al valorarla. Pagamos entre el 40 % y el 70 % del valor proporcional."
+    ],
+    "items": {
+     "t": "Pide precio por tu cuota",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Pueden embargar mi parte del piso por las deudas de mi hermano?",
+    "No. El acreedor solo puede embargar la cuota de su deudor. Si el embargo alcanza tu parte por un error o porque el Registro no está al día, puedes pedir que se levante con una tercería de dominio, aportando tu título anterior al embargo."
+   ],
+   [
+    "¿Cuándo se puede presentar una tercería de dominio?",
+    "Desde que se embarga el bien hasta que se transmite al adjudicatario de la subasta. Después de esa transmisión ya no se admite. Conviene actuar en cuanto conozcas el embargo, porque la demanda suspende la ejecución sobre ese bien."
+   ],
+   [
+    "¿Qué pasa si el embargo es de Hacienda o de la Seguridad Social?",
+    "Primero hay que presentar una reclamación de tercería ante el propio organismo, en vía administrativa. Solo si la rechaza o no responde se puede acudir a los tribunales. Los requisitos de fondo son parecidos: título anterior al embargo y prueba documental."
+   ],
+   [
+    "¿Hace falta abogado y procurador para una tercería de dominio?",
+    "Sí. Se tramita como un juicio ordinario, en el que ambos son obligatorios. Si ganas y hay condena en costas, el acreedor ejecutante te reembolsa parte de esos gastos, dentro de los límites legales."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la tercería de dominio",
+  "related": [
+   [
+    "Embargo de una cuota de proindiviso",
+    "/blog/embargo-de-una-cuota-de-proindiviso/"
+   ],
+   [
+    "Vender una casa con deudas o embargo",
+    "/blog/vender-casa-con-deudas-o-embargo-mi-parte/"
+   ],
+   [
+    "Procurador",
+    "/diccionario-del-proindiviso/procurador/"
+   ],
+   [
+    "Casa heredada no inscrita en el Registro",
+    "/blog/casa-heredada-no-inscrita-en-el-registro-vender-mi-parte/"
+   ]
+  ],
+  "cta_title": "Protege tu dinero: vende tu cuota sin litigar",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Tercería de dominio: qué es y cómo proteger tu parte",
+  "meta_desc": "La tercería de dominio levanta el embargo de un bien que no es del deudor. Cuándo la usa un copropietario, requisitos, plazos y cómo vender tu cuota.",
+  "focus_kw": "tercería de dominio",
+  "title_corto": "Tercería de dominio",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm afternoon light: a semi-detached two-storey house in a Spanish suburb seen from the street, the left half freshly painted white with tidy shutters and plants, the right half weathered with peeling paint and a closed rusty gate, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Tercería de dominio: casa pareada con una mitad cuidada y otra deteriorada"
+ },
+ {
+  "slug": "usufructo-viudal",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Usufructo viudal: qué es, cuánto vale y cómo vender tu parte con el viudo",
+  "sub": "El usufructo viudal es el derecho del cónyuge viudo a usar y disfrutar, sin ser dueño, una parte de la herencia de su pareja fallecida. Su alcance depende de con quién concurra: un tercio con hijos, la mitad con ascendientes y dos tercios si no hay unos ni otros. Puedes vender tu parte aunque tu madre o tu padre sea usufructuario, y te la compramos.",
+  "checks": [
+   "Artículos 834 a 840 del Código Civil",
+   "Cálculo con la regla del 89",
+   "Compramos nuda propiedad y cuotas"
+  ],
+  "card_title": "¿Tu madre tiene el usufructo de la casa?",
+  "card_text": "Puedes vender tu cuota igualmente. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición",
+    "h2": "Qué es el usufructo viudal según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El viudo es heredero forzoso, pero su legítima no es en propiedad sino en usufructo. Los artículos 834 a 840 del Código Civil fijan su alcance según con quién concurra a la herencia. Se aplica haya testamento o no, y el testador no puede quitárselo salvo desheredación justa.",
+     "Con hijos o descendientes, el viudo tiene el usufructo del tercio de mejora, según el artículo 834. Con ascendientes, de la mitad de la herencia (artículo 837). Si no hay descendientes ni ascendientes, de dos tercios (artículo 838). En cambio, el cónyuge separado legalmente o de hecho no tiene este derecho.",
+     "Muchos testamentos van más allá y dejan al viudo el usufructo universal de toda la herencia, a veces con cautela socini. Además, en Cataluña, Aragón o Navarra el derecho foral regula figuras propias, como la viudedad aragonesa o el usufructo de fidelidad navarro."
+    ]
+   },
+   {
+    "overline": "Valor",
+    "h2": "Cómo se calcula el valor del usufructo viudal",
+    "type": "text",
+    "intro": [
+     "Para el impuesto de sucesiones y, a menudo, para repartir la herencia se usa la regla del artículo 26 de la Ley 29/1987. El usufructo vitalicio vale el 70 % del bien menos un punto por cada año que el usufructuario tenga por encima de 19, con un mínimo del 10 %. Se resume como 89 menos la edad.",
+     "Así, a los 65 años el usufructo viudal vale el 24 %; a los 75, el 14 %; y desde los 79, el mínimo del 10 %. La nuda propiedad es la diferencia hasta el 100 %. Es una valoración fiscal: entre particulares se puede pactar otra, por ejemplo con tablas actuariales."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Un ejemplo con números: piso ganancial, viuda y dos hijos",
+    "type": "text",
+    "intro": [
+     "Fallece el padre. El piso, de 180.000 €, era ganancial, así que la madre ya es dueña de la mitad por la liquidación de gananciales. La otra mitad, 90.000 €, es la herencia. La madre, de 72 años, tiene el usufructo viudal del tercio de mejora, es decir, de 30.000 € de valor, que equivale a un sexto del piso.",
+     "Aplicando la regla, ese usufructo vale el 17 %, unos 5.100 €. Cada hijo recibe en pleno dominio un sexto del piso, 30.000 €. También recibe la nuda propiedad de un doceavo, 15.000 € de valor nominal, gravada con el usufructo de su madre. Cuando ella fallezca, el usufructo se extinguirá y los hijos consolidarán el pleno dominio."
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Cómo vender tu cuota con el usufructo viudal",
+    "type": "cards",
+    "intro": [
+     "Cuando hay usufructo viudal, existen varias formas de salir, y cada una necesita firmas distintas."
+    ],
+    "items": [
+     {
+      "t": "Vender tu cuota en pleno dominio.",
+      "p": "Tu sexto libre de usufructo es tuyo al cien por cien. Puedes venderlo sin permiso del viudo ni de tus hermanos, que tendrán derecho de retracto."
+     },
+     {
+      "t": "Vender tu nuda propiedad.",
+      "p": "También puedes venderla sola, según el artículo 489 del Código Civil. El comprador espera a que se extinga el usufructo para tener el pleno dominio."
+     },
+     {
+      "t": "Vender el piso entero.",
+      "p": "Hacen falta todas las firmas: la madre por su mitad y su usufructo, y los hijos por sus cuotas. El precio se reparte según el valor de cada derecho."
+     },
+     {
+      "t": "Conmutar el usufructo.",
+      "p": "Los herederos pueden pagar al viudo con un capital, una renta vitalicia o bienes concretos, de mutuo acuerdo o por decisión judicial, según el artículo 839."
+     }
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Términos vecinos que conviene conocer",
+    "type": "table",
+    "items": [
+     [
+      "Término",
+      "Diferencia con el usufructo viudal"
+     ],
+     [
+      "Usufructo.",
+      "Es el género. El viudal es el que nace de la ley a favor del cónyuge viudo."
+     ],
+     [
+      "Nuda propiedad.",
+      "Es la propiedad sin el uso. La reciben los hijos sobre la parte gravada."
+     ],
+     [
+      "Conmutación del usufructo.",
+      "Sustituye el usufructo por dinero, renta o bienes para dejar libre el inmueble."
+     ],
+     [
+      "Derecho de habitación.",
+      "Solo permite vivir en la casa, no alquilarla ni cobrar sus rentas."
+     ]
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Te compramos tu cuota aunque haya usufructo",
+    "type": "callout",
+    "intro": [
+     "Compramos cuotas en pleno dominio y nudas propiedades de viviendas con usufructo viudal en toda España, sin que el viudo tenga que mudarse ni firmar. Pagamos entre el 40 % y el 70 % del valor proporcional de lo que vendes."
+    ],
+    "items": {
+     "t": "Pide precio por tu parte",
+     "p": "Oferta por escrito en 48 horas. Firma en dos a cuatro semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué parte de la herencia le corresponde al viudo?",
+    "Por ley, el usufructo de un tercio si hay hijos, de la mitad si concurre con los padres del fallecido y de dos tercios si no hay descendientes ni ascendientes. Además, conserva su mitad de los gananciales, que no es herencia sino suya."
+   ],
+   [
+    "¿Puedo vender mi parte si mi madre tiene el usufructo?",
+    "Sí. Puedes vender tu cuota en pleno dominio y también tu nuda propiedad, sin permiso de tu madre. Ella conserva el usufructo y sigue viviendo en la casa. Para vender el piso entero, en cambio, hace falta su firma."
+   ],
+   [
+    "¿Cuánto vale el usufructo de una viuda de 80 años?",
+    "Según la regla fiscal del artículo 26 de la Ley 29/1987, el 10 % del valor del bien, que es el mínimo y se aplica desde los 79 años. Entre particulares se puede pactar otra valoración, por ejemplo al conmutar el usufructo."
+   ],
+   [
+    "¿Qué pasa con el usufructo viudal si el viudo vuelve a casarse?",
+    "En el Código Civil común no se pierde por contraer nuevo matrimonio. Algunos derechos forales sí lo prevén, como la viudedad aragonesa o el usufructo de fidelidad navarro. Además, el testador puede condicionar lo que deje por encima de la legítima."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el usufructo viudal",
+  "related": [
+   [
+    "Vender la nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ],
+   [
+    "Cuánto vale la nuda propiedad",
+    "/blog/cuanto-vale-la-nuda-propiedad-calculo/"
+   ],
+   [
+    "Conmutación del usufructo",
+    "/diccionario-del-proindiviso/conmutacion-del-usufructo/"
+   ],
+   [
+    "Vender la casa de tu madre con usufructo",
+    "/blog/puedo-vender-la-casa-de-mi-madre-con-usufructo/"
+   ],
+   [
+    "Consolidación del dominio",
+    "/diccionario-del-proindiviso/consolidacion-del-dominio/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota aunque exista usufructo viudal",
+  "cta_text": "Compramos con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Usufructo viudal: qué es, cuánto vale y cómo vender tu parte",
+  "meta_desc": "El usufructo viudal da al viudo el uso de parte de la herencia. Cuánto le corresponde, cómo se calcula su valor y cómo vender tu cuota o tu nuda propiedad.",
+  "focus_kw": "usufructo viudal",
+  "title_corto": "Usufructo viudal",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, gentle morning light through a lace curtain: the kitchen of an old village house in Spain with a cast iron wood-burning stove, a single plate and a single cup drying on a wooden rack beside a stone sink, whitewashed walls, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Usufructo viudal: cocina de una casa de pueblo con una sola taza"
+ }
+]

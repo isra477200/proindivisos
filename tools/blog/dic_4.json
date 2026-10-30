@@ -1,0 +1,2606 @@
+[
+ {
+  "slug": "mediacion-civil",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Mediación civil: qué es y cómo afecta a tu parte del proindiviso",
+  "sub": "La mediación civil es un procedimiento voluntario en el que un mediador neutral ayuda a las partes a alcanzar un acuerdo sin ir a juicio. En un proindiviso sirve para pactar quién se queda la casa, a qué precio o cómo se vende. Si el acuerdo no llega, nosotros compramos tu cuota sin que nadie más tenga que firmar.",
+  "checks": [
+   "Ley 5/2012 explicada",
+   "Costes y plazos reales",
+   "Alternativa si no hay acuerdo"
+  ],
+  "card_title": "¿La mediación no avanza?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Sin esperar a que los demás se sienten a negociar.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es la mediación civil y qué ley la regula",
+    "type": "text",
+    "intro": [
+     "La mediación civil está regulada en la Ley 5/2012, de mediación en asuntos civiles y mercantiles. Es un procedimiento voluntario: nadie puede obligarte a mediar ni a seguir en él. Un mediador imparcial, sin poder de decisión, ayuda a las partes a construir su propio acuerdo. Además, todo lo que se dice en las sesiones es confidencial y no puede usarse después en un juicio.",
+     "En la mediación civil el mediador no decide, a diferencia del juez o del árbitro. Si las partes firman un acuerdo, pueden elevarlo a escritura pública ante notario. Desde ese momento tiene fuerza ejecutiva, es decir, se puede exigir su cumplimiento como si fuera una sentencia. Por eso es una vía útil cuando los copropietarios están dispuestos a hablar, aunque no se pongan de acuerdo solos."
+    ]
+   },
+   {
+    "overline": "Cómo funciona",
+    "h2": "Cómo funciona una mediación civil entre copropietarios",
+    "type": "steps",
+    "intro": [
+     "Imagina un piso de 180.000 euros heredado por tres hermanos. Uno quiere vender, otro quiere quedárselo y el tercero no contesta. Así se desarrolla una mediación civil en ese caso."
+    ],
+    "items": [
+     {
+      "t": "Solicitud y sesión informativa",
+      "p": "Uno de los hermanos pide la mediación a un mediador o a una institución de mediación. El mediador cita a todos a una sesión informativa, gratuita o de bajo coste. Allí explica las reglas y pregunta si quieren seguir."
+     },
+     {
+      "t": "Sesión constitutiva",
+      "p": "Si aceptan, firman el acta de inicio. En ella constan el objeto, el coste, la duración prevista y la declaración de voluntariedad. Desde aquí corre el plazo."
+     },
+     {
+      "t": "Sesiones de negociación",
+      "p": "Suelen ser entre dos y cinco. El mediador ordena las posiciones: quién quiere la casa, cuánto puede pagar, qué valoración aceptan. En el ejemplo, el hermano que se queda ofrece 54.000 euros por cada tercio y los otros aceptan."
+     },
+     {
+      "t": "Acuerdo y escritura",
+      "p": "El acuerdo se redacta por escrito y se firma. Después se eleva a escritura pública de extinción de condominio. Si alguno incumple, el otro puede ejecutarlo sin un pleito declarativo."
+     }
+    ]
+   },
+   {
+    "overline": "Coste y plazos",
+    "h2": "Cuánto cuesta y cuánto tarda",
+    "type": "list",
+    "intro": [
+     "Los honorarios del mediador se pactan libremente. Estas cifras son orientativas y varían según la provincia y la complejidad."
+    ],
+    "items": [
+     "<strong>Sesión informativa.</strong> Gratuita en muchos colegios profesionales y servicios públicos de mediación.",
+     "<strong>Honorarios.</strong> Entre 60 y 150 euros por hora, repartidos entre las partes por cuotas o a partes iguales.",
+     "<strong>Coste total habitual.</strong> Entre 400 y 1.500 euros para un conflicto de copropiedad con dos o tres sesiones.",
+     "<strong>Duración.</strong> De uno a tres meses. Mucho menos que un procedimiento de división de cosa común, que tarda de uno a tres años.",
+     "<strong>Escritura posterior.</strong> La elevación a público del acuerdo paga notaría y, si hay adjudicación, el impuesto de actos jurídicos documentados según comunidad autónoma."
+    ],
+    "outro": [
+     "Comparado con el coste de un juicio, la mediación civil sale barata. Sin embargo, solo funciona si todos acuden y negocian de verdad."
+    ]
+   },
+   {
+    "overline": "Cuándo sirve",
+    "h2": "Cuándo sirve la mediación civil y cuándo no",
+    "type": "cards",
+    "intro": [
+     "No todos los conflictos de proindiviso se resuelven con un mediador. Esta es nuestra experiencia tras años comprando cuotas."
+    ],
+    "items": [
+     {
+      "t": "Sirve: hay relación y voluntad",
+      "p": "Hermanos que se hablan pero discrepan en el precio o en quién se queda la vivienda. La mediación civil ordena la conversación y suele acabar en una extinción de condominio.",
+      "url": "/extincion-de-condominio/entre-hermanos/",
+      "cta": "Extinción entre hermanos →"
+     },
+     {
+      "t": "Sirve: falta un dato objetivo",
+      "p": "Nadie sabe cuánto vale la casa o cuánto costaría la hipoteca. El mediador propone una tasación conjunta y, con cifras encima de la mesa, el acuerdo se acerca."
+     },
+     {
+      "t": "No sirve: uno no acude",
+      "p": "La mediación es voluntaria. Si un copropietario no responde a la convocatoria, el procedimiento termina ahí. En ese caso quedan la vía judicial o la venta de tu cuota."
+     },
+     {
+      "t": "No sirve: no hay dinero",
+      "p": "Si ninguno puede pagar al que sale, hablar no crea liquidez. Por eso muchas mediaciones terminan en una venta a terceros, y ahí entramos nosotros.",
+      "url": "/cuanto-pagan-por-un-proindiviso/",
+      "cta": "Ver qué pagamos →"
+     }
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Mediación frente a otras salidas del proindiviso",
+    "type": "table",
+    "items": [
+     [
+      "Salida",
+      "Qué necesita, cuánto tarda y qué cuesta"
+     ],
+     [
+      "Mediación civil",
+      "Voluntad de todos y un mediador. De uno a tres meses. Entre 400 y 1.500 euros orientativos. Termina en un acuerdo que luego hay que escriturar."
+     ],
+     [
+      "Extinción de condominio",
+      "Acuerdo de todos y dinero del que se queda. De dos semanas a tres meses. Notaría, registro e impuesto de actos jurídicos documentados."
+     ],
+     [
+      "División de cosa común",
+      "Una demanda, aunque los demás se opongan. De uno a tres años. Abogado, procurador y una subasta con precio bajo."
+     ],
+     [
+      "Venta de tu cuota",
+      "Solo tu firma. Oferta en 48 horas y escritura en dos a cuatro semanas. Gastos de notaría a cargo del comprador. Cobras entre el 40 % y el 70 % del valor de tu parte."
+     ]
+    ],
+    "outro": [
+     "Si prefieres intentar el acuerdo, prueba primero la mediación civil. Si falla, no necesitas esperar más: la venta de tu cuota no depende de nadie."
+    ]
+   },
+   {
+    "overline": "Sin acuerdo",
+    "type": "callout",
+    "items": {
+     "t": "¿La mediación civil se ha roto?",
+     "p": "Dinos la dirección del inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin exclusividad y sin que los demás tengan que firmar.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatoria la mediación civil antes de demandar por un proindiviso?",
+    "La mediación en sí no, pero desde 2025 la ley de eficiencia procesal exige acreditar un intento de solución extrajudicial antes de demandar en la mayoría de asuntos civiles, incluida la división de cosa común. La mediación civil es una forma de cumplirlo, aunque también vale una negociación documentada por burofax. Consulta tu caso, porque la práctica de cada juzgado varía."
+   ],
+   [
+    "¿Cuánto cuesta una mediación civil entre hermanos?",
+    "Orientativamente entre 400 y 1.500 euros en total para un conflicto sobre una vivienda, según el número de sesiones y la provincia. La sesión informativa suele ser gratuita. Los honorarios se reparten entre las partes, normalmente a partes iguales o por cuotas."
+   ],
+   [
+    "¿Qué pasa si mi hermano no acude a la sesión informativa?",
+    "La mediación no puede empezar, porque es voluntaria. Tendrás constancia de que lo intentaste, lo que sirve para acreditar el intento de acuerdo antes de demandar. A partir de ahí, puedes pedir la división judicial o vender tu cuota a un tercero sin su permiso."
+   ],
+   [
+    "¿El acuerdo de mediación obliga a cumplirlo?",
+    "Sí, es un contrato entre las partes. Si además lo elevan a escritura pública ante notario, tiene fuerza ejecutiva y se puede exigir directamente ante el juzgado sin un juicio previo. Por eso conviene escriturarlo cuando afecta a una vivienda."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la mediación civil",
+  "related": [
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Extinción de condominio entre hermanos",
+    "/extincion-de-condominio/entre-hermanos/"
+   ],
+   [
+    "Uno quiere vender y el otro no",
+    "/blog/uno-quiere-vender-y-el-otro-no/"
+   ],
+   [
+    "Juicio verbal",
+    "/diccionario-del-proindiviso/juicio-verbal/"
+   ],
+   [
+    "Cuándo hace falta abogado",
+    "/blog/abogado-proindiviso-cuando-hace-falta/"
+   ]
+  ],
+  "cta_title": "Si no hay acuerdo, hay salida",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Mediación civil en un proindiviso: qué es, coste y plazos",
+  "meta_desc": "La mediación civil permite a los copropietarios pactar la venta o el reparto de la casa sin juicio. Coste, plazos y qué hacer si falla: compramos tu parte.",
+  "focus_kw": "mediación civil",
+  "title_corto": "Mediación civil",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural daylight: an empty round meeting table with two wooden chairs facing each other in a quiet Spanish office, a green plant by a tall window, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Mediación civil: mesa redonda vacía con dos sillas enfrentadas en un despacho luminoso"
+ },
+ {
+  "slug": "modelo-650",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Modelo 650: qué es y cómo afecta a la venta de tu parte heredada",
+  "sub": "El modelo 650 es el impreso de autoliquidación del impuesto de sucesiones que presenta cada heredero ante la comunidad autónoma. Sin él liquidado no podrás inscribir ni vender la parte heredada. Nosotros compramos cuotas de herencia y te decimos qué falta para poder firmar.",
+  "checks": [
+   "Plazos y recargos claros",
+   "Documentos que piden",
+   "Compramos partes heredadas"
+  ],
+  "card_title": "¿Heredaste parte de un piso?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, aunque la herencia todavía esté a medio tramitar.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es el modelo 650 y quién lo presenta",
+    "type": "text",
+    "intro": [
+     "El modelo 650 es la autoliquidación del impuesto sobre sucesiones y donaciones en su modalidad de sucesiones, regulado por la Ley 29/1987. Lo presenta cada heredero o legatario por lo que recibe, aunque la herencia todavía no esté repartida. Es decir, el impuesto se paga antes de adjudicar los bienes, no después.",
+     "La competencia es de la comunidad autónoma donde el fallecido tuvo su residencia habitual durante más días en los cinco años anteriores. Por eso el modelo 650 cambia de formato y de sede electrónica según la comunidad, aunque la estructura es parecida. Cuando el fallecido o el heredero no residían en España, se presenta ante la Agencia Tributaria estatal, en la Oficina Nacional de Gestión Tributaria."
+    ]
+   },
+   {
+    "overline": "Plazos",
+    "h2": "Plazo para presentar el modelo 650",
+    "type": "list",
+    "intro": [
+     "El reloj empieza el día del fallecimiento. Estos son los plazos generales; algunas comunidades matizan los recargos."
+    ],
+    "items": [
+     "<strong>Seis meses.</strong> Plazo ordinario para presentar el modelo 650 y pagar, contado desde la fecha de defunción.",
+     "<strong>Prórroga de otros seis meses.</strong> Se pide dentro de los cinco primeros meses. Se concede casi siempre, pero devenga intereses de demora.",
+     "<strong>Fuera de plazo sin requerimiento.</strong> Recargo del 1 % por cada mes completo de retraso, hasta el 15 % pasados doce meses, más intereses. Orientativo según la Ley General Tributaria.",
+     "<strong>Prescripción.</strong> Cuatro años contados desde el fin del plazo de presentación. Hasta entonces la Administración puede comprobar y liquidar."
+    ],
+    "outro": [
+     "En la práctica, muchos herederos descubren el plazo cuando ya ha pasado. Aun así, presentar el modelo 650 tarde sale mucho más barato que esperar a una comprobación."
+    ]
+   },
+   {
+    "overline": "Documentos",
+    "h2": "Documentación que hay que adjuntar",
+    "type": "cards",
+    "intro": [
+     "Cada sede electrónica tiene su lista, pero el núcleo es el mismo en toda España."
+    ],
+    "items": [
+     {
+      "t": "Del fallecido",
+      "p": "Certificado de defunción, certificado de últimas voluntades y copia autorizada del testamento o del acta de declaración de herederos. Sin estos tres papeles no hay expediente.",
+      "url": "/diccionario-del-proindiviso/certificado-de-ultimas-voluntades/",
+      "cta": "Últimas voluntades →"
+     },
+     {
+      "t": "De los herederos",
+      "p": "DNI o NIE de cada uno, grado de parentesco y, si procede, certificado de discapacidad para aplicar reducciones."
+     },
+     {
+      "t": "De los bienes",
+      "p": "Escrituras o nota simple de los inmuebles, recibo del IBI, valor de referencia catastral, certificados bancarios de saldos a fecha de fallecimiento y relación de deudas y gastos de entierro."
+     },
+     {
+      "t": "Del reparto",
+      "p": "La escritura de adjudicación de herencia si ya se ha firmado. Si no, basta una relación privada de bienes firmada por los herederos, el llamado inventario."
+     }
+    ]
+   },
+   {
+    "overline": "Dónde",
+    "h2": "Dónde se presenta según la comunidad autónoma",
+    "type": "table",
+    "intro": [
+     "La regla es sencilla: manda la residencia del fallecido, no la del heredero ni la del inmueble."
+    ],
+    "items": [
+     [
+      "Situación del fallecido",
+      "Dónde va el modelo 650"
+     ],
+     [
+      "Residía en una comunidad de régimen común",
+      "En la agencia tributaria de esa comunidad, casi siempre por sede electrónica con certificado digital o a través de un gestor."
+     ],
+     [
+      "Residía en País Vasco o Navarra",
+      "En la hacienda foral correspondiente, con sus propios impresos y plazos. La normativa foral tiene reducciones distintas."
+     ],
+     [
+      "Residía fuera de España",
+      "En la Agencia Tributaria estatal, Oficina Nacional de Gestión Tributaria, aplicando la normativa de la comunidad donde esté el mayor valor de los bienes."
+     ],
+     [
+      "Heredero no residente, fallecido residente",
+      "También en la Agencia Tributaria estatal, aunque puede aplicar la normativa autonómica del lugar de residencia del fallecido."
+     ]
+    ],
+    "outro": [
+     "Ejemplo: un padre que vivió sus últimos años en Alicante deja un piso en Madrid a tres hijos. Los tres presentan el modelo 650 ante la Generalitat Valenciana, aunque el piso esté en Madrid."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores frecuentes al rellenar el modelo 650",
+    "type": "cards",
+    "intro": [
+     "Tomemos un piso de 180.000 euros heredado por tres hermanos. A cada uno le corresponden 60.000 euros de base, más el 3 % de ajuar doméstico. Estos fallos se repiten."
+    ],
+    "items": [
+     {
+      "t": "Valorar por debajo del valor de referencia",
+      "p": "Desde 2022 el valor mínimo de un inmueble es el valor de referencia de Catastro. Declarar 150.000 euros cuando la referencia dice 180.000 provoca una liquidación complementaria con intereses.",
+      "url": "/blog/valor-de-referencia-catastral-venta-de-tu-parte/",
+      "cta": "Valor de referencia →"
+     },
+     {
+      "t": "Olvidar el ajuar doméstico",
+      "p": "Se presume un 3 % del caudal relicto. En el ejemplo son 5.400 euros, 1.800 por hermano. Sin embargo, se puede probar que es menor o excluir bienes que no lo generan."
+     },
+     {
+      "t": "Presentar un solo modelo 650 para todos",
+      "p": "Cada heredero autoliquida por separado, aunque se haga en el mismo expediente. Un único impreso a nombre de uno solo no libera a los demás."
+     },
+     {
+      "t": "Confundir la comunidad competente",
+      "p": "Presentar en la comunidad del piso en lugar de la del fallecido obliga a repetir el trámite y puede dejarte fuera de plazo."
+     }
+    ]
+   },
+   {
+    "overline": "Tu parte heredada",
+    "type": "callout",
+    "items": {
+     "t": "¿Quieres vender tu parte heredada?",
+     "p": "Compramos cuotas de herencia en toda España. Si el modelo 650 todavía no está presentado, te decimos qué falta y ajustamos la fecha de firma a tu caso.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hay que presentar el modelo 650 aunque no salga a pagar?",
+    "Sí. La presentación es obligatoria aunque la cuota sea cero por las reducciones o bonificaciones de tu comunidad. Además, el justificante de presentación es el documento que te pedirán el Registro de la Propiedad, el banco y el notario para disponer de los bienes."
+   ],
+   [
+    "¿Puedo vender mi parte heredada sin haber presentado el modelo 650?",
+    "En la práctica, no. El notario puede autorizar la escritura, pero el Registro no inscribirá la venta sin la liquidación del impuesto de sucesiones. Por eso, cuando compramos una cuota heredada, ajustamos la firma a que el impuesto esté presentado, aunque sea con cuota cero."
+   ],
+   [
+    "¿Qué pasa si presento el modelo 650 fuera de plazo?",
+    "Pagarás un recargo que crece con el retraso, del 1 % por mes hasta el 15 % a partir del año, más intereses de demora en ese último caso. Si llega antes un requerimiento de Hacienda, el recargo se convierte en sanción. Pasados cuatro años y seis meses desde el fallecimiento, el impuesto suele estar prescrito."
+   ],
+   [
+    "¿Quién rellena el modelo 650, el notario o yo?",
+    "El obligado eres tú como heredero, pero puedes encargarlo a una gestoría o a un abogado. Muchas notarías ofrecen la liquidación como servicio aparte. Si la herencia es sencilla, las sedes electrónicas autonómicas permiten hacerlo con certificado digital en una tarde."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el modelo 650",
+  "related": [
+   [
+    "Impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Herencia prescrita",
+    "/blog/herencia-prescrita-impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos al vender un piso heredado",
+    "/blog/vender-un-piso-heredado-impuestos/"
+   ],
+   [
+    "Gestoría en una herencia",
+    "/diccionario-del-proindiviso/gestoria-en-una-herencia/"
+   ],
+   [
+    "Vender parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Vende tu parte heredada sin esperar a los demás",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Modelo 650: qué es, plazo, documentos y dónde se presenta",
+  "meta_desc": "El modelo 650 es la autoliquidación del impuesto de sucesiones. Plazo de seis meses, documentos y dónde se presenta. Compramos tu parte heredada.",
+  "focus_kw": "modelo 650",
+  "title_corto": "Modelo 650",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural light: the facade of a classic Spanish apartment building with wrought iron balconies and closed wooden shutters at dusk, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo 650: fachada de un edificio de viviendas con balcones de forja al atardecer"
+ },
+ {
+  "slug": "modelo-211",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Modelo 211: qué es y cómo afecta al precio si vendes siendo no residente",
+  "sub": "El modelo 211 es el impreso con el que el comprador de un inmueble ingresa en Hacienda la retención del 3 % del precio cuando el vendedor no reside en España. Si vendes tu cuota desde el extranjero, cobras el 97 % y el 3 % queda a cuenta de tu impuesto de no residentes. Nosotros presentamos el modelo 211 en nuestras compras y te damos la copia para recuperar lo que te sobre.",
+  "checks": [
+   "Retención del 3 % explicada",
+   "Plazos del 211 y del 210",
+   "Compramos a no residentes"
+  ],
+  "card_title": "¿Vendes tu parte desde fuera?",
+  "card_text": "Te damos precio en 48 horas y nos ocupamos de la retención, la notaría y la firma con poder.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es el modelo 211 y quién lo presenta",
+    "type": "text",
+    "intro": [
+     "El modelo 211 es la declaración con la que el comprador ingresa en la Agencia Tributaria la retención del 3 % del precio cuando vende un no residente. Lo regula el artículo 25.2 de la Ley del Impuesto sobre la Renta de no Residentes. La obligación recae sobre el adquirente, no sobre el vendedor, aunque el dinero sale del precio del vendedor.",
+     "El plazo es de un mes desde la fecha de la escritura. Después, el comprador entrega al vendedor el ejemplar del modelo 211 sellado o el justificante telemático. Ese papel importa: sin él no se puede pedir la devolución del exceso. Si el comprador no retiene ni ingresa, el inmueble queda afecto al pago de la deuda. Por eso ningún notario deja pasar este punto cuando el vendedor no acredita residencia fiscal en España."
+    ]
+   },
+   {
+    "overline": "Cómo funciona",
+    "h2": "Ejemplo con números: la retención del 3 % en una cuota",
+    "type": "steps",
+    "intro": [
+     "Una hermana residente en Alemania vende su mitad de un piso de 180.000 euros en Valencia. El valor proporcional de su cuota es de 90.000 euros."
+    ],
+    "items": [
+     {
+      "t": "Precio de la cuota",
+      "p": "Recibe una oferta de 54.000 euros, el 60 % del valor proporcional, porque una cuota indivisa vale menos que el piso entero dividido por dos."
+     },
+     {
+      "t": "Retención del 3 %",
+      "p": "El comprador retiene 1.620 euros y los ingresa con el modelo 211 en el mes siguiente a la firma. Ella cobra 52.380 euros en la notaría."
+     },
+     {
+      "t": "Modelo 210 del vendedor",
+      "p": "En los cuatro meses siguientes a la venta, la vendedora presenta el modelo 210 y calcula el impuesto real: un 19 % sobre la ganancia, es decir, sobre la diferencia entre lo que heredó o pagó y lo que vende. Orientativo."
+     },
+     {
+      "t": "Devolución o pago",
+      "p": "Si heredó la cuota valorada en 60.000 euros y vende por 54.000, no hay ganancia. Pide la devolución de los 1.620 euros retenidos. Si hubiera ganancia alta, pagaría la diferencia."
+     }
+    ]
+   },
+   {
+    "overline": "Plazos",
+    "h2": "Plazos del modelo 211 y del modelo 210",
+    "type": "list",
+    "intro": [
+     "Las fechas importan porque los retrasos se pagan con recargos y la devolución se puede perder."
+    ],
+    "items": [
+     "<strong>Un mes</strong> desde la escritura para que el comprador presente el modelo 211 e ingrese el 3 %.",
+     "<strong>Cuatro meses</strong> desde la venta para que el vendedor presente el modelo 210 por la ganancia patrimonial. En realidad son tres meses desde que acaba el plazo del 211.",
+     "<strong>Seis meses</strong> tiene Hacienda para devolver desde que se presenta el 210. Si se pasa, abona intereses de demora. En la práctica, la devolución tarda entre seis meses y un año.",
+     "<strong>Cuatro años</strong> de prescripción para pedir la devolución si no se hizo a tiempo, aunque conviene no apurar."
+    ]
+   },
+   {
+    "overline": "Precio",
+    "h2": "Cómo afecta el modelo 211 al precio de tu cuota",
+    "type": "text",
+    "intro": [
+     "No lo baja. La retención del modelo 211 no es un impuesto añadido, sino un pago a cuenta del impuesto que ya tendrías que pagar por la ganancia. Si la ganancia es pequeña o no existe, recuperas todo o casi todo. En cambio, si vendes con beneficio alto, el 3 % será solo un adelanto.",
+     "Lo que sí cambia es el flujo de caja: cobras el 97 % en notaría y el resto, si procede, meses después. Por eso lo decimos desde la oferta, para que nadie se lleve sorpresas el día de la firma. Si tienes certificado de residencia fiscal en España expedido por la Agencia Tributaria, el modelo 211 no se aplica aunque pases temporadas fuera. Además, cuando el vendedor no reside en España, el comprador responde de la plusvalía municipal como sustituto, así que también suele retener esa cantidad."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Impresos parecidos que no debes confundir",
+    "type": "table",
+    "items": [
+     [
+      "Impreso",
+      "Quién lo presenta y para qué"
+     ],
+     [
+      "Modelo 211",
+      "El comprador. Ingresa la retención del 3 % del precio pagado a un vendedor no residente. Plazo: un mes desde la escritura."
+     ],
+     [
+      "Modelo 210",
+      "El vendedor no residente. Declara la ganancia de la venta y, cada año, la renta imputada o el alquiler del inmueble en España."
+     ],
+     [
+      "Modelo 600",
+      "El comprador. Liquida el impuesto de transmisiones patrimoniales de la compra de la cuota, según comunidad autónoma."
+     ],
+     [
+      "Modelo 650",
+      "Los herederos. Autoliquidan el impuesto de sucesiones; es necesario antes de vender una cuota heredada."
+     ]
+    ],
+    "outro": [
+     "En nuestras compras presentamos el modelo 211 y el modelo 600 como compradores y te entregamos las copias. El modelo 210 es tuyo, pero te indicamos los datos y las fechas."
+    ]
+   },
+   {
+    "overline": "Desde el extranjero",
+    "type": "callout",
+    "items": {
+     "t": "¿Vendes tu parte desde fuera de España?",
+     "p": "Compramos cuotas de no residentes en toda España. Nos encargamos del modelo 211, preparamos el borrador del poder y organizamos la firma. Tú cobras por transferencia.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién presenta el modelo 211, el comprador o el vendedor?",
+    "El comprador. Es él quien retiene el 3 % del precio y lo ingresa en Hacienda en el mes siguiente a la escritura. El vendedor no residente solo recibe la copia, que necesitará para presentar su modelo 210 y recuperar lo que le sobre."
+   ],
+   [
+    "¿Puedo recuperar el 3 % que me retienen con el modelo 211?",
+    "Sí, total o parcialmente, si el impuesto real por la ganancia es menor que lo retenido. Se pide con el modelo 210 dentro de los cuatro meses siguientes a la venta. Hacienda tiene seis meses para devolver; si tarda más, paga intereses."
+   ],
+   [
+    "¿Qué pasa si el comprador no presenta el modelo 211?",
+    "El inmueble queda afecto al pago del impuesto del vendedor, así que el problema recae sobre la finca que acaba de comprar. Además, Hacienda puede exigirle la retención con recargos. Por eso el notario advierte de la obligación en la propia escritura."
+   ],
+   [
+    "¿Se aplica el modelo 211 si solo uno de los hermanos vive en el extranjero?",
+    "Sí, pero únicamente sobre la parte del precio que cobra el hermano no residente. Los residentes en España cobran su parte íntegra. En una venta de cuota, se retiene solo si el titular de esa cuota es no residente."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el modelo 211",
+  "related": [
+   [
+    "Vender un inmueble siendo no residente",
+    "/diccionario-del-proindiviso/vender-un-inmueble-siendo-no-residente/"
+   ],
+   [
+    "Vender tu parte de la herencia desde el extranjero",
+    "/blog/vender-parte-herencia-desde-el-extranjero/"
+   ],
+   [
+    "Poder notarial para vender",
+    "/diccionario-del-proindiviso/poder-notarial-para-vender/"
+   ],
+   [
+    "Heredero en el extranjero",
+    "/blog/heredero-ilocalizable-o-en-el-extranjero/"
+   ],
+   [
+    "IRPF al vender tu parte",
+    "/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota sin volver a España",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma con poder notarial en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Modelo 211: retención del 3 % al vender siendo no residente",
+  "meta_desc": "El modelo 211 es el impreso con el que el comprador ingresa la retención del 3 % a un vendedor no residente. Plazos, ejemplo y cómo lo gestionamos.",
+  "focus_kw": "modelo 211",
+  "title_corto": "Modelo 211",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, natural light: a whitewashed Mediterranean house with blue shutters and a terracotta tiled roof overlooking the sea on the Spanish coast, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo 211: casa blanca con contraventanas azules frente al mar en la costa española"
+ },
+ {
+  "slug": "novacion-hipotecaria",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Novación hipotecaria: qué es y cómo afecta a tu parte de la casa",
+  "sub": "La novación hipotecaria es la modificación de un préstamo hipotecario ya firmado: cambiar titulares, plazo, tipo de interés o importe, con el acuerdo del banco. En un proindiviso se usa para sacar del préstamo al copropietario que deja la casa. Si el banco no la acepta, hay otras salidas, y una de ellas es vendernos tu cuota.",
+  "checks": [
+   "Ley 2/1994 explicada",
+   "Costes con ejemplo",
+   "Salidas si el banco dice no"
+  ],
+  "card_title": "¿El banco no te libera?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, con hipoteca pendiente incluida. Estudiamos cada caso.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es una novación hipotecaria",
+    "type": "text",
+    "intro": [
+     "Además, la novación hipotecaria es un acuerdo entre el banco y los deudores para modificar un préstamo hipotecario sin cancelarlo. De hecho, en la práctica, está regulada en la Ley 2/1994, sobre subrogación y modificación de préstamos hipotecarios, y en las reglas generales de la novación de obligaciones del Código Civil, artículos 1203 a 1213. En concreto, puede tocar el plazo, el tipo de interés, el capital, las garantías o las personas que deben.",
+     "Cuando cambia el deudor, el artículo 1205 del Código Civil exige el consentimiento del acreedor. Es decir, dos hermanos no pueden pactar entre ellos que uno se quede la deuda: el banco tiene que aceptarlo. Por eso la novación hipotecaria es, en la práctica, una decisión del banco sobre la solvencia del que se queda."
+    ]
+   },
+   {
+    "overline": "Cómo funciona",
+    "h2": "Cómo se hace una novación hipotecaria al salir un copropietario",
+    "type": "steps",
+    "intro": [
+     "Asimismo, ejemplo: una pareja compró un piso de 180.000 euros al 50 % con una hipoteca de la que quedan 120.000 euros. Además, se separan y uno quiere quedarse la vivienda."
+    ],
+    "items": [
+     {
+      "t": "Solicitud al banco",
+      "p": "El que se queda pide la novación hipotecaria para ser deudor único. Aporta nóminas, vida laboral y declaración de la renta. El banco estudia si puede pagar solo una cuota que antes pagaban dos."
+     },
+     {
+      "t": "Estudio de solvencia",
+      "p": "La regla habitual es que la cuota no supere el 35 % de los ingresos netos. Con una cuota de 600 euros, el banco querrá ver unos 1.750 euros netos al mes, orientativo."
+     },
+     {
+      "t": "Firma en notaría",
+      "p": "Se firman el mismo día la escritura de extinción de condominio, en la que uno adjudica su mitad al otro a cambio de 30.000 euros, y la escritura de novación en la que el banco libera al que sale."
+     },
+     {
+      "t": "Inscripción",
+      "p": "Ambas escrituras se inscriben en el Registro de la Propiedad. Desde entonces, el que salió ya no responde de la deuda ni figura como dueño."
+     }
+    ]
+   },
+   {
+    "overline": "Costes",
+    "h2": "Cuánto cuesta: comisión, notaría y registro",
+    "type": "table",
+    "intro": [
+     "Cifras orientativas para una hipoteca de 120.000 euros pendientes. Varían según la entidad y la comunidad autónoma."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Quién lo paga y cuánto, orientativo"
+     ],
+     [
+      "Comisión por novación",
+      "La que figure en la escritura del préstamo. Suele estar entre el 0 % y el 1 % del capital pendiente; en cambios a tipo fijo la ley la limita a cifras muy bajas."
+     ],
+     [
+      "Notaría",
+      "Arancel reducido para novaciones. Entre 300 y 600 euros. Por ley lo paga el banco en gran parte de los conceptos; revisa la oferta."
+     ],
+     [
+      "Registro",
+      "Entre 150 y 300 euros por la inscripción de la modificación."
+     ],
+     [
+      "Gestoría y tasación",
+      "Si el banco exige tasación nueva, entre 250 y 450 euros. Gestoría, entre 200 y 400 euros."
+     ],
+     [
+      "Impuestos",
+      "Las novaciones de plazo y tipo de interés están exentas de actos jurídicos documentados. El cambio de deudor puede tributar según comunidad autónoma; consulta tu caso."
+     ]
+    ]
+   },
+   {
+    "overline": "Si el banco dice no",
+    "h2": "Qué pasa si el banco no acepta la novación hipotecaria",
+    "type": "cards",
+    "intro": [
+     "Es la situación más habitual cuando los ingresos del que se queda no llegan. Quedan cuatro caminos."
+    ],
+    "items": [
+     {
+      "t": "Subrogar a otro banco",
+      "p": "Otra entidad puede asumir el préstamo con un solo titular si ve solvencia suficiente. Es una subrogación de acreedor, con sus propios costes."
+     },
+     {
+      "t": "Cancelar y firmar hipoteca nueva",
+      "p": "El que se queda pide un préstamo nuevo a su nombre y cancela el antiguo. Paga la cancelación registral y la constitución de la nueva.",
+      "url": "/blog/hipoteca-para-extincion-de-condominio/",
+      "cta": "Hipoteca para extinción →"
+     },
+     {
+      "t": "Vender el inmueble entero",
+      "p": "Con el precio se cancela la hipoteca y el sobrante se reparte por cuotas. Hace falta la firma de todos."
+     },
+     {
+      "t": "Vender tu cuota",
+      "p": "Puedes vender tu mitad aunque siga la hipoteca. La deuda con el banco no desaparece sola, pero el precio y los pactos de la escritura se ajustan a esa carga. Te contamos cómo lo resolvemos.",
+      "url": "/vender-proindiviso-con-hipoteca/",
+      "cta": "Vender con hipoteca →"
+     }
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Novación, subrogación y liberación de deudor",
+    "type": "list",
+    "intro": [
+     "Se confunden a menudo y no son lo mismo. Así se distinguen."
+    ],
+    "items": [
+     "<strong>Novación hipotecaria.</strong> El mismo préstamo cambia de condiciones o de titulares con el acuerdo del mismo banco.",
+     "<strong>Subrogación de acreedor.</strong> Cambia el banco; el préstamo sigue. Regulada también en la Ley 2/1994.",
+     "<strong>Subrogación de deudor.</strong> El comprador de la casa asume la hipoteca del vendedor. Necesita la aceptación del banco.",
+     "<strong>Liberación de deudor.</strong> El banco suelta a uno de los titulares. Es el efecto que se busca con la novación hipotecaria al salir un copropietario.",
+     "<strong>Cancelación.</strong> El préstamo se paga del todo y la hipoteca se borra del Registro."
+    ],
+    "outro": [
+     "Si la casa tiene varios titulares del préstamo, lee también nuestra entrada sobre la hipoteca compartida y la guía de extinción de condominio con hipoteca."
+    ]
+   },
+   {
+    "overline": "Tu salida",
+    "type": "callout",
+    "items": {
+     "t": "¿Sin novación hipotecaria posible?",
+     "p": "Compramos cuotas de viviendas con hipoteca pendiente en toda España. Dinos el saldo del préstamo y tu porcentaje y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede el banco negarse a una novación hipotecaria?",
+    "Sí. La novación necesita el consentimiento del acreedor, así que el banco decide libremente tras estudiar la solvencia del que se queda. Si la cuota supera el porcentaje de ingresos que la entidad considera prudente, la rechazará. En ese caso quedan la subrogación a otro banco, la hipoteca nueva o la venta."
+   ],
+   [
+    "¿Cuánto cuesta una novación hipotecaria para quitar a un titular?",
+    "Orientativamente entre 600 y 1.500 euros entre notaría, registro, gestoría y tasación, más la comisión por novación que figure en la escritura del préstamo, que suele ir del 0 % al 1 % del capital pendiente. Parte de los gastos notariales los asume el banco por ley."
+   ],
+   [
+    "¿Si vendo mi parte de la casa sigo pagando la hipoteca?",
+    "Frente al banco, sí, salvo que te libere mediante novación. Vender la cuota transmite la propiedad, no la deuda. Por eso, al comprar una cuota con hipoteca, analizamos el saldo pendiente y pactamos en la escritura cómo se gestiona esa carga para que no te quedes atrapado."
+   ],
+   [
+    "¿La novación hipotecaria paga impuestos?",
+    "Las novaciones que modifican el tipo de interés o el plazo están exentas del impuesto de actos jurídicos documentados por la Ley 2/1994. Otros cambios, como la ampliación de capital o el cambio de deudor, pueden tributar según la comunidad autónoma. Conviene consultarlo antes de firmar."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la novación hipotecaria",
+  "related": [
+   [
+    "Hipoteca compartida",
+    "/diccionario-del-proindiviso/hipoteca-compartida/"
+   ],
+   [
+    "Extinción de condominio con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Vender un proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Hipoteca para extinción de condominio",
+    "/blog/hipoteca-para-extincion-de-condominio/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ],
+   [
+    "Hipotecar tu parte",
+    "/blog/se-puede-hipotecar-una-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Sal de la casa y de la hipoteca compartida",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Novación hipotecaria al salir de un proindiviso: coste y pasos",
+  "meta_desc": "La novación hipotecaria cambia titulares o condiciones de la hipoteca al salir un copropietario. Costes, pasos y qué hacer si el banco se niega.",
+  "focus_kw": "novación hipotecaria",
+  "title_corto": "Novación hipotecaria",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, natural morning light: a single brass house key resting on a dark oak table next to a closed leather folder, blurred window of a Spanish apartment in the background, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Novación hipotecaria: llave de latón sobre una mesa de roble oscuro junto a una carpeta cerrada"
+ },
+ {
+  "slug": "vender-un-inmueble-siendo-no-residente",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Vender un inmueble siendo no residente: qué cambia y cómo vendemos tu parte",
+  "sub": "Es posible vender un inmueble siendo no residente sin viajar a España: hace falta NIE, un poder notarial y asumir la retención del 3 % del precio a cuenta del impuesto de no residentes. Si lo que vendes es una cuota heredada, el proceso es el mismo. Nosotros compramos tu parte, preparamos el borrador del poder y presentamos el modelo 211.",
+  "checks": [
+   "Sin viajar a España",
+   "Retención del 3 % explicada",
+   "Poder y NIE resueltos"
+  ],
+  "card_title": "¿Vives fuera y quieres vender tu parte?",
+  "card_text": "Te damos precio en 48 horas y organizamos la firma con poder. Cobras por transferencia.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué significa vender un inmueble siendo no residente",
+    "type": "text",
+    "intro": [
+     "Eres no residente a efectos fiscales si pasas menos de 183 días al año en España y no tienes aquí el núcleo de tus intereses económicos. Además, la nacionalidad no cuenta: un español que vive en Londres es no residente, y un alemán que vive en Alicante es residente. De hecho, en la práctica, lo regula la Ley del Impuesto sobre la Renta de no Residentes, en especial sus artículos 24 y 25.",
+     "En concreto, vender un inmueble siendo no residente tiene tres consecuencias prácticas. Primero, el comprador te retiene el 3 % del precio y lo ingresa en Hacienda. Segundo, tributas por la ganancia al 19 %, orientativo, mediante el modelo 210. Tercero, necesitas NIE y, si no viajas, un poder. Todo lo demás, el notario, la escritura y el Registro, funciona igual que para un residente."
+    ]
+   },
+   {
+    "overline": "Documentos",
+    "h2": "Documentos necesarios: NIE, poder y certificado",
+    "type": "list",
+    "intro": [
+     "Reúne esto antes de pedir precio. Asimismo, es lo que el notario va a exigir el día de la firma."
+    ],
+    "items": [
+     "<strong>NIE.</strong> Número de identidad de extranjero. Lo necesita cualquier no nacional para firmar y para que Hacienda le identifique. Se pide en el consulado o en una comisaría en España y tarda semanas. Los españoles usan su DNI.",
+     "<strong>Pasaporte o DNI vigente.</strong> El apoderado lo presenta en copia; el notario comprueba la identidad del poderdante en el propio poder.",
+     "<strong>Poder notarial especial para vender.</strong> Otorgado ante notario español, ante el cónsul de España o ante notario extranjero con apostilla de La Haya y traducción jurada.",
+     "<strong>Título de propiedad.</strong> La escritura de compra o de adjudicación de herencia, con el impuesto de sucesiones liquidado.",
+     "<strong>Certificado de residencia fiscal.</strong> Lo emite tu país. Sirve para aplicar el convenio de doble imposición y evitar pagar dos veces.",
+     "<strong>Cuenta bancaria.</strong> Puede ser extranjera. El precio se paga por transferencia, con constancia en la escritura."
+    ]
+   },
+   {
+    "overline": "Fiscalidad",
+    "h2": "La retención del 3 %, el modelo 211 y el modelo 210",
+    "type": "steps",
+    "intro": [
+     "Además, ejemplo: heredas un tercio de un piso de 180.000 euros en Sevilla y vives en Francia. De hecho, en la práctica, el valor proporcional de tu cuota es de 60.000 euros."
+    ],
+    "items": [
+     {
+      "t": "Oferta y precio",
+      "p": "En concreto, recibes una oferta de 36.000 euros, el 60 % del valor proporcional. Asimismo, aceptas y firmas el poder en el consulado."
+     },
+     {
+      "t": "Retención en la firma",
+      "p": "Además, el comprador retiene 1.080 euros, el 3 %, y te transfiere 34.920 euros. En el mes siguiente presenta el modelo 211 y te envía la copia."
+     },
+     {
+      "t": "Tu modelo 210",
+      "p": "En los cuatro meses siguientes declaras la ganancia: lo que vendes menos el valor por el que heredaste. Si heredaste la cuota valorada en 60.000 euros y vendes por 36.000, no hay ganancia y pides la devolución de los 1.080 euros."
+     },
+     {
+      "t": "Plusvalía municipal",
+      "p": "Cuando el vendedor es no residente, el comprador responde de la plusvalía municipal como sustituto. Por eso suele retener también ese importe y liquidarlo en el ayuntamiento.",
+      "url": "/diccionario-del-proindiviso/plusvalia-municipal/",
+      "cta": "Plusvalía municipal →"
+     }
+    ]
+   },
+   {
+    "overline": "Cómo lo hacemos",
+    "h2": "Cómo vender un inmueble siendo no residente sin viajar",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Nos envías la nota simple",
+      "p": "Con la dirección y tu porcentaje te damos precio por escrito en 48 horas. Si no tienes la nota simple, la pedimos nosotros."
+     },
+     {
+      "t": "Preparamos el poder",
+      "p": "En concreto, te enviamos el borrador con las facultades exactas que pedirá el notario: vender la cuota concreta, cobrar el precio y aceptar la retención. Asimismo, lo firmas en el consulado o ante un notario local y lo apostillas."
+     },
+     {
+      "t": "Firma en notaría española",
+      "p": "Tu apoderado, que puede ser un familiar o un abogado de confianza, firma por ti en dos a cuatro semanas. Nosotros pagamos la notaría."
+     },
+     {
+      "t": "Cobro y copias",
+      "p": "Recibes la transferencia el día de la firma, menos la retención. Después te enviamos la copia de la escritura y del modelo 211 para tu modelo 210."
+     }
+    ],
+    "outro": [
+     "De hecho, en la práctica, vender un inmueble siendo no residente no exige volver a España ni una sola vez. Lo que sí exige es orden en los papeles, y de eso nos encargamos."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores que encarecen la venta desde fuera",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Pedir el NIE tarde",
+      "p": "Sin NIE no hay escritura. El trámite consular puede tardar entre dos y ocho semanas según el país. Empieza por ahí."
+     },
+     {
+      "t": "Un poder genérico",
+      "p": "Los notarios rechazan poderes que no identifican la finca o no incluyen la facultad de cobrar. Revisa el borrador antes de firmarlo."
+     },
+     {
+      "t": "Olvidar el modelo 210",
+      "p": "Si no lo presentas, pierdes la devolución del 3 % retenido y te expones a recargos. El plazo es de cuatro meses desde la venta."
+     },
+     {
+      "t": "Viajar sin necesidad",
+      "p": "Vender un inmueble siendo no residente con poder cuesta lo mismo que en persona y evita vuelos, hoteles y días de permiso."
+     }
+    ]
+   },
+   {
+    "overline": "Desde cualquier país",
+    "type": "callout",
+    "items": {
+     "t": "¿Quieres vender un inmueble siendo no residente?",
+     "p": "Compramos tu cuota de piso, casa, local o terreno en toda España. Dinos dónde vives y qué parte tienes y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Necesito NIE para vender mi parte de un piso si vivo en el extranjero?",
+    "Si no eres español, sí: el NIE es obligatorio para firmar la escritura y para que Hacienda te identifique en la retención. Se solicita en el consulado de España de tu país o en una comisaría si viajas. Los españoles residentes fuera firman con su DNI o pasaporte."
+   ],
+   [
+    "¿Tengo que viajar a España para firmar la venta?",
+    "No. Puedes otorgar un poder notarial especial ante el cónsul de España o ante un notario de tu país, apostillado y traducido. Con ese poder, un familiar o un abogado firma por ti en la notaría española y tú recibes el precio por transferencia."
+   ],
+   [
+    "¿Cuánto me retienen por vender un inmueble siendo no residente?",
+    "El 3 % del precio de venta, que el comprador ingresa en Hacienda con el modelo 211. Es un pago a cuenta, no un impuesto adicional: si tu ganancia real es menor, recuperas la diferencia presentando el modelo 210 en los cuatro meses siguientes."
+   ],
+   [
+    "¿Pago también impuestos en mi país de residencia?",
+    "Depende del convenio de doble imposición entre España y tu país. En general, la ganancia por un inmueble en España tributa en España y tu país te permite deducir lo pagado aquí. Consulta tu caso con un asesor en tu país de residencia."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender desde el extranjero",
+  "related": [
+   [
+    "Vender tu parte de la herencia desde el extranjero",
+    "/blog/vender-parte-herencia-desde-el-extranjero/"
+   ],
+   [
+    "Modelo 211",
+    "/diccionario-del-proindiviso/modelo-211/"
+   ],
+   [
+    "Poder notarial para vender",
+    "/diccionario-del-proindiviso/poder-notarial-para-vender/"
+   ],
+   [
+    "Heredero ilocalizable o en el extranjero",
+    "/blog/heredero-ilocalizable-o-en-el-extranjero/"
+   ],
+   [
+    "Vender parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Vende tu parte desde donde estés",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma con poder en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Vender un inmueble siendo no residente: NIE, poder y 3 %",
+  "meta_desc": "Vender un inmueble siendo no residente: NIE, poder notarial, retención del 3 % y modelo 210, con ejemplo. Compramos tu parte sin que viajes a España.",
+  "focus_kw": "vender un inmueble siendo no residente",
+  "title_corto": "No residente",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, late afternoon natural light: a row of white houses with terracotta roofs on a hillside above the Mediterranean sea in southern Spain, calm water and a clear sky, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Vender un inmueble siendo no residente: casas blancas sobre el mar en el sur de España"
+ },
+ {
+  "slug": "notario",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Notario: qué hace al vender una cuota de proindiviso y quién lo paga",
+  "sub": "El notario es el funcionario público que da fe de la compraventa, comprueba la identidad y la titularidad de las partes y autoriza la escritura pública. Al vender tu parte de un piso, su firma convierte el acuerdo en una propiedad inscribible en el Registro. En nuestras compras eliges tú la notaría y la pagamos nosotros.",
+  "checks": [
+   "Libre elección de notaría",
+   "Arancel con ejemplo",
+   "Lo pagamos nosotros"
+  ],
+  "card_title": "¿Quieres vender tu parte?",
+  "card_text": "Precio por escrito en 48 horas y firma en la notaría que tú elijas. Los gastos corren de nuestra cuenta.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es un notario y qué comprueba antes de firmar",
+    "type": "text",
+    "intro": [
+     "Además, el notario es un funcionario público y, a la vez, un profesional del derecho. De hecho, en la práctica, su función está regulada en la Ley del Notariado y en el Reglamento Notarial. En concreto, da fe de lo que ve y oye: quiénes firman, que lo hacen libremente y que entienden lo que firman. Además, redacta la escritura para que sea válida e inscribible.",
+     "Antes de autorizar la venta de una cuota, el notario pide una nota simple actualizada al Registro para comprobar la titularidad y las cargas. También verifica la identidad y la capacidad de las partes, el pago del IBI, el certificado de deudas con la comunidad de propietarios, el certificado energético, la situación de ocupación y los medios de pago. Por último, advierte a las partes de sus obligaciones fiscales y del derecho de retracto de los demás copropietarios."
+    ]
+   },
+   {
+    "overline": "Elección y gastos",
+    "h2": "Quién elige el notario y quién lo paga",
+    "type": "text",
+    "intro": [
+     "La elección del notario es libre y corresponde, por regla general, a quien paga la mayor parte de los gastos. Asimismo, en las compraventas de vivienda suele elegir el comprador. Sin embargo, nada impide que las partes acuerden otra cosa.",
+     "Además, el artículo 1455 del Código Civil dice que los gastos de la escritura matriz son del vendedor y los de la primera copia, del comprador, salvo pacto en contrario. De hecho, en la práctica, en la práctica, casi siempre se pacta que pague el comprador. En nuestras compras de cuotas lo hacemos así: tú eliges el notario cerca de tu casa y nosotros pagamos la escritura, las copias y la gestión de la inscripción. Tú solo asumes tus impuestos como vendedor."
+    ]
+   },
+   {
+    "overline": "Arancel",
+    "h2": "Cuánto cobra: el arancel notarial con un ejemplo",
+    "type": "table",
+    "intro": [
+     "Los honorarios están fijados por el Real Decreto 1426/1989 y son iguales en toda España. En concreto, dependen del valor declarado y del número de folios. Ejemplo para una cuota vendida por 54.000 euros."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Importe orientativo"
+     ],
+     [
+      "Escritura matriz",
+      "Entre 350 y 500 euros según la escala por tramos del valor y los folios que ocupe."
+     ],
+     [
+      "Copias autorizadas y simples",
+      "Unos 3 euros por folio en las autorizadas; las simples, menos. Entre 40 y 90 euros en total."
+     ],
+     [
+      "Comunicación telemática al Registro y gestiones",
+      "Entre 30 y 60 euros."
+     ],
+     [
+      "Total con IVA",
+      "Entre 500 y 750 euros. Si vendes por 25.000 euros, el total baja a 400-550 euros aproximadamente."
+     ]
+    ],
+    "outro": [
+     "Para una extinción de condominio el cálculo cambia, porque la base es el valor total de lo adjudicado. Asimismo, lo explicamos con cifras en nuestra entrada sobre cuánto cobra el notario en la extinción de condominio."
+    ]
+   },
+   {
+    "overline": "El día de la firma",
+    "h2": "Qué pasa en la notaría el día de la firma",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Envío previo de la documentación",
+      "p": "Además, una semana antes, la notaría recibe DNI, título de propiedad, recibo del IBI, certificado de la comunidad y certificado energético. Prepara el borrador y lo envía a las partes."
+     },
+     {
+      "t": "Lectura y advertencias",
+      "p": "El notario lee la escritura o la explica, resuelve dudas y hace las advertencias legales: impuestos, retracto de comuneros, estado de cargas. Puedes pedir cambios antes de firmar."
+     },
+     {
+      "t": "Firma y pago",
+      "p": "Las partes firman. El precio se paga en el acto por transferencia o cheque bancario y queda identificado en la escritura, como exige la normativa de prevención de blanqueo."
+     },
+     {
+      "t": "Copias e inscripción",
+      "p": "El vendedor recibe una copia simple. El comprador, la autorizada, que se presenta telemáticamente en el Registro ese mismo día. La inscripción llega en unas dos o tres semanas."
+     }
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Notario, registrador y gestoría: quién hace qué",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Notario",
+      "p": "Da fe pública, redacta y autoriza la escritura, comprueba identidad, titularidad y cargas, advierte de obligaciones. No inscribe ni liquida impuestos por ti.",
+      "url": "/diccionario-del-proindiviso/escritura-publica/",
+      "cta": "Escritura pública →"
+     },
+     {
+      "t": "Registrador de la propiedad",
+      "p": "Califica la escritura y la inscribe en el folio de la finca. Su inscripción es la que te protege frente a terceros.",
+      "url": "/diccionario-del-proindiviso/registro-de-la-propiedad/",
+      "cta": "Registro de la Propiedad →"
+     },
+     {
+      "t": "Gestoría",
+      "p": "Presenta los impuestos, lleva la escritura al Registro y al Catastro y recoge las copias. Es opcional, pero ahorra visitas.",
+      "url": "/diccionario-del-proindiviso/gestoria-en-una-herencia/",
+      "cta": "Gestoría →"
+     },
+     {
+      "t": "Abogado",
+      "p": "Asesora y defiende tus intereses, pero no da fe pública. En una venta de cuota sencilla no es obligatorio."
+     }
+    ]
+   },
+   {
+    "overline": "Sin gastos",
+    "type": "callout",
+    "items": {
+     "t": "Tú eliges el notario, nosotros lo pagamos",
+     "p": "Compramos tu cuota de piso, casa, local o garaje en toda España. Precio por escrito en 48 horas y firma en dos a cuatro semanas en la notaría que prefieras.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo elegir yo el notario si vendo mi parte de un piso?",
+    "Sí. La elección es libre y, en nuestras compras, la dejamos en tus manos para que firmes cerca de casa. Elegir una notaría u otra no cambia el precio, porque el arancel es el mismo en toda España. Solo cambia la comodidad."
+   ],
+   [
+    "¿Cuánto cobra el notario por la venta de un proindiviso?",
+    "Para una cuota vendida entre 25.000 y 60.000 euros, entre 400 y 750 euros con IVA, copias incluidas, de forma orientativa. El arancel se calcula sobre el valor declarado y el número de folios. En nuestras compras lo pagamos nosotros."
+   ],
+   [
+    "¿El notario avisa a los demás copropietarios de que vendo mi parte?",
+    "No tiene esa obligación. Comprueba el Registro y advierte en la escritura del derecho de retracto, pero no comunica la venta a los otros comuneros. Después de la firma, lo habitual es notificarles para que corra el plazo de nueve días del retracto."
+   ],
+   [
+    "¿Tienen que ir todos los copropietarios a la notaría?",
+    "No. Para vender tu cuota solo firmáis tú y el comprador, porque el artículo 399 del Código Civil te permite disponer de tu parte sin permiso de los demás. Solo hace falta la firma de todos cuando se vende el inmueble entero."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el notario",
+  "related": [
+   [
+    "Escritura pública",
+    "/diccionario-del-proindiviso/escritura-publica/"
+   ],
+   [
+    "Cuánto cobra el notario en la extinción de condominio",
+    "/blog/cuanto-cobra-el-notario-extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notario en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Documentos para vender tu parte",
+    "/blog/documentos-para-vender-tu-parte-de-un-piso/"
+   ],
+   [
+    "Registro de la Propiedad",
+    "/diccionario-del-proindiviso/registro-de-la-propiedad/"
+   ],
+   [
+    "Subasta notarial voluntaria",
+    "/blog/subasta-notarial-voluntaria-de-un-piso-compartido/"
+   ]
+  ],
+  "cta_title": "Firma en tu notaría, sin pagar la escritura",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Notario al vender una cuota: qué comprueba y quién lo paga",
+  "meta_desc": "El notario da fe de la venta de tu cuota, comprueba titularidad y cargas y autoriza la escritura. Arancel con ejemplo y quién lo paga: nosotros.",
+  "focus_kw": "notario",
+  "title_corto": "Notario",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft window light: an empty notary signing room with a long polished walnut table, leather chairs and tall bookshelves in a classic Spanish office, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Notario: sala de firmas vacía con mesa de nogal y estanterías en un despacho clásico"
+ },
+ {
+  "slug": "oferta-vinculante",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Oferta vinculante: qué es y cómo leer la que recibes por tu cuota",
+  "sub": "Una oferta vinculante es una propuesta de compra por escrito que obliga a quien la firma durante el plazo que indica: si la aceptas dentro de ese plazo, el contrato queda cerrado en esas condiciones. Cuando te damos precio por tu parte de un piso, lo hacemos así, por escrito y con plazo de validez. Así sabes qué vas a cobrar antes de decidir.",
+  "checks": [
+   "Qué obliga y qué no",
+   "Qué debe incluir",
+   "Señales de alarma"
+  ],
+  "card_title": "¿Quieres una oferta por tu parte?",
+  "card_text": "Te la enviamos por escrito en 48 horas, con precio neto y plazo de validez. Sin compromiso.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es una oferta vinculante según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El artículo 1262 del Código Civil dice que el consentimiento se manifiesta por el concurso de la oferta y la aceptación. Una oferta vinculante es la primera mitad de ese contrato: una declaración completa, con objeto, precio y condiciones, hecha con intención de obligarse. Si el destinatario la acepta en plazo, el contrato nace sin necesidad de más firmas.",
+     "No toda propuesta es una oferta vinculante. Un precio orientativo, una invitación a negociar o un anuncio no obligan a nadie. Para que vincule, la oferta debe fijar un plazo o, al menos, mantenerse un tiempo razonable, y debe ser lo bastante precisa como para que un simple «acepto» cierre el trato. La doctrina del Tribunal Supremo exige, además, que el oferente sea identificable y tenga capacidad para obligarse."
+    ]
+   },
+   {
+    "overline": "Contenido",
+    "h2": "Qué debe incluir una oferta vinculante por una cuota",
+    "type": "list",
+    "intro": [
+     "Cuando una empresa te ofrece comprar tu parte de un piso, el documento debería contener al menos estos puntos. Si falta alguno, pide que lo añadan."
+    ],
+    "items": [
+     "<strong>Identificación de la finca y de tu porcentaje.</strong> Dirección, datos registrales y la cuota exacta que vendes: la mitad, un tercio, el 25 %.",
+     "<strong>Precio neto y quién paga cada gasto.</strong> Notaría, gestión, inscripción y plusvalía municipal deben estar asignados.",
+     "<strong>Forma y momento del pago.</strong> Al contado en la notaría, por transferencia o cheque bancario. Nunca en varios plazos sin garantía.",
+     "<strong>Plazo de validez de la oferta.</strong> Días naturales desde la fecha de envío.",
+     "<strong>Plazo de firma.</strong> Una horquilla concreta, como dos a cuatro semanas desde la aceptación.",
+     "<strong>Condiciones.</strong> Que la nota simple no revele cargas nuevas y que la situación de ocupación sea la declarada.",
+     "<strong>Ausencia de exclusividad y de penalizaciones.</strong> Debes poder decir que no sin coste."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con números: cómo leer una oferta por tu parte",
+    "type": "text",
+    "intro": [
+     "Tienes el 50 % de un piso de 180.000 euros heredado con tu hermano, que vive en él. El valor proporcional de tu cuota es de 90.000 euros. Recibes una oferta vinculante de 50.400 euros, es decir, el 56 % del valor proporcional, con validez de quince días y firma en tres semanas.",
+     "Para leerla bien, calcula lo que cobras de verdad. El precio es neto si la notaría y la gestión van a cargo del comprador. Tus impuestos como vendedor, la plusvalía municipal y el IRPF por la ganancia, se pagan aparte y dependen de cuánto valía la cuota cuando la heredaste. Después, compara con la alternativa: una división de cosa común puede durar de uno a tres años, con abogado, procurador y subasta. Si ese 56 % hoy te compensa frente a esa espera, la oferta es buena para ti. Si no, puedes rechazarla sin coste."
+    ]
+   },
+   {
+    "overline": "Diferencias",
+    "h2": "Qué compromete y qué no: oferta, señal y arras",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "Qué obliga y cuándo hay dinero por medio"
+     ],
+     [
+      "Oferta vinculante",
+      "Obliga solo al que la emite, durante su plazo. No hay entrega de dinero. El vendedor es libre de aceptar o no."
+     ],
+     [
+      "Aceptación",
+      "Cierra el contrato. Desde ese momento ambas partes están obligadas a firmar la escritura en las condiciones pactadas."
+     ],
+     [
+      "Señal o arras",
+      "Dinero entregado tras el acuerdo. Según el tipo, permite desistir perdiendo la señal o la dobla el que incumple. Nosotros no las pedimos."
+     ],
+     [
+      "Reserva de inmobiliaria",
+      "Documento privado que retira el inmueble del mercado a cambio de una cantidad. No es una compraventa."
+     ]
+    ],
+    "outro": [
+     "La diferencia práctica es sencilla: la oferta vinculante te da seguridad sin atarte. Las arras te atan a ti también."
+    ]
+   },
+   {
+    "overline": "Alarmas",
+    "h2": "Señales de alarma en una oferta vinculante",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Precio «a confirmar tras visita»",
+      "p": "Si el precio puede cambiar, no es una oferta vinculante. Es una invitación a negociar que suele acabar en una rebaja el día de la firma."
+     },
+     {
+      "t": "Exclusividad o penalización",
+      "p": "Una oferta seria no te impide pedir otras. Si te exigen firmar exclusividad para darte precio, desconfía."
+     },
+     {
+      "t": "Pago aplazado o en especie",
+      "p": "El precio de una cuota se cobra al contado en notaría. Los pagos a plazos sin garantía te convierten en acreedor de un desconocido."
+     },
+     {
+      "t": "Empresa sin identificar",
+      "p": "La oferta debe llevar razón social, CIF y domicilio. Comprueba opiniones y antigüedad antes de aceptar.",
+      "url": "/opiniones-empresas-que-compran-proindivisos/",
+      "cta": "Cómo comparar empresas →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra oferta",
+    "type": "callout",
+    "items": {
+     "t": "Pide una oferta vinculante por tu parte",
+     "p": "Dinos la dirección del inmueble y tu porcentaje. En 48 horas recibes precio por escrito, con gastos de notaría a nuestro cargo y sin exclusividad.",
+     "cta": "Pedir mi oferta por escrito"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Una oferta vinculante me obliga a vender?",
+    "No. Obliga solo a quien la emite, el comprador, durante el plazo que indica. Tú puedes aceptarla, rechazarla o dejar que caduque sin ninguna consecuencia. Solo cuando la aceptas por escrito nace el contrato y ambas partes quedan obligadas a firmar la escritura."
+   ],
+   [
+    "¿Cuánto tiempo dura una oferta vinculante?",
+    "El plazo que fije el propio documento, habitualmente entre siete y treinta días naturales. Pasado ese plazo, el comprador puede mantenerla, actualizarla o retirarla. Si no indica plazo, se entiende vigente durante un tiempo razonable, lo que genera discusiones; por eso conviene que lo diga."
+   ],
+   [
+    "¿Qué pasa si acepto la oferta y el comprador se echa atrás?",
+    "Hay contrato perfeccionado y puedes exigir su cumplimiento o una indemnización por los daños. En la práctica, lo relevante es elegir un comprador con fondos propios y trayectoria, porque reclamar a una empresa sin solvencia cuesta más de lo que se recupera."
+   ],
+   [
+    "¿Puedo pedir varias ofertas vinculantes a la vez?",
+    "Sí, y es recomendable. Ninguna oferta seria te exige exclusividad para darte precio. Compara el importe neto, quién paga los gastos, el plazo de firma y la forma de pago, no solo la cifra más alta."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la oferta vinculante",
+  "related": [
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Opiniones sobre empresas que compran proindivisos",
+    "/opiniones-empresas-que-compran-proindivisos/"
+   ],
+   [
+    "Contrato de arras",
+    "/diccionario-del-proindiviso/contrato-de-arras/"
+   ],
+   [
+    "Preguntas antes de vender tu parte",
+    "/blog/preguntas-antes-de-vender-tu-parte/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Nave entre socios",
+    "/blog/nave-industrial-en-proindiviso-entre-socios/"
+   ]
+  ],
+  "cta_title": "Precio por escrito, sin compromiso",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta vinculante en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Oferta vinculante por tu cuota: qué obliga y cómo leerla",
+  "meta_desc": "Una oferta vinculante obliga al comprador durante su plazo, no a ti. Qué debe incluir, ejemplo con cifras y señales de alarma. Pide la nuestra en 48 horas.",
+  "focus_kw": "oferta vinculante",
+  "title_corto": "Oferta vinculante",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, natural side light: a closed dark blue envelope resting on a light oak desk beside a fountain pen, blurred balcony doors of a Spanish flat behind, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Oferta vinculante: sobre azul cerrado junto a una pluma sobre un escritorio de roble claro"
+ },
+ {
+  "slug": "opcion-de-compra",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Opción de compra: qué es y cómo se usa en un proindiviso entre hermanos",
+  "sub": "La opción de compra es un contrato por el que el dueño de un bien, o de una cuota, concede a otra persona el derecho a comprarlo a un precio fijado dentro de un plazo, normalmente a cambio de una prima. En un proindiviso sirve para dar tiempo a un hermano a reunir el dinero. Si el plazo vence sin compra, nosotros te compramos la parte.",
+  "checks": [
+   "Prima, plazo y ejercicio",
+   "Ejemplo con cifras",
+   "Riesgos para el que vende"
+  ],
+  "card_title": "¿Tu hermano no llega a tiempo?",
+  "card_text": "Si la opción caduca sin compra, te damos precio por tu cuota en 48 horas. Sin esperar más.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es una opción de compra y qué ley la regula",
+    "type": "text",
+    "intro": [
+     "La opción de compra no tiene una regulación propia en el Código Civil. Es un contrato atípico amparado en la libertad de pactos del artículo 1255 y perfilado por la doctrina del Tribunal Supremo. El artículo 14 del Reglamento Hipotecario permite inscribirla en el Registro de la Propiedad si consta el precio de la compra, la prima si la hay y un plazo máximo de cuatro años.",
+     "Intervienen dos partes: el concedente, que es el dueño de la cuota y queda obligado a vender si el otro lo decide, y el optante, que compra el derecho a decidir. La opción de compra se ejercita con una comunicación fehaciente dentro del plazo. Desde ese momento hay compraventa y ambas partes deben acudir a la notaría a formalizarla."
+    ]
+   },
+   {
+    "overline": "Cómo funciona",
+    "h2": "Cómo funciona una opción de compra sobre una cuota, con cifras",
+    "type": "steps",
+    "intro": [
+     "Dos hermanos heredan un piso de 180.000 euros. Ana quiere salir y Luis quiere quedárselo, pero necesita un año para conseguir la hipoteca."
+    ],
+    "items": [
+     {
+      "t": "Firma del contrato",
+      "p": "Ana concede a Luis una opción de compra sobre su 50 % por 85.000 euros. Plazo: doce meses. Prima: 5.000 euros, que Luis paga al firmar y que se descontarán del precio si compra."
+     },
+     {
+      "t": "Inscripción opcional",
+      "p": "Si la elevan a escritura y la inscriben, la opción protege a Luis frente a terceros. Si Ana vendiera a otro, ese comprador tendría que respetarla."
+     },
+     {
+      "t": "Ejercicio de la opción",
+      "p": "En el mes diez, Luis consigue el préstamo y envía un burofax ejercitando la opción. Firman la extinción de condominio: Luis paga 80.000 euros, porque los 5.000 de prima ya estaban entregados."
+     },
+     {
+      "t": "Si no compra",
+      "p": "Si el plazo vence sin burofax, la opción se extingue. Ana se queda los 5.000 euros de prima y recupera la libertad de vender su cuota a quien quiera."
+     }
+    ]
+   },
+   {
+    "overline": "Usos",
+    "h2": "Para qué sirve en una copropiedad",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Dar tiempo a un hermano",
+      "p": "Es el uso más frecuente. Fija el precio hoy y deja meses para reunir el dinero o firmar la hipoteca, sin que el que sale pierda la posibilidad de vender después.",
+      "url": "/blog/comprar-la-parte-de-mi-hermano/",
+      "cta": "Comprar la parte de un hermano →"
+     },
+     {
+      "t": "Esperar a que termine un alquiler",
+      "p": "Si el piso tiene inquilino, el comprador puede preferir ejercitar la opción cuando quede libre. La prima compensa la espera del vendedor."
+     },
+     {
+      "t": "Cerrar precio mientras se tramita la herencia",
+      "p": "Permite pactar la venta de la futura cuota antes de que la herencia esté inscrita. El ejercicio se condiciona a la inscripción."
+     },
+     {
+      "t": "Negociar con un inversor",
+      "p": "Algunos compradores profesionales piden opciones para estudiar la finca con calma. Nosotros no: damos precio firme en 48 horas."
+     }
+    ]
+   },
+   {
+    "overline": "Riesgos",
+    "h2": "Riesgos de la opción de compra para el que vende",
+    "type": "list",
+    "intro": [
+     "La opción da certeza al que compra y la quita al que vende. Antes de concederla sobre tu cuota, ten en cuenta esto."
+    ],
+    "items": [
+     "<strong>Inmovilizas tu parte.</strong> Durante el plazo no puedes venderla a otro sin incumplir. Si el optante no compra, has perdido meses.",
+     "<strong>Precio congelado.</strong> Si el mercado sube, vendes al precio pactado. Si baja, el optante simplemente no ejercita.",
+     "<strong>Prima baja o inexistente.</strong> Sin prima, la opción de compra es un favor gratuito. Pide una cantidad que compense la espera, orientativamente entre el 5 % y el 10 % del precio.",
+     "<strong>Fiscalidad de la prima.</strong> La prima tributa en tu IRPF aunque la venta no llegue a hacerse. Consulta cómo se declara en tu caso.",
+     "<strong>Falta de inscripción.</strong> Si no se inscribe, la opción no vincula a terceros ni te protege de un embargo sobre la cuota del otro."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Diferencias con arras, reserva y derecho de tanteo",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "En qué se distingue de la opción"
+     ],
+     [
+      "Arras",
+      "Ya hay compraventa; las arras regulan el desistimiento o el incumplimiento. En la opción todavía no hay venta hasta que se ejercita."
+     ],
+     [
+      "Reserva",
+      "Documento informal que aparta el inmueble unos días. Sin precio firme ni plazo largo, no da derecho a exigir la venta."
+     ],
+     [
+      "Tanteo",
+      "Derecho legal de los comuneros a igualar la oferta de un tercero. No lo concede el dueño: lo da la ley, y solo si decides vender."
+     ],
+     [
+      "Promesa de venta",
+      "Obliga a las dos partes a celebrar el contrato futuro. En la opción de compra solo está obligado el concedente."
+     ]
+    ]
+   },
+   {
+    "overline": "Plazo vencido",
+    "type": "callout",
+    "items": {
+     "t": "¿La opción de compra caducó sin venta?",
+     "p": "Compramos tu cuota aunque tu hermano no haya podido comprarla. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hay que ir al notario para firmar una opción de compra?",
+    "No es obligatorio: un documento privado es válido entre las partes. Sin embargo, solo la escritura pública permite inscribirla en el Registro de la Propiedad y hacerla valer frente a terceros. Si la cuota vale decenas de miles de euros, compensa escriturarla."
+   ],
+   [
+    "¿Qué pasa con la prima si mi hermano finalmente no compra?",
+    "Te la quedas, salvo que el contrato diga otra cosa. La prima es el precio del derecho a decidir, no una señal de la compraventa. Si tu hermano ejercita la opción, lo habitual es descontarla del precio final, pero también se puede pactar que no se descuente."
+   ],
+   [
+    "¿Puedo vender mi parte a otro mientras dura la opción?",
+    "Si lo haces, incumples el contrato y el optante puede reclamarte daños. Si además la opción está inscrita, el nuevo comprador adquiere la cuota sujeta a ella y tendría que venderla al optante si la ejercita. Espera a que venza o pacta la renuncia por escrito."
+   ],
+   [
+    "¿Cuánto puede durar como máximo una opción de compra?",
+    "Entre particulares, el plazo es libre. Para inscribirla en el Registro, el artículo 14 del Reglamento Hipotecario limita la duración a cuatro años. En proindivisos familiares lo razonable es entre seis y dieciocho meses, tiempo suficiente para conseguir una hipoteca."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la opción de compra",
+  "related": [
+   [
+    "Comprar la parte de mi hermano",
+    "/blog/comprar-la-parte-de-mi-hermano/"
+   ],
+   [
+    "Contrato de arras",
+    "/diccionario-del-proindiviso/contrato-de-arras/"
+   ],
+   [
+    "Tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Vender un proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "Si la espera no llega a nada, vende",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Opción de compra en un proindiviso: prima, plazo y riesgos",
+  "meta_desc": "La opción de compra da a un hermano el derecho a comprar tu cuota a precio fijo en un plazo, a cambio de una prima. Ejemplo, riesgos y qué hacer si caduca.",
+  "focus_kw": "opción de compra",
+  "title_corto": "Opción de compra",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, warm natural light: the wooden entrance door of an old Spanish townhouse slightly ajar, stone threshold and a terracotta plant pot beside it, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Opción de compra: puerta de madera entreabierta de una casa antigua con maceta de barro"
+ },
+ {
+  "slug": "particion-de-la-herencia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Partición de la herencia: qué es y cómo afecta a la venta de tu parte",
+  "sub": "La partición de la herencia es el acto por el que los bienes del fallecido dejan de pertenecer al conjunto de herederos y se adjudican a cada uno en concreto. Hasta que se hace, tienes un derecho abstracto sobre toda la herencia; después, una cuota sobre cada bien o un bien entero. Nosotros compramos tu parte antes o después de la partición.",
+  "checks": [
+   "Artículos 1051 a 1087",
+   "Tres formas de partir",
+   "Vender antes o después"
+  ],
+  "card_title": "¿Herencia sin repartir?",
+  "card_text": "Te damos precio por tu parte en 48 horas, esté la herencia partida o no. Sin depender de los demás.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es la partición de la herencia según el Código Civil",
+    "type": "text",
+    "intro": [
+     "La partición de la herencia está regulada en los artículos 1051 a 1087 del Código Civil. El artículo 1051 dice que ningún coheredero puede ser obligado a permanecer en la indivisión, salvo que el testador lo prohíba por un tiempo. Es decir, cualquier heredero puede pedir la partición en cualquier momento, aunque los demás prefieran esperar.",
+     "Su efecto principal lo fija el artículo 1068: la partición confiere a cada heredero la propiedad exclusiva de los bienes que le han sido adjudicados. Antes de ella existe una comunidad hereditaria sobre el conjunto; después, cada uno es dueño de algo concreto. Si un piso se adjudica a tres hermanos por terceras partes, la comunidad hereditaria se transforma en un proindiviso ordinario sobre ese piso."
+    ]
+   },
+   {
+    "overline": "Formas",
+    "h2": "Tres formas de partir: convencional, contador partidor y judicial",
+    "type": "table",
+    "items": [
+     [
+      "Forma",
+      "Quién la hace, cuándo se usa y qué cuesta"
+     ],
+     [
+      "Convencional",
+      "Los herederos de común acuerdo, en escritura notarial, artículo 1058. Es la más rápida y barata: de dos semanas a tres meses, con notaría y gestoría de 800 a 2.500 euros orientativos según el caudal."
+     ],
+     [
+      "Por contador partidor",
+      "Un tercero designado en el testamento, artículo 1057, o nombrado por el notario a petición de herederos que representen al menos la mitad del caudal. Parte sin necesidad de unanimidad. Honorarios aparte."
+     ],
+     [
+      "Judicial",
+      "El juzgado, mediante el procedimiento de división de herencia de la Ley de Enjuiciamiento Civil. De uno a tres años, con abogado y procurador. Es el último recurso cuando no hay acuerdo ni contador."
+     ],
+     [
+      "Por el testador",
+      "El propio fallecido reparte en el testamento, artículo 1056. Los herederos solo aceptan y adjudican lo ya decidido."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo de partición de la herencia con una vivienda y tres hermanos",
+    "type": "text",
+    "intro": [
+     "El caudal son un piso de 180.000 euros y 30.000 euros en el banco. Tres hijos, sin testamento, heredan 70.000 euros cada uno. La partición de la herencia puede hacerse de tres maneras. Primera: el piso se adjudica a uno, que compensa a los otros dos con 55.000 euros a cada uno, y el dinero se reparte a 10.000 por cabeza. Segunda: el piso se adjudica a los tres por terceras partes y el dinero también; nace un proindiviso. Tercera: se vende el piso y se reparte todo en efectivo.",
+     "Todo ello se recoge en el cuaderno particional, que tiene cinco partes: inventario de bienes y deudas, avalúo o valoración, liquidación de deudas y gastos, división en lotes y adjudicación a cada heredero. Con ese documento, elevado a público, se liquida el impuesto de sucesiones y se inscribe cada bien en el Registro."
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Vender tu parte antes o después de la partición de la herencia",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Antes de partir",
+      "p": "Vendes tu derecho hereditario abstracto mediante una cesión de derechos hereditarios en escritura. Los demás coherederos tienen retracto durante un mes, artículo 1067. Sirve cuando los otros bloquean la partición.",
+      "url": "/vender-derechos-hereditarios/",
+      "cta": "Vender derechos hereditarios →"
+     },
+     {
+      "t": "Después de partir",
+      "p": "Vendes una cuota indivisa concreta sobre el piso. Los demás comuneros tienen retracto de nueve días, artículo 1522. El precio suele ser algo mejor porque el comprador sabe exactamente qué adquiere."
+     },
+     {
+      "t": "Impuestos en ambos casos",
+      "p": "El impuesto de sucesiones se paga igual, con partición o sin ella, en los seis meses desde el fallecimiento. La plusvalía municipal también. Al vender, tributas por la ganancia en el IRPF.",
+      "url": "/blog/vender-un-piso-heredado-impuestos/",
+      "cta": "Impuestos al vender →"
+     }
+    ],
+    "outro": [
+     "En la práctica, muchos herederos nos llaman porque la partición de la herencia lleva años atascada. Compramos en las dos fases y nos adaptamos a la que esté en marcha."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Partición, adjudicación y extinción de condominio",
+    "type": "list",
+    "items": [
+     "<strong>Partición.</strong> El reparto completo de la herencia entre todos los herederos. Acaba con la comunidad hereditaria.",
+     "<strong>Adjudicación.</strong> Cada atribución concreta dentro de la partición: este piso para ti, ese dinero para mí. También se usa en subastas y extinciones de condominio.",
+     "<strong>Extinción de condominio.</strong> Operación posterior, entre copropietarios de un bien ya adjudicado en proindiviso, por la que uno se lo queda y compensa a los demás. Tributa por actos jurídicos documentados, no por transmisiones.",
+     "<strong>Cuaderno particional.</strong> El documento donde se plasma la partición, con inventario, valoración y adjudicaciones.",
+     "<strong>Contador partidor.</strong> La persona que parte cuando los herederos no se ponen de acuerdo."
+    ]
+   },
+   {
+    "overline": "Herencia atascada",
+    "type": "callout",
+    "items": {
+     "t": "¿La partición de la herencia no avanza?",
+     "p": "Compramos tu parte, antes o después de repartir. Dinos qué inmueble hay y cuántos herederos sois y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatorio hacer la partición de la herencia?",
+    "No hay plazo legal para partir, y muchas herencias siguen sin repartir durante años. Sin embargo, el impuesto de sucesiones se paga igual en seis meses y, sin partición inscrita, ningún heredero puede vender un bien concreto ni hipotecarlo. Solo puede ceder su derecho hereditario."
+   ],
+   [
+    "¿Cuánto cuesta una partición de herencia ante notario?",
+    "Orientativamente entre 800 y 2.500 euros de notaría y gestoría para una herencia con una vivienda y algo de dinero, según el valor del caudal y el número de folios. A eso se suman el impuesto de sucesiones, la plusvalía municipal y la inscripción en el Registro de la Propiedad."
+   ],
+   [
+    "¿Qué pasa si un heredero no quiere firmar la partición?",
+    "Sin su firma no hay partición convencional. Los demás pueden pedir al notario el nombramiento de un contador partidor dativo si suman al menos la mitad del caudal, o acudir al procedimiento judicial de división de herencia. Mientras tanto, cualquiera puede vender su derecho hereditario a un tercero."
+   ],
+   [
+    "¿Puedo vender mi parte sin hacer la partición?",
+    "Sí, mediante una cesión de derechos hereditarios en escritura pública. Vendes tu posición en la herencia en conjunto, no un bien concreto. Los demás coherederos pueden ejercitar el retracto en un mes pagando el mismo precio. Es la fórmula que usamos cuando la herencia está bloqueada."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la partición de la herencia",
+  "related": [
+   [
+    "Cuaderno particional",
+    "/blog/cuaderno-particional-que-es-y-para-que-sirve/"
+   ],
+   [
+    "Contador partidor",
+    "/blog/contador-partidor-herencia-sin-acuerdo/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Adjudicación",
+    "/diccionario-del-proindiviso/adjudicacion-de-un-inmueble/"
+   ],
+   [
+    "Un heredero no quiere vender",
+    "/un-heredero-no-quiere-vender/"
+   ],
+   [
+    "Vaciar el piso",
+    "/blog/vaciar-piso-heredado-entre-hermanos/"
+   ],
+   [
+    "Cuando el juez reparte: el procedimiento paso a paso",
+    "/blog/division-judicial-de-la-herencia-procedimiento/"
+   ]
+  ],
+  "cta_title": "Cobra tu parte de la herencia sin esperar el reparto",
+  "cta_text": "Compramos tu cuota o tu derecho hereditario con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Partición de la herencia: tipos, ejemplo y venta de tu parte",
+  "meta_desc": "La partición de la herencia adjudica a cada heredero bienes concretos. Formas, ejemplo con una vivienda y tres hermanos, y cómo vender tu parte.",
+  "focus_kw": "partición de la herencia",
+  "title_corto": "Partición de la herencia",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft overcast daylight: an empty living room of an inherited Spanish flat with old terrazzo floor, a single wooden chair and tall shuttered windows letting in pale light, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Partición de la herencia: salón vacío de un piso heredado con suelo de terrazo y una silla"
+ },
+ {
+  "slug": "plusvalia-municipal",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Plusvalía municipal: qué es y cuándo se paga al vender o heredar tu parte",
+  "sub": "La plusvalía municipal es el impuesto que cobra el ayuntamiento por el aumento de valor del suelo urbano cuando un inmueble cambia de dueño por venta, herencia o donación. Se calcula solo sobre el suelo y sobre la cuota que se transmite. Si vendes tu parte de un piso, la pagas tú como vendedor; te decimos cuánto antes de firmar.",
+  "checks": [
+   "Cuándo se paga y cuándo no",
+   "Cálculo con ejemplo",
+   "Plazos y prescripción"
+  ],
+  "card_title": "¿Vendes tu parte de un piso?",
+  "card_text": "Te damos precio en 48 horas y calculamos contigo la plusvalía municipal para que no haya sorpresas.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es la plusvalía municipal (IIVTNU)",
+    "type": "text",
+    "intro": [
+     "El nombre oficial de la plusvalía municipal es Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana. Lo regulan los artículos 104 a 110 de la Ley de Haciendas Locales, modificados en 2021 después de que el Tribunal Constitucional anulara el sistema de cálculo anterior. Grava el aumento de valor del suelo, no de la construcción, entre que se adquiere y se transmite.",
+     "Quién paga depende del tipo de transmisión. En una venta, el vendedor. En una herencia o una donación, quien recibe el bien. Si el vendedor no reside en España, el comprador responde como sustituto del contribuyente. Cada ayuntamiento decide si lo exige por autoliquidación o por declaración y fija su tipo, con un máximo del 30 %."
+    ]
+   },
+   {
+    "overline": "Cuándo",
+    "h2": "Cuándo se paga la plusvalía municipal y cuándo no",
+    "type": "table",
+    "items": [
+     [
+      "Operación",
+      "¿Se paga? Quién y matices"
+     ],
+     [
+      "Venta de tu cuota a un tercero",
+      "Sí. La paga el vendedor, solo por el porcentaje que transmite."
+     ],
+     [
+      "Herencia",
+      "Sí. Cada heredero por la parte que recibe. Muchos ayuntamientos bonifican hasta el 95 % la vivienda habitual del fallecido para familiares directos."
+     ],
+     [
+      "Donación de la cuota",
+      "Sí. La paga el donatario, es decir, quien recibe."
+     ],
+     [
+      "Extinción de condominio con compensación en dinero",
+      "No, en general. Doctrina consolidada: no hay transmisión si el bien es indivisible y uno se lo queda compensando a los demás."
+     ],
+     [
+      "Venta con pérdida de valor",
+      "No. Si acreditas con las escrituras que el suelo no ha ganado valor, no hay hecho imponible."
+     ],
+     [
+      "Transmisión en menos de un año",
+      "Sí, desde la reforma de 2021. Antes no tributaba."
+     ]
+    ],
+    "outro": [
+     "La plusvalía municipal se paga, por tanto, dos veces en una herencia que acaba en venta: una al heredar y otra al vender tu parte. Si entre ambas fechas pasa poco tiempo, la segunda suele ser mínima o cero."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula: método objetivo y ganancia real, con ejemplo",
+    "type": "steps",
+    "intro": [
+     "Desde 2021 puedes elegir el método que te salga más barato. Ejemplo: vendes la mitad de un piso que heredaste hace diez años. Valor catastral total 90.000 euros, de los que 60.000 son suelo."
+    ],
+    "items": [
+     {
+      "t": "Método objetivo",
+      "p": "Suelo de tu cuota: 30.000 euros. Se multiplica por el coeficiente que fija cada año la ley según los años transcurridos, orientativamente 0,10 para diez años. Base: 3.000 euros. Al tipo máximo del 30 %, cuota de 900 euros."
+     },
+     {
+      "t": "Método de ganancia real",
+      "p": "Diferencia entre el valor de venta y el de adquisición de tu cuota, aplicada al porcentaje de suelo. Heredaste valorada en 60.000 euros y vendes por 54.000: no hay ganancia, así que no pagas."
+     },
+     {
+      "t": "Elección",
+      "p": "Puedes pedir el método real si te beneficia. Debes aportar la escritura de herencia y la de venta. En el ejemplo, la plusvalía municipal queda en cero."
+     },
+     {
+      "t": "Comprobación",
+      "p": "El ayuntamiento puede comprobar los valores declarados. Guarda ambas escrituras y la liquidación del impuesto de sucesiones durante al menos cuatro años."
+     }
+    ]
+   },
+   {
+    "overline": "Plazos",
+    "h2": "Plazos para liquidar la plusvalía municipal",
+    "type": "list",
+    "items": [
+     "<strong>Ventas y donaciones.</strong> Treinta días hábiles desde la fecha de la escritura.",
+     "<strong>Herencias.</strong> Seis meses desde el fallecimiento, prorrogables hasta un año si se solicita dentro de los seis primeros.",
+     "<strong>Fuera de plazo.</strong> Recargos del 1 % por mes de retraso, hasta el 15 % pasado el año, además de intereses. Orientativo según la Ley General Tributaria.",
+     "<strong>Prescripción.</strong> Cuatro años desde el fin del plazo de presentación.",
+     "<strong>Devolución.</strong> Si pagaste una plusvalía municipal sin ganancia real, puedes pedir la rectificación dentro de los cuatro años siguientes, salvo liquidaciones ya firmes."
+    ]
+   },
+   {
+    "overline": "Al vender tu cuota",
+    "h2": "Qué significa si vendes tu parte de un piso",
+    "type": "text",
+    "intro": [
+     "Al vender tu cuota, la plusvalía municipal es tuya como vendedor y se liquida en tu ayuntamiento, no en el del comprador. El notario comunica la operación y el ayuntamiento suele enviar la liquidación o esperar tu autoliquidación. Si heredaste hace poco, pide el método real: en la mayoría de los casos sale cero o casi cero.",
+     "Nosotros calculamos la cifra orientativa antes de que aceptes la oferta, junto con el IRPF por la ganancia, para que sepas el importe neto que te queda. Los gastos de notaría y gestión los pagamos nosotros; los impuestos del vendedor son tuyos por ley, salvo pacto expreso."
+    ]
+   },
+   {
+    "overline": "Sin sorpresas",
+    "type": "callout",
+    "items": {
+     "t": "¿Quieres saber cuánto te queda neto?",
+     "p": "Dinos la dirección, tu porcentaje y cuándo adquiriste la cuota. Te damos precio por escrito en 48 horas con una estimación orientativa de la plusvalía municipal.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién paga la plusvalía municipal al vender un proindiviso?",
+    "El vendedor, por el porcentaje que transmite. Si vendes la mitad de un piso, pagas la plusvalía de la mitad del suelo. Si no resides en España, el comprador la retiene y la ingresa como sustituto. Se liquida en el ayuntamiento donde está el inmueble."
+   ],
+   [
+    "¿Se paga plusvalía municipal en una extinción de condominio?",
+    "En general no, cuando el inmueble es indivisible y un copropietario se lo adjudica compensando en dinero a los demás. Se entiende que no hay transmisión, sino especificación de derechos. Sí puede devengarse si hay excesos de adjudicación evitables o varios inmuebles repartidos de forma desigual."
+   ],
+   [
+    "¿Qué pasa si vendo mi parte con pérdidas?",
+    "No se paga plusvalía municipal. Debes acreditar con la escritura de adquisición o herencia y la de venta que el valor del suelo no ha aumentado. Muchos ayuntamientos exigen presentar igualmente la declaración para dejar constancia de la no sujeción."
+   ],
+   [
+    "¿Cuánto tiempo tengo para pagar la plusvalía por herencia?",
+    "Seis meses desde el fallecimiento, con posibilidad de prórroga de otros seis si la pides dentro de ese plazo. Si lo superas, se aplican recargos crecientes. Es conveniente liquidarla junto con el impuesto de sucesiones, porque el Registro suele pedir ambos justificantes para inscribir."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la plusvalía municipal",
+  "related": [
+   [
+    "Impuestos al vender un piso heredado",
+    "/blog/vender-un-piso-heredado-impuestos/"
+   ],
+   [
+    "Impuestos y notario en la extinción de condominio",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Valor catastral",
+    "/diccionario-del-proindiviso/valor-catastral/"
+   ],
+   [
+    "IRPF al vender tu parte",
+    "/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Lo que pagas al ayuntamiento al vender tu parte heredada",
+    "/blog/plusvalia-municipal-al-vender-mi-parte-heredada/"
+   ]
+  ],
+  "cta_title": "Vende tu parte sabiendo lo que te queda",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Plusvalía municipal: cuándo se paga, cálculo y plazos",
+  "meta_desc": "La plusvalía municipal grava el aumento de valor del suelo al vender o heredar. Cuándo se paga, cuándo no, cálculo y plazos. Compramos tu parte.",
+  "focus_kw": "plusvalía municipal",
+  "title_corto": "Plusvalía municipal",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, golden hour light: a quiet Spanish town square with cobblestones, an old town hall facade with arches and a stone fountain, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Plusvalía municipal: plaza empedrada de un pueblo español con ayuntamiento de arcos y fuente"
+ },
+ {
+  "slug": "poder-notarial-para-vender",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Poder notarial para vender: qué es y cómo firmar tu parte sin estar presente",
+  "sub": "Un poder notarial para vender es la escritura por la que autorizas a otra persona a firmar en tu nombre la venta de un inmueble o de tu cuota. Se usa cuando vives lejos, fuera de España o no puedes acudir a la notaría. Nosotros te preparamos el borrador para que el poder sirva a la primera y cobres igual que si firmaras tú.",
+  "checks": [
+   "Qué debe decir el poder",
+   "Desde España o el extranjero",
+   "Coste y revocación"
+  ],
+  "card_title": "¿No puedes ir a la notaría?",
+  "card_text": "Te damos precio en 48 horas y te enviamos el borrador del poder. Firma quien tú elijas por ti.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es un poder notarial para vender y qué debe decir",
+    "type": "text",
+    "intro": [
+     "Además, el poder es un mandato con representación, regulado en los artículos 1709 a 1739 del Código Civil. De hecho, en la práctica, el artículo 1713 exige mandato expreso para enajenar bienes: un poder general «para administrar» no sirve para vender. Por eso el poder notarial para vender se llama poder especial y tiene que mencionar la facultad de vender de forma clara.",
+     "Un buen poder notarial para vender una cuota identifica la finca y tu porcentaje, autoriza a vender por el precio y las condiciones que el apoderado estime o por un precio mínimo que tú fijes, permite cobrar el precio y aceptar la retención del 3 % si eres no residente, y faculta para firmar documentos complementarios y subsanaciones. Conviene añadir la autorización para la autocontratación si el apoderado va a ser también el comprador, porque sin ella el artículo 1459 lo prohíbe."
+    ]
+   },
+   {
+    "overline": "Cómo se otorga",
+    "h2": "Cómo otorgar el poder desde España o desde el extranjero",
+    "type": "steps",
+    "items": [
+     {
+      "t": "En una notaría española",
+      "p": "En concreto, pides cita con tu DNI y el borrador. Asimismo, el notario redacta y firmas en quince minutos. Además, sales con la copia autorizada, que es la que se entrega al apoderado."
+     },
+     {
+      "t": "En un consulado de España",
+      "p": "El cónsul actúa como notario. De hecho, en la práctica, necesitas cita previa, pasaporte o DNI y el texto del poder. En concreto, el documento vale directamente en España sin apostilla. Asimismo, el plazo de cita varía entre una y ocho semanas según el país."
+     },
+     {
+      "t": "Ante notario extranjero",
+      "p": "Firmas ante un notario de tu país y después apostillas el documento con la Apostilla de La Haya. Si no está en español, hace falta traducción jurada. Además, con países fuera del convenio, legalización diplomática."
+     },
+     {
+      "t": "Envío al apoderado",
+      "p": "El original llega a España por mensajería. De hecho, en la práctica, el notario que autorice la venta lo revisa y comprueba que las facultades alcanzan para la operación concreta."
+     }
+    ]
+   },
+   {
+    "overline": "Coste y plazos",
+    "h2": "Cuánto cuesta un poder notarial para vender y cuánto tarda",
+    "type": "table",
+    "intro": [
+     "En concreto, cifras orientativas. Asimismo, la traducción jurada y los envíos pueden encarecer la vía extranjera."
+    ],
+    "items": [
+     [
+      "Vía",
+      "Coste orientativo y plazo"
+     ],
+     [
+      "Notaría española",
+      "Entre 40 y 100 euros con copia. Se firma el mismo día de la cita."
+     ],
+     [
+      "Consulado de España",
+      "Tasa consular de entre 50 y 80 euros. De una a ocho semanas por la cita."
+     ],
+     [
+      "Notario extranjero con apostilla",
+      "Entre 150 y 400 euros sumando notario, apostilla y traducción jurada. De una a tres semanas."
+     ],
+     [
+      "Poder judicial o para pleitos",
+      "No sirve para vender. Si ya tienes uno, necesitas otro poder notarial para vender tu cuota."
+     ]
+    ]
+   },
+   {
+    "overline": "Revocación",
+    "h2": "Hasta cuándo vale y cómo se revoca",
+    "type": "text",
+    "intro": [
+     "Además, el poder dura hasta que lo revoques, hasta que se cumpla el plazo que le hayas puesto o hasta tu fallecimiento, según el artículo 1732 del Código Civil. De hecho, en la práctica, puedes revocarlo en cualquier momento ante cualquier notario, que lo comunica al que lo autorizó y al Registro de poderes revocados. Después debes notificarlo al apoderado para que no lo use.",
+     "Nuestra recomendación: pon plazo, por ejemplo seis meses, y precio mínimo. Así el poder notarial para vender se agota solo y nadie puede usarlo fuera del encargo. Si cambias de opinión antes de la firma, lo revocas y la venta no se produce."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Poder general, especial y poder preventivo: cuál necesitas",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Poder general",
+      "p": "Abarca muchos actos, pero si no menciona expresamente la facultad de enajenar inmuebles, el notario rechazará la venta."
+     },
+     {
+      "t": "Poder especial para vender",
+      "p": "En concreto, el que pide cualquier notaría para una compraventa. Asimismo, identifica la finca y las facultades concretas. Es el que te preparamos."
+     },
+     {
+      "t": "Poder preventivo",
+      "p": "Se otorga pensando en una futura pérdida de capacidad, según la reforma de 2021 del Código Civil. Puede incluir la facultad de vender, pero su finalidad es otra."
+     },
+     {
+      "t": "Autorización privada",
+      "p": "Un papel firmado sin notario no sirve para vender un inmueble. La escritura exige representación acreditada en documento público."
+     }
+    ],
+    "outro": [
+     "Si vendes desde fuera de España, lee también nuestra entrada sobre vender un inmueble siendo no residente y la del modelo 211."
+    ]
+   },
+   {
+    "overline": "Firma sin viajar",
+    "type": "callout",
+    "items": {
+     "t": "¿Necesitas un poder notarial para vender tu parte?",
+     "p": "Compramos tu cuota en toda España. Te enviamos el borrador del poder con las facultades exactas, tú lo firmas donde estés y un apoderado de tu confianza firma la escritura.",
+     "cta": "Pedir precio y borrador del poder"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puedo dar un poder notarial para vender a mi hermano?",
+    "Sí. El apoderado puede ser cualquier persona mayor de edad: un hermano, un amigo o un abogado. Si tu hermano es además el comprador de tu cuota, el poder debe autorizar expresamente la autocontratación, porque de lo contrario el notario no podrá autorizar la escritura."
+   ],
+   [
+    "¿Cuánto cuesta un poder notarial para vender un piso?",
+    "En una notaría española, entre 40 y 100 euros con copia, de forma orientativa. En un consulado, una tasa similar. Ante notario extranjero, entre 150 y 400 euros con apostilla y traducción jurada. En nuestras compras el coste del poder es el único gasto de la operación que asumes tú."
+   ],
+   [
+    "¿Vale un poder hecho en el extranjero?",
+    "Sí, si se firma ante notario de tu país, lleva la Apostilla de La Haya y se traduce al español por traductor jurado cuando no esté en castellano. El notario español comprueba que el documento es equivalente a una escritura pública y que las facultades son suficientes."
+   ],
+   [
+    "¿Cómo anulo un poder que ya he firmado?",
+    "Acude a cualquier notario y otorga una escritura de revocación. El notario la comunica al que autorizó el poder y queda registrada. Después, avisa por escrito al apoderado y, si es posible, recupera la copia autorizada. Desde la notificación, cualquier uso del poder es ineficaz."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el poder notarial para vender",
+  "related": [
+   [
+    "Vender un inmueble siendo no residente",
+    "/diccionario-del-proindiviso/vender-un-inmueble-siendo-no-residente/"
+   ],
+   [
+    "Vender tu parte de la herencia desde el extranjero",
+    "/blog/vender-parte-herencia-desde-el-extranjero/"
+   ],
+   [
+    "Notario",
+    "/diccionario-del-proindiviso/notario/"
+   ],
+   [
+    "Escritura pública",
+    "/diccionario-del-proindiviso/escritura-publica/"
+   ],
+   [
+    "Documentos para vender tu parte",
+    "/blog/documentos-para-vender-tu-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Vende tu parte sin pisar la notaría",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma con poder en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Poder notarial para vender tu parte: qué debe decir y coste",
+  "meta_desc": "El poder notarial para vender permite que otra persona firme por ti la venta de tu cuota. Qué debe incluir, cómo otorgarlo desde fuera, coste y revocación.",
+  "focus_kw": "poder notarial para vender",
+  "title_corto": "Poder notarial",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural light: the stone staircase and iron handrail of an old Spanish apartment building entrance hall, patterned hydraulic tiles on the floor, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Poder notarial para vender: escalera de piedra y baldosas hidráulicas en un portal antiguo"
+ },
+ {
+  "slug": "precario",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Precario: qué es y cómo se acaba la ocupación sin título de la casa heredada",
+  "sub": "El precario es la situación de quien ocupa un inmueble sin pagar renta y sin un título que le dé derecho a ello, solo por tolerancia del dueño. Es el caso típico del familiar que sigue viviendo en la casa de los padres fallecidos. Si quieres salir de esa situación sin pleito, compramos tu parte tal y como está.",
+  "checks": [
+   "Doctrina del Tribunal Supremo",
+   "Desahucio paso a paso",
+   "Compramos con ocupante"
+  ],
+  "card_title": "¿Alguien vive en la casa y no paga?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, con la ocupación tal y como está. Sin juicio por tu parte.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es el precario y en qué se diferencia de un alquiler",
+    "type": "text",
+    "intro": [
+     "El Código Civil no define el precario. Es una construcción de la doctrina del Tribunal Supremo a partir del artículo 1750, que regula el préstamo de uso sin plazo. Hay precario cuando alguien posee un inmueble sin título, sin pagar renta y por mera tolerancia o liberalidad del propietario. El que ocupa se llama precarista.",
+     "La diferencia con el alquiler es el título y la renta. El inquilino tiene un contrato y paga; el precarista no tiene nada que oponer al dueño cuando este le pide la casa. Por eso la Ley de Enjuiciamiento Civil, en su artículo 250.1.2.º, permite recuperar la finca cedida en precario por un juicio verbal, más rápido que un pleito ordinario. Si el ocupante paga algo con regularidad, aunque sea poco, el precario puede convertirse en arrendamiento y el camino cambia."
+    ]
+   },
+   {
+    "overline": "En la casa heredada",
+    "h2": "El precario en una casa heredada: cuándo hay y cuándo no",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Un hermano copropietario vive en la casa",
+      "p": "No es precario en sentido estricto: usa la cosa común, artículo 394 del Código Civil. La vía es reclamar una compensación por el uso exclusivo o pedir la división de cosa común. Doctrina del Tribunal Supremo: el comunero no es precarista frente a los demás salvo que incumpla un acuerdo mayoritario sobre el uso.",
+      "url": "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/",
+      "cta": "Compensación por uso →"
+     },
+     {
+      "t": "Un familiar que no es heredero",
+      "p": "La pareja del hermano fallecido, un sobrino, un cuñado. Ocupan sin título ni renta: precario. Los herederos pueden pedir la entrega."
+     },
+     {
+      "t": "Un exheredero tras la partición",
+      "p": "Si la casa se adjudicó a otro hermano y el que vivía allí sigue, su situación pasa a ser de precario desde la adjudicación."
+     },
+     {
+      "t": "Un excónyuge sin atribución de uso",
+      "p": "Si el divorcio no le atribuyó el uso de la vivienda, o la atribución ha caducado, el que se queda sin título puede estar en precario frente al dueño."
+     }
+    ]
+   },
+   {
+    "overline": "Cómo se acaba",
+    "h2": "Cómo se acaba el precario: requerimiento y desahucio",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Requerimiento fehaciente",
+      "p": "Un burofax con acuse de recibo pidiendo la entrega de la vivienda en un plazo, por ejemplo treinta días. Desde ese momento se rompe la tolerancia y queda prueba de ello."
+     },
+     {
+      "t": "Demanda de desahucio por precario",
+      "p": "Juicio verbal ante el juzgado de primera instancia del lugar de la finca. Hacen falta abogado y procurador. Cualquier copropietario puede demandar en beneficio de la comunidad, según doctrina del Tribunal Supremo."
+     },
+     {
+      "t": "Vista y sentencia",
+      "p": "El ocupante solo puede defenderse probando un título: contrato, derecho de uso, pago de renta. Si no lo tiene, la sentencia ordena la entrega. Plazo orientativo total: de seis a dieciocho meses según el juzgado."
+     },
+     {
+      "t": "Lanzamiento",
+      "p": "Si no se marcha voluntariamente, se fija fecha de lanzamiento con la comisión judicial. Coste total del procedimiento, orientativo: entre 1.500 y 4.000 euros entre abogado, procurador y gastos."
+     }
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Qué significa si quieres vender tu parte",
+    "type": "text",
+    "intro": [
+     "Puedes vender tu cuota con alguien viviendo en la casa en precario. El artículo 399 del Código Civil no exige que el inmueble esté vacío. El comprador adquiere tu porcentaje con la situación de ocupación tal cual, y es él quien decide si negocia con el ocupante, reclama una compensación o inicia el desahucio.",
+     "Esa situación se refleja en el precio. Una cuota de un piso vacío se paga, de forma orientativa, entre el 60 % y el 70 % de su valor proporcional; con un ocupante sin título, entre el 40 % y el 55 %. Para muchos vendedores compensa, porque evitan un pleito contra un familiar y cobran en semanas. Nosotros compramos cuotas con ocupante familiar en toda España."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Diferencias con la okupación, el comodato y el alquiler",
+    "type": "table",
+    "items": [
+     [
+      "Figura",
+      "Qué la distingue del precario"
+     ],
+     [
+      "Okupación",
+      "Entrada sin consentimiento del dueño, a menudo con fuerza. Puede ser delito. El precarista entró con permiso o por tolerancia."
+     ],
+     [
+      "Comodato",
+      "Préstamo de uso con plazo o finalidad pactados. El dueño no puede reclamar hasta que termine. Sin plazo, se convierte en precario, artículo 1750."
+     ],
+     [
+      "Arrendamiento",
+      "Hay contrato y renta. El inquilino tiene los derechos de la Ley de Arrendamientos Urbanos y plazos mínimos de duración."
+     ],
+     [
+      "Uso de la vivienda familiar",
+      "Atribuido por sentencia de divorcio, artículo 96. Es un título válido mientras dure, aunque no se pague renta."
+     ]
+    ],
+    "outro": [
+     "Si el ocupante es okupa o inquilino, lee nuestra guía sobre vender un proindiviso con inquilino u okupa. El precio y el procedimiento cambian."
+    ]
+   },
+   {
+    "overline": "Sin pleito",
+    "type": "callout",
+    "items": {
+     "t": "¿Un familiar ocupa la casa en precario?",
+     "p": "Compramos tu parte sin que tengas que demandar a nadie. Dinos quién vive en la casa y tu porcentaje y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Mi hermano que vive en la casa de mis padres está en precario?",
+    "Si es copropietario, no en sentido estricto: tiene derecho a usar la cosa común. Puedes reclamarle una compensación por el uso exclusivo o pedir la división de cosa común. Si no es heredero ni copropietario y no paga nada, sí está en precario y cabe el desahucio."
+   ],
+   [
+    "¿Cuánto tarda un desahucio por precario?",
+    "De forma orientativa, entre seis y dieciocho meses desde la demanda hasta el lanzamiento, según la carga de trabajo del juzgado y si el ocupante recurre. Antes conviene enviar un requerimiento por burofax. El coste total suele estar entre 1.500 y 4.000 euros."
+   ],
+   [
+    "¿Puedo cambiar la cerradura si alguien está en precario?",
+    "No. Aunque no tenga título, el ocupante tiene la posesión y la ley la protege: cambiar la cerradura o cortar suministros puede ser un despojo con consecuencias civiles e incluso penales. La vía correcta es el requerimiento y, si no se marcha, el desahucio judicial."
+   ],
+   [
+    "¿Puedo vender mi parte si hay alguien viviendo en precario?",
+    "Sí. Vendes tu cuota con la ocupación tal y como está y el comprador asume la situación. El precio es menor que con el piso vacío, orientativamente entre el 40 % y el 55 % del valor proporcional, pero evitas el pleito y cobras en semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el precario",
+  "related": [
+   [
+    "Desahucio por precario de un familiar",
+    "/blog/desahucio-por-precario-de-un-familiar-casa-heredada/"
+   ],
+   [
+    "Mi hermano vive en la casa de mis padres",
+    "/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/"
+   ],
+   [
+    "Compensación por uso exclusivo",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "Vender un proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Posesión",
+    "/diccionario-del-proindiviso/posesion/"
+   ],
+   [
+    "Renta antigua heredada",
+    "/blog/piso-heredado-con-inquilino-de-renta-antigua-vender-mi-parte/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque la casa esté ocupada",
+  "cta_text": "Compramos tu cuota con fondos propios y con el ocupante dentro. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Precario en una casa heredada: qué es y cómo se acaba",
+  "meta_desc": "El precario es ocupar una vivienda sin título ni renta, por tolerancia del dueño. Cuándo lo hay en una casa heredada, cómo se acaba y cómo vender tu parte.",
+  "focus_kw": "precario",
+  "title_corto": "Precario",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, late afternoon natural light: the facade of an old Spanish village house with a weathered wooden door, half-closed green shutters and a worn stone step, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Precario: fachada de una casa de pueblo con puerta de madera y contraventanas verdes"
+ },
+ {
+  "slug": "propiedad-horizontal",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Propiedad horizontal: qué es y en qué se diferencia de un proindiviso",
+  "sub": "La propiedad horizontal es el régimen jurídico de los edificios divididos en pisos y locales: cada dueño tiene su piso en exclusiva y una cuota sobre los elementos comunes, como el portal, la escalera o el tejado. No es un proindiviso, donde varias personas comparten un mismo piso sin dividir. Las dos figuras suelen convivir, y nosotros compramos cuotas de pisos dentro de comunidades de propietarios.",
+  "checks": [
+   "Artículo 396 y Ley 49/1960",
+   "Tabla comparativa",
+   "Qué pide el notario"
+  ],
+  "card_title": "¿Compartes un piso con otros dueños?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. Nos ocupamos del certificado de la comunidad y de la notaría.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es la propiedad horizontal y qué ley la regula",
+    "type": "text",
+    "intro": [
+     "La propiedad horizontal está regulada en el artículo 396 del Código Civil y en la Ley 49/1960, de Propiedad Horizontal. Nace cuando un edificio se divide jurídicamente en fincas independientes, los pisos y locales, mediante una escritura llamada título constitutivo. Además, cada finca tiene un dueño exclusivo y una cuota de participación que mide su peso en el edificio.",
+     "Esa cuota sirve para repartir los gastos comunes y para votar en la junta. Los elementos comunes, como la estructura, la fachada, el ascensor o la cubierta, pertenecen a todos los propietarios de forma inseparable de sus pisos: nadie puede vender su parte del ascensor ni pedir que se divida. En la propiedad horizontal la comunidad de propietarios también tiene presidente, junta y, a menudo, administrador de fincas."
+    ]
+   },
+   {
+    "overline": "Diferencias",
+    "h2": "Propiedad horizontal frente a proindiviso: tabla comparativa",
+    "type": "table",
+    "items": [
+     [
+      "Aspecto",
+      "Propiedad horizontal frente a proindiviso"
+     ],
+     [
+      "Qué se comparte",
+      "En la propiedad horizontal, solo los elementos comunes del edificio. En el proindiviso, en cambio, el piso entero, sin que nadie tenga una habitación propia."
+     ],
+     [
+      "Qué tiene cada uno",
+      "Un piso exclusivo más una cuota de participación, frente a una cuota indivisa ideal sobre toda la vivienda."
+     ],
+     [
+      "Cómo se decide",
+      "Junta de propietarios con mayorías de la Ley 49/1960, frente a mayoría de cuotas para administrar y unanimidad para disponer, artículos 397 y 398 del Código Civil."
+     ],
+     [
+      "Cómo se sale",
+      "Vendiendo el piso; no cabe pedir la división de los elementos comunes. En el proindiviso, cualquier comunero puede pedir la división en cualquier momento, artículo 400."
+     ],
+     [
+      "Quién paga los gastos",
+      "Cada propietario según su cuota de participación. En el proindiviso, cada comunero según su cuota indivisa, artículo 393."
+     ]
+    ]
+   },
+   {
+    "overline": "Conviven",
+    "h2": "Cuando las dos figuras conviven en el mismo piso",
+    "type": "text",
+    "intro": [
+     "Es lo más habitual, por ejemplo, en una herencia. Tres hermanos heredan el tercero B de un edificio de doce viviendas. El piso tiene una cuota de participación del 8 % en la propiedad horizontal del edificio y, a la vez, está en proindiviso entre los tres hermanos al 33,33 % cada uno. Son dos planos distintos: hacia fuera, el piso es un vecino más; hacia dentro, en cambio, tres personas comparten ese vecino.",
+     "Las consecuencias prácticas son dos. Primera: la comunidad de propietarios puede reclamar las cuotas impagadas a cualquiera de los tres hermanos, porque frente a ella responden de forma conjunta por el piso. Segunda: en la junta el piso tiene un solo voto, así que los tres deben designar a un representante, artículo 15 de la Ley de Propiedad Horizontal. Si uno paga la comunidad de los otros, puede reclamársela después por cuotas."
+    ]
+   },
+   {
+    "overline": "Al vender tu parte",
+    "h2": "Qué significa la propiedad horizontal si vendes tu parte",
+    "type": "list",
+    "intro": [
+     "Vender una cuota de un piso en propiedad horizontal añade tres comprobaciones a la escritura. Nosotros las gestionamos, pero conviene conocerlas."
+    ],
+    "items": [
+     "<strong>Certificado de deudas con la comunidad.</strong> Lo emite el secretario con el visto bueno del presidente y lo exige el notario, artículo 9.1.e de la Ley de Propiedad Horizontal. El comprador puede renunciar a él, pero rara vez lo hace.",
+     "<strong>Afección real del piso.</strong> El piso responde de las cuotas de comunidad del año en curso y de los tres anteriores, aunque cambie de dueño. Las deudas antiguas las paga quien era dueño cuando se devengaron.",
+     "<strong>Derramas aprobadas.</strong> Las ya acordadas en junta se pagan según quién sea propietario cuando venzan, salvo pacto. Además, hay que declararlas en la escritura.",
+     "<strong>Estatutos y normas.</strong> Pueden limitar usos, como el alquiler turístico, pero no pueden impedir que vendas tu cuota. La comunidad de propietarios no tiene derecho de tanteo.",
+     "<strong>Cuota de participación.</strong> No cambia por vender tu parte, es decir, el piso sigue pesando lo mismo en el edificio."
+    ]
+   },
+   {
+    "overline": "Términos parecidos",
+    "h2": "Términos que se confunden: cuota de participación y cuota indivisa",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Cuota de participación",
+      "p": "El porcentaje de cada piso en el edificio dentro de la propiedad horizontal. Fija, por tanto, gastos y votos. Figura en el título constitutivo y también en la nota simple.",
+      "url": "/diccionario-del-proindiviso/cuota-de-participacion/",
+      "cta": "Cuota de participación →"
+     },
+     {
+      "t": "Cuota indivisa",
+      "p": "El porcentaje de cada dueño sobre un mismo piso en proindiviso. Es lo que compramos: la mitad, un tercio, el 25 % de la vivienda.",
+      "url": "/diccionario-del-proindiviso/cuota-indivisa/",
+      "cta": "Cuota indivisa →"
+     },
+     {
+      "t": "Condominio",
+      "p": "Sinónimo de proindiviso. Varios dueños sobre un mismo bien sin dividir. No confundir con la comunidad de propietarios del edificio.",
+      "url": "/diccionario-del-proindiviso/condominio/",
+      "cta": "Condominio →"
+     },
+     {
+      "t": "Comunidad de propietarios",
+      "p": "El órgano que gestiona el edificio en propiedad horizontal. No es dueña de nada; de hecho, lo son los propietarios de cada piso."
+     }
+    ]
+   },
+   {
+    "overline": "Tu cuota del piso",
+    "type": "callout",
+    "items": {
+     "t": "¿Quieres vender tu parte de un piso?",
+     "p": "Compramos cuotas indivisas de viviendas en edificios de toda España. Precio por escrito en 48 horas, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Un piso en propiedad horizontal puede estar en proindiviso?",
+    "Sí, y es muy frecuente tras una herencia o un divorcio. El piso es una finca independiente dentro del edificio y, a la vez, pertenece a varias personas por cuotas indivisas. Hacia la comunidad de propietarios es un solo vecino; entre los dueños rige el régimen de la comunidad de bienes."
+   ],
+   [
+    "¿Quién paga la comunidad si somos tres dueños de un piso?",
+    "Los tres, en proporción a sus cuotas indivisas, según el artículo 393 del Código Civil. Frente a la comunidad de propietarios, sin embargo, responde el piso entero, así que puede reclamar la totalidad a cualquiera de los tres. Quien pague de más puede repetir contra los demás."
+   ],
+   [
+    "¿Se puede dividir un piso en dos para acabar con el proindiviso?",
+    "Solo si el ayuntamiento concede licencia de división, la normativa urbanística permite viviendas de esa superficie y la junta de propietarios aprueba la modificación del título constitutivo. En la práctica es caro y lento, por lo que casi siempre se opta por vender el piso o una cuota."
+   ],
+   [
+    "¿La comunidad de propietarios puede impedir que venda mi parte?",
+    "No. Ni los estatutos ni la junta pueden prohibir la venta de un piso o de una cuota, ni la comunidad tiene derecho de tanteo o retracto. Lo único que exige la ley es el certificado de estar al corriente de pago para la escritura, que el comprador puede dispensar."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la propiedad horizontal",
+  "related": [
+   [
+    "Cuota de participación",
+    "/diccionario-del-proindiviso/cuota-de-participacion/"
+   ],
+   [
+    "Condominio",
+    "/diccionario-del-proindiviso/condominio/"
+   ],
+   [
+    "Proindiviso, condominio y comunidad de bienes",
+    "/blog/proindiviso-condominio-comunidad-de-bienes-diferencias/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Voto en la junta",
+    "/blog/proindiviso-quien-vota-en-la-junta-de-propietarios/"
+   ],
+   [
+    "Parte de un edificio",
+    "/blog/vender-mi-parte-de-un-edificio-heredado/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota del piso sin pedir permiso a nadie",
+  "cta_text": "Compramos tu parte con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Propiedad horizontal: qué es y diferencias con el proindiviso",
+  "meta_desc": "La propiedad horizontal regula los edificios divididos en pisos. Diferencias con el proindiviso, cuándo conviven y qué pasa al vender tu parte del piso.",
+  "focus_kw": "propiedad horizontal",
+  "title_corto": "Propiedad horizontal",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, bright natural light: an interior courtyard of a Spanish apartment block seen from below, rows of balconies, hanging plants and a strip of blue sky above, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Propiedad horizontal: patio interior de un edificio de viviendas con balcones y plantas"
+ },
+ {
+  "slug": "posesion",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Posesión: qué es, en qué se diferencia de la propiedad y qué pasa en un proindiviso",
+  "sub": "La posesión es la tenencia de hecho de una cosa o el disfrute de un derecho, con independencia de quién sea el dueño. Se puede ser dueño sin poseer: el hermano que heredó medio piso y nunca ha entrado en él. Y se puede poseer sin ser dueño. Si eres dueño de una parte pero no la disfrutas, puedes venderla igual: nosotros la compramos.",
+  "checks": [
+   "Artículos 430 a 466",
+   "Interdictos y cerraduras",
+   "Usucapión entre hermanos"
+  ],
+  "card_title": "¿Eres dueño pero no tienes la llave?",
+  "card_text": "Te damos precio por tu cuota en 48 horas. No necesitas entrar en la casa ni el permiso de quien la ocupa.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es la posesión según el Código Civil",
+    "type": "text",
+    "intro": [
+     "El Código Civil regula la posesión en los artículos 430 a 466. El artículo 430 distingue dos clases. La posesión natural es la simple tenencia de una cosa. La posesión civil es esa tenencia unida a la intención de hacerla propia. Además, el artículo 432 separa al que posee como dueño del que posee en nombre de otro, como un inquilino.",
+     "Dos reglas protegen al poseedor. El artículo 446 dice que todo poseedor tiene derecho a ser respetado en su posesión. Si es inquietado, debe ser amparado o restituido por los medios que las leyes establecen. Y el artículo 441 prohíbe adquirir la posesión por la fuerza mientras haya un poseedor que se oponga. En resumen, la ley protege el hecho de tener, aunque quien tiene no sea el dueño."
+    ]
+   },
+   {
+    "overline": "En un proindiviso",
+    "h2": "La posesión de un copropietario: quién tiene la casa",
+    "type": "text",
+    "intro": [
+     "El artículo 445 establece que la posesión como hecho no puede reconocerse en dos personas distintas, salvo en caso de indivisión. Es decir, en un proindiviso todos los comuneros son coposeedores. El hermano que vive en la casa posee para sí y, a la vez, en nombre de la comunidad. Los demás conservan su posesión aunque no entren nunca.",
+     "Por eso cambiar la cerradura o impedir el acceso a un copropietario es un despojo de su posesión. Da igual que quien lo haga sea también dueño. La respuesta no es forzar la puerta, sino reclamar. Las vías son tres: la compensación por el uso exclusivo, la acción de división de cosa común o el interdicto. Este último, solo si el despojo es reciente."
+    ]
+   },
+   {
+    "overline": "Defensa",
+    "h2": "Cambio de cerradura e interdictos: cómo se defiende la posesión",
+    "type": "steps",
+    "intro": [
+     "Ejemplo: dos hermanas heredan al 50 % la casa de su madre. Una cambia la cerradura y no entrega copia. La otra sigue siendo dueña y coposeedora."
+    ],
+    "items": [
+     {
+      "t": "Requerimiento",
+      "p": "Burofax exigiendo una copia de la llave y recordando que la vivienda es común. Deja prueba de la fecha del despojo."
+     },
+     {
+      "t": "Juicio verbal de tutela de la posesión",
+      "p": "Es el antiguo interdicto, artículo 250.1.4.º de la Ley de Enjuiciamiento Civil. Debe presentarse antes de un año desde el despojo, artículo 460.4.º del Código Civil. No se discute quién es dueño, solo quién poseía y quién fue despojado."
+     },
+     {
+      "t": "Sentencia",
+      "p": "Ordena reponer en la posesión: entregar llaves o permitir el acceso. Plazo orientativo, de cuatro a doce meses. Hacen falta abogado y procurador."
+     },
+     {
+      "t": "Alternativas de fondo",
+      "p": "Si lo que quieres es cobrar o salir, el interdicto no resuelve. Entonces compensa pedir la división de cosa común o vender tu cuota.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "División de cosa común →"
+     }
+    ]
+   },
+   {
+    "overline": "Usucapión",
+    "h2": "¿Puede un hermano quedarse la casa por vivir en ella?",
+    "type": "text",
+    "intro": [
+     "Es la pregunta más repetida. La usucapión permite adquirir la propiedad por posesión continuada. Son diez años con justo título y buena fe, o treinta sin ellos, artículos 1957 y 1959 del Código Civil. Pero el artículo 1941 exige que la posesión sea en concepto de dueño, pública, pacífica y no interrumpida.",
+     "Un copropietario que vive en la casa común posee en nombre de todos, no como dueño exclusivo. Por tanto, no usucape frente a sus hermanos aunque pasen treinta años. Solo cambia si invierte el concepto posesorio de forma clara e inequívoca. Por ejemplo, negando por escrito el derecho de los demás y actuando como único dueño durante todo el plazo. Pagar el IBI y las reformas no basta. Es doctrina reiterada del Tribunal Supremo."
+    ]
+   },
+   {
+    "overline": "Vender",
+    "h2": "Qué significa si quieres vender tu parte",
+    "type": "text",
+    "intro": [
+     "Para vender tu cuota no necesitas tener la posesión material. Transmites la propiedad, y la posesión sigue en manos de quien ocupa, con la misma situación jurídica. El comprador adquiere tu parte y tus derechos frente al ocupante: compensación por uso, división o interdicto, según el caso.",
+     "El precio recoge esa realidad. Una cuota de vivienda ocupada por otro comunero se paga, orientativamente, entre el 40 % y el 55 % del valor proporcional. Una vacía, entre el 60 % y el 70 %. Nosotros compramos sin que tengas la llave y sin visitar el interior si no es posible. El ocupante no tiene que firmar nada."
+    ]
+   },
+   {
+    "overline": "Sin la llave",
+    "type": "callout",
+    "items": {
+     "t": "¿Dueño sin posesión de la casa?",
+     "p": "Compramos tu cuota tal y como está. Dinos la dirección, tu porcentaje y quién vive allí y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede ser dueño de una casa sin tener la posesión?",
+    "Sí. La propiedad es el derecho y la posesión es el hecho de tener la cosa. Un heredero que nunca ha entrado en el piso es dueño de su cuota desde la aceptación de la herencia. Puede venderla, hipotecarla o pedir la división sin haber pisado la vivienda."
+   ],
+   [
+    "¿Puedo entrar en la casa de mis padres si mi hermano cambió la cerradura?",
+    "Tienes derecho a acceder como coposeedor, pero no a forzar la entrada, porque el Código Civil prohíbe tomar la posesión por la fuerza. Envía un requerimiento y, si no te da llave, pide la tutela judicial de la posesión en el plazo de un año o reclama una compensación por el uso exclusivo."
+   ],
+   [
+    "¿Cuánto tiempo tengo para reclamar la posesión?",
+    "Un año desde el despojo para el juicio verbal de tutela sumaria de la posesión, el antiguo interdicto. Pasado ese plazo no pierdes la propiedad ni tu cuota, pero tendrás que acudir a otras acciones más largas, como la división de cosa común o la reclamación de compensación por uso."
+   ],
+   [
+    "¿Mi hermano puede quedarse la casa por usucapión si lleva veinte años viviendo allí?",
+    "En principio no. El comunero posee en nombre de todos, no como dueño exclusivo, así que su posesión no sirve para usucapir frente a los demás herederos. Solo podría si demostrara que negó de forma pública e inequívoca el derecho de sus hermanos y se comportó como único dueño durante treinta años."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la posesión",
+  "related": [
+   [
+    "Usucapión",
+    "/diccionario-del-proindiviso/usucapion/"
+   ],
+   [
+    "Precario",
+    "/diccionario-del-proindiviso/precario/"
+   ],
+   [
+    "Compensación por uso exclusivo",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "Mi hermano vive en la casa de mis padres",
+    "/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/"
+   ],
+   [
+    "Vender un proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ],
+   [
+    "Usucapión entre hermanos",
+    "/blog/mi-hermano-dice-que-la-casa-es-suya-por-usucapion/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque no tengas la llave",
+  "cta_text": "Compramos tu cuota con fondos propios, con la vivienda ocupada por otro comunero. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Posesión: qué es, diferencia con la propiedad y proindiviso",
+  "meta_desc": "La posesión es tener la cosa de hecho, sea o no tuya. Qué dice el Código Civil, cómo se defiende en un proindiviso y si un hermano puede usucapir la casa.",
+  "focus_kw": "posesión",
+  "title_corto": "Posesión",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft natural light: a close view of an old wooden apartment door with a newly installed brass lock and a worn doorknob, pale plaster wall of a Spanish hallway, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Posesión: puerta antigua de madera con cerradura nueva de latón en un rellano"
+ },
+ {
+  "slug": "registro-de-la-propiedad",
+  "kind": "page",
+  "category": null,
+  "kicker": "Diccionario del proindiviso",
+  "h1": "Registro de la Propiedad: qué es y cuándo acudir para vender o heredar tu parte",
+  "sub": "El Registro de la Propiedad es la oficina pública donde se inscriben la titularidad y las cargas de cada finca, con efectos frente a todos. Lo que dice el Registro se presume cierto y protege a quien compra confiando en él. Antes de vender tu cuota conviene que esté inscrita a tu nombre; nosotros lo comprobamos con la nota simple y te decimos si falta algo.",
+  "checks": [
+   "Ley Hipotecaria explicada",
+   "Nota simple y certificación",
+   "Qué hacer si no consta"
+  ],
+  "card_title": "¿Tu parte consta en el Registro?",
+  "card_text": "Pedimos la nota simple por ti y te damos precio en 48 horas. Si falta inscribir, te decimos cómo.",
+  "sections": [
+   {
+    "overline": "Definición y base legal",
+    "h2": "Qué es el Registro de la Propiedad y qué inscribe",
+    "type": "text",
+    "intro": [
+     "El Registro de la Propiedad está regulado en la Ley Hipotecaria y su Reglamento. Cada inmueble tiene un folio propio, la finca registral, donde se anotan por orden su descripción, sus dueños y sus cargas. Al frente de cada oficina hay un registrador, que califica la legalidad de los documentos antes de inscribirlos.",
+     "Sus efectos se resumen en tres principios. Legitimación, artículo 38: se presume que el titular inscrito es el dueño. Fe pública registral, artículo 34: quien compra de buena fe a un titular inscrito queda protegido aunque luego aparezca un dueño anterior. Y prioridad, artículo 17: el primero que inscribe gana frente a los posteriores. Por eso una cuota inscrita a tu nombre vale más y se vende más rápido que una que solo consta en papeles privados. Inscribe el Registro de la Propiedad el dominio, las cuotas indivisas, las hipotecas, los embargos, los usufructos, las servidumbres y las afecciones fiscales."
+    ]
+   },
+   {
+    "overline": "Documentos",
+    "h2": "Nota simple y certificación: qué pide cada una",
+    "type": "table",
+    "items": [
+     [
+      "Documento",
+      "Para qué sirve, cuánto cuesta y cuánto tarda"
+     ],
+     [
+      "Nota simple",
+      "Resumen informativo de titulares, cuotas y cargas. Unos 10 euros con IVA, orientativo, en la web de los registradores. Llega en 24 a 48 horas. Es lo que pedimos antes de dar precio."
+     ],
+     [
+      "Nota de localización",
+      "Busca todas las fincas inscritas a nombre de una persona en España. Útil en herencias cuando no se sabe qué dejó el fallecido."
+     ],
+     [
+      "Certificación registral",
+      "Documento con fe pública firmado por el registrador. Entre 30 y 50 euros, orientativo. Necesaria en juicios, subastas y algunos expedientes notariales."
+     ],
+     [
+      "Consulta por referencia catastral",
+      "Permite localizar la finca registral partiendo de los datos del Catastro cuando no se conoce el número de finca."
+     ]
+    ]
+   },
+   {
+    "overline": "Cómo se lee",
+    "h2": "Cómo se lee la hoja de una finca en el Registro de la Propiedad",
+    "type": "list",
+    "items": [
+     "<strong>Descripción.</strong> Tipo de finca, superficie, linderos, cuota de participación en el edificio y código registral único.",
+     "<strong>Titularidad.</strong> Nombre de cada dueño y su cuota: «una mitad indivisa», «una tercera parte indivisa». También el carácter privativo o ganancial y el título por el que adquirió, como herencia o compraventa.",
+     "<strong>Cargas.</strong> Hipotecas con su importe, embargos, afecciones fiscales, servidumbres y condiciones resolutorias, por orden de antigüedad.",
+     "<strong>Asientos pendientes.</strong> Documentos presentados y todavía no inscritos. Un asiento de presentación tiene prioridad aunque la inscripción tarde semanas."
+    ],
+    "outro": [
+     "Si algún punto no cuadra con lo que crees, revisa nuestra guía sobre cómo pedir y leer la nota simple y la entrada sobre cargas registrales del diccionario."
+    ]
+   },
+   {
+    "overline": "Cuándo acudir",
+    "h2": "Cuándo acudir al Registro de la Propiedad al heredar o vender",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Al heredar",
+      "p": "Inscribe la escritura de adjudicación de herencia con el impuesto de sucesiones y la plusvalía municipal liquidados. Desde entonces tu cuota consta a tu nombre. Coste orientativo para una cuota de 60.000 euros: entre 150 y 300 euros de arancel."
+     },
+     {
+      "t": "Antes de vender",
+      "p": "Pide una nota simple actualizada. Comprueba que constas como titular, que la cuota es la que crees y que no hay cargas que desconozcas."
+     },
+     {
+      "t": "El día de la firma",
+      "p": "El notario envía copia telemática al Registro de la Propiedad y se abre un asiento de presentación con sesenta días de vigencia. Nadie puede inscribir nada en medio."
+     },
+     {
+      "t": "Después de la venta",
+      "p": "El comprador inscribe su cuota en unos quince días hábiles. Tú ya no figuras como dueño y dejas de responder del IBI y de la comunidad futuros."
+     }
+    ]
+   },
+   {
+    "overline": "Si no está inscrita",
+    "h2": "Qué pasa si tu parte no está inscrita",
+    "type": "text",
+    "intro": [
+     "Puedes vender igual, porque la propiedad existe aunque no esté inscrita. Sin embargo, el comprador exigirá el tracto sucesivo del artículo 20 de la Ley Hipotecaria: para inscribir su compra, antes tienes que constar tú. Si heredaste y nunca inscribiste, el camino es inscribir primero la herencia. Si la finca no está inmatriculada o el último titular inscrito falleció hace décadas, hace falta un expediente de dominio ante notario.",
+     "En la práctica, podemos comprar igualmente y resolver la inscripción previa dentro del mismo proceso. Lo valoramos caso por caso y lo reflejamos en la oferta."
+    ]
+   },
+   {
+    "overline": "Comprobamos por ti",
+    "type": "callout",
+    "items": {
+     "t": "¿No sabes qué dice el Registro de la Propiedad de tu parte?",
+     "p": "Dinos la dirección del inmueble. Pedimos la nota simple, revisamos titularidad y cargas y te damos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatorio inscribir una herencia en el Registro de la Propiedad?",
+    "No es obligatorio, pero sí necesario en la práctica. Sin inscripción no puedes vender un bien concreto con garantías, hipotecarlo ni defenderte frente a embargos de deudas ajenas. Además, el comprador necesita que constes como titular para inscribir su propia compra."
+   ],
+   [
+    "¿Cuánto cuesta inscribir mi parte de un piso?",
+    "El arancel registral depende del valor de lo inscrito. Para una cuota de entre 30.000 y 90.000 euros, entre 100 y 350 euros, orientativo, más la gestoría si la encargas. Antes hay que tener liquidados el impuesto de sucesiones o el de transmisiones y la plusvalía municipal."
+   ],
+   [
+    "¿Puedo vender mi cuota si no está inscrita en el Registro?",
+    "Sí, la venta es válida entre las partes. El problema es la inscripción del comprador, que exige que constes tú antes. Por eso lo habitual es inscribir la herencia o el título previo y vender después, o pactar que el comprador asume esa gestión y lo refleja en el precio."
+   ],
+   [
+    "¿Qué diferencia hay entre Registro de la Propiedad y Catastro?",
+    "El Registro de la Propiedad dice quién es el dueño y qué cargas hay, con efectos jurídicos. El Catastro es un inventario administrativo de los inmuebles para fines fiscales, con superficie y valor catastral. Pueden no coincidir, y cuando ocurre manda el Registro en la titularidad y el Catastro en los impuestos."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el Registro de la Propiedad",
+  "related": [
+   [
+    "Nota simple: cómo pedirla y leerla",
+    "/blog/nota-simple-como-pedirla-y-leerla/"
+   ],
+   [
+    "Inscripción registral",
+    "/diccionario-del-proindiviso/inscripcion-registral/"
+   ],
+   [
+    "Tracto sucesivo",
+    "/diccionario-del-proindiviso/tracto-sucesivo/"
+   ],
+   [
+    "Cargas registrales",
+    "/diccionario-del-proindiviso/cargas-registrales/"
+   ],
+   [
+    "Vender una herencia sin escriturar",
+    "/blog/vender-herencia-sin-escriturar/"
+   ]
+  ],
+  "cta_title": "Vende tu parte con el Registro en orden",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría e inscripción a nuestro cargo.",
+  "yoast_title": "Registro de la Propiedad: qué inscribe y cuándo acudir",
+  "meta_desc": "El Registro de la Propiedad inscribe dueños, cuotas y cargas de cada finca. Nota simple, certificación, cómo se lee y qué hacer si tu parte no consta.",
+  "focus_kw": "registro de la propiedad",
+  "title_corto": "Registro de la Propiedad",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, 35 mm lens, soft daylight: the stone facade of a classic Spanish public office building with tall arched windows and a wooden double door, a quiet street in front, muted palette with dark blue and terracotta accents. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Registro de la Propiedad: fachada de piedra de un edificio oficial con ventanas en arco"
+ }
+]

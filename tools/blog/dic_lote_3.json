@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "frutos-y-rentas-de-la-cosa-comun",
+  "focus_kw": "frutos de la cosa común",
+  "title_corto": "Frutos y rentas",
+  "termino": "Frutos y rentas",
+  "letra": "F",
+  "category": null,
+  "kind": "page",
+  "angulo": "Alquileres y rendimientos de un bien compartido: reparto por cuotas (art. 393 CC), reclamación al que cobra todo, fiscalidad."
+ },
+ {
+  "slug": "finca-registral",
+  "focus_kw": "finca registral",
+  "title_corto": "Finca registral",
+  "termino": "Finca registral",
+  "letra": "F",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, número de finca, IDUFIR/CRU, cómo localizarla, por qué importa al vender una cuota."
+ },
+ {
+  "slug": "liquidacion-de-gananciales",
+  "focus_kw": "liquidación de gananciales",
+  "title_corto": "Liquidación de gananciales",
+  "termino": "Liquidación de gananciales",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Tras el divorcio: inventario, avalúo, adjudicaciones, qué pasa con la vivienda, cuándo nace un proindiviso."
+ },
+ {
+  "slug": "gestoria-en-una-herencia",
+  "focus_kw": "gestoría en una herencia",
+  "title_corto": "Gestoría",
+  "termino": "Gestoría",
+  "letra": "G",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué hace la gestoría (impuestos, Registro, Catastro), cuánto cobra, cuándo es obligatoria en la práctica, cuándo no hace falta."
+ },
+ {
+  "slug": "heredero-forzoso",
+  "focus_kw": "heredero forzoso",
+  "title_corto": "Heredero forzoso",
+  "termino": "Heredero forzoso",
+  "letra": "H",
+  "category": null,
+  "kind": "page",
+  "angulo": "Quiénes son (descendientes, ascendientes, cónyuge), qué parte les corresponde, cómo reclamar, efectos en la venta de la cuota."
+ },
+ {
+  "slug": "hipoteca-compartida",
+  "focus_kw": "hipoteca compartida",
+  "title_corto": "Hipoteca compartida",
+  "termino": "Hipoteca compartida",
+  "letra": "H",
+  "category": null,
+  "kind": "page",
+  "angulo": "Varios titulares, deuda solidaria, qué pasa si uno vende su cuota, novación, liberación de deudor."
+ },
+ {
+  "slug": "impuesto-de-sucesiones",
+  "focus_kw": "impuesto de sucesiones",
+  "title_corto": "Impuesto de sucesiones",
+  "termino": "Impuesto de sucesiones",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Quién lo paga, plazo de 6 meses, reducciones por parentesco y comunidad, qué pasa si no se liquida; necesario para vender la parte heredada."
+ },
+ {
+  "slug": "inscripcion-registral",
+  "focus_kw": "inscripción registral",
+  "title_corto": "Inscripción registral",
+  "termino": "Inscripción registral",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Inscribir la herencia o la compra de una cuota: documentos, plazos, coste, qué pasa si no se inscribe."
+ },
+ {
+  "slug": "indivision",
+  "focus_kw": "indivisión",
+  "title_corto": "Indivisión",
+  "termino": "Indivisión",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Estado de un bien sin dividir; nadie está obligado a permanecer en ella (art. 400 CC); pacto de indivisión; salidas."
+ },
+ {
+  "slug": "inventario-de-la-herencia",
+  "focus_kw": "inventario de la herencia",
+  "title_corto": "Inventario de la herencia",
+  "termino": "Inventario de la herencia",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Relación de bienes y deudas: cómo se hace, quién lo firma, valor de cada bien, base para repartir o vender."
+ },
+ {
+  "slug": "juicio-verbal",
+  "focus_kw": "juicio verbal",
+  "title_corto": "Juicio verbal",
+  "termino": "Juicio verbal",
+  "letra": "J",
+  "category": null,
+  "kind": "page",
+  "angulo": "El procedimiento de la división de cosa común y del precario: fases, plazos orientativos, abogado y procurador, recurso."
+ },
+ {
+  "slug": "legitima",
+  "focus_kw": "legítima",
+  "title_corto": "Legítima",
+  "termino": "Legítima",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Dos tercios para los hijos (estricta y mejora), legítima del viudo; cómo se calcula y qué pasa si el testamento la vulnera."
+ },
+ {
+  "slug": "legado",
+  "focus_kw": "legado",
+  "title_corto": "Legado",
+  "termino": "Legado",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Dejar un bien concreto a alguien: legatario vs heredero, entrega del legado, qué pasa si el bien está en proindiviso."
+ },
+ {
+  "slug": "libre-disposicion-de-la-cuota",
+  "focus_kw": "libre disposición de la cuota",
+  "title_corto": "Libre disposición de la cuota",
+  "termino": "Libre disposición de la cuota",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Art. 399 CC: cada comunero puede vender, ceder o hipotecar su parte sin permiso; límites (retracto) y consecuencias."
+ },
+ {
+  "slug": "mayoria-de-cuotas",
+  "focus_kw": "mayoría de cuotas",
+  "title_corto": "Mayoría de cuotas",
+  "termino": "Mayoría de cuotas",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Acuerdos de administración por mayoría de intereses (art. 398 CC) y unanimidad para disponer (art. 397); ejemplos de qué se vota."
+ }
+]

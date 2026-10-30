@@ -1,0 +1,155 @@
+{
+ "kicker": "Conceptos",
+ "h1": "Qué es un proindiviso: definición, derechos de cada copropietario y las tres salidas",
+ "sub": "Un proindiviso es una propiedad con varios dueños y sin dividir. Te explicamos qué significa tener una cuota, qué puedes hacer con ella sin pedir permiso y cómo se sale de la copropiedad, incluida la vía más rápida: vender tu parte.",
+ "checks": [
+  "Explicado en lenguaje claro",
+  "Con los artículos del Código Civil",
+  "Te compramos tu cuota si quieres salir"
+ ],
+ "card_title": "¿Quieres salir del proindiviso?",
+ "card_text": "Te damos precio por tu cuota en 48 horas, sin compromiso y sin que los demás tengan que estar de acuerdo.",
+ "sections": [
+  {
+   "overline": "Definición",
+   "h2": "Qué significa proindiviso",
+   "intro": [
+    "Proindiviso (del latín pro indiviso, \"sin dividir\") es la situación jurídica en la que un bien pertenece a varias personas a la vez sin que esté repartido físicamente entre ellas. Cada propietario tiene una cuota ideal, un porcentaje sobre el todo: el 50 %, un tercio, el 25 %. Nadie es dueño de una habitación concreta ni de una planta; todos son dueños de todo en la proporción de su cuota. El Código Civil lo llama comunidad de bienes y lo regula en los artículos 392 a 406.",
+    "En la práctica, los proindivisos sobre vivienda nacen casi siempre de tres maneras: una herencia con varios hijos, una compra en pareja (casada en separación de bienes o sin casar) o una inversión entre socios. Las palabras copropiedad, condominio, comunidad de bienes y proindiviso se refieren a lo mismo."
+   ]
+  },
+  {
+   "overline": "Derechos",
+   "h2": "Qué puedes hacer con tu cuota sin el permiso de los demás",
+   "type": "cards",
+   "items": [
+    {
+     "t": "Venderla",
+     "p": "El artículo 399 del Código Civil te permite vender, ceder o hipotecar tu cuota sin consentimiento de los demás copropietarios. Ellos tienen derecho de retracto: comprarla al mismo precio en nueve días desde que conocen la venta.",
+     "url": "/vender-proindiviso-sin-avisar/",
+     "cta": "Vender sin avisar →"
+    },
+    {
+     "t": "Usar el inmueble",
+     "p": "Cada copropietario puede usar la cosa común siempre que no impida a los demás usarla también (artículo 394). En un piso, esto genera conflictos cuando uno lo ocupa en exclusiva."
+    },
+    {
+     "t": "Pedir la división",
+     "p": "Ningún copropietario está obligado a permanecer en la comunidad: puede pedir en cualquier momento que se divida o se venda (artículo 400). Es la acción de división de cosa común."
+    },
+    {
+     "t": "Exigir contribución a los gastos",
+     "p": "IBI, comunidad, derramas y reparaciones se reparten según la cuota (artículo 393). Quien paga de más puede reclamar a los demás."
+    }
+   ]
+  },
+  {
+   "overline": "Límites",
+   "h2": "Qué no puedes hacer solo",
+   "type": "list",
+   "items": [
+    "<strong>Vender el inmueble entero.</strong> Hace falta la firma de todos los copropietarios.",
+    "<strong>Alquilarlo o reformarlo a fondo.</strong> Los actos de administración necesitan la mayoría de cuotas; las alteraciones sustanciales, la unanimidad (artículos 397 y 398).",
+    "<strong>Echar a un copropietario que vive en él.</strong> Tiene el mismo derecho de uso que tú; solo un juez puede fijar reglas de uso o la división.",
+    "<strong>Obligar a otro a comprarte.</strong> Nadie está obligado a adquirir tu cuota. Sí a aceptar la división de la cosa común."
+   ]
+  },
+  {
+   "overline": "Salidas",
+   "h2": "Las tres formas de salir de un proindiviso",
+   "type": "table",
+   "items": [
+    [
+     "Salida",
+     "Cómo funciona, cuánto tarda y qué necesitas"
+    ],
+    [
+     "Extinción de condominio",
+     "Un copropietario se queda el 100 % y compensa en dinero a los demás. Tributa por AJD. Tarda de dos semanas a tres meses. Necesita el acuerdo de todos y que el adjudicatario tenga el dinero o consiga la hipoteca."
+    ],
+    [
+     "Venta de tu cuota a un tercero",
+     "Vendes tu porcentaje a un comprador profesional. No necesita acuerdo. Oferta en 48 horas y firma en dos a cuatro semanas. Cobras entre el 40 % y el 70 % del valor de tu parte, al contado."
+    ],
+    [
+     "División de cosa común (judicial)",
+     "Un juez declara la indivisibilidad y ordena vender el inmueble, normalmente en subasta. Tarda de uno a tres años, cuesta abogado y procurador y el precio de subasta suele ser bajo."
+    ]
+   ],
+   "outro": [
+    "La primera es la mejor cuando hay acuerdo y dinero. La tercera, el último recurso. La segunda es la que elige quien quiere cerrar el tema en semanas sin depender de nadie: es lo que hacemos nosotros, comprar cuotas indivisas de viviendas, locales, garajes y terrenos en toda España."
+   ]
+  },
+  {
+   "overline": "Precio",
+   "h2": "Cuánto vale una cuota de proindiviso",
+   "intro": [
+    "Una cuota indivisa vale menos que la proporción matemática del inmueble, porque quien la compra no puede usar ni vender el inmueble completo sin acuerdo o juicio. El mercado profesional paga entre el 40 % y el 70 % del valor proporcional, según la ciudad, si el inmueble está vacío u ocupado, las cargas y el número de copropietarios. En nuestra página sobre precios tienes la horquilla detallada caso por caso."
+   ],
+   "type": "callout",
+   "items": {
+    "t": "Averigua cuánto vale tu cuota hoy",
+    "p": "Dinos la dirección del inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+    "cta": "Pedir precio por mi cuota"
+   }
+  }
+ ],
+ "faqs": [
+  [
+   "¿Qué diferencia hay entre proindiviso y condominio?",
+   "Ninguna en la práctica. Proindiviso, condominio, copropiedad y comunidad de bienes designan la misma situación: un bien con varios dueños por cuotas sin dividir."
+  ],
+  [
+   "¿Un proindiviso tiene que estar inscrito en el Registro de la Propiedad?",
+   "Las cuotas de cada copropietario constan en el Registro cuando se inscribe la herencia o la compra. Si la herencia no está inscrita, la cuota existe igual, pero conviene inscribirla antes de venderla."
+  ],
+  [
+   "¿Puedo vender mi cuota de proindiviso si el inmueble está ocupado por otro copropietario?",
+   "Sí. El comprador adquiere la cuota con la situación de ocupación. El precio baja, pero la venta es igual de válida."
+  ],
+  [
+   "¿Qué es el derecho de retracto de comuneros?",
+   "Es la facultad de los demás copropietarios de quedarse con la cuota que has vendido a un extraño, pagando el mismo precio, en el plazo de nueve días desde que conocen la venta (artículo 1522 del Código Civil). No impide la venta: solo permite subrogarse en ella."
+  ],
+  [
+   "¿Cómo se disuelve un proindiviso si uno de los copropietarios ha fallecido?",
+   "Su cuota pasa a sus herederos, que entran en la comunidad en su lugar. Si son varios, la comunidad crece. Por eso conviene resolver los proindivisos cuanto antes."
+  ],
+  [
+   "¿Compráis cuotas de proindiviso de cualquier tipo de inmueble?",
+   "Sí: viviendas, locales, garajes, trasteros, naves, fincas rústicas y solares, en cualquier provincia de España. Con o sin cargas, vacíos u ocupados."
+  ]
+ ],
+ "faq_title": "Preguntas sobre el proindiviso",
+ "related": [
+  [
+   "Vender un proindiviso sin avisar",
+   "/vender-proindiviso-sin-avisar/"
+  ],
+  [
+   "Extinción de condominio",
+   "/extincion-de-condominio/"
+  ],
+  [
+   "División de cosa común",
+   "/division-de-cosa-comun/"
+  ],
+  [
+   "Cuánto pagan por un proindiviso",
+   "/cuanto-pagan-por-un-proindiviso/"
+  ],
+  [
+   "Vender tu parte de un piso",
+   "/vender-parte-de-un-piso/"
+  ]
+ ],
+ "cta_title": "Sal del proindiviso en semanas, no en años",
+ "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+ "slug": "que-es-un-proindiviso",
+ "kind": "page",
+ "category": null,
+ "yoast_title": "Qué es un proindiviso: definición, derechos y las 3 salidas · Zona Proindiviso",
+ "meta_desc": "Un proindiviso es una propiedad compartida sin dividir. Qué puedes hacer con tu cuota sin permiso de nadie y cómo salir: extinción, venta de tu parte o juicio.",
+ "focus_kw": "proindiviso",
+ "title_corto": "Qué es un proindiviso"
+}

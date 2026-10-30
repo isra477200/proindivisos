@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "extincion-de-condominio-de-un-local-o-garaje",
+  "focus_kw": "extinción de condominio local",
+  "title_corto": "Extinción en locales y garajes",
+  "category": "extincion-de-condominio",
+  "angulo": "Locales alquilados, garajes con muchas plazas, divisibilidad, IVA/AJD, rentas pendientes; cuándo vender la cuota es más limpio.",
+  "fecha": "2026-11-11T08:00:00"
+ },
+ {
+  "slug": "division-de-cosa-comun-vivienda-habitual-de-un-copropietario",
+  "focus_kw": "división de cosa común vivienda habitual",
+  "title_corto": "Vivienda habitual de uno",
+  "category": "division-de-cosa-comun",
+  "angulo": "El que vive dentro no puede impedir la división; uso atribuido tras divorcio como límite; lanzamiento tras la subasta; compensaciones.",
+  "fecha": "2026-11-12T08:00:00"
+ },
+ {
+  "slug": "itp-al-comprar-la-parte-de-un-piso",
+  "focus_kw": "itp compra de parte de un piso",
+  "title_corto": "ITP al comprar una parte",
+  "category": "impuestos-y-tramites",
+  "angulo": "Quién paga, base imponible (valor de referencia), tipos por comunidad, diferencia con la extinción de condominio (AJD), ejemplo.",
+  "fecha": "2026-11-13T08:00:00"
+ },
+ {
+  "slug": "renunciar-a-la-herencia-o-vender-mi-parte",
+  "focus_kw": "renunciar a la herencia o vender mi parte",
+  "title_corto": "Renunciar o vender",
+  "category": "herencias",
+  "angulo": "Comparativa: renuncia pura (a quién va la parte, fiscalidad), renuncia a favor de alguien (es donación), o aceptar y vendernos la cuota. Con números.",
+  "fecha": "2026-11-16T08:00:00"
+ },
+ {
+  "slug": "derecho-a-usar-la-casa-en-proindiviso",
+  "focus_kw": "derecho a usar la casa en proindiviso",
+  "title_corto": "Uso de la casa compartida",
+  "category": "copropiedad",
+  "angulo": "Uso solidario, turnos, acuerdos por mayoría, compensación por uso exclusivo, llaves, segundas residencias; salidas si no hay acuerdo.",
+  "fecha": "2026-11-17T08:00:00"
+ },
+ {
+  "slug": "exceso-de-adjudicacion-en-la-extincion-de-condominio",
+  "focus_kw": "exceso de adjudicación",
+  "title_corto": "Exceso de adjudicación",
+  "category": "extincion-de-condominio",
+  "angulo": "Qué es, cuándo tributa por ITP y cuándo no (art. 1062 CC, indivisible, compensación en metálico), errores habituales y ejemplos.",
+  "fecha": "2026-11-18T08:00:00"
+ },
+ {
+  "slug": "tasacion-en-la-division-de-cosa-comun",
+  "focus_kw": "tasación en la división de cosa común",
+  "title_corto": "Tasación en el juicio",
+  "category": "division-de-cosa-comun",
+  "angulo": "Quién tasa, perito judicial o de parte, valor para la subasta, impugnación, costes; cómo afecta a lo que cobrarás.",
+  "fecha": "2026-11-19T08:00:00"
+ },
+ {
+  "slug": "gastos-de-notaria-al-vender-una-parte-de-un-piso",
+  "focus_kw": "gastos de notaría al vender una parte",
+  "title_corto": "Notaría al vender una parte",
+  "category": "impuestos-y-tramites",
+  "angulo": "Arancel, quién paga cada gasto por ley y por pacto, plusvalía, cancelación de cargas; en nuestra compra los asumimos nosotros.",
+  "fecha": "2026-11-20T08:00:00"
+ },
+ {
+  "slug": "cuaderno-particional-que-es-y-para-que-sirve",
+  "focus_kw": "cuaderno particional",
+  "title_corto": "Cuaderno particional",
+  "category": "herencias",
+  "angulo": "Qué es, quién lo redacta, qué contiene, cuánto cuesta y qué pasa si un heredero no lo firma; alternativa de vender la cuota hereditaria sin partir.",
+  "fecha": "2026-11-23T08:00:00"
+ },
+ {
+  "slug": "desahucio-por-precario-de-un-familiar-casa-heredada",
+  "focus_kw": "desahucio por precario familiar",
+  "title_corto": "Precario de un familiar",
+  "category": "copropiedad",
+  "angulo": "Un hermano o cuñado que vive gratis en la casa heredada: precario, requisitos, plazos, sentencias generales, y la alternativa de vender la cuota.",
+  "fecha": "2026-11-24T08:00:00"
+ },
+ {
+  "slug": "extincion-de-condominio-pareja-de-hecho",
+  "focus_kw": "extinción de condominio pareja de hecho",
+  "title_corto": "Extinción en pareja de hecho",
+  "category": "extincion-de-condominio",
+  "angulo": "Sin régimen económico matrimonial: cuotas reales vs aportaciones, hipoteca, compensaciones, AJD, y qué hacer si la otra parte no colabora.",
+  "fecha": "2026-11-25T08:00:00"
+ },
+ {
+  "slug": "subasta-desierta-en-la-division-de-cosa-comun",
+  "focus_kw": "subasta desierta división de cosa común",
+  "title_corto": "Subasta desierta",
+  "category": "division-de-cosa-comun",
+  "angulo": "Qué pasa si nadie puja: adjudicación al ejecutante, nuevas subastas, pérdida de valor, tiempo; por qué muchos venden la cuota antes.",
+  "fecha": "2026-11-26T08:00:00"
+ }
+]

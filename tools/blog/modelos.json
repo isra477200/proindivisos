@@ -1,0 +1,1535 @@
+[
+ {
+  "slug": "modelos-documentos-proindiviso",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelos gratuitos",
+  "h1": "Modelos de documentos del proindiviso: burofax, propuestas, pactos y requerimientos",
+  "sub": "Estos modelos de documentos del proindiviso te sirven para proponer, reclamar, notificar y pactar con los demás copropietarios. Todos se apoyan en el Código Civil y puedes copiarlos o descargarlos en Word. Y si prefieres no negociar con nadie, te compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Seis modelos listos en Word",
+   "Con artículos del Código Civil",
+   "Te compramos tu parte"
+  ],
+  "card_title": "¿Prefieres vender tu parte?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin compromiso y sin esperar a que los demás contesten.",
+  "sections": [
+   {
+    "overline": "Para qué sirven",
+    "h2": "Para qué sirven los modelos de documentos del proindiviso",
+    "intro": [
+     "Casi todos los conflictos de un proindiviso empiezan con una conversación que no llega a nada. Por eso conviene pasar cuanto antes al papel. Un escrito claro fija qué propones, en qué plazo y con qué base legal. Además, deja prueba de la fecha y del contenido si el asunto acaba en el juzgado.",
+     "Estos modelos de documentos del proindiviso cubren las seis situaciones más habituales entre copropietarios. Sirven para proponer, reclamar, notificar una venta, preparar la división y pactar cómo convivir. Todos parten del Código Civil común: los artículos 392 a 406 para la comunidad de bienes y los artículos 1522 y 1524 para el retracto.",
+     "Son orientativos. Si hay importes altos, una herencia sin repartir o un conflicto serio, revísalos con un abogado antes de enviarlos. Además, en Cataluña, Aragón, Navarra y otras comunidades con Derecho civil propio algunas reglas cambian."
+    ]
+   },
+   {
+    "overline": "Los seis modelos",
+    "h2": "Qué modelo necesitas según tu situación",
+    "intro": [
+     "Estos son los seis modelos de documentos del proindiviso de esta sección. Cada página explica cuándo conviene el documento, cómo rellenarlo y cómo enviarlo con prueba."
+    ],
+    "type": "cards",
+    "items": [
+     {
+      "t": "Burofax a un copropietario",
+      "p": "Para proponer la venta del inmueble, comprar o vender una parte, o reclamar gastos y uso. Fija un plazo de respuesta y avisa de la acción de división.",
+      "url": "/modelos-documentos-proindiviso/modelo-burofax-copropietario/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Propuesta de venta de tu parte",
+      "p": "Una carta privada y cordial. Sirve para ofrecer tu cuota a los demás antes de buscar comprador fuera, con precio, forma de pago, gastos y validez.",
+      "url": "/modelos-documentos-proindiviso/modelo-propuesta-venta-de-mi-parte/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Requerimiento de división",
+      "p": "El paso formal previo a la demanda. Propone venta conjunta o adjudicación con compensación y acredita el intento de negociar que exige la ley.",
+      "url": "/modelos-documentos-proindiviso/modelo-requerimiento-division-cosa-comun/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Notificación de venta de cuota",
+      "p": "Comunica la venta de tu parte a un tercero. Incluye precio y condiciones para que corra el plazo de retracto de 9 días naturales.",
+      "url": "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Pacto de indivisión",
+      "p": "Compromete a no pedir la división durante un plazo. El máximo legal es de 10 años prorrogables, y el pacto también fija reglas de uso, gastos y salida.",
+      "url": "/modelos-documentos-proindiviso/modelo-pacto-de-indivision/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Acuerdo entre copropietarios",
+      "p": "Ordena el día a día. Dice quién usa la vivienda y cuánto compensa, cómo se reparten IBI, comunidad, seguro y obras, y cómo se decide un alquiler.",
+      "url": "/modelos-documentos-proindiviso/modelo-acuerdo-entre-copropietarios/",
+      "cta": "Ver el modelo →"
+     }
+    ]
+   },
+   {
+    "overline": "El orden",
+    "h2": "En qué orden se usan con los demás copropietarios",
+    "intro": [
+     "Los modelos de documentos del proindiviso siguen una escalada lógica, de menos a más formal. Saltarse pasos suele salir caro."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Propuesta amistosa",
+      "p": "Primero, una carta o un correo con números. Pon el precio de tu parte, la venta conjunta o el reparto de gastos. Muchas familias cierran aquí el asunto, sin coste."
+     },
+     {
+      "t": "Burofax",
+      "p": "Si no hay respuesta, toca el burofax. Con copia certificada y acuse de recibo deja prueba de la fecha y del texto, y además interrumpe la prescripción (artículo 1973 del Código Civil)."
+     },
+     {
+      "t": "Requerimiento formal",
+      "p": "Antes de demandar, se requiere la división. Se hace por notario o por burofax, con un plazo de 30 días naturales, porque desde abril de 2025 la ley exige ese intento previo de negociación."
+     },
+     {
+      "t": "Demanda o venta de tu cuota",
+      "p": "Si no hay acuerdo, quedan dos salidas. Una es demandar la división de la cosa común, que puede acabar en subasta. La otra, vender tu cuota a un tercero, como permite el artículo 399."
+     }
+    ],
+    "outro": [
+     "El pacto de indivisión y el acuerdo entre copropietarios van por otro camino. Se firman cuando todavía hay sintonía, precisamente para no llegar a los pasos tres y cuatro."
+    ]
+   },
+   {
+    "overline": "Prueba",
+    "h2": "Cómo enviar los modelos de documentos del proindiviso con prueba",
+    "intro": [
+     "Los modelos de documentos del proindiviso solo funcionan si puedes probar que llegaron y qué decían. Estas son las vías y su coste orientativo."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Vía",
+      "Coste"
+     ],
+     [
+      "Burofax en oficina",
+      "Unos 37 € con dos páginas. Prueba el texto, la fecha y quién lo recibe. Suma 12,72 € del burofax, 1,27 € de la segunda página, 17,55 € de la copia certificada y 5,75 € del acuse."
+     ],
+     [
+      "Burofax online",
+      "Unos 33 € con las mismas opciones. Tiene el mismo valor de prueba y se envía desde casa, subiendo un PDF, porque la tarifa base baja a 8,71 €."
+     ],
+     [
+      "Requerimiento notarial",
+      "Entre 60 y 150 € por destinatario. El notario entrega el escrito y levanta acta, y el destinatario puede contestar en la misma acta en dos días hábiles. El arancel parte de 36,06 € más diligencias, copias e IVA."
+     ],
+     [
+      "Carta o correo electrónico",
+      "Gratis. Sirve para la propuesta amistosa, pero como prueba es débil, así que guarda la respuesta o el acuse de lectura."
+     ]
+    ],
+    "outro": [
+     "Son tarifas de Correos de 2026 para Península y Baleares, IVA incluido; en Canarias, Ceuta y Melilla cambian. Envía un escrito por cada copropietario. Si alguien no lo recoge, guarda el justificante del intento de entrega, porque los tribunales lo valoran caso por caso."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores frecuentes al redactar documentos del proindiviso",
+    "intro": [
+     "Los modelos de documentos del proindiviso evitan los fallos más comunes, pero conviene conocerlos antes de rellenar nada."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Proponer sin cifras.</strong> «Quiero vender» no obliga a nadie a contestar. Pon precio, porcentaje, plazo y forma de pago.",
+     "<strong>Inventar plazos.</strong> El retracto de comuneros es de 9 días naturales (artículo 1524 del Código Civil). El pacto de indivisión dura 10 años como máximo (artículo 400).",
+     "<strong>Amenazar o presionar.</strong> Anunciar una acción legal que te corresponde es correcto. En cambio, insultar, chantajear o cortar suministros se vuelve en tu contra.",
+     "<strong>Olvidar a un copropietario.</strong> El escrito debe llegar a todos, también al que vive fuera o al heredero que aún no ha aceptado.",
+     "<strong>Mezclar o dejar fuera temas.</strong> La ley exige que lo negociado coincida con lo que luego demandas. Si vas a reclamar gastos y división, inclúyelos en el mismo escrito."
+    ]
+   },
+   {
+    "overline": "Sin pelear",
+    "h2": "Vender tu parte sin depender de los demás",
+    "intro": [
+     "Los modelos de documentos del proindiviso ordenan la negociación, pero no obligan a nadie a firmar. Si el otro no contesta, el camino judicial dura de uno a tres años. La alternativa es vender tu cuota, porque el artículo 399 lo permite sin el permiso de nadie."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos la parte",
+     "p": "Compramos con fondos propios cuotas de pisos, casas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con los gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Estos modelos de documentos del proindiviso valen en toda España?",
+    "Están redactados con el Código Civil común, que se aplica en la mayor parte de España. En comunidades con Derecho civil propio, como Cataluña, Aragón o Navarra, algunas reglas cambian, por ejemplo los derechos de preferencia. Allí revisa el texto con un profesional antes de usarlo."
+   ],
+   [
+    "¿Es obligatorio enviar un burofax antes de demandar la división?",
+    "No existe un burofax obligatorio, pero desde el 3 de abril de 2025 hay que intentar antes una negociación o un medio adecuado de solución de controversias (Ley Orgánica 1/2025). Un burofax con una propuesta clara y acuse de recibo es la forma más sencilla de acreditarlo, junto a la mediación o la conciliación."
+   ],
+   [
+    "¿Qué pasa si el copropietario no recoge el burofax?",
+    "Correos deja aviso y puede certificar el intento de entrega si lo pides. Los tribunales lo valoran caso por caso, pero quien rechaza a propósito una comunicación no suele poder beneficiarse de ello. Si dudas, repite el envío por requerimiento notarial."
+   ],
+   [
+    "¿Puedo usar los modelos si el inmueble es de una herencia sin repartir?",
+    "Con matices. Mientras no hay partición, los herederos no son copropietarios de cada bien, sino de la herencia en conjunto. Lo que se vende entonces es el derecho hereditario, con un retracto de un mes para los coherederos (artículo 1067 del Código Civil). Adapta los textos o consulta a un abogado."
+   ],
+   [
+    "¿Me compráis la parte aunque ya haya enviado burofaxes?",
+    "Sí. Los burofaxes enviados no impiden la venta de tu cuota y, de hecho, nos ayudan a conocer el caso. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con los gastos de notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los modelos de documentos del proindiviso",
+  "related": [
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Demanda de división de cosa común: requisitos",
+    "/blog/demanda-de-division-de-cosa-comun-requisitos/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Del papel a la notaría en semanas",
+  "cta_text": "Si los escritos no avanzan, compramos tu parte con fondos propios. Oferta por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Modelos de documentos del proindiviso: 6 plantillas en Word",
+  "meta_desc": "Modelos de documentos del proindiviso gratis en Word: burofax, propuesta, requerimiento y pactos. Si prefieres vender, te compramos tu parte en 48 h.",
+  "focus_kw": "modelos de documentos del proindiviso",
+  "title_corto": "Modelos de documentos",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a tidy oak desk beside a tall window in a traditional Spanish apartment, with a fountain pen and a small brass key resting on the bare wood, soft natural morning light, muted palette with dark blue and terracotta accents, 35 mm lens, shallow depth of field. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelos de documentos del proindiviso: pluma y llave sobre un escritorio de roble",
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Coste del requerimiento notarial (60-150 € por destinatario): horquilla estimada a partir del arancel (acta 36,06 €, diligencias, salida 18,03 €/h, copias 3,01 €/folio, IVA); no existe un precio cerrado oficial."
+  ]
+ },
+ {
+  "slug": "modelo-burofax-copropietario",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de burofax a un copropietario: proponer, reclamar y avisar de la división",
+  "sub": "Este modelo de burofax a un copropietario sirve para proponer una venta, reclamar gastos o pedir compensación por el uso. Incluye un plazo de respuesta y puedes copiarlo o descargarlo en Word. Si prefieres no pelear, te compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Texto completo en Word",
+   "Con base en el Código Civil",
+   "Costes de Correos de 2026"
+  ],
+  "card_title": "¿Y si no contesta?",
+  "card_text": "Te compramos tu parte sin esperar su respuesta. Oferta por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Para qué sirve",
+    "h2": "Cuándo enviar un burofax a otro copropietario",
+    "intro": [
+     "El burofax es la forma más barata de dejar constancia de lo que pides y de cuándo lo pides. Conviene cuando la conversación ya no avanza. Por ejemplo, tu hermano vive en el piso y no paga nada, o llevas años adelantando el IBI.",
+     "Este modelo de burofax a un copropietario reúne en un solo escrito las cuatro peticiones habituales. Son la venta conjunta, la compra o venta de una parte, el reembolso de gastos y el uso. Eliges las que te interesan y borras el resto. Al final fija un plazo y anuncia, sin amenazas, la acción de división del artículo 400 del Código Civil.",
+     "Además, desde abril de 2025 sirve para acreditar el intento de negociación previo a la demanda, que exige la Ley Orgánica 1/2025. Para eso debe definir bien el objeto: qué inmueble, qué propones y qué reclamarías."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de burofax a un copropietario para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Copia este modelo, rellena los huecos en mayúsculas y envía un burofax distinto a cada copropietario. Si el importe es alto o el conflicto es serio, que lo revise un abogado antes de enviarlo."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-burofax-copropietario\"]"
+   },
+   {
+    "overline": "Base legal",
+    "h2": "Qué artículo respalda cada petición",
+    "intro": [
+     "Cada opción del modelo de burofax a un copropietario se apoya en un artículo concreto del Código Civil. Conviene citarlo, porque así el otro sabe que no es un farol."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Petición",
+      "Base legal"
+     ],
+     [
+      "Venta conjunta",
+      "Artículo 400. Nadie está obligado a permanecer en la comunidad, y cualquiera puede pedir la división en cualquier momento. Si el inmueble no se puede dividir, el artículo 404 ordena venderlo y repartir el precio."
+     ],
+     [
+      "Compra o venta de una parte",
+      "Artículo 399. Cada copropietario puede vender su cuota sin permiso de los demás. Ellos tienen derecho de retracto en 9 días naturales (artículos 1522 y 1524)."
+     ],
+     [
+      "Reembolso de gastos",
+      "Artículos 393 y 395. Las cargas se reparten según las cuotas, y cualquiera puede obligar a los demás a pagar la conservación. La reclamación prescribe a los cinco años (artículo 1964)."
+     ],
+     [
+      "Uso o compensación",
+      "Artículo 394. Cada uno puede usar la cosa sin impedir el uso de los demás. Si uno la ocupa en exclusiva, los tribunales suelen admitir una compensación desde que se le reclama."
+     ],
+     [
+      "Prescripción",
+      "Artículo 1973. La reclamación extrajudicial interrumpe la prescripción, así que el plazo de cinco años vuelve a empezar con el burofax."
+     ]
+    ]
+   },
+   {
+    "overline": "Envío",
+    "h2": "Cómo enviarlo y cuánto cuesta en 2026",
+    "intro": [
+     "Puedes enviarlo desde cualquier oficina de Correos o desde su web, subiendo un PDF. El modelo de burofax a un copropietario solo vale como prueba si eliges bien las opciones."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Pide copia certificada",
+      "p": "Es la certificación del contenido: prueba qué texto enviaste. Si la pides al enviarlo cuesta 17,55 €; si la pides después, 33,88 €."
+     },
+     {
+      "t": "Añade acuse de recibo",
+      "p": "Prueba quién lo recibió y cuándo, y cuesta 5,75 €. La prueba de entrega electrónica cuesta lo mismo y llega en un PDF firmado."
+     },
+     {
+      "t": "Calcula el total",
+      "p": "Con dos páginas, copia y acuse, sale por unos 37 € en oficina y 33 € online. El burofax cuesta 12,72 € en oficina y 8,71 € online, más 1,27 € por cada página extra."
+     },
+     {
+      "t": "Uno por destinatario",
+      "p": "Envía uno a cada copropietario, a su domicilio actual. Si sois tres, mandas dos burofaxes. Después guarda resguardos, copia y acuse en la misma carpeta."
+     }
+    ],
+    "outro": [
+     "Son tarifas de Correos de 2026 para Península y Baleares, IVA incluido. El Burofax Premium Plus incluye copia certificada, prueba de entrega electrónica y custodia de cinco años por 36,01 €. Si prefieres más solemnidad, el requerimiento notarial suele costar entre 60 y 150 € por destinatario."
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué pasa después de enviar el modelo de burofax",
+    "intro": [
+     "Si el otro copropietario contesta y negociáis, recoged por escrito lo que acordéis. Tanto la venta conjunta como la compra de una parte se firman en notaría. Si uno se queda el 100 %, la operación puede hacerse como extinción de condominio.",
+     "Si no contesta por escrito en 30 días naturales desde que lo recibe, la negociación termina sin acuerdo. Lo dice el artículo 10 de la Ley Orgánica 1/2025. A partir de ahí puedes demandar la división, reclamar las cantidades o vender tu cuota a un tercero. Además, si después se allana a la demanda, el juez puede apreciar mala fe por ese requerimiento previo. En ese caso puede imponerle las costas (artículo 395 de la Ley de Enjuiciamiento Civil).",
+     "El juicio de división tarda de uno a tres años, según el juzgado. Si la vivienda no admite división, termina en venta, a menudo en subasta. Por eso un buen modelo de burofax a un copropietario siempre deja abierta una salida razonable."
+    ]
+   },
+   {
+    "overline": "Alternativa",
+    "h2": "Si no quieres pelear con tu copropietario",
+    "intro": [
+     "Un modelo de burofax a un copropietario ordena el conflicto, pero no lo resuelve si el otro no quiere. Puedes vender tu parte sin su permiso, como permite el artículo 399 del Código Civil. Él conserva su derecho de retracto."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte",
+     "p": "Compramos con fondos propios cuotas de viviendas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con los gastos de notaría a nuestro cargo.",
+     "cta": "Quiero una oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tiene validez legal un burofax entre copropietarios?",
+    "Sí, como prueba. Con copia certificada y acuse de recibo acredita qué dijiste, cuándo y quién lo recibió. No obliga al otro a aceptar nada, pero interrumpe la prescripción de lo que reclamas y sirve para acreditar el intento de negociación previo a la demanda."
+   ],
+   [
+    "¿Qué plazo doy al copropietario para contestar?",
+    "Te recomendamos 30 días naturales desde la recepción. Es el plazo que usa la Ley Orgánica 1/2025: si no hay respuesta por escrito en ese tiempo, la negociación se da por terminada sin acuerdo y puedes ir al juzgado. Un plazo más corto no te da más derechos."
+   ],
+   [
+    "¿Puedo reclamar en el burofax los gastos de años anteriores?",
+    "Sí, los de los últimos cinco años, que es el plazo de prescripción de las acciones personales (artículo 1964 del Código Civil). Adjunta una tabla con cada recibo, su fecha y la parte que corresponde a su cuota. Con el burofax, el plazo de prescripción vuelve a empezar."
+   ],
+   [
+    "¿Qué hago si el copropietario vive en el extranjero?",
+    "El burofax de Correos solo llega a direcciones de España y Andorra. Para otro país puedes usar carta certificada internacional con aviso de recibo y enviar también el texto por correo electrónico. Si el asunto es serio, consulta con un abogado cómo notificarle de forma fehaciente allí."
+   ],
+   [
+    "¿Me compráis la parte si el otro copropietario no contesta al burofax?",
+    "Sí. Para vender tu cuota no necesitas su respuesta ni su firma. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas; después le notificamos la venta para que pueda ejercer su retracto si quiere."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el burofax a un copropietario",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Modelo de requerimiento de división",
+    "/modelos-documentos-proindiviso/modelo-requerimiento-division-cosa-comun/"
+   ],
+   [
+    "Compensación por uso exclusivo de la vivienda",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Mi hermano vive en la casa y no quiere vender",
+    "/blog/mi-hermano-vive-en-la-casa-de-mis-padres-y-no-quiere-vender/"
+   ]
+  ],
+  "cta_title": "¿Cansado de esperar respuesta?",
+  "cta_text": "Compramos tu parte con fondos propios: oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Modelo de burofax a un copropietario: texto listo en Word",
+  "meta_desc": "Modelo de burofax a un copropietario en Word: venta, gastos, uso y aviso de división, con costes de Correos 2026. O te compramos tu parte en 48 h.",
+  "focus_kw": "modelo de burofax a un copropietario",
+  "title_corto": "Burofax a un copropietario",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a closed blank cream envelope lying on a dark walnut table next to a black fountain pen, soft side light from a window of a Spanish apartment, muted palette with dark blue and terracotta accents, 35 mm lens, shallow depth of field. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de burofax a un copropietario: sobre cerrado junto a una pluma",
+  "modelo": {
+   "titulo": "Modelo de burofax a un copropietario",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nREMITENTE: [NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO].\nDESTINATARIO: [NOMBRE Y APELLIDOS DEL COPROPIETARIO], con domicilio en [DOMICILIO DEL COPROPIETARIO].\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: propuesta sobre el inmueble que tenemos en copropiedad y solicitud de negociación.\n\nEstimado/a [NOMBRE]:\n\nComo sabes, somos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Me corresponde el [PORCENTAJE] % y a ti el [PORCENTAJE] %, según [TÍTULO: ESCRITURA DE COMPRA, HERENCIA U OTRO].\n\nNo deseo seguir indefinidamente en la comunidad, como me permite el artículo 400 del Código Civil, y quiero resolver la situación de forma amistosa. Por ello te propongo lo siguiente [CONSERVA LAS OPCIONES QUE QUIERAS Y BORRA LAS DEMÁS]:\n\n1. Vender el inmueble completo a un tercero por un precio mínimo de [IMPORTE EN EUROS] euros, encargando la venta a [AGENCIA O FORMA DE VENTA] durante [PLAZO], y repartir el precio según nuestras cuotas.\n\n2. Comprarte tu parte por [IMPORTE EN EUROS] euros, o venderte la mía por [IMPORTE EN EUROS] euros, con pago íntegro al firmar la escritura ante notario y los gastos repartidos según el artículo 1455 del Código Civil, salvo que pactemos otra cosa.\n\n3. Reembolsarme [IMPORTE EN EUROS] euros, que corresponden a tu [PORCENTAJE] % de los gastos que he pagado yo solo desde [FECHA]: IBI, comunidad, seguro y [OTROS GASTOS], según el detalle adjunto (artículos 393 y 395 del Código Civil). A los efectos del artículo 1973 del Código Civil, este escrito es una reclamación extrajudicial de esa cantidad.\n\n4. Sobre el uso de la vivienda, que ocupas en exclusiva desde [FECHA]: acordar un calendario de uso compartido o que me abones una compensación de [IMPORTE EN EUROS] euros al mes desde la recepción de este escrito (artículo 394 del Código Civil).\n\nTe ruego que me contestes por escrito en el plazo de [PLAZO, RECOMENDADO 30 DÍAS NATURALES] desde que recibas este burofax, en la dirección indicada o en [CORREO ELECTRÓNICO O TELÉFONO]. Estoy dispuesto a reunirnos o a acudir a una mediación si lo prefieres.\n\nEste escrito es una solicitud de negociación a los efectos de la Ley Orgánica 1/2025, de 2 de enero. Si en ese plazo no recibo respuesta o no alcanzamos un acuerdo, entenderé terminado este intento sin acuerdo y podré ejercitar la acción de división de la cosa común (artículos 400 y 404 del Código Civil) y reclamar las cantidades indicadas.\n\nPrefiero una solución acordada y confío en que podamos encontrarla.\n\nUn saludo,\n[FIRMA]\n[NOMBRE Y APELLIDOS]\n\nDocumentos adjuntos: [DETALLE DE GASTOS, RECIBOS, NOTA SIMPLE U OTROS].",
+   "instrucciones": [
+    "Envía un burofax por copropietario, con copia certificada y acuse de recibo.",
+    "Copia la descripción del inmueble y las cuotas de una nota simple reciente del Registro.",
+    "Deja solo las opciones que de verdad aceptarías y pon cifras concretas.",
+    "Si reclamas gastos, adjunta una tabla con cada recibo, su fecha y la parte de su cuota, solo de los últimos cinco años.",
+    "Mantén un tono neutro: sin reproches personales ni amenazas. Cambia a usted si no hay confianza."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Coste del requerimiento notarial (60-150 € por destinatario): horquilla estimada a partir del arancel (acta 36,06 €, diligencias, salida 18,03 €/h, copias 3,01 €/folio, IVA); no existe un precio cerrado oficial.",
+   "Compensación por uso exclusivo: se formula como «los tribunales suelen admitir», sobre todo desde la reclamación escrita; es doctrina jurisprudencial casuística, conviene que un abogado confirme el criterio de la Audiencia Provincial correspondiente.",
+   "Burofax no recogido: eficacia como recepción a efectos del art. 10.2 LO 1/2025 (exige probar que la otra parte «ha podido acceder a su contenido íntegro»); se dice que se valora caso por caso."
+  ]
+ },
+ {
+  "slug": "modelo-propuesta-venta-de-mi-parte",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de propuesta de venta de mi parte a los demás copropietarios",
+  "sub": "Este modelo de propuesta de venta de mi parte es una carta privada para ofrecer tu cuota a los demás copropietarios antes de venderla fuera. Recoge precio, forma de pago, plazo, gastos y validez de la oferta, y puedes copiarla o descargarla en Word. Si nadie la acepta, te compramos la parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Carta lista para enviar",
+   "Precio, pago y plazos claros",
+   "Plan B: te compramos la parte"
+  ],
+  "card_title": "¿Nadie quiere tu parte?",
+  "card_text": "Te damos precio por escrito en 48 horas y firmamos en notaría en 2-4 semanas.",
+  "sections": [
+   {
+    "overline": "Por qué ofrecerla primero",
+    "h2": "Por qué hacer una propuesta de venta de tu parte a la familia",
+    "intro": [
+     "La ley no te obliga a ofrecer tu cuota a los demás antes de venderla. El artículo 399 del Código Civil te deja venderla a quien quieras. Ellos solo tienen un derecho de retracto de 9 días naturales una vez hecha la venta (artículos 1522 y 1524).",
+     "Aun así, ofrecerla primero suele ser buena idea. Tu hermano o tu ex pueden pagar más que un tercero, porque para ellos tu parte completa el 100 %. Además, evitas que se sientan sorprendidos y que el retracto llegue cuando ya has firmado con otro comprador.",
+     "Este modelo de propuesta de venta de mi parte está pensado para ese primer paso. Es una carta privada, no un burofax. El tono es cordial, pero deja claro que hay un plazo y que, si no interesa, venderás fuera."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de propuesta de venta de mi parte para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Copia este modelo de propuesta de venta de tu parte, cambia los huecos en mayúsculas y envía una carta a cada copropietario. Si quieres prueba de la fecha, mándala por correo certificado."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-propuesta-venta-de-mi-parte\"]"
+   },
+   {
+    "overline": "Cómo rellenarla",
+    "h2": "Qué poner en la propuesta de venta de tu parte",
+    "intro": [
+     "Un modelo de propuesta de venta de tu parte solo funciona con datos concretos. Revisa estos cinco puntos antes de enviarla."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Precio.</strong> Parte del valor de mercado del inmueble por tu porcentaje. Si pides la cifra completa, explica cómo la calculas; si aceptarías algo menos, deja margen para negociar.",
+     "<strong>Forma de pago.</strong> Lo prudente es cobrar todo al firmar la escritura ante notario, por transferencia o cheque bancario. Si el comprador necesita hipoteca, prevé un plazo para conseguirla.",
+     "<strong>Gastos e impuestos.</strong> Por ley, el otorgamiento de la escritura corre a cargo del vendedor y la primera copia, del comprador, salvo pacto (artículo 1455 del Código Civil). Los impuestos dependen de si el comprador se queda con el 100 % o no, y cambian según comunidad autónoma.",
+     "<strong>Validez de la oferta.</strong> Fija una fecha límite, por ejemplo a 30 días. Pasada esa fecha, la oferta decae y quedas libre para negociar con terceros.",
+     "<strong>Hipoteca o cargas.</strong> Si hay hipoteca pendiente, dilo y explica cómo se cancelará o quién la asume. Una sorpresa en la notaría rompe cualquier acuerdo."
+    ]
+   },
+   {
+    "overline": "Envío",
+    "h2": "Cómo enviarla y cuándo pasar al burofax",
+    "intro": [
+     "El modelo de propuesta de venta de mi parte no necesita burofax en este primer paso. Basta un medio que permita guardar copia y fecha."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Un medio amable",
+      "p": "Correo electrónico, carta en mano o correo certificado. El objetivo es negociar, no acusar, así que cuida el tono y guarda copia."
+     },
+     {
+      "t": "Espera el plazo",
+      "p": "Si alguien contesta con una contraoferta, negocia por escrito. Cuando alguien acepta, firmad un documento de reserva o de arras y fijad fecha de notaría."
+     },
+     {
+      "t": "Si no hay respuesta",
+      "p": "Pasa al burofax con copia certificada y acuse de recibo. Con dos páginas cuesta unos 33 € online y 37 € en oficina, según las tarifas de Correos de 2026."
+     },
+     {
+      "t": "Si nadie la quiere",
+      "p": "Puedes vender a un tercero. Después tendrás que notificar la venta para que corra el plazo de retracto, y para eso tienes el modelo de notificación en esta misma sección."
+     }
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué pasa si la aceptan o la rechazan",
+    "intro": [
+     "Si un copropietario acepta, la venta se firma en notaría. Cuando con tu parte se queda con el 100 % del inmueble, la operación suele tratarse como extinción de condominio. En muchas comunidades tributa por actos jurídicos documentados y no por transmisiones, aunque es orientativo y conviene consultar tu caso.",
+     "Si aceptan dos copropietarios a la vez, lo normal es repartir tu cuota entre ellos en proporción a la suya. Es lo mismo que haría el retracto (artículo 1522). Si todos la rechazan, pide que lo digan por escrito. Aun así conservan su retracto cuando vendas a un tercero, así que tendrás que notificarles la venta.",
+     "Ojo: en Derecho español basta un acuerdo claro sobre la cosa y el precio para cerrar una compraventa. Lo dicen los artículos 1262 y 1450 del Código Civil. Por eso el modelo de propuesta de venta de mi parte aclara que el acuerdo solo será firme cuando lo firméis."
+    ]
+   },
+   {
+    "overline": "Plan B",
+    "h2": "Si nadie compra tu cuota en la familia",
+    "intro": [
+     "Muchas cartas se quedan sin respuesta porque los demás no tienen el dinero o prefieren esperar. Si el modelo de propuesta de venta de tu parte no obtiene respuesta, un comprador profesional cierra el tema sin juicio."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte en semanas",
+     "p": "Compramos con fondos propios cuotas de viviendas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, y los gastos de notaría corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Estoy obligado a ofrecer mi parte a los demás antes de venderla?",
+    "No, en el Código Civil común no existe ese deber. Puedes vender tu cuota a un tercero sin pedir permiso (artículo 399). Los demás copropietarios tienen derecho de retracto: pueden quedarse la cuota al mismo precio en 9 días naturales desde que conocen la venta o desde su inscripción."
+   ],
+   [
+    "¿Puedo pedir por mi parte el valor proporcional completo?",
+    "Puedes pedirlo, y a un familiar que quiere quedarse con el 100 % a veces le compensa pagarlo. Un comprador externo, en cambio, paga menos porque compra una cuota indivisa con el conflicto incluido. En el mercado profesional se paga entre el 40 % y el 70 % del valor proporcional."
+   ],
+   [
+    "¿Qué pasa si acepto la contraoferta de mi hermano por WhatsApp?",
+    "Un acuerdo claro sobre la cosa y el precio puede obligar aunque no esté en papel (artículo 1450 del Código Civil). Si no quieres quedar atado antes de tiempo, di expresamente que el acuerdo se cerrará en un documento firmado. Después, firmad arras o directamente la escritura."
+   ],
+   [
+    "¿La propuesta sirve como paso previo para ir a juicio?",
+    "Puede servir si define el objeto y prueba que la otra parte la recibió. Sin embargo, para la demanda de división es mejor un burofax o un requerimiento que pida expresamente la división, porque la Ley Orgánica 1/2025 exige que lo negociado coincida con lo que luego demandas."
+   ],
+   [
+    "¿Compráis la parte si mis hermanos rechazan la propuesta?",
+    "Sí, y es lo más habitual en nuestros casos. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas. Después notificamos la venta a tus hermanos para que puedan ejercer el retracto si quieren."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la propuesta de venta de tu parte",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Modelo de notificación de venta de cuota",
+    "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/"
+   ],
+   [
+    "Vender mi parte de la herencia a otro heredero",
+    "/blog/vender-mi-parte-de-la-herencia-a-otro-heredero/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Comprar la parte de mi hermano",
+    "/blog/comprar-la-parte-de-mi-hermano/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque nadie en la familia la compre",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Modelo de propuesta de venta de mi parte: carta en Word",
+  "meta_desc": "Modelo de propuesta de venta de mi parte a los copropietarios: precio, pago, gastos y plazo, en Word. Si nadie la acepta, te compramos la parte en 48 h.",
+  "focus_kw": "modelo de propuesta de venta de mi parte",
+  "title_corto": "Propuesta de venta de tu parte",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a white ceramic coffee cup and a closed blank envelope on a light wooden kitchen table in a sunny Spanish flat, softly blurred living room in the background, natural morning light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de propuesta de venta de mi parte: taza y sobre en una cocina",
+  "modelo": {
+   "titulo": "Modelo de propuesta de venta de mi parte",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\n[NOMBRE Y APELLIDOS]\n[DOMICILIO]\n[TELÉFONO] · [CORREO ELECTRÓNICO]\n\nA la atención de [NOMBRE Y APELLIDOS DEL COPROPIETARIO]\n[DOMICILIO DEL COPROPIETARIO]\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: te ofrezco comprar mi parte del inmueble de [DIRECCIÓN DEL INMUEBLE]\n\nHola, [NOMBRE]:\n\nComo sabes, soy titular del [PORCENTAJE] % del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. He decidido vender mi parte y, antes de ofrecerla fuera, quiero darte la oportunidad de quedártela.\n\nMi propuesta es esta:\n\n1. Precio: [IMPORTE EN EUROS] euros por mi [PORCENTAJE] %, calculado sobre un valor del inmueble de [IMPORTE EN EUROS] euros, según [TASACIÓN, VALOR DE MERCADO U OTRO CRITERIO].\n\n2. Forma de pago: la totalidad al firmar la escritura de compraventa ante notario, por transferencia o cheque bancario. Si necesitas financiación, podemos fijar un plazo de [PLAZO] para conseguirla.\n\n3. Fecha de firma: antes del [FECHA], en la notaría que elijamos de común acuerdo.\n\n4. Gastos e impuestos: los gastos notariales se repartirán según el artículo 1455 del Código Civil, salvo que pactemos otra cosa [O INDICA EL REPARTO QUE PROPONES]. Cada uno pagará los impuestos que le correspondan por ley. Mi parte se transmite [LIBRE DE CARGAS O CON LA HIPOTECA QUE INDIQUES].\n\n5. Validez: mantengo esta propuesta hasta el [FECHA]. Si te interesa, dímelo por escrito antes de esa fecha y firmaremos un documento de reserva o de arras para fijar la firma en notaría. El acuerdo solo será vinculante cuando lo firmemos por escrito.\n\nSi no te interesa, te agradeceré que también me lo digas por escrito. En ese caso podré vender mi parte a un tercero, como permite el artículo 399 del Código Civil, y te notificaré la venta para que puedas ejercer, si quieres, el derecho de retracto de los artículos 1522 y 1524.\n\nPrefiero que lo cerremos entre nosotros y estoy disponible para hablarlo cuando quieras.\n\nUn abrazo,\n[FIRMA]\n[NOMBRE Y APELLIDOS]",
+   "instrucciones": [
+    "Envía la misma oferta a todos los copropietarios: tratar a todos igual evita conflictos.",
+    "Comprueba los datos del inmueble y las cuotas en una nota simple reciente.",
+    "Fija una validez realista, de 15 a 30 días.",
+    "Si hay hipoteca o cargas, menciónalas: aparecerán en la notaría de todos modos.",
+    "Guarda la prueba de envío y pide las respuestas por escrito."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Fiscalidad de la compra de la cuota por otro comunero: se dice que «suele tratarse como extinción de condominio» y tributar por AJD cuando el comprador alcanza el 100 %, con «orientativo» y «consulta tu caso»; depende de la comunidad autónoma y del caso (varios comuneros, extinción parcial)."
+  ]
+ },
+ {
+  "slug": "modelo-requerimiento-division-cosa-comun",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de requerimiento de división de cosa común antes de la demanda",
+  "sub": "El modelo de requerimiento de división de cosa común es el escrito fehaciente que envías antes de demandar. En él dices que no quieres seguir en la comunidad, propones una venta o una adjudicación y das un plazo. Puedes copiarlo o descargarlo en Word, y si prefieres no ir a juicio, te compramos tu parte en semanas.",
+  "checks": [
+   "Sirve como paso previo a demandar",
+   "Arts. 400 y 404 del Código Civil",
+   "Alternativa: vender tu parte"
+  ],
+  "card_title": "¿Sin ganas de juicio?",
+  "card_text": "Te damos precio por tu cuota en 48 horas, sin esperar a la demanda.",
+  "sections": [
+   {
+    "overline": "Para qué sirve",
+    "h2": "Para qué sirve el requerimiento de división de cosa común",
+    "intro": [
+     "La acción de división nace del artículo 400 del Código Civil. Ningún copropietario está obligado a permanecer en la comunidad y cualquiera puede pedir la división en cualquier momento. Solo la frena un pacto de indivisión vigente, que dura como máximo 10 años.",
+     "Antes de demandar, sin embargo, conviene requerir al otro de forma fehaciente. Desde el 3 de abril de 2025, la ley exige intentar antes una negociación. Sin ese intento, el juzgado no admite la demanda civil (Ley Orgánica 1/2025). Además, si el demandado se allana después, el requerimiento previo permite apreciar mala fe. Entonces el juez puede imponerle las costas (artículo 395 de la Ley de Enjuiciamiento Civil).",
+     "Este modelo de requerimiento de división de cosa común cumple las dos funciones. Define el objeto con precisión y propone salidas concretas. También fija el plazo de 30 días naturales que usa la ley para cerrar la negociación sin acuerdo."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de requerimiento de división de cosa común en Word",
+    "type": "tool",
+    "intro": [
+     "Descarga el modelo de requerimiento de división de cosa común y completa los huecos en mayúsculas. Elige solo las propuestas que de verdad aceptarías y envía un requerimiento a cada copropietario."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-requerimiento-division-cosa-comun\"]"
+   },
+   {
+    "overline": "Las propuestas",
+    "h2": "Qué propuestas debe incluir el escrito",
+    "intro": [
+     "Un modelo de requerimiento de división de cosa común que solo dice «quiero dividir» invita a no contestar. En cambio, el que ofrece opciones razonables cierra muchos casos sin juicio."
+    ],
+    "type": "cards",
+    "items": [
+     {
+      "t": "Venta conjunta",
+      "p": "Vender el inmueble entero en el mercado libre. Se fija un precio mínimo y un plazo, y el dinero se reparte por cuotas. Suele ser la opción que mejor precio da."
+     },
+     {
+      "t": "Adjudicación con compensación",
+      "p": "Uno se queda con el 100 % y paga a los demás su parte. Lo prevé el artículo 404 del Código Civil, y conviene proponer un tasador independiente con el coste repartido."
+     },
+     {
+      "t": "Mediación o conciliación",
+      "p": "Útil si el problema es de confianza o de valoración. La mediación y la conciliación ante notario también cuentan como medios adecuados de solución de controversias."
+     },
+     {
+      "t": "División material, si cabe",
+      "p": "Solo si el inmueble admite partes independientes. Pasa, por ejemplo, con un edificio de varios pisos (artículo 401), pero no con una vivienda normal."
+     }
+    ]
+   },
+   {
+    "overline": "Envío",
+    "h2": "Notario o burofax: cómo hacerlo llegar con prueba",
+    "intro": [
+     "El modelo de requerimiento de división de cosa común solo sirve en el juzgado si puedes probarlo. Tienes que acreditar qué dijiste, cuándo y que el otro lo recibió."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Vía",
+      "Coste orientativo"
+     ],
+     [
+      "Notario",
+      "Entre 60 y 150 € por destinatario. El notario entrega la cédula con el texto y levanta acta. Además, el requerido puede contestar en la misma acta en los dos días hábiles siguientes. El arancel parte de 36,06 € más diligencias, salida, copias e IVA."
+     ],
+     [
+      "Burofax",
+      "Unos 33 € online o 37 € en oficina, con dos páginas, copia certificada y acuse. Son tarifas de Correos de 2026 para Península y Baleares. El Burofax Premium Plus incluye copia certificada y prueba de entrega electrónica por 36,01 €."
+     ],
+     [
+      "Mediación o conciliación",
+      "Depende del mediador o del notario. Si ya sabes que habrá que sentarse, puedes empezar por aquí, y quedará constancia del intento aunque el otro no acuda."
+     ]
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué pasa si no responde al requerimiento de división de la cosa común",
+    "intro": [
+     "Con el modelo de requerimiento de división de cosa común ya enviado, empieza a correr el plazo de la negociación. Esto es lo que suele venir después."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Pasan 30 días naturales",
+      "p": "Sin respuesta por escrito, la negociación termina sin acuerdo. Lo dice el artículo 10 de la Ley Orgánica 1/2025. Guarda el acta o el acuse, porque se aportan con la demanda."
+     },
+     {
+      "t": "Demanda de división",
+      "p": "Tu abogado presenta la demanda en el juzgado de primera instancia competente. Hace falta abogado y procurador, y el procedimiento suele tardar de uno a tres años."
+     },
+     {
+      "t": "Sentencia y subasta",
+      "p": "Si la cosa es indivisible, se vende y se reparte el precio (artículo 404 del Código Civil). Así ocurre cuando nadie acepta quedársela pagando a los demás. Normalmente es una subasta, donde el precio suele quedar por debajo del de mercado."
+     },
+     {
+      "t": "Puedes cerrar antes",
+      "p": "Hasta la subasta podéis llegar a un acuerdo. Además, tú puedes vender tu cuota a un tercero en cualquier momento (artículo 399)."
+     }
+    ]
+   },
+   {
+    "overline": "Sin juicio",
+    "h2": "Si prefieres no llegar a la subasta",
+    "intro": [
+     "Un modelo de requerimiento de división de cosa común abre la puerta del juzgado, pero cruzarla cuesta tiempo y dinero. Vender tu cuota es la salida que no depende del otro."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos la parte en cualquier fase",
+     "p": "Compramos con fondos propios cuotas en toda España, también con la demanda ya presentada. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con los gastos de notaría a nuestro cargo.",
+     "cta": "Quiero vender mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es obligatorio enviar un requerimiento antes de la demanda de división?",
+    "La ley no exige un requerimiento con ese nombre, pero sí un intento previo de negociación o de otro medio adecuado de solución de controversias desde el 3 de abril de 2025. El requerimiento fehaciente con propuestas concretas es la forma más sencilla de acreditarlo. Sin ese intento, el juzgado puede no admitir la demanda."
+   ],
+   [
+    "¿Cuánto tiempo hay que esperar después del requerimiento?",
+    "Treinta días naturales desde que el otro lo recibe, si no contesta por escrito. Si contesta y negociáis, la ley da por terminada la negociación a los tres meses de la primera reunión sin acuerdo, salvo que decidáis seguir. Después ya puedes presentar la demanda."
+   ],
+   [
+    "¿Puedo pedir la división si hay un pacto de indivisión?",
+    "No mientras esté vigente. El artículo 400 del Código Civil admite pactar la indivisión por un máximo de diez años, prorrogables con un nuevo acuerdo. Pasado el plazo, cualquiera puede pedir la división; y aunque el pacto siga vigente, puedes vender tu cuota."
+   ],
+   [
+    "¿Qué pasa si el otro copropietario vive en la vivienda?",
+    "Puedes pedir la división igualmente, porque vivir en el inmueble no da derecho a impedirla. Si es la vivienda familiar y un juez atribuyó su uso en un divorcio, ese uso puede mantenerse aunque se venda, y eso baja el precio. Consulta tu caso antes de demandar."
+   ],
+   [
+    "¿Puedo vender mi parte después de enviar el requerimiento?",
+    "Sí. El requerimiento no te obliga a nada y tu cuota sigue siendo tuya para venderla (artículo 399 del Código Civil). Nosotros la compramos en cualquier fase, incluso con la demanda presentada, con oferta por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el requerimiento de división",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Demanda de división de cosa común: requisitos",
+    "/blog/demanda-de-division-de-cosa-comun-requisitos/"
+   ],
+   [
+    "Subasta en la división de cosa común",
+    "/blog/subasta-division-de-cosa-comun/"
+   ],
+   [
+    "Modelo de burofax a un copropietario",
+    "/modelos-documentos-proindiviso/modelo-burofax-copropietario/"
+   ]
+  ],
+  "cta_title": "Sal de la comunidad sin esperar a la sentencia",
+  "cta_text": "Compramos tu cuota con fondos propios, también con pleito en marcha. Oferta en 48 horas y cobro al contado en notaría.",
+  "yoast_title": "Modelo de requerimiento de división de cosa común en Word",
+  "meta_desc": "Modelo de requerimiento de división de cosa común en Word, útil como intento previo de negociación. O vende tu parte: oferta por escrito en 48 horas.",
+  "focus_kw": "modelo de requerimiento de división de cosa común",
+  "title_corto": "Requerimiento de división",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of the worn stone staircase and heavy wooden double door of a historic public building in a Spanish city centre, early morning light on the facade, empty street, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de requerimiento de división de cosa común: escalinata de piedra",
+  "modelo": {
+   "titulo": "Modelo de requerimiento de división de cosa común",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nREQUIRENTE: [NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO].\nREQUERIDO: [NOMBRE Y APELLIDOS DEL COPROPIETARIO], con domicilio en [DOMICILIO DEL COPROPIETARIO].\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: requerimiento de división de la cosa común y solicitud de negociación previa.\n\nPRIMERO. Somos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], inscrito como finca registral n.º [FINCA REGISTRAL N.º] en el Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Me pertenece el [PORCENTAJE] % y a usted el [PORCENTAJE] %, en virtud de [TÍTULO DE ADQUISICIÓN].\n\nSEGUNDO. No deseo continuar en la comunidad. Conforme al artículo 400 del Código Civil, ningún copropietario está obligado a permanecer en ella y cada uno puede pedir en cualquier tiempo que se divida la cosa común. No existe entre nosotros ningún pacto de indivisión vigente.\n\nTERCERO. El inmueble es indivisible, porque su división material lo haría inservible para el uso al que se destina (artículo 401 del Código Civil). Por ello, y de acuerdo con el artículo 404, le propongo cualquiera de estas soluciones [CONSERVA LAS QUE ACEPTES]:\n\na) Vender el inmueble completo a un tercero por un precio no inferior a [IMPORTE EN EUROS] euros, en un plazo de [PLAZO], y repartir el precio según nuestras cuotas.\nb) Adjudicarle a usted el inmueble completo, abonándome [IMPORTE EN EUROS] euros por mi cuota.\nc) Adjudicarme a mí el inmueble completo, abonándole yo [IMPORTE EN EUROS] euros por su cuota.\nd) Encargar de común acuerdo una tasación independiente, con su coste en proporción a nuestras cuotas, y aplicar su valor a las opciones b) o c).\n\nTambién estoy dispuesto a acudir a una mediación o a una conciliación ante notario, si lo prefiere.\n\nAdemás, le reclamo [IMPORTE EN EUROS] euros por [GASTOS PAGADOS POR MÍ O USO EXCLUSIVO DEL INMUEBLE], según el detalle adjunto. [BORRA ESTE PÁRRAFO SI NO RECLAMAS NINGUNA CANTIDAD]\n\nCUARTO. Le ruego que me conteste por escrito en el plazo de treinta días naturales desde la recepción de este requerimiento, en el domicilio indicado o en [CORREO ELECTRÓNICO]. Este escrito se formula como solicitud de negociación a los efectos de los artículos 5, 7 y 10 de la Ley Orgánica 1/2025, de 2 de enero, y como requerimiento fehaciente a los efectos del artículo 395 de la Ley de Enjuiciamiento Civil.\n\nQUINTO. Si en ese plazo no recibo respuesta o no alcanzamos un acuerdo, ejercitaré la acción de división de la cosa común ante el juzgado competente. Le informo de que, si el inmueble no se adjudica a uno de nosotros, el juzgado puede acordar su venta, normalmente en pública subasta, y el reparto del precio según las cuotas.\n\nConfío en que podamos evitar el procedimiento judicial con un acuerdo razonable para los dos.\n\nAtentamente,\n[FIRMA]\n[NOMBRE Y APELLIDOS]",
+   "instrucciones": [
+    "Comprueba en una nota simple reciente que no hay pacto de indivisión inscrito ni cargas que debas mencionar.",
+    "Pon cifras realistas: una venta conjunta muy cara o una compensación muy baja juegan en tu contra.",
+    "Incluye todo lo que luego quieras pedir al juez, también gastos o uso: la ley exige que coincida el objeto.",
+    "Envíalo por notario o por burofax con copia certificada y acuse de recibo, uno por cada copropietario.",
+    "Guarda el acta o el acuse: tu abogado lo aportará con la demanda.",
+    "Si el inmueble admite división material, como una finca grande o un edificio con varios pisos, cambia el punto TERCERO y propón lotes."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Coste del requerimiento notarial (60-150 € por destinatario): horquilla estimada a partir del arancel (acta 36,06 €, diligencias, salida 18,03 €/h, copias 3,01 €/folio, IVA); no existe un precio cerrado oficial.",
+   "Art. 395 LEC: la mala fe por requerimiento fehaciente previo opera en el allanamiento antes de contestar; en la acción de división conviene que el abogado valore cómo encaja el «cumplimiento de la obligación».",
+   "Vivienda familiar con uso atribuido judicialmente: se dice que el uso puede mantenerse tras la venta; depende de la resolución de familia y de la doctrina aplicable, revisar en cada caso."
+  ]
+ },
+ {
+  "slug": "modelo-notificacion-venta-cuota-retracto",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de notificación de venta de cuota a los copropietarios para el retracto",
+  "sub": "El modelo de notificación de venta de cuota comunica a los copropietarios la venta de tu parte a un tercero. Incluye el precio y las condiciones para que puedan ejercer su retracto de 9 días naturales. Puedes copiarlo o descargarlo en Word, y si nos vendes tu parte, esta notificación la gestionamos nosotros.",
+  "checks": [
+   "Dos versiones: antes y después",
+   "Arts. 1522 y 1524 del Código Civil",
+   "La enviamos si nos vendes"
+  ],
+  "card_title": "¿Vendes tu cuota?",
+  "card_text": "Te damos precio en 48 horas y nos ocupamos de notificar a los demás copropietarios.",
+  "sections": [
+   {
+    "overline": "El retracto",
+    "h2": "Por qué enviar una notificación de venta de cuota",
+    "intro": [
+     "Puedes vender tu cuota a un tercero sin permiso de nadie (artículo 399 del Código Civil). A cambio, los demás copropietarios tienen el retracto de comuneros. Es decir, pueden ocupar el lugar del comprador con las mismas condiciones (artículos 1521 y 1522). Para ello le reembolsan el precio y los gastos (artículos 1518 y 1525).",
+     "El plazo es corto: 9 días naturales desde la inscripción de la venta en el Registro de la Propiedad. Si no se ha inscrito, cuenta desde que el copropietario conoce la venta (artículo 1524). Según la doctrina del Tribunal Supremo, ese conocimiento debe ser completo, con precio, forma de pago y demás condiciones. Una noticia vaga no hace correr el plazo.",
+     "Por eso conviene notificar de forma fehaciente y completa. Así el plazo empieza a contar y, si nadie retrae, el comprador queda tranquilo. El modelo de notificación de venta de cuota de esta página recoge todo lo que el copropietario necesita saber."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de notificación de venta de cuota en dos versiones",
+    "type": "tool",
+    "intro": [
+     "El modelo de notificación de venta de cuota tiene dos versiones. La A sirve para avisar antes de firmar y la B, para comunicar la venta ya hecha. Usa solo la que corresponda y borra la otra."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-notificacion-venta-cuota-retracto\"]"
+   },
+   {
+    "overline": "Antes o después",
+    "h2": "Aviso previo o comunicación de la venta ya firmada",
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Efecto"
+     ],
+     [
+      "Versión A",
+      "Aviso antes de firmar. Ofreces a los copropietarios comprar en las mismas condiciones que te ofrece el tercero. Es una cortesía útil, pero el Código Civil común no la exige. Por sí sola no extingue el retracto, que nace con la venta."
+     ],
+     [
+      "Versión B",
+      "Notificación tras la escritura. Comunicas la venta firmada con fecha, notario, comprador, precio y condiciones, y adjuntas copia simple. Es la que hace correr el plazo de 9 días naturales del artículo 1524."
+     ],
+     [
+      "Renuncia por escrito",
+      "Un argumento sólido. Si en la versión A contesta que no quiere comprar y luego vendes en esas condiciones, su renuncia pesa. Aun así, notifica también la venta con la versión B."
+     ],
+     [
+      "Condiciones distintas",
+      "Hay que notificar de nuevo. Si bajas el precio o cambias la forma de pago, notifica la venta final. El retracto se ejerce con las condiciones reales de la escritura."
+     ]
+    ]
+   },
+   {
+    "overline": "Cómo enviarla",
+    "h2": "Cómo enviar la notificación de venta de la cuota con prueba",
+    "intro": [
+     "El modelo de notificación de venta de cuota debe llegar a todos los copropietarios. No vale enviarlo solo a quien te cae bien."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Elige la vía",
+      "p": "Requerimiento notarial o burofax con copia certificada y acuse de recibo. Con dos páginas, el burofax cuesta unos 33 € online y 37 € en oficina, según las tarifas de Correos de 2026."
+     },
+     {
+      "t": "Adjunta la escritura",
+      "p": "En la versión B, adjunta copia simple de la escritura de compraventa. Así nadie podrá decir que no conocía el precio o la forma de pago."
+     },
+     {
+      "t": "Uno por copropietario",
+      "p": "Si hay varios, notifica a cada uno. Cuando dos o más quieren retraer, solo pueden hacerlo a prorrata de su porción en la cosa común (artículo 1522)."
+     },
+     {
+      "t": "Inscribe la venta",
+      "p": "El comprador debe inscribir la escritura en el Registro de la Propiedad. La inscripción también hace correr el plazo, aunque la notificación sigue siendo la mejor prueba."
+     }
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué ocurre cuando vence el plazo",
+    "intro": [
+     "Si nadie ejerce el retracto en los 9 días naturales, la venta queda firme frente a los demás copropietarios. El comprador pasa a ser copropietario con tu antigua cuota, con los mismos derechos y obligaciones.",
+     "Si alguien retrae, debe reembolsar al comprador el precio y los gastos (artículos 1518 y 1525). Se incluyen los del contrato y los necesarios y útiles hechos en la cosa. Si no hay acuerdo, tendrá que demandar por juicio ordinario (artículo 249 de la Ley de Enjuiciamiento Civil). Y deberá moverse rápido, porque el plazo es de caducidad. Tú cobras igual, porque el precio te lo paga el comprador en la firma.",
+     "Ojo con las herencias sin repartir. Si vendes tu derecho hereditario antes de la partición, los coherederos tienen otro retracto. Es el del artículo 1067, con un mes desde que se les hace saber la venta. Este modelo de notificación de venta de cuota sirve también, cambiando la referencia legal y el plazo. Y si el inmueble está en Cataluña, Aragón o Navarra, revisa antes su Derecho civil propio."
+    ]
+   },
+   {
+    "overline": "Te lo hacemos",
+    "h2": "Si nos vendes tu parte, notificamos nosotros",
+    "intro": [
+     "La notificación es un trámite delicado. Un error en el precio o en la fecha deja el retracto abierto más tiempo. Cuando compramos tu parte, preparamos y enviamos nosotros el modelo de notificación de venta de cuota a cada copropietario."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Olvídate del retracto",
+     "p": "Compramos con fondos propios cuotas de viviendas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado en la firma. Pagamos entre el 40 % y el 70 % del valor proporcional, con notaría y gestión a nuestro cargo.",
+     "cta": "Pedir oferta por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto tiempo tienen los copropietarios para ejercer el retracto?",
+    "Nueve días naturales, contados desde la inscripción de la venta en el Registro o, si no se ha inscrito, desde que conocen la venta con todas sus condiciones (artículo 1524 del Código Civil). Es un plazo de caducidad, así que pasado ese tiempo el derecho se pierde."
+   ],
+   [
+    "¿Quién debe enviar la notificación, el vendedor o el comprador?",
+    "La ley no lo dice. Puede enviarla cualquiera de los dos, y a menudo la envía el comprador, que es quien quiere que el plazo empiece a correr. Lo importante es que llegue a todos los copropietarios con el precio y las condiciones completas."
+   ],
+   [
+    "¿Si aviso antes de vender, ya no hay retracto?",
+    "No necesariamente. El aviso previo es una buena práctica, pero en el Código Civil común no sustituye a la notificación de la venta ya hecha. Si un copropietario renuncia por escrito a comprar en esas condiciones, tienes un argumento fuerte, pero notifica también la venta firmada."
+   ],
+   [
+    "¿Qué precio tiene que pagar quien retrae?",
+    "El mismo que pagó el comprador, más los gastos del contrato y los gastos necesarios y útiles hechos en la cosa (artículos 1518 y 1525 del Código Civil). Por eso conviene que la escritura refleje el precio real, porque un precio falso perjudica a todos."
+   ],
+   [
+    "¿Notificáis vosotros el retracto si os vendo mi parte?",
+    "Sí. Tras la firma en notaría enviamos la notificación fehaciente a cada copropietario con copia de la escritura. Si alguien ejerce el retracto, la operación se resuelve con nosotros como compradores; tú ya has cobrado en la firma."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la notificación de la venta de tu cuota",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ],
+   [
+    "Retracto de coherederos",
+    "/blog/retracto-de-coherederos-que-es/"
+   ],
+   [
+    "Proindiviso en Cataluña",
+    "/blog/proindiviso-en-cataluna-codigo-civil-catalan/"
+   ],
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota con el retracto bien notificado",
+  "cta_text": "Compramos tu parte con fondos propios y nos ocupamos de las notificaciones. Oferta en 48 horas y cobro al contado en notaría.",
+  "yoast_title": "Modelo de notificación de venta de cuota para el retracto",
+  "meta_desc": "Modelo de notificación de venta de cuota a los copropietarios para el retracto de 9 días, en Word. Si nos vendes tu parte, la enviamos nosotros.",
+  "focus_kw": "modelo de notificación de venta de cuota",
+  "title_corto": "Notificación de venta de cuota",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a row of old brass mailboxes on the wall of the entrance hall of a traditional Spanish apartment building, terracotta floor tiles and warm light from the street door, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de notificación de venta de cuota: buzones de latón en un portal",
+  "modelo": {
+   "titulo": "Modelo de notificación de venta de cuota",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nREMITENTE: [NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO].\nDESTINATARIO: [NOMBRE Y APELLIDOS DEL COPROPIETARIO], con domicilio en [DOMICILIO DEL COPROPIETARIO].\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: comunicación de la venta de mi cuota del inmueble de [DIRECCIÓN DEL INMUEBLE]\n\nSomos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Soy titular de una cuota del [PORCENTAJE] %.\n\n[USA SOLO UNA DE LAS DOS VERSIONES Y BORRA LA OTRA]\n\nVERSIÓN A. AVISO ANTES DE FIRMAR. Tengo intención de vender mi cuota a un tercero por [IMPORTE EN EUROS] euros, con pago [FORMA DE PAGO] y firma prevista ante notario antes del [FECHA]. Antes de firmar, le ofrezco adquirirla en las mismas condiciones. Si le interesa, comuníquemelo por escrito antes del [FECHA LÍMITE, AL MENOS 9 DÍAS NATURALES DESDE LA RECEPCIÓN]. Si no desea comprarla, le agradeceré que me lo confirme por escrito. Esta comunicación no sustituye a la notificación de la venta, que le enviaré si llega a firmarse.\n\nVERSIÓN B. VENTA YA FIRMADA. Le comunico que el día [FECHA], ante el notario de [LOCALIDAD] [NOMBRE DEL NOTARIO], con el número [NÚMERO DE PROTOCOLO] de su protocolo, he vendido mi cuota del [PORCENTAJE] % a [NOMBRE Y APELLIDOS O RAZÓN SOCIAL DEL COMPRADOR], con DNI o NIF [DNI O NIF DEL COMPRADOR], en estas condiciones:\nPrecio: [IMPORTE EN EUROS] euros.\nForma de pago: [FORMA DE PAGO].\nGastos del contrato: [IMPORTE EN EUROS] euros.\nOtras condiciones: [OTRAS CONDICIONES O NINGUNA].\n\n[SOLO EN LA VERSIÓN B] Le adjunto copia simple de la escritura. Conforme a los artículos 1522 y 1524 del Código Civil, como copropietario puede ejercer el derecho de retracto de comuneros en el plazo legal de nueve días naturales. Ese plazo se cuenta desde la inscripción de la venta en el Registro de la Propiedad o, en su defecto, desde que conozca la venta, y esta notificación tiene por objeto que la conozca de forma completa. Para ejercerlo deberá reembolsar al comprador el precio y los gastos previstos en los artículos 1518 y 1525 del Código Civil. Si varios copropietarios quieren ejercerlo, solo podrán hacerlo a prorrata de la porción que tengan en la cosa común.\n\nQuedo a su disposición para cualquier aclaración en [TELÉFONO O CORREO ELECTRÓNICO].\n\nAtentamente,\n[FIRMA]\n[NOMBRE Y APELLIDOS]",
+   "instrucciones": [
+    "Usa la versión A si quieres ofrecer la compra antes de firmar, y la B siempre después de la escritura.",
+    "Copia el precio y las condiciones tal y como figuran en la escritura.",
+    "Envía una notificación a cada copropietario por notario o por burofax con copia certificada y acuse de recibo.",
+    "Si vendes un derecho hereditario antes de la partición, cita el artículo 1067 y cambia el plazo a un mes.",
+    "Guarda la prueba de recepción junto a la escritura: es lo que da tranquilidad al comprador."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Aviso previo (versión A): se afirma que, por sí solo, no extingue el retracto y que el plazo corre desde el conocimiento completo de la venta realizada; la eficacia de una renuncia escrita anticipada del comunero se presenta como «argumento sólido», no como certeza. Conviene que un abogado lo confirme.",
+   "No se citan los plazos de preferencia del Derecho civil catalán, aragonés o navarro (no verificados en esta tanda); solo se remite a revisarlos."
+  ]
+ },
+ {
+  "slug": "modelo-pacto-de-indivision",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de pacto de indivisión entre copropietarios: plazo, uso, gastos y salida",
+  "sub": "El modelo de pacto de indivisión compromete a los copropietarios a no pedir la división durante un plazo. La ley fija un máximo de 10 años, prorrogable, y el pacto también ordena uso, gastos, alquiler y salida. Puedes copiarlo o descargarlo en Word, y si quieres salir, te compramos la parte aunque el pacto siga vigente.",
+  "checks": [
+   "Respeta el límite de 10 años",
+   "Reglas de uso y gastos",
+   "Tu cuota sigue siendo vendible"
+  ],
+  "card_title": "¿Pacto vigente y quieres salir?",
+  "card_text": "El pacto no te impide vender tu cuota. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Qué es",
+    "h2": "Qué es un pacto de indivisión y cuándo conviene",
+    "intro": [
+     "El artículo 400 del Código Civil dice que ningún copropietario está obligado a seguir en la comunidad. Pero añade una excepción. Es válido el pacto de conservar la cosa indivisa por tiempo determinado, que no exceda de diez años. Ese plazo puede prorrogarse por nueva convención.",
+     "Conviene cuando todos quieren mantener el inmueble un tiempo y temen que uno fuerce la venta. Por ejemplo, hermanos que heredan la casa donde vive su madre. También socios que esperan una recalificación, o una pareja que quiere estabilidad mientras paga la hipoteca.",
+     "Este modelo de pacto de indivisión no se limita al plazo. Además ordena la convivencia: quién usa el inmueble y cómo se pagan los gastos. Y prevé cómo se decide un alquiler y qué pasa si alguien quiere salir antes."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de pacto de indivisión para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Rellena el modelo de pacto de indivisión con los datos de la nota simple. Adapta después las cláusulas de uso y gastos a vuestro caso. Debe firmarlo todo el que tenga una cuota."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-pacto-de-indivision\"]"
+   },
+   {
+    "overline": "Cláusulas",
+    "h2": "Las cláusulas que no pueden faltar",
+    "intro": [
+     "Un modelo de pacto de indivisión mal redactado genera más conflictos de los que evita. Revisa que el tuyo resuelva estas seis cuestiones."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Plazo cierto.</strong> Una fecha o un número de años, nunca más de diez. Si pactáis más, lo que exceda de diez años no obliga.",
+     "<strong>Prórroga expresa.</strong> El plazo solo se prorroga con un nuevo acuerdo de todos (artículo 400). Una prórroga automática es discutible, así que es mejor firmarla al vencer.",
+     "<strong>Uso y compensación.</strong> Quién usa el inmueble y en qué periodos. Y cuánto paga a los demás por ese uso, si paga algo.",
+     "<strong>Gastos.</strong> La regla legal es el reparto por cuotas (artículo 393), pero podéis pactar que el ocupante pague comunidad y suministros. Cualquiera puede exigir a los demás los gastos de conservación (artículo 395).",
+     "<strong>Salida anticipada.</strong> Quien quiera salir puede vender su cuota (artículo 399). El pacto puede dar a los demás un derecho preferente para comprarla antes, con plazo y condiciones.",
+     "<strong>Herederos y compradores.</strong> El pacto obliga a los herederos de quien lo firma (artículo 1257). Para que vincule a quien compre una cuota, conviene elevarlo a escritura pública y pedir su inscripción en el Registro."
+    ]
+   },
+   {
+    "overline": "Forma",
+    "h2": "Documento privado o escritura: cómo firmar el pacto de indivisión",
+    "intro": [
+     "El modelo de pacto de indivisión vale en documento privado, pero la forma cambia a quién obliga y cuánto cuesta."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Forma",
+      "Coste orientativo"
+     ],
+     [
+      "Documento privado",
+      "Gratis. Obliga a quienes lo firman y a sus herederos, pero quien compre una cuota puede alegar que no lo conocía."
+     ],
+     [
+      "Firmas legitimadas",
+      "Pocos euros. El notario da fe de quién firma y de la fecha. El arancel fija 6,01 € por la primera firma y 3,01 € por cada una más, más IVA."
+     ],
+     [
+      "Escritura pública",
+      "Más cara: pide presupuesto. Da fecha cierta y permite pedir la inscripción en el Registro de la Propiedad. Así puede afectar a futuros compradores de cuotas."
+     ],
+     [
+      "En la escritura de herencia o compra",
+      "Lo más cómodo si aún no habéis firmado. Se añade como una cláusula más y se inscribe con el resto."
+     ]
+    ],
+    "outro": [
+     "En Cataluña, Aragón, Navarra y otras comunidades con Derecho civil propio, revisa sus normas antes de firmar. El plazo y sus excepciones pueden variar."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Cómo salir antes de que venza el pacto",
+    "intro": [
+     "El pacto impide pedir la división, no vender. El artículo 399 sigue intacto, así que puedes vender tu cuota a un tercero aunque falten años. Eso sí, respeta el derecho preferente si lo pactasteis. Y recuerda que los demás tienen un retracto legal de 9 días naturales (artículos 1522 y 1524).",
+     "También podéis dejarlo sin efecto por acuerdo de todos, o que uno compre la parte de otro. Lo que firmasteis entre todos se deshace entre todos. Fuera de eso, pedir la división antes de plazo solo cabe en casos excepcionales. El resultado es incierto, así que consulta antes a un abogado.",
+     "Un comprador profesional tiene en cuenta los años que faltan. Si el pacto le vincula, tampoco podrá pedir la división hasta el vencimiento. Por eso un modelo de pacto de indivisión con derecho preferente ayuda a que la salida quede en la familia."
+    ]
+   },
+   {
+    "overline": "Salida rápida",
+    "h2": "Si quieres salir aunque el pacto siga vigente",
+    "intro": [
+     "Ningún modelo de pacto de indivisión puede impedirte vender tu cuota. Si lo necesitas, la compramos nosotros, con el pacto incluido."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Compramos con pacto vigente",
+     "p": "Leemos el pacto y respetamos el derecho preferente de los demás. Te hacemos una oferta por escrito en 48 horas, con firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con los gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio con pacto vigente"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto puede durar un pacto de indivisión?",
+    "Como máximo diez años, según el artículo 400 del Código Civil. Al vencer, podéis prorrogarlo con un nuevo acuerdo de todos, otra vez con el mismo límite. Lo que se pacte por encima de diez años no obliga."
+   ],
+   [
+    "¿El pacto de indivisión me impide vender mi parte?",
+    "No. Solo impide pedir la división de la cosa común durante el plazo. Tu cuota sigue siendo tuya y puedes venderla, cederla o hipotecarla (artículo 399), respetando el derecho preferente pactado y el retracto legal de los demás."
+   ],
+   [
+    "¿Hace falta notario para firmar un pacto de indivisión?",
+    "No es obligatorio, porque un documento privado obliga a quienes lo firman y a sus herederos. Pero para que afecte a quien compre una cuota en el futuro conviene la escritura pública y pedir su inscripción en el Registro de la Propiedad."
+   ],
+   [
+    "¿Qué pasa con el pacto si muere uno de los copropietarios?",
+    "Sus herederos ocupan su lugar y quedan obligados por el pacto, porque los contratos producen efecto entre las partes y sus herederos (artículo 1257 del Código Civil). Si eso os preocupa, el pacto puede prever qué ocurre en ese caso."
+   ],
+   [
+    "¿Compráis una cuota con pacto de indivisión vigente?",
+    "Sí. Revisamos el plazo que queda, si está inscrito y si hay derecho preferente a favor de los demás. Con eso te hacemos una oferta por escrito en 48 horas, y el precio refleja los años de pacto pendientes."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el pacto de indivisión",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Pacto de indivisión: qué es y cuánto dura",
+    "/blog/pacto-de-indivision-que-es-y-cuanto-dura/"
+   ],
+   [
+    "Modelo de acuerdo entre copropietarios",
+    "/modelos-documentos-proindiviso/modelo-acuerdo-entre-copropietarios/"
+   ],
+   [
+    "Proindiviso: ventajas y desventajas",
+    "/blog/proindiviso-ventajas-y-desventajas/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ]
+  ],
+  "cta_title": "Sal del proindiviso aunque haya pacto",
+  "cta_text": "Compramos tu cuota con fondos propios, con el pacto incluido. Oferta en 48 horas y cobro al contado en notaría.",
+  "yoast_title": "Modelo de pacto de indivisión entre copropietarios en Word",
+  "meta_desc": "Modelo de pacto de indivisión en Word: plazo máximo de 10 años, uso, gastos, alquiler y salida. Si quieres salir antes, te compramos la parte en 48 h.",
+  "focus_kw": "modelo de pacto de indivisión",
+  "title_corto": "Pacto de indivisión",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a whitewashed village house in rural Spain with an old weathered wooden door and a large iron key resting in the lock, terracotta pots beside the step, warm late afternoon light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de pacto de indivisión: llave en la puerta de una casa de pueblo",
+  "modelo": {
+   "titulo": "Modelo de pacto de indivisión",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n[NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO], titular del [PORCENTAJE] %.\n[NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO], titular del [PORCENTAJE] %.\n[AÑADE UNA LÍNEA POR CADA COPROPIETARIO]\n\nEXPONEN\nQue son los únicos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE], en las cuotas indicadas, y que desean mantenerlo en común durante un tiempo. Por ello acuerdan los siguientes\n\nPACTOS\n\nPrimero. Indivisión. Las partes se obligan a no pedir la división del inmueble durante [PLAZO, MÁXIMO 10 AÑOS] desde la firma, conforme al artículo 400 del Código Civil. El plazo solo podrá prorrogarse por un nuevo acuerdo expreso de todas las partes.\n\nSegundo. Uso. [NOMBRE] usará el inmueble [EN EXCLUSIVA O EN LOS PERIODOS QUE SE INDICAN] y abonará a los demás [IMPORTE EN EUROS] euros al mes, en proporción a sus cuotas, antes del día [DÍA] de cada mes. [O BIEN: USO POR TURNOS SEGÚN CALENDARIO ANEXO, SIN COMPENSACIÓN]\n\nTercero. Gastos. IBI, seguro, derramas y obras de conservación se pagarán en proporción a las cuotas (artículos 393 y 395 del Código Civil). La comunidad ordinaria y los suministros correrán a cargo de [QUIEN USE EL INMUEBLE O DE TODOS, POR CUOTAS]. Quien adelante un gasto común podrá reclamar a los demás su parte con el justificante.\n\nCuarto. Administración y alquiler. Las decisiones de administración, incluido alquilar el inmueble, se tomarán por mayoría de cuotas (artículo 398 del Código Civil). Los arrendamientos de más de [NÚMERO] años y cualquier alteración del inmueble requerirán el acuerdo de todos (artículo 397). Las rentas netas se repartirán según las cuotas.\n\nQuinto. Salida anticipada. Cualquier parte podrá vender su cuota durante el plazo (artículo 399 del Código Civil). Antes de venderla a un tercero, comunicará a las demás por escrito el precio y las condiciones, y estas tendrán [PLAZO, P. EJ. 30 DÍAS NATURALES] para comprarla en esas mismas condiciones, a prorrata de sus cuotas si son varias. Este derecho no sustituye al retracto legal de los artículos 1522 y 1524 del Código Civil.\n\nSexto. Herederos y compradores. Este pacto obliga a las partes y a sus herederos. Quien venda su cuota informará al comprador de este pacto y procurará que se subrogue en él. Las partes se obligan a elevarlo a escritura pública a petición de cualquiera de ellas, para solicitar su inscripción en el Registro de la Propiedad.\n\nSéptimo. Fin anticipado. El pacto terminará antes de plazo por acuerdo escrito de todas las partes o si una de ellas adquiere el 100 % del inmueble. [AÑADE OTRAS CAUSAS SI LAS PACTÁIS, COMO EL FALLECIMIENTO DE UNA PARTE]\n\nOctavo. Desacuerdos. Antes de acudir a los tribunales, las partes intentarán resolver cualquier desacuerdo mediante negociación o mediación.\n\nY en prueba de conformidad, firman todas las partes en [NÚMERO DE EJEMPLARES] ejemplares en el lugar y la fecha indicados.\n[FIRMAS DE TODOS LOS COPROPIETARIOS]",
+   "instrucciones": [
+    "Firman todos los copropietarios: a quien no firme, el pacto no le obliga.",
+    "Pon un plazo concreto y nunca superior a diez años.",
+    "Adapta uso y gastos a lo que ya hacéis: un pacto realista se cumple.",
+    "Si queréis que afecte a futuros compradores, elevadlo a escritura pública y pedid su inscripción.",
+    "Guardad un ejemplar original firmado cada uno."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Inscripción registral del pacto de indivisión y su oponibilidad a terceros adquirentes de cuotas: se formula como «pedir su inscripción», sin garantizarla; depende de la calificación registral.",
+   "Pacto por más de diez años o con prórroga automática: se dice que el exceso «no obliga» y que la prórroga automática «es discutible»; es criterio doctrinal, no texto legal expreso.",
+   "Salida antes de plazo por causa grave: se presenta como excepcional y de resultado incierto."
+  ]
+ },
+ {
+  "slug": "modelo-acuerdo-entre-copropietarios",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de acuerdo entre copropietarios para el uso y los gastos de la vivienda",
+  "sub": "El modelo de acuerdo entre copropietarios ordena el día a día de una vivienda en proindiviso. Fija quién la usa y cuánto compensa, cómo se reparten IBI, comunidad, seguro y obras, y qué pasa si alguien quiere vender. Puedes copiarlo o descargarlo en Word, y si un día prefieres salir, te compramos la parte.",
+  "checks": [
+   "Uso, gastos y alquiler por escrito",
+   "Basado en los arts. 392 a 399",
+   "Salida fácil si cambias de idea"
+  ],
+  "card_title": "¿El acuerdo ya no funciona?",
+  "card_text": "Te compramos tu parte sin esperar a los demás. Oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Para qué sirve",
+    "h2": "Por qué poner por escrito un acuerdo entre copropietarios",
+    "intro": [
+     "La mayoría de los conflictos de un proindiviso no empiezan por la venta, sino por el día a día. Uno vive en el piso y otro paga el IBI. Nadie sabe a quién toca una derrama, o alguien alquila una habitación sin preguntar. El Código Civil da reglas generales, pero el artículo 392 dice que la comunidad se rige primero por lo que pactéis.",
+     "Este modelo de acuerdo entre copropietarios convierte esas reglas en compromisos concretos, con cifras, fechas y forma de pago. No impide pedir la división ni vender la cuota. Para eso existe el pacto de indivisión, que tiene su propio modelo en esta sección."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de acuerdo entre copropietarios para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Completa el modelo de acuerdo entre copropietarios con vuestras cifras y borra las cláusulas que no necesitéis. Después firmadlo todos y guardad un ejemplar cada uno."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-acuerdo-entre-copropietarios\"]"
+   },
+   {
+    "overline": "Reglas legales",
+    "h2": "Qué dice la ley si no pactáis nada",
+    "intro": [
+     "Cada cláusula del modelo de acuerdo entre copropietarios parte de una regla legal que podéis mantener o ajustar."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Cuestión",
+      "Regla del Código Civil sin acuerdo"
+     ],
+     [
+      "Uso",
+      "Cada copropietario puede usar la vivienda sin impedir el uso de los demás (artículo 394). Si uno la ocupa en exclusiva, los tribunales suelen admitir una compensación, sobre todo desde que se le reclama."
+     ],
+     [
+      "Gastos",
+      "Beneficios y cargas se reparten según las cuotas (artículo 393). Además, cualquiera puede obligar a los demás a pagar los gastos de conservación (artículo 395)."
+     ],
+     [
+      "Administración y alquiler",
+      "Se decide por mayoría de cuotas, no de personas (artículo 398). Si no hay mayoría, decide el juez a petición de parte. Los alquileres muy largos pueden exigir unanimidad, según la doctrina del Tribunal Supremo."
+     ],
+     [
+      "Obras y cambios",
+      "Las alteraciones de la cosa común necesitan el consentimiento de todos, aunque beneficien a todos (artículo 397)."
+     ],
+     [
+      "Venta",
+      "Cada uno puede vender su cuota (artículo 399). Los demás tienen retracto de 9 días naturales (artículos 1522 y 1524) y cualquiera puede pedir la división (artículo 400)."
+     ]
+    ]
+   },
+   {
+    "overline": "Cifras",
+    "h2": "Cómo fijar la compensación y el reparto de gastos",
+    "intro": [
+     "En un modelo de acuerdo entre copropietarios, las cifras son lo que más discusiones evita. Un ejemplo con números redondos ayuda a pactarlas."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Compensación por uso.</strong> Si el piso se alquilaría por 900 € al mes y sois dos hermanos al 50 %, la referencia son 450 €. Es lo que pagaría al otro quien vive en él. Muchas familias pactan menos a cambio de que el ocupante asuma más gastos.",
+     "<strong>Hipoteca común.</strong> Podéis pactar quién paga cada cuota del préstamo, pero ese pacto no vincula al banco. Si el préstamo es solidario, como suele ocurrir, el banco puede reclamar la cuota entera a cualquiera de los deudores.",
+     "<strong>Gastos de propietario.</strong> IBI, seguro de continente, derramas y obras de conservación, por cuotas. Con un IBI de 600 € y dos mitades, 300 € cada uno.",
+     "<strong>Gastos del ocupante.</strong> Comunidad ordinaria, suministros y pequeñas reparaciones, a cargo de quien usa la vivienda, si así lo pactáis.",
+     "<strong>Recibo del IBI.</strong> El ayuntamiento puede emitirlo a nombre de un solo titular. Sin embargo, cualquiera puede pedir que lo divida aportando los datos de los demás y su cuota (artículo 35 de la Ley General Tributaria).",
+     "<strong>Actualización.</strong> Revisad la compensación una vez al año, por ejemplo con el IPC o por acuerdo."
+    ]
+   },
+   {
+    "overline": "Firma y revisión",
+    "h2": "Cómo firmar el acuerdo entre copropietarios y cuándo revisarlo",
+    "intro": [
+     "Para firmar el modelo de acuerdo entre copropietarios basta un documento privado firmado por todos. Si queréis prueba de la fecha y de la identidad, legitimad las firmas ante notario. El arancel fija 6,01 € por la primera firma y 3,01 € por cada una más, más IVA. Normalmente no se inscribe en el Registro.",
+     "Revisadlo cuando cambie algo importante: alguien se muda, entra un inquilino, se aprueba una derrama grande o fallece un copropietario. Sus herederos quedan obligados por lo firmado (artículo 1257), pero pueden pedir la división o vender su parte como cualquiera.",
+     "Si el acuerdo deja de cumplirse, el siguiente paso es reclamar por burofax lo que se deba. Las cantidades pendientes prescriben a los cinco años (artículo 1964), y la reclamación extrajudicial interrumpe ese plazo (artículo 1973)."
+    ]
+   },
+   {
+    "overline": "Si cambias de idea",
+    "h2": "Cuando la convivencia ya no funciona",
+    "intro": [
+     "Un modelo de acuerdo entre copropietarios funciona mientras hay buena relación. Si se rompe, vender tu parte es la salida que no depende de nadie."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte, haya acuerdo o no",
+     "p": "Compramos con fondos propios cuotas de viviendas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con notaría y gestión a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tiene validez un acuerdo privado entre copropietarios?",
+    "Sí. El artículo 392 del Código Civil dice que la comunidad se rige primero por lo que pacten sus miembros. Un documento privado firmado por todos obliga a quienes lo firman y a sus herederos, y sirve como prueba si luego hay que reclamar."
+   ],
+   [
+    "¿Puede un copropietario alquilar el piso sin permiso de los demás?",
+    "No puede alquilar la vivienda entera por su cuenta. La decisión de alquilar se toma por mayoría de cuotas (artículo 398) y, si alquila sin ella, los demás pueden reclamar su parte de la renta y oponerse al contrato. Lo mejor es dejarlo regulado en el acuerdo."
+   ],
+   [
+    "¿Cuánto debe pagar quien vive en la vivienda común?",
+    "No hay una cifra legal. Una referencia habitual es la renta de mercado multiplicada por la cuota de los demás: con un alquiler de 900 € y dos mitades, 450 € al mes. Podéis pactar menos si el ocupante asume más gastos."
+   ],
+   [
+    "¿El acuerdo impide que alguien pida la división?",
+    "No. Un acuerdo de uso y gastos no es un pacto de indivisión. Cualquier copropietario puede pedir la división en cualquier momento (artículo 400), salvo que hayáis pactado expresamente no hacerlo, con un máximo de diez años."
+   ],
+   [
+    "¿Me compráis la parte si hay un acuerdo de uso firmado?",
+    "Sí. Leemos el acuerdo para saber quién usa la vivienda y en qué condiciones, y lo tenemos en cuenta en el precio. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el acuerdo entre copropietarios",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "Alquilar un piso en proindiviso",
+    "/blog/alquilar-un-piso-en-proindiviso/"
+   ],
+   [
+    "Compensación por uso exclusivo de la vivienda",
+    "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"
+   ],
+   [
+    "Modelo de pacto de indivisión",
+    "/modelos-documentos-proindiviso/modelo-pacto-de-indivision/"
+   ]
+  ],
+  "cta_title": "Si la convivencia se rompe, vende tu parte",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Modelo de acuerdo entre copropietarios: uso y gastos en Word",
+  "meta_desc": "Modelo de acuerdo entre copropietarios en Word: uso, compensación, IBI, comunidad, obras y alquiler. Si prefieres salir, te compramos la parte en 48 h.",
+  "focus_kw": "modelo de acuerdo entre copropietarios",
+  "title_corto": "Acuerdo entre copropietarios",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a bright living room in a Spanish flat with two armchairs facing each other and a set of house keys on a low wooden coffee table, linen curtains and soft daylight, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de acuerdo entre copropietarios: dos sillones y unas llaves en un salón",
+  "modelo": {
+   "titulo": "Modelo de acuerdo entre copropietarios",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n[NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO], titular del [PORCENTAJE] %.\n[NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO], titular del [PORCENTAJE] %.\n[AÑADE UNA LÍNEA POR CADA COPROPIETARIO]\n\nSon copropietarios de la vivienda situada en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Conforme al artículo 392 del Código Civil, acuerdan regular su uso y sus gastos con estas cláusulas:\n\n1. Uso. Desde el [FECHA], [NOMBRE DEL OCUPANTE] usará la vivienda como residencia. A cambio abonará a [NOMBRE O NOMBRES] [IMPORTE EN EUROS] euros al mes en total, repartidos según sus cuotas, por transferencia a [CUENTA BANCARIA] antes del día [DÍA] de cada mes. La cantidad se revisará cada [PERIODO] según [IPC U OTRO CRITERIO].\n\n2. Gastos del ocupante. Correrán a cargo de quien use la vivienda la cuota ordinaria de comunidad, los suministros y las pequeñas reparaciones derivadas del uso.\n\n3. Gastos por cuotas. IBI, seguro de continente, derramas y obras de conservación se pagarán en proporción a la cuota de cada uno (artículos 393 y 395 del Código Civil). Quien pague un gasto común lo comunicará a los demás con el justificante, y estos le reembolsarán su parte en [PLAZO].\n\n4. Obras y mejoras. Las obras necesarias se comunicarán con presupuesto. Las mejoras que no alteren el inmueble se decidirán por mayoría de cuotas, y cualquier alteración requerirá el acuerdo de todos (artículos 397 y 398 del Código Civil).\n\n5. Alquiler. Si la vivienda queda libre, la decisión de alquilarla y sus condiciones se tomarán por mayoría de cuotas (artículo 398). Los arrendamientos de más de [NÚMERO] años requerirán el acuerdo de todos. Las rentas, descontados los gastos, se repartirán según las cuotas.\n\n6. Venta. Cada copropietario puede vender su cuota (artículo 399 del Código Civil). Antes de hacerlo, ofrecerá su compra a los demás en las mismas condiciones durante [PLAZO, P. EJ. 15 DÍAS NATURALES], sin perjuicio del retracto legal de los artículos 1522 y 1524. Este acuerdo no impide pedir la división de la cosa común (artículo 400).\n\n7. Duración. El acuerdo durará [PLAZO O HASTA LA VENTA DE LA VIVIENDA]. Cualquiera podrá dejar sin efecto la cláusula de uso con un preaviso escrito de [PLAZO]; desde entonces se aplicarán las reglas generales del Código Civil sobre el uso de la cosa común.\n\n8. Desacuerdos. Antes de acudir a los tribunales, las partes intentarán resolverlos mediante negociación o mediación.\n\nY en prueba de conformidad, firman todas las partes en [NÚMERO DE EJEMPLARES] ejemplares en el lugar y la fecha indicados.\n[FIRMAS DE TODOS LOS COPROPIETARIOS]",
+   "instrucciones": [
+    "Firman todos los copropietarios, también los que no viven en la vivienda.",
+    "Pon cifras y fechas concretas: «lo que sea justo» no se puede reclamar.",
+    "Si alguien ya ocupa la vivienda, fija desde cuándo se paga la compensación.",
+    "Adjunta un cuadro con los gastos del último año para que todos partan de los mismos números.",
+    "Guardad un ejemplar firmado cada uno y las transferencias como prueba."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; Premium Plus 36,01 €; acuse de recibo 5,75 €; PEE 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas) y después 33,88 €; burofax solo para España y Andorra (tarifas 2026 Península y Baleares, IVA incluido)",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ],
+   [
+    "Opciones del burofax (certificación de contenido, copia certificada, acuse, PEE, custodia; envío online desde Mi Oficina)",
+    "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
+   ],
+   [
+    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LO 1/2025: art. 5 (requisito de procedibilidad), art. 7 (interrupción de prescripción y 30 días naturales), art. 10 (acreditación y terminación sin acuerdo: 30 días naturales, 3 meses), art. 17 (oferta vinculante confidencial)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "LEC: art. 249.1.7.º (retracto por juicio ordinario), art. 249.2 (más de 15.000 €), arts. 394 y 395 (costas, mala fe por requerimiento fehaciente previo)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Arancel notarial: actas sin cuantía 36,060726 €; legitimación de firma 6,010121 € y 3,005061 € por firma adicional; copias 3,005061 €/folio; salida 18,030363 €/hora",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ],
+   [
+    "Reglamento Notarial art. 202 (notificación por notario) y art. 204 (contestación en dos días hábiles)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578"
+   ],
+   [
+    "LGT art. 35.7 (división de la liquidación entre cotitulares a petición)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ]
+  ],
+  "dudas": [
+   "Arrendamientos de larga duración: se dice que «pueden exigir unanimidad, según la doctrina del Tribunal Supremo» (criterio jurisprudencial que distingue administración y disposición); el modelo deja el umbral de años como hueco a pactar.",
+   "Compensación por uso exclusivo sin acuerdo: «los tribunales suelen admitir», criterio casuístico."
+  ]
+ }
+]
