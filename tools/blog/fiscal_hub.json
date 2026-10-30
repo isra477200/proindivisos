@@ -1,0 +1,263 @@
+[
+ {
+  "slug": "impuestos-del-proindiviso",
+  "kind": "page",
+  "category": null,
+  "kicker": "Impuestos por comunidad",
+  "h1": "Impuestos del proindiviso por comunidad autónoma: guía de 2026",
+  "sub": "Los impuestos del proindiviso dependen de cómo salgas de él y de la comunidad donde esté el inmueble. En una extinción de condominio pagas AJD, entre el 0,25 % y el 1,5 % de la parte que adquieres. En cambio, si vendes tu cuota, el ITP lo paga el comprador y a ti solo te tocan el IRPF y la plusvalía municipal.",
+  "checks": [
+   "19 comunidades y ciudades",
+   "Tipos vigentes en 2026",
+   "Fuentes oficiales enlazadas"
+  ],
+  "card_title": "¿Cuánto te costaría a ti?",
+  "card_text": "Dinos dónde está el inmueble y qué parte tienes. Te damos una oferta por escrito en 48 horas, con los gastos de la venta a nuestro cargo.",
+  "sections": [
+   {
+    "overline": "Lo primero",
+    "h2": "Qué impuestos del proindiviso pagas según cómo salgas",
+    "type": "cards",
+    "intro": [
+     "Además, no hay un impuesto único. Los impuestos del proindiviso cambian según la operación, porque cada salida tiene su impuesto y su pagador."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "De hecho, en la práctica, uno se queda el inmueble y compensa a los demás. Por eso paga el AJD quien se queda, solo sobre la parte que adquiere, al tipo de su comunidad: del 0,25 % al 1,5 %.",
+      "url": "/extincion-de-condominio/impuestos-y-notario/"
+     },
+     {
+      "t": "Venta de tu cuota",
+      "p": "Vendes tu parte a un tercero o a una empresa. En ese caso el comprador paga el ITP; tú declaras la ganancia en el IRPF y pagas la plusvalía municipal si el suelo ha subido.",
+      "url": "/calculadora-impuestos-vender-tu-parte/"
+     },
+     {
+      "t": "Herencia de una parte",
+      "p": "En concreto, heredas una cuota con tus hermanos. Entonces pagas el impuesto de sucesiones con las reducciones y bonificaciones de tu comunidad, y también la plusvalía municipal del heredero.",
+      "url": "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+     },
+     {
+      "t": "Donación de tu parte",
+      "p": "Asimismo, regalas tu cuota. Quien la recibe paga el impuesto de donaciones y, además, tú declaras en el IRPF la ganancia que haya, aunque no cobres nada.",
+      "url": "/blog/donar-mi-parte-de-un-proindiviso/"
+     }
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Tabla de impuestos del proindiviso por comunidad autónoma (2026)",
+    "type": "table",
+    "intro": [
+     "Estos son los tipos generales vigentes en 2026 para las tres operaciones más habituales. También hay tipos reducidos, por ejemplo para vivienda habitual, jóvenes o familia numerosa. Sin embargo, aplicarlos a una extinción de condominio depende del criterio de cada oficina liquidadora."
+    ],
+    "items": [
+     [
+      "Comunidad",
+      "AJD de la extinción; ITP de la compra; sucesiones de hijos"
+     ],
+     [
+      "Andalucía",
+      "1,2 %; 7 %; bonificación 99 %"
+     ],
+     [
+      "Aragón",
+      "1,5 %; 8 % a 10 %; reducción 100 % hasta 500.000 €"
+     ],
+     [
+      "Asturias",
+      "1,2 %; 8 % a 10 %; reducción de 300.000 €"
+     ],
+     [
+      "Baleares",
+      "1,5 % (2 % desde un millón); 8 % a 13 %; bonificación 100 %"
+     ],
+     [
+      "Canarias",
+      "0,75 %; 6,5 %; bonificación 99,9 %"
+     ],
+     [
+      "Cantabria",
+      "1,5 %; 9 %; bonificación 100 %"
+     ],
+     [
+      "Castilla-La Mancha",
+      "1,5 %; 9 %; bonificación 80 % a 100 %"
+     ],
+     [
+      "Castilla y León",
+      "1,5 %; 8 % (10 % desde 250.000 €); bonificación 99 %"
+     ],
+     [
+      "Cataluña",
+      "1,5 %; 10 % a 13 %; bonificación 99 % a 20 %"
+     ],
+     [
+      "Comunidad Valenciana",
+      "1,4 %; 9 % (11 % desde un millón); bonificación 99 %"
+     ],
+     [
+      "Extremadura",
+      "1,5 %; 8 % a 11 %; bonificación 99 %"
+     ],
+     [
+      "Galicia",
+      "1,5 %; 8 %; deducción 99 %"
+     ],
+     [
+      "La Rioja",
+      "1 %; 7 %; deducción 99 %"
+     ],
+     [
+      "Madrid",
+      "0,75 %; 6 %; bonificación 99 %"
+     ],
+     [
+      "Región de Murcia",
+      "1,5 %; 7,75 %; deducción 99 %"
+     ],
+     [
+      "Navarra",
+      "0,5 %; 6 %; 0 % hasta 250.000 €"
+     ],
+     [
+      "País Vasco",
+      "0,5 %; 4 % en viviendas; tipo del 1,5 %"
+     ],
+     [
+      "Ceuta",
+      "0,25 %; 3 % (efectivos); bonificación 99 %"
+     ],
+     [
+      "Melilla",
+      "0,25 %; 3 % (efectivos); bonificación 99 %"
+     ]
+    ]
+   },
+   {
+    "overline": "Tu comunidad",
+    "h2": "Elige tu comunidad: impuestos del proindiviso en detalle",
+    "type": "list",
+    "intro": [
+     "Además, el País Vasco y Navarra tienen Hacienda foral, y en Ceuta y Melilla se aplican los tipos estatales con una bonificación del 50 %. Además, cada guía explica los impuestos del proindiviso en esa comunidad, con un ejemplo de un piso de la zona."
+    ],
+    "items": [
+     "<strong>Sur y Mediterráneo:</strong> <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-andalucia/\">Andalucía</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-murcia/\">Región de Murcia</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-comunidad-valenciana/\">Comunidad Valenciana</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-cataluna/\">Cataluña</a> y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-baleares/\">Baleares</a>.",
+     "<strong>Centro:</strong> <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-madrid/\">Madrid</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-castilla-la-mancha/\">Castilla-La Mancha</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-castilla-y-leon/\">Castilla y León</a> y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-extremadura/\">Extremadura</a>.",
+     "<strong>Norte:</strong> <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-galicia/\">Galicia</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-asturias/\">Asturias</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-cantabria/\">Cantabria</a>, <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-la-rioja/\">La Rioja</a> y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-aragon/\">Aragón</a>.",
+     "<strong>Régimen foral:</strong> <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-navarra/\">Navarra</a> y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-pais-vasco/\">el País Vasco</a>, con Hacienda propia.",
+     "<strong>Islas y ciudades autónomas:</strong> <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-canarias/\">Canarias</a>, con su régimen especial, y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-ceuta/\">Ceuta</a> y <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-melilla/\">Melilla</a>, con bonificación del 50 %."
+    ]
+   },
+   {
+    "overline": "La clave",
+    "h2": "La base del AJD: solo la parte que adquieres",
+    "type": "text",
+    "intro": [
+     "De hecho, en la práctica, en una extinción de condominio el AJD no se calcula sobre el valor total del inmueble. En concreto, desde 2018, la doctrina del Tribunal Supremo fija la base en el valor de la parte que adquiere quien se queda con él. Hoy las oficinas liquidadoras aplican ese criterio.",
+     "Por ejemplo, dos hermanos tienen un piso de 200.000 € al 50 %. Si uno se lo queda, adquiere la mitad del otro, así que la base son 100.000 €. Con el 1,5 % de Cataluña o Galicia paga 1.500 €. En cambio, con el 0,75 % de Madrid paga 750 €, en Navarra o el País Vasco 500 € y en Ceuta o Melilla 250 €.",
+     "Si te liquidan sobre el valor total, puedes recurrir. Sin embargo, si quien se queda paga menos de lo que vale tu parte, la diferencia puede tributar como exceso de adjudicación o como donación. Por eso conviene fijar el valor con una tasación antes de firmar. En resumen, en los impuestos del proindiviso la base pesa tanto como el tipo."
+    ]
+   },
+   {
+    "overline": "Vender tu parte",
+    "h2": "Si vendes tu parte, el ITP lo paga el comprador",
+    "type": "text",
+    "intro": [
+     "Cuando vendes tu cuota a un tercero, el impuesto de la compra no es tuyo. El comprador paga el ITP de su comunidad, desde el 3 % efectivo de Ceuta hasta el 13 % de Baleares o Cataluña. Así, tú solo pagas dos impuestos del proindiviso.",
+     "Primero, el IRPF por la ganancia. La escala del ahorro de 2026 va del 19 % al 30 % y es igual en todo el territorio común. Después, la plusvalía municipal, que cobra el ayuntamiento con los coeficientes máximos vigentes. Puedes calcular ambos en la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "En la práctica, vender la cuota a una empresa evita el AJD de la extinción y el pleito de la división. A cambio, el precio es menor que el valor teórico de tu parte: entre el 40 % y el 70 %, según el inmueble y su situación."
+    ]
+   },
+   {
+    "overline": "Herencias",
+    "h2": "Herencias en proindiviso: dónde se paga menos sucesiones",
+    "type": "text",
+    "intro": [
+     "Casi todas las comunidades bonifican entre el 99 % y el 100 % el impuesto de sucesiones de hijos y cónyuge. Sin embargo, hay excepciones. Asturias aplica una reducción de 300.000 € sin bonificación. Cataluña bonifica menos cuanto mayor es la base. Castilla-La Mancha bonifica del 80 % al 100 %, y Aragón tiene un límite de 500.000 €.",
+     "El plazo para presentar sucesiones es de seis meses desde el fallecimiento, prorrogable otros seis. Además, la mayoría de las comunidades reduce un 95 % el valor de la vivienda habitual del fallecido. A cambio, los herederos deben mantenerla el tiempo que fija la ley.",
+     "De hecho, vender la parte heredada antes de ese plazo puede hacer perder la reducción. Por eso cada guía de comunidad explica los impuestos del proindiviso en la herencia y el plazo de mantenimiento."
+    ]
+   },
+   {
+    "type": "callout",
+    "items": {
+     "t": "¿Prefieres no hacer números?",
+     "p": "Compramos tu parte con fondos propios, firma en notaría en dos a cuatro semanas y gastos a nuestro cargo. Sin exclusividad y sin compromiso.",
+     "cta": "Pedir mi oferta"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales que usamos",
+    "type": "list",
+    "intro": [
+     "Revisamos los tipos cada año. Estas son las fuentes oficiales de la tabla:"
+    ],
+    "items": [
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación autonómica. Medidas 2026</a>",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359\">ITP y AJD: texto refundido de la ley estatal (BOE)</a>",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Sucesiones y donaciones: ley estatal del impuesto (BOE)</a>",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214\">Plusvalía municipal: Ley Reguladora de las Haciendas Locales (BOE)</a>"
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué impuesto se paga en una extinción de condominio?",
+    "El impuesto de Actos Jurídicos Documentados (AJD), que paga quien se queda con el inmueble. La base es solo el valor de la parte que adquiere y el tipo lo fija cada comunidad: del 0,25 % efectivo de Ceuta y Melilla al 1,5 % de la mayoría."
+   ],
+   [
+    "¿Dónde es más barata la extinción de condominio?",
+    "Con los tipos generales de 2026, en Ceuta y Melilla (0,25 % efectivo), en Navarra y el País Vasco (0,5 %) y en Madrid y Canarias (0,75 %). La mayoría de las comunidades aplica el 1,5 %, y la Comunidad Valenciana bajó al 1,4 % en junio de 2026."
+   ],
+   [
+    "¿Si vendo mi parte a una empresa pago ITP?",
+    "No. El ITP de la compraventa lo paga el comprador. Tú, como vendedor, declaras la ganancia en el IRPF (del 19 % al 30 % en 2026) y pagas la plusvalía municipal si el valor del suelo ha subido desde que la adquiriste."
+   ],
+   [
+    "¿Se pueden aplicar los tipos reducidos de vivienda habitual a una extinción de condominio?",
+    "Depende de la comunidad y del criterio de su oficina liquidadora, porque esos tipos suelen estar pensados para la compra de vivienda habitual. Consulta con tu notaría antes de firmar; cada guía de comunidad explica los requisitos de su tipo reducido."
+   ],
+   [
+    "¿Los impuestos del proindiviso son iguales en Navarra y el País Vasco?",
+    "No. Navarra y los tres territorios vascos tienen Hacienda foral propia, con sus tipos de AJD, ITP y sucesiones, y también su propio IRPF. Por eso tienen guía específica, con las diferencias entre Álava, Bizkaia y Gipuzkoa."
+   ],
+   [
+    "¿Cada cuánto cambian estos impuestos?",
+    "Las comunidades suelen modificarlos en sus leyes de presupuestos o de medidas fiscales, normalmente con efectos de 1 de enero, aunque a veces a mitad de año. Revisamos la tabla al menos una vez al año con el informe de tributación autonómica del Ministerio de Hacienda."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los impuestos del proindiviso",
+  "related": [
+   [
+    "Extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notaría de la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ],
+   [
+    "Preguntas frecuentes",
+    "/preguntas-frecuentes-proindiviso/"
+   ]
+  ],
+  "cta_title": "Impuestos del proindiviso claros: ahora, una oferta por tu parte",
+  "cta_text": "Rellena el formulario y te llamamos en menos de 24 horas laborables con una cifra en firme por tu parte. Sin compromiso.",
+  "yoast_title": "Impuestos del proindiviso por comunidad autónoma (2026)",
+  "meta_desc": "Impuestos del proindiviso en 2026 por comunidad: AJD de la extinción, ITP, sucesiones, plusvalía e IRPF. Tabla de las 19 y una guía para cada una.",
+  "focus_kw": "impuestos del proindiviso",
+  "title_corto": "Impuestos del proindiviso",
+  "imagen_prompt": "Wide editorial photograph of terracotta rooftops of a Spanish city at golden hour, seen from a high terrace, chimneys and old tiled roofs stretching to distant hills, soft natural light, muted palette with dark blue and terracotta accents, 35 mm. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuestos del proindiviso: tejados de una ciudad española al atardecer desde una terraza alta"
+ }
+]

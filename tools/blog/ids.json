@@ -250,5 +250,19 @@
 "portal-de-subastas-del-boe": 6340,
 "rescision-por-lesion": 6344,
 "tasacion-pericial-contradictoria": 6348,
-"unidad-minima-de-cultivo": 6352
+"unidad-minima-de-cultivo": 6352,
+"agrupacion-de-fincas": 6371,
+"avalista": 6375,
+"causante": 6379,
+"comodato": 6383,
+"dacion-en-pago": 6387,
+"derecho-foral": 6391,
+"due-diligence-inmobiliaria": 6395,
+"finca-rustica": 6399,
+"impuesto-sobre-el-patrimonio": 6403,
+"licencia-de-primera-ocupacion": 6407,
+"perito-judicial": 6411,
+"requerimiento-notarial": 6415,
+"sustitucion-vulgar": 6419,
+"tipo-de-subasta": 6423
 }
