@@ -1,0 +1,221 @@
+[
+ {
+  "slug": "impuestos-del-proindiviso",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuestos del proindiviso",
+  "title_corto": "Impuestos del proindiviso",
+  "hub": true,
+  "ruta": "/impuestos-del-proindiviso/",
+  "angulo": "Hub: qué impuestos aparecen en cada salida del proindiviso (extinción de condominio: AJD; venta de la cuota a un tercero: ITP para el comprador, IRPF y plusvalía para el vendedor; herencia: sucesiones y plusvalía) y TABLA comparativa por comunidad autónoma (AJD general, ITP general, bonificación de sucesiones a hijos) con enlace a cada página. Explica la base del AJD en la extinción (solo la parte adquirida, doctrina del Supremo) y que IRPF y plusvalía son iguales en toda España salvo País Vasco y Navarra."
+ },
+ {
+  "slug": "extincion-de-condominio-andalucia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Andalucía",
+  "title_corto": "Andalucía",
+  "ccaa": "Andalucía",
+  "geo": "/vender-proindiviso/andalucia/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-andalucia/",
+  "angulo": "Impuestos y gastos del proindiviso en Andalucía en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Andalucía), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Andalucía; enlace a la página geo andalucia."
+ },
+ {
+  "slug": "extincion-de-condominio-aragon",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Aragón",
+  "title_corto": "Aragón",
+  "ccaa": "Aragón",
+  "geo": "/vender-proindiviso/aragon/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-aragon/",
+  "angulo": "Impuestos y gastos del proindiviso en Aragón en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Aragón), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Aragón; enlace a la página geo aragon."
+ },
+ {
+  "slug": "extincion-de-condominio-asturias",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Asturias",
+  "title_corto": "Asturias",
+  "ccaa": "Asturias",
+  "geo": "/vender-proindiviso/asturias/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-asturias/",
+  "angulo": "Impuestos y gastos del proindiviso en Asturias en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Asturias), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Asturias; enlace a la página geo asturias."
+ },
+ {
+  "slug": "extincion-de-condominio-baleares",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Baleares",
+  "title_corto": "Baleares",
+  "ccaa": "Baleares",
+  "geo": "/vender-proindiviso/baleares/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-baleares/",
+  "angulo": "Impuestos y gastos del proindiviso en Baleares en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Baleares), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Baleares; enlace a la página geo baleares."
+ },
+ {
+  "slug": "extincion-de-condominio-canarias",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Canarias",
+  "title_corto": "Canarias",
+  "ccaa": "Canarias",
+  "geo": "/vender-proindiviso/canarias/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-canarias/",
+  "angulo": "Impuestos y gastos del proindiviso en Canarias en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Canarias), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Canarias; enlace a la página geo canarias."
+ },
+ {
+  "slug": "extincion-de-condominio-cantabria",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Cantabria",
+  "title_corto": "Cantabria",
+  "ccaa": "Cantabria",
+  "geo": "/vender-proindiviso/cantabria/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-cantabria/",
+  "angulo": "Impuestos y gastos del proindiviso en Cantabria en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Cantabria), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Cantabria; enlace a la página geo cantabria."
+ },
+ {
+  "slug": "extincion-de-condominio-castilla-la-mancha",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Castilla-La Mancha",
+  "title_corto": "Castilla-La Mancha",
+  "ccaa": "Castilla-La Mancha",
+  "geo": "/vender-proindiviso/castilla-la-mancha/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-castilla-la-mancha/",
+  "angulo": "Impuestos y gastos del proindiviso en Castilla-La Mancha en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Castilla-La Mancha), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Castilla-La Mancha; enlace a la página geo castilla-la-mancha."
+ },
+ {
+  "slug": "extincion-de-condominio-castilla-y-leon",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Castilla y León",
+  "title_corto": "Castilla y León",
+  "ccaa": "Castilla y León",
+  "geo": "/vender-proindiviso/castilla-y-leon/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-castilla-y-leon/",
+  "angulo": "Impuestos y gastos del proindiviso en Castilla y León en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Castilla y León), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Castilla y León; enlace a la página geo castilla-y-leon."
+ },
+ {
+  "slug": "extincion-de-condominio-cataluna",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Cataluña",
+  "title_corto": "Cataluña",
+  "ccaa": "Cataluña",
+  "geo": "/vender-proindiviso/cataluna/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-cataluna/",
+  "angulo": "Impuestos y gastos del proindiviso en Cataluña en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Cataluña), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Cataluña; enlace a la página geo cataluna."
+ },
+ {
+  "slug": "extincion-de-condominio-comunidad-valenciana",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en la Comunidad Valenciana",
+  "title_corto": "Comunidad Valenciana",
+  "ccaa": "Comunidad Valenciana",
+  "geo": "/vender-proindiviso/comunidad-valenciana/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-comunidad-valenciana/",
+  "angulo": "Impuestos y gastos del proindiviso en Comunidad Valenciana en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Comunidad Valenciana), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Comunidad Valenciana; enlace a la página geo comunidad-valenciana."
+ },
+ {
+  "slug": "extincion-de-condominio-extremadura",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Extremadura",
+  "title_corto": "Extremadura",
+  "ccaa": "Extremadura",
+  "geo": "/vender-proindiviso/extremadura/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-extremadura/",
+  "angulo": "Impuestos y gastos del proindiviso en Extremadura en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Extremadura), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Extremadura; enlace a la página geo extremadura."
+ },
+ {
+  "slug": "extincion-de-condominio-galicia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Galicia",
+  "title_corto": "Galicia",
+  "ccaa": "Galicia",
+  "geo": "/vender-proindiviso/galicia/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-galicia/",
+  "angulo": "Impuestos y gastos del proindiviso en Galicia en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Galicia), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Galicia; enlace a la página geo galicia."
+ },
+ {
+  "slug": "extincion-de-condominio-la-rioja",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en La Rioja",
+  "title_corto": "La Rioja",
+  "ccaa": "La Rioja",
+  "geo": "/vender-proindiviso/la-rioja/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-la-rioja/",
+  "angulo": "Impuestos y gastos del proindiviso en La Rioja en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de La Rioja), plusvalía municipal e IRPF; ejemplo con cifras de un piso en La Rioja; enlace a la página geo la-rioja."
+ },
+ {
+  "slug": "extincion-de-condominio-madrid",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Madrid",
+  "title_corto": "Comunidad de Madrid",
+  "ccaa": "Comunidad de Madrid",
+  "geo": "/vender-proindiviso/madrid/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-madrid/",
+  "angulo": "Impuestos y gastos del proindiviso en Comunidad de Madrid en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Comunidad de Madrid), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Comunidad de Madrid; enlace a la página geo madrid."
+ },
+ {
+  "slug": "extincion-de-condominio-murcia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Murcia",
+  "title_corto": "Región de Murcia",
+  "ccaa": "Región de Murcia",
+  "geo": "/vender-proindiviso/murcia/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-murcia/",
+  "angulo": "Impuestos y gastos del proindiviso en Región de Murcia en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Región de Murcia), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Región de Murcia; enlace a la página geo murcia."
+ },
+ {
+  "slug": "extincion-de-condominio-navarra",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Navarra",
+  "title_corto": "Navarra",
+  "ccaa": "Navarra",
+  "geo": "/vender-proindiviso/navarra/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-navarra/",
+  "angulo": "Impuestos y gastos del proindiviso en Navarra en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Navarra), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Navarra; enlace a la página geo navarra."
+ },
+ {
+  "slug": "extincion-de-condominio-pais-vasco",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en el País Vasco",
+  "title_corto": "País Vasco",
+  "ccaa": "País Vasco",
+  "geo": "/vender-proindiviso/pais-vasco/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-pais-vasco/",
+  "angulo": "Impuestos y gastos del proindiviso en País Vasco en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de País Vasco), plusvalía municipal e IRPF; ejemplo con cifras de un piso en País Vasco; enlace a la página geo pais-vasco."
+ },
+ {
+  "slug": "extincion-de-condominio-ceuta",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Ceuta",
+  "title_corto": "Ceuta",
+  "ccaa": "Ceuta",
+  "geo": "/vender-proindiviso/ceuta/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-ceuta/",
+  "angulo": "Impuestos y gastos del proindiviso en Ceuta en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Ceuta), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Ceuta; enlace a la página geo ceuta."
+ },
+ {
+  "slug": "extincion-de-condominio-melilla",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "extinción de condominio en Melilla",
+  "title_corto": "Melilla",
+  "ccaa": "Melilla",
+  "geo": "/vender-proindiviso/melilla/",
+  "ruta": "/impuestos-del-proindiviso/extincion-de-condominio-melilla/",
+  "angulo": "Impuestos y gastos del proindiviso en Melilla en 2026: AJD de la extinción de condominio (tipo general, tipos reducidos, base = parte adquirida), ITP si vendes tu cuota a un tercero o a una empresa, impuesto de sucesiones si la cuota viene de herencia (reducciones y bonificaciones de Melilla), plusvalía municipal e IRPF; ejemplo con cifras de un piso en Melilla; enlace a la página geo melilla."
+ }
+]

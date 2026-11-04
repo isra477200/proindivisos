@@ -1,0 +1,1628 @@
+[
+ {
+  "slug": "impuesto-de-sucesiones-cantabria",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Cantabria",
+  "h1": "Impuesto de sucesiones en Cantabria: cuánto paga cada heredero en 2026",
+  "sub": "En el impuesto de sucesiones en Cantabria, hijos, cónyuge y padres tienen una bonificación del 100 % y no pagan. Los hermanos pagan la mitad de la cuota y los sobrinos, la cuota entera. Si heredas una parte de un piso y no quieres seguir en copropiedad, te la compramos con fondos propios. Precio por escrito en 48 horas.",
+  "checks": [
+   "Cifras de 2026 verificadas",
+   "Ejemplo con hermanos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Has heredado parte de un piso en Cantabria?",
+  "card_text": "Dinos dónde está el inmueble y qué porcentaje te toca. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Cantabria",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Cantabria lo paga cada heredero por lo que recibe, no la herencia en bloque. Se aplica la ley cántabra si el fallecido vivió en Cantabria la mayor parte de los últimos cinco años. Da igual dónde esté el piso: manda la residencia de quien fallece.",
+     "El cálculo sigue cuatro pasos. Primero se fija la base, que es el valor de tu parte. En inmuebles cuenta como mínimo el valor de referencia del Catastro. Después se restan las reducciones por parentesco. A lo que queda se aplica la tarifa, que en Cantabria coincide con la estatal: del 7,65 % al 34 %.",
+     "Por último, la cuota se multiplica por un coeficiente según tu parentesco y tu patrimonio previo. Con un patrimonio de hasta 403.000 €, vale 1 para hijos y cónyuge y 1,5882 para hermanos y sobrinos. Para primos y extraños parte de 2. Al final se resta la bonificación, si te corresponde.",
+     "En la práctica, el impuesto de sucesiones en Cantabria sale a cero para la familia directa. En cambio, hermanos y sobrinos sí pagan, y la diferencia entre ellos es grande, como verás en el ejemplo."
+    ]
+   },
+   {
+    "overline": "Parentesco",
+    "h2": "Quién paga y cuánto, según tu parentesco",
+    "type": "cards",
+    "intro": [
+     "En el impuesto de sucesiones en Cantabria, el parentesco lo cambia todo. Así queda cada caso para los fallecimientos de 2026."
+    ],
+    "items": [
+     {
+      "t": "Hijos, nietos, cónyuge y padres",
+      "p": "Son los grupos I y II. Restan 50.000 €, más 5.000 € por cada año que le falte al heredero para cumplir 21. Después aplican una bonificación del 100 % de la cuota, así que no pagan nada.",
+      "url": "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/",
+      "cta": "Qué es la bonificación →"
+     },
+     {
+      "t": "Hermanos",
+      "p": "Tienen una reducción de 25.000 € y, además, una bonificación del 50 % de la cuota. Los cuñados también son grupo III, pero no tienen ninguna de las dos ventajas."
+     },
+     {
+      "t": "Sobrinos, tíos y cuñados",
+      "p": "Restan solo 8.000 € y no tienen bonificación. Aplican la tarifa y el coeficiente de 1,5882 sin rebajas. Por eso es el caso en que más duele el impuesto."
+     },
+     {
+      "t": "Primos y personas sin parentesco",
+      "p": "Forman el grupo IV. No tienen reducción por parentesco y su coeficiente parte de 2, así que son quienes más pagan."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Reducción del 95 %, con un límite de 125.000 € por heredero. Debes conservarla cinco años. Vale para los grupos I, II y III, pero hermanos y sobrinos necesitan más de 65 años y dos de convivencia. Desde mayo de 2026, el tiempo que el fallecido pasó en una residencia justo antes de morir se excluye de esos dos años.",
+      "url": "/diccionario-del-proindiviso/reduccion-por-vivienda-habitual/",
+      "cta": "Reducción por vivienda habitual →"
+     }
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en Cantabria",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en Cantabria para fallecimientos de 2026, con un patrimonio previo del heredero inferior a 403.000 €. Son datos orientativos."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Cantabria en 2026"
+     ],
+     [
+      "Grupo I: hijos y nietos menores de 21.",
+      "Reducción de 50.000 € más 5.000 € por año hasta 21. Bonificación del 100 %."
+     ],
+     [
+      "Grupo II: hijos, cónyuge y padres.",
+      "Reducción de 50.000 € y bonificación del 100 %. Cuota final: 0 €."
+     ],
+     [
+      "Grupo III: hermanos.",
+      "Reducción de 25.000 €, coeficiente 1,5882 y bonificación del 50 %."
+     ],
+     [
+      "Grupo III: sobrinos, tíos y cuñados.",
+      "Reducción de 8.000 € y coeficiente 1,5882. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y con coeficiente 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual.",
+      "95 % hasta 125.000 € por heredero, con 5 años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "6 meses desde el fallecimiento, más 6 de prórroga si la pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo.",
+      "Agencia Cántabra de Administración Tributaria. Modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € heredado en Santander",
+    "type": "steps",
+    "intro": [
+     "Una madre que vivía en Santander deja un piso con un valor de referencia de 200.000 € y ningún otro bien. Lo heredan dos personas al 50 %. Veamos tres casos con la tarifa y las reducciones reales."
+    ],
+    "items": [
+     {
+      "t": "Base de cada heredero: 100.000 €",
+      "p": "Cada uno tributa solo por su mitad. Para simplificar, no sumamos el ajuar doméstico, que la ley presume en un 3 %, ni restamos gastos."
+     },
+     {
+      "t": "Si son dos hijos: 0 € cada uno",
+      "p": "Restan 50.000 € y la base queda en 50.000 €. La tarifa da 4.948,93 €, pero la bonificación del 100 % la deja en cero."
+     },
+     {
+      "t": "Si son dos hermanos: 6.685,80 € cada uno",
+      "p": "Restan 25.000 €. Sobre 75.000 € la tarifa da 8.419,34 €, que con el coeficiente suben a 13.371,60 €. La bonificación del 50 % deja la mitad."
+     },
+     {
+      "t": "Si son dos sobrinos: 17.666,12 € cada uno",
+      "p": "Restan solo 8.000 €. Sobre 92.000 € la tarifa da 11.123,36 € y el coeficiente la eleva a 17.666,12 €. Entre los dos pagan más de 35.000 €."
+     }
+    ],
+    "outro": [
+     "Son cifras orientativas del impuesto de sucesiones en Cantabria. Cambian si el piso era la vivienda habitual. Un hermano o sobrino mayor de 65 que convivió dos años con ella puede reducir el 95 % y quedarse en cero. Consulta tu caso con un asesor antes de presentar."
+    ]
+   },
+   {
+    "overline": "Plazos",
+    "h2": "Plazo, modelo 650 y recargos del impuesto en Cantabria",
+    "type": "list",
+    "intro": [
+     "El impuesto de sucesiones en Cantabria se presenta ante la Agencia Cántabra de Administración Tributaria. Cada heredero hace su autoliquidación, aunque lo habitual es presentarlas todas a la vez, con el documento de la herencia."
+    ],
+    "items": [
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis dentro de los cinco primeros meses, pero genera intereses de demora.",
+     "<strong>Modelo.</strong> La autoliquidación se hace con el <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>, uno por cada heredero.",
+     "<strong>Recargos.</strong> Si presentas tarde sin requerimiento, pagas un 1 % más otro 1 % por mes completo de retraso. Pasados doce meses, el <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a> sube al 15 % más intereses.",
+     "<strong>Aplazar o fraccionar.</strong> Si la herencia no tiene dinero suficiente, puedes pedir el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> antes de que acabe el plazo. Lleva intereses de demora."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte del piso: copropiedad, plusvalía e IRPF",
+    "type": "text",
+    "intro": [
+     "Si heredas una mitad o un tercio de un piso, tributas solo por el valor de tu cuota. Pagado el impuesto de sucesiones en Cantabria, sigues en copropiedad con los demás herederos. Para salir hay dos caminos habituales.",
+     "El primero es la extinción de condominio: uno se queda el piso y compensa a los demás. Su coste lo explicamos en <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-cantabria/\">extinción de condominio en Cantabria</a>. El segundo es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a>. Si aún no hay partición, vendes tus <a href=\"/vender-derechos-hereditarios/\">derechos hereditarios</a>.",
+     "Además, al heredar puede tocarte la plusvalía municipal, con seis meses de plazo prorrogables hasta un año. Cuando vendas, el valor declarado en sucesiones será tu valor de adquisición en el IRPF. Puedes estimarlo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo conserva el usufructo, tú heredas la nuda propiedad y ahora tributas por un valor menor. El resto se liquida cuando se extinga el usufructo. Calcúlalo con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Si no puedes pagar",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Cantabria",
+    "type": "callout",
+    "intro": [
+     "Hijos y cónyuge no tienen factura en Cantabria, pero hermanos y sobrinos pueden recibir una cuota que supera sus ahorros. Si te cuesta pagar el impuesto de sucesiones en Cantabria, revisa tus opciones antes de renunciar. Puedes aplazar o fraccionar, aceptar <a href=\"/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/\">a beneficio de inventario</a> si temes deudas o vender tu parte para pagar.",
+     "Lo explicamos paso a paso en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. También compramos en toda la región: mira cómo <a href=\"/vender-proindiviso/cantabria/\">vender un proindiviso en Cantabria</a>."
+    ],
+    "items": {
+     "t": "Precio por tu parte en 48 horas",
+     "p": "Compramos tu parte de la herencia con fondos propios, precio por escrito en 48 horas. Firmamos en notaría en 2-4 semanas, pagamos al contado y la notaría corre de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOCT-c-2008-90028\">Decreto Legislativo 62/2008 de Cantabria, texto consolidado en el BOE</a>. Reducciones, tarifa, coeficientes y bonificaciones vigentes, con la reforma de la Ley 5/2026.",
+     "<a href=\"https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534\">Sede electrónica de Cantabria: prórroga del plazo de sucesiones</a>. Trámite de la Agencia Cántabra de Administración Tributaria.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de las medidas vigentes en cada comunidad, actualizado a septiembre de 2026.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones</a>. Tarifa estatal, coeficientes y reducción estatal por vivienda habitual."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Cantabria?",
+    "Nada de impuesto. Los hijos restan 50.000 € de reducción y aplican una bonificación del 100 % de la cuota. Aun así, debes presentar el modelo 650 en plazo y asumir gastos como notaría, Registro o plusvalía municipal."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "No. Los hermanos restan 25.000 € y tienen una bonificación del 50 %. Los sobrinos solo restan 8.000 € y no tienen bonificación. Con 100.000 € heredados, un hermano paga unos 6.686 € y un sobrino, unos 17.666 €."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto de sucesiones en Cantabria?",
+    "Seis meses desde el fallecimiento. Puedes pedir a la Agencia Cántabra de Administración Tributaria una prórroga de otros seis, siempre dentro de los cinco primeros meses. La prórroga genera intereses de demora por el tiempo añadido."
+   ],
+   [
+    "¿Qué pasa si presento la herencia fuera de plazo?",
+    "Si lo haces sin requerimiento previo, pagas un recargo del 1 % más un 1 % por cada mes completo de retraso. Pasados doce meses, el recargo es del 15 % más intereses de demora. Si Hacienda te requiere antes, puede haber sanción."
+   ],
+   [
+    "¿Qué hago si no puedo pagar el impuesto de la herencia?",
+    "Pide el aplazamiento o el fraccionamiento antes de que acabe el plazo, con intereses. Si heredaste una parte de un inmueble, otra salida es venderla. Compramos cuotas heredadas con fondos propios y te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Me sirve la reducción por vivienda habitual si soy hijo?",
+    "En Cantabria apenas cambia nada, porque hijos y cónyuge ya tienen una bonificación del 100 %. Donde sí importa es en hermanos y sobrinos mayores de 65 años que convivieron dos años con el fallecido. Para ellos, el 95 % hasta 125.000 € puede dejar la cuota en cero."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Cantabria",
+  "related": [
+   [
+    "Vender un proindiviso en Cantabria",
+    "/vender-proindiviso/cantabria/"
+   ],
+   [
+    "Impuesto de sucesiones por comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Extinción de condominio en Cantabria",
+    "/impuestos-del-proindiviso/extincion-de-condominio-cantabria/"
+   ]
+  ],
+  "cta_title": "¿Has heredado una parte de un piso en Cantabria?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado, sin exclusividad.",
+  "yoast_title": "Impuesto de sucesiones en Cantabria: cuánto se paga en 2026",
+  "meta_desc": "Impuesto de sucesiones en Cantabria 2026: hijos y cónyuge pagan 0 €, hermanos la mitad y sobrinos la cuota entera. Ejemplo real y compra de tu parte.",
+  "focus_kw": "impuesto de sucesiones en Cantabria",
+  "title_corto": "Sucesiones en Cantabria",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the entrance hall of an old Cantabrian stone house, thick stone walls, a worn chestnut wooden staircase, a heavy wooden chest and a small deep window opening onto green meadows under a soft rainy sky. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Cantabria: interior de casona de piedra con escalera",
+  "datos": {
+   "grupo_I": "Reducción autonómica de 50.000 € + 5.000 € por cada año menos de 21 (sin tope fijado en la norma); bonificación del 100 % de la cuota (art. 5.A.1.a y 8.1 DLeg 62/2008)",
+   "grupo_II": "Reducción de 50.000 €; bonificación del 100 % de la cuota",
+   "grupo_III": "Colaterales de 2.º grado por consanguinidad (hermanos): reducción de 25.000 € y bonificación del 50 %. Resto del grupo III (sobrinos, tíos, afines como cuñados): reducción de 8.000 €, sin bonificación. Coeficiente 1,5882 hasta 403.000 € de patrimonio preexistente",
+   "grupo_IV": "Sin reducción por parentesco; coeficiente 2,0000 hasta 403.000 €; sin bonificación",
+   "vivienda_habitual": "95 % con límite de 125.000 € por sujeto pasivo, grupos I, II y III, mantenimiento 5 años; colaterales mayores de 65 años con 2 años de convivencia, excluyendo del cómputo el tiempo del causante en un centro de mayores inmediatamente antes de fallecer (Ley 5/2026, efectos 1-5-2026). Incluye trastero y hasta dos plazas de garaje en el mismo edificio",
+   "tarifa": "Escala propia idéntica a la estatal: 7,65 % a 34 % (art. 6.1 DLeg 62/2008)",
+   "patrimonio_preexistente": "Tabla propia: 0-403.000 € (1 / 1,5882 / 2); 403.000,01-2.007.000 € (1,05 / 1,6676 / 2,1); 2.007.000,01-4.020.000 € (1,1 / 1,7471 / 2,2); más de 4.020.000 € (1,2 / 1,9059 / 2,4)",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada dentro de los 5 primeros meses (silencio positivo en un mes), con intereses de demora",
+   "organismo": "Agencia Cántabra de Administración Tributaria (ACAT), Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos",
+   "modelo": "Modelo 650 (autoliquidación por cada sujeto pasivo)",
+   "url_organismo": "https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), dos herederos al 50 %, sin ajuar ni gastos, patrimonio preexistente < 403.000 €. BI por heredero 100.000 €. HIJOS: 100.000 - 50.000 = BL 50.000; escala: 4.685,10 + (50.000 - 47.930,72) x 12,75 % = 4.948,93; x 1 = 4.948,93; bonificación 100 % = 0 €. HERMANOS: 100.000 - 25.000 = BL 75.000; 7.943,98 + (75.000 - 71.893,07) x 15,30 % = 8.419,34; x 1,5882 = 13.371,60; bonificación 50 % = 6.685,80 € cada uno. SOBRINOS: 100.000 - 8.000 = BL 92.000; 9.166,06 + (92.000 - 79.880,52) x 16,15 % = 11.123,36; x 1,5882 = 17.666,12 € cada uno (35.332,24 € entre los dos). Con ajuar del 3 % (BI 103.000): sobrino 18.435,60 €; hermano 7.050,29 €. Sobrino o hermano >65 con 2 años de convivencia y vivienda habitual: reducción 95.000 € (bajo el límite de 125.000 €) -> BL 0 -> 0 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones por parentesco 50.000 € (+5.000 €/año <21), 25.000 € hermanos, 8.000 € resto grupo III, grupo IV sin reducción (art. 5.A.1 DLeg 62/2008, texto consolidado actualizado al 30/04/2026)",
+    "https://www.boe.es/buscar/act.php?id=BOCT-c-2008-90028"
+   ],
+   [
+    "Vivienda habitual 95 %, 125.000 €, 5 años, grupos I-III, colaterales >65 con 2 años de convivencia y exclusión del tiempo en residencia (art. 5.A.5, redacción Ley 5/2026)",
+    "https://www.boe.es/buscar/act.php?id=BOCT-c-2008-90028"
+   ],
+   [
+    "Ley de Cantabria 5/2026, de 28 de abril (BOE-A-2026-10431), efectos 1/5/2026 en la vivienda habitual",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10431"
+   ],
+   [
+    "Tarifa igual a la estatal (art. 6.1) y coeficientes propios (art. 7)",
+    "https://www.boe.es/buscar/act.php?id=BOCT-c-2008-90028"
+   ],
+   [
+    "Bonificación del 100 % grupos I y II y del 50 % colaterales de 2.º grado por consanguinidad (art. 8.1)",
+    "https://www.boe.es/buscar/act.php?id=BOCT-c-2008-90028"
+   ],
+   [
+    "Resumen oficial 2026 de Cantabria (ISD) y novedades 2026 (solo vivienda habitual)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026: Ley 5/2026, efectos 1-5-2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Órgano gestor ACAT, prórroga dentro de los 5 meses, efecto 6 meses, silencio positivo",
+    "https://aplicacionesweb.cantabria.es/sede/catalogo-de-tramites/tramite/prorroga-de-los-plazos-de-presentacion-del-impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones/534"
+   ],
+   [
+    "Modelos 650 (sucesiones) y 660 en Cantabria, según la ficha del trámite que recoge Papelea a partir de la sede de Cantabria (fuente no oficial, solo para el número de modelo)",
+    "https://papelea.com/es/gobierno-de-cantabria/impuesto-sobre-sucesiones-y-donaciones-modalidad-sucesiones"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro como mínimo en inmuebles (art. 9.3 LISD); ajuar doméstico del 3 % (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales: grupo I 15.956,87 € + 3.990,72 €/año <21 (máx. 47.858,59 €), grupo II 15.956,87 €, grupo III 7.993,46 €, grupo IV 0; vivienda habitual 95 %, límite 122.606,47 €, 10 años, colaterales >65 con 2 años de convivencia (art. 20.2 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tarifa estatal 7,65 %-34 % (art. 21 LISD) y coeficientes estatales 1 / 1,5882 / 2 hasta 402.678,11 € de patrimonio preexistente (art. 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses y prórroga de otros 6 pedida en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % + intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Punto de conexión: residencia habitual del causante = comunidad donde permaneció más días en los 5 años anteriores (arts. 28.1.1.º b) y 32.2.a) Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: plazo de 6 meses prorrogable hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas, el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "Aplazamiento por las oficinas gestoras: hasta 1 año y fraccionamiento en 5 anualidades con garantía, si no hay efectivo suficiente (art. 38 LISD); usufructo y nuda propiedad (art. 26 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ]
+  ],
+  "dudas": [
+   "Modelo 650 en Cantabria: el número de modelo solo lo he confirmado en un agregador (Papelea) que enlaza a la sede de Cantabria; no he podido abrir desde aquí las páginas de la ACAT (cantabria.es no responde) para verlo en la fuente oficial. Es el modelo general del impuesto, así que el riesgo es bajo.",
+   "Cantabria parece exigir además un modelo 660 de declaración según el mismo agregador; no lo cito en el texto por no haberlo confirmado en fuente oficial."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-castilla-la-mancha",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Castilla-La Mancha",
+  "h1": "Impuesto de sucesiones en Castilla-La Mancha: bonificación por tramos y ejemplo 2026",
+  "sub": "En el impuesto de sucesiones en Castilla-La Mancha, hijos y cónyuge no pagan con bases liquidables inferiores a 175.000 €. Hermanos y sobrinos, en cambio, siguen la norma estatal y no tienen bonificación. Si heredas parte de un piso y prefieres venderla, te la compramos con fondos propios. Precio por escrito en 48 horas.",
+  "checks": [
+   "Tramos de 2026 verificados",
+   "Ejemplo con hijos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Heredas parte de un piso en Castilla-La Mancha?",
+  "card_text": "Cuéntanos dónde está y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cómo funciona",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Castilla-La Mancha",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Castilla-La Mancha lo liquida cada heredero por su parte. Se aplica si el fallecido residió en la región la mayor parte de los últimos cinco años, esté donde esté el inmueble. La comunidad no tiene tarifa ni reducciones por parentesco propias: usa las estatales.",
+     "Primero se calcula la base, que es el valor de lo que heredas. En pisos y casas cuenta como mínimo el valor de referencia del Catastro. Después se restan las reducciones estatales. Son 15.956,87 € para hijos de 21 años o más, cónyuge y padres. Hermanos y sobrinos restan 7.993,46 €; primos y extraños, nada.",
+     "Sobre esa base se aplica la tarifa estatal, del 7,65 % al 34 %. Luego se multiplica por un coeficiente según el patrimonio previo. Hasta 402.678,11 €, es 1 para la familia directa y 1,5882 para hermanos y sobrinos. Por último llega la bonificación autonómica, que solo tienen los grupos I y II."
+    ]
+   },
+   {
+    "overline": "Bonificación",
+    "h2": "Hijos, nietos, cónyuge y padres: del 100 % al 80 % según la base",
+    "type": "list",
+    "intro": [
+     "En el impuesto de sucesiones en Castilla-La Mancha, la bonificación depende de la base liquidable de cada heredero. Es decir, cuanto más hereda cada uno, menor es el porcentaje."
+    ],
+    "items": [
+     "<strong>Base liquidable inferior a 175.000 €:</strong> bonificación del 100 % de la cuota. No pagas nada.",
+     "<strong>Entre 175.000 € y menos de 225.000 €:</strong> bonificación del 95 %.",
+     "<strong>De 225.000 € a menos de 275.000 €:</strong> bonificación del 90 %.",
+     "<strong>Con 275.000 € y menos de 300.000 €:</strong> bonificación del 85 %.",
+     "<strong>A partir de 300.000 €:</strong> bonificación del 80 %."
+    ],
+    "outro": [
+     "El porcentaje se aplica a toda la cuota, no por tramos. Por eso superar un umbral por poco dinero encarece la factura. Si tienes una discapacidad del 65 % o más, sumas otra bonificación del 95 %, que se aplica después. Además, las parejas de hecho inscritas con dos años de convivencia se equiparan al cónyuge."
+    ]
+   },
+   {
+    "overline": "Otros herederos",
+    "h2": "Hermanos, sobrinos y vivienda habitual: dónde se paga de verdad",
+    "type": "cards",
+    "intro": [
+     "Fuera de la familia directa, el impuesto de sucesiones en Castilla-La Mancha no tiene bonificación autonómica. Por eso conviene conocer las pocas reducciones disponibles."
+    ],
+    "items": [
+     {
+      "t": "Hermanos, sobrinos y tíos",
+      "p": "Son el grupo III. Restan 7.993,46 € y aplican la tarifa estatal y un coeficiente de 1,5882. Con 100.000 € heredados, la cuota ronda los 17.668 €.",
+      "url": "/diccionario-del-proindiviso/grupos-de-parentesco/",
+      "cta": "Grupos de parentesco →"
+     },
+     {
+      "t": "Primos y personas sin parentesco",
+      "p": "Forman el grupo IV. No tienen reducción y su coeficiente parte de 2. Es el grupo que más paga."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Rige la reducción estatal: el 95 % de su valor, con un límite de 122.606,47 € por heredero. Exige conservar la vivienda diez años. La pueden usar cónyuge, hijos y padres.",
+      "url": "/diccionario-del-proindiviso/reduccion-por-vivienda-habitual/",
+      "cta": "Reducción por vivienda habitual →"
+     },
+     {
+      "t": "Colaterales mayores de 65",
+      "p": "Un hermano o sobrino de más de 65 años que convivió con el fallecido los dos últimos años también puede aplicar esa reducción. En ese caso la cuota baja mucho."
+     },
+     {
+      "t": "Discapacidad",
+      "p": "Las personas con discapacidad restan 125.000 € si su grado está entre el 33 % y el 64 %. Desde el 65 % restan 225.000 €, además de la reducción por parentesco."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Toledo, con hijos o con sobrinos",
+    "type": "steps",
+    "intro": [
+     "Así se aplica el impuesto de sucesiones en Castilla-La Mancha a un caso real. Un padre que vivía en Toledo deja un piso con un valor de referencia de 200.000 €. No hay más bienes y lo heredan dos personas al 50 %. Para simplificar, no sumamos el ajuar doméstico del 3 %."
+    ],
+    "items": [
+     {
+      "t": "Dos hijos: 0 € cada uno",
+      "p": "Cada uno tiene una base de 100.000 € y resta 15.956,87 €. La base liquidable, 84.043,13 €, da una cuota de 9.838,32 €. Como no llega a 175.000 €, la bonificación es del 100 %."
+     },
+     {
+      "t": "Un hijo único: 1.412,50 €",
+      "p": "Si un solo hijo hereda el piso entero, su base liquidable sube a 184.043,13 €. Ya supera los 175.000 €, así que bonifica el 95 % de 28.250,01 €."
+     },
+     {
+      "t": "El mismo hijo con vivienda habitual: 0 €",
+      "p": "Si era la casa del padre, resta además 122.606,47 €. La base cae a 61.436,66 € y vuelve la bonificación del 100 %, siempre que conserve la casa diez años."
+     },
+     {
+      "t": "Dos sobrinos: 17.667,79 € cada uno",
+      "p": "Restan 7.993,46 € y les quedan 92.006,54 €. La tarifa da 11.124,41 € y el coeficiente de 1,5882 la sube a 17.667,79 €, sin bonificación."
+     }
+    ],
+    "outro": [
+     "Son cálculos orientativos del impuesto de sucesiones en Castilla-La Mancha, con patrimonio previo bajo. Cada caso tiene matices, así que consulta el tuyo con un asesor."
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en Castilla-La Mancha",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en Castilla-La Mancha para fallecimientos de 2026, con patrimonio previo de hasta 402.678,11 €. La Ley 1/2026 de la región no lo ha cambiado."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Castilla-La Mancha en 2026"
+     ],
+     [
+      "Grupo I: hijos y nietos menores de 21.",
+      "Reducción de 15.956,87 € más 3.990,72 € por año hasta 21, con tope de 47.858,59 €. Bonificación del 100 % al 80 %."
+     ],
+     [
+      "Grupo II: hijos, cónyuge y padres.",
+      "Reducción de 15.956,87 €. Bonificación del 100 % si la base liquidable es inferior a 175.000 €."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos y tíos.",
+      "Reducción de 7.993,46 € y coeficiente 1,5882. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual.",
+      "95 % hasta 122.606,47 € por heredero, con 10 años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros con el modelo 406."
+     ],
+     [
+      "Organismo y modelo.",
+      "Consejería de Hacienda, Administraciones Públicas y Transformación Digital. Modelo 650."
+     ]
+    ],
+    "outro": [
+     "Se presenta en las Delegaciones Provinciales de esa consejería o en las Oficinas Liquidadoras de Distrito Hipotecario, también por internet. Cada heredero presenta su <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>.",
+     "Si te pasas del plazo sin requerimiento, pagas un 1 % más un 1 % por mes completo. Tras doce meses, es un 15 % más intereses, como explicamos en el <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>. Si no tienes liquidez, existe el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a>, que se pide antes de que venza el plazo."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas una parte de la casa: copropiedad, plusvalía e IRPF",
+    "type": "text",
+    "intro": [
+     "Al heredar una cuota, tributas solo por su valor. Pagado el impuesto de sucesiones en Castilla-La Mancha, sigues en proindiviso con tus hermanos o con quien herede contigo. Si no os ponéis de acuerdo sobre qué hacer, el problema no lo resuelve Hacienda.",
+     "Una salida es la extinción de condominio, que explicamos en <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-castilla-la-mancha/\">extinción de condominio en Castilla-La Mancha</a>. Otra es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> o, si aún no hay partición, tus <a href=\"/vender-derechos-hereditarios/\">derechos hereditarios</a>.",
+     "Ten en cuenta dos impuestos más. Al heredar, el ayuntamiento puede cobrar la plusvalía municipal, con seis meses de plazo prorrogables a un año. Al vender, el valor que declaraste en sucesiones es tu valor de adquisición en el IRPF. Puedes estimarlo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si tu madre o tu padre conserva el usufructo, heredas la nuda propiedad. Ahora tributas por menos y el resto, al extinguirse el usufructo; calcula su valor con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Si no puedes pagar",
+    "h2": "¿No puedes pagar sucesiones en Castilla-La Mancha?",
+    "type": "callout",
+    "intro": [
+     "Para un sobrino o un hermano, la cuota del impuesto de sucesiones en Castilla-La Mancha puede llegar antes que el dinero de la herencia. Tienes tres opciones. Puedes aplazar o fraccionar con intereses, o aceptar <a href=\"/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/\">a beneficio de inventario</a> si hay deudas. También puedes vender tu parte y pagar con lo que cobras.",
+     "Te lo contamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. También compramos en las cinco provincias: <a href=\"/vender-proindiviso/castilla-la-mancha/\">vender un proindiviso en Castilla-La Mancha</a>."
+    ],
+    "items": {
+     "t": "Precio por tu parte en 48 horas",
+     "p": "Compramos tu parte de la herencia con fondos propios, precio por escrito en 48 horas. Firma en notaría en 2-4 semanas y pago al contado, sin exclusividad.",
+     "cta": "Quiero precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://portaltributario.jccm.es/informacion-tributaria/sucesiones\">Portal Tributario de Castilla-La Mancha: sucesiones</a>. Plazo, prórroga con el modelo 406, modelo 650 y oficinas de presentación.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2014-1368\">Ley 8/2013 de medidas tributarias de Castilla-La Mancha, en el BOE</a>. Bonificaciones del artículo 17 y reducciones propias.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones</a>. Tarifa estatal, coeficientes y reducción estatal por vivienda habitual.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de las medidas vigentes en cada comunidad, actualizado a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Castilla-La Mancha?",
+    "Normalmente nada. Si su base liquidable, después de restar 15.956,87 €, es inferior a 175.000 €, la bonificación es del 100 %. Por encima, paga entre el 5 % y el 20 % de la cuota, según el tramo."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí. Ambos son grupo III: restan 7.993,46 € y aplican la tarifa estatal con un coeficiente de 1,5882. No tienen bonificación autonómica, así que con 100.000 € heredados pagan unos 17.668 € cada uno."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto?",
+    "Seis meses desde el fallecimiento. Si necesitas más, pide la prórroga con el modelo 406 dentro de los cinco primeros meses y tendrás otros seis. La prórroga lleva intereses de demora por ese tiempo."
+   ],
+   [
+    "¿Dónde se presenta el modelo 650 en Castilla-La Mancha?",
+    "En las Delegaciones Provinciales de la Consejería de Hacienda, en una Oficina Liquidadora de Distrito Hipotecario o por internet. Muchas familias lo encargan a una gestoría junto con la escritura de herencia."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar sucesiones?",
+    "Puedes pedir aplazamiento o fraccionamiento antes de que acabe el plazo, con intereses de demora. Si lo que heredas es una parte de un inmueble, también puedes venderla: te damos precio por escrito en 48 horas y pagamos al contado en notaría."
+   ],
+   [
+    "¿Pierdo la reducción por vivienda habitual si vendo mi parte?",
+    "Si vendes antes de diez años, puedes perderla y tendrías que pagar lo que te ahorraste, con intereses. Muchos hijos ya no pagan gracias a la bonificación, así que revisa con tu asesor si de verdad te compensa aplicarla."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Castilla-La Mancha",
+  "related": [
+   [
+    "Vender un proindiviso en Castilla-La Mancha",
+    "/vender-proindiviso/castilla-la-mancha/"
+   ],
+   [
+    "Impuesto de sucesiones por comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Bonificación del impuesto de sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "¿Has heredado parte de un piso en Castilla-La Mancha?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Castilla-La Mancha: tramos 2026",
+  "meta_desc": "Impuesto de sucesiones en Castilla-La Mancha 2026: bonificación del 100 % al 80 % para hijos, tarifa estatal para sobrinos y ejemplo. Compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Castilla-La Mancha",
+  "title_corto": "Sucesiones en Castilla-La Mancha",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the inner courtyard of a traditional house in La Mancha, whitewashed walls, a stone well with an iron pulley, large clay storage jars, a grapevine pergola casting soft shadows on terracotta floor tiles, warm afternoon light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Castilla-La Mancha: patio manchego con pozo y tinajas",
+  "datos": {
+   "grupo_I": "Reducción estatal: 15.956,87 € + 3.990,72 € por año menos de 21, máximo 47.858,59 €. Bonificación por base liquidable: 100 % < 175.000 €; 95 % 175.000-224.999 €; 90 % 225.000-274.999 €; 85 % 275.000-299.999 €; 80 % ≥ 300.000 € (art. 17.1 Ley 8/2013)",
+   "grupo_II": "Reducción estatal de 15.956,87 €; misma escala de bonificación que el grupo I. Parejas de hecho inscritas con 2 años de convivencia equiparadas a cónyuges a efectos de la bonificación (art. 18.1)",
+   "grupo_III": "Reducción estatal de 7.993,46 €; tarifa estatal; coeficiente 1,5882 (patrimonio hasta 402.678,11 €); sin bonificación autonómica",
+   "grupo_IV": "Sin reducción; coeficiente 2,0000; sin bonificación",
+   "vivienda_habitual": "Sin mejora autonómica: reducción estatal del 95 %, límite 122.606,47 € por sujeto pasivo, mantenimiento 10 años; cónyuge, ascendientes, descendientes o colateral >65 con 2 años de convivencia (art. 20.2.c LISD)",
+   "tarifa": "Estatal, 7,65 % a 34 % (la comunidad no ha ejercido competencias)",
+   "patrimonio_preexistente": "Estatal: 0-402.678,11 € (1 / 1,5882 / 2); hasta 2.007.380,43 € (1,05 / 1,6676 / 2,1); hasta 4.020.770,98 € (1,1 / 1,7471 / 2,2); más (1,2 / 1,9059 / 2,4)",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros meses con el formulario 406; silencio positivo al mes; intereses de demora",
+   "organismo": "Consejería de Hacienda, Administraciones Públicas y Transformación Digital: Delegaciones Provinciales y Oficinas Liquidadoras de Distrito Hipotecario; presentación telemática en el Registro Electrónico Tributario",
+   "modelo": "Modelo 650 (programa de ayuda CLM); 655 para consolidación de dominio; 406 para la prórroga",
+   "url_organismo": "https://portaltributario.jccm.es/informacion-tributaria/sucesiones",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), dos herederos al 50 %, sin ajuar, patrimonio < 402.678,11 €. BI 100.000 € cada uno. HIJOS: 100.000 - 15.956,87 = BL 84.043,13; escala estatal: 9.166,06 + (84.043,13 - 79.880,52) x 16,15 % = 9.838,32; x 1; BL < 175.000 -> bonificación 100 % -> 0 €. HIJO ÚNICO (200.000 €): BL 184.043,13; 23.063,25 + (184.043,13 - 159.634,83) x 21,25 % = 28.250,01; bonificación 95 % -> 1.412,50 €. Con vivienda habitual: 200.000 x 95 % = 190.000, limitado a 122.606,47 -> BL 61.436,66 -> cuota 6.454,01 -> bonificación 100 % -> 0 €. SOBRINOS (o hermanos): 100.000 - 7.993,46 = BL 92.006,54; 9.166,06 + (92.006,54 - 79.880,52) x 16,15 % = 11.124,41; x 1,5882 = 17.667,79 € cada uno. Con ajuar 3 %: 18.437,27 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Bonificaciones 100/95/90/85/80 % por base liquidable y 95 % discapacidad ≥65 % (art. 17 Ley 8/2013, redacción Ley 3/2016)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1368"
+   ],
+   [
+    "Equiparación de parejas de hecho (art. 18.1 Ley 8/2013)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1368"
+   ],
+   [
+    "Reducciones por discapacidad 125.000/225.000 €, sin tarifa ni coeficientes propios (resumen oficial 2026)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 de Castilla-La Mancha (Ley 1/2026): solo ITP/AJD y obligaciones notariales, sin cambios en ISD mortis causa",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Plazo, prórroga (formulario 406), obligados, modelo 650 y lugar de presentación (Delegaciones Provinciales y Oficinas Liquidadoras)",
+    "https://portaltributario.jccm.es/informacion-tributaria/sucesiones"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro como mínimo en inmuebles (art. 9.3 LISD); ajuar doméstico del 3 % (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales: grupo I 15.956,87 € + 3.990,72 €/año <21 (máx. 47.858,59 €), grupo II 15.956,87 €, grupo III 7.993,46 €, grupo IV 0; vivienda habitual 95 %, límite 122.606,47 €, 10 años, colaterales >65 con 2 años de convivencia (art. 20.2 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tarifa estatal 7,65 %-34 % (art. 21 LISD) y coeficientes estatales 1 / 1,5882 / 2 hasta 402.678,11 € de patrimonio preexistente (art. 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses y prórroga de otros 6 pedida en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % + intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Punto de conexión: residencia habitual del causante = comunidad donde permaneció más días en los 5 años anteriores (arts. 28.1.1.º b) y 32.2.a) Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: plazo de 6 meses prorrogable hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas, el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "Aplazamiento por las oficinas gestoras: hasta 1 año y fraccionamiento en 5 anualidades con garantía, si no hay efectivo suficiente (art. 38 LISD); usufructo y nuda propiedad (art. 26 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ]
+  ],
+  "dudas": []
+ },
+ {
+  "slug": "impuesto-de-sucesiones-castilla-y-leon",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Castilla y León",
+  "h1": "Impuesto de sucesiones en Castilla y León: reducciones de 400.000 € y ejemplo 2026",
+  "sub": "En el impuesto de sucesiones en Castilla y León, la familia directa resta hasta 400.000 € y bonifica el 99 %. Hermanos y sobrinos, en cambio, pagan con la tarifa estatal y sin bonificación. Si heredas parte de un piso y quieres salir, te la compramos con fondos propios. Precio por escrito en 48 horas.",
+  "checks": [
+   "Normativa de 2026 verificada",
+   "Ejemplo con hijos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Has heredado parte de un piso en Castilla y León?",
+  "card_text": "Dinos la provincia y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Respuesta corta",
+    "h2": "Cómo funciona el impuesto de sucesiones en Castilla y León",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Castilla y León lo paga cada heredero por lo que recibe. Se aplica si el fallecido vivió en la comunidad la mayor parte de los cinco años anteriores, aunque el piso esté fuera. Lo gestiona la Consejería de Economía y Hacienda de la Junta.",
+     "El impuesto de sucesiones en Castilla y León no tiene tarifa propia, así que usa la estatal: del 7,65 % al 34 %. Tampoco cambia los coeficientes por patrimonio previo. Lo que sí mejora, y mucho, son las reducciones y la bonificación de la familia directa.",
+     "Hijos de 21 años o más, cónyuge y padres restan 60.000 €. Los menores de 21 suman 6.000 € por cada año que les falte. Además, hay una reducción variable que completa lo que falte hasta 400.000 € entre todas las reducciones.",
+     "Sobre lo que quede, si queda algo, se aplica una bonificación del 99 %. En la práctica, un hijo que hereda hasta 400.000 € no paga nada. Las parejas de hecho inscritas con dos años de convivencia cuentan como cónyuge."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Valladolid",
+    "type": "steps",
+    "intro": [
+     "Así funciona el impuesto de sucesiones en Castilla y León con cifras reales. Una madre residente en Valladolid deja un piso con un valor de referencia de 200.000 € y nada más. Lo heredan dos personas al 50 %. Para simplificar, no sumamos el ajuar doméstico, que la ley presume en un 3 %."
+    ],
+    "items": [
+     {
+      "t": "Base de cada heredero: 100.000 €",
+      "p": "Cada uno tributa solo por su mitad, con el valor de referencia como mínimo."
+     },
+     {
+      "t": "Si son dos hijos: 0 €",
+      "p": "Restan 60.000 € y la reducción variable añade 40.000 €. La base liquidable queda en cero, así que no hay cuota."
+     },
+     {
+      "t": "Si un hijo heredara mucho más: casi nada",
+      "p": "Con 500.000 € heredados, restaría 400.000 €. Los 100.000 € restantes darían 12.415,36 € de cuota. Con el 99 % de bonificación, pagaría 124,15 €."
+     },
+     {
+      "t": "Si son dos sobrinos: 17.667,79 € cada uno",
+      "p": "Restan 7.993,46 €. Sobre 92.006,54 € la tarifa da 11.124,41 €, y el coeficiente de 1,5882 la sube a 17.667,79 €. No hay bonificación."
+     }
+    ],
+    "outro": [
+     "Los hermanos pagarían lo mismo que los sobrinos. Son cálculos orientativos, con patrimonio previo inferior a 402.678,11 €; consulta tu caso con un asesor."
+    ]
+   },
+   {
+    "overline": "Parentesco",
+    "h2": "Hermanos, sobrinos, primos y vivienda habitual",
+    "type": "cards",
+    "intro": [
+     "Fuera de la familia directa no hay reducción variable ni bonificación. Estas son las reglas para el resto de herederos."
+    ],
+    "items": [
+     {
+      "t": "Hermanos, sobrinos y tíos",
+      "p": "Son el grupo III. Restan la reducción estatal de 7.993,46 € y aplican el coeficiente de 1,5882. Es donde el impuesto de sucesiones en Castilla y León se nota de verdad.",
+      "url": "/diccionario-del-proindiviso/grupos-de-parentesco/",
+      "cta": "Grupos de parentesco →"
+     },
+     {
+      "t": "Primos y personas sin parentesco",
+      "p": "Grupo IV: no tienen reducción por parentesco y el coeficiente parte de 2. Por eso pagan más que nadie."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "La comunidad no tiene una reducción propia, así que rige la estatal. Es el 95 % del valor, con un límite de 122.606,47 € por heredero y diez años de mantenimiento.",
+      "url": "/diccionario-del-proindiviso/reduccion-por-vivienda-habitual/",
+      "cta": "Reducción por vivienda habitual →"
+     },
+     {
+      "t": "Quién puede usarla",
+      "p": "Cónyuge, hijos y padres, y también hermanos o sobrinos de más de 65 años que convivieran dos años con el fallecido. En la familia directa suele aportar poco, porque se descuenta de la reducción variable."
+     },
+     {
+      "t": "Discapacidad",
+      "p": "Las personas con discapacidad restan 125.000 € si su grado está entre el 33 % y el 64 %. Desde el 65 % restan 225.000 €."
+     }
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en Castilla y León para 2026",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en Castilla y León para fallecimientos de 2026, con patrimonio previo de hasta 402.678,11 €. La comunidad no ha aprobado cambios para 2026."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Castilla y León en 2026"
+     ],
+     [
+      "Grupo I: hijos y nietos menores de 21.",
+      "60.000 € más 6.000 € por año hasta 21, y reducción variable hasta sumar 400.000 €. Bonificación del 99 %."
+     ],
+     [
+      "Grupo II: hijos, cónyuge y padres.",
+      "60.000 € más reducción variable hasta 400.000 €. Bonificación del 99 %."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos y tíos.",
+      "Reducción estatal de 7.993,46 € y coeficiente 1,5882. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual.",
+      "Reducción estatal del 95 % hasta 122.606,47 € por heredero, con 10 años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo.",
+      "Consejería de Economía y Hacienda, con su Oficina Virtual de Tributos. Modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar la mitad de un piso: y después, ¿qué?",
+    "type": "text",
+    "intro": [
+     "Si heredas una parte, tributas solo por el valor de tu cuota. Luego quedas en copropiedad con los demás herederos, con gastos compartidos y decisiones que exigen acuerdo. El impuesto de sucesiones en Castilla y León no resuelve esa situación.",
+     "Para salir, uno puede quedarse el piso y compensar al resto: es la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-castilla-y-leon/\">extinción de condominio en Castilla y León</a>. La otra vía es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a>, o tus <a href=\"/vender-derechos-hereditarios/\">derechos hereditarios</a> si aún no hay partición.",
+     "Al heredar, tu ayuntamiento puede cobrarte la plusvalía municipal; tienes seis meses, prorrogables hasta un año. Cuando vendas, tu valor de adquisición en el IRPF será el declarado en sucesiones. Puedes hacer números con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>. Y si el viudo mantiene el usufructo, valora tu nuda propiedad con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Plazos",
+    "h2": "Plazo, modelo 650 y recargos en Castilla y León",
+    "type": "list",
+    "intro": [
+     "Cada heredero presenta su autoliquidación del impuesto de sucesiones en Castilla y León. Se puede hacer por internet con el programa de ayuda de la Junta, a través de su Oficina Virtual de Tributos."
+    ],
+    "items": [
+     "<strong>Plazo:</strong> seis meses desde el fallecimiento. La prórroga de otros seis se pide en los cinco primeros meses y lleva intereses de demora.",
+     "<strong>Modelo:</strong> <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>, uno por cada heredero, con la escritura o el documento de la herencia.",
+     "<strong>Fuera de plazo:</strong> recargo del 1 % más un 1 % por mes completo de retraso. Pasados doce meses, es del 15 % más intereses. Lo detallamos en el <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>.",
+     "<strong>Sin liquidez:</strong> puedes solicitar el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> o fraccionarlo antes de que venza el plazo, con intereses."
+    ]
+   },
+   {
+    "overline": "Si no puedes pagar",
+    "h2": "Si no puedes pagar sucesiones en Castilla y León",
+    "type": "callout",
+    "intro": [
+     "En el impuesto de sucesiones en Castilla y León, los hijos casi nunca pagan. Un sobrino, en cambio, puede deber más de 17.000 € por medio piso. Antes de renunciar, valora tus salidas. Puedes aplazar o fraccionar, aceptar <a href=\"/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/\">a beneficio de inventario</a> si hay deudas o vender tu parte para pagar el impuesto.",
+     "Tienes el detalle en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. También compramos en las nueve provincias: <a href=\"/vender-proindiviso/castilla-y-leon/\">vender un proindiviso en Castilla y León</a>."
+    ],
+    "items": {
+     "t": "Precio por tu parte en 48 horas",
+     "p": "Compramos tu parte de la herencia con fondos propios, precio por escrito en 48 horas. Firmamos en notaría en 2-4 semanas y pagamos al contado, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOCL-h-2013-90254\">Decreto Legislativo 1/2013 de Castilla y León, texto consolidado en el BOE</a>. Reducciones de los artículos 13 y 21 y bonificación del artículo 17 bis.",
+     "<a href=\"https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1251181050732/1/1250170620095/Tramite\">Oficina Virtual de Tributos de Castilla y León</a>. Pago y presentación telemática de los modelos 650, 651 y 655.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones</a>. Tarifa estatal, coeficientes y reducción estatal por vivienda habitual.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de las medidas vigentes en cada comunidad, actualizado a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Castilla y León?",
+    "Si hereda hasta 400.000 €, nada: entre la reducción de 60.000 € y la variable se llega a esa cifra y la base queda en cero. Por encima, la bonificación del 99 % deja la cuota en el 1 %."
+   ],
+   [
+    "¿Pagan lo mismo hermanos y sobrinos en Castilla y León?",
+    "Sí. Los dos son grupo III y aplican la reducción estatal de 7.993,46 €, la tarifa estatal y un coeficiente de 1,5882. Por 100.000 € heredados, la cuota ronda los 17.668 € en ambos casos."
+   ],
+   [
+    "¿Cuánto tiempo hay para presentar el impuesto?",
+    "Seis meses desde la fecha del fallecimiento. Puedes pedir una prórroga de otros seis meses si la solicitas en los cinco primeros, pero pagarás intereses de demora por ese tiempo extra."
+   ],
+   [
+    "¿Qué pasa si presento tarde la herencia?",
+    "Sin requerimiento previo, el recargo es del 1 % más un 1 % por cada mes completo de retraso. Si pasan más de doce meses, sube al 15 % y se añaden intereses. Con requerimiento de Hacienda puede haber sanción."
+   ],
+   [
+    "¿Qué hago si no puedo pagar sucesiones?",
+    "Pide aplazamiento o fraccionamiento antes de que termine el plazo. Si lo heredado es una parte de un inmueble, puedes venderla para pagar: compramos cuotas heredadas al contado y te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Me conviene aplicar la reducción por vivienda habitual siendo hijo?",
+    "Suele aportar poco, porque se descuenta de la reducción variable y el total sigue siendo 400.000 €. En cambio, te obliga a conservar la vivienda diez años. Revísalo con tu asesor antes de presentar."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Castilla y León",
+  "related": [
+   [
+    "Vender un proindiviso en Castilla y León",
+    "/vender-proindiviso/castilla-y-leon/"
+   ],
+   [
+    "Impuesto de sucesiones por comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Bonificación del impuesto de sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "¿Quieres vender tu parte heredada en Castilla y León?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Castilla y León: guía de 2026",
+  "meta_desc": "Impuesto de sucesiones en Castilla y León 2026: hijos y cónyuge restan hasta 400.000 €, sobrinos pagan tarifa estatal. Ejemplo y compra de tu parte.",
+  "focus_kw": "impuesto de sucesiones en Castilla y León",
+  "title_corto": "Sucesiones en Castilla y León",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the kitchen of an old stone house in a village of Castilla y León, a large open hearth, dark wooden ceiling beams, a heavy pine table, copper pots hanging on the wall and a deep window opening onto golden cereal fields, soft winter light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Castilla y León: cocina de casa de pueblo con chimenea",
+  "datos": {
+   "grupo_I": "60.000 € + 6.000 € por año menos de 21 (art. 13.1.b DLeg 1/2013) + reducción variable hasta completar 400.000 € con el resto de reducciones (art. 13.1.c); bonificación del 99 % (art. 17 bis)",
+   "grupo_II": "60.000 € (art. 13.1.a) + reducción variable hasta 400.000 €; bonificación del 99 %. Uniones de hecho inscritas con 2 años de convivencia equiparadas (art. 22.1.a)",
+   "grupo_III": "Sin mejora autonómica: reducción estatal de 7.993,46 €, tarifa estatal y coeficiente 1,5882 (patrimonio hasta 402.678,11 €); sin bonificación",
+   "grupo_IV": "Sin reducción; coeficiente 2,0000; sin bonificación",
+   "vivienda_habitual": "Sin mejora autonómica: estatal 95 %, límite 122.606,47 € por sujeto pasivo, 10 años; cónyuge, ascendientes, descendientes o colateral >65 con 2 años de convivencia. Para grupos I y II computa dentro de los 400.000 € (la reducción variable se calcula restando las reducciones estatales), así que en la práctica no aumenta el total salvo casos con otras reducciones",
+   "tarifa": "Estatal, 7,65 % a 34 % (no ha ejercido competencias)",
+   "patrimonio_preexistente": "Coeficientes estatales (no ha ejercido competencias)",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses pedida en los 5 primeros, con intereses (arts. 67-68 RISD)",
+   "organismo": "Consejería de Economía y Hacienda, Dirección General de Tributos y Financiación Autonómica (Oficina Virtual de Tributos, OVIA)",
+   "modelo": "Modelo 650 mediante el programa de ayuda PADIA y la OVIA",
+   "url_organismo": "https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1251181050732/1/1250170620095/Tramite",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), dos herederos al 50 %, sin ajuar, patrimonio < 402.678,11 €. BI 100.000 € cada uno. HIJOS: reducción 60.000 + variable (400.000 - 60.000 = 340.000, limitada en la práctica a la base) -> BL 0 -> 0 €. HIJO CON 500.000 €: reducciones 400.000 -> BL 100.000; 9.166,06 + (100.000 - 79.880,52) x 16,15 % = 12.415,36; bonificación 99 % -> 124,15 €. SOBRINOS (o hermanos): 100.000 - 7.993,46 = BL 92.006,54; 9.166,06 + (92.006,54 - 79.880,52) x 16,15 % = 11.124,41; x 1,5882 = 17.667,79 € cada uno."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones 60.000 € (+6.000 €/año <21) y variable hasta 400.000 € (art. 13), sustitución de las estatales (art. 21), bonificación 99 % (art. 17 bis), uniones de hecho (art. 22)",
+    "https://www.boe.es/buscar/act.php?id=BOCL-h-2013-90254"
+   ],
+   [
+    "Resumen oficial 2026: sin tarifa ni coeficientes propios, discapacidad 125.000/225.000 €",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Castilla y León no aprobó medidas nuevas en tributos cedidos para 2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Organismo (Consejería de Economía y Hacienda, DG de Tributos y Financiación Autonómica) y presentación telemática de los modelos 650, 651 y 655 en la OVIA",
+    "https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1251181050732/1/1250170620095/Tramite"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro como mínimo en inmuebles (art. 9.3 LISD); ajuar doméstico del 3 % (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales: grupo I 15.956,87 € + 3.990,72 €/año <21 (máx. 47.858,59 €), grupo II 15.956,87 €, grupo III 7.993,46 €, grupo IV 0; vivienda habitual 95 %, límite 122.606,47 €, 10 años, colaterales >65 con 2 años de convivencia (art. 20.2 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tarifa estatal 7,65 %-34 % (art. 21 LISD) y coeficientes estatales 1 / 1,5882 / 2 hasta 402.678,11 € de patrimonio preexistente (art. 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses y prórroga de otros 6 pedida en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % + intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Punto de conexión: residencia habitual del causante = comunidad donde permaneció más días en los 5 años anteriores (arts. 28.1.1.º b) y 32.2.a) Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: plazo de 6 meses prorrogable hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas, el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "Aplazamiento por las oficinas gestoras: hasta 1 año y fraccionamiento en 5 anualidades con garantía, si no hay efectivo suficiente (art. 38 LISD); usufructo y nuda propiedad (art. 26 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ]
+  ],
+  "dudas": [
+   "Oficinas físicas de presentación en Castilla y León (servicios territoriales u oficinas liquidadoras): no he podido abrir el portal tributos.jcyl.es desde aquí, así que en el texto solo cito la Consejería y su Oficina Virtual de Tributos."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-cataluna",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Cataluña",
+  "h1": "Impuesto de sucesiones en Cataluña: tarifa propia, bonificaciones y ejemplo 2026",
+  "sub": "En el impuesto de sucesiones en Cataluña, cada hijo resta 100.000 € y el cónyuge bonifica el 99 %. Con herencias mayores, los hijos pagan parte, y hermanos y sobrinos pagan la cuota entera. Si heredas parte de un piso y prefieres venderla, te la compramos con fondos propios. Precio por escrito en 48 horas.",
+  "checks": [
+   "Tarifa catalana de 2026",
+   "Cálculo con hijos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Has heredado parte de un piso en Cataluña?",
+  "card_text": "Dinos la dirección y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso y sin exclusividad.",
+  "sections": [
+   {
+    "overline": "Normas propias",
+    "h2": "Cómo funciona el impuesto de sucesiones en Cataluña",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Cataluña tiene reglas propias en casi todo: reducciones, tarifa, coeficientes y bonificaciones. Se aplican si el fallecido vivió en Cataluña la mayor parte de los últimos cinco años, esté donde esté el piso. Gestiona el impuesto la Agència Tributària de Catalunya, la ATC.",
+     "Cada heredero tributa por su parte. La base es el valor de lo que recibe y, en inmuebles, cuenta como mínimo el valor de referencia del Catastro. A esa base se restan las reducciones: 100.000 € para cónyuge e hijos, 50.000 € para nietos y 30.000 € para padres. Los menores de 21 suman 12.000 € por año que les falte, hasta 196.000 €.",
+     "Hermanos, sobrinos y tíos restan solo 8.000 €. Después se aplica la tarifa catalana, del 7 % al 32 %. El coeficiente es 1,5882 para el grupo III y 2 para el IV, sea cual sea su patrimonio. En hijos y cónyuge vale 1 hasta 500.000 € de patrimonio previo y sube después por tramos.",
+     "Por último llega la bonificación, que es donde el impuesto de sucesiones en Cataluña se separa de otras comunidades. No es un 99 % para todos: depende del parentesco y del tamaño de la herencia."
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en Cataluña",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en Cataluña para fallecimientos de 2026. Son cifras orientativas, y las reformas catalanas de este año no han cambiado estas reglas."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Cataluña en 2026"
+     ],
+     [
+      "Grupo I: hijos y nietos menores de 21.",
+      "100.000 € más 12.000 € por año hasta 21, con tope de 196.000 €. Bonificación del 99 % al 20 % según la base imponible."
+     ],
+     [
+      "Grupo II: cónyuge.",
+      "Reducción de 100.000 € y bonificación del 99 %."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, nietos y padres.",
+      "Reducción de 100.000 €, 50.000 € o 30.000 €. Bonificación del 60 % al 0 % según la base imponible."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos y tíos.",
+      "Reducción de 8.000 € y coeficiente 1,5882. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual.",
+      "95 % con límite de 500.000 € entre todos, nunca menos de 180.000 € por heredero. 5 años."
+     ],
+     [
+      "Tarifa.",
+      "Escala catalana del 7 % al 32 %."
+     ],
+     [
+      "Plazo.",
+      "6 meses desde el fallecimiento, más 6 de prórroga si la pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo.",
+      "Agència Tributària de Catalunya. Modelo 660 de declaración y un modelo 650 por heredero."
+     ]
+    ]
+   },
+   {
+    "overline": "Bonificaciones",
+    "h2": "La bonificación catalana: 99 % para el cónyuge, por tramos para los hijos",
+    "type": "list",
+    "intro": [
+     "En el impuesto de sucesiones en Cataluña, el cónyuge o la pareja estable bonifica siempre el 99 %. Para el resto de la familia directa, la ATC calcula un porcentaje medio ponderado por tramos de base imponible."
+    ],
+    "items": [
+     "<strong>Hijos de 21 años o más, nietos y padres:</strong> 60 % sobre los primeros 100.000 € de base. Luego, 55 % hasta 200.000 € y 50 % hasta 300.000 €. Baja por tramos hasta el 0 % por encima de 3 millones.",
+     "<strong>Hijos y nietos menores de 21:</strong> 99 % sobre los primeros 100.000 €, 97 % hasta 200.000 € y 95 % hasta 300.000 €. El mínimo es un 20 %.",
+     "<strong>Vivienda habitual del fallecido:</strong> reducción del 95 % con un límite conjunto de 500.000 €, prorrateado entre herederos y nunca inferior a 180.000 € por persona.",
+     "<strong>Quién la aplica:</strong> cónyuge, descendientes y ascendientes, y colaterales mayores de 65 que convivieran dos años con el fallecido. Debes conservarla cinco años o reinvertir lo obtenido en tu vivienda habitual en seis meses.",
+     "<strong>Mayores de 75 años:</strong> los herederos del grupo II con esa edad restan 275.000 € más."
+    ],
+    "outro": [
+     "Ojo con una regla: si hijos o padres eligen otras reducciones, como la de empresa familiar, pierden la bonificación. La de vivienda habitual, en cambio, es compatible con ella."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: piso de 200.000 € en Girona para hijos o sobrinos",
+    "type": "steps",
+    "intro": [
+     "Un padre que vivía en Girona deja un piso con un valor de referencia de 200.000 €. No era su vivienda habitual y no hay más bienes. Para simplificar, no sumamos el ajuar doméstico del 3 %."
+    ],
+    "items": [
+     {
+      "t": "Dos hijos al 50 %: 0 €",
+      "p": "Cada uno tiene una base de 100.000 € y resta 100.000 €. La base liquidable queda en cero, así que no hay cuota."
+     },
+     {
+      "t": "Un hijo único: 3.825 €",
+      "p": "Si hereda el piso entero, resta 100.000 € y la tarifa da 9.000 €. Su bonificación media es del 57,5 %, así que paga 3.825 €."
+     },
+     {
+      "t": "El mismo hijo, con vivienda habitual: 0 €",
+      "p": "Si era la casa del padre, restaría además el 95 % del piso, 190.000 €. Las reducciones superan la base y la cuota desaparece, siempre que conserve la vivienda cinco años."
+     },
+     {
+      "t": "Dos sobrinos al 50 %: 12.896,18 € cada uno",
+      "p": "Cada uno resta 8.000 € y queda una base de 92.000 €. La tarifa da 8.120 € y el coeficiente de 1,5882 la eleva a 12.896,18 €."
+     }
+    ],
+    "outro": [
+     "Un hermano pagaría lo mismo que un sobrino. Son cálculos orientativos del impuesto de sucesiones en Cataluña; la propia ATC publica casos prácticos con el mismo método. Consulta tu caso con un asesor."
+    ]
+   },
+   {
+    "overline": "Presentación",
+    "h2": "Modelos 660 y 650, plazo y pago del impuesto en Cataluña",
+    "type": "cards",
+    "intro": [
+     "El impuesto de sucesiones en Cataluña se declara ante la ATC con dos modelos distintos. Puedes hacerlo por internet con su programa de ayuda o en sus oficinas."
+    ],
+    "items": [
+     {
+      "t": "Modelo 660 y modelo 650",
+      "p": "El 660 recoge todos los bienes del fallecido y a todos los herederos. Además, cada heredero presenta su propio modelo 650 con su cuota.",
+      "url": "/diccionario-del-proindiviso/modelo-650/",
+      "cta": "Qué es el modelo 650 →"
+     },
+     {
+      "t": "Plazo y prórroga",
+      "p": "Tienes seis meses desde el fallecimiento. En los cinco primeros puedes pedir seis más, pero pagarás intereses de demora por los días prorrogados."
+     },
+     {
+      "t": "Recargos por retraso",
+      "p": "Sin requerimiento, el recargo es del 1 % más un 1 % por mes completo. Pasados doce meses, sube al 15 % y se suman intereses.",
+      "url": "/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/",
+      "cta": "Recargos fuera de plazo →"
+     },
+     {
+      "t": "Aplazar hasta dos años",
+      "p": "La ATC puede aplazar el pago hasta dos años si la herencia no tiene liquidez. También puede fraccionarlo en cinco anualidades con garantía, siempre con intereses.",
+      "url": "/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/",
+      "cta": "Aplazamiento del impuesto →"
+     },
+     {
+      "t": "Pagar con inmuebles",
+      "p": "En casos concretos, y con autorización de la Generalitat, se puede pagar con inmuebles de la propia herencia. Es excepcional y conviene preguntarlo antes."
+     }
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas una parte: copropiedad, plusvalía e IRPF",
+    "type": "text",
+    "intro": [
+     "Con el impuesto de sucesiones en Cataluña tributas por tu mitad del piso y, después, eres copropietario. En Cataluña la comunidad de bienes se rige por el Código civil catalán, con reglas que explicamos en <a href=\"/blog/proindiviso-en-cataluna-codigo-civil-catalan/\">el proindiviso en el Código civil catalán</a>.",
+     "Para salir, un heredero puede quedarse el piso y compensar al resto mediante la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-cataluna/\">extinción de condominio en Cataluña</a>. También puedes <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a>, o tus <a href=\"/vender-derechos-hereditarios/\">derechos hereditarios</a> si la herencia sigue sin repartir.",
+     "Al heredar, el ayuntamiento puede liquidar la plusvalía municipal, con seis meses de plazo prorrogables hasta un año. Cuando vendas, el valor declarado en sucesiones será tu valor de adquisición en el IRPF. Estímalo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el cónyuge viudo tiene el usufructo, tú heredas la nuda propiedad y el resto se liquida al extinguirse el usufructo. Calcula su valor con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Si no puedes pagar",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Cataluña",
+    "type": "callout",
+    "intro": [
+     "A menudo, el impuesto de sucesiones en Cataluña hay que pagarlo antes de poder vender nada. Un sobrino que hereda medio piso de 200.000 € debe casi 13.000 €, y a veces no tiene ese dinero. Tus opciones son pedir el aplazamiento, aceptar <a href=\"/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/\">a beneficio de inventario</a> si hay deudas o vender tu parte para pagar.",
+     "Lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. También compramos en las cuatro provincias: <a href=\"/vender-proindiviso/cataluna/\">vender un proindiviso en Cataluña</a>."
+    ],
+    "items": {
+     "t": "Precio por tu parte en 48 horas",
+     "p": "Compramos tu parte de la herencia con fondos propios, precio por escrito en 48 horas. Firma en notaría en 2-4 semanas, pago al contado y notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://atc.gencat.cat/es/tributs/isd/herencies/\">Agència Tributària de Catalunya: herencias</a>. Reducciones, bonificaciones, plazos, modelos 660 y 650 y ejemplos prácticos.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2024-6951\">Decreto Legislativo 1/2024, libro sexto del Código tributario de Cataluña</a>. Texto consolidado en el BOE con la tarifa y las bonificaciones vigentes.",
+     "<a href=\"https://atc.gencat.cat/es/tributs/isd/herencies/declarar-herencia/\">ATC: cómo declarar una herencia</a>. Documentación, programa de ayuda y presentación por internet.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de las medidas vigentes en cada comunidad, actualizado a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Cataluña?",
+    "Depende de lo que herede. Con 100.000 € o menos, la reducción deja la cuota en cero. Si hereda un piso entero de 200.000 € que no era la vivienda habitual, paga unos 3.825 €; si lo era, la reducción del 95 % puede dejarlo en cero."
+   ],
+   [
+    "¿Por qué en Cataluña los hijos pagan más que el cónyuge?",
+    "Porque el cónyuge bonifica siempre el 99 %, mientras que hijos de 21 años o más y padres empiezan en el 60 % y bajan por tramos. Con herencias medianas, esa diferencia se nota en miles de euros."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos en Cataluña?",
+    "Sí. Todos están en el grupo III, restan 8.000 € y aplican un coeficiente de 1,5882 sin bonificación. Por 100.000 € heredados pagan 12.896,18 €, el mismo resultado que publica la ATC en sus ejemplos."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el modelo 650 en Cataluña?",
+    "Seis meses desde el fallecimiento, junto con el modelo 660. Si pides la prórroga en los cinco primeros meses, tienes seis más, aunque con intereses de demora por los días prorrogados."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar sucesiones en Cataluña?",
+    "La ATC permite aplazar hasta dos años si la herencia no tiene liquidez, o fraccionar en cinco anualidades con garantía. Si heredaste parte de un inmueble, también puedes vendérnosla: precio por escrito en 48 horas y pago al contado."
+   ],
+   [
+    "¿Pierdo la bonificación si aplico la reducción por vivienda habitual?",
+    "No. En Cataluña la reducción por vivienda habitual es compatible con la bonificación. Sí la pierden hijos y padres que opten por otras reducciones, como la de empresa familiar o la de fincas forestales."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Cataluña",
+  "related": [
+   [
+    "Vender un proindiviso en Cataluña",
+    "/vender-proindiviso/cataluna/"
+   ],
+   [
+    "Impuesto de sucesiones por comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Bonificación del impuesto de sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte heredada en Cataluña?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Cataluña: tarifa y ejemplos 2026",
+  "meta_desc": "Impuesto de sucesiones en Cataluña 2026: reducciones, tarifa del 7 % al 32 %, bonificaciones por tramos y ejemplo con hijos y sobrinos. Compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Cataluña",
+  "title_corto": "Sucesiones en Cataluña",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the interior of an early twentieth century apartment in a Catalan city, hydraulic mosaic floor tiles with geometric patterns, tall wooden doors with frosted glass panels, a glazed gallery opening onto a quiet inner courtyard with plants, soft morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Cataluña: piso modernista con suelo hidráulico y galería",
+  "datos": {
+   "grupo_I": "100.000 € + 12.000 € por año menos de 21, límite 196.000 € (art. 631-2.a DLeg 1/2024). Bonificación por porcentaje medio ponderado según base imponible: marginal 99 % hasta 100.000, 97 % hasta 200.000, 95 % hasta 300.000, 90 % hasta 500.000, 80 %, 70 %, 60 %, 50 %, 40 %, 25 % y 20 % desde 3.000.000 € (art. 633-4.2.a)",
+   "grupo_II": "Cónyuge e hijos 100.000 €, resto de descendientes 50.000 €, ascendientes 30.000 € (art. 631-2.b); +275.000 € si 75 años o más (art. 631-4). Cónyuge o pareja estable: bonificación 99 % (art. 633-4.1). Resto: marginal 60 % hasta 100.000, 55 % hasta 200.000, 50 % hasta 300.000, 45 % hasta 500.000, 40 %, 35 %, 30 %, 25 %, 20 %, 10 % y 0 % desde 3.000.000 € de base imponible (art. 633-4.2.b). Pierden la bonificación si optan por reducciones de empresa, participaciones, fincas forestales, patrimonio cultural, etc., salvo vivienda habitual (art. 633-4.4)",
+   "grupo_III": "Reducción de 8.000 €; tarifa catalana; coeficiente 1,5882 en todos los tramos de patrimonio; sin bonificación",
+   "grupo_IV": "Sin reducción; coeficiente 2,0000 en todos los tramos; sin bonificación",
+   "vivienda_habitual": "95 %, límite conjunto 500.000 € prorrateado según participación, mínimo individual 180.000 €; cónyuge, descendientes, ascendientes y colaterales >65 con 2 años de convivencia (y convivencia de ayuda mutua); mantenimiento 5 años o subrogación en vivienda habitual del causahabiente en 6 meses (arts. 631-17 a 631-19); compatible con la bonificación",
+   "tarifa": "Propia: 0-50.000 € 7 %; 50.000-150.000 € 11 %; 150.000-400.000 € 17 %; 400.000-800.000 € 24 %; más de 800.000 € 32 % (art. 633-1)",
+   "patrimonio_preexistente": "Propios: grupos I y II 1 / 1,10 / 1,15 / 1,20 (tramos 500.000, 2.000.000 y 4.000.000 €); grupo III 1,5882 y grupo IV 2 en todos los tramos (art. 633-3)",
+   "plazo": "6 meses desde la defunción; prórroga de 6 meses pedida en los 5 primeros meses, con intereses de demora por los días prorrogados",
+   "organismo": "Agència Tributària de Catalunya (ATC), competente en gestión, liquidación, inspección y recaudación (art. 682-6)",
+   "modelo": "Modelo 660 (declaración con todos los bienes y herederos) + un modelo 650 por cada heredero, con el programa de ayuda; presentación telemática o en oficina de la ATC",
+   "url_organismo": "https://atc.gencat.cat/es/tributs/isd/herencies/",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), no vivienda habitual, sin ajuar, dos herederos al 50 %. HIJOS: BI 100.000 - 100.000 = BL 0 -> 0 €. HIJO ÚNICO (BI 200.000): BL 100.000; tarifa 3.500 + 50.000 x 11 % = 9.000; coef. 1; bonificación media (100.000 x 60 % + 100.000 x 55 %) / 200.000 = 57,50 %; 9.000 x 42,5 % = 3.825 €. Con vivienda habitual: reducción 190.000 (límite 500.000) -> BL 0 -> 0 €. SOBRINOS (o hermanos): BI 100.000 - 8.000 = BL 92.000; 3.500 + 42.000 x 11 % = 8.120; x 1,5882 = 12.896,18 € cada uno (coincide con el caso práctico 3 de la ATC). Con ajuar del 3 %: sobrino 13.420,29 €; hijo al 50 % BL 3.000 -> 210 x (1 - 59,85 %) = 84,31 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones por parentesco (631-2), discapacidad 275.000/650.000 (631-3), mayores de 75 (631-4), vivienda habitual (631-17 a 631-19), tarifa (633-1), coeficientes (633-3), bonificaciones y su incompatibilidad (633-4), aplazamiento hasta 2 años y fraccionamiento en 5 anualidades (682-11), competencia ATC (682-6). Texto consolidado actualizado al 22/05/2026",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2024-6951"
+   ],
+   [
+    "Novedades 2026 en Cataluña (Ley 11/2026, Decreto-ley 3/2026): solo fincas forestales y donaciones por causa de muerte en ISD",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Resumen oficial 2026 de Cataluña (ISD)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Modelos 660 y 650 (uno por heredero), plazo de 6 meses, prórroga en los 5 primeros meses con intereses, presentación telemática o en oficina",
+    "https://atc.gencat.cat/es/tributs/isd/herencies/declarar-herencia/"
+   ],
+   [
+    "Caso práctico de la ATC: hermano con 100.000 € paga 12.896,18 €; bonificación media ponderada sobre base imponible",
+    "https://atc.gencat.cat/es/tributs/isd/herencies/exemples/"
+   ],
+   [
+    "Beneficiarios de la reducción por vivienda habitual y ejemplos de prorrateo del límite de 500.000 €",
+    "https://atc.gencat.cat/es/tributs/isd/herencies/reduccions/"
+   ],
+   [
+    "Intereses de demora de la prórroga y recargo por extemporaneidad",
+    "https://atc.gencat.cat/es/tributs/isd/herencies/termini-prorroga/"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro como mínimo en inmuebles (art. 9.3 LISD); ajuar doméstico del 3 % (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales: grupo I 15.956,87 € + 3.990,72 €/año <21 (máx. 47.858,59 €), grupo II 15.956,87 €, grupo III 7.993,46 €, grupo IV 0; vivienda habitual 95 %, límite 122.606,47 €, 10 años, colaterales >65 con 2 años de convivencia (art. 20.2 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tarifa estatal 7,65 %-34 % (art. 21 LISD) y coeficientes estatales 1 / 1,5882 / 2 hasta 402.678,11 € de patrimonio preexistente (art. 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses y prórroga de otros 6 pedida en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % + intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Punto de conexión: residencia habitual del causante = comunidad donde permaneció más días en los 5 años anteriores (arts. 28.1.1.º b) y 32.2.a) Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: plazo de 6 meses prorrogable hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas, el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "Aplazamiento por las oficinas gestoras: hasta 1 año y fraccionamiento en 5 anualidades con garantía, si no hay efectivo suficiente (art. 38 LISD); usufructo y nuda propiedad (art. 26 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ]
+  ],
+  "dudas": []
+ },
+ {
+  "slug": "impuesto-de-sucesiones-comunidad-valenciana",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en la Comunitat",
+  "h1": "Impuesto de sucesiones en la Comunidad Valenciana: 99 % para hijos y 25 % para sobrinos",
+  "sub": "En el impuesto de sucesiones en la Comunidad Valenciana, hijos, cónyuge y padres restan 100.000 € y bonifican el 99 %. Desde junio de 2026, hermanos y sobrinos tienen una bonificación del 25 %. Si heredas parte de un piso y prefieres venderla, te la compramos con fondos propios. Precio por escrito en 48 horas.",
+  "checks": [
+   "Cambios de junio de 2026",
+   "Ejemplo con hijos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Has heredado parte de un piso en la Comunitat?",
+  "card_text": "Dinos dónde está y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Lo esencial",
+    "h2": "Lo esencial del impuesto de sucesiones en la Comunidad Valenciana",
+    "type": "list",
+    "intro": [
+     "La ley valenciana se aplica si el fallecido vivió en la Comunitat la mayor parte de los últimos cinco años. Da igual dónde esté el piso. Estas son las claves del impuesto de sucesiones en la Comunidad Valenciana para 2026."
+    ],
+    "items": [
+     "<strong>Familia directa:</strong> hijos, nietos, cónyuge y padres restan 100.000 € y bonifican el 99 % de la cuota. Los menores de 21 suman 8.000 € por año, hasta 156.000 €.",
+     "<strong>Hermanos, sobrinos y tíos:</strong> desde el 1 de junio de 2026 tienen una bonificación del 25 %. Pasará al 50 % para fallecimientos desde el 1 de junio de 2027.",
+     "<strong>Requisito clave:</strong> las bonificaciones solo cubren los bienes declarados en plazo, o fuera de plazo antes de que Hacienda te lo requiera.",
+     "<strong>Tarifa propia:</strong> del 7,65 % al 34 %, con tramos algo distintos de los estatales.",
+     "<strong>Vivienda habitual:</strong> reducción del 95 % con un límite de 150.000 € por heredero y cinco años de mantenimiento."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula, paso a paso",
+    "type": "text",
+    "intro": [
+     "Cada heredero tributa por lo que recibe. La base es el valor de su parte y, en inmuebles, como mínimo el valor de referencia del Catastro. Si declaras un valor mayor, cuenta el tuyo.",
+     "Después restas la reducción por parentesco. La familia directa resta 100.000 €. Hermanos y sobrinos solo tienen la reducción estatal de 7.993,46 €, porque la Generalitat no regula otra para ellos. Primos y extraños no tienen ninguna.",
+     "A la base liquidable se aplica la tarifa valenciana y, luego, un coeficiente según tu patrimonio previo. Hasta 390.657,87 € de patrimonio, vale 1 para la familia directa y 1,5882 para hermanos y sobrinos. Para primos y extraños parte de 2.",
+     "Por último se resta la bonificación. En el impuesto de sucesiones en la Comunidad Valenciana, la familia directa bonifica el 99 %. Hermanos, sobrinos y tíos de sangre, el 25 %."
+    ]
+   },
+   {
+    "overline": "Parentesco",
+    "h2": "Quién se beneficia y quién no",
+    "type": "cards",
+    "intro": [
+     "En el impuesto de sucesiones en la Comunidad Valenciana, el parentesco decide casi toda la factura. Además, el cambio de 2026 no llega a todos los familiares."
+    ],
+    "items": [
+     {
+      "t": "Hijos, nietos, cónyuge y padres",
+      "p": "Restan 100.000 € y bonifican el 99 %. En una herencia normal pagan cero o muy poco. Las parejas de hecho inscritas cuentan como cónyuge."
+     },
+     {
+      "t": "Hermanos, sobrinos y tíos de sangre",
+      "p": "Bonificación del 25 % para fallecimientos desde el 1 de junio de 2026 y del 50 % desde el 1 de junio de 2027. Antes de junio de 2026 no tenían ninguna.",
+      "url": "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/",
+      "cta": "Qué es la bonificación →"
+     },
+     {
+      "t": "Cuñados y sobrinos políticos",
+      "p": "También son grupo III, pero por afinidad. La nueva bonificación es solo para parientes por consanguinidad, así que ellos pagan la cuota completa."
+     },
+     {
+      "t": "Primos y personas sin parentesco",
+      "p": "Grupo IV: sin reducción, coeficiente de 2 y sin bonificación. Son quienes más pagan."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Reducción del 95 % con un límite de 150.000 € por heredero, si la conservas cinco años. La aplican cónyuge, descendientes y ascendientes, y colaterales mayores de 65 que convivieran dos años con el fallecido.",
+      "url": "/diccionario-del-proindiviso/reduccion-por-vivienda-habitual/",
+      "cta": "Reducción por vivienda habitual →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Alicante",
+    "type": "steps",
+    "intro": [
+     "Una mujer que vivía en Alicante fallece en julio de 2026. Deja un piso con un valor de referencia de 200.000 € y nada más. Lo heredan dos personas al 50 % y, para simplificar, no sumamos el ajuar doméstico del 3 %."
+    ],
+    "items": [
+     {
+      "t": "Dos hijos: 0 €",
+      "p": "Cada uno tiene una base de 100.000 € y resta 100.000 €. La base liquidable es cero, así que no hay cuota."
+     },
+     {
+      "t": "Dos sobrinos: 13.336,83 € cada uno",
+      "p": "Restan 7.993,46 € y quedan 92.006,54 €. La tarifa valenciana da 11.196,60 € y el coeficiente de 1,5882 la sube a 17.782,44 €. La bonificación del 25 % la deja en 13.336,83 €."
+     },
+     {
+      "t": "Si hubiera fallecido antes de junio de 2026",
+      "p": "Sin bonificación, cada sobrino pagaría los 17.782,44 € completos. Para fallecimientos desde junio de 2027, con el 50 %, serían 8.891,22 €."
+     },
+     {
+      "t": "Si los sobrinos declaran tarde",
+      "p": "Si Hacienda detecta el piso antes de que lo declaren, la bonificación no se aplica sobre él. Por eso conviene presentar en plazo."
+     }
+    ],
+    "outro": [
+     "Son cálculos orientativos del impuesto de sucesiones en la Comunidad Valenciana, con patrimonio previo bajo. Consulta tu caso con un asesor antes de presentar."
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en la Comunidad Valenciana",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en la Comunidad Valenciana para fallecimientos desde el 1 de junio de 2026. Son datos orientativos."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Comunitat Valenciana en 2026"
+     ],
+     [
+      "Grupo I: hijos y nietos menores de 21.",
+      "100.000 € más 8.000 € por año hasta 21, con tope de 156.000 €. Bonificación del 99 %."
+     ],
+     [
+      "Grupo II: hijos, cónyuge y padres.",
+      "Reducción de 100.000 € y bonificación del 99 %."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos y tíos.",
+      "Reducción estatal de 7.993,46 € y coeficiente 1,5882. Bonificación del 25 % si son de sangre."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual.",
+      "95 % hasta 150.000 € por heredero, con 5 años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "6 meses desde el fallecimiento, más 6 de prórroga si la pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo.",
+      "Agència Tributària Valenciana. Un modelo 650 por heredero."
+     ]
+    ],
+    "outro": [
+     "La autoliquidación del impuesto de sucesiones en la Comunidad Valenciana se presenta ante la Agència Tributària Valenciana, normalmente por internet. Cada heredero presenta su <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>.",
+     "Si te retrasas sin requerimiento, el recargo es del 1 % más un 1 % por mes completo. Tras doce meses, es del 15 % más intereses, como explicamos en el <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>. Si no tienes liquidez, pide el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> antes de que venza el plazo."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas medio piso: qué pasa después del impuesto",
+    "type": "text",
+    "intro": [
+     "Si heredas una cuota, tributas solo por su valor. Pagado el impuesto de sucesiones en la Comunidad Valenciana, sigues siendo copropietario con los demás. Eso implica repartir gastos y decidir juntos qué hacer con el piso.",
+     "Hay dos salidas habituales. Uno puede quedarse el piso y compensar al resto con una <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-comunidad-valenciana/\">extinción de condominio en la Comunidad Valenciana</a>. O puedes <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a>, o tus <a href=\"/vender-derechos-hereditarios/\">derechos hereditarios</a> si aún no hay partición.",
+     "Al heredar, el ayuntamiento puede cobrar la plusvalía municipal, con seis meses de plazo prorrogables a un año. Y cuando vendas, tu valor de adquisición en el IRPF será el declarado en sucesiones. Calcúlalo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si tu padre o tu madre conserva el usufructo, heredas la nuda propiedad; el resto tributa cuando se extinga el usufructo. Valóralo con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Si no puedes pagar",
+    "h2": "¿No puedes pagar sucesiones en la Comunidad Valenciana?",
+    "type": "callout",
+    "intro": [
+     "Aun con la bonificación del 25 %, un sobrino puede deber más de 13.000 € por medio piso. Así de caro puede salir el impuesto de sucesiones en la Comunidad Valenciana fuera de la familia directa. Puedes aplazar o fraccionar con intereses, aceptar <a href=\"/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/\">a beneficio de inventario</a> si temes deudas o vender tu parte para pagar.",
+     "Lo contamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. También compramos en las tres provincias: <a href=\"/vender-proindiviso/comunidad-valenciana/\">vender un proindiviso en la Comunidad Valenciana</a>."
+    ],
+    "items": {
+     "t": "Precio por tu parte en 48 horas",
+     "p": "Compramos tu parte de la herencia con fondos propios, precio por escrito en 48 horas. Firmamos en notaría en 2-4 semanas, pagamos al contado y la gestión corre de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://hisenda.gva.es/es/web/tributos/beneficis-fiscals-2026\">Generalitat Valenciana: beneficios fiscales 2026</a>. Reducciones y bonificaciones de sucesiones vigentes, incluida la del 25 % para el grupo III.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1998-8202\">Ley 13/1997 de tributos cedidos de la Comunitat Valenciana, en el BOE</a>. Texto consolidado con la reforma de la Ley 5/2026.",
+     "<a href=\"https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19331\">Ley 5/2026, de 31 de julio, de medidas fiscales de la Generalitat</a>. Última reforma de las reducciones y bonificaciones.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de las medidas vigentes en cada comunidad, actualizado a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en la Comunidad Valenciana?",
+    "Casi siempre nada. Resta 100.000 € y, si queda base, la bonificación del 99 % deja la cuota en el 1 %. Si un hijo hereda un piso entero de 200.000 €, paga unos 125 €."
+   ],
+   [
+    "¿Pagan lo mismo hermanos y sobrinos?",
+    "Sí. Ambos son colaterales del grupo III, restan 7.993,46 € y tienen la bonificación del 25 % si el fallecimiento es desde el 1 de junio de 2026. Los cuñados y sobrinos políticos no tienen esa bonificación."
+   ],
+   [
+    "¿Desde cuándo se aplica la bonificación del 25 % para sobrinos?",
+    "Para fallecimientos desde el 1 de junio de 2026. Para los ocurridos desde el 1 de junio de 2027 subirá al 50 %. Si el fallecimiento fue anterior, no hay bonificación para el grupo III."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto?",
+    "Seis meses desde el fallecimiento, con una prórroga de otros seis si la pides en los cinco primeros. Presentar en plazo es importante: las bonificaciones solo cubren los bienes declarados antes de cualquier requerimiento."
+   ],
+   [
+    "¿Qué hago si no puedo pagar el impuesto de sucesiones?",
+    "Pide aplazamiento o fraccionamiento antes de que acabe el plazo, con intereses. Si has heredado una parte de un inmueble, puedes venderla para pagar: te la compramos con fondos propios y precio por escrito en 48 horas."
+   ],
+   [
+    "¿Pierdo la reducción por vivienda habitual si vendo mi parte?",
+    "Si vendes antes de cinco años, debes pagar el impuesto que te ahorraste con la reducción, más intereses. Para hijos y cónyuge suele importar poco, porque la bonificación del 99 % ya deja la cuota muy baja."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en la Comunidad Valenciana",
+  "related": [
+   [
+    "Vender un proindiviso en la Comunidad Valenciana",
+    "/vender-proindiviso/comunidad-valenciana/"
+   ],
+   [
+    "Impuesto de sucesiones por comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Bonificación del impuesto de sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "¿Has heredado parte de un piso en la Comunidad Valenciana?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en la Comunidad Valenciana 2026",
+  "meta_desc": "Impuesto de sucesiones en la Comunidad Valenciana 2026: 99 % para hijos, 25 % para sobrinos desde junio y ejemplo con cifras. Te compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en la Comunidad Valenciana",
+  "title_corto": "Sucesiones en Comunidad Valenciana",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a traditional farmhouse in the Valencian huerta, whitewashed walls, dark blue painted window frames, a terracotta tiled roof, a narrow stone irrigation channel and rows of vegetable plots and orange trees around it, bright soft morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en la Comunidad Valenciana: alquería blanca en la huerta",
+  "datos": {
+   "grupo_I": "100.000 € + 8.000 € por año menos de 21, máximo 156.000 € (art. 10.1.a Ley 13/1997, redacción Ley 5/2026); bonificación 99 % sobre la cuota que corresponde a bienes declarados (art. 12 bis.1.a)",
+   "grupo_II": "100.000 €; bonificación 99 % sobre bienes declarados. Parejas de hecho inscritas equiparadas (art. 12 quater)",
+   "grupo_III": "Sin reducción autonómica: estatal 7.993,46 €; tarifa valenciana; coeficiente 1,5882 hasta 390.657,87 €; bonificación del 25 % para colaterales de 2.º y 3.er grado por consanguinidad (hermanos, sobrinos, tíos) en devengos desde el 1-6-2026, y del 50 % desde el 1-6-2027 (art. 12 bis.2 y DF 4.ª Ley 5/2025 en redacción de la Ley 5/2026). Afines (cuñados, sobrinos políticos) sin bonificación",
+   "grupo_IV": "Sin reducción; coeficiente 2,0000; sin bonificación",
+   "vivienda_habitual": "95 %, límite 150.000 € por sujeto pasivo, mantenimiento 5 años; cónyuge, ascendientes, descendientes o colateral >65 con 2 años de convivencia (art. 10.1.c)",
+   "tarifa": "Propia, 7,65 % a 34 % con tramos propios (art. 11, redacción Ley 7/2023): hasta 7.993,46 € 7,65 %; ... 78.311,88 € (cuota 8.984,91) 16,15 %; 117.407,71 € 18,70 %; 156.503,55 € 21,25 %; 234.695,23 € 25,50 %; 390.958,37 € 29,75 %; 781.916,75 € 34 %",
+   "patrimonio_preexistente": "Propios (art. 12): 0-390.657,87 € (1 / 1,5882 / 2); hasta 1.965.309,58 € (1,05 / 1,6676 / 2,1); hasta 3.936.629,28 € (1,1 / 1,7471 / 2,2); más (1,2 / 1,9059 / 2,4)",
+   "plazo": "6 meses desde el fallecimiento (art. 12 ter Ley 13/1997); prórroga de 6 meses pedida en los 5 primeros (art. 68 RISD). Bonificaciones solo sobre bienes incluidos en autoliquidación en plazo o extemporánea sin requerimiento (art. 12 bis.3)",
+   "organismo": "Agència Tributària Valenciana (ATV)",
+   "modelo": "Modelo 650, uno por sujeto pasivo, con presentación telemática habitual",
+   "url_organismo": "https://atv.gva.es/",
+   "ejemplo": "Fallecimiento en julio de 2026. Piso de 200.000 € (valor de referencia), dos herederos al 50 %, sin ajuar, patrimonio < 390.657,87 €. HIJOS: BI 100.000 - 100.000 = BL 0 -> 0 €. SOBRINOS (o hermanos): BI 100.000 - 7.993,46 = BL 92.006,54; tarifa valenciana 8.984,91 + (92.006,54 - 78.311,88) x 16,15 % = 11.196,60; x 1,5882 = 17.782,44; bonificación 25 % -> 13.336,83 € cada uno. Antes del 1-6-2026: 17.782,44 €. Desde el 1-6-2027 (50 %): 8.891,22 €. Con ajuar 3 %: 13.913,94 €. HIJO ÚNICO (200.000): BL 100.000; cuota 12.487,54; bonificación 99 % -> 124,88 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones grupos I y II, discapacidad, vivienda habitual 95 %/150.000 €/5 años (art. 10.1), tarifa (art. 11), coeficientes (art. 12), bonificaciones 99 % y 25 % con requisito de bienes declarados (art. 12 bis), plazos (art. 12 ter). Texto consolidado actualizado al 10/08/2026",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1998-8202"
+   ],
+   [
+    "Ley 5/2026, de 31 de julio, de medidas fiscales (BOE-A-2026-19331): redacción actual de los arts. 10 y 12 bis y DF 4.ª de la Ley 5/2025 (50 % desde 1-6-2027)",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19331"
+   ],
+   [
+    "Beneficios fiscales 2026 de la Generalitat: reducciones, vivienda habitual y bonificación del 25 % para hermanos, tíos y sobrinos desde el 1-6-2026",
+    "https://hisenda.gva.es/es/web/tributos/beneficis-fiscals-2026"
+   ],
+   [
+    "Resumen oficial 2026 de la Comunitat Valenciana (ISD) y novedades 2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026: bonificación del 25 % grupo III desde 1-6-2026 (Ley 5/2025) y cambios de la Ley 5/2026 (efectos 11-8-2026)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Documento de la ATV (Observatorio fiscal 12/2025): presentación telemática de los modelos 650 y 651 y extensión de APLAZATE",
+    "https://atv.gva.es/documents/173852445/177814591/Presentaci%C3%B3n+Inform%C3%A1tica/484d51da-7dc8-42a7-a4e2-bd1b9dc95926"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro como mínimo en inmuebles (art. 9.3 LISD); ajuar doméstico del 3 % (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales: grupo I 15.956,87 € + 3.990,72 €/año <21 (máx. 47.858,59 €), grupo II 15.956,87 €, grupo III 7.993,46 €, grupo IV 0; vivienda habitual 95 %, límite 122.606,47 €, 10 años, colaterales >65 con 2 años de convivencia (art. 20.2 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Tarifa estatal 7,65 %-34 % (art. 21 LISD) y coeficientes estatales 1 / 1,5882 / 2 hasta 402.678,11 € de patrimonio preexistente (art. 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses y prórroga de otros 6 pedida en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % + intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Punto de conexión: residencia habitual del causante = comunidad donde permaneció más días en los 5 años anteriores (arts. 28.1.1.º b) y 32.2.a) Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: plazo de 6 meses prorrogable hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas, el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "Aplazamiento por las oficinas gestoras: hasta 1 año y fraccionamiento en 5 anualidades con garantía, si no hay efectivo suficiente (art. 38 LISD); usufructo y nuda propiedad (art. 26 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ]
+  ],
+  "dudas": [
+   "Web de la Agència Tributària Valenciana (atv.gva.es): no he podido abrirla desde aquí; el organismo y el modelo 650 los confirmo con la ley, el resumen del Ministerio y un documento de la ATV de diciembre de 2025. No afirmo en el texto si la presentación telemática es obligatoria; digo «normalmente por internet».",
+   "Reducción del grupo III: la Ley 13/1997 no regula reducción propia para el grupo III, por lo que aplico la estatal de 7.993,46 € (art. 20.2.a LISD); ninguna fuente oficial valenciana la cita expresamente."
+  ]
+ }
+]

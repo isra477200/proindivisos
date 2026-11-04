@@ -1,0 +1,1507 @@
+[
+ {
+  "slug": "impuesto-de-sucesiones-extremadura",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Extremadura",
+  "h1": "Impuesto de sucesiones en Extremadura: cuánto pagan hijos, hermanos y sobrinos en 2026",
+  "sub": "El impuesto de sucesiones en Extremadura sale a cero para casi todos los hijos, cónyuges y padres: tienen 500.000 € de reducción y una bonificación del 99 %. Hermanos y sobrinos pagan con la tarifa estatal, salvo los sobrinos inscritos en el registro autonómico. Si heredas parte de un piso y prefieres venderla, te la compramos con fondos propios.",
+  "checks": [
+   "Cifras de 2026 verificadas",
+   "Ejemplo con cuentas reales",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Has heredado parte de una casa en Extremadura?",
+  "card_text": "Dinos dónde está y qué porcentaje te corresponde. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Extremadura",
+    "type": "text",
+    "intro": [
+     "En el impuesto de sucesiones en Extremadura, cada heredero paga por lo que recibe, no por toda la herencia. En los inmuebles, la base es el valor de referencia del Catastro a la fecha del fallecimiento, o el valor declarado si es mayor. Después se restan las deudas y cargas deducibles. Además, la ley suma un ajuar doméstico del 3 % del caudal, salvo que pruebes un valor menor.",
+     "Sobre esa base se aplica la reducción por parentesco. Extremadura solo mejora la de los grupos I y II: desde 2024 es de 500.000 € por heredero. Para hermanos, sobrinos y tíos (grupo III) rige la estatal de 7.993,46 €. En cambio, primos y extraños (grupo IV) no tienen reducción.",
+     "La comunidad no tiene tarifa propia, así que el impuesto de sucesiones en Extremadura usa la escala estatal, del 7,65 % al 34 %. También usa los coeficientes estatales por patrimonio previo del heredero. Hasta 402.678,11 € de patrimonio son 1 para hijos y cónyuge, 1,5882 para el grupo III y 2 para el grupo IV.",
+     "Por último, hijos, cónyuge y padres tienen una bonificación del 99 % de la cuota, pero solo si presentan la autoliquidación dentro de plazo. En la práctica, un hijo que recibe menos de 500.000 € no paga nada. Un sobrino que hereda 100.000 €, en cambio, puede pagar más de 17.000 €."
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Tabla del impuesto de sucesiones en Extremadura en 2026",
+    "type": "table",
+    "intro": [
+     "Estas son las reglas del impuesto de sucesiones en Extremadura vigentes en 2026, salvo cambio normativo posterior."
+    ],
+    "items": [
+     [
+      "Situación",
+      "Qué se aplica en 2026"
+     ],
+     [
+      "Grupo I: hijos y descendientes menores de 21.",
+      "Reducción de 500.000 € y bonificación del 99 % de la cuota si presentas en plazo."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y padres.",
+      "Reducción de 500.000 € y bonificación del 99 %. En la práctica, casi nunca pagan."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos, suegros, yernos y nueras.",
+      "Reducción estatal de 7.993,46 €, escala del 7,65 % al 34 % y coeficiente 1,5882. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos y personas sin parentesco.",
+      "Sin reducción y coeficiente 2. Es el grupo que más paga."
+     ],
+     [
+      "Vivienda habitual del fallecido.",
+      "Reducción estatal del 95 %, hasta 122.606,47 € por heredero, si la conservas 10 años."
+     ],
+     [
+      "Plazo.",
+      "Seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros."
+     ],
+     [
+      "Organismo.",
+      "Dirección General de Tributos de la Junta de Extremadura, con el modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Casos especiales",
+    "h2": "Vivienda habitual y sobrinos: dos reglas extremeñas que conviene conocer",
+    "type": "cards",
+    "intro": [
+     "Hay dos reglas del impuesto de sucesiones en Extremadura que sorprenden a muchos herederos."
+    ],
+    "items": [
+     {
+      "t": "La vivienda habitual sigue la ley estatal",
+      "p": "Extremadura no tiene reducción propia por la vivienda del fallecido. Rige la estatal: 95 % del valor, con un límite de 122.606,47 € por heredero. Pueden aplicarla cónyuge, hijos, padres o un colateral mayor de 65 años que conviviera con el fallecido los dos últimos años."
+     },
+     {
+      "t": "Diez años de permanencia",
+      "p": "Esa reducción obliga a conservar la vivienda 10 años, salvo que fallezcas antes. Si vendes tu parte en ese plazo, pagas lo ahorrado más intereses de demora. Para hijos y cónyuge rara vez hace falta, porque la reducción de 500.000 € ya suele dejar la cuota a cero."
+     },
+     {
+      "t": "Sobrinos con especial vinculación",
+      "p": "Desde el 5 de agosto de 2026, los sobrinos de quien muere sin descendientes directos cuentan como personas con especial vinculación. Si figuran en el Registro Autonómico de Personas con Especial Vinculación, aplican los beneficios de hijos y cónyuge: reducción de 500.000 € y bonificación del 99 %."
+     },
+     {
+      "t": "La inscripción se pide en vida",
+      "p": "Según el Decreto 179/2025, la solicitud la presenta el futuro causante antes de fallecer, con el modelo 665. Sin inscripción, el sobrino paga como grupo III. Los hermanos no están en la lista, aunque sí hijastros, padrastros y convivientes de los tres últimos años. Confirma el trámite con la Junta, porque los sobrinos se añadieron en 2026."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Badajoz que heredan dos hijos o dos sobrinos",
+    "type": "steps",
+    "intro": [
+     "Un piso con un valor de referencia de 200.000 € pasa a dos herederos al 50 %, sin otros bienes. No era la vivienda habitual del fallecido y los herederos tienen poco patrimonio previo. Las cifras son orientativas y no incluyen ajuar ni gastos."
+    ],
+    "items": [
+     {
+      "t": "Base de cada heredero: 100.000 €",
+      "p": "Cada uno recibe la mitad del valor de referencia. Esa mitad es su base imponible individual, tanto si heredan hijos como si heredan sobrinos."
+     },
+     {
+      "t": "Dos hijos: 0 € cada uno",
+      "p": "La reducción de 500.000 € supera la base, así que la base liquidable queda en cero. No hay cuota que pagar. Aun así, deben presentar el modelo 650 dentro de plazo."
+     },
+     {
+      "t": "Dos sobrinos: 17.667,79 € cada uno",
+      "p": "Restan 7.993,46 € y quedan 92.006,54 €. La escala estatal da 11.124,41 € y el coeficiente 1,5882 la sube a 17.667,79 €. Por tanto, entre los dos pagan más de 35.000 €."
+     },
+     {
+      "t": "Sobrinos inscritos en el registro: 0 €",
+      "p": "Si el tío murió sin hijos desde el 5 de agosto de 2026 y los había inscrito, aplican la reducción de 500.000 €. En ese caso, la cuota también queda a cero."
+     }
+    ],
+    "outro": [
+     "La diferencia entre un hijo y un sobrino es enorme. Por eso el impuesto de sucesiones en Extremadura preocupa sobre todo a sobrinos y hermanos que heredan una mitad sin dinero para pagarla. Puedes comparar la escala con otras regiones en nuestra guía del <a href=\"/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/\">impuesto de sucesiones por comunidad</a>."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo y modelo 650 de sucesiones en Extremadura",
+    "type": "list",
+    "intro": [
+     "Se aplica la norma extremeña cuando el fallecido residió en Extremadura la mayor parte de los últimos cinco años, aunque el piso esté en otra comunidad. Para presentar el impuesto de sucesiones en Extremadura, ten claros estos puntos:"
+    ],
+    "items": [
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis dentro de los cinco primeros meses, con intereses de demora.",
+     "<strong>Modelo y lugar.</strong> El <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> se rellena en el Portal Tributario de la Junta. Sin embargo, rellenarlo y pagarlo no equivale a presentarlo: hay que entregarlo en el Servicio Fiscal de Badajoz, Cáceres o Mérida, en la oficina de Plasencia o en la oficina liquidadora que corresponda.",
+     "<strong>Organismo.</strong> Dirección General de Tributos de la Consejería de Hacienda, Administración Pública y Diálogo Social.",
+     "<strong>Documento extra.</strong> La ley extremeña pide un certificado bancario con los movimientos del último año de cada cuenta del fallecido.",
+     "<strong>Si te pasas de plazo.</strong> Hay un <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a> del 1 % más un 1 % por mes completo, y del 15 % pasados doce meses. Además, hijos y cónyuge pierden la bonificación del 99 %.",
+     "<strong>Si no tienes liquidez.</strong> Puedes pedir el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> hasta un año o un fraccionamiento en cinco anualidades, con garantía e intereses."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas una parte de la casa: qué pasa después",
+    "type": "cards",
+    "intro": [
+     "Heredar una mitad o un tercio no cambia la regla del impuesto de sucesiones en Extremadura: tributas por el valor de tu cuota. Tras pagarlo, quedáis todos en proindiviso, es decir, en copropiedad. A partir de ahí hay varias salidas."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Uno de los herederos se queda la casa y compensa a los demás. Tributa por actos jurídicos documentados sobre la parte que adquiere, no por transmisiones.",
+      "url": "/impuestos-del-proindiviso/extincion-de-condominio-extremadura/",
+      "cta": "Impuestos de la extinción →"
+     },
+     {
+      "t": "Vender tu parte",
+      "p": "Puedes vender tu cuota sin permiso de los demás, según el artículo 399 del Código Civil, aunque ellos tienen derecho de retracto. Recibes el dinero sin esperar a un acuerdo.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte heredada →"
+     },
+     {
+      "t": "Plusvalía municipal",
+      "p": "El ayuntamiento cobra la plusvalía por la herencia si el suelo ganó valor. Se declara en seis meses, prorrogables hasta un año, y la paga cada heredero por su cuota."
+     },
+     {
+      "t": "IRPF cuando vendas",
+      "p": "El valor que declares en sucesiones será tu valor de adquisición. Si después vendes por más, tributas por la ganancia en la renta.",
+      "url": "/calculadora-impuestos-vender-tu-parte/",
+      "cta": "Calcular impuestos de la venta →"
+     }
+    ],
+    "outro": [
+     "Si el viudo o la viuda conserva el usufructo y tú heredas la nuda propiedad, tu base es menor; calcúlala con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Y si la herencia aún no está repartida, mira cómo <a href=\"/vender-derechos-hereditarios/\">vender derechos hereditarios</a>."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "¿Y si no puedes pagar el impuesto de sucesiones en Extremadura?",
+    "type": "callout",
+    "intro": [
+     "Pasa mucho con sobrinos y hermanos: el impuesto de sucesiones en Extremadura les llega por medio piso y no tienen 17.000 € a mano. Tienes varias opciones. Puedes pedir aplazamiento o fraccionamiento, aceptar a beneficio de inventario si temes deudas o vender tu parte para pagar. Lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en Badajoz, Cáceres y toda la región: mira cómo <a href=\"/vender-proindiviso/extremadura/\">vender un proindiviso en Extremadura</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.juntaex.es/w/0612522\">Junta de Extremadura: trámite del impuesto sobre sucesiones</a>. Plazo, prórroga, modelo 650 y oficinas de presentación.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2018-8159\">Decreto Legislativo 1/2018 de tributos cedidos de Extremadura (BOE, texto consolidado)</a>. Reducción de 500.000 €, bonificación del 99 % y personas con especial vinculación.",
+     "<a href=\"https://doe.juntaex.es/pdfs/doe/2025/2450o/25040305.pdf\">Decreto 179/2025 del Registro de personas con especial vinculación (DOE)</a>. Quién y cómo pide la inscripción.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas vigentes en 2026</a>. Resumen oficial actualizado a septiembre de 2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Extremadura?",
+    "Normalmente nada. Cada hijo tiene una reducción de 500.000 € y, además, una bonificación del 99 % de la cuota si presenta en plazo. Solo con herencias muy grandes queda algo por pagar, y suele ser poco."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "En general, sí. Ambos están en el grupo III: reducción de 7.993,46 €, tarifa estatal y coeficiente 1,5882. La excepción son los sobrinos de quien muere sin hijos e inscritos en el registro de especial vinculación, que desde agosto de 2026 tributan como hijos."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto de sucesiones en Extremadura?",
+    "Seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis meses, siempre que la solicites en los cinco primeros. Presentar tarde trae recargos y, para hijos y cónyuge, la pérdida de la bonificación del 99 %."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes pedir aplazamiento de hasta un año o fraccionamiento en cinco anualidades cuando la herencia no tiene dinero suficiente. Otra salida es vender tu parte del inmueble y pagar con lo que cobres. Nosotros compramos cuotas heredadas en toda Extremadura con fondos propios."
+   ],
+   [
+    "¿Dónde se presenta el modelo 650 en Extremadura?",
+    "Se rellena en el Portal Tributario de la Junta, pero hay que presentarlo en el Servicio Fiscal de Badajoz, Cáceres o Mérida, en la oficina de Plasencia o en la oficina liquidadora competente. Rellenarlo y pagarlo no basta para darlo por presentado."
+   ],
+   [
+    "¿Se aplica la ley extremeña si el piso está en otra comunidad?",
+    "Manda la residencia del fallecido, no el lugar del piso. Si vivió en Extremadura la mayor parte de los últimos cinco años, se aplica la normativa extremeña a toda la herencia. Consulta tu caso si hubo cambios de domicilio."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Extremadura",
+  "related": [
+   [
+    "Vender un proindiviso en Extremadura",
+    "/vender-proindiviso/extremadura/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Bonificación en sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en Extremadura?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Extremadura: guía 2026 y ejemplo",
+  "meta_desc": "Impuesto de sucesiones en Extremadura 2026: 500.000 € y 99 % para hijos, tarifa estatal para sobrinos y ejemplo. Compramos tu parte heredada.",
+  "focus_kw": "impuesto de sucesiones en Extremadura",
+  "title_corto": "Sucesiones en Extremadura",
+  "imagen_prompt": "Editorial Spanish real estate photograph, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the interior of a traditional village house in Extremadura, thick whitewashed walls, exposed dark wooden ceiling beams, worn terracotta floor tiles, a deep window with an iron grille framing holm oaks in a dry golden field, an old wooden table with a ceramic jug of olive branches, soft morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Extremadura: interior encalado de una casa de pueblo",
+  "datos": {
+   "grupo_I": "Reducción autonómica de 500.000 € (art. 17 TR D.Leg. 1/2018, redacción DF 1.ª.5 Ley 1/2024, desde 2024) y bonificación del 99 % de la cuota (art. 20.1), condicionada a presentar en plazo reglamentario (art. 20.2)",
+   "grupo_II": "Reducción autonómica de 500.000 € (art. 17) y bonificación del 99 % (art. 20), con la misma condición de presentación en plazo",
+   "grupo_III": "Reducción estatal 7.993,46 € (art. 20.2.a LISD); tarifa estatal; coeficiente 1,5882 hasta 402.678,11 €; sin bonificación. Excepción desde 5-8-2026 (Ley 2/2026): sobrinos de causante sin descendientes directos inscritos en el Registro Autonómico de Personas con Especial Vinculación aplican los beneficios autonómicos de grupos I y II (arts. 20 bis, ter y quater TR)",
+   "grupo_IV": "Sin reducción; tarifa estatal; coeficiente 2,0000 hasta 402.678,11 € (2,1 / 2,2 / 2,4 en tramos superiores)",
+   "vivienda_habitual": "Sin reducción propia mortis causa: estatal 95 %, límite 122.606,47 € por sujeto pasivo, mantenimiento 10 años; cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años (art. 20.2.c LISD)",
+   "tarifa": "Estatal (art. 21 LISD, 7,65 %-34 %); Extremadura no ha ejercido competencias",
+   "patrimonio_preexistente": "Coeficientes estatales (art. 22 LISD): I-II 1 / 1,05 / 1,10 / 1,20; III 1,5882 / 1,6676 / 1,7471 / 1,9059; IV 2 / 2,1 / 2,2 / 2,4",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros, con intereses de demora (arts. 67-68 RISD)",
+   "organismo": "Dirección General de Tributos, Consejería de Hacienda, Administración Pública y Diálogo Social (Junta de Extremadura); presentación en Servicios Fiscales de Badajoz, Cáceres y Mérida, Oficina Gestora de Plasencia u oficina liquidadora competente",
+   "modelo": "Modelo 650 (confección online en el Portal Tributario; la confección y el pago no equivalen a la presentación). Obligación formal extra: certificado bancario de movimientos del año anterior por cada cuenta del causante (art. 35 TR)",
+   "url_organismo": "https://www.juntaex.es/w/0612522",
+   "ejemplo": "Piso con valor de referencia 200.000 €, dos herederos al 50 %, sin otros bienes, sin ajuar ni gastos, no vivienda habitual, patrimonio previo < 402.678,11 €. Base de cada uno: 100.000 €. HIJOS (grupo II): 100.000 − 500.000 → base liquidable 0 → cuota 0 €. SOBRINOS (grupo III, sin registro): 100.000 − 7.993,46 = 92.006,54; cuota íntegra = 9.166,06 + (92.006,54 − 79.880,52) × 16,15 % = 9.166,06 + 1.958,35 = 11.124,41; × 1,5882 = 17.667,79 € cada uno (35.335,58 € los dos). SOBRINOS INSCRITOS (especial vinculación, fallecimiento desde 5-8-2026): 100.000 − 500.000 → 0 → 0 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducción 500.000 € grupos I y II (art. 17), bonificación 99 % con presentación en plazo (art. 20), especial vinculación (arts. 20 bis-quater), certificado bancario (art. 35); texto consolidado a 4-8-2026",
+    "https://www.boe.es/buscar/pdf/2018/BOE-A-2018-8159-consolidado.pdf"
+   ],
+   [
+    "Medidas vigentes 2026 en Extremadura: sin tarifa ni coeficientes propios, sin reducción propia de vivienda habitual mortis causa",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedad Ley 2/2026 (DOE 4-8-2026): sobrinos de causante sin descendientes directos como personas con especial vinculación, efectos 5-8-2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Registro de personas con especial vinculación: solicitud por el futuro causante antes de fallecer, modelo 665, silencio positivo a 3 meses (Decreto 179/2025, DOE 22-12-2025)",
+    "https://doe.juntaex.es/pdfs/doe/2025/2450o/25040305.pdf"
+   ],
+   [
+    "Plazo, prórroga, modelo 650, órgano gestor y oficinas de presentación (ficha actualizada a 23-6-2026)",
+    "https://www.juntaex.es/w/0612522"
+   ],
+   [
+    "Reducciones estatales por parentesco (15.956,87 €; +3.990,72 €/año <21, máx. 47.858,59 €; 7.993,46 €; grupo IV 0), vivienda habitual 95 % con límite 122.606,47 € y 10 años, tarifa 7,65-34 % y coeficientes 1 / 1,5882 / 2 (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Base imponible de inmuebles: valor de referencia del Catastro o el declarado si es mayor (art. 9.3 LISD); ajuar doméstico 3 % del caudal (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses desde el fallecimiento y prórroga de otros 6 solicitada en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargo por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento en 5 anualidades con garantía si no hay efectivo suficiente (art. 38 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plusvalía municipal mortis causa: declaración en 6 meses prorrogables hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Inscripción de sobrinos en el Registro de Personas con Especial Vinculación: el Decreto 179/2025 regula la solicitud en vida por el futuro causante (modelo 665) pero es anterior a la Ley 2/2026 y no menciona a los sobrinos; no he localizado desarrollo posterior ni criterio de la Junta. El texto recomienda confirmar el trámite.",
+   "Si presentar dentro de la prórroga concedida cuenta como «plazo reglamentariamente establecido» para conservar la bonificación del 99 % (art. 20.2 TR): no he localizado criterio oficial; el texto habla solo de presentar en plazo."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-galicia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Galicia",
+  "h1": "Impuesto de sucesiones en Galicia: cuánto se paga al heredar en 2026",
+  "sub": "En el impuesto de sucesiones en Galicia, hijos, cónyuge y padres no pagan nada hasta 1.000.000 € por heredero. Hermanos y sobrinos tienen solo 25.000 € de reducción y tributan con una escala de hasta el 34 %. Si heredas parte de una casa y prefieres venderla, te la compramos con fondos propios.",
+  "checks": [
+   "Normativa gallega de 2026",
+   "Cálculo paso a paso",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Heredas parte de una casa en Galicia?",
+  "card_text": "Cuéntanos dónde está y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Respuesta rápida",
+    "h2": "Cuánto se paga del impuesto de sucesiones en Galicia",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Galicia es de los más generosos de España con la familia directa. Hijos de 21 años o más, cónyuge y padres (grupo II) tienen una reducción de 1.000.000 € cada uno. Los menores de 21 (grupo I) suman 100.000 € por cada año que les falte, hasta 1.500.000 €, y además deducen el 99 % de la cuota.",
+     "Por encima de esa reducción, el impuesto de sucesiones en Galicia aplica a los grupos I y II una tarifa propia muy suave, del 5 % al 18 %. Además, su coeficiente por patrimonio previo es siempre 1. En la práctica, casi ningún hijo paga al heredar la casa familiar.",
+     "Para hermanos, sobrinos, tíos, suegros, yernos y nueras (grupo III), el impuesto de sucesiones en Galicia cambia mucho. Desde 2025 tienen una reducción de 25.000 €, pero tributan con una escala del 7,65 % al 34 % y un coeficiente de 1,5882 o más. Primos y personas sin parentesco (grupo IV) no tienen reducción y su coeficiente arranca en 2.",
+     "La base de cada heredero es el valor de lo que recibe, menos deudas y cargas deducibles. En inmuebles manda el valor de referencia del Catastro, salvo que declares uno mayor. Por eso conviene consultarlo antes de presentar."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: dos hijos y dos sobrinos heredan un piso en Vigo",
+    "type": "steps",
+    "intro": [
+     "Así funciona el impuesto de sucesiones en Galicia con un caso sencillo. Un piso con un valor de referencia de 200.000 € pasa a dos herederos al 50 %, sin otros bienes. Calculamos sin ajuar doméstico ni gastos, con un patrimonio previo pequeño. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Cada heredero tributa por 100.000 €",
+      "p": "La mitad del valor de referencia es la base imponible de cada uno. Da igual que la casa esté en Vigo, Lugo u Ourense: lo que cuenta es que el fallecido residiera en Galicia."
+     },
+     {
+      "t": "Hijos: 0 € de impuesto",
+      "p": "La reducción de 1.000.000 € absorbe los 100.000 € de base. No queda base liquidable, así que no hay cuota. Aun así, deben presentar la autoliquidación."
+     },
+     {
+      "t": "Sobrinos: 13.371,60 € cada uno",
+      "p": "Restan 25.000 € y quedan 75.000 €. La escala da 8.419,34 € y el coeficiente 1,5882 la eleva a 13.371,60 €. Entre los dos, el impuesto supera los 26.700 €."
+     },
+     {
+      "t": "Si fuera la vivienda habitual",
+      "p": "Los hijos seguirían a cero. En cambio, los sobrinos solo podrían reducir si tuvieran más de 65 años y hubieran convivido dos años con el fallecido."
+     }
+    ],
+    "outro": [
+     "La diferencia con un hijo es enorme, y por eso muchos sobrinos venden su mitad para pagar. Puedes comparar con otras regiones en nuestra guía del <a href=\"/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/\">impuesto de sucesiones por comunidad</a>."
+    ]
+   },
+   {
+    "overline": "Resumen 2026",
+    "h2": "Reducciones, tarifa y coeficientes de sucesiones en Galicia",
+    "type": "table",
+    "intro": [
+     "Lo esencial del impuesto de sucesiones en Galicia vigente en 2026, según el texto refundido gallego de tributos cedidos."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Galicia en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21.",
+      "Reducción de 1.000.000 € más 100.000 € por año menos de 21, con un máximo de 1.500.000 €. Deducción del 99 % de la cuota."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y padres.",
+      "Reducción de 1.000.000 €. Por encima, tarifa propia del 5 % al 18 % y coeficiente 1."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y afines.",
+      "Reducción de 25.000 €, escala del 7,65 % al 34 % y coeficiente de 1,5882 a 1,9059."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción. Misma escala y coeficiente de 2 a 2,4 según el patrimonio previo."
+     ],
+     [
+      "Vivienda habitual del fallecido.",
+      "Cónyuge, 100 %. Hijos y padres, del 99 % al 95 % según el valor. Límite de 600.000 € y cinco años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "Seis meses desde el fallecimiento, con prórroga de seis más si la pides en los cinco primeros."
+     ],
+     [
+      "Organismo.",
+      "Axencia Tributaria de Galicia (ATRIGA), con el modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Vivienda habitual",
+    "h2": "La vivienda habitual del fallecido: hasta el 100 % para el cónyuge",
+    "type": "list",
+    "intro": [
+     "En el impuesto de sucesiones en Galicia, la casa en la que vivía el fallecido tiene una reducción mucho mejor que la estatal. Estas son sus reglas:"
+    ],
+    "items": [
+     "<strong>Cónyuge.</strong> Reduce el 100 % del valor de la vivienda, con un límite de 600.000 €.",
+     "<strong>Hijos, nietos y padres.</strong> El porcentaje depende del valor del inmueble completo: 99 % hasta 150.000 €, 97 % hasta 300.000 € y 95 % por encima, con el mismo límite.",
+     "<strong>Hermanos y otros colaterales.</strong> Solo si tienen más de 65 años y convivieron con el fallecido los dos años anteriores.",
+     "<strong>Mantenimiento.</strong> Hay que conservar la vivienda cinco años. Si la vendes y reinviertes todo en otra vivienda habitual en Galicia, no pierdes la reducción.",
+     "<strong>Una sola vivienda.</strong> Cuando el fallecido deja varias, la reducción solo vale para una.",
+     "<strong>Hay que pedirla.</strong> En Galicia estos beneficios no se aplican de oficio. Debes solicitarlos en la autoliquidación dentro de plazo, con la documentación que exige la Axencia."
+    ],
+    "outro": [
+     "Ojo si piensas vender tu parte pronto: si aplicas esta reducción y vendes antes de cinco años sin reinvertir, devuelves lo ahorrado con intereses. Para un hijo que ya queda a cero por la reducción de 1.000.000 €, a veces no compensa pedirla. Consulta tu caso antes de presentar."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, recargos y presentación ante la Axencia Tributaria de Galicia",
+    "type": "text",
+    "intro": [
+     "El plazo para presentar el impuesto de sucesiones en Galicia es de seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis meses, siempre que la solicites dentro de los cinco primeros. Durante la prórroga corren intereses de demora.",
+     "Se presenta ante la Axencia Tributaria de Galicia (ATRIGA) con el <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>, uno por heredero. Rige la norma gallega si el fallecido residió en Galicia la mayor parte de los últimos cinco años. Desde 2026, además, las reducciones por parentesco son únicas entre el mismo fallecido y el mismo heredero, aunque haya varias adquisiciones.",
+     "Si presentas tarde sin requerimiento, pagas un <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>: el 1 % más otro 1 % por cada mes completo, y el 15 % pasados doce meses. Además, si no pides los beneficios en la autoliquidación, no podrás añadirlos después.",
+     "Cuando la herencia no tiene dinero, puedes solicitar el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> hasta un año, o un fraccionamiento en cinco anualidades con garantía. Ambos generan intereses de demora."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte de una casa gallega: qué viene después",
+    "type": "cards",
+    "intro": [
+     "En el impuesto de sucesiones en Galicia tributas solo por el valor de tu cuota, sea una mitad o un tercio. Después de pagarlo, los herederos quedáis en proindiviso. Es muy habitual en Galicia, donde muchas casas de aldea pasan a varios hermanos y primos."
+    ],
+    "items": [
+     {
+      "t": "Quedarse uno con todo",
+      "p": "La extinción de condominio permite que un heredero se adjudique la casa y compense a los demás. Tributa por actos jurídicos documentados sobre la parte que adquiere.",
+      "url": "/impuestos-del-proindiviso/extincion-de-condominio-galicia/",
+      "cta": "Ver la extinción en Galicia →"
+     },
+     {
+      "t": "Vender tu cuota",
+      "p": "Puedes vender tu parte sin el permiso del resto, aunque tienen derecho de retracto. Si la herencia aún no se ha repartido, lo que vendes son tus derechos hereditarios.",
+      "url": "/vender-derechos-hereditarios/",
+      "cta": "Vender derechos hereditarios →"
+     },
+     {
+      "t": "Plusvalía y renta",
+      "p": "La herencia genera plusvalía municipal si el suelo ganó valor; se declara en seis meses, prorrogables a un año. Y cuando vendas, el valor declarado en sucesiones será tu valor de adquisición en el IRPF.",
+      "url": "/calculadora-impuestos-vender-tu-parte/",
+      "cta": "Calcular impuestos de la venta →"
+     },
+     {
+      "t": "Usufructo del viudo",
+      "p": "Si el cónyuge viudo conserva el usufructo, tú heredas la nuda propiedad y tu base baja. Su valor depende de la edad del usufructuario.",
+      "url": "/calculadora-nuda-propiedad/",
+      "cta": "Calcular la nuda propiedad →"
+     }
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Galicia",
+    "type": "callout",
+    "intro": [
+     "A un sobrino que hereda media casa, el impuesto de sucesiones en Galicia puede costarle más de 13.000 € sin haber cobrado nada. Tiene varias salidas: aplazar o fraccionar, aceptar a beneficio de inventario si teme deudas o vender su parte para pagar. Lo contamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en las cuatro provincias: mira cómo <a href=\"/vender-proindiviso/galicia/\">vender un proindiviso en Galicia</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Los gastos de notaría y gestión corren de nuestra cuenta.",
+     "cta": "Quiero precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.atriga.gal/\">Axencia Tributaria de Galicia (ATRIGA)</a>. Modelos, oficinas y presentación del impuesto sobre sucesiones.",
+     "<a href=\"https://www.boe.es/eli/es-ga/dlg/2011/07/28/1/con\">Decreto Legislativo 1/2011 de tributos cedidos de Galicia (BOE, texto consolidado)</a>. Reducciones, tarifa, coeficientes y vivienda habitual.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas vigentes en 2026</a>. Incluye los cambios de la Ley gallega 5/2025."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Galicia?",
+    "Nada en la gran mayoría de casos. Cada hijo de 21 años o más tiene una reducción de 1.000.000 €, y los menores de 21 todavía más, con una deducción del 99 %. Solo pagarías por lo que supere ese millón, con una tarifa del 5 % al 18 %."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos en Galicia?",
+    "Sí. Hermanos y sobrinos están en el grupo III: reducción de 25.000 €, escala del 7,65 % al 34 % y coeficiente de 1,5882 si su patrimonio previo es moderado. Con 100.000 € heredados, pagan unos 13.400 € cada uno."
+   ],
+   [
+    "¿Cuánto tengo para presentar el impuesto de sucesiones en Galicia?",
+    "Seis meses desde la fecha del fallecimiento. Si necesitas más tiempo, pide la prórroga de otros seis meses dentro de los cinco primeros. Durante la prórroga se pagan intereses de demora, pero evitas el recargo."
+   ],
+   [
+    "¿El cónyuge viudo paga sucesiones por la vivienda habitual?",
+    "En Galicia el cónyuge reduce el 100 % del valor de la vivienda habitual, con un límite de 600.000 €. Además, tiene la reducción de 1.000.000 € del grupo II. Debe conservar la vivienda cinco años o reinvertir en otra en Galicia."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes pedir aplazamiento de hasta un año o fraccionamiento en cinco anualidades si la herencia no tiene liquidez. Otra opción es vender tu parte de la casa y pagar con ese dinero. Nosotros compramos cuotas heredadas con fondos propios y damos precio en 48 horas."
+   ],
+   [
+    "¿Dónde se presenta el modelo 650 en Galicia?",
+    "Ante la Axencia Tributaria de Galicia (ATRIGA). Cada heredero presenta su propio modelo 650 y adjunta la documentación que acredita las reducciones, porque en Galicia no se aplican de oficio. Una gestoría o la notaría pueden hacerlo por ti."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Galicia",
+  "related": [
+   [
+    "Vender un proindiviso en Galicia",
+    "/vender-proindiviso/galicia/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en Galicia?",
+  "cta_text": "Compramos tu cuota con fondos propios en A Coruña, Lugo, Ourense y Pontevedra. Precio por escrito en 48 horas y pago al contado en notaría.",
+  "yoast_title": "Impuesto de sucesiones en Galicia: cuánto se paga en 2026",
+  "meta_desc": "Impuesto de sucesiones en Galicia 2026: 1.000.000 € de reducción para hijos, 25.000 € para sobrinos y ejemplo con cifras. Compramos tu parte heredada.",
+  "focus_kw": "impuesto de sucesiones en Galicia",
+  "title_corto": "Sucesiones en Galicia",
+  "imagen_prompt": "Editorial Spanish real estate photograph, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a rural Galician stone farmhouse with a traditional granite and wood granary raised on stone pillars beside it, a small green meadow with a low dry-stone wall, a closed dark blue wooden door, misty wooded hills behind, soft diffused light after the rain. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Galicia: casa de piedra con hórreo en una aldea",
+  "datos": {
+   "grupo_I": "Reducción 1.000.000 € + 100.000 € por año menos de 21, máx. 1.500.000 € (art. 6.Dos.a TR D.Leg. 1/2011) y deducción del 99 % de la cuota (art. 11)",
+   "grupo_II": "Reducción 1.000.000 € (art. 6.Dos.b, desde 2020); sin deducción en cuota (suprimida en 2016); tarifa propia grupos I-II del 5 % al 18 % (art. 9.a); coeficiente 1 en todos los tramos (art. 10)",
+   "grupo_III": "Reducción 25.000 € (art. 6.Dos.c, redacción art. 3 Ley 5/2024, vigente desde 2025); tarifa art. 9.c del 7,65 % al 34 %; coeficientes 1,5882 / 1,6676 / 1,7471 / 1,9059; sin deducción",
+   "grupo_IV": "Sin reducción (art. 6.Dos.d); tarifa 7,65-34 %; coeficientes 2 / 2,1 / 2,2 / 2,4",
+   "vivienda_habitual": "Art. 7.Tres TR: cónyuge 100 % con límite 600.000 €; descendientes/adoptados, ascendientes/adoptantes y colaterales por consanguinidad mayores de 65 convivientes 2 años: 99 % (valor real total ≤150.000 €), 97 % (150.000,01-300.000 €), 95 % (>300.000 €), límite 600.000 €; mantener 5 años salvo fallecimiento, pacto sucesorio o venta con reinversión total en vivienda habitual en Galicia; una sola vivienda por transmitente; beneficio no aplicable de oficio (art. 23)",
+   "tarifa": "Propia. Grupos I y II (art. 9.a): 5 % hasta 50.000 €; 7 % hasta 125.000 €; 9 % hasta 300.000 €; 11 % hasta 800.000 €; 15 % hasta 1.600.000 €; 18 % en adelante. Grupos III y IV (art. 9.c): escala del 7,65 % al 34 % (mismos tramos que la estatal)",
+   "patrimonio_preexistente": "Coeficientes propios (art. 10): tramos 402.678,11 / 2.007.380,43 / 4.020.770,98 €; I-II 1 en todos; III 1,5882 / 1,6676 / 1,7471 / 1,9059; IV 2 / 2,1 / 2,2 / 2,4",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros (arts. 67-68 RISD)",
+   "organismo": "Axencia Tributaria de Galicia (ATRIGA), Xunta de Galicia",
+   "modelo": "Modelo 650 (versión ATRIGA), uno por heredero, con documentación acreditativa de las reducciones (Orden de 21-1-2021). Desde 2026, reducciones por parentesco y discapacidad únicas por causante-causahabiente (art. 6.Cinco, Ley 5/2025)",
+   "url_organismo": "https://www.atriga.gal/",
+   "ejemplo": "Piso con valor de referencia 200.000 €, dos herederos al 50 %, sin otros bienes, sin ajuar ni gastos, patrimonio previo < 402.678,11 €. Base de cada uno: 100.000 €. HIJOS (grupo II): 100.000 − 1.000.000 → base liquidable 0 → cuota 0 €. SOBRINOS (grupo III): 100.000 − 25.000 = 75.000; cuota íntegra (art. 9.c) = 7.943,98 + (75.000 − 71.893,07) × 15,30 % = 7.943,98 + 475,36 = 8.419,34; × 1,5882 = 13.371,60 € cada uno (26.743,20 € los dos). Vivienda habitual: sobrinos solo si mayores de 65 y convivientes 2 años."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones grupos I-IV (art. 6.Dos: 1.000.000 €, +100.000 €/año, máx. 1.500.000 €, 25.000 €, 0), vivienda habitual (art. 7.Tres), tarifas (art. 9), coeficientes (art. 10), deducción 99 % grupo I (art. 11) y beneficios no aplicables de oficio (art. 23); texto consolidado a 27-3-2026",
+    "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-18161-consolidado.pdf"
+   ],
+   [
+    "Medidas vigentes 2026 en Galicia: reducción 25.000 € grupo III por Ley 5/2024; deducción del grupo II suprimida desde 2016; tarifas y coeficientes",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedad 2026 (Ley 5/2025, DOG 31-12-2025): reducciones por parentesco y discapacidad únicas para todas las adquisiciones entre el mismo causante y causahabiente",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Vivienda habitual: mantenimiento 5 años y reinversión en Galicia; no se aplica de oficio (consulta de la Consellería de Facenda)",
+    "https://www.conselleriadefacenda.gal/documents/10433/1914857/V0002-18_Reduccion-por-adquisicion-de-vivienda-habitual_cast.pdf/b5c68021-6491-4b48-aaab-4cb04965062b"
+   ],
+   [
+    "Modelo 650 gallego ante la Agencia Tributaria de Galicia (ATRIGA)",
+    "https://conselleriadefacenda.gal/documents/16561/30903650/MK650-apartir-01012022.pdf/556321a9-8a4b-4a37-947e-1088d04f66cb"
+   ],
+   [
+    "Base imponible de inmuebles: valor de referencia del Catastro o el declarado si es mayor (art. 9.3 LISD); ajuar doméstico 3 % del caudal (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses desde el fallecimiento y prórroga de otros 6 solicitada en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargo por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento en 5 anualidades con garantía si no hay efectivo suficiente (art. 38 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plusvalía municipal mortis causa: declaración en 6 meses prorrogables hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Límite de 600.000 € de la reducción por vivienda habitual (art. 7.Tres): el texto legal no aclara si opera por heredero o por vivienda; en la página no se precisa.",
+   "Vías de presentación del modelo 650 ante ATRIGA (telemática o presencial): no consultadas en atriga.gal (acceso bloqueado); la página no las detalla."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-la-rioja",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en La Rioja",
+  "h1": "Impuesto de sucesiones en La Rioja: cuánto se paga y cómo calcularlo en 2026",
+  "sub": "El impuesto de sucesiones en La Rioja es casi simbólico para hijos, cónyuge y padres: aplican la ley estatal y después deducen el 99 % de la cuota. Hermanos y sobrinos, en cambio, pagan la tarifa estatal completa. Si heredas parte de un piso y no quieres seguir en copropiedad, te compramos tu cuota con fondos propios.",
+  "checks": [
+   "Datos de 2026 contrastados",
+   "Ejemplo en Logroño",
+   "Compramos tu parte"
+  ],
+  "card_title": "¿Has heredado parte de un piso en La Rioja?",
+  "card_text": "Indícanos la dirección y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Funcionamiento",
+    "h2": "Cómo funciona el impuesto de sucesiones en La Rioja",
+    "type": "text",
+    "intro": [
+     "La Rioja no tiene tarifa propia ni reducciones por parentesco propias. Por eso el impuesto de sucesiones en La Rioja parte de la ley estatal: reducciones, escala del 7,65 % al 34 % y coeficientes por patrimonio previo. Lo que la comunidad añade es una deducción muy potente en la cuota.",
+     "La base es el valor de lo que hereda cada uno, menos deudas y cargas deducibles. En pisos y casas manda el valor de referencia del Catastro, o el declarado si es mayor. Después se restan las reducciones estatales: 15.956,87 € para hijos de 21 años o más, cónyuge y padres, y algo más para los menores de 21, hasta 47.858,59 €.",
+     "Con la base liquidable se calcula la cuota y se multiplica por el coeficiente. Para los grupos I y II es 1 si el patrimonio previo no supera 402.678,11 €. Desde febrero de 2024, hijos, cónyuge y padres deducen el 99 % de esa cuota, sea cual sea su importe.",
+     "Para el grupo III, el impuesto de sucesiones en La Rioja es mucho más duro. Hermanos, sobrinos y tíos solo tienen 7.993,46 € de reducción y un coeficiente de 1,5882. Tampoco disfrutan de deducción, así que pagan la cuota entera. Primos y extraños (grupo IV) no tienen reducción y su coeficiente es 2."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla del impuesto de sucesiones en La Rioja en 2026",
+    "type": "table",
+    "intro": [
+     "Así queda el impuesto de sucesiones en La Rioja para fallecimientos de 2026, salvo cambio normativo posterior."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Qué rige en La Rioja"
+     ],
+     [
+      "Grupo I: descendientes menores de 21.",
+      "Reducción estatal de 15.956,87 € más 3.990,72 € por año menos de 21, hasta 47.858,59 €. Deducción del 99 % de la cuota."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y padres.",
+      "Reducción estatal de 15.956,87 € y deducción del 99 %. Pagan solo el 1 % de la cuota."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y afines.",
+      "Reducción de 7.993,46 €, escala estatal del 7,65 % al 34 % y coeficiente 1,5882. Sin deducción."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Pagan la cuota completa."
+     ],
+     [
+      "Vivienda habitual del fallecido.",
+      "Reducción propia del 95 %, hasta 122.606,47 € por heredero, con cinco años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "Seis meses desde el fallecimiento, prorrogables seis más si lo pides en los cinco primeros."
+     ],
+     [
+      "Organismo.",
+      "Dirección General de Tributos del Gobierno de La Rioja, con el modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Particularidades",
+    "h2": "Lo que cambia La Rioja respecto a la ley estatal",
+    "type": "cards",
+    "intro": [
+     "Estas son las tres mejoras del impuesto de sucesiones en La Rioja y lo que se queda igual."
+    ],
+    "items": [
+     {
+      "t": "Deducción del 99 % sin límite",
+      "p": "Antes, el 99 % solo alcanzaba a bases de hasta 400.000 €. Desde el 9 de febrero de 2024 se aplica a toda la cuota de hijos, cónyuge y padres, sea cual sea la herencia."
+     },
+     {
+      "t": "Convivientes de 15 años",
+      "p": "Desde 2025, quien haya convivido de forma estable con el fallecido al menos 15 años también aplica el 99 %, sin importar el parentesco. Si el fallecido pasó a una residencia, basta con 10 de esos 15 años."
+     },
+     {
+      "t": "Vivienda habitual con cinco años",
+      "p": "La reducción del 95 % por la vivienda del fallecido exige conservarla cinco años, no diez como en la ley estatal. Pueden aplicarla cónyuge, hijos, padres o un colateral mayor de 65 que conviviera dos años con él."
+     },
+     {
+      "t": "Lo que no cambia",
+      "p": "Para hermanos y sobrinos no hay mejora autonómica en herencias. Pagan con la tarifa estatal y su coeficiente, igual que en una comunidad que no legislara."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con un piso de 200.000 € en Logroño",
+    "type": "steps",
+    "intro": [
+     "Veamos el impuesto de sucesiones en La Rioja con un caso sencillo. Dos herederos reciben al 50 % un piso con un valor de referencia de 200.000 €, sin otros bienes. No era la vivienda habitual del fallecido y no sumamos ajuar ni gastos. Son cifras orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base de cada uno: 100.000 €",
+      "p": "Cada heredero tributa por su mitad. Con hijos de 21 años o más, restan 15.956,87 € y la base liquidable queda en 84.043,13 €."
+     },
+     {
+      "t": "Hijos: 98,38 € cada uno",
+      "p": "La escala estatal da una cuota de 9.838,32 €. Con la deducción del 99 %, cada hijo paga 98,38 €. Si el piso hubiera sido la vivienda habitual del fallecido, pagarían 0 €."
+     },
+     {
+      "t": "Sobrinos: 17.667,79 € cada uno",
+      "p": "Restan 7.993,46 € y quedan 92.006,54 €. La cuota íntegra es de 11.124,41 € y el coeficiente 1,5882 la sube a 17.667,79 €. No hay deducción."
+     },
+     {
+      "t": "La diferencia",
+      "p": "Por la misma mitad, un sobrino paga unas 180 veces más que un hijo. Entre los dos sobrinos, el impuesto ronda los 35.300 €."
+     }
+    ],
+    "outro": [
+     "Si quieres comparar con otras regiones, mira nuestra guía del <a href=\"/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/\">impuesto de sucesiones por comunidad</a>. Y para repasar cada concepto, tienes la ficha del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> en el diccionario."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, modelo 650 y oficina de Tributos en La Rioja",
+    "type": "list",
+    "intro": [
+     "Para presentar el impuesto de sucesiones en La Rioja ten en cuenta estos puntos:"
+    ],
+    "items": [
+     "<strong>Qué norma se aplica.</strong> La riojana, si el fallecido residió en La Rioja la mayor parte de los cinco años anteriores, aunque el piso esté en otra comunidad.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento. La prórroga de otros seis se pide en los cinco primeros meses y genera intereses de demora.",
+     "<strong>Dónde.</strong> En la Dirección General de Tributos del Gobierno de La Rioja, con el <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> de cada heredero.",
+     "<strong>Fuera de plazo.</strong> Sin requerimiento previo, pagas un <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a> del 1 % más un 1 % por mes completo; pasados doce meses, el 15 % más intereses.",
+     "<strong>Pago a plazos.</strong> Si la herencia no tiene liquidez, puedes pedir el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> hasta un año o fraccionarlo en cinco anualidades con garantía.",
+     "<strong>Venta antes de cinco años.</strong> Con la reducción de vivienda habitual, debes comunicarlo en 30 días hábiles y pagar lo ahorrado con intereses."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas solo una parte del inmueble",
+    "type": "text",
+    "intro": [
+     "Heredar una mitad o un tercio no cambia el cálculo del impuesto de sucesiones en La Rioja: pagas por el valor de tu cuota. Pero después del impuesto seguís siendo copropietarios. Y la copropiedad entre hermanos o primos suele bloquearse cuando uno quiere vender y otro no.",
+     "Una salida es la extinción de condominio: uno se queda el inmueble y compensa a los demás. Tienes los impuestos en la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-la-rioja/\">extinción de condominio en La Rioja</a>. La otra es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> sin que los demás firmen, aunque tienen derecho de retracto.",
+     "Al vender aparecen dos impuestos más. La plusvalía municipal de la herencia se declara en seis meses, prorrogables a un año. Además, el valor que declares en sucesiones será tu valor de adquisición en el IRPF; estima el resultado con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo conserva el usufructo, tú heredas la nuda propiedad y tu base baja. Calcúlala con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "¿No puedes pagar sucesiones en La Rioja?",
+    "type": "callout",
+    "intro": [
+     "Es el caso típico del sobrino: hereda medio piso y el impuesto de sucesiones en La Rioja le pide unos 17.000 €. Puedes aplazar o fraccionar, aceptar a beneficio de inventario si temes deudas o vender tu parte para pagar. Te lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en Logroño, Calahorra y toda la comunidad: mira cómo <a href=\"/vender-proindiviso/la-rioja/\">vender un proindiviso en La Rioja</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional de tu cuota.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2017-13750\">Ley 10/2017 de tributos cedidos de La Rioja (BOE, texto consolidado)</a>. Vivienda habitual, deducción del 99 % y convivientes.",
+     "<a href=\"https://www.larioja.org/tributos/es/tributos-cedidos/impuesto-sucesiones-donaciones\">Gobierno de La Rioja: impuesto sobre sucesiones y donaciones</a>. Información de la Dirección General de Tributos.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones (BOE)</a>. Reducciones estatales, tarifa y coeficientes que aplica La Rioja.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas vigentes en 2026</a>. Resumen oficial por comunidades."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en La Rioja?",
+    "Muy poco. Con un piso de 200.000 € heredado a medias, cada hijo paga unos 98 € gracias a la deducción autonómica del 99 %. Si era la vivienda habitual del fallecido, lo normal es que la cuota quede en cero."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí, ambos están en el grupo III. Tienen una reducción de 7.993,46 €, la tarifa estatal y un coeficiente de 1,5882, sin deducción autonómica. Por 100.000 € heredados pagan unos 17.700 € cada uno."
+   ],
+   [
+    "¿Cuánto tengo para presentar el impuesto de sucesiones en La Rioja?",
+    "Seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis meses si la solicitas dentro de los cinco primeros, aunque pagarás intereses de demora por ese tiempo extra."
+   ],
+   [
+    "¿Una pareja de hecho paga como un cónyuge?",
+    "Sí, si estaba inscrita en un registro de parejas de hecho y convivió al menos dos años antes del fallecimiento. Además, desde 2025 quien convivió 15 años con el fallecido puede aplicar la deducción del 99 % aunque no fuera familiar."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes pedir aplazamiento o fraccionamiento, aceptar a beneficio de inventario o vender tu parte del inmueble para tener liquidez. Nosotros compramos cuotas heredadas con fondos propios y pagamos al contado en notaría."
+   ],
+   [
+    "¿Tengo que vivir en La Rioja para aplicar estas ventajas?",
+    "No importa dónde vivas tú, sino dónde residía el fallecido. Si pasó en La Rioja la mayor parte de los últimos cinco años, se aplica la norma riojana a sus herederos, vivan donde vivan."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en La Rioja",
+  "related": [
+   [
+    "Vender un proindiviso en La Rioja",
+    "/vender-proindiviso/la-rioja/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Modelo 650",
+    "/diccionario-del-proindiviso/modelo-650/"
+   ],
+   [
+    "Bonificación en sucesiones",
+    "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en La Rioja?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en La Rioja: tarifa y ejemplo 2026",
+  "meta_desc": "Impuesto de sucesiones en La Rioja 2026: hijos con deducción del 99 %, sobrinos con tarifa estatal completa y ejemplo real. Compramos tu parte heredada.",
+  "focus_kw": "impuesto de sucesiones en La Rioja",
+  "title_corto": "Sucesiones en La Rioja",
+  "imagen_prompt": "Editorial Spanish real estate photograph, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: an empty living room in an old stone townhouse in La Rioja, thick sandstone walls, worn wooden floorboards, dark wooden beams, a tall open window looking onto rolling vineyards in autumn ochre and red, a dark blue wooden shutter, warm late afternoon light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en La Rioja: salón de piedra con vista a viñedos",
+  "datos": {
+   "grupo_I": "Reducción estatal 15.956,87 € + 3.990,72 € por año menos de 21, máx. 47.858,59 € (art. 34 Ley 10/2017 remite al art. 20.2 LISD); deducción del 99 % de la cuota (art. 37.2, redacción Ley 2/2024, vigente desde 9-2-2024 sin límite de base)",
+   "grupo_II": "Reducción estatal 15.956,87 €; deducción del 99 % (art. 37.2); extendida a convivientes estables de 15 años (10 de 15 si hubo traslado a residencia) desde 2025 (art. 37 bis, Ley 6/2024)",
+   "grupo_III": "Reducción estatal 7.993,46 €; tarifa estatal; coeficiente 1,5882 hasta 402.678,11 €; sin deducción autonómica",
+   "grupo_IV": "Sin reducción; tarifa estatal; coeficiente 2 hasta 402.678,11 €",
+   "vivienda_habitual": "Reducción propia del 95 %, límite 122.606,47 € por sujeto pasivo; cónyuge, descendientes o adoptados, ascendientes o adoptantes, o colateral mayor de 65 conviviente 2 años; mantenimiento 5 años (art. 35.4); incumplimiento: comunicar en 30 días hábiles y pagar con intereses (art. 35.5); incompatible con la estatal del art. 20.2.c (art. 36)",
+   "tarifa": "Estatal (art. 21 LISD); La Rioja no ha ejercido competencias",
+   "patrimonio_preexistente": "Coeficientes estatales (art. 22 LISD); no ha ejercido competencias",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros (arts. 67-68 RISD)",
+   "organismo": "Dirección General de Tributos del Gobierno de La Rioja (dirección general competente en materia de tributos)",
+   "modelo": "Modelo 650",
+   "url_organismo": "https://www.larioja.org/tributos/es",
+   "ejemplo": "Piso con valor de referencia 200.000 €, dos herederos al 50 %, sin otros bienes, sin ajuar ni gastos, no vivienda habitual, patrimonio previo < 402.678,11 €. Base de cada uno: 100.000 €. HIJOS (grupo II): 100.000 − 15.956,87 = 84.043,13; cuota íntegra = 9.166,06 + (84.043,13 − 79.880,52) × 16,15 % = 9.166,06 + 672,26 = 9.838,32; × 1 = 9.838,32; deducción 99 % → 98,38 € cada uno. Con vivienda habitual: 95 % × 100.000 = 95.000 (≤ 122.606,47) → 100.000 − 15.956,87 − 95.000 < 0 → 0 €. SOBRINOS (grupo III): 100.000 − 7.993,46 = 92.006,54; cuota íntegra = 9.166,06 + 12.126,02 × 16,15 % = 11.124,41; × 1,5882 = 17.667,79 € cada uno (35.335,58 € los dos; ratio 17.667,79 / 98,38 ≈ 180)."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 34, 35.4-35.5, 36, 37.2, 37 bis y 42 Ley 10/2017 (reducciones estatales, vivienda habitual 95 %, 122.606,47 € y 5 años, deducción 99 %, convivientes 15 años, parejas de hecho con 2 años); texto consolidado a 29-10-2026",
+    "https://www.boe.es/buscar/pdf/2017/BOE-A-2017-13750-consolidado.pdf"
+   ],
+   [
+    "Medidas vigentes 2026 en La Rioja: sin tarifa ni coeficientes propios; deducción 99 % sin límite desde 9-2-2024 (Ley 2/2024); antes 99 % hasta 400.000 € y 50 % por encima",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 (Leyes 8/2025 y 9/2025): solo empresa familiar y mecenazgo, sin cambios para grupos I-III ni vivienda habitual",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Reducciones estatales por parentesco (15.956,87 €; +3.990,72 €/año <21, máx. 47.858,59 €; 7.993,46 €; grupo IV 0), vivienda habitual 95 % con límite 122.606,47 € y 10 años, tarifa 7,65-34 % y coeficientes 1 / 1,5882 / 2 (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Base imponible de inmuebles: valor de referencia del Catastro o el declarado si es mayor (art. 9.3 LISD); ajuar doméstico 3 % del caudal (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses desde el fallecimiento y prórroga de otros 6 solicitada en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargo por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento en 5 anualidades con garantía si no hay efectivo suficiente (art. 38 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plusvalía municipal mortis causa: declaración en 6 meses prorrogables hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "No he podido consultar larioja.org (bloqueo de robots y conexión rechazada): la consejería de la que depende la Dirección General de Tributos y las vías de presentación no están confirmadas; el texto solo cita la Dirección General de Tributos.",
+   "Modelo 650 en La Rioja: dado por aplicable (modelo estatal de la Orden HAP/2488/2014, sin modelo propio localizado), pero no confirmado en la web riojana."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-madrid",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Madrid",
+  "h1": "Impuesto de sucesiones en Madrid: cuánto pagan hijos, hermanos y sobrinos en 2026",
+  "sub": "El impuesto de sucesiones en Madrid es casi nulo para hijos, cónyuge y padres, que bonifican el 99 % de la cuota. Desde julio de 2025, hermanos, sobrinos y tíos bonifican el 50 %. Si heredas parte de un piso y prefieres no seguir en copropiedad, te compramos tu cuota con fondos propios.",
+  "checks": [
+   "Cifras de 2026 verificadas",
+   "Ejemplo con un piso real",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Heredas parte de un piso en Madrid?",
+  "card_text": "Dinos la dirección y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso ni exclusividad.",
+  "sections": [
+   {
+    "overline": "Lo esencial",
+    "h2": "Cuánto se paga del impuesto de sucesiones en Madrid en 2026",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Madrid se rige casi entero por normas propias. Hay reducciones propias por parentesco, una tarifa propia del 7,65 % al 34 % y coeficientes propios por patrimonio previo. Pero lo decisivo son las bonificaciones en la cuota.",
+     "Hijos, nietos, cónyuge y padres (grupos I y II) bonifican el 99 %. Por eso el impuesto de sucesiones en Madrid suele quedarse en unos cientos de euros para la familia directa, incluso con herencias altas. Antes se aplica una reducción de 16.000 € por heredero, que en menores de 21 sube 4.000 € por año, hasta 48.000 €.",
+     "Hermanos, sobrinos, tíos, suegros, yernos y nueras (grupo III) tienen 8.000 € de reducción. Además, desde el 1 de julio de 2025 bonifican el 50 % de la cuota. Con esa rebaja, el impuesto de sucesiones en Madrid les cuesta la mitad de la cuota. Entre el 28 de octubre de 2022 y el 30 de junio de 2025, la rebaja era del 25 %.",
+     "Primos y personas sin parentesco (grupo IV) no tienen reducción ni bonificación, y su coeficiente arranca en 2. La base de todos es el valor de lo heredado, menos deudas deducibles: en inmuebles, el valor de referencia del Catastro o el declarado, si es mayor."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Sucesiones en Madrid en una tabla (2026)",
+    "type": "table",
+    "intro": [
+     "Estas son las reglas del impuesto de sucesiones en Madrid vigentes en 2026, con la reforma de julio de 2026 ya incluida."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Comunidad de Madrid en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21.",
+      "Reducción de 16.000 € más 4.000 € por año menos de 21, hasta 48.000 €. Bonificación del 99 %."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y padres.",
+      "Reducción de 16.000 € y bonificación del 99 % de la cuota."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y afines.",
+      "Reducción de 8.000 €, coeficiente 1,5882 y bonificación del 50 % desde el 1 de julio de 2025."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción ni bonificación. Coeficiente de 2 a 2,4."
+     ],
+     [
+      "Vivienda habitual del fallecido.",
+      "Reducción del 95 %, hasta 123.000 € por heredero, con cinco años de mantenimiento."
+     ],
+     [
+      "Plazo.",
+      "Seis meses desde el fallecimiento, prorrogables seis más si lo pides en los cinco primeros."
+     ],
+     [
+      "Organismo.",
+      "Dirección General de Tributos, Consejería de Economía, Hacienda y Empleo. Modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Getafe para dos hijos o dos sobrinos",
+    "type": "text",
+    "intro": [
+     "Veamos cuánto supone el impuesto de sucesiones en Madrid con un caso sencillo. Supongamos un piso con un valor de referencia de 200.000 € que heredan dos personas al 50 %, sin otros bienes. No era la vivienda habitual del fallecido. Tampoco sumamos ajuar ni gastos, y los herederos tienen un patrimonio previo modesto. Son cifras orientativas.",
+     "<strong>Dos hijos.</strong> Cada uno tributa por 100.000 €. Restan 16.000 € y quedan 84.000 €. La tarifa madrileña da 9.823,03 € y la bonificación del 99 % lo deja en 98,23 € por hijo. Si el piso hubiera sido la vivienda habitual, la reducción del 95 % dejaría la cuota en cero.",
+     "<strong>Dos sobrinos.</strong> Restan 8.000 € y quedan 92.000 €. La tarifa da 11.115,03 € y el coeficiente 1,5882 la sube a 17.652,90 €. Con la bonificación del 50 %, cada sobrino paga 8.826,45 €. Antes de julio de 2025, con el 25 %, habría pagado 13.239,68 €.",
+     "Es mucho menos que en otras comunidades, pero sigue siendo una cantidad que muchos sobrinos no tienen a mano. Compara con el resto en nuestra guía del <a href=\"/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/\">impuesto de sucesiones por comunidad</a>."
+    ]
+   },
+   {
+    "overline": "Detalles",
+    "h2": "Vivienda habitual y otros detalles que cambian la cuota",
+    "type": "list",
+    "intro": [
+     "Hay matices del impuesto de sucesiones en Madrid que cambian bastante la cuota final:"
+    ],
+    "items": [
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 95 % del valor, con un límite de 123.000 € por heredero. La aplican cónyuge, hijos, adoptados, padres o un colateral mayor de 65 años que conviviera dos años con el fallecido. Hay que conservarla cinco años, no diez.",
+     "<strong>Rebaja del grupo III con condiciones.</strong> La <a href=\"/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/\">bonificación del impuesto de sucesiones</a> del 50 % solo alcanza a los bienes que el heredero declare de forma completa, en plazo o fuera de plazo sin requerimiento. Si Hacienda descubre bienes ocultos, sobre ellos no hay rebaja.",
+     "<strong>Patrimonio previo alto.</strong> Madrid usa coeficientes propios. Para hijos y cónyuge con más de 403.000 € de patrimonio previo, la cuota se multiplica por 1,05 o más.",
+     "<strong>Parejas de hecho.</strong> Las uniones de hecho inscritas en el registro madrileño, o en uno análogo, se asimilan a los cónyuges.",
+     "<strong>Adopción y acogimiento.</strong> Desde el 1 de julio de 2026, los adoptados figuran de forma expresa en la reducción por vivienda habitual. Los menores en tutela o acogimiento cuentan como descendientes."
+    ]
+   },
+   {
+    "overline": "Trámite",
+    "h2": "Cómo presentar el modelo 650 en la Comunidad de Madrid",
+    "type": "steps",
+    "intro": [
+     "El impuesto de sucesiones en Madrid se presenta por autoliquidación, en cuatro pasos."
+    ],
+    "items": [
+     {
+      "t": "Comprueba la norma aplicable",
+      "p": "Se aplica la madrileña si el fallecido residió en la Comunidad de Madrid la mayor parte de los últimos cinco años, aunque el piso esté en otra región."
+     },
+     {
+      "t": "Prepara la autoliquidación",
+      "p": "Desde finales de 2020, la autoliquidación es el único sistema. Cada heredero rellena su <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> en la Oficina Virtual Tributaria, con certificado, Cl@ve o DNI electrónico."
+     },
+     {
+      "t": "Paga o pide aplazamiento",
+      "p": "Puedes pagar con tarjeta, transferencia, Bizum o domiciliación. Si no hay liquidez, solicita el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> o el fraccionamiento desde la misma oficina virtual."
+     },
+     {
+      "t": "Presenta en plazo",
+      "p": "Tienes seis meses desde el fallecimiento, prorrogables otros seis si lo pides en los cinco primeros. Fuera de plazo hay <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>: del 1 % al 15 % según el retraso."
+     }
+    ],
+    "outro": [
+     "El órgano gestor es la Dirección General de Tributos de la Consejería de Economía, Hacienda y Empleo. También puedes presentar en persona, con cita previa, en sus oficinas."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte de un piso en Madrid",
+    "type": "cards",
+    "intro": [
+     "En Madrid es muy común heredar un piso a medias entre hermanos o primos. El impuesto de sucesiones en Madrid se paga por tu cuota y, después, quedáis en proindiviso."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Uno se adjudica el piso y compensa a los demás. Tributa por actos jurídicos documentados sobre la parte que adquiere quien se queda la vivienda.",
+      "url": "/impuestos-del-proindiviso/extincion-de-condominio-madrid/",
+      "cta": "Impuestos de la extinción →"
+     },
+     {
+      "t": "Vender tu cuota",
+      "p": "Puedes vender tu porcentaje sin la firma de los demás, que tienen derecho de retracto. Cobras en semanas, sin esperar a que todos se pongan de acuerdo.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte heredada →"
+     },
+     {
+      "t": "Plusvalía municipal",
+      "p": "La herencia tributa en el ayuntamiento si el suelo ganó valor. Se declara en seis meses, prorrogables a un año, y la paga cada heredero."
+     },
+     {
+      "t": "IRPF al vender",
+      "p": "El valor declarado en sucesiones será tu valor de adquisición. Si vendes por más, tributas por la ganancia en tu renta.",
+      "url": "/calculadora-impuestos-vender-tu-parte/",
+      "cta": "Calcular impuestos de la venta →"
+     }
+    ],
+    "outro": [
+     "Cuando el viudo o la viuda conserva el usufructo, tú heredas la nuda propiedad y tu base es menor: calcúlala con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Y si aún no hay partición, mira cómo <a href=\"/vender-derechos-hereditarios/\">vender derechos hereditarios</a>."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "¿No puedes pagar el impuesto de sucesiones en Madrid?",
+    "type": "callout",
+    "intro": [
+     "Con la bonificación del 50 %, un sobrino aún puede deber casi 9.000 € por medio piso. Si no los tiene, puede aplazar o fraccionar, aceptar a beneficio de inventario si teme deudas o vender su parte para pagar. Lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en la capital y en toda la región: mira cómo <a href=\"/vender-proindiviso/madrid/\">vender un proindiviso en Madrid</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.comunidad.madrid/atencion-contribuyente/impuesto-sucesiones\">Comunidad de Madrid: impuesto de sucesiones</a>. Reducciones, bonificaciones, plazos y presentación del modelo 650.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOCM-m-2010-90068\">Decreto Legislativo 1/2010 de tributos cedidos de Madrid (BOE, texto consolidado)</a>. Artículos 21 a 26, actualizados a julio de 2026.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas vigentes en 2026</a>. Incluye la Ley madrileña 3/2026."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Madrid?",
+    "Muy poco: con la bonificación del 99 %, un hijo que hereda la mitad de un piso de 200.000 € paga unos 98 €. Si era la vivienda habitual del fallecido, lo normal es que no pague nada gracias a la reducción del 95 %."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos en Madrid?",
+    "Sí. Ambos forman parte del grupo III: reducción de 8.000 €, coeficiente 1,5882 y bonificación del 50 % desde el 1 de julio de 2025. Por 100.000 € heredados, cada uno paga unos 8.800 €."
+   ],
+   [
+    "¿Cuánto tengo para presentar el impuesto de sucesiones en Madrid?",
+    "Seis meses desde el fallecimiento. Si lo necesitas, pide la prórroga de otros seis meses antes de que pasen los cinco primeros. Durante la prórroga corren intereses de demora, pero evitas el recargo."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes solicitar aplazamiento o fraccionamiento desde la Oficina Virtual, con intereses. También puedes vender tu parte del piso para pagarlo. Nosotros compramos cuotas heredadas con fondos propios y te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Se aplica la ley de Madrid si mi padre vivía en otra comunidad?",
+    "No. Manda la residencia del fallecido durante la mayor parte de los últimos cinco años, no dónde esté el piso ni dónde vivas tú. Si vivía en Castilla-La Mancha, por ejemplo, se aplica la norma castellanomanchega."
+   ],
+   [
+    "¿Sigue habiendo bonificación si presento tarde?",
+    "Para el grupo III, el 50 % solo alcanza a los bienes declarados en plazo o fuera de plazo sin requerimiento previo. Aun así, presentar tarde genera recargos, así que conviene cumplir los seis meses o pedir la prórroga."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Madrid",
+  "related": [
+   [
+    "Vender un proindiviso en Madrid",
+    "/vender-proindiviso/madrid/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Plusvalía al vender tu parte heredada",
+    "/blog/plusvalia-municipal-al-vender-mi-parte-heredada/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en Madrid?",
+  "cta_text": "Compramos tu cuota con fondos propios en toda la Comunidad de Madrid. Precio por escrito en 48 horas y pago al contado en notaría.",
+  "yoast_title": "Impuesto de sucesiones en Madrid: cuánto pagas en 2026",
+  "meta_desc": "Impuesto de sucesiones en Madrid 2026: 99 % de bonificación para hijos, 50 % para hermanos y sobrinos, y ejemplo con cifras. Compramos tu parte heredada.",
+  "focus_kw": "impuesto de sucesiones en Madrid",
+  "title_corto": "Sucesiones en Madrid",
+  "imagen_prompt": "Editorial Spanish real estate photograph, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the empty hallway of a classic early twentieth century Madrid apartment, high ceilings with plaster mouldings, an original patterned hydraulic tile floor in terracotta and cream, tall wooden doors with glass panels, soft light coming from an inner courtyard window. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Madrid: pasillo de un piso clásico con suelo hidráulico",
+  "datos": {
+   "grupo_I": "Reducción 16.000 € + 4.000 € por año menos de 21, máx. 48.000 € (art. 21.Uno.1 TR D.Leg. 1/2010, redacción Ley 3/2026); bonificación del 99 % (art. 25.1)",
+   "grupo_II": "Reducción 16.000 €; bonificación del 99 % (art. 25.1)",
+   "grupo_III": "Reducción 8.000 €; tarifa propia; coeficiente 1,5882 hasta 403.000 €; bonificación del 50 % desde 1-7-2025 (Ley 2/2025; 25 % del 28-10-2022 al 30-6-2025), aplicable solo a la parte de cuota de bienes declarados de forma completa en plazo o fuera de plazo sin requerimiento",
+   "grupo_IV": "Sin reducción ni bonificación; coeficiente 2 / 2,1 / 2,2 / 2,4",
+   "vivienda_habitual": "95 %, límite 123.000 € por sujeto, mantenimiento 5 años (art. 21.Uno.4); cónyuge, ascendientes o adoptantes, descendientes o adoptados (adoptados expresamente desde 1-7-2026) o colateral mayor de 65 conviviente 2 años",
+   "tarifa": "Propia (art. 23): 7,65 % hasta 8.313,20 € ... 16,15 % desde 80.006,73 € (cuota 9.178,12 €) ... 29,75 % desde 399.408,59 €; 34 % desde 798.817,20 €",
+   "patrimonio_preexistente": "Coeficientes propios (art. 24): tramos 403.000 / 2.008.000 / 4.021.000 €; I-II 1 / 1,05 / 1,10 / 1,20; III 1,5882 / 1,6676 / 1,7471 / 1,9059; IV 2 / 2,1 / 2,2 / 2,4",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros, con intereses de demora (arts. 67-68 RISD)",
+   "organismo": "Dirección General de Tributos, Consejería de Economía, Hacienda y Empleo (Comunidad de Madrid)",
+   "modelo": "Modelo 650; la autoliquidación es el único sistema desde 31-12-2020; presentación telemática en la Oficina Virtual Tributaria o presencial con cita previa",
+   "url_organismo": "https://www.comunidad.madrid/atencion-contribuyente/impuesto-sucesiones",
+   "ejemplo": "Piso con valor de referencia 200.000 €, dos herederos al 50 %, sin otros bienes, sin ajuar ni gastos, no vivienda habitual, patrimonio previo < 403.000 €. Base de cada uno: 100.000 €. HIJOS (grupo II): 100.000 − 16.000 = 84.000; cuota íntegra (tarifa Madrid) = 9.178,12 + (84.000 − 80.006,73) × 16,15 % = 9.178,12 + 644,91 = 9.823,03; × 1; bonificación 99 % → 98,23 € cada uno. Con vivienda habitual: 95 % × 100.000 = 95.000 (≤ 123.000) → base liquidable 0 → 0 €. SOBRINOS (grupo III): 100.000 − 8.000 = 92.000; cuota íntegra = 9.178,12 + (92.000 − 80.006,73) × 16,15 % = 9.178,12 + 1.936,91 = 11.115,03; × 1,5882 = 17.652,90; bonificación 50 % → 8.826,45 € cada uno (con el 25 % anterior: 13.239,68 €)."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 21 (reducciones 16.000 / 4.000 / 48.000 / 8.000 €; vivienda habitual 95 %, 123.000 €, 5 años), 23 (tarifa), 24 (coeficientes), 25 (bonificaciones 99 % y 50 %) y 26 (uniones de hecho inscritas); texto consolidado a 10-7-2026",
+    "https://www.boe.es/buscar/pdf/2010/BOCM-m-2010-90068-consolidado.pdf"
+   ],
+   [
+    "Ficha oficial: bonificación 50 % grupo III para fallecimientos desde 1-7-2025 y 25 % del 28-10-2022 al 30-6-2025; vivienda habitual; plazos; modelo 650; autoliquidación único sistema desde 31-12-2020; formas de pago",
+    "https://www.comunidad.madrid/atencion-contribuyente/impuesto-sucesiones"
+   ],
+   [
+    "Medidas vigentes y novedades 2026 en Madrid (Ley 6/2025, Ley 3/2026 de empresa familiar, Ley 5/2026): adoptados en vivienda habitual desde 1-7-2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Dirección General de Tributos adscrita a la Consejería de Economía, Hacienda y Empleo",
+    "https://www.comunidad.madrid/transparencia/node/43346"
+   ],
+   [
+    "Base imponible de inmuebles: valor de referencia del Catastro o el declarado si es mayor (art. 9.3 LISD); ajuar doméstico 3 % del caudal (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses desde el fallecimiento y prórroga de otros 6 solicitada en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargo por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento en 5 anualidades con garantía si no hay efectivo suficiente (art. 38 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plusvalía municipal mortis causa: declaración en 6 meses prorrogables hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Alcance de la antigua bonificación del 25 % (28-10-2022 a 30-6-2025): la web de la Comunidad la refiere a colaterales de segundo y tercer grado por consanguinidad y el resumen del Ministerio habla del grupo III; el texto solo da el porcentaje y las fechas."
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-murcia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Murcia",
+  "h1": "Impuesto de sucesiones en Murcia: cuánto se paga al heredar en 2026",
+  "sub": "El impuesto de sucesiones en Murcia apenas cuesta a hijos, cónyuge y padres: deducen el 99 % de la cuota. Hermanos y sobrinos no tienen esa ventaja en herencias y pagan la tarifa completa, que en tramos altos supera a la estatal. Si heredas parte de un piso y prefieres venderla, te la compramos con fondos propios.",
+  "checks": [
+   "Normativa vigente en 2026",
+   "Cuentas hechas con la tarifa",
+   "Compramos tu cuota"
+  ],
+  "card_title": "¿Has heredado parte de un piso en Murcia?",
+  "card_text": "Dinos dónde está y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Murcia",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Murcia usa las reducciones estatales por parentesco y los coeficientes estatales por patrimonio previo. Tiene, en cambio, tarifa propia y una deducción autonómica del 99 % para la familia directa. Para hermanos y sobrinos no hay rebaja en herencias.",
+     "La base de cada heredero es el valor de lo que recibe, menos deudas deducibles. En inmuebles cuenta el valor de referencia del Catastro, o el declarado si es mayor. Después se restan las reducciones: 15.956,87 € para hijos de 21 años o más, cónyuge y padres; algo más para menores de 21, hasta 47.858,59 €; y 7.993,46 € para el grupo III.",
+     "La tarifa murciana coincide con la estatal hasta 398.777,54 € de base liquidable. Por encima sube al 31,75 % y, desde 797.555,08 €, al 36,50 %. Por eso el impuesto de sucesiones en Murcia castiga más las herencias grandes de hermanos, sobrinos y extraños.",
+     "Después, la cuota se multiplica por el coeficiente: 1 para hijos y cónyuge, 1,5882 para el grupo III y 2 para el grupo IV, con patrimonio previo de hasta 402.678,11 €. Al final, hijos, cónyuge y padres deducen el 99 % de la cuota."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla resumen de sucesiones en la Región de Murcia",
+    "type": "table",
+    "intro": [
+     "El Ministerio de Hacienda confirma que Murcia no aprobó cambios para 2026, así que el impuesto de sucesiones en Murcia sigue estas reglas:"
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Región de Murcia en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21.",
+      "Reducción estatal de 15.956,87 € más 3.990,72 € por año menos de 21, hasta 47.858,59 €. Deducción del 99 %."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y padres.",
+      "Reducción estatal de 15.956,87 € y deducción autonómica del 99 % de la cuota."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y afines.",
+      "Reducción de 7.993,46 €, tarifa murciana y coeficiente 1,5882. Sin deducción en herencias."
+     ],
+     [
+      "Grupo IV: primos y extraños.",
+      "Sin reducción y coeficiente 2. Tarifa de hasta el 36,50 %."
+     ],
+     [
+      "Vivienda habitual del fallecido.",
+      "Reducción estatal del 95 %, hasta 122.606,47 € por heredero, si la conservas diez años."
+     ],
+     [
+      "Plazo.",
+      "Seis meses desde el fallecimiento, prorrogables seis más si lo pides en los cinco primeros."
+     ],
+     [
+      "Organismo.",
+      "Agencia Tributaria de la Región de Murcia (ATRM), con el modelo 650."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € en Cartagena",
+    "type": "steps",
+    "intro": [
+     "Así se aplica el impuesto de sucesiones en Murcia a un caso sencillo. Dos herederos reciben al 50 % un piso con un valor de referencia de 200.000 €, sin otros bienes. No era la vivienda habitual del fallecido. No sumamos ajuar ni gastos: son cifras orientativas."
+    ],
+    "items": [
+     {
+      "t": "Cada uno tributa por 100.000 €",
+      "p": "La base de cada heredero es su mitad del valor de referencia, sin importar quién se quede las llaves."
+     },
+     {
+      "t": "Dos hijos: 98,38 € cada uno",
+      "p": "Restan 15.956,87 € y quedan 84.043,13 €. La tarifa da 9.838,32 € y la deducción del 99 % lo deja en 98,38 €. Si fuera la vivienda habitual, no pagarían nada."
+     },
+     {
+      "t": "Dos sobrinos: 17.667,79 € cada uno",
+      "p": "Restan 7.993,46 € y quedan 92.006,54 €. La tarifa da 11.124,41 € y el coeficiente 1,5882 la eleva a 17.667,79 €. No hay deducción."
+     },
+     {
+      "t": "Lo que pagan entre todos",
+      "p": "Los dos hijos pagan menos de 200 € en total. Los dos sobrinos, más de 35.000 €, normalmente sin haber cobrado aún nada de la herencia."
+     }
+    ],
+    "outro": [
+     "Compara estas cifras con otras regiones en nuestra guía del <a href=\"/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/\">impuesto de sucesiones por comunidad</a>."
+    ]
+   },
+   {
+    "overline": "Detalles",
+    "h2": "Cuatro detalles murcianos que cambian la cuota",
+    "type": "cards",
+    "intro": [
+     "Hay cuatro reglas del impuesto de sucesiones en Murcia que conviene conocer antes de presentar."
+    ],
+    "items": [
+     {
+      "t": "Vivienda habitual: diez años",
+      "p": "Murcia no mejora la reducción estatal. Es del 95 %, con un límite de 122.606,47 € por heredero, y exige conservar la vivienda diez años. Si vendes antes, pagas lo ahorrado con intereses."
+     },
+     {
+      "t": "Donación frente a herencia",
+      "p": "El 99 % para hermanos y sobrinos existe en Murcia, pero solo en donaciones en documento público con origen de fondos justificado. En herencias no se aplica."
+     },
+     {
+      "t": "Herencias grandes",
+      "p": "A partir de 398.777,54 € de base, la tarifa murciana sube al 31,75 % y luego al 36,50 %, por encima de la estatal."
+     },
+     {
+      "t": "Parejas de hecho",
+      "p": "Las parejas de hecho acreditadas según la normativa autonómica se equiparan a los cónyuges en reducciones, coeficientes y deducción."
+     }
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo y presentación ante la Agencia Tributaria de la Región de Murcia",
+    "type": "list",
+    "intro": [
+     "El impuesto de sucesiones en Murcia tiene los mismos plazos que en el resto del territorio común. Esto es lo que debes saber:"
+    ],
+    "items": [
+     "<strong>Norma aplicable.</strong> La murciana, si el fallecido residió en la Región de Murcia la mayor parte de los últimos cinco años.",
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento. La prórroga de otros seis se pide en los cinco primeros meses y conlleva intereses de demora.",
+     "<strong>Dónde y cómo.</strong> Cada heredero presenta su <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> ante la Agencia Tributaria de la Región de Murcia (ATRM).",
+     "<strong>Retrasos.</strong> El <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a> es del 1 % más un 1 % por mes completo, y del 15 % pasados doce meses.",
+     "<strong>Pago a plazos.</strong> Si la herencia no tiene liquidez, puedes pedir el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto de sucesiones</a> hasta un año o fraccionarlo en cinco anualidades con garantía."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte y salir del proindiviso",
+    "type": "text",
+    "intro": [
+     "Si heredas un tercio o la mitad, el impuesto de sucesiones en Murcia se calcula sobre el valor de esa cuota. Después del impuesto seguís siendo copropietarios. En Murcia es frecuente con casas de huerta y pisos de playa que pasan a varios hermanos.",
+     "Tienes dos salidas principales. La <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-murcia/\">extinción de condominio en Murcia</a> permite que uno se quede el inmueble y compense a los demás. La otra es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a>; los demás tienen derecho de retracto, pero no pueden impedir la venta.",
+     "Ten en cuenta otros dos impuestos. La plusvalía municipal de la herencia se declara en seis meses, prorrogables a un año. Además, el valor que declares en sucesiones será tu valor de adquisición si luego vendes; haz números con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si tu madre o tu padre viudo conserva el usufructo, tú heredas la nuda propiedad y tu base baja. La <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a> te da su valor."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "Cuando no hay dinero para pagar sucesiones en Murcia",
+    "type": "callout",
+    "intro": [
+     "Pagar 17.000 € de impuesto de sucesiones en Murcia antes de poder vender es un problema real para muchos sobrinos. Puedes aplazar o fraccionar, aceptar a beneficio de inventario si temes deudas o vender tu parte para pagar. Lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en Murcia, Cartagena, Lorca y toda la región: mira cómo <a href=\"/vender-proindiviso/murcia/\">vender un proindiviso en Murcia</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión, a nuestro cargo.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://agenciatributaria.carm.es/\">Agencia Tributaria de la Región de Murcia</a>. Modelo 650, oficinas y presentación.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2011-10542\">Decreto Legislativo 1/2010 de tributos cedidos de Murcia (BOE, texto consolidado)</a>. Tarifa propia y deducción del 99 %.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones (BOE)</a>. Reducciones estatales, vivienda habitual y coeficientes.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas vigentes en 2026</a>. Resumen oficial por comunidades."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Murcia?",
+    "Muy poco. Con un piso de 200.000 € heredado a medias, cada hijo paga unos 98 € gracias a la deducción autonómica del 99 %. Si el piso era la vivienda habitual del fallecido, la cuota suele quedar en cero."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí. Los dos están en el grupo III, con una reducción de 7.993,46 € y coeficiente 1,5882, y en herencias no tienen deducción autonómica. Por 100.000 € heredados pagan unos 17.700 € cada uno."
+   ],
+   [
+    "¿Cuánto tengo para presentar el impuesto de sucesiones en Murcia?",
+    "Seis meses desde el fallecimiento. Si necesitas más tiempo, pide una prórroga de otros seis meses dentro de los cinco primeros, con intereses de demora por el periodo extra."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes pedir aplazamiento o fraccionamiento cuando la herencia no tiene liquidez, o vender tu parte del inmueble para pagar. Nosotros compramos cuotas heredadas con fondos propios y te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Por qué una donación a un sobrino paga menos que una herencia?",
+    "Porque la Región de Murcia aplica una deducción del 99 % a las donaciones a hermanos y sobrinos, siempre que consten en documento público y con origen de fondos justificado. Esa deducción no existe en herencias. Consulta tu caso antes de decidir."
+   ],
+   [
+    "¿Tengo que conservar la casa si aplico la reducción por vivienda habitual?",
+    "Sí, diez años desde el fallecimiento, porque Murcia aplica la regla estatal. Si vendes antes, debes pagar la parte del impuesto que te ahorraste más intereses de demora. Piénsalo bien si planeas vender tu parte pronto."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Murcia",
+  "related": [
+   [
+    "Vender un proindiviso en Murcia",
+    "/vender-proindiviso/murcia/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Qué es el impuesto de sucesiones",
+    "/diccionario-del-proindiviso/impuesto-de-sucesiones/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en Murcia?",
+  "cta_text": "Compramos tu cuota con fondos propios en toda la Región de Murcia. Precio por escrito en 48 horas y pago al contado en notaría.",
+  "yoast_title": "Impuesto de sucesiones en Murcia: cálculo y plazos 2026",
+  "meta_desc": "Impuesto de sucesiones en Murcia 2026: 99 % de deducción para hijos, tarifa completa para hermanos y sobrinos y ejemplo real. Compramos tu parte heredada.",
+  "focus_kw": "impuesto de sucesiones en Murcia",
+  "title_corto": "Sucesiones en Murcia",
+  "imagen_prompt": "Editorial Spanish real estate photograph, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a traditional farmhouse in the huerta of the Region of Murcia, ochre lime-washed walls, a weathered dark blue wooden door, orange and lemon trees heavy with fruit, a narrow stone irrigation channel along a dirt path, low palm trees, clear morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Murcia: casa de huerta con naranjos y limoneros",
+  "datos": {
+   "grupo_I": "Reducción estatal 15.956,87 € + 3.990,72 € por año menos de 21, máx. 47.858,59 € (art. 20.2.a LISD); deducción autonómica del 99 % de la cuota (art. 3.Cinco TR D.Leg. 1/2010)",
+   "grupo_II": "Reducción estatal 15.956,87 €; deducción autonómica del 99 % (art. 3.Cinco)",
+   "grupo_III": "Reducción estatal 7.993,46 €; tarifa murciana; coeficiente 1,5882 hasta 402.678,11 €; sin deducción en sucesiones (el 99 % del grupo III es solo para donaciones en documento público con origen de fondos justificado, art. 4.Seis)",
+   "grupo_IV": "Sin reducción; tarifa murciana; coeficiente 2 hasta 402.678,11 €",
+   "vivienda_habitual": "Sin mejora autonómica: estatal 95 %, límite 122.606,47 € por sujeto pasivo, mantenimiento 10 años; cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años (art. 20.2.c LISD)",
+   "tarifa": "Propia (art. 5 TR, desde 1-1-2013): idéntica a la estatal hasta 398.777,54 €; 31,75 % de 398.777,54 a 797.555,08 € (cuota 80.655,08 €); 36,50 % desde 797.555,08 € (cuota 207.266,95 €)",
+   "patrimonio_preexistente": "Coeficientes estatales (art. 22 LISD); no ha ejercido competencias",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros (arts. 67-68 RISD)",
+   "organismo": "Agencia Tributaria de la Región de Murcia (ATRM)",
+   "modelo": "Modelo 650 (procedimiento P.2135 de la sede de la CARM)",
+   "url_organismo": "https://agenciatributaria.carm.es/",
+   "ejemplo": "Piso con valor de referencia 200.000 €, dos herederos al 50 %, sin otros bienes, sin ajuar ni gastos, no vivienda habitual, patrimonio previo < 402.678,11 €. Base de cada uno: 100.000 €. HIJOS (grupo II): 100.000 − 15.956,87 = 84.043,13; cuota íntegra = 9.166,06 + (84.043,13 − 79.880,52) × 16,15 % = 9.838,32; × 1; deducción 99 % → 98,38 € cada uno (196,76 € los dos). Con vivienda habitual: 95.000 de reducción → base liquidable 0 → 0 €. SOBRINOS (grupo III): 100.000 − 7.993,46 = 92.006,54; cuota íntegra = 9.166,06 + (92.006,54 − 79.880,52) × 16,15 % = 11.124,41; × 1,5882 = 17.667,79 € cada uno (35.335,58 € los dos)."
+  },
+  "fuentes_verificacion": [
+   [
+    "Art. 3.Cinco (deducción 99 % grupos I y II), art. 3.Seis (parejas de hecho), art. 4.Seis (99 % donaciones grupos I-III) y art. 5 (tarifa); texto consolidado, última modificación 24-7-2025",
+    "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-10542-consolidado.pdf"
+   ],
+   [
+    "Medidas vigentes 2026 en Murcia: tarifa propia, coeficientes estatales, deducciones 99 %; sin reducción propia de vivienda habitual mortis causa",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Para 2026 la Región de Murcia no aprobó nuevas medidas en tributos cedidos",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Procedimiento P.2135 (modelo 650): tarifa, coeficientes estatales, reducción de vivienda habitual estatal (art. 20.2.c LISD) y deducción autonómica 99 %",
+    "https://sede.carm.es/documentos/2135/SUCESIONES%20Tarifa,%20patrimonio%20preexistente%20y%20beneficios%20fiscales.pdf"
+   ],
+   [
+    "Reducciones estatales por parentesco (15.956,87 €; +3.990,72 €/año <21, máx. 47.858,59 €; 7.993,46 €; grupo IV 0), vivienda habitual 95 % con límite 122.606,47 € y 10 años, tarifa 7,65-34 % y coeficientes 1 / 1,5882 / 2 (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Base imponible de inmuebles: valor de referencia del Catastro o el declarado si es mayor (art. 9.3 LISD); ajuar doméstico 3 % del caudal (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses desde el fallecimiento y prórroga de otros 6 solicitada en los 5 primeros meses, con intereses de demora (arts. 67 y 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargo por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento en 5 anualidades con garantía si no hay efectivo suficiente (art. 38 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plusvalía municipal mortis causa: declaración en 6 meses prorrogables hasta 1 año (art. 110.2.b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: en adquisiciones lucrativas el valor de adquisición es el que resulta de las normas del ISD, sin exceder el de mercado (art. 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": []
+ }
+]

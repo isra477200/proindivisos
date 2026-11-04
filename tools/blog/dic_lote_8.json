@@ -1,0 +1,167 @@
+[
+ {
+  "slug": "actos-de-disposicion",
+  "focus_kw": "actos de disposición",
+  "title_corto": "Actos de disposición",
+  "termino": "Actos de disposición",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué actos exigen unanimidad (art. 397 CC): vender el inmueble entero, hipotecarlo, alterar; diferencia con vender solo tu cuota (art. 399 CC).",
+  "lote": 8
+ },
+ {
+  "slug": "autoliquidacion",
+  "focus_kw": "autoliquidación",
+  "title_corto": "Autoliquidación",
+  "termino": "Autoliquidación",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es autoliquidar un impuesto (sucesiones, ITP, AJD), quién la presenta, plazos y diferencia con la liquidación que hace la Administración.",
+  "lote": 8
+ },
+ {
+  "slug": "capitulaciones-matrimoniales",
+  "focus_kw": "capitulaciones matrimoniales",
+  "title_corto": "Capitulaciones matrimoniales",
+  "termino": "Capitulaciones matrimoniales",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué son, para qué sirven (régimen de separación), cómo afectan a quién es dueño de un piso comprado en pareja y a su venta posterior.",
+  "lote": 8
+ },
+ {
+  "slug": "coheredero",
+  "focus_kw": "coheredero",
+  "title_corto": "Coheredero",
+  "termino": "Coheredero",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es un coheredero, sus derechos sobre la herencia indivisa, retracto de coherederos y cómo vender su derecho o su cuota.",
+  "lote": 8
+ },
+ {
+  "slug": "contrato-privado-de-compraventa",
+  "focus_kw": "contrato privado de compraventa",
+  "title_corto": "Contrato privado de compraventa",
+  "termino": "Contrato privado de compraventa",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, validez, por qué no basta para inscribir, riesgos al vender una cuota por documento privado y cuándo elevarlo a escritura pública.",
+  "lote": 8
+ },
+ {
+  "slug": "derecho-de-transmision",
+  "focus_kw": "derecho de transmisión",
+  "title_corto": "Derecho de transmisión",
+  "termino": "Derecho de transmisión",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es (art. 1006 CC, ius transmissionis): heredero que muere sin aceptar ni repudiar; sus herederos heredan su derecho; efecto en las cuotas y en el impuesto.",
+  "lote": 8
+ },
+ {
+  "slug": "division-horizontal",
+  "focus_kw": "división horizontal",
+  "title_corto": "División horizontal",
+  "termino": "División horizontal",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es dividir un edificio o casa en pisos independientes (propiedad horizontal), requisitos, coste y cómo puede acabar con un proindiviso entre hermanos.",
+  "lote": 8
+ },
+ {
+  "slug": "fideicomiso-de-residuo",
+  "focus_kw": "fideicomiso de residuo",
+  "title_corto": "Fideicomiso de residuo",
+  "termino": "Fideicomiso de residuo",
+  "letra": "F",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la sustitución fideicomisaria de residuo, quién puede vender los bienes y con qué límites; efecto en un piso heredado en proindiviso.",
+  "lote": 8
+ },
+ {
+  "slug": "hipoteca-inversa",
+  "focus_kw": "hipoteca inversa",
+  "title_corto": "Hipoteca inversa",
+  "termino": "Hipoteca inversa",
+  "letra": "H",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, requisitos (mayores de 65), cómo funciona sobre una vivienda en proindiviso y qué pasa con los herederos; alternativas como vender la nuda propiedad o la cuota.",
+  "lote": 8
+ },
+ {
+  "slug": "lanzamiento",
+  "focus_kw": "lanzamiento",
+  "title_corto": "Lanzamiento",
+  "termino": "Lanzamiento",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el lanzamiento en un desahucio o tras una subasta, quién lo ordena, plazos orientativos y qué supone para vender un inmueble ocupado.",
+  "lote": 8
+ },
+ {
+  "slug": "pacto-sucesorio",
+  "focus_kw": "pacto sucesorio",
+  "title_corto": "Pacto sucesorio",
+  "termino": "Pacto sucesorio",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, dónde se admite (Galicia, Cataluña, Aragón, Navarra, País Vasco, Baleares), tipos (apartación, definición) y efecto en quién acaba siendo dueño de un inmueble.",
+  "lote": 8
+ },
+ {
+  "slug": "renta-vitalicia",
+  "focus_kw": "renta vitalicia",
+  "title_corto": "Renta vitalicia",
+  "termino": "Renta vitalicia",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es vender un inmueble o una cuota a cambio de renta vitalicia, ventajas fiscales para mayores de 65 y comparación con vender al contado.",
+  "lote": 8
+ },
+ {
+  "slug": "subrogacion-hipotecaria",
+  "focus_kw": "subrogación hipotecaria",
+  "title_corto": "Subrogación hipotecaria",
+  "termino": "Subrogación hipotecaria",
+  "letra": "S",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es subrogarse en una hipoteca (cambio de deudor o de banco), cuando un copropietario se queda con el piso y asume la hipoteca entera.",
+  "lote": 8
+ },
+ {
+  "slug": "testamento-olografo",
+  "focus_kw": "testamento ológrafo",
+  "title_corto": "Testamento ológrafo",
+  "termino": "Testamento ológrafo",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, requisitos (escrito a mano, firmado y fechado), adveración y protocolización ante notario en 5 años; retrasa la venta del inmueble heredado.",
+  "lote": 8
+ },
+ {
+  "slug": "vecindad-civil",
+  "focus_kw": "vecindad civil",
+  "title_corto": "Vecindad civil",
+  "termino": "Vecindad civil",
+  "letra": "V",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cómo se adquiere y por qué determina qué ley de herencias se aplica (común, catalana, aragonesa, navarra, gallega, vasca, balear); efecto en las cuotas.",
+  "lote": 8
+ }
+]

@@ -1,0 +1,2292 @@
+[
+ {
+  "slug": "extincion-de-condominio-con-compensacion-economica",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Extinción de condominio",
+  "h1": "Extinción de condominio con compensación económica: cómo se calcula y qué impuestos lleva",
+  "sub": "En una extinción de condominio con compensación económica, un copropietario se queda el inmueble entero y paga en dinero a los demás el valor de sus cuotas. Te explicamos cómo se calcula esa compensación, qué impuestos paga cada parte y qué hacer si quien se queda la casa no tiene el dinero. Si prefieres no esperar, compramos tu cuota y te pagamos al contado en notaría.",
+  "checks": [
+   "Cálculo con ejemplos reales",
+   "Impuestos de cada parte",
+   "Compramos tu cuota si no hay acuerdo"
+  ],
+  "card_title": "¿No llegáis a un acuerdo sobre la compensación?",
+  "card_text": "Te damos precio por escrito por tu cuota en 48 horas. Sin depender de que el otro consiga el dinero.",
+  "sections": [
+   {
+    "overline": "Qué es",
+    "h2": "Qué es la compensación económica en una extinción de condominio",
+    "type": "text",
+    "intro": [
+     "La extinción de condominio es el acto por el que una comunidad de bienes sobre un inmueble desaparece porque uno de los copropietarios se adjudica el 100 %. Como el piso o la casa no se puede partir en trozos, el Código Civil permite que se adjudique a uno solo con la condición de que abone a los demás su parte en dinero. Es el artículo 1062, pensado para la herencia pero aplicado a cualquier comunidad por remisión del artículo 406. Ese dinero es la compensación económica, también llamada compensación en metálico.",
+     "Sin compensación no hay extinción de condominio equilibrada: habría un exceso de adjudicación gratuito, que Hacienda trata como donación. Por eso casi todas las extinciones entre hermanos, entre exparejas o entre socios llevan una cifra concreta que el adjudicatario paga a los que salen, y esa cifra tiene que constar en la escritura con su forma de pago.",
+     "La operación no es una compraventa. Nadie vende nada a nadie: se especifica un derecho que ya existía. Esa diferencia jurídica es la que explica por qué tributa por Actos Jurídicos Documentados y no por Transmisiones Patrimoniales, con un ahorro fiscal considerable que luego verás con cifras."
+    ]
+   },
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula la compensación económica paso a paso",
+    "type": "steps",
+    "intro": [
+     "El cálculo tiene cuatro pasos y conviene hacerlo por escrito antes de ir a la notaría. Los conflictos no suelen venir de la fórmula, sino del valor que se pone al inmueble y de las cargas que se restan."
+    ],
+    "items": [
+     {
+      "t": "Fijar el valor del inmueble",
+      "p": "Podéis pactar el valor libremente, pero no conviene bajar del valor de referencia de Catastro, porque es el mínimo que usa Hacienda para liquidar el AJD. Si hay desacuerdo, una tasación independiente de 250 a 450 euros zanja la discusión."
+     },
+     {
+      "t": "Restar las cargas que asume el adjudicatario",
+      "p": "Si hay hipoteca y quien se queda la casa asume toda la deuda, el capital pendiente se resta del valor antes de repartir. Lo mismo con derramas aprobadas o deudas de comunidad pendientes."
+     },
+     {
+      "t": "Aplicar la cuota de cada uno",
+      "p": "El valor neto se multiplica por el porcentaje de cada copropietario que sale. Dos hermanos al 50 % sobre un piso de 200.000 euros sin hipoteca: la compensación es de 100.000 euros."
+     },
+     {
+      "t": "Ajustar por gastos y pagos anteriores",
+      "p": "Es habitual descontar lo que uno pagó de más en IBI, comunidad o cuotas de hipoteca, o lo que invirtió en reformas. Todo esto se justifica con recibos y se refleja en la escritura para que nadie lo reclame después."
+     }
+    ],
+    "outro": [
+     "Un ejemplo completo. Piso valorado en 240.000 euros, hipoteca pendiente de 60.000, dos hermanos al 50 %. Valor neto: 180.000. Cuota de cada uno: 90.000. El hermano que se queda el piso asume los 60.000 de hipoteca y paga 90.000 al que sale. Si el que sale había adelantado 4.000 euros de derramas, la compensación sube a 94.000."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Qué impuestos lleva una extinción de condominio con compensación",
+    "type": "table",
+    "intro": [
+     "La ventaja fiscal de esta operación está en que, si el inmueble es indivisible y la compensación se paga en dinero, no tributa por ITP (del 6 % al 10 % según comunidad) sino por AJD, que va del 0,5 % al 1,5 %. Esta es la regla general que aplica Hacienda y que ha confirmado el Tribunal Supremo. Lo que paga cada parte, de forma orientativa para 2026:"
+    ],
+    "items": [
+     [
+      "Impuesto",
+      "Quién lo paga y cuánto"
+     ],
+     [
+      "AJD",
+      "Lo paga el adjudicatario. Tipo entre el 0,5 % y el 1,5 % según comunidad autónoma: 0,75 % en Madrid y Canarias, 1,2 % en Andalucía, 1,5 % en Cataluña, Comunidad Valenciana, Galicia, Castilla y León, Castilla-La Mancha, Aragón, Murcia, Cantabria y Extremadura, 1 % en La Rioja, 0,5 % en País Vasco y Navarra."
+     ],
+     [
+      "Base del AJD",
+      "Desde la doctrina del Tribunal Supremo de 2018, la base es el valor de la cuota que se adjudica, no el valor total del inmueble. Si te quedas el 50 % que no tenías sobre un piso de 200.000 euros, la base es 100.000, no 200.000."
+     ],
+     [
+      "IRPF del que sale",
+      "Quien cobra la compensación puede tener ganancia patrimonial si cobra más de lo que le costó su cuota actualizada. Es la doctrina del Supremo de 2022. Si cobra lo mismo que valía cuando la adquirió, no hay ganancia."
+     ],
+     [
+      "Plusvalía municipal",
+      "No se devenga en una extinción de condominio pura con compensación en dinero. El ayuntamiento no puede cobrarla al que sale ni al que se queda."
+     ],
+     [
+      "ITP",
+      "No se aplica si el bien es indivisible y la compensación es en metálico. Si se compensa con otro inmueble o la operación esconde una compraventa, Hacienda puede exigir ITP."
+     ]
+    ],
+    "outro": [
+     "Con el ejemplo anterior, en Madrid: AJD del 0,75 % sobre 90.000 euros de cuota adjudicada son 675 euros. La misma operación en Valencia: 1,5 % sobre 90.000, 1.350 euros. Si se hubiera hecho como compraventa, el ITP habrían sido entre 5.400 y 9.000 euros. En nuestra guía sobre impuestos y notario en la extinción de condominio tienes el desglose por comunidad."
+    ]
+   },
+   {
+    "overline": "El problema real",
+    "h2": "Qué pasa cuando quien se queda la casa no tiene el dinero",
+    "type": "cards",
+    "intro": [
+     "La mayoría de las extinciones que no se firman no fallan por los impuestos, sino porque el adjudicatario no consigue reunir la compensación. Estas son las salidas que vemos cada semana."
+    ],
+    "items": [
+     {
+      "t": "Hipoteca nueva o ampliación",
+      "p": "El adjudicatario pide un préstamo que cubra la compensación y, si la hay, la hipoteca anterior. El banco estudia su solvencia en solitario. Si antes pagaban dos y ahora paga uno, muchas solicitudes se deniegan.",
+      "url": "/extincion-de-condominio/hipoteca/",
+      "cta": "Extinción con hipoteca →"
+     },
+     {
+      "t": "Pago aplazado en la escritura",
+      "p": "Se puede pactar que parte de la compensación se pague a plazos. Es legal, pero el que sale queda como acreedor de un familiar durante años, sin garantía real salvo que se inscriba una condición resolutoria."
+     },
+     {
+      "t": "Compensación con otros bienes",
+      "p": "Si hay más inmuebles en la herencia, se pueden formar lotes para que cada uno se quede uno. Cuando los lotes no son equivalentes, la diferencia se paga en dinero y puede tributar por ITP."
+     },
+     {
+      "t": "Vender tu cuota a un tercero",
+      "p": "Si el otro no tiene el dinero y tú no quieres esperar, puedes vender tu parte sin su permiso. Compramos cuotas indivisas con fondos propios y pagamos al contado en notaría.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte →"
+     }
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores frecuentes en el cálculo y en la escritura",
+    "type": "list",
+    "items": [
+     "<strong>Poner un valor muy bajo para pagar menos AJD.</strong> Hacienda compara con el valor de referencia de Catastro y liquida la diferencia con intereses. El ahorro es mínimo y el riesgo, alto.",
+     "<strong>No restar la hipoteca.</strong> Si el que se queda asume toda la deuda, esa deuda forma parte de lo que paga. Olvidarla infla la compensación en metálico.",
+     "<strong>Pagar en efectivo sin reflejarlo.</strong> El pago debe quedar identificado en la escritura con el medio: transferencia, cheque bancario o subrogación. Un pago no acreditado se puede tratar como donación.",
+     "<strong>Confundir compensación con precio de mercado de la cuota.</strong> En una extinción se paga el valor proporcional. En una venta a un tercero se paga menos, porque el comprador adquiere un bien compartido. Son operaciones distintas con lógicas distintas.",
+     "<strong>Olvidar el IRPF del que sale.</strong> Si la cuota se heredó hace veinte años por 40.000 euros y hoy se compensa con 100.000, hay ganancia de 60.000 que tributa en la renta del año siguiente."
+    ]
+   },
+   {
+    "overline": "Entre hermanos",
+    "h2": "Extinción de condominio entre hermanos con compensación económica",
+    "intro": [
+     "Es el caso más habitual: dos o tres hermanos heredan el piso de los padres y uno quiere quedárselo. La compensación se calcula igual, pero suelen aparecer tres complicaciones. La primera, el valor sentimental, que empuja a poner cifras por encima o por debajo del mercado según quién hable. La segunda, los pagos anteriores: el hermano que cuidó de los padres o pagó el IBI durante años reclama que se le reconozca. La tercera, que la herencia no esté inscrita, lo que obliga a hacer primero la adjudicación hereditaria y después la extinción, con dos escrituras y dos liquidaciones.",
+     "Cuando uno de los hermanos no tiene liquidez y los demás no quieren esperar, la extinción se bloquea durante meses. En nuestra guía sobre extinción de condominio entre hermanos explicamos cómo desatascarla. Y si lo que quieres es cerrar el tema, compramos tu parte de la herencia sin que tus hermanos tengan que firmar nada."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Si la compensación no llega, te compramos la cuota",
+     "p": "Dinos la dirección del inmueble, tu porcentaje y si hay hipoteca. Te damos precio por escrito en 48 horas, sin compromiso y sin exclusividad.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Quién paga la compensación económica en una extinción de condominio?",
+    "El copropietario que se adjudica el inmueble entero. Paga a cada uno de los que salen el valor de su cuota, calculado sobre el valor pactado menos las cargas que asume."
+   ],
+   [
+    "¿La compensación económica tributa en el IRPF?",
+    "Puede tributar para quien la cobra si la cantidad recibida supera el valor de adquisición actualizado de su cuota. Si cobra lo mismo que valía cuando la adquirió, no hay ganancia patrimonial. Es la doctrina del Tribunal Supremo desde 2022."
+   ],
+   [
+    "¿Se puede pagar la compensación a plazos?",
+    "Sí. Se pacta en la escritura con calendario de pagos. Conviene añadir una condición resolutoria inscrita en el Registro para que, si el adjudicatario no paga, el que salió pueda recuperar su cuota."
+   ],
+   [
+    "¿Qué pasa si el valor que ponemos es inferior al valor de referencia de Catastro?",
+    "Hacienda liquidará el AJD sobre el valor de referencia y puede exigir la diferencia con intereses de demora. Lo prudente es usar el valor de referencia como mínimo."
+   ],
+   [
+    "¿Cuánto cuesta en total una extinción de condominio con compensación?",
+    "Para una cuota de 100.000 euros: entre 500 y 1.500 euros de AJD según comunidad, entre 600 y 900 euros de notaría, 300 a 500 de registro y gestoría opcional. En total, entre 1.500 y 3.000 euros orientativos, más la propia compensación."
+   ],
+   [
+    "¿Y si el otro copropietario no tiene el dinero para compensarme?",
+    "Puedes esperar a que consiga hipoteca, aceptar un pago aplazado o vender tu cuota a un tercero. Nosotros compramos tu parte con fondos propios y te pagamos al contado en notaría en dos a cuatro semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la compensación económica",
+  "related": [
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notario en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Extinción sin compensación económica",
+    "/blog/extincion-de-condominio-sin-compensacion-economica/"
+   ],
+   [
+    "Ejemplo con cifras",
+    "/blog/ejemplo-de-extincion-de-condominio-con-cifras/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ]
+  ],
+  "cta_title": "Cobra tu parte sin esperar a que el otro consiga el dinero",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Extinción de condominio con compensación económica: cálculo",
+  "meta_desc": "Cómo se calcula la compensación económica en una extinción de condominio, qué AJD e IRPF lleva y qué hacer si el otro no tiene dinero. Compramos tu cuota.",
+  "focus_kw": "extinción de condominio con compensación económica",
+  "title_corto": "Extinción con compensación"
+ },
+ {
+  "slug": "extincion-de-condominio-sin-compensacion-economica",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Fiscalidad",
+  "h1": "Extinción de condominio sin compensación económica: cuándo es posible y qué dice Hacienda",
+  "sub": "Una extinción de condominio sin compensación económica es legal, pero Hacienda la trata como una donación de la cuota y cobra el Impuesto de Sucesiones y Donaciones al que se queda el inmueble. Te contamos cuándo tiene sentido, cuánto cuesta según la comunidad y qué alternativas hay. Si lo que quieres es cobrar por tu parte, te la compramos al contado.",
+  "checks": [
+   "Donación encubierta explicada",
+   "Cifras por comunidad",
+   "Alternativa: cobrar por tu cuota"
+  ],
+  "card_title": "¿Prefieres cobrar por tu parte?",
+  "card_text": "Antes de regalar tu cuota, pide precio. Te decimos por escrito cuánto pagamos en 48 horas.",
+  "sections": [
+   {
+    "overline": "Respuesta corta",
+    "h2": "Se puede hacer una extinción de condominio sin compensación",
+    "type": "text",
+    "intro": [
+     "Sí, se puede. Nada impide que un copropietario se adjudique el inmueble entero y los demás renuncien a cobrar su parte. Lo que no se puede evitar es la consecuencia fiscal: el exceso de adjudicación que no se paga es gratuito, y lo gratuito tributa por el Impuesto de Sucesiones y Donaciones. Para Hacienda, el que sale ha donado su cuota al que se queda, aunque la escritura se titule extinción de condominio.",
+     "Esto cambia por completo la factura. Una extinción con compensación en dinero paga AJD, entre el 0,5 % y el 1,5 % del valor de la cuota. Una extinción sin compensación paga Donaciones, cuyo tipo general va del 7,65 % al 34 % en la escala estatal, con bonificaciones que dependen de la comunidad autónoma y del parentesco. Entre hermanos las bonificaciones son escasas en casi todas las comunidades. Entre padres e hijos, en cambio, hay comunidades donde el impuesto queda casi a cero.",
+     "La segunda consecuencia es que no se trata de una extinción de condominio a efectos fiscales, así que tampoco se aplica la exención de la plusvalía municipal: el ayuntamiento puede liquidar el impuesto al que recibe la cuota como en cualquier donación."
+    ]
+   },
+   {
+    "overline": "Cuándo pasa",
+    "h2": "Situaciones en las que se plantea renunciar a la compensación",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Padres que ceden su parte a un hijo",
+      "p": "Padre e hijo compraron juntos y el padre quiere dejarle el piso en vida. Es el caso en que menos duele: en Madrid, Andalucía, Murcia o Canarias la donación entre padres e hijos está bonificada en gran parte y el coste real es bajo."
+     },
+     {
+      "t": "Hermanos que quieren compensar cuidados",
+      "p": "Un hermano se ocupó de los padres durante años y los demás quieren que se quede el piso sin pagar. La intención es buena, pero entre hermanos el impuesto de donaciones es alto en casi toda España. Conviene hacer números antes."
+     },
+     {
+      "t": "Exparejas con deudas cruzadas",
+      "p": "Uno se queda la vivienda y asume la hipoteca completa. Si la deuda asumida equivale al valor de la cuota, hay compensación aunque no circule dinero: la asunción de deuda cuenta como pago.",
+      "url": "/extincion-de-condominio/hipoteca/",
+      "cta": "Extinción con hipoteca →"
+     },
+     {
+      "t": "Cuota de valor muy bajo",
+      "p": "Un garaje o un terreno rústico de poco valor donde la compensación sería de unos cientos de euros. A veces compensa la donación por sencillez, pero hay que liquidarla igual."
+     }
+    ]
+   },
+   {
+    "overline": "Hacienda",
+    "h2": "Cómo trata Hacienda una extinción sin compensación: la donación encubierta",
+    "type": "text",
+    "intro": [
+     "La Administración tributaria mira la sustancia, no el título de la escritura. Si en una extinción de condominio uno recibe más de lo que le correspondía y no paga la diferencia, ese exceso es una adquisición lucrativa. La Dirección General de Tributos y los tribunales económico-administrativos lo califican de forma constante como donación, y así se liquida: el adjudicatario presenta el modelo 651 en la comunidad autónoma donde está el inmueble, en el plazo de 30 días hábiles desde la escritura.",
+     "El problema añadido es la comprobación. Si la escritura declara una compensación que en realidad no se ha pagado, Hacienda puede exigir el justificante del pago. Una transferencia inexistente, un cheque que no se cobró o un pago en efectivo sin rastro convierten la operación en una donación encubierta, con el impuesto de donaciones más intereses y una sanción que puede ir del 50 % al 150 % de la cuota dejada de ingresar. Lo barato sale caro.",
+     "Hay una tercera vía que a veces se confunde con la extinción sin compensación: la renuncia a la herencia. Si un heredero renuncia pura y simplemente antes de aceptar, su parte acrece a los demás sin que haya donación. Pero esto solo funciona antes de aceptar la herencia y de inscribir las cuotas. Una vez que eres copropietario, cualquier cesión gratuita es donación."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Cuánto se paga con y sin compensación: ejemplo con cifras",
+    "type": "table",
+    "intro": [
+     "Dos hermanos, piso heredado valorado en 200.000 euros, sin hipoteca, uno se queda el 100 %. La cuota que recibe vale 100.000 euros. Cifras orientativas para 2026, sin contar notaría ni registro."
+    ],
+    "items": [
+     [
+      "Comunidad",
+      "Con compensación (AJD sobre 100.000) frente a sin compensación (Donaciones entre hermanos, aprox.)"
+     ],
+     [
+      "Madrid",
+      "Con compensación: 750 euros (0,75 %). Sin compensación: alrededor de 12.000 euros. La bonificación entre hermanos es del 25 %, no del 99 %."
+     ],
+     [
+      "Cataluña",
+      "Con compensación: 1.500 euros (1,5 %). Sin compensación: entre 12.000 y 15.000 euros según la escala catalana y el coeficiente por patrimonio previo."
+     ],
+     [
+      "Comunidad Valenciana",
+      "Con compensación: 1.500 euros (1,5 %). Sin compensación: alrededor de 13.000 euros. Las bonificaciones valencianas del 99 % son para padres, hijos y cónyuges, no para hermanos."
+     ],
+     [
+      "Andalucía",
+      "Con compensación: 1.200 euros (1,2 %). Sin compensación: entre 10.000 y 13.000 euros. La bonificación andaluza del 99 % también excluye a hermanos."
+     ],
+     [
+      "Galicia",
+      "Con compensación: 1.500 euros (1,5 %). Sin compensación: alrededor de 13.000 euros entre hermanos."
+     ]
+    ],
+    "outro": [
+     "En una extinción con compensación entre hermanos se pagan cientos de euros; sin compensación, miles. Entre padres e hijos las cifras de donaciones bajan mucho en las comunidades con bonificación del 99 %, y es ahí donde la donación puede tener sentido. Consulta siempre tu caso con la normativa vigente de tu comunidad, porque las bonificaciones cambian con cada presupuesto autonómico."
+    ]
+   },
+   {
+    "overline": "Alternativas",
+    "h2": "Qué hacer si uno no quiere o no puede pagar la compensación",
+    "type": "list",
+    "items": [
+     "<strong>Compensación mediante asunción de deuda.</strong> Si hay hipoteca, quien se queda asume toda la deuda y eso cuenta como pago. Si la deuda cubre el valor de la cuota del que sale, no hay exceso gratuito.",
+     "<strong>Compensación aplazada.</strong> Se fija la cifra y un calendario de pago en la escritura. Tributa por AJD como cualquier extinción. Conviene garantizarla con condición resolutoria inscrita.",
+     "<strong>Compensación parcial más donación del resto.</strong> Si el adjudicatario solo puede pagar la mitad, se declara esa mitad como compensación y el resto como donación. Tributa cada parte por su impuesto. Es transparente y evita sanciones.",
+     "<strong>Donación entre padres e hijos.</strong> Cuando el que cede es el padre o la madre, la donación bonificada suele salir más barata que cualquier otra fórmula en muchas comunidades. Hay que hacerla en escritura pública y liquidar en plazo.",
+     "<strong>Vender la cuota a un tercero.</strong> Si el que sale quiere cobrar y el otro no tiene dinero, puede vender su parte sin permiso de nadie. Nosotros compramos cuotas indivisas y pagamos al contado en notaría."
+    ]
+   },
+   {
+    "overline": "Entre hermanos",
+    "h2": "Extinción de condominio entre hermanos sin compensación: lo que casi nadie cuenta",
+    "intro": [
+     "Es la búsqueda más repetida y la que más disgustos da. Muchas familias llegan a la notaría convencidas de que, como son hermanos y hay buena relación, pueden firmar una extinción en la que uno se queda el piso sin pagar nada y todo queda en casa. El notario advertirá de la tributación, pero firma igual si las partes insisten. Meses después llega la liquidación de donaciones de la comunidad autónoma y el hermano que se quedó la casa tiene que pagar una cantidad que nadie había previsto.",
+     "Si la idea de fondo es que un hermano se quede el piso y los demás no cobren, la fórmula menos gravosa suele ser una compensación real aunque sea baja, pagada de verdad, por AJD, y no una renuncia total. Y si lo que pasa es que los hermanos que salen sí quieren cobrar pero el que se queda no puede pagar, no hace falta regalar nada: en nuestra guía sobre extinción de condominio entre hermanos tienes las opciones, y la más rápida es vendernos la cuota."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "No regales tu cuota: cóbrala",
+     "p": "Compramos tu parte del piso heredado con fondos propios. Precio por escrito en 48 horas, firma en 2-4 semanas y gastos de notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es legal hacer una extinción de condominio sin pagar nada al otro?",
+    "Sí, es legal. Pero fiscalmente se trata como una donación de la cuota, y el adjudicatario paga el Impuesto de Sucesiones y Donaciones de su comunidad autónoma en lugar del AJD."
+   ],
+   [
+    "¿Cuánto se paga de donaciones entre hermanos por una cuota de 100.000 euros?",
+    "De forma orientativa, entre 10.000 y 15.000 euros en la mayoría de comunidades, porque las bonificaciones del 99 % se reservan a padres, hijos y cónyuges. Consulta la normativa vigente de tu comunidad antes de firmar."
+   ],
+   [
+    "¿Y si ponemos una compensación en la escritura pero no la pagamos?",
+    "Es una donación encubierta. Si Hacienda comprueba que el pago no existió, liquida el impuesto de donaciones con intereses y puede sancionar. No lo recomendamos nunca."
+   ],
+   [
+    "¿Asumir la hipoteca cuenta como compensación?",
+    "Sí. Si quien se queda la vivienda asume la parte de hipoteca del que sale, esa deuda asumida es una compensación. Si cubre el valor de la cuota, no hay exceso gratuito."
+   ],
+   [
+    "¿Se paga plusvalía municipal en una extinción sin compensación?",
+    "Al tratarse como donación, el ayuntamiento puede liquidar la plusvalía al que recibe la cuota. En una extinción con compensación en dinero no se devenga."
+   ],
+   [
+    "¿Qué pasa si no quiero regalar mi parte pero mi hermano no puede pagarme?",
+    "Puedes venderla a un tercero sin que tu hermano tenga que estar de acuerdo. Compramos tu cuota, te hacemos oferta por escrito en 48 horas y pagamos al contado en notaría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la extinción sin compensación",
+  "related": [
+   [
+    "Extinción de condominio entre hermanos",
+    "/extincion-de-condominio/entre-hermanos/"
+   ],
+   [
+    "Impuestos y notario",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Extinción con compensación económica",
+    "/blog/extincion-de-condominio-con-compensacion-economica/"
+   ],
+   [
+    "Vender tu parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ]
+  ],
+  "cta_title": "Tu cuota vale dinero: te la compramos",
+  "cta_text": "Antes de ceder tu parte gratis, pide precio. Compramos cuotas indivisas en toda España con fondos propios y pago al contado en notaría.",
+  "yoast_title": "Extinción de condominio sin compensación económica: Hacienda",
+  "meta_desc": "La extinción de condominio sin compensación económica tributa como donación. Cuándo tiene sentido, cuánto cuesta por comunidad y cómo cobrar por tu cuota.",
+  "focus_kw": "extinción de condominio sin compensación económica",
+  "title_corto": "Extinción sin compensación"
+ },
+ {
+  "slug": "escritura-de-extincion-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Notaría",
+  "h1": "Escritura de extinción de condominio: qué contiene, documentos y quién firma",
+  "sub": "La escritura de extinción de condominio es el documento notarial en el que los copropietarios acuerdan que uno se quede el inmueble entero y los demás reciban su compensación. Te explicamos cláusula a cláusula qué lleva, qué papeles pedirá el notario y quién tiene que ir a firmar. Si uno de los copropietarios no quiere firmar, compramos tu cuota y resolvemos el bloqueo.",
+  "checks": [
+   "Cláusula a cláusula",
+   "Lista de documentos completa",
+   "Salida si alguien no firma"
+  ],
+  "card_title": "¿Alguien se niega a firmar la escritura?",
+  "card_text": "No necesitas su firma para vender tu cuota. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Documentos",
+    "h2": "Documentos necesarios para la escritura de extinción de condominio",
+    "type": "list",
+    "intro": [
+     "El notario necesita acreditar quién es dueño de qué, cuánto vale, qué cargas tiene y cómo se va a pagar la compensación. Esta es la lista que te pedirá la notaría o la gestoría antes de fijar fecha. Si falta algo, la firma se retrasa semanas."
+    ],
+    "items": [
+     "<strong>DNI o NIE en vigor</strong> de todos los copropietarios. Si alguno es extranjero sin NIE, hay que obtenerlo antes.",
+     "<strong>Título de propiedad:</strong> la escritura de compra, la de adjudicación de herencia o la sentencia de divorcio con la liquidación de gananciales. Si la herencia no está inscrita, primero hay que hacer la adjudicación hereditaria.",
+     "<strong>Nota simple reciente</strong> del Registro de la Propiedad. La pide el propio notario, pero conviene llevar una para detectar cargas o embargos que nadie recordaba.",
+     "<strong>Último recibo del IBI</strong> y referencia catastral. Sirve para identificar la finca y para que el notario compruebe el valor de referencia.",
+     "<strong>Certificado de la comunidad de propietarios</strong> de estar al corriente de pago, firmado por el administrador o el presidente. Obligatorio salvo que el adjudicatario renuncie expresamente a exigirlo.",
+     "<strong>Certificado de deuda pendiente del banco</strong> si hay hipoteca, y la autorización de la entidad si el que sale va a dejar de ser deudor.",
+     "<strong>Certificado de eficiencia energética</strong> en vigor. Se exige en transmisiones de vivienda y muchos notarios lo piden también en extinciones.",
+     "<strong>Justificante del medio de pago</strong> de la compensación: transferencia, cheque bancario o documento de asunción de deuda. El notario lo incorpora a la escritura.",
+     "<strong>Tasación o valoración</strong> si el valor pactado difiere mucho del valor de referencia, para justificarlo ante Hacienda."
+    ]
+   },
+   {
+    "overline": "Contenido",
+    "h2": "Qué contiene una escritura de extinción de condominio cláusula a cláusula",
+    "type": "steps",
+    "intro": [
+     "Las escrituras de extinción tienen una estructura muy parecida en toda España. No copies un modelo de internet: el notario redacta el suyo con los datos de tu caso. Lo que sí te ayuda es saber qué va en cada parte para revisar el borrador antes de firmar."
+    ],
+    "items": [
+     {
+      "t": "Comparecencia",
+      "p": "Identifica a todos los copropietarios con nombre, DNI, estado civil, régimen económico matrimonial y domicilio. Si alguien actúa con poder, se reseña el poder. Si el adjudicatario casado en gananciales paga con dinero ganancial, se hace constar."
+     },
+     {
+      "t": "Exposición: descripción de la finca y título",
+      "p": "Describe el inmueble como consta en el Registro: dirección, superficie, linderos, cuota de participación en la comunidad, referencia catastral, datos registrales. A continuación explica cómo adquirió cada uno su cuota y en qué proporción."
+     },
+     {
+      "t": "Exposición: cargas y situación",
+      "p": "Declara si la finca está libre de cargas o tiene hipoteca, con el capital pendiente. Declara si está arrendada u ocupada, y si está al corriente de la comunidad y del IBI."
+     },
+     {
+      "t": "Estipulación de extinción y adjudicación",
+      "p": "Es el núcleo. Los comuneros manifiestan que el bien es indivisible o que desmerece mucho por su división, acuerdan extinguir la comunidad y adjudican el pleno dominio del 100 % a uno de ellos, al amparo de los artículos 400, 404 y 1062 del Código Civil."
+     },
+     {
+      "t": "Valoración y compensación",
+      "p": "Fija el valor del inmueble, el valor de cada cuota y la compensación que el adjudicatario paga a cada uno de los que salen. Especifica el medio de pago con número de cuenta o cheque, o la asunción de la hipoteca como pago. Si hay aplazamiento, el calendario y las garantías."
+     },
+     {
+      "t": "Manifestaciones fiscales y cierre",
+      "p": "El notario advierte del AJD, de la plusvalía municipal y de la ganancia en IRPF, indica quién asume los gastos notariales, registrales y de gestoría, y solicita la inscripción en el Registro. Termina con la lectura y las firmas."
+     }
+    ]
+   },
+   {
+    "overline": "Firmantes",
+    "h2": "Quién tiene que firmar la escritura y qué pasa si alguien no puede ir",
+    "type": "text",
+    "intro": [
+     "Firman todos los copropietarios sin excepción, porque la extinción es un acto de disposición que exige unanimidad. No vale la mayoría de cuotas: si uno de cinco hermanos no firma, no hay extinción. Firman también los cónyuges de los copropietarios casados en gananciales cuando la cuota tiene ese carácter, y el representante del banco si la hipoteca se nova o se libera a uno de los deudores en el mismo acto.",
+     "Si alguien vive lejos o está enfermo, puede otorgar un poder notarial especial a otra persona para que firme en su nombre. El poder se hace ante cualquier notario, incluso en el extranjero ante el cónsul, y cuesta entre 40 y 80 euros. Si un copropietario es menor o está incapacitado, firma su representante legal y, cuando hay compensación, suele hacer falta autorización judicial previa. Si uno de los comuneros ha fallecido, sus herederos tienen que aceptar la herencia e inscribirse antes de poder firmar.",
+     "Lo que no existe es la extinción forzosa por escritura. Si un copropietario se niega, el camino es la acción de división de cosa común en el juzgado, que tarda de uno a tres años y suele acabar en subasta. O la otra salida: cada copropietario puede vender su cuota a un tercero sin pedir permiso a nadie, según el artículo 399 del Código Civil."
+    ]
+   },
+   {
+    "overline": "Tras la firma",
+    "h2": "Qué se hace con la escritura después de firmar",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Liquidar el AJD en 30 días hábiles",
+      "p": "El adjudicatario presenta el modelo 600 en la comunidad autónoma y paga entre el 0,5 % y el 1,5 % del valor de la cuota adjudicada. Sin el justificante de pago, el Registro no inscribe.",
+      "url": "/extincion-de-condominio/impuestos-y-notario/",
+      "cta": "Impuestos y notario →"
+     },
+     {
+      "t": "Comunicar al ayuntamiento",
+      "p": "Aunque la extinción pura no devenga plusvalía municipal, muchos ayuntamientos exigen una declaración en 30 días para dejar constancia de la no sujeción. Evita requerimientos posteriores."
+     },
+     {
+      "t": "Inscribir en el Registro de la Propiedad",
+      "p": "La copia autorizada se presenta en el Registro con el impuesto liquidado. La inscripción tarda de dos a cuatro semanas y cuesta entre 150 y 400 euros según el valor. A partir de ahí, el adjudicatario consta como único dueño."
+     },
+     {
+      "t": "Avisar al banco, a la comunidad y a Catastro",
+      "p": "El banco actualiza los titulares del préstamo si hubo novación. La comunidad de propietarios cambia el titular de los recibos. Catastro se actualiza de oficio con la comunicación del notario, pero conviene comprobarlo."
+     }
+    ]
+   },
+   {
+    "overline": "Coste",
+    "h2": "Cuánto cuesta la escritura de extinción de condominio",
+    "type": "table",
+    "intro": [
+     "La escritura se paga por arancel notarial, que es el mismo en toda España y depende del valor declarado. Cifras orientativas para 2026 sobre una extinción con compensación, sin contar impuestos."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Importe orientativo"
+     ],
+     [
+      "Honorarios del notario",
+      "Entre 500 y 900 euros para valores entre 100.000 y 300.000 euros. Incluye folios, copias autorizadas y una copia simple."
+     ],
+     [
+      "Registro de la Propiedad",
+      "Entre 150 y 400 euros según el valor de la cuota adjudicada."
+     ],
+     [
+      "Gestoría",
+      "Entre 250 y 400 euros si se encarga la liquidación de impuestos y la inscripción. Es opcional: puedes hacerlo tú."
+     ],
+     [
+      "Poder notarial, si hace falta",
+      "Entre 40 y 80 euros por cada poder."
+     ],
+     [
+      "Nota simple y certificados",
+      "Entre 10 y 50 euros en total."
+     ]
+    ],
+    "outro": [
+     "Los gastos los paga, por costumbre y salvo pacto en contra, el adjudicatario, que es quien se beneficia de la inscripción. En la escritura puede pactarse otro reparto. Tienes el detalle del arancel por tramos en nuestra entrada sobre cuánto cobra el notario por una extinción de condominio."
+    ]
+   },
+   {
+    "overline": "Bloqueo",
+    "h2": "Si no se consigue firmar la escritura, vende tu cuota",
+    "intro": [
+     "Hay escrituras que no llegan a firmarse nunca: un hermano que no responde, una expareja que no consigue la hipoteca, un copropietario que pide una compensación imposible. Mientras tanto, el piso sigue generando IBI, comunidad y discusiones. Tú no estás obligado a esperar. Compramos tu cuota indivisa con fondos propios, sin que los demás tengan que firmar nada, y nos encargamos de la escritura de venta y de sus gastos."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Firma en notaría en 2-4 semanas, sin depender de nadie",
+     "p": "Dinos la dirección del inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso y sin exclusividad.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Hace falta notario para una extinción de condominio?",
+    "Sí si quieres inscribirla en el Registro de la Propiedad, que es lo normal con inmuebles. Un documento privado vale entre las partes, pero no inscribe ni sirve al banco para cambiar la titularidad de la hipoteca."
+   ],
+   [
+    "¿Pueden firmar la escritura solo algunos copropietarios?",
+    "No. La extinción exige la firma de todos. Quien no pueda acudir puede dar un poder notarial a otra persona para que firme en su nombre."
+   ],
+   [
+    "¿Cuánto tarda el notario en preparar la escritura de extinción de condominio?",
+    "Con toda la documentación entregada, entre una y dos semanas. Si hay hipoteca y el banco tiene que autorizar la novación, el plazo suele irse a uno o dos meses."
+   ],
+   [
+    "¿Se puede hacer la extinción de condominio en la misma escritura que la herencia?",
+    "Sí. Es frecuente otorgar la aceptación y adjudicación de herencia y, en el mismo documento, adjudicar el inmueble a un solo heredero con compensación al resto. Tributa cada parte por su impuesto: Sucesiones y AJD."
+   ],
+   [
+    "¿Quién paga la escritura de extinción de condominio?",
+    "Salvo pacto en contra, el adjudicatario, que es quien se queda el inmueble y necesita la inscripción. Puede pactarse en la escritura un reparto distinto."
+   ],
+   [
+    "¿Qué pasa si un copropietario se niega a firmar?",
+    "No puede obligársele por escritura. Las opciones son la acción judicial de división de cosa común o que cada copropietario venda su cuota a un tercero. Nosotros compramos cuotas sin necesidad de que los demás firmen."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la escritura",
+  "related": [
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto cobra el notario",
+    "/blog/cuanto-cobra-el-notario-extincion-de-condominio/"
+   ],
+   [
+    "Qué valor poner a la vivienda",
+    "/blog/valor-de-la-vivienda-en-la-extincion-de-condominio/"
+   ],
+   [
+    "División de cosa común",
+    "/division-de-cosa-comun/"
+   ],
+   [
+    "Vender un proindiviso sin avisar",
+    "/vender-proindiviso-sin-avisar/"
+   ]
+  ],
+  "cta_title": "Si la escritura no sale, vende tu parte",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Escritura de extinción de condominio: contenido y documentos",
+  "meta_desc": "Qué contiene la escritura de extinción de condominio, qué documentos pide el notario, quién firma y cuánto cuesta. Si alguien no firma, compramos tu cuota.",
+  "focus_kw": "escritura de extinción de condominio",
+  "title_corto": "Escritura de extinción"
+ },
+ {
+  "slug": "extincion-parcial-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Casos especiales",
+  "h1": "Extinción parcial de condominio: cuando sale solo uno de los copropietarios",
+  "sub": "La extinción parcial de condominio es la operación en la que uno de varios copropietarios sale de la comunidad a cambio de una compensación y los demás siguen siendo dueños. Es legal, pero su fiscalidad ha sido discutida durante años entre Hacienda y los tribunales. Te explicamos el criterio actual, cuándo tributa por AJD y cuándo por ITP, y la alternativa directa: vendernos tu cuota.",
+  "checks": [
+   "Criterio fiscal actualizado",
+   "AJD o ITP explicado con cifras",
+   "Alternativa sin acuerdo"
+  ],
+  "card_title": "¿Quieres salir tú y que los demás sigan?",
+  "card_text": "Compramos tu cuota aunque los demás copropietarios no quieran comprarla. Precio en 48 horas.",
+  "sections": [
+   {
+    "overline": "Concepto",
+    "h2": "Qué es una extinción parcial de condominio",
+    "type": "text",
+    "intro": [
+     "En una extinción total, la comunidad desaparece porque un solo copropietario se queda el inmueble. En una extinción parcial, la comunidad sigue existiendo pero con menos miembros: uno de los comuneros transmite su cuota a los demás, que se la reparten en proporción a lo que ya tenían, y recibe a cambio una compensación en dinero. Tres hermanos al 33 % pasan a ser dos al 50 %. Cuatro socios al 25 % pasan a ser tres al 33 %.",
+     "También se llama extinción parcial a la salida de un comunero cuando los que quedan no se reparten su cuota por igual, o cuando la comunidad tiene varios inmuebles y se extingue sobre uno de ellos pero no sobre los demás. Cada una de estas variantes tiene matices fiscales distintos, y de ahí vienen los problemas.",
+     "El Código Civil no regula la extinción parcial como figura propia. Se apoya en los artículos 392 a 406 sobre la comunidad de bienes, en el 399 que permite a cada comunero disponer de su cuota, y en el 1062 sobre la adjudicación a uno con compensación a los demás. Jurídicamente no hay duda de que se puede hacer. La discusión es solo tributaria."
+    ]
+   },
+   {
+    "overline": "Fiscalidad",
+    "h2": "AJD o ITP: la discusión sobre la extinción parcial",
+    "type": "text",
+    "intro": [
+     "Durante años, la Dirección General de Tributos sostuvo que la extinción parcial no era una verdadera disolución de comunidad, sino una compraventa de cuota entre comuneros. Con ese criterio, los que se quedaban la parte del que salía tenían que pagar ITP, entre el 6 % y el 10 % según comunidad, sobre el valor de la cuota adquirida. Muchas liquidaciones autonómicas siguieron esa línea y hubo recursos en todos los tribunales económico-administrativos.",
+     "El Tribunal Supremo ha ido fijando doctrina en varias sentencias desde 2019 y, hoy, el criterio mayoritario es que cuando un comunero sale de la comunidad, el bien es indivisible y los que quedan le compensan en dinero en proporción a sus cuotas, la operación no está sujeta a ITP y tributa por AJD. El razonamiento es que no hay una transmisión patrimonial, sino una especificación de derechos amparada en el artículo 1062, y que el 1062 no exige que la comunidad quede reducida a un solo dueño.",
+     "Dicho esto, la prudencia obliga a avisar de tres cosas. Primera: la doctrina favorable exige que la compensación sea en dinero y proporcional; si los que quedan se reparten la cuota de forma desigual o compensan con otro bien, Hacienda puede exigir ITP. Segunda: algunas oficinas liquidadoras siguen girando ITP y hay que recurrir, lo que supone tiempo y abogado. Tercera: el criterio puede matizarse en sentencias futuras. Consulta tu caso con un asesor fiscal antes de firmar."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Cuánto cambia la factura según el impuesto que se aplique",
+    "type": "table",
+    "intro": [
+     "Tres hermanos al 33 % sobre un piso de 240.000 euros. Uno sale y los otros dos le pagan 40.000 euros cada uno, 80.000 en total. Cifras orientativas 2026, solo impuesto, sin notaría ni registro."
+    ],
+    "items": [
+     [
+      "Escenario",
+      "Impuesto que pagan los dos hermanos que se quedan"
+     ],
+     [
+      "AJD en Madrid (0,75 %)",
+      "600 euros sobre los 80.000 euros de cuota adquirida. 300 euros cada uno."
+     ],
+     [
+      "AJD en Cataluña o Comunidad Valenciana (1,5 %)",
+      "1.200 euros en total. 600 euros cada uno."
+     ],
+     [
+      "AJD en Andalucía (1,2 %)",
+      "960 euros en total. 480 euros cada uno."
+     ],
+     [
+      "ITP si Hacienda lo califica de compraventa (Madrid, 6 %)",
+      "4.800 euros en total. 2.400 euros cada uno."
+     ],
+     [
+      "ITP si Hacienda lo califica de compraventa (Cataluña, 10 %)",
+      "8.000 euros en total. 4.000 euros cada uno."
+     ]
+    ],
+    "outro": [
+     "La diferencia entre un escenario y otro multiplica la factura por seis o por ocho. Por eso importa tanto cómo se redacta la escritura: compensación en dinero, proporcional a las cuotas, con declaración expresa de indivisibilidad del bien y con cita del artículo 1062. El que sale, además, puede tener ganancia patrimonial en IRPF si cobra más de lo que le costó su cuota, igual que en una extinción total. La plusvalía municipal no se devenga si la operación se trata como extinción, pero sí si se califica como compraventa."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Requisitos para que la extinción parcial tribute por AJD",
+    "type": "list",
+    "items": [
+     "<strong>Bien indivisible o que desmerece mucho por su división.</strong> Un piso, una casa, un local o una plaza de garaje lo son por naturaleza. Un terreno grande puede no serlo y Hacienda lo discutirá.",
+     "<strong>Compensación en dinero.</strong> Si los que quedan pagan con otro inmueble, con acciones o con la condonación de una deuda, el riesgo de ITP sube mucho.",
+     "<strong>Reparto proporcional entre los que quedan.</strong> Si dos hermanos al 33 % adquieren la cuota del tercero, cada uno pasa al 50 %. Si uno pasa al 60 % y otro al 40 %, el exceso de uno sobre otro puede tributar aparte.",
+     "<strong>Una sola comunidad sobre un solo bien.</strong> Si la comunidad tiene varios inmuebles y se extingue sobre uno manteniendo los demás, Hacienda suele exigir que se trate como permuta de cuotas, con ITP.",
+     "<strong>Declaración expresa en la escritura.</strong> El notario debe hacer constar que se trata de una disolución parcial de comunidad por indivisibilidad, con cita del artículo 1062, y no de una compraventa de cuota."
+    ]
+   },
+   {
+    "overline": "Alternativas",
+    "h2": "Otras formas de que salga solo un copropietario",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Compraventa de cuota a los demás comuneros",
+      "p": "Es la misma operación económica, pero declarada como venta. Tributa por ITP sin discusión. Tiene sentido cuando el bien es divisible o la compensación no es en dinero, porque evita una comprobación posterior."
+     },
+     {
+      "t": "Venta de la cuota a un tercero",
+      "p": "El que quiere salir vende su cuota a alguien de fuera, sin pedir permiso a los demás, que conservan el retracto de comuneros del artículo 1522 durante nueve días. Nosotros compramos cuotas así en toda España.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi cuota →"
+     },
+     {
+      "t": "Extinción total con adjudicación a uno",
+      "p": "Si en realidad uno de los que se quedan quiere el 100 %, es más limpio hacer una extinción total con compensación a todos los demás. Tributa por AJD sin la controversia de la parcial.",
+      "url": "/extincion-de-condominio/",
+      "cta": "Guía de extinción →"
+     },
+     {
+      "t": "División de cosa común judicial",
+      "p": "Si nadie quiere comprar ni vender, cualquier comunero puede pedir al juez la venta del inmueble. Tarda de uno a tres años y suele acabar en subasta.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "División judicial →"
+     }
+    ]
+   },
+   {
+    "overline": "Cuándo no sale",
+    "h2": "Cuando los que se quedan no quieren o no pueden comprar tu parte",
+    "intro": [
+     "La extinción parcial exige que los demás comuneros tengan el dinero y la voluntad de pagar tu cuota. Lo habitual es que falle una de las dos cosas: un hermano quiere seguir en el piso pero no tiene 40.000 euros, o lo tiene pero prefiere que te quedes dentro pagando tu parte del IBI. En ese punto, esperar solo alarga el problema.",
+     "Puedes vender tu cuota a un tercero sin que ellos tengan que firmar ni autorizar nada. Nosotros la compramos con fondos propios, con la ocupación o la hipoteca que tenga, y te pagamos al contado en notaría. Los demás conservan su derecho de retracto: si quieren igualar el precio en nueve días, lo hacen; si no, la venta queda firme."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Sal tú de la comunidad aunque los demás se queden",
+     "p": "Dinos la dirección del inmueble, tu porcentaje y cuántos copropietarios sois. Oferta por escrito en 48 horas, sin compromiso.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es legal una extinción parcial de condominio?",
+    "Sí. Un copropietario puede salir de la comunidad transmitiendo su cuota a los demás a cambio de una compensación. Lo discutido no es la validez, sino si tributa por AJD o por ITP."
+   ],
+   [
+    "¿La extinción parcial de condominio paga ITP o AJD?",
+    "El criterio mayoritario actual del Tribunal Supremo admite AJD cuando el bien es indivisible, la compensación es en dinero y los que quedan adquieren en proporción a sus cuotas. Algunas oficinas liquidadoras siguen girando ITP y hay que recurrir. Consulta tu caso."
+   ],
+   [
+    "¿Qué pasa si los que se quedan se reparten la cuota de forma desigual?",
+    "El exceso que uno adquiere por encima de su proporción puede tributar por ITP como compraventa. Para mantener el AJD conviene que el reparto sea proporcional a las cuotas previas."
+   ],
+   [
+    "¿El que sale paga algo en la extinción parcial?",
+    "No paga AJD, que corresponde a los adquirentes. Puede tener ganancia patrimonial en el IRPF del año siguiente si cobra más de lo que le costó su cuota actualizada."
+   ],
+   [
+    "¿Se puede hacer una extinción parcial si hay hipoteca?",
+    "Sí, pero el banco tiene que aceptar liberar al que sale como deudor. Si no acepta, el que sale sigue respondiendo del préstamo aunque ya no sea dueño. Conviene pactar la novación en la misma escritura."
+   ],
+   [
+    "¿Y si los demás no quieren comprar mi parte?",
+    "Puedes venderla a un tercero sin su consentimiento. Compramos tu cuota, te damos precio por escrito en 48 horas y pagamos al contado en notaría en dos a cuatro semanas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la extinción parcial",
+  "related": [
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Impuestos y notario",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Extinción con compensación económica",
+    "/blog/extincion-de-condominio-con-compensacion-economica/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Sal de la comunidad sin esperar a los demás",
+  "cta_text": "Compramos tu cuota indivisa con fondos propios en toda España. Oferta en 48 horas, firma en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Extinción parcial de condominio: fiscalidad y cómo se hace",
+  "meta_desc": "Extinción parcial de condominio: qué es, si tributa por AJD o ITP según el criterio actual del Supremo y qué hacer si los demás no te compran la cuota.",
+  "focus_kw": "extinción parcial de condominio",
+  "title_corto": "Extinción parcial"
+ },
+ {
+  "slug": "ejemplo-de-extincion-de-condominio-con-cifras",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Casos prácticos",
+  "h1": "Ejemplo de extinción de condominio con cifras: tres casos resueltos paso a paso",
+  "sub": "Una extinción de condominio sobre una cuota de 100.000 euros cuesta entre 1.500 y 3.000 euros entre AJD, notario y registro, además de la compensación. Aquí tienes tres ejemplos reales resueltos con tablas: dos hermanos sin hipoteca, una pareja con hipoteca y tres hermanos con el usufructo del padre. Y el método para calcular el tuyo. Si no hay acuerdo, compramos tu cuota.",
+  "checks": [
+   "Tres casos con tabla",
+   "Método para tu caso",
+   "Compramos si no hay acuerdo"
+  ],
+  "card_title": "¿Quieres saber cuánto vale tu cuota?",
+  "card_text": "Dinos la dirección y tu porcentaje. Te damos precio por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Método",
+    "h2": "Cómo calcular una extinción de condominio en cinco pasos",
+    "type": "steps",
+    "intro": [
+     "Los tres casos de abajo siguen el mismo método. Si quieres calcular el tuyo, aplica estos pasos con tus cifras. Todos los importes son orientativos para 2026 y cambian según comunidad autónoma, notaría y valor declarado."
+    ],
+    "items": [
+     {
+      "t": "Valor del inmueble",
+      "p": "Pactado entre las partes, nunca por debajo del valor de referencia de Catastro, que es el mínimo que acepta Hacienda para el AJD."
+     },
+     {
+      "t": "Valor neto",
+      "p": "Valor del inmueble menos la hipoteca pendiente que asume el adjudicatario y menos las deudas de comunidad o derramas aprobadas."
+     },
+     {
+      "t": "Compensación",
+      "p": "Valor neto multiplicado por la cuota de cada uno de los que salen. Se ajusta con lo que cada uno pagó de más en IBI, comunidad o cuotas de hipoteca."
+     },
+     {
+      "t": "AJD",
+      "p": "Tipo de la comunidad autónoma aplicado al valor de la cuota adjudicada, no al valor total del inmueble. Lo paga el adjudicatario."
+     },
+     {
+      "t": "Notaría, registro y gestoría",
+      "p": "Arancel notarial según el valor declarado, inscripción en el Registro y gestoría opcional. Suele pagarlo el adjudicatario salvo pacto."
+     }
+    ]
+   },
+   {
+    "overline": "Caso 1",
+    "h2": "Dos hermanos sin hipoteca: piso heredado en Madrid de 220.000 euros",
+    "type": "table",
+    "intro": [
+     "Ana y Luis heredan el piso de su madre al 50 %. Ana quiere quedárselo y Luis quiere su dinero. El piso no tiene hipoteca. El valor de referencia de Catastro es 205.000 euros y pactan 220.000, que es lo que vale en el mercado. Luis pagó 2.400 euros de IBI y comunidad en los dos últimos años mientras Ana vivía en el piso."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Cálculo e importe"
+     ],
+     [
+      "Valor neto",
+      "220.000 euros. No hay hipoteca ni deudas."
+     ],
+     [
+      "Cuota de Luis",
+      "50 % de 220.000: 110.000 euros."
+     ],
+     [
+      "Ajuste por gastos adelantados",
+      "Luis cobra además los 2.400 euros que pagó de más. Compensación total: 112.400 euros."
+     ],
+     [
+      "AJD (Madrid, 0,75 %)",
+      "0,75 % sobre 110.000 euros de cuota adjudicada: 825 euros. Lo paga Ana."
+     ],
+     [
+      "Notaría",
+      "Unos 700 euros con copias."
+     ],
+     [
+      "Registro y gestoría",
+      "Unos 300 euros de registro y 300 de gestoría."
+     ],
+     [
+      "Total gastos de Ana",
+      "Unos 2.125 euros además de los 112.400 de compensación."
+     ],
+     [
+      "IRPF de Luis",
+      "Su cuota se valoró en la herencia en 100.000 euros hace tres años. Cobra 110.000 por la cuota: ganancia de 10.000 euros que tributa al 19 % en la renta del año siguiente, unos 1.900 euros."
+     ]
+    ],
+    "outro": [
+     "Ana necesita 114.525 euros en efectivo. Si no los tiene, pedirá una hipoteca sobre el piso, ya a su nombre. Si el banco no se la concede, el caso se queda bloqueado. Luis podría entonces vender su 50 % a un tercero: nosotros pagaríamos entre 44.000 y 77.000 euros al contado, menos que la compensación, pero en dos a cuatro semanas y sin depender de Ana."
+    ]
+   },
+   {
+    "overline": "Caso 2",
+    "h2": "Pareja con hipoteca: casa en Valencia de 260.000 euros tras la separación",
+    "type": "table",
+    "intro": [
+     "Marta y Jorge compraron juntos sin estar casados, al 50 %, con una hipoteca de la que quedan 140.000 euros. Se separan. Jorge se queda la casa y asume toda la hipoteca. El valor de referencia es 240.000 y pactan 260.000. Marta pagó sola seis cuotas de hipoteca de 800 euros después de irse."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Cálculo e importe"
+     ],
+     [
+      "Valor neto",
+      "260.000 menos 140.000 de hipoteca: 120.000 euros."
+     ],
+     [
+      "Cuota de Marta",
+      "50 % de 120.000: 60.000 euros."
+     ],
+     [
+      "Ajuste por cuotas pagadas",
+      "Marta pagó 4.800 euros de los que a Jorge le correspondían 2.400. Compensación total: 62.400 euros."
+     ],
+     [
+      "Compensación real",
+      "Jorge asume los 70.000 euros de hipoteca que correspondían a Marta y le paga 62.400 euros en dinero."
+     ],
+     [
+      "AJD (Comunidad Valenciana, 1,5 %)",
+      "Base: valor de la cuota adjudicada, 130.000 euros (50 % de 260.000). 1,5 %: 1.950 euros. Lo paga Jorge."
+     ],
+     [
+      "Novación de la hipoteca",
+      "El banco libera a Marta como deudora. Puede cobrar comisión de novación de entre el 0 % y el 1 % del capital: hasta 1.400 euros. La novación por cambio de deudor tributa por AJD solo si hay ampliación de capital o cambio de plazo."
+     ],
+     [
+      "Notaría, registro y gestoría",
+      "Unos 1.400 euros entre la escritura de extinción, la novación y las inscripciones."
+     ],
+     [
+      "Total gastos de Jorge",
+      "Entre 3.400 y 4.800 euros además de los 62.400 de compensación y de asumir la deuda."
+     ]
+    ],
+    "outro": [
+     "La clave del caso es que el banco tiene que aceptar a Jorge como único deudor de 140.000 euros. Si sus ingresos no llegan al ratio de endeudamiento que exige la entidad, no hay novación y Marta sigue atada a la hipoteca aunque firme la extinción. En nuestra guía sobre extinción de condominio con hipoteca explicamos cómo se resuelve. Y si Jorge no consigue el préstamo, Marta puede vendernos su 50 % con la hipoteca incluida: compramos cuotas con carga y descontamos la deuda del precio."
+    ]
+   },
+   {
+    "overline": "Caso 3",
+    "h2": "Tres hermanos con el usufructo del padre: piso en Sevilla de 180.000 euros",
+    "type": "table",
+    "intro": [
+     "Al morir la madre, sus tres hijos heredan la nuda propiedad de la mitad del piso a partes iguales y el padre, de 78 años, conserva el usufructo de esa mitad y la plena propiedad de la otra mitad. Carlos, uno de los hijos, quiere quedarse la cuota de sus dos hermanos. El padre conserva su parte. Valor de referencia: 170.000 euros. Pactan 180.000."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Cálculo e importe"
+     ],
+     [
+      "Valor de la mitad heredada",
+      "90.000 euros (50 % de 180.000)."
+     ],
+     [
+      "Valor del usufructo del padre",
+      "Regla fiscal: 89 menos la edad del usufructuario, mínimo 10 %. 89 menos 78 = 11 %. Usufructo: 9.900 euros. Nuda propiedad: 80.100 euros."
+     ],
+     [
+      "Cuota de nuda propiedad de cada hermano",
+      "80.100 entre tres: 26.700 euros cada uno."
+     ],
+     [
+      "Compensación que paga Carlos",
+      "26.700 euros a cada hermano: 53.400 euros en total."
+     ],
+     [
+      "AJD (Andalucía, 1,2 %)",
+      "1,2 % sobre 53.400 euros de nuda propiedad adquirida: unos 641 euros. Lo paga Carlos."
+     ],
+     [
+      "Notaría, registro y gestoría",
+      "Unos 1.100 euros. El valor es menor y el arancel baja."
+     ],
+     [
+      "Total gastos de Carlos",
+      "Unos 1.750 euros además de los 53.400 de compensación."
+     ],
+     [
+      "Situación final",
+      "Carlos tiene la nuda propiedad del 50 % y el padre, el usufructo de ese 50 % y la plena propiedad del otro 50 %. El condominio entre hermanos se ha extinguido, pero Carlos no puede usar ni vender el piso entero sin el padre."
+     ]
+    ],
+    "outro": [
+     "Este caso enseña dos cosas. La primera, que el usufructo reduce la compensación porque lo que se adjudica es nuda propiedad, no pleno dominio. La segunda, que una extinción puede dejar al adjudicatario con un derecho que no le sirve de mucho mientras viva el usufructuario. Si lo que uno de los hermanos quiere es dinero, vender su nuda propiedad es una salida: compramos nuda propiedad y cuotas con usufructo ajeno."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Cuánto cuesta una extinción de condominio según el caso",
+    "type": "list",
+    "items": [
+     "<strong>Caso 1, dos hermanos sin hipoteca en Madrid:</strong> 2.125 euros de gastos sobre una compensación de 112.400. El 1,9 % de la compensación.",
+     "<strong>Caso 2, pareja con hipoteca en Valencia:</strong> entre 3.400 y 4.800 euros de gastos sobre una compensación de 62.400 más 70.000 de deuda asumida. Entre el 2,6 % y el 3,6 % del valor de la cuota.",
+     "<strong>Caso 3, tres hermanos con usufructo en Sevilla:</strong> 1.750 euros de gastos sobre una compensación de 53.400. El 3,3 %.",
+     "<strong>Regla rápida:</strong> entre el 1,5 % y el 4 % del valor de la cuota adjudicada, según comunidad y si hay hipoteca. La misma operación hecha como compraventa con ITP costaría entre el 7 % y el 12 %.",
+     "<strong>Lo que no entra en estas cifras:</strong> el IRPF del que sale si hay ganancia, y el coste de tasación si la hay, entre 250 y 450 euros."
+    ]
+   },
+   {
+    "overline": "Si falla el acuerdo",
+    "h2": "Qué pasa cuando los números cuadran pero el dinero no llega",
+    "intro": [
+     "En los tres casos hay un punto en común: el adjudicatario tiene que reunir decenas de miles de euros o conseguir que el banco los preste. Cuando no lo consigue, el que quería salir se queda dentro del condominio pagando gastos y esperando. Nosotros compramos esa cuota con fondos propios, tenga hipoteca, usufructo o un hermano viviendo dentro. Pagamos entre el 40 % y el 70 % del valor proporcional, menos que una compensación entre familia, pero al contado, en notaría y en dos a cuatro semanas."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Calcula tu caso con nosotros",
+     "p": "Dinos la dirección, tu porcentaje, si hay hipoteca y cuántos copropietarios sois. Te enviamos precio por escrito en 48 horas.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto se paga por una extinción de condominio de 100.000 euros?",
+    "Entre 500 y 1.500 euros de AJD según comunidad, 600 a 900 de notaría, 150 a 400 de registro y 250 a 400 de gestoría si la usas. Entre 1.500 y 3.000 euros en total, más la compensación al que sale."
+   ],
+   [
+    "¿Existe una calculadora de extinción de condominio fiable?",
+    "Las calculadoras de internet suelen aplicar el AJD sobre el valor total en lugar de sobre la cuota adjudicada, y no restan la hipoteca. Usa el método de cinco pasos de esta entrada con tus cifras y contrasta con el notario."
+   ],
+   [
+    "¿El AJD se calcula sobre el valor del piso o sobre la parte que me adjudico?",
+    "Sobre la parte que adquieres. Es doctrina del Tribunal Supremo desde 2018. Si te quedas el 50 % que no tenías sobre un piso de 200.000 euros, la base es 100.000."
+   ],
+   [
+    "¿Cómo se valora el usufructo en una extinción de condominio?",
+    "Con la regla fiscal: 89 menos la edad del usufructuario, en porcentaje sobre el valor del bien, con un mínimo del 10 %. El resto es la nuda propiedad, que es lo que se adjudica entre los hermanos."
+   ],
+   [
+    "¿Qué pasa con la hipoteca en el ejemplo de la pareja?",
+    "El que se queda la casa asume toda la deuda y eso cuenta como parte de la compensación. Pero el banco tiene que aceptar liberar al otro deudor; si no lo hace, sigue respondiendo del préstamo."
+   ],
+   [
+    "¿Cuánto pagaríais vosotros por mi cuota en el caso 1?",
+    "Por un 50 % de un piso de 220.000 euros vacío o con un hermano dentro, entre 44.000 y 77.000 euros al contado, según ciudad, ocupación y estado. Oferta por escrito en 48 horas y sin compromiso."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los ejemplos",
+  "related": [
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Extinción con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Cuánto cobra el notario",
+    "/blog/cuanto-cobra-el-notario-extincion-de-condominio/"
+   ],
+   [
+    "Qué valor poner a la vivienda",
+    "/blog/valor-de-la-vivienda-en-la-extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Si la extinción no sale, te compramos la cuota",
+  "cta_text": "Fondos propios, oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo. En toda España.",
+  "yoast_title": "Ejemplo de extinción de condominio con cifras: 3 casos",
+  "meta_desc": "Ejemplo de extinción de condominio con cifras, tres casos: hermanos sin hipoteca, pareja con hipoteca y usufructo. Cuánto se paga y cómo calcular el tuyo.",
+  "focus_kw": "ejemplo de extinción de condominio",
+  "title_corto": "Ejemplo con cifras"
+ },
+ {
+  "slug": "hipoteca-para-extincion-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Financiación",
+  "h1": "Hipoteca para extinción de condominio: qué piden los bancos y cómo conseguirla",
+  "sub": "Para financiar una extinción de condominio, el banco estudia al adjudicatario como si pidiera una hipoteca nueva: ingresos, ratio de endeudamiento, tasación y ahorro previo. Te explicamos las tres vías que ofrecen las entidades, qué documentación piden y por qué deniegan tantas. Si tu copropietario no consigue el préstamo, compramos tu cuota y cobras igual.",
+  "checks": [
+   "Las tres vías bancarias",
+   "Documentación y ratios",
+   "Salida si el banco dice no"
+  ],
+  "card_title": "¿El banco le ha denegado la hipoteca al otro?",
+  "card_text": "No esperes a la próxima solicitud. Te damos precio por escrito por tu cuota en 48 horas.",
+  "sections": [
+   {
+    "overline": "Punto de partida",
+    "h2": "Por qué una extinción de condominio casi siempre necesita hipoteca",
+    "type": "text",
+    "intro": [
+     "Quien se queda el inmueble tiene que pagar al que sale el valor de su cuota. En un piso de 200.000 euros al 50 %, son 100.000 euros. Casi nadie los tiene en la cuenta, así que el adjudicatario acude al banco. Y si además el piso ya tiene una hipoteca a nombre de los dos, hay que resolver qué pasa con esa deuda: el que sale quiere dejar de ser deudor y el banco no está obligado a liberarle.",
+     "El banco mira dos cosas distintas. Primera: si el adjudicatario puede pagar solo una deuda que antes pagaban dos. Segunda: si el inmueble, ya a nombre de uno, vale lo suficiente para garantizar el préstamo. En la práctica, muchas extinciones se bloquean aquí. Los dos copropietarios se han puesto de acuerdo en todo, el notario tiene la escritura preparada, y el estudio de riesgos dice que no.",
+     "Esta entrada es para el que necesita financiar la extinción y también para el que espera cobrar y depende de que al otro le aprueben el préstamo. Los dos tienen interés en saber qué va a pedir el banco."
+    ]
+   },
+   {
+    "overline": "Vías",
+    "h2": "Las tres fórmulas que ofrecen los bancos",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Novación con ampliación de capital",
+      "p": "Si ya hay hipoteca, se modifica el préstamo existente: se libera al que sale como deudor y se amplía el capital para pagar la compensación. Es la vía más barata en gastos, pero requiere que la entidad actual acepte al adjudicatario en solitario."
+     },
+     {
+      "t": "Subrogación de deudor",
+      "p": "El adjudicatario se subroga en la posición del que sale y pasa a ser el único deudor del préstamo existente, sin ampliar capital. Sirve cuando la compensación se paga con ahorros o cuando la deuda asumida ya cubre el valor de la cuota del que sale."
+     },
+     {
+      "t": "Hipoteca nueva",
+      "p": "Se cancela la hipoteca anterior, si la hay, y se constituye una nueva solo a nombre del adjudicatario por el importe de la compensación más la deuda pendiente. Es la vía cuando se cambia de banco o cuando la entidad actual no acepta la novación. Tiene más gastos: tasación, cancelación y nueva inscripción."
+     },
+     {
+      "t": "Préstamo personal para compensaciones pequeñas",
+      "p": "Cuando la cuota vale menos de 30.000 euros, algunos adjudicatarios optan por un préstamo personal sin garantía hipotecaria. Tipos más altos, pero sin tasación ni gastos de constitución."
+     }
+    ],
+    "outro": [
+     "La extinción y la operación hipotecaria se firman el mismo día en la notaría, en una o dos escrituras. El notario no autoriza la extinción si la compensación no está asegurada, y el banco no libera al que sale hasta que la extinción está firmada. Por eso todo se coordina en un mismo acto."
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Qué piden los bancos para aprobar la hipoteca de una extinción",
+    "type": "list",
+    "items": [
+     "<strong>Ratio de endeudamiento por debajo del 35 % al 40 %.</strong> La cuota de la nueva hipoteca más el resto de préstamos del adjudicatario no puede superar ese porcentaje de sus ingresos netos mensuales. Con 2.000 euros de ingresos, la cuota máxima ronda los 700 u 800 euros.",
+     "<strong>Estabilidad laboral.</strong> Contrato indefinido con antigüedad, funcionario o autónomo con tres ejercicios de renta estables. Los contratos temporales o la antigüedad inferior a un año se penalizan.",
+     "<strong>Financiación máxima del 80 % del valor de tasación.</strong> Sobre un piso tasado en 200.000 euros, el banco presta hasta 160.000 entre deuda pendiente y compensación. Si la suma supera ese límite, el adjudicatario tiene que aportar la diferencia.",
+     "<strong>Ahorro para los gastos.</strong> AJD de la extinción, notaría, registro, gestoría, tasación y, si hay hipoteca nueva, sus propios gastos. Entre el 3 % y el 6 % del valor según comunidad.",
+     "<strong>Tasación oficial del inmueble.</strong> De una sociedad homologada por el Banco de España. Cuesta entre 250 y 450 euros y tiene validez de seis meses.",
+     "<strong>Historial crediticio limpio.</strong> Sin impagos en ficheros de morosidad. Un recibo devuelto hace dos años puede frenar la operación.",
+     "<strong>Documentación completa.</strong> DNI, tres últimas nóminas, renta de los dos últimos años, vida laboral, extractos bancarios de seis meses, escritura de propiedad, nota simple, certificado de deuda del préstamo actual y borrador de la escritura de extinción."
+    ]
+   },
+   {
+    "overline": "Entidades",
+    "h2": "Extinción de condominio en BBVA, CaixaBank, Santander y el resto de la banca",
+    "type": "text",
+    "intro": [
+     "Muchas personas buscan directamente la política de su banco: extinción de condominio en BBVA, en CaixaBank, en el Santander, en Sabadell, en ING, en Bankinter o en una caja rural. La respuesta honesta es que ninguna entidad publica condiciones específicas para extinciones de condominio. Cada banco la trata dentro de su política general de riesgo hipotecario, y la decisión depende de la oficina, del departamento de riesgos y del perfil del solicitante, no del nombre de la entidad.",
+     "Lo que sí varía entre bancos es la disposición a novar. Algunas entidades prefieren la novación con ampliación porque conservan al cliente; otras obligan a cancelar y constituir una hipoteca nueva, con más gastos. Si tu banco actual rechaza la novación, pide oferta en otras dos o tres entidades: una hipoteca nueva para extinción de condominio se estudia como cualquier compra y puede salir en una entidad lo que en otra no.",
+     "Un consejo práctico: lleva al banco el borrador de la escritura de extinción con el valor pactado y la compensación ya calculada. El analista de riesgos entiende mejor la operación cuando ve que la compensación se paga en el mismo acto y que el inmueble queda a nombre de un solo titular."
+    ]
+   },
+   {
+    "overline": "Costes",
+    "h2": "Cuánto cuesta financiar una extinción de condominio",
+    "type": "table",
+    "intro": [
+     "Piso de 200.000 euros al 50 %, hipoteca pendiente de 80.000, compensación de 60.000 euros. El adjudicatario necesita 140.000 euros de financiación. Cifras orientativas 2026 en Madrid."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Novación con ampliación / Hipoteca nueva"
+     ],
+     [
+      "AJD de la extinción (0,75 % sobre 100.000 de cuota adjudicada)",
+      "750 euros en ambos casos."
+     ],
+     [
+      "AJD del préstamo",
+      "Novación: 0,75 % solo sobre los 60.000 ampliados, 450 euros. Hipoteca nueva: desde 2019 lo paga el banco."
+     ],
+     [
+      "Tasación",
+      "Entre 250 y 450 euros en ambos casos."
+     ],
+     [
+      "Comisión bancaria",
+      "Novación: entre 0 % y 1 % del capital, hasta 1.400 euros. Hipoteca nueva: comisión de apertura entre 0 % y 1 %, hasta 1.400 euros."
+     ],
+     [
+      "Cancelación de la hipoteca anterior",
+      "Novación: no hay. Hipoteca nueva: notaría y registro de cancelación, entre 300 y 600 euros."
+     ],
+     [
+      "Notaría, registro y gestoría de la operación",
+      "Novación: entre 1.200 y 1.800 euros con la extinción. Hipoteca nueva: entre 1.500 y 2.200 euros con la extinción. Los gastos de constitución de la hipoteca nueva los asume el banco."
+     ],
+     [
+      "Total orientativo para el adjudicatario",
+      "Novación: entre 2.600 y 4.900 euros. Hipoteca nueva: entre 2.800 y 5.400 euros."
+     ]
+    ]
+   },
+   {
+    "overline": "Denegación",
+    "h2": "Qué hacer si el banco deniega la hipoteca para la extinción",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Pedir el motivo y revisar la ratio",
+      "p": "El banco tiene que explicar la denegación. Si es por ratio de endeudamiento, alargar el plazo o cancelar un préstamo personal pequeño puede bastar."
+     },
+     {
+      "t": "Probar en otras entidades o con un intermediario",
+      "p": "Cada banco tiene su política. Dos o tres solicitudes más, con la misma documentación, suelen dar al menos una aprobación si el perfil es razonable."
+     },
+     {
+      "t": "Añadir un avalista o reducir la compensación",
+      "p": "Un familiar avalista o un pago parcial aplazado al que sale reducen el importe a financiar. El aplazamiento debe constar en la escritura con garantía."
+     },
+     {
+      "t": "Cambiar de plan: vender la cuota",
+      "p": "Si en dos o tres meses no hay aprobación, el que quiere salir puede vender su cuota a un tercero sin esperar más. Nosotros compramos cuotas con hipoteca, descontamos la deuda proporcional del precio y pagamos al contado en notaría."
+     }
+    ],
+    "outro": [
+     "En nuestra guía sobre extinción de condominio con hipoteca tienes el detalle de la novación y de la liberación del deudor. Y si eres el que espera cobrar, en la página sobre vender un proindiviso con hipoteca explicamos cómo compramos cuotas con carga."
+    ]
+   },
+   {
+    "overline": "Salida",
+    "h2": "Si el otro no consigue la hipoteca, tú no tienes que esperar",
+    "intro": [
+     "Tres solicitudes denegadas suelen significar seis meses perdidos. Mientras tanto, sigues pagando tu mitad de la hipoteca y de los gastos de un piso en el que no vives. Compramos tu cuota con la hipoteca que tenga, nos ocupamos de la escritura y de sus gastos y te pagamos al contado en notaría. No necesitas que el otro copropietario firme ni que el banco apruebe nada."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Cobra tu parte aunque el banco diga no",
+     "p": "Dinos la dirección, tu porcentaje y cuánto queda de hipoteca. Te damos precio por escrito en 48 horas, sin compromiso.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué banco da hipoteca para extinción de condominio?",
+    "Todos la estudian dentro de su política hipotecaria general. No hay una entidad especializada ni condiciones específicas publicadas. Lo que cambia es si aceptan la novación del préstamo actual o exigen una hipoteca nueva."
+   ],
+   [
+    "¿BBVA hace extinciones de condominio?",
+    "BBVA, como el resto de bancos, estudia la novación o la hipoteca nueva asociada a una extinción caso por caso. No publica condiciones concretas para esta operación; la aprobación depende del perfil del adjudicatario y de la oficina."
+   ],
+   [
+    "¿Qué ratio de endeudamiento piden para financiar la extinción?",
+    "Entre el 35 % y el 40 % de los ingresos netos del adjudicatario, contando la nueva cuota y el resto de préstamos. Es el mismo criterio que en una hipoteca de compra."
+   ],
+   [
+    "¿Qué es mejor, novación o hipoteca nueva?",
+    "La novación suele ser más barata porque no hay cancelación ni nueva constitución. La hipoteca nueva permite cambiar de banco y mejorar condiciones. Pide las dos ofertas y compara el coste total."
+   ],
+   [
+    "¿Cuánto tarda el banco en aprobar la hipoteca de una extinción?",
+    "Entre tres y ocho semanas desde que se entrega toda la documentación, incluida la tasación. Si hay novación, la entidad actual suele tardar menos que una nueva."
+   ],
+   [
+    "¿Qué pasa con mi parte si a mi expareja le deniegan la hipoteca?",
+    "Sigues siendo copropietario y codeudor. Puedes esperar a otra solicitud, pactar un pago aplazado o vender tu cuota a un tercero. Nosotros la compramos con la hipoteca incluida y pagamos al contado."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la hipoteca en la extinción",
+  "related": [
+   [
+    "Extinción de condominio con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ],
+   [
+    "Extinción por divorcio",
+    "/blog/extincion-de-condominio-por-divorcio/"
+   ],
+   [
+    "Ejemplo con cifras",
+    "/blog/ejemplo-de-extincion-de-condominio-con-cifras/"
+   ],
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ]
+  ],
+  "cta_title": "Compramos tu cuota con hipoteca incluida",
+  "cta_text": "Fondos propios, oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo. Sin que el banco tenga que aprobar nada.",
+  "yoast_title": "Hipoteca para extinción de condominio: qué piden los bancos",
+  "meta_desc": "Hipoteca para extinción de condominio: novación, subrogación o préstamo nuevo, ratios y documentos que pide el banco. Si la deniegan, compramos tu cuota.",
+  "focus_kw": "hipoteca para extinción de condominio",
+  "title_corto": "Hipoteca para la extinción"
+ },
+ {
+  "slug": "disolucion-de-condominio-entre-hermanos",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Conceptos",
+  "h1": "Disolución de condominio entre hermanos: es lo mismo que la extinción y así se hace",
+  "sub": "Disolución de condominio, extinción de condominio, disolución de comunidad de bienes, cesión de condominio o separación de condominio son nombres distintos para la misma operación: acabar con la copropiedad de un inmueble. Te aclaramos qué significa cada término, cómo se hace entre hermanos y cuánto cuesta. Si uno de los hermanos no colabora, compramos tu cuota y sales igual.",
+  "checks": [
+   "Todos los sinónimos aclarados",
+   "Pasos entre hermanos",
+   "Salida si uno no colabora"
+  ],
+  "card_title": "¿Quieres disolver el condominio con tus hermanos?",
+  "card_text": "Si no hay acuerdo, compramos tu parte. Precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Terminología",
+    "h2": "Disolución, extinción, cesión, separación: qué significa cada palabra",
+    "type": "table",
+    "intro": [
+     "Cuando buscas en Google cómo acabar con la copropiedad de un piso heredado, encuentras media docena de términos. Todos se refieren a lo mismo, con pequeños matices de uso. Esta tabla los aclara."
+    ],
+    "items": [
+     [
+      "Término",
+      "Qué significa y cuándo se usa"
+     ],
+     [
+      "Disolución de condominio",
+      "Terminar la situación de copropiedad sobre un bien. Es el término que más usan los particulares y los abogados en Cataluña y Levante. Equivale a extinción de condominio."
+     ],
+     [
+      "Extinción de condominio",
+      "El mismo acto. Es el nombre que usan notarios, registradores y Hacienda, y el que aparece en las escrituras. Si buscas información oficial, busca con este término."
+     ],
+     [
+      "Disolución de comunidad de bienes",
+      "El nombre técnico del Código Civil, que llama comunidad de bienes a la copropiedad (artículos 392 a 406). Se usa también para comunidades de bienes con actividad económica, que son otra cosa."
+     ],
+     [
+      "Cesión de condominio",
+      "Expresión coloquial para que un copropietario ceda su cuota a otro. Si hay precio es una extinción con compensación; si es gratis, una donación. No es un término jurídico."
+     ],
+     [
+      "Separación de condominio",
+      "Variante coloquial de disolución. A veces se usa para la extinción parcial, cuando solo uno se separa de la comunidad y los demás siguen."
+     ],
+     [
+      "Liquidación de condominio",
+      "Se usa cuando además de adjudicar el bien hay que ajustar cuentas entre los comuneros: gastos adelantados, rentas cobradas, deudas. Es una extinción con liquidación de cuentas."
+     ],
+     [
+      "División de cosa común",
+      "La acción judicial del artículo 400 del Código Civil para obligar a disolver la comunidad cuando no hay acuerdo. Termina en adjudicación a uno o en subasta."
+     ]
+    ],
+    "outro": [
+     "En esta entrada usamos disolución y extinción indistintamente. Para el procedimiento completo, la fiscalidad por comunidades y los problemas con hipoteca, remitimos a nuestra guía de extinción de condominio y a su página sobre hermanos. Aquí nos centramos en lo que buscas: cómo se disuelve entre hermanos en la práctica."
+    ]
+   },
+   {
+    "overline": "Origen",
+    "h2": "Por qué los hermanos acaban en un condominio",
+    "type": "text",
+    "intro": [
+     "Casi siempre por herencia. Los padres fallecen, los hijos aceptan la herencia y el piso familiar pasa a ser de todos por partes iguales. En la escritura de adjudicación de herencia se inscribe a cada hermano con su cuota: un tercio, un cuarto, la mitad. A partir de ese momento son comuneros y cada decisión sobre el piso, desde alquilarlo hasta cambiar la caldera, exige el acuerdo de la mayoría de cuotas o la unanimidad.",
+     "El segundo origen es la compra conjunta: dos hermanos que compraron un piso para invertir o para que viviera uno de ellos. Y el tercero, la donación en vida de los padres a varios hijos. En los tres casos el resultado es el mismo: un bien con varios dueños que, tarde o temprano, tienen intereses distintos. Uno quiere vender, otro quiere vivir en él, otro quiere alquilarlo y otro simplemente no contesta.",
+     "El Código Civil es claro en el artículo 400: nadie está obligado a permanecer en la comunidad. Cualquier hermano puede pedir la disolución en cualquier momento. La cuestión es cómo."
+    ]
+   },
+   {
+    "overline": "Procedimiento",
+    "h2": "Cómo se hace la disolución de condominio entre hermanos",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Decidir quién se queda el inmueble",
+      "p": "La disolución solo funciona si un hermano se adjudica el 100 % y compensa a los demás. Si ninguno quiere o puede quedárselo, la disolución no es la vía: lo es la venta a un tercero o la división judicial."
+     },
+     {
+      "t": "Fijar el valor y las cuentas pendientes",
+      "p": "Se pacta el valor del piso, no inferior al valor de referencia de Catastro, y se liquidan las cuentas entre hermanos: quién pagó el IBI, quién vivió sin pagar alquiler, quién adelantó una derrama."
+     },
+     {
+      "t": "Calcular la compensación",
+      "p": "Valor menos cargas, multiplicado por la cuota de cada hermano que sale, ajustado con las cuentas. Es lo que el adjudicatario tiene que pagar en dinero o asumiendo deuda."
+     },
+     {
+      "t": "Comprobar que el adjudicatario tiene el dinero",
+      "p": "Con ahorros o con hipoteca aprobada. Este paso se salta muchas veces y es el que hace fracasar la mayoría de disoluciones entre hermanos."
+     },
+     {
+      "t": "Firmar la escritura y liquidar el AJD",
+      "p": "Todos los hermanos firman ante notario. El adjudicatario paga el AJD en 30 días hábiles sobre el valor de las cuotas adquiridas e inscribe en el Registro."
+     }
+    ]
+   },
+   {
+    "overline": "Coste",
+    "h2": "Cuánto cuesta disolver un condominio entre hermanos",
+    "type": "list",
+    "intro": [
+     "Tres hermanos, piso heredado de 180.000 euros sin hipoteca, uno se queda el 100 % y compensa a los otros dos con 60.000 euros cada uno. Cifras orientativas para 2026."
+    ],
+    "items": [
+     "<strong>AJD:</strong> sobre los 120.000 euros de cuotas adquiridas. 900 euros en Madrid al 0,75 %, 1.440 en Andalucía al 1,2 %, 1.800 en Cataluña, Valencia o Galicia al 1,5 %. Lo paga el hermano que se queda el piso.",
+     "<strong>Notaría:</strong> entre 600 y 850 euros con copias, según arancel.",
+     "<strong>Registro de la Propiedad:</strong> entre 250 y 400 euros.",
+     "<strong>Gestoría:</strong> entre 250 y 400 euros si se encarga de impuestos e inscripción.",
+     "<strong>Plusvalía municipal:</strong> no se devenga en la disolución con compensación en dinero.",
+     "<strong>IRPF de los hermanos que salen:</strong> solo si cobran más de lo que valía su cuota al heredar. Si la herencia se valoró hace poco en una cifra similar, no hay ganancia.",
+     "<strong>Total para el adjudicatario:</strong> entre 2.000 y 3.500 euros de gastos más los 120.000 euros de compensación."
+    ]
+   },
+   {
+    "overline": "Bloqueos",
+    "h2": "Cuando la disolución entre hermanos no avanza",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Un hermano no contesta",
+      "p": "Sin su firma no hay disolución. Puedes requerirle por burofax, pero no obligarle. Las salidas son la división judicial o vender tu cuota a un tercero.",
+      "url": "/vender-proindiviso-entre-hermanos/",
+      "cta": "Vender entre hermanos →"
+     },
+     {
+      "t": "Nadie tiene el dinero",
+      "p": "Si ningún hermano puede pagar la compensación ni conseguir hipoteca, la disolución no es posible. Queda vender el piso entero entre todos, lo que exige unanimidad, o que cada uno venda su parte por separado."
+     },
+     {
+      "t": "Uno vive en el piso y no quiere ni comprar ni vender",
+      "p": "Es el bloqueo más frecuente. El que vive dentro no tiene prisa. Los demás pagan IBI y comunidad de un piso que no usan. Compramos esas cuotas con el hermano dentro.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender parte heredada →"
+     },
+     {
+      "t": "Desacuerdo sobre el valor",
+      "p": "Una tasación independiente, pagada a medias, suele resolverlo. Si uno la rechaza, el valor de referencia de Catastro es el mínimo fiscal y una referencia razonable."
+     },
+     {
+      "t": "División de cosa común",
+      "p": "Cualquier hermano puede demandar a los demás para que el juez ordene la venta. Tarda de uno a tres años, cuesta abogado y procurador y suele acabar en subasta a precio bajo.",
+      "url": "/division-de-cosa-comun/",
+      "cta": "División judicial →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Disolver el condominio por tu cuenta: vender tu parte",
+    "intro": [
+     "Si tus hermanos no quieren disolver el condominio, tú puedes salir igual. El artículo 399 del Código Civil te permite vender tu cuota a quien quieras sin pedirles permiso. Ellos conservan el retracto de comuneros: nueve días para quedarse tu parte al mismo precio. Si no lo ejercen, la venta es firme y tú has dejado de ser copropietario.",
+     "Compramos cuotas de pisos heredados en toda España con fondos propios. Pagamos entre el 40 % y el 70 % del valor proporcional de tu parte, según la ciudad, si el piso está vacío u ocupado y el número de hermanos. Es menos que una compensación entre familia, pero no depende de que nadie firme ni consiga hipoteca. Te damos precio por escrito en 48 horas, firmamos en notaría en dos a cuatro semanas, pagamos al contado y los gastos de notaría van a nuestro cargo. Sin exclusividad y sin compromiso."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Sal del condominio con tus hermanos en semanas",
+     "p": "Dinos la dirección del piso, tu porcentaje y cuántos hermanos sois. Oferta por escrito en 48 horas.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Disolución de condominio y extinción de condominio son lo mismo?",
+    "Sí. Son dos nombres para el mismo acto: terminar la copropiedad sobre un inmueble adjudicándolo a uno de los comuneros con compensación a los demás. Notarios y Hacienda usan extinción; los particulares, disolución."
+   ],
+   [
+    "¿Qué es la cesión de condominio?",
+    "Una expresión coloquial para que un copropietario traspase su cuota a otro. Si cobra por ella, es una extinción de condominio con compensación. Si la cede gratis, es una donación y tributa como tal."
+   ],
+   [
+    "¿Cómo se disuelve una comunidad de bienes entre hermanos si uno no quiere?",
+    "No se puede obligarle a firmar la disolución. Las vías son la acción judicial de división de cosa común, que termina en subasta, o que cada hermano venda su cuota a un tercero sin necesidad de su consentimiento."
+   ],
+   [
+    "¿Cuánto cuesta la disolución de condominio entre hermanos?",
+    "Entre 2.000 y 3.500 euros de AJD, notaría, registro y gestoría para cuotas adquiridas de unos 120.000 euros, según comunidad. Más la compensación que paga el hermano que se queda el piso."
+   ],
+   [
+    "¿Se puede disolver el condominio si el piso heredado no está inscrito a nombre de los hermanos?",
+    "Primero hay que otorgar la escritura de aceptación y adjudicación de herencia e inscribirla. Puede hacerse en el mismo acto que la disolución, pero son dos operaciones con dos impuestos: Sucesiones y AJD."
+   ],
+   [
+    "¿Compráis mi parte aunque mis hermanos se opongan?",
+    "Sí. No necesitamos su firma ni su consentimiento. Tienen derecho de retracto durante nueve días para igualar nuestro precio; si no lo ejercen, la venta queda firme y cobras al contado en notaría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la disolución entre hermanos",
+  "related": [
+   [
+    "Extinción de condominio entre hermanos",
+    "/extincion-de-condominio/entre-hermanos/"
+   ],
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Vender proindiviso entre hermanos",
+    "/vender-proindiviso-entre-hermanos/"
+   ],
+   [
+    "Extinción parcial de condominio",
+    "/blog/extincion-parcial-de-condominio/"
+   ],
+   [
+    "Qué es un proindiviso",
+    "/que-es-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Si tus hermanos no disuelven, vende tu parte",
+  "cta_text": "Compramos tu cuota del piso heredado con fondos propios. Precio por escrito en 48 horas, firma en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Disolución de condominio entre hermanos: cómo se hace",
+  "meta_desc": "Disolución de condominio entre hermanos: es lo mismo que la extinción. Sinónimos aclarados, pasos, coste 2026 y qué hacer si un hermano no colabora.",
+  "focus_kw": "disolución de condominio entre hermanos",
+  "title_corto": "Disolución entre hermanos"
+ },
+ {
+  "slug": "cuanto-cobra-el-notario-extincion-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Gastos",
+  "h1": "Cuánto cobra el notario por una extinción de condominio en 2026",
+  "sub": "El notario cobra por una extinción de condominio entre 500 y 900 euros en la mayoría de los casos, según el valor declarado y el número de copias. A eso se suman el registro, la gestoría y el AJD. Te damos el arancel por tramos, un ejemplo completo y quién paga cada cosa. Si vendes tu cuota a nosotros, los gastos de notaría van a nuestro cargo.",
+  "checks": [
+   "Arancel por tramos",
+   "Ejemplo con todos los gastos",
+   "Notaría gratis si nos vendes"
+  ],
+  "card_title": "¿Prefieres no pagar notaría?",
+  "card_text": "Si nos vendes tu cuota, los gastos de notaría y gestión corren de nuestra cuenta. Precio en 48 horas.",
+  "sections": [
+   {
+    "overline": "Arancel",
+    "h2": "El arancel notarial: por qué todos los notarios cobran lo mismo",
+    "type": "text",
+    "intro": [
+     "Los honorarios de los notarios en España están fijados por el Estado en un arancel aprobado por Real Decreto en 1989 y actualizado después. No hay competencia de precios: un notario de Madrid y uno de un pueblo de Teruel cobran lo mismo por la misma escritura. Lo único que cambia es el valor declarado del acto, el número de folios y el número de copias.",
+     "La extinción de condominio se considera un documento de cuantía, así que su honorario se calcula sobre el valor que se adjudica. Aquí hay una discusión práctica: muchos notarios aplican el arancel sobre el valor total del inmueble, y otros, siguiendo la doctrina del AJD, sobre el valor de la cuota que cambia de manos. Pregunta antes de firmar, porque la diferencia puede ser de 100 o 200 euros.",
+     "El arancel permite al notario aplicar un descuento de hasta el 10 % en documentos de cuantía. Algunos lo aplican de oficio, otros solo si se pide. Lo que no puede hacer es cobrar más de lo que marca la tabla."
+    ]
+   },
+   {
+    "overline": "Tramos",
+    "h2": "Tramos del arancel notarial para documentos de cuantía",
+    "type": "table",
+    "intro": [
+     "La tabla vigente aplica un porcentaje decreciente por tramos acumulativos sobre el valor declarado. Estos son los tramos y lo que suponen en una extinción, sin contar folios ni copias."
+    ],
+    "items": [
+     [
+      "Valor declarado",
+      "Honorario del notario"
+     ],
+     [
+      "Hasta 6.010 euros",
+      "90,15 euros fijos."
+     ],
+     [
+      "De 6.010 a 30.050 euros",
+      "4,5 por mil sobre el exceso. Para 30.000 euros: unos 198 euros."
+     ],
+     [
+      "De 30.050 a 60.101 euros",
+      "1,5 por mil sobre el exceso. Para 60.000 euros: unos 243 euros."
+     ],
+     [
+      "De 60.101 a 150.253 euros",
+      "1 por mil sobre el exceso. Para 150.000 euros: unos 333 euros."
+     ],
+     [
+      "De 150.253 a 601.012 euros",
+      "0,5 por mil sobre el exceso. Para 300.000 euros: unos 408 euros."
+     ],
+     [
+      "Más de 601.012 euros",
+      "0,3 por mil sobre el exceso. Para 1.000.000 euros: unos 678 euros."
+     ]
+    ],
+    "outro": [
+     "A esa base se añaden los folios de la matriz, unos 3 euros cada uno a partir del quinto, la copia autorizada, unos 3 euros por folio, las copias simples, menos de 1 euro por folio, y el IVA del 21 % sobre todo. Una escritura de extinción tiene entre 10 y 20 folios. Por eso el honorario final de una extinción sobre un valor de 150.000 euros queda entre 550 y 750 euros con IVA, y no en los 333 de la tabla."
+    ]
+   },
+   {
+    "overline": "Todos los gastos",
+    "h2": "Qué otros gastos lleva una extinción de condominio además del notario",
+    "type": "cards",
+    "items": [
+     {
+      "t": "AJD",
+      "p": "El impuesto principal. Entre el 0,5 % y el 1,5 % del valor de la cuota adjudicada según comunidad autónoma. En una cuota de 100.000 euros, entre 500 y 1.500 euros. Lo paga el adjudicatario en 30 días hábiles.",
+      "url": "/extincion-de-condominio/impuestos-y-notario/",
+      "cta": "Impuestos por comunidad →"
+     },
+     {
+      "t": "Registro de la Propiedad",
+      "p": "También por arancel, con tramos similares a los del notario pero más bajos. Entre 150 y 400 euros para valores entre 60.000 y 300.000 euros, más IVA."
+     },
+     {
+      "t": "Gestoría",
+      "p": "Opcional. Entre 250 y 400 euros por liquidar el AJD, presentar la escritura en el Registro y recogerla. Si hay hipoteca, el banco suele imponer su gestoría."
+     },
+     {
+      "t": "Tasación",
+      "p": "Solo si las partes no se ponen de acuerdo en el valor o si hay que pedir hipoteca. Entre 250 y 450 euros."
+     },
+     {
+      "t": "Certificados y notas",
+      "p": "Nota simple, certificado de la comunidad, certificado energético si no está en vigor. Entre 20 y 150 euros en total."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo completo: extinción de condominio sobre un piso de 240.000 euros",
+    "type": "list",
+    "intro": [
+     "Dos hermanos al 50 % en Andalucía. Uno se queda el piso y compensa al otro con 120.000 euros. Sin hipoteca. Gastos orientativos para 2026 con IVA incluido donde aplica."
+    ],
+    "items": [
+     "<strong>Honorarios del notario:</strong> arancel sobre 120.000 euros de cuota adjudicada, unos 300 euros base, más 15 folios, copia autorizada y dos copias simples. Total con IVA: unos 620 euros. Si el notario aplica el arancel sobre los 240.000 del inmueble entero, unos 740 euros.",
+     "<strong>AJD en Andalucía (1,2 %):</strong> sobre 120.000 euros: 1.440 euros.",
+     "<strong>Registro de la Propiedad:</strong> unos 280 euros con IVA.",
+     "<strong>Gestoría:</strong> 300 euros con IVA.",
+     "<strong>Nota simple y certificado de comunidad:</strong> 40 euros.",
+     "<strong>Total de gastos:</strong> entre 2.680 y 2.800 euros. El 2,3 % de la cuota adjudicada.",
+     "<strong>Lo que necesita el adjudicatario en total:</strong> 120.000 euros de compensación más unos 2.750 de gastos: 122.750 euros."
+    ]
+   },
+   {
+    "overline": "Quién paga",
+    "h2": "Quién paga el notario en una extinción de condominio",
+    "type": "text",
+    "intro": [
+     "La ley no fija quién paga los gastos de una extinción de condominio, así que rige lo que pacten las partes. La costumbre es que pague el adjudicatario, porque es quien se beneficia de la escritura y de la inscripción, y el notario lo hará constar así salvo que la escritura diga otra cosa. Muchas familias pactan repartir los gastos de notaría a partes iguales y que el adjudicatario pague solo el AJD y el registro. Cualquier reparto es válido si consta en la escritura.",
+     "Hay dos excepciones de hecho. Si la extinción viene de un convenio regulador de divorcio, el convenio suele decir quién paga. Y si hay hipoteca con novación, el banco impone sus condiciones sobre los gastos de la novación, aunque los de la extinción sigan siendo de las partes.",
+     "Si lo que haces es vender tu cuota a un tercero, los gastos de la escritura de venta los paga quien pacte. En nuestro caso, cuando compramos una cuota, los gastos de notaría y de gestión van a nuestro cargo y el vendedor solo paga, si procede, su IRPF y la plusvalía municipal de su parte."
+    ]
+   },
+   {
+    "overline": "Ahorrar",
+    "h2": "Cómo pagar menos en la notaría de una extinción",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Pide presupuesto por escrito",
+      "p": "El notario está obligado a darlo. Compara en dos notarías: el arancel es el mismo, pero folios, copias y descuento del 10 % no siempre se aplican igual."
+     },
+     {
+      "t": "Solicita el arancel sobre la cuota adjudicada",
+      "p": "Si el notario calcula sobre el valor total del inmueble, pídele que aplique el criterio del valor de la cuota, que es el que sigue el AJD. Muchos lo aceptan."
+     },
+     {
+      "t": "Haz tú la gestión",
+      "p": "Liquidar el modelo 600 y presentar la escritura en el Registro se puede hacer en persona o por internet con certificado digital. Ahorras los 250 a 400 euros de gestoría."
+     },
+     {
+      "t": "Junta la herencia y la extinción",
+      "p": "Si el piso viene de una herencia sin inscribir, una sola escritura de adjudicación de herencia y extinción ahorra folios y una copia autorizada frente a dos escrituras separadas."
+     },
+     {
+      "t": "Vende tu cuota sin gastos",
+      "p": "Si no hay acuerdo para la extinción y decides vendernos tu parte, no pagas notaría ni gestoría. Lo asumimos nosotros en toda España."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Vender tu cuota con los gastos de notaría a nuestro cargo",
+    "intro": [
+     "Una extinción de condominio sale barata en impuestos pero exige que todos firmen y que uno tenga el dinero. Cuando eso no pasa, puedes vender tu cuota a un tercero. Compramos cuotas indivisas de pisos, casas, locales, garajes y terrenos en toda España con fondos propios. Te damos precio por escrito en 48 horas, firmamos en notaría en dos a cuatro semanas, pagamos al contado y los gastos de notaría y gestión van a nuestro cargo. Sin exclusividad y sin compromiso."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos la cuota sin que pagues notaría",
+     "p": "Dinos la dirección del inmueble y tu porcentaje. Oferta por escrito en 48 horas.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto cuesta el notario en una extinción de condominio?",
+    "Entre 500 y 900 euros con IVA para valores entre 100.000 y 300.000 euros, según folios y copias. El arancel es el mismo en toda España; solo cambia el valor declarado."
+   ],
+   [
+    "¿El notario cobra sobre el valor del piso o sobre la parte adjudicada?",
+    "Depende del criterio de cada notaría. Muchos aplican el valor de la cuota que cambia de manos, igual que el AJD. Pide presupuesto y, si calcula sobre el total, solicita que lo revise."
+   ],
+   [
+    "¿Qué gastos tiene en total una extinción de condominio?",
+    "Notario, AJD, Registro de la Propiedad, gestoría opcional y tasación si hace falta. Para una cuota de 120.000 euros, entre 2.500 y 3.500 euros según comunidad. El AJD es la partida mayor."
+   ],
+   [
+    "¿Quién paga el notario en la extinción de condominio?",
+    "Por costumbre, el adjudicatario, salvo pacto en contra en la escritura. Es habitual repartir la notaría y que el adjudicatario asuma AJD y registro."
+   ],
+   [
+    "¿Se puede hacer la extinción de condominio sin notario para ahorrar?",
+    "En documento privado vale entre las partes, pero no se inscribe en el Registro ni sirve al banco. Con un inmueble, en la práctica, hace falta escritura pública."
+   ],
+   [
+    "¿Si os vendo mi cuota, quién paga la notaría?",
+    "Nosotros. Los gastos de notaría y de gestión de la escritura de venta corren de nuestra cuenta. Tú solo pagas, si procede, el IRPF de la ganancia y la plusvalía municipal de tu parte."
+   ]
+  ],
+  "faq_title": "Preguntas sobre los gastos de notaría",
+  "related": [
+   [
+    "Impuestos y notario en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Escritura de extinción de condominio",
+    "/blog/escritura-de-extincion-de-condominio/"
+   ],
+   [
+    "Ejemplo con cifras",
+    "/blog/ejemplo-de-extincion-de-condominio-con-cifras/"
+   ],
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota sin pagar notaría",
+  "cta_text": "Compramos tu parte con fondos propios en toda España. Oferta por escrito en 48 horas, firma en 2-4 semanas y gastos de notaría y gestión a nuestro cargo.",
+  "yoast_title": "Cuánto cobra el notario por una extinción de condominio",
+  "meta_desc": "Cuánto cobra el notario por una extinción de condominio: arancel por tramos, registro, gestoría, quién paga y ejemplo. Si nos vendes, notaría gratis.",
+  "focus_kw": "notario extinción de condominio",
+  "title_corto": "Precio del notario"
+ },
+ {
+  "slug": "valor-de-la-vivienda-en-la-extincion-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Valoración",
+  "h1": "Qué valor poner a la vivienda en la extinción de condominio (y qué pasa si lo pones bajo)",
+  "sub": "El valor de la vivienda en una extinción de condominio lo pactan las partes, pero Hacienda no acepta nada por debajo del valor de referencia de Catastro para liquidar el AJD. Si lo pones más bajo, te llega una liquidación complementaria con intereses. Te explicamos qué valor usar, cómo se discute entre copropietarios y qué consecuencias tiene cada opción. Si no hay acuerdo, compramos tu cuota.",
+  "checks": [
+   "Valor de referencia explicado",
+   "Consecuencias de valorar bajo",
+   "Compramos si no hay acuerdo"
+  ],
+  "card_title": "¿No os ponéis de acuerdo en el valor?",
+  "card_text": "Nosotros te damos un precio concreto por tu cuota en 48 horas, sin discusiones.",
+  "sections": [
+   {
+    "overline": "Respuesta directa",
+    "h2": "Qué valor hay que poner a la vivienda en una extinción de condominio",
+    "type": "text",
+    "intro": [
+     "El valor que se declara en la escritura de extinción de condominio es libre: lo fijan los copropietarios de común acuerdo. Pero tiene dos usos distintos y conviene no mezclarlos. El primero es calcular la compensación que el adjudicatario paga al que sale. El segundo es servir de base para el AJD. Para la compensación, el valor justo es el de mercado. Para el AJD, Hacienda exige como mínimo el valor de referencia de Catastro desde 2022.",
+     "En la práctica, el consejo es declarar el valor de mercado real y comprobar que no está por debajo del valor de referencia. Si el valor de mercado es mayor, se declara el de mercado. Si por alguna razón el valor de referencia es mayor que el de mercado, se declara al menos el de referencia a efectos fiscales, o se impugna con tasación. Declarar menos ahorra unas decenas de euros de AJD y abre la puerta a una comprobación de valores."
+    ]
+   },
+   {
+    "overline": "Tres valores",
+    "h2": "Valor de referencia, valor catastral y valor de mercado: no son lo mismo",
+    "type": "table",
+    "items": [
+     [
+      "Valor",
+      "Qué es y para qué sirve en la extinción"
+     ],
+     [
+      "Valor catastral",
+      "El que aparece en el recibo del IBI. Lo fija Catastro con criterios antiguos y suele ser muy inferior al mercado, a veces la mitad o menos. Sirve para el IBI y la plusvalía municipal, no para el AJD."
+     ],
+     [
+      "Valor de referencia de Catastro",
+      "Lo calcula Catastro cada año a partir de las compraventas reales de la zona. Se consulta gratis en la Sede Electrónica del Catastro con el DNI. Desde 2022 es la base mínima del AJD, ITP y Sucesiones. No debería superar el valor de mercado, pero a veces lo hace."
+     ],
+     [
+      "Valor de mercado",
+      "Lo que pagaría un comprador hoy. Se estima con portales inmobiliarios, con un agente de la zona o con una tasación oficial. Es el valor justo para calcular la compensación entre copropietarios."
+     ],
+     [
+      "Valor de tasación",
+      "El que fija una sociedad de tasación homologada. Lo exige el banco si hay hipoteca y es la prueba más fuerte para impugnar un valor de referencia excesivo. Cuesta entre 250 y 450 euros."
+     ]
+    ],
+    "outro": [
+     "Un ejemplo de los tres valores en un mismo piso en Valencia: valor catastral de 68.000 euros, valor de referencia de 165.000 y valor de mercado de 190.000. La compensación por el 50 % debería calcularse sobre 190.000: 95.000 euros. El AJD se liquida sobre al menos 82.500, el 50 % del valor de referencia, aunque lo correcto es declarar los 95.000 y pagar sobre esa cifra."
+    ]
+   },
+   {
+    "overline": "Consecuencias",
+    "h2": "Qué pasa si declaras un valor bajo en la extinción de condominio",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Liquidación complementaria del AJD",
+      "p": "Si declaras por debajo del valor de referencia, la comunidad autónoma liquida la diferencia de oficio, sin necesidad de comprobación, con intereses de demora. Es automático porque el valor de referencia es un dato que ya tiene."
+     },
+     {
+      "t": "Sanción tributaria",
+      "p": "Si la Administración entiende que hubo ocultación, puede imponer una sanción de entre el 50 % y el 150 % de la cuota dejada de ingresar. En diferencias pequeñas suele quedarse en liquidación con intereses, pero el riesgo existe."
+     },
+     {
+      "t": "Donación encubierta",
+      "p": "Si el valor declarado es muy inferior al real y la compensación se calcula sobre él, el que sale está regalando parte de su cuota al que se queda. Hacienda puede calificar la diferencia como donación y liquidar ese impuesto, mucho más caro."
+     },
+     {
+      "t": "Problema futuro para el adjudicatario",
+      "p": "El valor declarado en la extinción es el valor de adquisición de la cuota que se queda. Cuando venda el piso, su ganancia patrimonial en IRPF será mayor cuanto más bajo haya declarado ahora. Ahorrar 200 euros de AJD puede costar miles de IRPF dentro de diez años."
+     },
+     {
+      "t": "Conflicto entre copropietarios",
+      "p": "El que sale cobra menos de lo que vale su parte. Si luego descubre el valor real, puede reclamar por error o lesión. Las extinciones mal valoradas acaban en pleitos entre hermanos."
+     }
+    ]
+   },
+   {
+    "overline": "Comprobación",
+    "h2": "Cómo funciona la comprobación de valores y cómo defenderse",
+    "type": "text",
+    "intro": [
+     "Cuando el valor declarado es inferior al de referencia, la comunidad autónoma gira una liquidación complementaria directamente. No necesita tasar: aplica el valor de referencia y calcula la diferencia. Tienes un mes para pagar o recurrir. Para recurrir con éxito hay que demostrar que el valor de referencia no se corresponde con el mercado, y eso solo se consigue con una tasación oficial o con pruebas sólidas: estado de conservación deficiente, cargas, ocupación.",
+     "Cuando el valor declarado es igual o superior al de referencia, la Administración solo puede comprobar si usa alguno de los medios de la Ley General Tributaria, como el dictamen de perito, y tiene que motivarlo con una visita al inmueble. Esa comprobación es mucho más difícil de sostener y el Tribunal Supremo ha anulado muchas por falta de motivación. Por eso declarar al menos el valor de referencia es la forma más segura de que nadie te discuta la escritura.",
+     "Un caso especial es el inmueble en mal estado: una casa de pueblo sin reformar o un piso con problemas estructurales cuyo valor de referencia está por encima de lo que vale. Ahí conviene encargar una tasación antes de firmar, declarar el valor de tasación y adjuntar el informe a la autoliquidación. La comunidad autónoma puede aceptarlo o no, pero tendrás la prueba preparada."
+    ]
+   },
+   {
+    "overline": "Acuerdo",
+    "h2": "Cómo ponerse de acuerdo en el valor entre copropietarios",
+    "type": "steps",
+    "items": [
+     {
+      "t": "Consulta el valor de referencia",
+      "p": "En la Sede Electrónica del Catastro, con certificado digital o Cl@ve. Es el suelo del que partir y nadie puede discutirlo."
+     },
+     {
+      "t": "Mira los precios de la zona",
+      "p": "Tres o cuatro anuncios de pisos parecidos en el mismo edificio o calle. Resta entre el 5 % y el 10 % porque los anuncios piden más de lo que se cierra."
+     },
+     {
+      "t": "Encarga una tasación si no hay acuerdo",
+      "p": "Pagada a medias, de una sociedad homologada. Entre 250 y 450 euros. El que la rechace sin motivo suele estar buscando un valor que le favorezca."
+     },
+     {
+      "t": "Ajusta por el estado y la situación",
+      "p": "Reforma pendiente, inquilino, copropietario viviendo dentro, hipoteca. Todo esto baja el valor de mercado y debe reflejarse."
+     },
+     {
+      "t": "Refleja el valor y el método en la escritura",
+      "p": "Declarar que el valor se ha fijado por tasación de fecha concreta protege a todos frente a reclamaciones futuras."
+     }
+    ]
+   },
+   {
+    "overline": "Sin acuerdo",
+    "h2": "Cuando el valor es el problema, vende tu cuota a un precio cierto",
+    "intro": [
+     "El valor es la primera trinchera de muchas extinciones. El que se queda quiere pagar poco; el que sale quiere cobrar mucho; nadie quiere pagar la tasación. Mientras tanto, pasan los meses. Si tú eres el que quiere salir, puedes vender tu cuota a un tercero y dejar de discutir. Compramos cuotas indivisas en toda España con fondos propios. Te damos un precio concreto por escrito en 48 horas, entre el 40 % y el 70 % del valor proporcional de tu parte, y lo pagamos al contado en notaría. Los gastos de notaría van a nuestro cargo."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Un precio cierto por tu cuota, sin tasaciones",
+     "p": "Dinos la dirección del inmueble y tu porcentaje. Oferta por escrito en 48 horas, sin compromiso y sin exclusividad.",
+     "cta": "Pedir precio por mi cuota"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué valor se declara en una extinción de condominio?",
+    "El que pacten las partes, que debería ser el de mercado. A efectos del AJD, nunca por debajo del valor de referencia de Catastro, que es la base mínima desde 2022."
+   ],
+   [
+    "¿Qué pasa si pongo un valor inferior al de referencia?",
+    "La comunidad autónoma liquida la diferencia de AJD con intereses de demora de forma automática. Si hay ocultación, puede sancionar. Además, el adjudicatario tendrá más ganancia en IRPF cuando venda."
+   ],
+   [
+    "¿Puedo declarar un valor superior al de referencia?",
+    "Sí, y es lo correcto si el mercado está por encima. Pagas un poco más de AJD, pero la compensación es justa y el adjudicatario tiene un valor de adquisición mayor para el futuro."
+   ],
+   [
+    "¿Dónde consulto el valor de referencia de mi vivienda?",
+    "En la Sede Electrónica del Catastro, con certificado digital, Cl@ve o DNI electrónico. Es gratuito e inmediato. Se actualiza cada año."
+   ],
+   [
+    "¿Hace falta tasación para la extinción de condominio?",
+    "No es obligatoria. Es recomendable cuando los copropietarios no se ponen de acuerdo, cuando el valor de referencia parece excesivo o cuando hay que pedir hipoteca, porque el banco la exige."
+   ],
+   [
+    "¿Qué valor usáis vosotros para comprar una cuota?",
+    "Partimos del valor de mercado del inmueble y aplicamos entre el 40 % y el 70 % a tu parte proporcional, según ciudad, ocupación, cargas y número de copropietarios. Te lo damos por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el valor de la vivienda",
+  "related": [
+   [
+    "Impuestos y notario en la extinción",
+    "/extincion-de-condominio/impuestos-y-notario/"
+   ],
+   [
+    "Extinción con compensación económica",
+    "/blog/extincion-de-condominio-con-compensacion-economica/"
+   ],
+   [
+    "Extinción sin compensación económica",
+    "/blog/extincion-de-condominio-sin-compensacion-economica/"
+   ],
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ]
+  ],
+  "cta_title": "Deja de discutir el valor: te damos un precio cierto",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos de notaría a nuestro cargo.",
+  "yoast_title": "Qué valor poner a la vivienda en la extinción de condominio",
+  "meta_desc": "Valor de la vivienda en la extinción de condominio: valor de referencia, tasación, comprobación de valores y qué pasa si lo pones bajo. Compramos tu cuota.",
+  "focus_kw": "valor vivienda extinción de condominio",
+  "title_corto": "Valor de la vivienda"
+ },
+ {
+  "slug": "extincion-de-condominio-por-divorcio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Divorcio y separación",
+  "h1": "Extinción de condominio por divorcio: cómo quedarse la casa o salir de ella",
+  "sub": "Tras un divorcio, la extinción de condominio permite que uno de los dos se quede la vivienda y compense al otro, con la hipoteca a su solo nombre. Se puede pactar en el convenio regulador o hacer después ante notario, y tributa por AJD. Te explicamos cómo se hace, qué pasa con el uso atribuido a los hijos y qué opciones tienes si el otro no puede comprarte. Compramos tu mitad si prefieres salir ya.",
+  "checks": [
+   "Convenio o escritura: las dos vías",
+   "Uso de los hijos explicado",
+   "Compramos tu mitad si no hay acuerdo"
+  ],
+  "card_title": "¿Quieres salir de la casa tras el divorcio?",
+  "card_text": "Compramos tu mitad aunque tu expareja viva dentro o tenga el uso atribuido. Precio en 48 horas.",
+  "sections": [
+   {
+    "overline": "Punto de partida",
+    "h2": "Qué pasa con la casa cuando os divorciáis",
+    "type": "text",
+    "intro": [
+     "Al divorciarse, el matrimonio deja de existir pero la copropiedad de la casa no. Si comprasteis en gananciales, la vivienda forma parte de la sociedad de gananciales que hay que liquidar. Si comprasteis en separación de bienes o sin estar casados, sois copropietarios por mitades y seguís siéndolo después del divorcio. En los dos casos, el resultado práctico es el mismo: dos personas que ya no quieren nada en común siguen siendo dueñas de la misma casa y, casi siempre, deudoras de la misma hipoteca.",
+     "Las salidas son tres. Que uno se quede la casa y compense al otro, que es la extinción de condominio. Que se venda la casa a un tercero y se reparta el dinero. O que uno venda su mitad a un tercero sin que el otro tenga que estar de acuerdo. Esta entrada se centra en la primera y, al final, en la tercera, que es lo que hacemos nosotros.",
+     "Un aviso antes de seguir: la extinción de condominio no tiene que ver con el régimen de visitas ni con la pensión. Es una operación patrimonial. Lo que sí la condiciona es el uso de la vivienda que el juez atribuya a los hijos, como verás más abajo."
+    ]
+   },
+   {
+    "overline": "Vías",
+    "h2": "Las dos formas de hacer la extinción de condominio en un divorcio",
+    "type": "cards",
+    "items": [
+     {
+      "t": "En el convenio regulador",
+      "p": "Si el divorcio es de mutuo acuerdo, el convenio puede incluir la adjudicación de la vivienda a uno de los dos y la compensación al otro. El juez lo aprueba en la sentencia y esa sentencia se inscribe en el Registro. Si la casa era ganancial, la adjudicación en la liquidación de gananciales está exenta de AJD por el artículo 45 de la ley del ITP. Es la vía más barata."
+     },
+     {
+      "t": "En escritura notarial posterior",
+      "p": "Si el convenio no resolvió la casa, o si no estabais casados, se hace después una extinción de condominio ante notario como cualquier otra: valor, compensación, adjudicación y AJD entre el 0,5 % y el 1,5 % según comunidad. Muchas parejas la hacen meses o años después del divorcio, cuando uno consigue la hipoteca."
+     },
+     {
+      "t": "Divorcio ante notario",
+      "p": "Desde 2015, los matrimonios sin hijos menores pueden divorciarse ante notario. En la misma escritura o en otra del mismo día puede hacerse la liquidación de gananciales o la extinción de condominio. Rápido y sin juzgado."
+     },
+     {
+      "t": "Divorcio contencioso",
+      "p": "Si no hay acuerdo, el juez disuelve el matrimonio pero no reparte la casa. La liquidación de gananciales o la división de la cosa común son procedimientos aparte que tardan de uno a tres años."
+     }
+    ]
+   },
+   {
+    "overline": "Hipoteca",
+    "h2": "La hipoteca es el nudo de la extinción por divorcio",
+    "type": "text",
+    "intro": [
+     "En casi todos los divorcios con casa hay hipoteca a nombre de los dos. Firmar la extinción no cambia el préstamo: aunque uno deje de ser dueño, sigue siendo deudor frente al banco mientras la entidad no le libere. Por eso la extinción se coordina con una novación en la que el banco acepta al adjudicatario como único deudor. Y el banco solo acepta si ese adjudicatario puede pagar solo la cuota que antes pagaban dos: ratio de endeudamiento por debajo del 35 % o 40 % de sus ingresos.",
+     "Si el banco no libera al que sale, la extinción puede firmarse igual, pero ese excónyuge queda en una posición mala: sin casa y respondiendo de una deuda ajena. Algunos convenios lo pactan así con una cláusula de que el adjudicatario pagará la hipoteca, pero esa cláusula no vincula al banco. Si el adjudicatario deja de pagar, el banco ejecuta contra los dos.",
+     "La compensación se calcula restando la hipoteca pendiente del valor. Casa de 250.000 euros, hipoteca de 150.000, mitades: valor neto 100.000, compensación de 50.000 euros al que sale, y el que se queda asume los 150.000 de deuda. Tienes el detalle en nuestra guía de extinción de condominio con hipoteca."
+    ]
+   },
+   {
+    "overline": "Hijos",
+    "h2": "Qué pasa con el uso de la vivienda atribuido a los hijos",
+    "type": "list",
+    "intro": [
+     "El artículo 96 del Código Civil atribuye el uso de la vivienda familiar a los hijos menores y al progenitor con el que convivan. Este uso es independiente de la propiedad y condiciona cualquier operación sobre la casa."
+    ],
+    "items": [
+     "<strong>El uso no impide la extinción.</strong> El progenitor que no tiene el uso puede ceder su mitad al otro mediante extinción con compensación. De hecho es la solución más limpia: el que vive con los hijos pasa a ser el único dueño.",
+     "<strong>El uso sí limita el valor.</strong> Si el que no tiene el uso quiere que se venda la casa o vender su mitad, el comprador adquiere una vivienda ocupada por derecho judicial hasta que los hijos sean mayores o se modifique la medida. El precio baja.",
+     "<strong>El uso puede cambiar.</strong> La reforma de 2015 y la jurisprudencia del Supremo permiten limitar el uso en el tiempo, y la convivencia del progenitor custodio con una nueva pareja en la vivienda extingue el uso según doctrina del Supremo de 2018.",
+     "<strong>Los gastos no cambian con el uso.</strong> IBI, comunidad y hipoteca siguen siendo de los dos propietarios por mitad, salvo que el convenio diga otra cosa. El que no vive en la casa sigue pagando.",
+     "<strong>Con custodia compartida</strong> el uso se atribuye al progenitor con más necesidad o se limita en el tiempo, y la extinción o la venta son más fáciles."
+    ]
+   },
+   {
+    "overline": "Cifras",
+    "h2": "Cuánto cuesta la extinción de condominio por divorcio",
+    "type": "table",
+    "intro": [
+     "Casa de 250.000 euros en Madrid, hipoteca pendiente de 150.000, mitades. Uno se queda la casa, asume la hipoteca y compensa al otro con 50.000 euros. Cifras orientativas 2026."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "En el convenio (gananciales) / En escritura posterior"
+     ],
+     [
+      "AJD de la extinción",
+      "Convenio con liquidación de gananciales: exento. Escritura posterior: 0,75 % sobre 125.000 euros de cuota adjudicada, 937 euros."
+     ],
+     [
+      "Novación de la hipoteca",
+      "Igual en los dos casos: comisión del banco de 0 % a 1 %, hasta 1.500 euros, más notaría y registro de la novación, entre 400 y 800 euros."
+     ],
+     [
+      "Notaría de la extinción",
+      "Convenio: no hay escritura aparte, se inscribe el testimonio de la sentencia, unos 100 euros. Escritura posterior: entre 600 y 800 euros."
+     ],
+     [
+      "Registro",
+      "Entre 200 y 350 euros en los dos casos."
+     ],
+     [
+      "Gestoría",
+      "Entre 250 y 400 euros si se contrata."
+     ],
+     [
+      "Total orientativo",
+      "Convenio: entre 950 y 3.150 euros. Escritura posterior: entre 2.400 y 4.800 euros. Más los 50.000 de compensación."
+     ]
+    ],
+    "outro": [
+     "Si estabais en separación de bienes o no casados, la exención del convenio no se aplica y la extinción tributa por AJD aunque esté en el convenio. La plusvalía municipal no se devenga en ninguno de los dos casos. El que sale puede tener ganancia en IRPF si cobra más de lo que le costó su mitad, salvo en la liquidación de gananciales, donde no hay alteración patrimonial si se reparte por mitades."
+    ]
+   },
+   {
+    "overline": "Sin acuerdo",
+    "h2": "Si tu expareja no puede comprarte, vende tu mitad",
+    "intro": [
+     "El caso típico: tu expareja vive en la casa con los hijos, quiere quedársela, pero el banco no le concede la hipoteca para compensarte y liberarte. Tú vives de alquiler y sigues pagando la mitad de la hipoteca y del IBI. Pueden pasar años. La alternativa es vender tu mitad a un tercero: no necesitas su consentimiento, solo respetar su derecho de retracto durante nueve días.",
+     "Compramos mitades de viviendas de divorcio en toda España, con hipoteca, con el uso atribuido a los hijos y con la expareja dentro. Descontamos la deuda proporcional del precio, nos subrogamos o la cancelamos en notaría según el caso, y te pagamos el resto al contado. Entre el 40 % y el 70 % del valor proporcional de tu mitad. En la página sobre vender un proindiviso por divorcio tienes el detalle."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Sal de la casa del divorcio en semanas",
+     "p": "Dinos la dirección, cuánto queda de hipoteca y si hay uso atribuido. Te damos precio por escrito en 48 horas, sin compromiso.",
+     "cta": "Pedir precio por mi mitad"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede hacer la extinción de condominio en el convenio regulador?",
+    "Sí. Si el divorcio es de mutuo acuerdo, el convenio puede adjudicar la vivienda a uno de los cónyuges con compensación al otro. Si la casa era ganancial, esa adjudicación está exenta de AJD."
+   ],
+   [
+    "¿Qué pasa con la hipoteca en la extinción de condominio por divorcio?",
+    "No cambia sola. El banco tiene que aceptar al adjudicatario como único deudor mediante novación. Si no lo acepta, el que sale sigue respondiendo del préstamo aunque ya no sea dueño."
+   ],
+   [
+    "¿Puedo hacer la extinción si mi expareja tiene el uso de la vivienda con los hijos?",
+    "Sí. El uso no impide la extinción. Lo normal es que el progenitor con el uso se adjudique la casa y compense al otro. Si es el otro el que se la queda, el uso de los hijos se mantiene hasta que se modifique judicialmente."
+   ],
+   [
+    "¿Cuánto cuesta la extinción de condominio por divorcio?",
+    "En el convenio con liquidación de gananciales, entre 950 y 3.150 euros con la novación. En escritura posterior, entre 2.400 y 4.800 euros, según comunidad y hipoteca. Más la compensación."
+   ],
+   [
+    "¿Y si no estábamos casados?",
+    "La extinción se hace en escritura notarial como entre dos copropietarios cualesquiera y tributa por AJD. No hay convenio regulador ni exención de gananciales."
+   ],
+   [
+    "¿Compráis mi mitad si mi ex vive en la casa con los niños?",
+    "Sí. Compramos mitades de viviendas de divorcio con uso atribuido, con hipoteca y con la expareja dentro. Precio por escrito en 48 horas y pago al contado en notaría."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la extinción por divorcio",
+  "related": [
+   [
+    "Vender proindiviso por divorcio",
+    "/vender-proindiviso-divorcio/"
+   ],
+   [
+    "Extinción de condominio con hipoteca",
+    "/extincion-de-condominio/hipoteca/"
+   ],
+   [
+    "Hipoteca para la extinción",
+    "/blog/hipoteca-para-extincion-de-condominio/"
+   ],
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Vender proindiviso con hipoteca",
+    "/vender-proindiviso-con-hipoteca/"
+   ]
+  ],
+  "cta_title": "Cierra el capítulo de la casa",
+  "cta_text": "Compramos tu mitad con fondos propios, con hipoteca y con tu expareja dentro. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y gastos a nuestro cargo.",
+  "yoast_title": "Extinción de condominio por divorcio: quedarse o salir",
+  "meta_desc": "Extinción de condominio por divorcio: convenio o escritura, hipoteca, uso de los hijos y coste 2026. Si tu ex no puede comprarte, compramos tu mitad.",
+  "focus_kw": "extinción de condominio divorcio",
+  "title_corto": "Extinción por divorcio"
+ },
+ {
+  "slug": "vender-o-hacer-extincion-de-condominio",
+  "kind": "post",
+  "category": "extincion-de-condominio",
+  "kicker": "Decisión",
+  "h1": "¿Qué es mejor, vender mi parte o hacer una extinción de condominio?",
+  "sub": "La extinción de condominio es mejor si hay acuerdo y el otro tiene el dinero: cobras el valor proporcional de tu parte y los impuestos son bajos. Vender tu parte es mejor si no hay acuerdo, no hay dinero o no quieres esperar: cobras menos, entre el 40 % y el 70 %, pero en semanas y sin depender de nadie. Aquí tienes la comparativa completa y un árbol de decisión. Compramos tu parte si eliges la segunda.",
+  "checks": [
+   "Comparativa con tabla",
+   "Árbol de decisión",
+   "Compramos si eliges vender"
+  ],
+  "card_title": "¿Aún no sabes qué te conviene?",
+  "card_text": "Pide precio por tu parte sin compromiso. Con la cifra en la mano, la decisión es más fácil.",
+  "sections": [
+   {
+    "overline": "Las dos opciones",
+    "h2": "Qué diferencia hay entre vender tu parte y hacer una extinción de condominio",
+    "type": "text",
+    "intro": [
+     "En la extinción de condominio, uno de los copropietarios se queda el inmueble entero y te paga el valor de tu cuota. Es una operación interna entre comuneros: nadie de fuera entra, tributa por AJD y necesita que todos firmen y que el adjudicatario tenga el dinero. Es la salida más rentable para el que sale, porque cobra el 100 % del valor proporcional de su parte, menos la hipoteca si la hay.",
+     "En la venta de tu parte, transmites tu cuota a alguien de fuera de la comunidad. Lo permite el artículo 399 del Código Civil sin necesidad de consentimiento de los demás, que solo conservan el derecho de retracto de nueve días. El comprador paga menos que el valor proporcional, porque adquiere un bien compartido que no puede usar ni vender entero sin acuerdo o juicio. A cambio, la operación no depende de nadie más que de ti y del comprador.",
+     "No son opciones excluyentes en el tiempo. Mucha gente intenta primero la extinción, y cuando lleva seis meses bloqueada por falta de dinero o de firma, vende su parte. Lo que conviene es saber desde el principio cuál es la vía realista para tu caso, para no perder un año."
+    ]
+   },
+   {
+    "overline": "Comparativa",
+    "h2": "Vender tu parte o hacer extinción de condominio: tabla comparativa",
+    "type": "table",
+    "items": [
+     [
+      "Criterio",
+      "Extinción de condominio / Vender tu parte a un tercero"
+     ],
+     [
+      "Necesidad de acuerdo",
+      "Extinción: todos los copropietarios tienen que firmar. Venta: no necesitas el acuerdo de nadie; los demás solo tienen retracto durante nueve días."
+     ],
+     [
+      "Quién necesita dinero",
+      "Extinción: el copropietario que se queda el inmueble, con ahorros o hipoteca aprobada. Venta: el comprador, que paga con fondos propios."
+     ],
+     [
+      "Precio que recibes",
+      "Extinción: el 100 % del valor proporcional de tu cuota, menos la parte de hipoteca y las cuentas pendientes. Venta: entre el 40 % y el 70 % del valor proporcional, según ciudad, ocupación y cargas."
+     ],
+     [
+      "Plazo",
+      "Extinción: de dos semanas a tres meses si hay acuerdo y dinero; de seis meses a nunca si falta uno de los dos. Venta: oferta en 48 horas y firma en dos a cuatro semanas."
+     ],
+     [
+      "Coste para el que sale",
+      "Extinción: nada salvo el IRPF si hay ganancia. Venta: IRPF si hay ganancia y plusvalía municipal de tu cuota. Notaría a cargo del comprador en nuestro caso."
+     ],
+     [
+      "Coste para el que se queda",
+      "Extinción: AJD del 0,5 % al 1,5 % sobre la cuota adquirida, notaría, registro y gestoría, entre el 1,5 % y el 4 %. Venta: no paga nada; pasa a compartir el inmueble con el comprador."
+     ],
+     [
+      "Impuestos de la operación",
+      "Extinción: AJD, sin ITP ni plusvalía municipal. Venta: ITP a cargo del comprador, plusvalía municipal a cargo del vendedor."
+     ],
+     [
+      "Qué pasa con la hipoteca",
+      "Extinción: el banco tiene que liberar al que sale mediante novación. Venta: el comprador descuenta la deuda proporcional del precio y se subroga o la cancela; tú dejas de ser deudor."
+     ],
+     [
+      "Riesgo de que no se cierre",
+      "Extinción: alto si el adjudicatario depende de hipoteca o si hay un copropietario que no colabora. Venta: bajo, depende solo de ti."
+     ]
+    ]
+   },
+   {
+    "overline": "Árbol de decisión",
+    "h2": "Cómo decidir en cinco preguntas",
+    "type": "steps",
+    "intro": [
+     "Responde en orden. En cuanto una respuesta te saque del camino de la extinción, la venta de tu parte es la vía realista."
+    ],
+    "items": [
+     {
+      "t": "¿Hay un copropietario que quiera quedarse el inmueble entero?",
+      "p": "Si nadie quiere el 100 %, no hay extinción posible. Queda vender el inmueble entre todos, lo que exige unanimidad, o que cada uno venda su parte. Si sí, sigue."
+     },
+     {
+      "t": "¿Ese copropietario tiene el dinero o le han aprobado la hipoteca?",
+      "p": "No vale que diga que lo pedirá. Si no tiene aprobación bancaria o ahorros, la extinción se quedará en intención. Si la tiene, sigue."
+     },
+     {
+      "t": "¿Están todos los demás dispuestos a firmar?",
+      "p": "Un solo copropietario que no conteste o se niegue bloquea la escritura. Si todos firman, sigue."
+     },
+     {
+      "t": "¿Os ponéis de acuerdo en el valor y en las cuentas?",
+      "p": "Si la discusión sobre el valor, el IBI atrasado o quién vivió gratis lleva meses, la extinción no avanzará. Una tasación pagada a medias suele resolverlo. Si hay acuerdo, sigue."
+     },
+     {
+      "t": "¿Puedes esperar entre uno y tres meses?",
+      "p": "Si todo lo anterior es sí, la extinción es tu mejor opción: cobrarás el valor proporcional completo. Si necesitas el dinero antes o no te fías de que se cumpla, vende tu parte."
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Las dos opciones con números: piso de 200.000 euros al 50 %",
+    "type": "list",
+    "intro": [
+     "Dos hermanos en Madrid, piso heredado sin hipoteca, valorado en 200.000 euros. Uno quiere salir."
+    ],
+    "items": [
+     "<strong>Extinción de condominio:</strong> el que sale cobra 100.000 euros. El que se queda paga 100.000 más unos 750 euros de AJD, 700 de notaría, 300 de registro y 300 de gestoría: 102.050 euros en total. Plazo: de dos semanas a tres meses si consigue el dinero.",
+     "<strong>Venta de la parte a nosotros:</strong> el que sale cobra entre 40.000 y 70.000 euros al contado en notaría en dos a cuatro semanas, sin que su hermano firme nada. Nosotros pagamos el ITP y la notaría. El vendedor paga la plusvalía municipal de su mitad, unos cientos de euros si heredó hace poco, y el IRPF solo si hay ganancia, que no la hay si vende por menos de lo que se valoró en la herencia.",
+     "<strong>Diferencia:</strong> entre 30.000 y 60.000 euros a favor de la extinción. Es mucho dinero, y por eso la extinción es mejor siempre que sea posible. La pregunta es si lo es.",
+     "<strong>Lo que cuesta esperar:</strong> cada año de bloqueo son 600 a 1.500 euros de IBI y comunidad que sigues pagando a medias, más la pérdida de valor si el piso se deteriora vacío o lo ocupa el otro sin pagar."
+    ]
+   },
+   {
+    "overline": "Cuándo vender",
+    "h2": "Casos en los que vender tu parte es la mejor opción",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Un copropietario vive en el piso y no quiere comprar ni vender",
+      "p": "No tiene prisa y no la tendrá. La extinción no llegará nunca y la división judicial tarda años. Vender tu parte es la única salida en semanas.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender parte heredada →"
+     },
+     {
+      "t": "El banco ha denegado la hipoteca al que se queda",
+      "p": "Tras una o dos denegaciones, la probabilidad de que la tercera salga es baja. Cada mes que pasa sigues pagando tu mitad de la hipoteca de una casa que no usas.",
+      "url": "/vender-proindiviso-con-hipoteca/",
+      "cta": "Vender con hipoteca →"
+     },
+     {
+      "t": "Hay muchos copropietarios",
+      "p": "Con cinco o seis herederos, la probabilidad de que todos firmen y uno pague a los demás baja mucho. Vender tu cuota te saca de la comunidad sin esperar al resto.",
+      "url": "/vender-proindiviso-entre-hermanos/",
+      "cta": "Vender entre hermanos →"
+     },
+     {
+      "t": "Necesitas el dinero ahora",
+      "p": "Una deuda, una entrada para otra vivienda, un traslado. Cobrar 60.000 euros en tres semanas puede valer más que cobrar 100.000 dentro de un año que no sabes si llegará."
+     },
+     {
+      "t": "La relación está rota",
+      "p": "Cuando cada conversación acaba en discusión, la extinción no se cierra. Vender tu parte termina con la relación patrimonial sin que tengáis que hablar más."
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Cómo compramos tu parte si decides vender",
+    "intro": [
+     "Compramos cuotas indivisas de viviendas, locales, garajes y terrenos en toda España con fondos propios. No somos intermediarios ni abogados: somos el comprador. Dinos la dirección del inmueble, tu porcentaje y la situación: ocupado, vacío, con hipoteca, con herencia sin inscribir. Te damos precio por escrito en 48 horas, firmamos en notaría en dos a cuatro semanas, te pagamos al contado en el mismo acto y los gastos de notaría y gestión van a nuestro cargo. Sin exclusividad y sin compromiso. Si mientras tanto tu copropietario reúne el dinero para la extinción, nos lo dices y no pasa nada."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Pide precio y decide con la cifra delante",
+     "p": "Oferta por escrito en 48 horas. Si al final hacéis la extinción, no nos debes nada.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué es mejor, vender mi parte o hacer una extinción de condominio?",
+    "La extinción si hay acuerdo y el otro tiene el dinero, porque cobras el valor proporcional completo. Vender tu parte si no hay acuerdo, no hay dinero o no quieres esperar: cobras menos, pero en semanas y sin depender de nadie."
+   ],
+   [
+    "¿Cuánto pierdo si vendo mi parte en lugar de hacer la extinción?",
+    "Entre el 30 % y el 60 % del valor proporcional de tu cuota. A cambio, no necesitas la firma ni el dinero del otro y cobras al contado en dos a cuatro semanas."
+   ],
+   [
+    "¿Puedo vender mi parte sin que el otro copropietario lo sepa?",
+    "Puedes venderla sin su consentimiento. Después de la venta tiene derecho de retracto durante nueve días desde que la conoce, para quedarse tu cuota al mismo precio. Si no lo ejerce, la venta es firme."
+   ],
+   [
+    "¿Qué impuestos pago si vendo mi parte?",
+    "La plusvalía municipal de tu cuota y el IRPF solo si hay ganancia respecto a lo que te costó. El ITP y la notaría los paga el comprador. En la extinción, el que sale no paga AJD ni plusvalía."
+   ],
+   [
+    "¿Y si empiezo la extinción y no sale?",
+    "Puedes vender tu parte en cualquier momento. Nuestra oferta no te compromete: la pides, la guardas y, si la extinción se bloquea, la activas."
+   ],
+   [
+    "¿Compráis partes de cualquier inmueble?",
+    "Sí: pisos, casas, locales, garajes, trasteros, naves, terrenos y partes de herencia, en toda España, vacíos u ocupados, con o sin hipoteca."
+   ]
+  ],
+  "faq_title": "Preguntas sobre vender o hacer extinción",
+  "related": [
+   [
+    "Guía de extinción de condominio",
+    "/extincion-de-condominio/"
+   ],
+   [
+    "Cuánto pagan por un proindiviso",
+    "/cuanto-pagan-por-un-proindiviso/"
+   ],
+   [
+    "Vender tu parte de un piso",
+    "/vender-parte-de-un-piso/"
+   ],
+   [
+    "Ejemplo de extinción con cifras",
+    "/blog/ejemplo-de-extincion-de-condominio-con-cifras/"
+   ],
+   [
+    "Empresas que compran proindivisos",
+    "/empresas-que-compran-proindivisos/"
+   ]
+  ],
+  "cta_title": "Si la extinción no es posible, te compramos la parte",
+  "cta_text": "Fondos propios, oferta por escrito en 48 horas, firma en notaría en 2-4 semanas, pago al contado y gastos de notaría a nuestro cargo. En toda España.",
+  "yoast_title": "Vender mi parte o hacer extinción de condominio: comparativa",
+  "meta_desc": "Vender tu parte o hacer extinción de condominio: tabla comparativa de coste, plazo, acuerdo, precio e impuestos, con árbol de decisión. Compramos tu parte.",
+  "focus_kw": "vender o hacer extinción de condominio",
+  "title_corto": "Vender o extinguir"
+ }
+]

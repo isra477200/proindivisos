@@ -1,0 +1,525 @@
+[
+ {
+  "slug": "calculadora-impuestos-vender-tu-parte",
+  "kind": "page",
+  "category": null,
+  "kicker": "Calculadora fiscal",
+  "h1": "Calculadora de impuestos al vender tu parte: plusvalía municipal e IRPF",
+  "sub": "La calculadora de impuestos al vender tu parte estima lo que pagarás por vender tu cuota. Suma la plusvalía municipal y el IRPF, o el impuesto de no residentes si vives fuera de España. Después te dice lo que te queda limpio. Si quieres una cifra en firme, compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Plusvalía e IRPF juntos",
+   "Datos fiscales de 2026",
+   "Oferta firme en 48 horas"
+  ],
+  "card_title": "¿Quieres el neto real de tu venta?",
+  "card_text": "Te damos una oferta por escrito por tu parte en 48 horas y te decimos qué impuestos pagarías. Sin compromiso.",
+  "sections": [
+   {
+    "overline": "Herramienta",
+    "h2": "Usa la calculadora de impuestos al vender tu parte",
+    "type": "tool",
+    "intro": [
+     "Esta calculadora de impuestos al vender tu parte usa la escala del ahorro y los coeficientes de plusvalía de 2026. Además, cada resultado enseña su cuenta debajo y cambia según escribes, sin registro."
+    ],
+    "shortcode": "[zp_calculadora_x tipo=\"impuestos\"]"
+   },
+   {
+    "overline": "Plusvalía municipal",
+    "h2": "Cómo calcula la plusvalía municipal de tu cuota",
+    "type": "list",
+    "intro": [
+     "La plusvalía municipal grava la subida de valor del suelo y la paga quien vende, solo por su porcentaje. Desde 2021 hay dos métodos de cálculo y puedes pedir que se aplique el que da menos. Por eso, la calculadora de impuestos al vender tu parte hace las dos cuentas y te enseña la más baja."
+    ],
+    "items": [
+     "<strong>Método objetivo.</strong> Se toma el valor catastral del suelo del inmueble entero y se multiplica por tu porcentaje. Después, por el coeficiente de los años que has tenido la cuota y por el tipo municipal. Los coeficientes máximos de 2026 van de 0,09 a 0,40, y el tipo no puede superar el 30 %.",
+     "<strong>Método real.</strong> Arranca de la ganancia de tu cuota: precio de venta menos valor de adquisición. A esa ganancia se le aplica el peso del suelo en el valor catastral, es decir, suelo entre total, y después el tipo municipal.",
+     "<strong>Sin incremento no hay impuesto.</strong> Si vendes por lo mismo o por menos de lo que te costó, la plusvalía sale a cero. Aun así, hay que declararlo en el ayuntamiento y acreditarlo con las escrituras."
+    ],
+    "outro": [
+     "La plusvalía se declara o autoliquida en el ayuntamiento en 30 días hábiles desde la firma. Los coeficientes de la calculadora son los máximos legales. Tu ayuntamiento puede aplicar otros menores, así que el resultado es orientativo."
+    ]
+   },
+   {
+    "overline": "IRPF",
+    "h2": "IRPF al vender tu parte: la escala del ahorro de 2026",
+    "type": "table",
+    "intro": [
+     "Para el IRPF, al precio de venta se le restan los gastos de la venta a tu cargo y la plusvalía pagada. Después se resta el valor de adquisición de tu parte, y lo que queda es la ganancia. Si heredaste, ese valor es el declarado en sucesiones más el impuesto y los gastos que pagaste. Si compraste, es el precio más los gastos e impuestos de la compra. Sobre la ganancia se aplica la escala del ahorro, por tramos:"
+    ],
+    "items": [
+     ["Tramo de ganancia", "Tipo en 2026"],
+     ["Hasta 6.000 €", "19 %"],
+     ["De 6.000 € a 50.000 €", "21 %"],
+     ["De 50.000 € a 200.000 €", "23 %"],
+     ["De 200.000 € a 300.000 €", "27 %"],
+     ["Más de 300.000 €", "30 %"]
+    ],
+    "outro": [
+     "Si vives fuera de España no pagas IRPF, sino el impuesto de no residentes. Es un 19 % fijo sobre la ganancia y se declara con el modelo 210. Además, el comprador te retiene el 3 % del precio y lo ingresa a cuenta con el modelo 211. Si tienes 65 años o más y vendes tu vivienda habitual, la ganancia está exenta, aunque hay que declararla. La calculadora aplica esa exención solo si resides en España. País Vasco y Navarra tienen escalas forales propias."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: impuestos al vender tu parte heredada",
+    "type": "steps",
+    "intro": [
+     "Este es el caso con el que se abre la herramienta, con cifras redondas."
+    ],
+    "items": [
+     {
+      "t": "Los datos de partida",
+      "p": "Heredaste la mitad de un piso hace 12 años. En sucesiones se declararon 45.000 € por tu mitad, sumados el impuesto y los gastos. Ahora la vendes por 60.000 €, sin gastos a tu cargo. El recibo del IBI marca 40.000 € de valor catastral del suelo y 90.000 € en total. Tu ayuntamiento aplica un tipo del 29 %."
+     },
+     {
+      "t": "Plusvalía municipal: 522 €",
+      "p": "Se paga el menor de dos cálculos. Objetivo: 40.000 € por el 50 %, por 0,09, el coeficiente de 12 años, y por el 29 %: 522 €. Real: 15.000 € de ganancia por el 44,44 % de suelo y por el 29 %: 1.933 €."
+     },
+     {
+      "t": "IRPF: 2.920 €",
+      "p": "La ganancia es de 14.478 €: 60.000 € menos 522 € de plusvalía y menos 45.000 €. Los primeros 6.000 € tributan al 19 % y los 8.478 € restantes, al 21 %. En total, 2.920 €."
+     },
+     {
+      "t": "Lo que te queda limpio: 56.558 €",
+      "p": "Son 60.000 € menos 3.442 € de impuestos entre los dos. Si vivieras fuera, el impuesto de no residentes sería de 2.751 € y el comprador te retendría 1.800 €. Con 65 años o más y siendo tu vivienda habitual, solo pagarías la plusvalía y te quedarían 59.478 €."
+     }
+    ],
+    "outro": [
+     "Cambia cualquier dato en la calculadora y verás cómo se mueven los impuestos de vender tu parte."
+    ]
+   },
+   {
+    "overline": "Datos",
+    "h2": "Qué datos necesitas y dónde encontrarlos",
+    "type": "list",
+    "intro": [
+     "Para usar la calculadora de impuestos al vender tu parte necesitas estos datos, casi todos en papeles que ya tienes."
+    ],
+    "items": [
+     "<strong>Precio de venta de tu parte.</strong> Lo que vas a cobrar por tu cuota, según la oferta firmada o el contrato de arras.",
+     "<strong>Valor de adquisición de tu parte.</strong> En una herencia, sale de la autoliquidación de sucesiones y de la escritura de aceptación. Súmale el impuesto pagado, la notaría y el registro. En una compra, mira la escritura y los justificantes del ITP o del IVA.",
+     "<strong>Año en que la adquiriste.</strong> En una herencia cuenta el año del fallecimiento, no el de la escritura.",
+     "<strong>Valor catastral del suelo y valor catastral total.</strong> Vienen en el recibo del IBI y en la sede electrónica del Catastro. Usa siempre los del inmueble entero.",
+     "<strong>Tipo de plusvalía de tu ayuntamiento.</strong> Lo fija su ordenanza fiscal, publicada en la web municipal. El máximo legal es el 30 %.",
+     "<strong>Gastos de la venta a tu cargo.</strong> Notaría, gestoría o comisión, si los pagas tú. Cuando compramos nosotros, suelen ser cero.",
+     "<strong>Residencia y edad.</strong> Indica si resides fuera de España y si tienes 65 años o más y vives en el inmueble."
+    ]
+   },
+   {
+    "overline": "Errores habituales",
+    "h2": "Errores que inflan o rebajan los impuestos de vender tu parte",
+    "type": "list",
+    "intro": [
+     "La calculadora de impuestos al vender tu parte evita algunos de estos fallos, pero no todos. Revisa la lista antes de firmar."
+    ],
+    "items": [
+     "<strong>Usar el valor catastral como coste.</strong> El valor de adquisición es el de la escritura o el de sucesiones, no el del Catastro.",
+     "<strong>Olvidar el impuesto de sucesiones.</strong> Lo que pagaste al heredar forma parte del valor de adquisición y reduce la ganancia.",
+     "<strong>No restar la plusvalía en el IRPF.</strong> Es un gasto de la venta y baja la ganancia. La calculadora ya lo descuenta.",
+     "<strong>Mirar solo esta venta.</strong> La escala del ahorro suma todas tus ganancias, intereses y dividendos del año. Con otras rentas, parte de esta puede caer en un tramo más alto.",
+     "<strong>Ignorar los coeficientes de abatimiento.</strong> Si la cuota se adquirió antes de 1995, pueden reducir parte de la ganancia. La calculadora no los aplica, así que el IRPF sale por lo alto.",
+     "<strong>Pasar por alto la reinversión.</strong> Si vendes tu vivienda habitual y reinviertes en otra en dos años, la ganancia puede quedar exenta a cualquier edad. Tampoco lo contempla la calculadora.",
+     "<strong>Creer que pagas el ITP.</strong> El impuesto de transmisiones de la compra lo paga el comprador, no tú."
+    ]
+   },
+   {
+    "overline": "Siguiente paso",
+    "h2": "Qué hacer con el resultado de la calculadora",
+    "type": "callout",
+    "intro": [
+     "La calculadora orienta, pero los impuestos reales de vender tu parte dependen de tu ayuntamiento y de tu año fiscal. Primero, guarda las escrituras y la autoliquidación de sucesiones: son tu prueba ante el ayuntamiento y Hacienda. Después, confirma el tipo municipal y, si hay importes altos, revisa el caso con tu asesor. Recuerda también que el IRPF de la venta se declara en la renta del año siguiente. Si aún no tienes comprador, nosotros compramos tu parte. Con una oferta en la mano, el cálculo deja de ser una hipótesis."
+    ],
+    "items": {
+     "t": "Te compramos tu parte con el neto claro",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión a nuestro cargo, sin exclusividad ni compromiso.",
+     "cta": "Pedir oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Qué impuestos pago al vender mi parte de un piso?",
+    "Como vendedor pagas dos: la plusvalía municipal, al ayuntamiento, y el IRPF por la ganancia, o el impuesto de no residentes si vives fuera. El ITP lo paga el comprador. Si vendes por lo mismo o por menos de lo que te costó, los dos suelen salir a cero."
+   ],
+   [
+    "¿Cómo se calcula la plusvalía municipal si solo vendo mi parte?",
+    "Solo por tu porcentaje. Hay un método objetivo, con el valor catastral del suelo y un coeficiente según los años, y un método real, con la ganancia efectiva. Puedes pagar por el menor, y si no hay incremento de valor no pagas nada."
+   ],
+   [
+    "¿Cuánto IRPF se paga al vender una parte heredada en 2026?",
+    "Depende de la ganancia, no del precio. Se aplica la escala del ahorro: 19 % hasta 6.000 €, 21 % hasta 50.000 €, 23 % hasta 200.000 €, 27 % hasta 300.000 € y 30 % por encima. País Vasco y Navarra aplican su normativa foral."
+   ],
+   [
+    "¿Pago impuestos si tengo más de 65 años y vendo mi parte?",
+    "Si es tu vivienda habitual, la ganancia de tu parte está exenta de IRPF, aunque tienes que declararla. La plusvalía municipal sí se paga, porque esa exención no existe en el impuesto municipal. Si no vives en ella, tributas como cualquier otro vendedor."
+   ],
+   [
+    "¿Qué impuestos pago si vivo fuera de España y vendo mi parte?",
+    "El impuesto de no residentes, un 19 % de la ganancia, con el modelo 210. El comprador retiene el 3 % del precio, lo ingresa con el modelo 211 y esa cantidad se descuenta de tu cuota. La plusvalía la ingresa entonces el comprador en tu lugar, como sustituto, y suele descontarla del precio."
+   ],
+   [
+    "¿Sirve la calculadora si compré mi parte en vez de heredarla?",
+    "Sí. En el valor de adquisición pon el precio que pagaste por tu parte más los gastos e impuestos de la compra, y como año, el de la escritura. El resto del cálculo funciona igual que en una herencia."
+   ]
+  ],
+  "faq_title": "Dudas sobre los impuestos al vender tu parte",
+  "related": [
+   ["Impuestos del proindiviso por comunidad", "/impuestos-del-proindiviso/"],
+   ["IRPF al vender tu parte heredada", "/blog/irpf-al-vender-mi-parte-de-un-piso-heredado/"],
+   ["Plusvalía municipal de tu parte heredada", "/blog/plusvalia-municipal-al-vender-mi-parte-heredada/"],
+   ["Cuánto vale mi parte de un piso", "/cuanto-vale-mi-parte-de-un-piso/"],
+   ["Simulador de extinción de condominio", "/simulador-extincion-de-condominio/"]
+  ],
+  "cta_title": "Ya sabes los impuestos de vender tu parte: pide tu oferta",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Calculadora de impuestos al vender tu parte: plusvalía e IRPF",
+  "meta_desc": "Calculadora de impuestos al vender tu parte: plusvalía municipal e IRPF de 2026 con tus cifras y lo que te queda limpio. Oferta por tu cuota en 48 h.",
+  "focus_kw": "calculadora de impuestos al vender tu parte",
+  "title_corto": "Calculadora de impuestos",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, soft natural afternoon light, muted palette with dark blue and terracotta accents: a tidy wooden work desk with a brass desk lamp and a ceramic coffee mug beside an open window overlooking the terracotta rooftops of a Spanish town, a small potted plant on the sill, clean empty desk surface. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Calculadora de impuestos al vender tu parte: escritorio junto a una ventana con tejados"
+ },
+ {
+  "slug": "calculadora-compensacion-uso-exclusivo",
+  "kind": "page",
+  "category": null,
+  "kicker": "Uso exclusivo del piso",
+  "h1": "Calculadora de compensación por uso exclusivo: cuánto reclamar al que vive en el piso",
+  "sub": "La calculadora de compensación por uso exclusivo estima cuánto puedes reclamar al copropietario que vive solo en el piso común. Multiplica la renta de mercado por tu porcentaje y por los meses desde tu reclamación, con un tope de 60. Después descuenta los gastos de tu parte que haya pagado él. Si prefieres no pleitear, compramos tu parte con oferta en 48 horas.",
+  "checks": [
+   "Fórmula visible y orientativa",
+   "Tope legal de cinco años",
+   "Compramos tu parte ocupada"
+  ],
+  "card_title": "¿No quieres pleitear con tu familia?",
+  "card_text": "Compramos tu parte aunque otro copropietario viva en el piso. Oferta por escrito en 48 horas, sin compromiso y sin exclusividad.",
+  "sections": [
+   {
+    "overline": "Herramienta",
+    "h2": "Usa la calculadora de compensación por uso exclusivo",
+    "type": "tool",
+    "intro": [
+     "La calculadora de compensación por uso exclusivo solo necesita cuatro datos: renta, porcentaje, meses y gastos que adelanta el ocupante. Además, cada resultado enseña su cuenta debajo y se recalcula al momento."
+    ],
+    "shortcode": "[zp_calculadora_x tipo=\"uso\"]"
+   },
+   {
+    "overline": "El cálculo",
+    "h2": "Cómo se calcula la compensación por uso exclusivo",
+    "type": "steps",
+    "intro": [
+     "El artículo 394 del Código Civil deja usar la cosa común a todos los copropietarios. Si uno se queda el piso para él solo, priva a los demás de ese derecho. Por eso el Tribunal Supremo admite que le reclames una compensación por la renta de tu cuota. La calculadora de compensación por uso exclusivo lo resuelve en tres pasos."
+    ],
+    "items": [
+     {
+      "t": "Compensación que te corresponde al mes",
+      "p": "Renta mensual de mercado del inmueble entero por tu porcentaje. Es lo que dejas de ingresar cada mes por no poder usar ni alquilar tu parte."
+     },
+     {
+      "t": "Acumulado del periodo",
+      "p": "Esa cifra por los meses de uso exclusivo desde que lo reclamaste, con un máximo de 60. Lo anterior suele estar prescrito por el artículo 1966 del Código Civil, que fija cinco años para los pagos periódicos."
+     },
+     {
+      "t": "Lo que podrías reclamar",
+      "p": "Del acumulado se restan los gastos de tu parte que haya pagado el ocupante. Por ejemplo, tu porcentaje del IBI, de la comunidad o del seguro. Si esos gastos superan a la compensación, el resultado es cero."
+     }
+    ],
+    "outro": [
+     "El punto de partida es tu reclamación fehaciente, normalmente un burofax. Muchos juzgados entienden que, hasta entonces, tolerabas el uso y no había deuda."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con cifras: dos hermanos y un piso de 900 € de alquiler",
+    "type": "table",
+    "intro": [
+     "Heredaste la mitad de un piso que se alquilaría por 900 € al mes. Tu hermano vive en él y hace 24 meses le enviaste un burofax para usarlo o cobrar tu parte. Él no paga ningún gasto que te toque a ti. Son los valores con los que se abre la herramienta."
+    ],
+    "items": [
+     ["Resultado", "Cálculo"],
+     ["Compensación que te corresponde al mes: 450 €", "900 € de renta de mercado por el 50 % de tu parte."],
+     ["Acumulado del periodo: 10.800 €", "450 € por 24 meses."],
+     ["A descontar por gastos que pagó por ti: 0 €", "0 € al mes que pagó por tu parte, por 24 meses."],
+     ["Lo que podrías reclamar: 10.800 €", "10.800 € menos 0 € de gastos."]
+    ],
+    "outro": [
+     "Si él adelantara 50 € al mes de tu parte del IBI y la comunidad, se descontarían 1.200 €. Entonces reclamarías 9.600 €. Con 72 meses, la calculadora de compensación por uso exclusivo se para en 60 y da 27.000 €."
+    ]
+   },
+   {
+    "overline": "Datos",
+    "h2": "Qué datos necesitas y cómo probarlos",
+    "type": "list",
+    "intro": [
+     "Para rellenar la calculadora de compensación por uso exclusivo necesitas cuatro datos, y el más discutido siempre es la renta."
+    ],
+    "items": [
+     "<strong>Renta mensual de mercado del inmueble entero.</strong> Busca anuncios de pisos parecidos en tu zona o consulta el sistema estatal de referencia del precio del alquiler. En un juicio se prueba con una tasación pericial.",
+     "<strong>Tu porcentaje de propiedad.</strong> Consta en la escritura de herencia o de compra y en la nota simple del Registro.",
+     "<strong>Meses de uso exclusivo desde que lo reclamaste.</strong> Cuenta desde la entrega del burofax, no desde que el otro entró a vivir. Guarda la certificación del texto y el acuse de entrega.",
+     "<strong>Gastos de tu parte que paga el ocupante.</strong> Revisa quién paga el IBI, la comunidad y el seguro. Si los paga él enteros, tu porcentaje de esos recibos se descuenta, en euros al mes. Luz, agua y gas son consumo suyo y no se descuentan."
+    ]
+   },
+   {
+    "overline": "Errores",
+    "h2": "Errores que rebajan la compensación por uso exclusivo",
+    "type": "list",
+    "intro": [
+     "La calculadora de compensación por uso exclusivo ya evita dos de estos fallos. Aplica el tope de 60 meses y descuenta los gastos."
+    ],
+    "items": [
+     "<strong>Contar desde que el otro entró a vivir.</strong> Sin reclamación previa, muchos juzgados presumen que tolerabas el uso y no conceden nada por ese tiempo.",
+     "<strong>Reclamar más de cinco años.</strong> Lo anterior suele estar prescrito, salvo que hayas interrumpido el plazo con reclamaciones.",
+     "<strong>Inflar la renta.</strong> El juez se fija en la renta real de mercado, no en el anuncio más caro. Una cifra creíble facilita el acuerdo.",
+     "<strong>Callar los gastos que paga el ocupante.</strong> Si adelanta tu parte del IBI o de la comunidad, te lo descontarán igualmente.",
+     "<strong>Reclamar con el uso atribuido por un juez.</strong> Si una sentencia de divorcio dio la vivienda a tu ex, en principio no hay compensación mientras dure esa atribución.",
+     "<strong>Demandar sin intentar antes un acuerdo.</strong> Desde abril de 2025, la Ley Orgánica 1/2025 exige un intento previo de negociación. Un burofax con una propuesta concreta puede servir para acreditarlo."
+    ]
+   },
+   {
+    "overline": "Siguiente paso",
+    "h2": "Qué hacer con el resultado: reclamar, pactar o vender",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Enviar un burofax",
+      "p": "Fija la fecha desde la que cuenta la compensación. Además, deja por escrito tu propuesta: usar el piso por turnos, cobrar tu parte de la renta o vender. Tienes un modelo listo para adaptar.",
+      "url": "/modelos-documentos-proindiviso/modelo-burofax-copropietario/",
+      "cta": "Ver el modelo de burofax →"
+     },
+     {
+      "t": "Pactar un acuerdo",
+      "p": "Muchos casos se cierran con un pago mensual o turnos de uso por escrito. Si no hay acuerdo, queda la demanda: hasta 15.000 €, suele ser un juicio verbal. Para terminar con la copropiedad está la división de cosa común, que tarda de uno a tres años."
+     },
+     {
+      "t": "Vender tu parte",
+      "p": "Si no quieres pleitear con un familiar durante años, compramos tu cuota aunque el otro siga dentro. Cobras en semanas y somos nosotros quienes tratamos con el ocupante.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Cobrar tu parte sin pleitear",
+    "type": "callout",
+    "intro": [
+     "La calculadora de compensación por uso exclusivo te da una cifra orientativa para negociar. Cobrarla es otra historia: requiere pruebas, tiempo y, a veces, un pleito con alguien de tu familia. Si prefieres pasar página, vender tu parte es la salida más rápida."
+    ],
+    "items": {
+     "t": "Compramos tu parte aunque él siga dentro",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Gastos de notaría y gestión a nuestro cargo, sin exclusividad.",
+     "cta": "Pedir oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto puedo cobrar a mi hermano por vivir solo en la casa heredada?",
+    "Orientativamente, la renta de mercado del inmueble por tu porcentaje, cada mes desde que se lo reclamaste por escrito. Con un piso de 900 € y la mitad, son 450 € al mes. Del total se restan los gastos de tu parte que haya pagado él."
+   ],
+   [
+    "¿Desde cuándo cuenta la compensación por uso exclusivo?",
+    "En general, desde tu reclamación fehaciente, por ejemplo un burofax con certificado de entrega. Antes de esa fecha, muchos juzgados entienden que el uso estaba tolerado. Por eso conviene enviarlo cuanto antes, aunque todavía quieras negociar."
+   ],
+   [
+    "¿Se pueden reclamar más de cinco años de uso exclusivo?",
+    "Lo normal es que no. El artículo 1966 del Código Civil fija cinco años de prescripción para los pagos periódicos, y por eso la calculadora corta en 60 meses. Un nuevo burofax o una demanda interrumpen el plazo."
+   ],
+   [
+    "¿Qué gastos se descuentan de la compensación?",
+    "Los que te tocan a ti y paga el ocupante: tu porcentaje del IBI, de la comunidad, del seguro o de una derrama. Los suministros como luz, agua o gas son consumo suyo y no se descuentan. Para cuadrarlos, usa la calculadora de gastos entre copropietarios."
+   ],
+   [
+    "¿Puedo reclamar si mi ex vive en la casa por sentencia de divorcio?",
+    "En principio no, mientras dure el uso que atribuyó el juez. Cuando esa atribución se extinga o se modifique, podrás reclamar desde entonces. Mientras tanto, sí puedes vender tu parte, aunque el comprador tendrá que respetar ese uso."
+   ],
+   [
+    "¿La compensación por uso exclusivo tributa en el IRPF?",
+    "Sí, lo que cobras es un ingreso que debes declarar, y Hacienda suele tratarlo como rendimiento del capital inmobiliario. Consulta tu caso con un asesor antes de la renta, sobre todo si cobras atrasos de varios años."
+   ]
+  ],
+  "faq_title": "Dudas sobre la compensación por uso exclusivo",
+  "related": [
+   ["Cuándo reclamar al que vive en el piso", "/blog/compensacion-por-uso-exclusivo-de-la-vivienda-comun/"],
+   ["Modelo de burofax a un copropietario", "/modelos-documentos-proindiviso/modelo-burofax-copropietario/"],
+   ["Calculadora de gastos entre copropietarios", "/calculadora-gastos-entre-copropietarios/"],
+   ["Cuánto vale mi parte de un piso", "/cuanto-vale-mi-parte-de-un-piso/"],
+   ["División de cosa común", "/division-de-cosa-comun/"]
+  ],
+  "cta_title": "Tu compensación por uso exclusivo o una oferta por tu parte",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España, también con un copropietario dentro. Oferta por escrito en 48 horas y pago al contado en notaría.",
+  "yoast_title": "Calculadora de compensación por uso exclusivo: cuánto reclamar",
+  "meta_desc": "Calculadora de compensación por uso exclusivo: renta de mercado por tu cuota y meses desde el burofax, con tope de 5 años. O te compramos la parte en 48 h.",
+  "focus_kw": "calculadora de compensación por uso exclusivo",
+  "title_corto": "Calculadora de uso exclusivo",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, warm late afternoon natural light, muted palette with dark blue and terracotta accents: the entrance hall of an older Spanish apartment, a wooden coat rack with a single coat hanging, a set of keys on a small wooden console table, terracotta floor tiles, an inner door ajar onto a sunlit living room with dark blue curtains. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Calculadora de compensación por uso exclusivo: recibidor de un piso con perchero"
+ },
+ {
+  "slug": "calculadora-gastos-entre-copropietarios",
+  "kind": "page",
+  "category": null,
+  "kicker": "Gastos compartidos",
+  "h1": "Calculadora de gastos entre copropietarios: IBI, comunidad y quién debe a quién",
+  "sub": "La calculadora de gastos entre copropietarios reparte los gastos del inmueble según el porcentaje de cada dueño. Primero suma el IBI, la comunidad, el seguro, las basuras, las derramas y otros gastos del año. Luego compara lo que toca a cada uno con lo pagado y te dice quién debe a quién. Si estás harto de adelantar gastos de un piso que no usas, compramos tu parte.",
+  "checks": [
+   "Reparto legal por cuotas",
+   "Hasta seis copropietarios",
+   "Te compramos tu parte"
+  ],
+  "card_title": "¿Siempre pagas tú?",
+  "card_text": "Compramos tu parte del inmueble y dejas de adelantar gastos. Oferta por escrito en 48 horas, sin compromiso y sin exclusividad.",
+  "sections": [
+   {
+    "overline": "Herramienta",
+    "h2": "Usa la calculadora de gastos entre copropietarios",
+    "type": "tool",
+    "intro": [
+     "La calculadora de gastos entre copropietarios admite de dos a seis dueños, con su porcentaje y lo pagado. Además, el reparto y los pagos pendientes se recalculan según escribes."
+    ],
+    "shortcode": "[zp_calculadora_x tipo=\"gastos\"]"
+   },
+   {
+    "overline": "El cálculo",
+    "h2": "Cómo se reparten los gastos entre copropietarios",
+    "type": "text",
+    "intro": [
+     "El artículo 393 del Código Civil reparte las cargas de la cosa común en proporción a las cuotas. El artículo 395 añade que cualquier copropietario puede obligar a los demás a pagar los gastos de conservación. Por eso da igual quién use el inmueble o a nombre de quién lleguen los recibos.",
+     "La calculadora de gastos entre copropietarios sigue tres pasos. Primero suma los gastos del año: IBI, comunidad al mes por 12, seguro, basuras, derramas u obras y otros. Después multiplica ese total por el porcentaje de cada uno, y eso es lo que le corresponde. Por último, resta lo que cada uno ha pagado para obtener su saldo.",
+     "Un saldo positivo indica que ese copropietario ha adelantado dinero de otros; uno negativo, que debe. Con esos saldos, la herramienta propone los pagos para quedar en paz. Si los porcentajes no suman 100 % o lo pagado no cuadra con el total, te avisa."
+    ]
+   },
+   {
+    "overline": "Datos",
+    "h2": "Qué recibos necesitas y dónde encontrarlos",
+    "type": "list",
+    "intro": [
+     "Antes de abrir la calculadora de gastos entre copropietarios, reúne los recibos del año y quién pagó cada uno."
+    ],
+    "items": [
+     "<strong>IBI anual.</strong> Está en el recibo del ayuntamiento o del organismo de recaudación de tu provincia. Suele llegar a nombre de un solo titular, aunque se debe entre todos.",
+     "<strong>Comunidad de propietarios al mes.</strong> Aparece en el cargo del banco o en el certificado del administrador de la finca.",
+     "<strong>Seguro del hogar anual.</strong> Cuenta solo la póliza del inmueble. En cambio, el seguro de contenido de quien vive dentro es cosa suya.",
+     "<strong>Tasa de basuras anual.</strong> En algunos municipios va en el recibo del agua o junto al IBI: no la sumes dos veces.",
+     "<strong>Derramas u obras del año.</strong> El acta de la junta de propietarios recoge el importe y los plazos.",
+     "<strong>Otros gastos del año.</strong> Reparaciones necesarias, cerrajero o suministros mínimos de un piso vacío, con su factura.",
+     "<strong>Lo pagado por cada uno.</strong> Extractos bancarios, recibos y transferencias. Ojo, porque sin justificante el reembolso cuesta mucho más de reclamar."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso con dos dueños al 50 %",
+    "type": "table",
+    "intro": [
+     "En concreto, son los valores con los que se abre la herramienta. El IBI es de 450 € al año y la comunidad, de 60 € al mes. Además, el seguro cuesta 180 € y la tasa de basuras, 90 €. No hay derramas ni otros gastos, así que el total anual es de 1.440 €. El copropietario 1 lo ha pagado todo y el copropietario 2, nada."
+    ],
+    "items": [
+     ["Copropietario", "Le corresponde", "Ha pagado", "Saldo"],
+     ["Copropietario 1 (50 %)", "720 €", "1.440 €", "+720 €"],
+     ["Copropietario 2 (50 %)", "720 €", "0 €", "−720 €"]
+    ],
+    "outro": [
+     "Resultado: el copropietario 2 paga 720 € al copropietario 1. Con tres o más dueños funciona igual y, además, la calculadora de gastos entre copropietarios agrupa los pagos."
+    ]
+   },
+   {
+    "overline": "Errores habituales",
+    "h2": "Errores al repartir gastos entre copropietarios",
+    "type": "list",
+    "intro": [
+     "La calculadora de gastos entre copropietarios no puede corregir datos mal planteados. Estos son los fallos que más vemos."
+    ],
+    "items": [
+     "<strong>Meter la hipoteca.</strong> No es un gasto de la cosa común: la debe quien firmó el préstamo, en los términos del contrato. Por eso va aparte y la calculadora no la incluye.",
+     "<strong>Repartir a partes iguales.</strong> Por ejemplo, con un 60 % y un 40 %, el reparto es 60 y 40, no a medias.",
+     "<strong>Cargar al que no vive dentro los suministros.</strong> Luz, agua y gas los paga quien los consume. Por tanto, solo se reparten los mínimos de un piso vacío.",
+     "<strong>Confundir mejoras con conservación.</strong> Una reforma que no es necesaria exige mayoría o unanimidad, según su alcance. Lo regulan los artículos 397 y 398 del Código Civil. Así que, sin ese acuerdo, quien la paga puede no recuperarla.",
+     "<strong>Dejar pasar los años.</strong> El reembolso prescribe a los cinco años de cada pago, según el artículo 1964 del Código Civil. Pero un burofax interrumpe el plazo.",
+     "<strong>Mezclarlo con el uso exclusivo.</strong> Quien vive dentro sigue pagando su porcentaje de gastos. Además, puede deber una compensación aparte por usar el piso él solo."
+    ]
+   },
+   {
+    "overline": "Siguiente paso",
+    "h2": "Qué hacer si un copropietario no paga su parte",
+    "type": "cards",
+    "items": [
+     {
+      "t": "Pedirlo por escrito",
+      "p": "Envía el reparto y un burofax con el importe, un plazo y la cuenta para pagar. Además, sirve como prueba e interrumpe la prescripción. Tienes un modelo listo para adaptar.",
+      "url": "/modelos-documentos-proindiviso/modelo-burofax-copropietario/",
+      "cta": "Ver el modelo de burofax →"
+     },
+     {
+      "t": "Dividir el recibo del IBI",
+      "p": "Puedes pedir al ayuntamiento que divida la cuota entre los titulares. Para ello aportas los datos y porcentajes de todos. Así nadie adelanta la parte del otro."
+     },
+     {
+      "t": "Reclamar en el juzgado",
+      "p": "En concreto, hasta 2.000 € no necesitas abogado ni procurador. Hasta 15.000 €, suele tramitarse como juicio verbal. Antes hay que intentar un acuerdo, como exige la Ley Orgánica 1/2025."
+     },
+     {
+      "t": "Vender tu parte",
+      "p": "Si el conflicto se repite cada año, la salida limpia es dejar el proindiviso. Compramos tu cuota y, desde la firma, dejas de pagar gastos de ese inmueble.",
+      "url": "/vender-parte-de-un-piso/",
+      "cta": "Vender mi parte →"
+     }
+    ]
+   },
+   {
+    "overline": "Nuestra compra",
+    "h2": "Deja de adelantar gastos de un piso que no usas",
+    "type": "callout",
+    "intro": [
+     "La calculadora de gastos entre copropietarios te dice cuánto te deben hoy. Sin embargo, no evita que el problema vuelva el año que viene, con otro IBI y otra derrama. Vender tu parte corta esa rueda: cobras al contado y te olvidas de los recibos."
+    ],
+    "items": {
+     "t": "Compramos tu parte y se acaban los recibos",
+     "p": "Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión a nuestro cargo, sin exclusividad.",
+     "cta": "Pedir oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cómo se reparten los gastos de un piso entre copropietarios?",
+    "En proporción al porcentaje de cada uno, según el artículo 393 del Código Civil. Si tienes un tercio, pagas un tercio del IBI, de la comunidad, del seguro y de las derramas. Además, da igual quién viva en el piso o a nombre de quién lleguen los recibos."
+   ],
+   [
+    "¿Tengo que pagar el IBI si mi hermano vive solo en el piso heredado?",
+    "Sí, en tu porcentaje: el IBI se debe por ser propietario, no por usar el inmueble. Lo que sí puedes es reclamarle una compensación por usar él solo el piso, y descontar de ella los gastos tuyos que pague."
+   ],
+   [
+    "¿Cuánto tiempo tengo para reclamar los gastos que adelanté?",
+    "Cinco años desde cada pago, orientativamente, según el artículo 1964 del Código Civil. Un burofax con la reclamación interrumpe el plazo y lo vuelve a poner a cero. Por eso, guarda los justificantes de cada pago."
+   ],
+   [
+    "¿Puedo renunciar a mi parte para no pagar más gastos?",
+    "El artículo 395 del Código Civil permite librarse de los gastos renunciando a tu cuota en favor de los demás. Pero pierdes la parte sin cobrar nada y, además, puede tener coste fiscal para quien la recibe. Casi siempre compensa más venderla."
+   ],
+   [
+    "¿La hipoteca se reparte igual que los demás gastos?",
+    "No. La hipoteca la debe quien firmó el préstamo, y si sois deudores solidarios el banco puede reclamar el total a cualquiera. Entre vosotros se ajusta después según lo pactado, y por eso la calculadora no la incluye."
+   ],
+   [
+    "¿Qué pasa si un copropietario no paga su parte de la comunidad?",
+    "La deuda es del piso: la comunidad de vecinos puede reclamarla y el inmueble responde de ella. Quien adelante el pago puede reclamar al moroso su porcentaje. Por eso conviene cuadrar cuentas cada año con la calculadora."
+   ]
+  ],
+  "faq_title": "Dudas sobre los gastos entre copropietarios",
+  "related": [
+   ["Quién paga el IBI y la comunidad en un proindiviso", "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"],
+   ["Calculadora de compensación por uso exclusivo", "/calculadora-compensacion-uso-exclusivo/"],
+   ["Renunciar a tu parte para no pagar", "/blog/renunciar-a-mi-parte-de-un-proindiviso-para-no-pagar-gastos/"],
+   ["Modelo de burofax a un copropietario", "/modelos-documentos-proindiviso/modelo-burofax-copropietario/"],
+   ["Cuánto vale mi parte de un piso", "/cuanto-vale-mi-parte-de-un-piso/"]
+  ],
+  "cta_title": "Gastos entre copropietarios: deja el problema y vende tu parte",
+  "cta_text": "Compramos tu cuota con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Calculadora de gastos entre copropietarios: quién debe a quién",
+  "meta_desc": "Calculadora de gastos entre copropietarios: reparte IBI, comunidad, seguro y derramas por cuotas y mira quién debe a quién. Te compramos la parte en 48 h.",
+  "focus_kw": "calculadora de gastos entre copropietarios",
+  "title_corto": "Calculadora de gastos",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, soft morning natural light, muted palette with dark blue and terracotta accents: the interior courtyard of a traditional Spanish residential building, several balconies with dark blue painted railings and potted geraniums, whitewashed walls, terracotta floor tiles, a few empty clothes lines. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Calculadora de gastos entre copropietarios: patio de vecinos con balcones y macetas"
+ }
+]

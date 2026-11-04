@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "anejo",
+  "focus_kw": "anejo",
+  "title_corto": "Anejo",
+  "termino": "Anejo",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es un anejo vinculado (plaza de garaje o trastero) en el Registro, si se puede vender por separado y cómo se reparte en una herencia o extinción.",
+  "lote": 11
+ },
+ {
+  "slug": "bienes-privativos",
+  "focus_kw": "bienes privativos",
+  "title_corto": "Bienes privativos",
+  "termino": "Bienes privativos",
+  "letra": "B",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué son (art. 1346 CC): herencias, donaciones, bienes previos al matrimonio; cómo se prueba que un piso o una cuota es privativa y qué cambia al venderla.",
+  "lote": 11
+ },
+ {
+  "slug": "certificacion-catastral",
+  "focus_kw": "certificación catastral",
+  "title_corto": "Certificación catastral",
+  "termino": "Certificación catastral",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la certificación catastral descriptiva y gráfica, cómo obtenerla en la Sede del Catastro, para qué la pide el notario y errores típicos de titularidad.",
+  "lote": 11
+ },
+ {
+  "slug": "comunidad-postganancial",
+  "focus_kw": "comunidad postganancial",
+  "title_corto": "Comunidad postganancial",
+  "termino": "Comunidad postganancial",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la comunidad que nace al disolverse la sociedad de gananciales y antes de liquidarla; quién es dueño de qué y cómo vender un piso en esa situación.",
+  "lote": 11
+ },
+ {
+  "slug": "defensor-judicial",
+  "focus_kw": "defensor judicial",
+  "title_corto": "Defensor judicial",
+  "termino": "Defensor judicial",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cuándo se nombra (menores o personas con discapacidad con intereses opuestos a su representante en una herencia o venta) y cuánto retrasa la operación.",
+  "lote": 11
+ },
+ {
+  "slug": "derrama",
+  "focus_kw": "derrama",
+  "title_corto": "Derrama",
+  "termino": "Derrama",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es una derrama de la comunidad de propietarios, quién la paga cuando el piso está en proindiviso (art. 395 CC) y qué pasa si un copropietario no paga.",
+  "lote": 11
+ },
+ {
+  "slug": "exceso-de-cabida",
+  "focus_kw": "exceso de cabida",
+  "title_corto": "Exceso de cabida",
+  "termino": "Exceso de cabida",
+  "letra": "E",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es la diferencia entre la superficie registrada y la real, cómo se rectifica (catastro, notario, expediente) y cómo afecta a la venta de una cuota.",
+  "lote": 11
+ },
+ {
+  "slug": "grupos-de-parentesco",
+  "focus_kw": "grupos de parentesco",
+  "title_corto": "Grupos de parentesco",
+  "termino": "Grupos de parentesco",
+  "letra": "G",
+  "category": null,
+  "kind": "page",
+  "angulo": "Los cuatro grupos del impuesto de sucesiones (I, II, III, IV), reducciones de cada uno y por qué un sobrino paga mucho más que un hijo; ejemplo.",
+  "lote": 11
+ },
+ {
+  "slug": "inquiokupa",
+  "focus_kw": "inquiokupa",
+  "title_corto": "Inquiokupa",
+  "termino": "Inquiokupa",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es un inquiokupa (inquilino que deja de pagar), diferencia con okupa, desahucio por impago y cómo afecta a vender tu parte de un piso alquilado.",
+  "lote": 11
+ },
+ {
+  "slug": "modelo-600",
+  "focus_kw": "modelo 600",
+  "title_corto": "Modelo 600",
+  "termino": "Modelo 600",
+  "letra": "M",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el modelo 600 de ITP y AJD, quién lo presenta en la compra de una cuota o en la extinción de condominio, plazo de 30 días hábiles y variaciones por comunidad.",
+  "lote": 11
+ },
+ {
+  "slug": "procurador",
+  "focus_kw": "procurador",
+  "title_corto": "Procurador",
+  "termino": "Procurador",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué hace un procurador de los tribunales, cuándo es obligatorio (división de cosa común, juicios), cuánto cuesta orientativamente y cómo evitar el juicio.",
+  "lote": 11
+ },
+ {
+  "slug": "retracto-arrendaticio",
+  "focus_kw": "retracto arrendaticio",
+  "title_corto": "Retracto arrendaticio",
+  "termino": "Retracto arrendaticio",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Derecho de tanteo y retracto del inquilino (art. 25 LAU) al vender la vivienda; no se aplica a la venta de una cuota indivisa en ciertos casos; cómo notificar.",
+  "lote": 11
+ },
+ {
+  "slug": "terceria-de-dominio",
+  "focus_kw": "tercería de dominio",
+  "title_corto": "Tercería de dominio",
+  "termino": "Tercería de dominio",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cuándo un copropietario la usa para proteger su parte frente al embargo de la cuota de otro, plazos y requisitos.",
+  "lote": 11
+ },
+ {
+  "slug": "usufructo-viudal",
+  "focus_kw": "usufructo viudal",
+  "title_corto": "Usufructo viudal",
+  "termino": "Usufructo viudal",
+  "letra": "U",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el usufructo del cónyuge viudo (arts. 834-840 CC), cómo se calcula su valor, y cómo vender la nuda propiedad o la cuota con el viudo como usufructuario.",
+  "lote": 11
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "slug": "calculadora-impuestos-vender-tu-parte",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "calculadora de impuestos al vender tu parte",
+  "title_corto": "Calculadora de impuestos",
+  "tool": "impuestos",
+  "ruta": "/calculadora-impuestos-vender-tu-parte/"
+ },
+ {
+  "slug": "calculadora-compensacion-uso-exclusivo",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "calculadora de compensación por uso exclusivo",
+  "title_corto": "Calculadora de uso exclusivo",
+  "tool": "uso",
+  "ruta": "/calculadora-compensacion-uso-exclusivo/"
+ },
+ {
+  "slug": "calculadora-gastos-entre-copropietarios",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "calculadora de gastos entre copropietarios",
+  "title_corto": "Calculadora de gastos",
+  "tool": "gastos",
+  "ruta": "/calculadora-gastos-entre-copropietarios/"
+ }
+]

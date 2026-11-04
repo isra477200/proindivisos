@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "vender-mi-parte-de-un-edificio-heredado",
+  "focus_kw": "vender mi parte de un edificio heredado",
+  "title_corto": "Parte de un edificio",
+  "category": "copropiedad",
+  "angulo": "Edificio entero en proindiviso (varias viviendas, locales, inquilinos): rentas, división horizontal, valoración, por qué es el caso donde más se bloquean las herencias. gestionatuproindiviso (/edificio-en-proindiviso/), proindiviso10 (/compramos-edificios-madrid/), advertorial merca2 'proindiviso en herencia de un edificio'.",
+  "kind": "post"
+ },
+ {
+  "slug": "que-hacer-con-un-piso-heredado",
+  "focus_kw": "qué hacer con un piso heredado",
+  "title_corto": "Qué hacer con el piso",
+  "category": "herencias",
+  "angulo": "Guía de decisión: quedártelo, alquilarlo, venderlo entero o vender tu parte; costes de tenerlo vacío (IBI, comunidad, seguro, recargo vivienda vacía, okupas), fiscalidad de cada opción y árbol de decisión. Query genérica de alto volumen que atacan Housfy e inmobiliarias; ninguna empresa de proindivisos la tiene.",
+  "kind": "post"
+ },
+ {
+  "slug": "plusvalia-municipal-al-vender-mi-parte-heredada",
+  "focus_kw": "plusvalía municipal al vender mi parte heredada",
+  "title_corto": "Plusvalía de tu parte",
+  "category": "impuestos-y-tramites",
+  "angulo": "Dos plusvalías (la de heredar y la de vender), reparto entre coherederos, bonificaciones por vivienda habitual, plazos de 6 meses, cálculo real vs objetivo, cuándo sale cero. vendetuproindiviso (/blog/plusvalia-herencia-varios-herederos/) y FAQ de /proindivisos-herencias/.",
+  "kind": "post"
+ },
+ {
+  "slug": "se-puede-hipotecar-una-parte-de-un-piso",
+  "focus_kw": "se puede hipotecar una parte de un piso",
+  "title_corto": "Hipotecar tu parte",
+  "category": "copropiedad",
+  "angulo": "Legal sí (art. 399 CC), banca no: por qué ninguna entidad hipoteca una cuota, alternativas (préstamo personal, extinción con hipoteca, vender la cuota). vendetuproindiviso (/blog/aspectos-hipoteca-de-derechos-proindiviso/) y gestionatuproindiviso (/hipotecar-una-vivienda-en-proindiviso/).",
+  "kind": "post"
+ },
+ {
+  "slug": "la-herencia-es-privativa-o-ganancial",
+  "focus_kw": "la herencia es privativa o ganancial",
+  "title_corto": "Herencia y gananciales",
+  "category": "herencias",
+  "angulo": "Lo heredado es privativo (art. 1346 CC): ¿necesito la firma de mi cónyuge para vender mi parte?, qué pasa en divorcio, mejoras pagadas con dinero ganancial, vivienda familiar. Pregunta constante antes de firmar; nadie la responde en el sector.",
+  "kind": "post"
+ },
+ {
+  "slug": "liquidacion-de-gananciales-en-la-herencia",
+  "focus_kw": "liquidación de gananciales en la herencia",
+  "title_corto": "Gananciales del viudo",
+  "category": "herencias",
+  "angulo": "Antes de repartir hay que liquidar la sociedad de gananciales: la mitad es del viudo, la otra mitad se hereda; errores de cuota típicos entre hermanos y cómo afecta a lo que puedes vender. Solo aparece como término del glosario de vendetuproindiviso.",
+  "kind": "post"
+ }
+]

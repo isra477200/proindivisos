@@ -1,0 +1,65 @@
+[
+ {
+  "slug": "modelos-documentos-proindiviso",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "modelos de documentos del proindiviso",
+  "title_corto": "Modelos de documentos",
+  "hub": true,
+  "ruta": "/modelos-documentos-proindiviso/"
+ },
+ {
+  "slug": "modelo-burofax-copropietario",
+  "focus_kw": "modelo de burofax a un copropietario",
+  "title_corto": "Burofax a un copropietario",
+  "modelo": "Burofax a otro copropietario para proponerle vender el inmueble entero, comprarle o venderle tu parte, o reclamar gastos o uso, con plazo de respuesta y aviso de acción de división (art. 400 CC).",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-burofax-copropietario/"
+ },
+ {
+  "slug": "modelo-propuesta-venta-de-mi-parte",
+  "focus_kw": "modelo de propuesta de venta de mi parte",
+  "title_corto": "Propuesta de venta de tu parte",
+  "modelo": "Carta de propuesta (privada, no burofax) para ofrecer tu cuota a los demás copropietarios antes de venderla a un tercero: precio, forma de pago, plazo, gastos, validez de la oferta.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-propuesta-venta-de-mi-parte/"
+ },
+ {
+  "slug": "modelo-requerimiento-division-cosa-comun",
+  "focus_kw": "modelo de requerimiento de división de cosa común",
+  "title_corto": "Requerimiento de división",
+  "modelo": "Requerimiento fehaciente previo a la demanda de división de cosa común: voluntad de no seguir en la comunidad (art. 400 CC), propuesta de venta conjunta o adjudicación con compensación, plazo, aviso de demanda y de subasta (art. 404 CC).",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-requerimiento-division-cosa-comun/"
+ },
+ {
+  "slug": "modelo-notificacion-venta-cuota-retracto",
+  "focus_kw": "modelo de notificación de venta de cuota",
+  "title_corto": "Notificación de venta de cuota",
+  "modelo": "Notificación a los copropietarios de la venta (o venta proyectada) de tu cuota a un tercero, con precio y condiciones, para que puedan ejercer tanteo o retracto de comuneros (arts. 1522 y 1524 CC: 9 días naturales desde la notificación o inscripción).",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/"
+ },
+ {
+  "slug": "modelo-pacto-de-indivision",
+  "focus_kw": "modelo de pacto de indivisión",
+  "title_corto": "Pacto de indivisión",
+  "modelo": "Pacto entre copropietarios para no pedir la división durante un plazo (máximo 10 años, prorrogable, art. 400 CC), con reglas de uso, gastos, alquiler, salida anticipada y derecho preferente.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-pacto-de-indivision/"
+ },
+ {
+  "slug": "modelo-acuerdo-entre-copropietarios",
+  "focus_kw": "modelo de acuerdo entre copropietarios",
+  "title_corto": "Acuerdo entre copropietarios",
+  "modelo": "Acuerdo de uso y gastos de una vivienda en proindiviso: quién la usa y cuánto compensa, reparto de IBI, comunidad, seguro y obras (art. 395 CC), alquiler, decisiones por mayoría (art. 398 CC), qué pasa si alguien quiere vender.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-acuerdo-entre-copropietarios/"
+ }
+]

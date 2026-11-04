@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "agrupacion-de-fincas",
+  "focus_kw": "agrupación de fincas",
+  "title_corto": "Agrupación de fincas",
+  "termino": "Agrupación de fincas",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es agrupar varias fincas registrales en una, requisitos y para qué sirve antes de dividir o vender un inmueble en proindiviso.",
+  "lote": 9
+ },
+ {
+  "slug": "avalista",
+  "focus_kw": "avalista",
+  "title_corto": "Avalista",
+  "termino": "Avalista",
+  "letra": "A",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué responsabilidad tiene un avalista de una hipoteca compartida, cómo salir del aval al vender tu parte o en una extinción de condominio.",
+  "lote": 9
+ },
+ {
+  "slug": "causante",
+  "focus_kw": "causante",
+  "title_corto": "Causante",
+  "termino": "Causante",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Quién es el causante en una herencia, qué datos suyos hacen falta (certificados, último domicilio, vecindad civil) y por qué su muerte crea el proindiviso entre herederos.",
+  "lote": 9
+ },
+ {
+  "slug": "comodato",
+  "focus_kw": "comodato",
+  "title_corto": "Comodato",
+  "termino": "Comodato",
+  "letra": "C",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el comodato (préstamo de uso gratuito), diferencia con el precario, cuando un hermano vive gratis en la casa común y cómo recuperarla o venderla.",
+  "lote": 9
+ },
+ {
+  "slug": "dacion-en-pago",
+  "focus_kw": "dación en pago",
+  "title_corto": "Dación en pago",
+  "termino": "Dación en pago",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es entregar el inmueble al banco para saldar la deuda, requisitos, cuando el piso es de varios copropietarios y efectos fiscales.",
+  "lote": 9
+ },
+ {
+  "slug": "derecho-foral",
+  "focus_kw": "derecho foral",
+  "title_corto": "Derecho foral",
+  "termino": "Derecho foral",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué son los derechos civiles forales o especiales en España, en qué materias del proindiviso y la herencia cambian las reglas (legítimas, usufructo, pactos).",
+  "lote": 9
+ },
+ {
+  "slug": "due-diligence-inmobiliaria",
+  "focus_kw": "due diligence inmobiliaria",
+  "title_corto": "Due diligence inmobiliaria",
+  "termino": "Due diligence inmobiliaria",
+  "letra": "D",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué revisa una due diligence antes de comprar una cuota (registro, cargas, catastro, urbanismo, ocupación), cuánto tarda y por qué afecta a la oferta.",
+  "lote": 9
+ },
+ {
+  "slug": "finca-rustica",
+  "focus_kw": "finca rústica",
+  "title_corto": "Finca rústica",
+  "termino": "Finca rústica",
+  "letra": "F",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es una finca rústica, cómo se heredan y venden sus cuotas, unidad mínima de cultivo, retracto de colindantes; enlaza a terrenos en proindiviso.",
+  "lote": 9
+ },
+ {
+  "slug": "impuesto-sobre-el-patrimonio",
+  "focus_kw": "impuesto sobre el patrimonio",
+  "title_corto": "Impuesto sobre el patrimonio",
+  "termino": "Impuesto sobre el patrimonio",
+  "letra": "I",
+  "category": null,
+  "kind": "page",
+  "angulo": "Cómo computa una cuota indivisa en el impuesto sobre el patrimonio, mínimo exento, vivienda habitual y diferencias por comunidad autónoma.",
+  "lote": 9
+ },
+ {
+  "slug": "licencia-de-primera-ocupacion",
+  "focus_kw": "licencia de primera ocupación",
+  "title_corto": "Licencia de primera ocupación",
+  "termino": "Licencia de primera ocupación",
+  "letra": "L",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es, cuándo la piden notario y compradores, qué pasa si una casa heredada no la tiene y cómo afecta a vender una parte.",
+  "lote": 9
+ },
+ {
+  "slug": "perito-judicial",
+  "focus_kw": "perito judicial",
+  "title_corto": "Perito judicial",
+  "termino": "Perito judicial",
+  "letra": "P",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué hace el perito judicial o tasador en una división de cosa común, quién lo designa y paga, cuánto cuesta orientativamente y cómo influye en el precio.",
+  "lote": 9
+ },
+ {
+  "slug": "requerimiento-notarial",
+  "focus_kw": "requerimiento notarial",
+  "title_corto": "Requerimiento notarial",
+  "termino": "Requerimiento notarial",
+  "letra": "R",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el acta de requerimiento notarial, para qué sirve entre copropietarios (pedir la venta, notificar la venta de la cuota, reclamar gastos) y coste orientativo.",
+  "lote": 9
+ },
+ {
+  "slug": "sustitucion-vulgar",
+  "focus_kw": "sustitución vulgar",
+  "title_corto": "Sustitución vulgar",
+  "termino": "Sustitución vulgar",
+  "letra": "S",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es (art. 774 CC), cuándo entra el sustituto si el heredero muere antes o renuncia, y cómo cambia las cuotas del proindiviso.",
+  "lote": 9
+ },
+ {
+  "slug": "tipo-de-subasta",
+  "focus_kw": "tipo de subasta",
+  "title_corto": "Tipo de subasta",
+  "termino": "Tipo de subasta",
+  "letra": "T",
+  "category": null,
+  "kind": "page",
+  "angulo": "Qué es el tipo o valor de subasta, porcentajes de adjudicación (50 %, 60 %, 70 % según bien y postura), qué pasa si queda desierta; ejemplo con cifras.",
+  "lote": 9
+ }
+]
