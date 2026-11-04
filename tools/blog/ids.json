@@ -330,5 +330,11 @@
 "retracto-de-colindantes": 6725,
 "tercio-de-mejora": 6730,
 "valor-de-adquisicion": 6735,
-"calculadora-nuda-propiedad": 6755
+"calculadora-nuda-propiedad": 6755,
+"modelo-contrato-compraventa-entre-hermanos": 6765,
+"modelo-cesion-de-derechos-hereditarios": 6769,
+"modelo-contrato-de-arras-cuota-indivisa": 6773,
+"modelo-reconocimiento-de-deuda-entre-copropietarios": 6777,
+"modelo-reclamacion-rentas-copropietario": 6781,
+"modelo-oferta-compra-parte-copropietario": 6785
 }

@@ -4,10 +4,10 @@
   "kind": "page",
   "category": null,
   "kicker": "Modelos gratuitos",
-  "h1": "Modelos de documentos del proindiviso: burofax, propuestas, pactos y requerimientos",
-  "sub": "Estos modelos de documentos del proindiviso te sirven para proponer, reclamar, notificar y pactar con los demás copropietarios. Todos se apoyan en el Código Civil y puedes copiarlos o descargarlos en Word. Y si prefieres no negociar con nadie, te compramos tu parte con oferta por escrito en 48 horas.",
+  "h1": "Modelos de documentos del proindiviso: burofax, contratos, reclamaciones y pactos",
+  "sub": "Estos modelos de documentos del proindiviso te sirven para proponer, reclamar, notificar, pactar, comprar y vender entre copropietarios. Son doce, todos apoyados en el Código Civil, y puedes copiarlos o descargarlos en Word. Y si prefieres no negociar con nadie, te compramos tu parte con oferta por escrito en 48 horas.",
   "checks": [
-   "Seis modelos listos en Word",
+   "Doce modelos listos en Word",
    "Con artículos del Código Civil",
    "Te compramos tu parte"
   ],
@@ -19,15 +19,15 @@
     "h2": "Para qué sirven los modelos de documentos del proindiviso",
     "intro": [
      "Casi todos los conflictos de un proindiviso empiezan con una conversación que no llega a nada. Por eso conviene pasar cuanto antes al papel. Un escrito claro fija qué propones, en qué plazo y con qué base legal. Además, deja prueba de la fecha y del contenido si el asunto acaba en el juzgado.",
-     "Estos modelos de documentos del proindiviso cubren las seis situaciones más habituales entre copropietarios. Sirven para proponer, reclamar, notificar una venta, preparar la división y pactar cómo convivir. Todos parten del Código Civil común: los artículos 392 a 406 para la comunidad de bienes y los artículos 1522 y 1524 para el retracto.",
+     "Estos modelos de documentos del proindiviso cubren las doce situaciones más habituales entre copropietarios. Sirven para proponer, reclamar, notificar una venta, preparar la división y pactar cómo convivir, pero también para comprar, vender o cobrar lo que te deben. Todos parten del Código Civil común: los artículos 392 a 406 para la comunidad de bienes, los 1522 y 1524 para el retracto y los 1067 y 1454 para herencias y arras.",
      "Son orientativos. Si hay importes altos, una herencia sin repartir o un conflicto serio, revísalos con un abogado antes de enviarlos. Además, en Cataluña, Aragón, Navarra y otras comunidades con Derecho civil propio algunas reglas cambian."
     ]
    },
    {
-    "overline": "Los seis modelos",
+    "overline": "Negociar y convivir",
     "h2": "Qué modelo necesitas según tu situación",
     "intro": [
-     "Estos son los seis modelos de documentos del proindiviso de esta sección. Cada página explica cuándo conviene el documento, cómo rellenarlo y cómo enviarlo con prueba."
+     "Estos seis modelos de documentos del proindiviso sirven para negociar, avisar y convivir con los demás copropietarios. Cada página explica cuándo conviene el documento, cómo rellenarlo y cómo enviarlo con prueba."
     ],
     "type": "cards",
     "items": [
@@ -65,6 +65,52 @@
       "t": "Acuerdo entre copropietarios",
       "p": "Ordena el día a día. Dice quién usa la vivienda y cuánto compensa, cómo se reparten IBI, comunidad, seguro y obras, y cómo se decide un alquiler.",
       "url": "/modelos-documentos-proindiviso/modelo-acuerdo-entre-copropietarios/",
+      "cta": "Ver el modelo →"
+     }
+    ]
+   },
+   {
+    "overline": "Comprar, vender y reclamar dinero",
+    "h2": "Modelos para comprar, vender y reclamar dinero",
+    "intro": [
+     "Los otros seis modelos sirven cuando ya hay dinero sobre la mesa: una compra, una venta o una deuda entre copropietarios. Los contratos se firman en privado y después se llevan a la notaría."
+    ],
+    "type": "cards",
+    "items": [
+     {
+      "t": "Compraventa entre hermanos",
+      "p": "Contrato privado para que un hermano compre la parte del otro, con precio, pago, impuestos y fecha de escritura.",
+      "url": "/modelos-documentos-proindiviso/modelo-contrato-compraventa-entre-hermanos/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Cesión de derechos hereditarios",
+      "p": "Borrador para vender tu parte de una herencia antes de la partición, con deudas, retracto de un mes e impuestos.",
+      "url": "/modelos-documentos-proindiviso/modelo-cesion-de-derechos-hereditarios/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Arras de una cuota indivisa",
+      "p": "Reserva la venta de tu parte con una señal penitencial y prevé qué pasa si otro copropietario ejerce el retracto.",
+      "url": "/modelos-documentos-proindiviso/modelo-contrato-de-arras-cuota-indivisa/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Reconocimiento de deuda",
+      "p": "El otro dueño reconoce lo que te debe por IBI, comunidad o derramas y se compromete a un calendario de pago.",
+      "url": "/modelos-documentos-proindiviso/modelo-reconocimiento-de-deuda-entre-copropietarios/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Reclamación de rentas",
+      "p": "Burofax al copropietario que cobra solo el alquiler o usa el piso en exclusiva, para que te pague tu parte.",
+      "url": "/modelos-documentos-proindiviso/modelo-reclamacion-rentas-copropietario/",
+      "cta": "Ver el modelo →"
+     },
+     {
+      "t": "Oferta de compra a un copropietario",
+      "p": "Carta para comprar la parte de otro dueño, con el precio razonado, la forma de pago y un plazo de validez.",
+      "url": "/modelos-documentos-proindiviso/modelo-oferta-compra-parte-copropietario/",
       "cta": "Ver el modelo →"
      }
     ]
@@ -175,7 +221,7 @@
    ],
    [
     "¿Puedo usar los modelos si el inmueble es de una herencia sin repartir?",
-    "Con matices. Mientras no hay partición, los herederos no son copropietarios de cada bien, sino de la herencia en conjunto. Lo que se vende entonces es el derecho hereditario, con un retracto de un mes para los coherederos (artículo 1067 del Código Civil). Adapta los textos o consulta a un abogado."
+    "Con matices. Mientras no hay partición, los herederos no son copropietarios de cada bien, sino de la herencia en conjunto. Lo que se vende entonces es el derecho hereditario, con un retracto de un mes para los coherederos (artículo 1067 del Código Civil). Para ese caso usa el modelo de cesión de derechos hereditarios o consulta a un abogado."
    ],
    [
     "¿Me compráis la parte aunque ya haya enviado burofaxes?",
@@ -207,8 +253,8 @@
   ],
   "cta_title": "Del papel a la notaría en semanas",
   "cta_text": "Si los escritos no avanzan, compramos tu parte con fondos propios. Oferta por escrito en 48 horas, firma en notaría y cobro al contado.",
-  "yoast_title": "Modelos de documentos del proindiviso: 6 plantillas en Word",
-  "meta_desc": "Modelos de documentos del proindiviso gratis en Word: burofax, propuesta, requerimiento y pactos. Si prefieres vender, te compramos tu parte en 48 h.",
+  "yoast_title": "Modelos de documentos del proindiviso: 12 plantillas en Word",
+  "meta_desc": "Modelos de documentos del proindiviso gratis en Word: burofax, contratos, arras y reclamaciones. Si prefieres vender, te compramos tu parte en 48 h.",
   "focus_kw": "modelos de documentos del proindiviso",
   "title_corto": "Modelos de documentos",
   "imagen_prompt": "Editorial real estate photograph, 16:9, of a tidy oak desk beside a tall window in a traditional Spanish apartment, with a fountain pen and a small brass key resting on the bare wood, soft natural morning light, muted palette with dark blue and terracotta accents, 35 mm lens, shallow depth of field. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
@@ -223,7 +269,7 @@
     "https://www.correos.es/es/es/particulares/enviar/envios-nacionales/burofax-cartas/burofax"
    ],
    [
-    "Arts. 392-404, 1062, 1067, 1257, 1262, 1450, 1455, 1518, 1521, 1522, 1524, 1525, 1964 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
+    "Arts. 392-404, 1000, 1003, 1062, 1067, 1145, 1257, 1262, 1279, 1280, 1450, 1454, 1455, 1518, 1521, 1522, 1524, 1525, 1531-1534, 1964, 1966 y 1973 del Código Civil; art. 5.2 (cómputo civil sin excluir inhábiles)",
     "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
    ],
    [

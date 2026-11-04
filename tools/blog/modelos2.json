@@ -1,0 +1,1226 @@
+[
+ {
+  "slug": "modelo-contrato-compraventa-entre-hermanos",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de contrato de compraventa entre hermanos de la parte de una vivienda",
+  "sub": "El modelo de contrato de compraventa entre hermanos sirve para que uno compre al otro su parte de la vivienda familiar. Deja por escrito el precio, el pago, las cargas y los impuestos. Es un contrato privado válido entre vosotros, pero para inscribir la compra hace falta escritura ante notario. Y si ningún hermano puede pagar, te compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Contrato privado listo en Word",
+   "AJD o ITP, explicado",
+   "Plan B: te compramos la parte"
+  ],
+  "card_title": "¿Tu hermano no puede comprar?",
+  "card_text": "Te damos precio por tu parte en 48 horas, por escrito y sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cuándo usarlo",
+    "h2": "Cuándo firmar un contrato de compraventa entre hermanos",
+    "intro": [
+     "Es la salida más habitual de una herencia con un piso: un hermano quiere quedárselo y el otro prefiere el dinero. El artículo 399 del Código Civil permite a cada copropietario vender su parte. Por eso el modelo de contrato de compraventa entre hermanos deja cerrado el acuerdo antes de ir a la notaría.",
+     "El contrato privado es válido y obliga a los dos desde la firma. La compraventa se perfecciona con el acuerdo sobre la cosa y el precio (artículo 1450 del Código Civil). Sin embargo, para inscribir la compra en el Registro hace falta escritura pública (artículo 3 de la Ley Hipotecaria). Además, cualquiera de los dos puede exigir al otro que la firme (artículos 1279 y 1280 del Código Civil).",
+     "No es la mejor vía en dos casos. Si la herencia aún no está repartida, lo que se vende es el derecho hereditario, y para eso tienes el modelo de cesión de derechos hereditarios. Y si hay hipoteca, el banco tiene que aceptar que el hermano que vende salga del préstamo."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de contrato de compraventa entre hermanos para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Rellena los huecos en mayúsculas y borra las cláusulas que no apliquen. Después, firmad dos ejemplares y rubricad todas las páginas."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-contrato-compraventa-entre-hermanos\"]"
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Qué impuestos paga cada hermano según cómo quede la propiedad",
+    "intro": [
+     "El nombre que pongáis al contrato no decide el impuesto. Hacienda mira la verdadera naturaleza del acto, no su denominación (artículo 2 de la ley del ITP y AJD). Las cifras son orientativas y cambian según la comunidad autónoma."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Impuesto y quién lo paga"
+     ],
+     [
+      "El comprador se queda el 100 %",
+      "Se trata como extinción de condominio. Paga AJD, en general entre el 0,5 % y el 1,5 %, sobre el valor de la parte que adquiere, según la doctrina del Tribunal Supremo. Conviene que la escritura se redacte así."
+     ],
+     [
+      "Quedan otros copropietarios",
+      "Es una compraventa de cuota. El comprador paga ITP, en general entre el 6 % y el 10 % del valor de la parte, con el valor de referencia del Catastro como mínimo."
+     ],
+     [
+      "Plusvalía municipal",
+      "En la compraventa de cuota la paga el hermano que vende, por su porcentaje. En la extinción de condominio, el criterio general es que no se devenga."
+     ],
+     [
+      "IRPF del que vende",
+      "Si cobra más de lo que le costó su parte, puede tener una ganancia que declarará en la renta del año siguiente."
+     ],
+     [
+      "Notaría y Registro",
+      "Sin pacto, la escritura la paga el vendedor y la primera copia, el comprador (artículo 1455). Entre hermanos lo habitual es que pague todo quien compra."
+     ]
+    ]
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Del contrato privado a la escritura de compraventa entre hermanos",
+    "intro": [
+     "Estos son los pasos habituales entre la primera conversación y la inscripción en el Registro."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Valorad la parte",
+      "p": "Partid del valor de mercado de la vivienda entera y aplicad el porcentaje. Después, restad las cargas que asuma quien compra, como la mitad de una hipoteca pendiente. La calculadora de cuánto vale mi parte da una primera cifra."
+     },
+     {
+      "t": "Firmad el contrato privado",
+      "p": "Con el modelo de contrato de compraventa entre hermanos fijáis precio, pago a cuenta y fecha límite de escritura. Ese pago a cuenta no son arras penitenciales, así que nadie puede desistir perdiéndolo."
+     },
+     {
+      "t": "Reunid la documentación",
+      "p": "Pedid una nota simple reciente, el último recibo del IBI y un certificado de deudas de la comunidad. Si hay hipoteca, hablad antes con el banco."
+     },
+     {
+      "t": "Firmad ante notario",
+      "p": "En la escritura se paga el resto del precio y se entrega la vivienda, porque su otorgamiento equivale a la entrega (artículo 1462). Luego se liquida el impuesto, en general en 30 días hábiles, y se inscribe."
+     }
+    ]
+   },
+   {
+    "overline": "Casos especiales",
+    "h2": "Si hay más hermanos, hipoteca o Derecho foral",
+    "intro": [
+     "Si sois más de dos, el retracto de comuneros solo protege frente a la venta a un extraño (artículo 1522). Un hermano que ya es copropietario no es un extraño, así que en principio los demás no pueden retraer. En cambio, si compra alguien que no es copropietario, como un cuñado, los demás tienen nueve días para subrogarse (artículo 1524). Por eso conviene que firmen su conformidad.",
+     "Con hipoteca, vender tu parte no te libera del préstamo. El hermano que vende sigue siendo deudor hasta que el banco firme su salida en una novación. Pactadlo con la entidad antes de firmar el contrato privado.",
+     "En Cataluña, además, los cotitulares tienen derechos de adquisición preferente con otros plazos (artículo 552-4 de su Código Civil). Aragón, Navarra, País Vasco, Galicia y Baleares también tienen Derecho civil propio. Si el piso está allí, revisa el modelo de contrato de compraventa entre hermanos con un profesional."
+    ]
+   },
+   {
+    "overline": "Plan B",
+    "h2": "Si ningún hermano puede comprar la parte",
+    "intro": [
+     "Muchas veces el hermano que quiere la casa no consigue la hipoteca o no llega al precio. Entonces el modelo de contrato de compraventa entre hermanos no resuelve nada, y la alternativa es vender tu parte a un tercero."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte",
+     "p": "Compramos con fondos propios cuotas de pisos, casas, locales y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con notaría y gestión a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es válido un contrato privado de compraventa entre hermanos?",
+    "Sí. Obliga a los dos desde la firma, porque hay acuerdo sobre la cosa y el precio. Pero no se puede inscribir en el Registro: para eso hace falta escritura pública, y cualquiera de los dos puede exigir al otro que la firme (artículo 1279 del Código Civil)."
+   ],
+   [
+    "¿Qué impuesto paga el hermano que compra la otra mitad?",
+    "Si con la compra se queda el 100 %, se trata como extinción de condominio y paga AJD, en general entre el 0,5 % y el 1,5 % del valor de la mitad que adquiere. Si quedan más copropietarios, suele tributar como compraventa por ITP, entre el 6 % y el 10 %. Es orientativo y depende de la comunidad autónoma."
+   ],
+   [
+    "¿Pueden mis otros hermanos quedarse la parte que vendo a uno de ellos?",
+    "En principio no. El retracto de comuneros del artículo 1522 solo opera cuando se vende a un extraño, y un hermano que ya es copropietario no lo es. Si el comprador no es copropietario, los demás sí tienen nueve días para subrogarse."
+   ],
+   [
+    "¿Se puede pagar a plazos al hermano que vende?",
+    "Sí, si los dos lo pactáis. Para que el vendedor esté protegido, el aplazamiento debe constar en la escritura con condición resolutoria o con una hipoteca a su favor. Sin garantía, si el comprador deja de pagar, solo queda reclamar la deuda."
+   ],
+   [
+    "¿Me compráis mi parte si mi hermano no puede pagarla?",
+    "Sí. Compramos tu cuota aunque tu hermano siga en la vivienda y no tenga financiación. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con la notaría a nuestro cargo. Tu hermano conserva su derecho de retracto de nueve días."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la compraventa entre hermanos",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Modelo de oferta de compra a un copropietario",
+    "/modelos-documentos-proindiviso/modelo-oferta-compra-parte-copropietario/"
+   ],
+   [
+    "Comprar la parte de mi hermano",
+    "/blog/comprar-la-parte-de-mi-hermano/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ]
+  ],
+  "cta_title": "Vende tu parte aunque tu hermano no pueda comprarla",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Modelo de contrato de compraventa entre hermanos en Word",
+  "meta_desc": "Modelo de contrato de compraventa entre hermanos de la parte de un piso, en Word, con impuestos y escritura. Si nadie compra, te compramos tu parte.",
+  "focus_kw": "modelo de contrato de compraventa entre hermanos",
+  "title_corto": "Compraventa entre hermanos",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of two matching old wooden chairs side by side on the tiled front porch of a whitewashed family townhouse in a small Spanish town, potted geraniums and a green shuttered window, warm late afternoon light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de contrato de compraventa entre hermanos: dos sillas en un porche",
+  "modelo": {
+   "titulo": "Modelo de contrato de compraventa entre hermanos",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nCONTRATO PRIVADO DE COMPRAVENTA DE CUOTA INDIVISA ENTRE HERMANOS\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n\nComo VENDEDOR, [NOMBRE Y APELLIDOS DEL VENDEDOR], mayor de edad, con DNI [DNI] y domicilio en [DOMICILIO].\nComo COMPRADOR, [NOMBRE Y APELLIDOS DEL COMPRADOR], mayor de edad, con DNI [DNI] y domicilio en [DOMICILIO].\n\nAmbos son hermanos, intervienen en su propio nombre y se reconocen capacidad para otorgar este contrato.\n\nEXPONEN\n\nI. Que son copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. El vendedor es titular del [PORCENTAJE] % y el comprador, del [PORCENTAJE] %, por título de [HERENCIA, COMPRA U OTRO].\n\nII. Que el inmueble está libre de cargas, salvo [CARGAS O NINGUNA], y al corriente de IBI y gastos de comunidad, salvo [DEUDAS O NINGUNA].\n\nIII. [SOLO SI HAY MÁS COPROPIETARIOS] Que también son copropietarios [NOMBRES Y PORCENTAJES], que firman al final en prueba de conformidad.\n\nESTIPULACIONES\n\nPRIMERA. Objeto. El vendedor vende al comprador, que la compra, su cuota del [PORCENTAJE] % del inmueble descrito, con cuanto le sea inherente y en el estado de uso actual, que el comprador conoce.\n\nSEGUNDA. Precio. El precio es de [IMPORTE EN EUROS] euros. En este acto el comprador entrega [IMPORTE EN EUROS] euros por transferencia a la cuenta [IBAN DEL VENDEDOR], que el vendedor declara recibidos, y este documento sirve como carta de pago. El resto, [IMPORTE EN EUROS] euros, se pagará al firmar la escritura mediante [TRANSFERENCIA O CHEQUE BANCARIO]. Las cantidades entregadas son pago a cuenta del precio y no arras penitenciales, por lo que ninguna parte podrá desistir unilateralmente.\n\nTERCERA. Escritura pública. Las partes otorgarán escritura pública ante el notario de [LOCALIDAD] que elija el comprador antes del [FECHA LÍMITE]. Si con esta compra el comprador pasa a ser titular del 100 %, la escritura se otorgará como extinción de condominio, con adjudicación al comprador y compensación en dinero al vendedor por el mismo importe.\n\nCUARTA. Cargas y deudas. [ELIGE UNA OPCIÓN Y BORRA LA OTRA] Opción A: el vendedor cancelará con el precio las cargas que le correspondan. Opción B: el comprador asume la hipoteca pendiente con [ENTIDAD] y ambos pedirán a la entidad la liberación del vendedor antes de la escritura; si no se obtiene, este contrato quedará sin efecto y se devolverán las cantidades entregadas. Los recibos de IBI, comunidad y seguro se repartirán por cuotas hasta la fecha de la escritura.\n\nQUINTA. Gastos e impuestos. Los gastos de notaría, Registro y gestoría serán de cuenta de [EL COMPRADOR O AMBOS POR MITAD]. El comprador pagará el impuesto que grave la adquisición: actos jurídicos documentados si se extingue el condominio, o transmisiones patrimoniales en otro caso. El vendedor pagará, en su caso, la plusvalía municipal y su IRPF.\n\nSEXTA. Entrega de la posesión. El vendedor entregará las llaves y la posesión de su parte al otorgarse la escritura [O EN LA FECHA QUE PACTÉIS].\n\nSÉPTIMA. Incumplimiento. Si una parte no acude a firmar la escritura en el plazo pactado, la otra podrá exigir el cumplimiento o resolver el contrato, con la indemnización que proceda (artículo 1124 del Código Civil).\n\nY en prueba de conformidad, firman por duplicado en el lugar y la fecha indicados.\n\nEL VENDEDOR: [FIRMA]\nEL COMPRADOR: [FIRMA]\n[SOLO SI HAY MÁS COPROPIETARIOS] CONFORMES: [FIRMAS DE LOS DEMÁS COPROPIETARIOS]",
+   "instrucciones": [
+    "Copia los datos del inmueble de la nota simple y los porcentajes de la escritura de herencia o de compra.",
+    "Si el comprador se queda el 100 %, mantén la frase de la extinción de condominio en la cláusula tercera: cambia el impuesto.",
+    "Si hay hipoteca, usa la opción B de la cláusula cuarta y habla antes con el banco.",
+    "Si sois más de dos hermanos, pide a los demás que firmen su conformidad al final.",
+    "Fija una fecha límite realista para la escritura: entre 30 y 60 días suele bastar."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 399, 1124, 1279, 1280, 1450, 1455, 1462, 1522 y 1524 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "Ley Hipotecaria, art. 3 (para inscribir, escritura pública, ejecutoria o documento auténtico)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1946-2453"
+   ],
+   [
+    "TRLITPAJD: art. 2.1 (el impuesto se exige según la verdadera naturaleza jurídica del acto, cualquiera que sea su denominación) y art. 10 (base imponible; en inmuebles, valor de referencia)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359"
+   ],
+   [
+    "Retracto de comuneros: «si la transmisión es a un comunero, no cabe el derecho de retracto» (requisito de que el adquirente sea un extraño, art. 1522 CC)",
+    "https://blog.sepin.es/2019/02/derecho-retracto-comunero"
+   ]
+  ],
+  "dudas": [
+   "El brief afirma que, si hay otros copropietarios, tienen retracto (arts. 1522 y 1524). El art. 1522 CC solo lo concede «en el caso de enajenarse a un extraño» y la doctrina entiende que un comunero no lo es: el texto dice que, en principio, no hay retracto si compra un hermano que ya es copropietario, y que sí lo hay si compra quien no lo es; el modelo añade la conformidad firmada de los demás. Conviene que un abogado lo confirme.",
+   "Incoherencia en el sitio: /blog/comprar-la-parte-de-mi-hermano/ dice en su tabla que en la compraventa de cuota «si sois más de dos, los demás pueden retraer en nueve días». No se ha tocado (fuera del encargo).",
+   "Plusvalía municipal en la extinción de condominio: se dice «el criterio general es que no se devenga», coherente con el blog del sitio; no se ha verificado con una resolución concreta en esta tanda.",
+   "Horquillas de AJD (0,5-1,5 %) e ITP (6-10 %): las mismas del sitio, orientativas y sin verificar comunidad por comunidad; los territorios forales tienen tipos propios."
+  ]
+ },
+ {
+  "slug": "modelo-cesion-de-derechos-hereditarios",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de cesión de derechos hereditarios: borrador para llevar a la notaría",
+  "sub": "El modelo de cesión de derechos hereditarios recoge la venta de tu parte de una herencia antes de la partición. Incluye la herencia, la cuota, el precio, las deudas, el retracto y los impuestos. La ley exige que la cesión conste en documento público (artículo 1280 del Código Civil), así que es un borrador para llevar a la notaría. Si prefieres no buscar comprador, compramos tus derechos hereditarios con oferta en 48 horas.",
+  "checks": [
+   "Borrador listo para el notario",
+   "Arts. 1067 y 1280 del Código Civil",
+   "Compramos tu parte de la herencia"
+  ],
+  "card_title": "¿Herencia bloqueada?",
+  "card_text": "Compramos tu parte de la herencia antes de la partición. Oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Qué es",
+    "h2": "Qué es una cesión de derechos hereditarios y cuándo conviene",
+    "intro": [
+     "Mientras la herencia no se reparte, ningún heredero es dueño de un piso concreto. Cada uno tiene una cuota sobre el conjunto de la herencia. La cesión de derechos hereditarios es la venta de esa cuota a otra persona, que ocupa tu lugar en la partición. Además, quien vende sin enumerar los bienes solo responde de su cualidad de heredero (artículo 1531 del Código Civil).",
+     "Ceder tiene una consecuencia que conviene conocer: vender tu derecho supone aceptar la herencia (artículo 1000). Por eso pagas el Impuesto de Sucesiones y, frente a los acreedores, sigues respondiendo como heredero; si no aceptaste a beneficio de inventario, también con tus bienes (artículo 1003). Entre vosotros, en cambio, el comprador debe reembolsarte lo que pagues por deudas de la herencia, salvo pacto (artículo 1534).",
+     "El modelo de cesión de derechos hereditarios conviene cuando la partición está bloqueada o cuando quieres salir sin esperar a los demás. Si todos están de acuerdo en repartir, suele compensar más hacer antes la partición y vender después tu cuota de cada inmueble."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de cesión de derechos hereditarios para llevar al notario",
+    "type": "tool",
+    "intro": [
+     "Este modelo de cesión de derechos hereditarios es un documento previo: cierra el acuerdo y se entrega al notario, que redactará la escritura. Rellena los huecos y adjunta los títulos de la herencia."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-cesion-de-derechos-hereditarios\"]"
+   },
+   {
+    "overline": "Cláusulas",
+    "h2": "Las cláusulas que deben quedar claras antes de firmar",
+    "intro": [
+     "El modelo de cesión de derechos hereditarios de esta página recoge estas cláusulas. Revísalas con calma antes de ir al notario."
+    ],
+    "type": "cards",
+    "items": [
+     {
+      "t": "Herencia y cuota cedida",
+      "p": "Identifica al causante, la fecha del fallecimiento, el título sucesorio y tu cuota. Enumera también los inmuebles conocidos, aunque la ley no lo exija, para que el precio tenga una base."
+     },
+     {
+      "t": "Precio y forma de pago",
+      "p": "Lo normal es pagar todo al firmar la escritura, por transferencia o cheque bancario. Si se adelanta dinero en el documento previo, di si es pago a cuenta o arras."
+     },
+     {
+      "t": "Deudas, frutos y gastos",
+      "p": "Pacta quién asume las deudas conocidas y las que aparezcan. Aclara además quién se queda las rentas ya cobradas, porque el artículo 1533 obliga al vendedor a abonarlas salvo pacto."
+     },
+     {
+      "t": "Retracto de coherederos",
+      "p": "Si el comprador no es coheredero, los demás pueden subrogarse en su lugar reembolsando el precio. Tienen un mes desde que se les hace saber la venta (artículo 1067)."
+     },
+     {
+      "t": "Escritura pública",
+      "p": "La cesión debe constar en documento público (artículo 1280.4.º). Mientras tanto, el documento privado obliga a las partes y cualquiera puede exigir la escritura (artículo 1279)."
+     }
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Quién paga cada impuesto en la cesión de derechos hereditarios",
+    "intro": [
+     "Con el modelo de cesión de derechos hereditarios, los impuestos se reparten así. Las cifras son orientativas y dependen de la comunidad autónoma."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Impuesto",
+      "Quién lo paga y cómo"
+     ],
+     [
+      "Sucesiones",
+      "Tú, como heredero, porque la cesión implica aceptar. Hay seis meses desde el fallecimiento, prorrogables otros seis si lo pides a tiempo."
+     ],
+     [
+      "Transmisiones patrimoniales",
+      "El comprador, por la cesión a título oneroso. Con inmuebles en la herencia se aplica, en general, el tipo de inmuebles de la comunidad, entre el 6 % y el 10 %."
+     ],
+     [
+      "Plusvalía municipal",
+      "Puede haber dos: la de la herencia, a cargo de los herederos, y la de la cesión, a cargo de quien cede por su parte del suelo urbano. Consulta la ordenanza de tu ayuntamiento."
+     ],
+     [
+      "IRPF",
+      "Declaras la diferencia entre el precio y el valor de lo heredado en Sucesiones. Como las cesiones suelen hacerse por debajo del mercado, a menudo sale pérdida."
+     ]
+    ]
+   },
+   {
+    "overline": "Paso a paso",
+    "h2": "Cómo se firma y se notifica la cesión",
+    "intro": [
+     "El documento previo es solo el principio. Estos son los pasos hasta que el comprador ocupa tu lugar en la herencia."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Reúne los títulos",
+      "p": "Certificado de defunción, certificado de últimas voluntades y testamento o declaración de herederos. Añade las notas simples de los inmuebles y las deudas conocidas."
+     },
+     {
+      "t": "Firma la escritura",
+      "p": "El notario revisa el documento previo y redacta la escritura de cesión. El precio se paga en ese acto y los demás herederos no tienen que firmar."
+     },
+     {
+      "t": "Liquida los impuestos",
+      "p": "Tú presentas Sucesiones por tu cuota, si no lo habías hecho. Por su parte, el comprador presenta el ITP de la cesión, en general en 30 días hábiles desde la firma."
+     },
+     {
+      "t": "Notifica a los coherederos",
+      "p": "Una notificación fehaciente con precio y condiciones hace correr el mes del retracto. Para ello puedes adaptar el modelo de notificación de venta de cuota, citando el artículo 1067."
+     }
+    ],
+    "outro": [
+     "Si el causante tenía vecindad civil catalana, aragonesa, navarra, vasca, gallega o balear, la herencia se rige por su Derecho civil propio. Algunas reglas cambian, como la legítima o los derechos de preferencia de los coherederos, así que revisa el borrador con un profesional."
+    ]
+   },
+   {
+    "overline": "Te compramos",
+    "h2": "Si no quieres esperar a la partición",
+    "intro": [
+     "Encontrar comprador para una cuota de herencia es difícil, porque adquiere una posición con bienes y deudas por concretar. Sin comprador, el modelo de cesión de derechos hereditarios se queda en un papel. Nosotros compramos a diario y asumimos el posible retracto de los coherederos."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Compramos tus derechos hereditarios",
+     "p": "Con fondos propios y sin necesidad de que firmen los demás herederos. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión a nuestro cargo, sin exclusividad.",
+     "cta": "Pedir oferta por mi herencia"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Se puede hacer la cesión de derechos hereditarios en documento privado?",
+    "Puedes firmar un documento privado, y obliga a las partes, pero la ley exige que la cesión conste en documento público (artículo 1280.4.º del Código Civil). Cualquiera de las dos partes puede exigir a la otra que firme la escritura. Sin ella, el comprador no podrá inscribir los bienes cuando se haga la partición."
+   ],
+   [
+    "¿Cuánto tiempo tienen los demás herederos para el retracto?",
+    "Un mes desde que se les hace saber la venta, según el artículo 1067 del Código Civil. Solo existe si el comprador es un extraño: si cedes a otro coheredero, los demás no pueden subrogarse. Por eso conviene notificar de forma fehaciente y con todas las condiciones."
+   ],
+   [
+    "¿Quién paga las deudas de la herencia después de la cesión?",
+    "Entre vosotros, el comprador, que debe reembolsarte lo que pagues por deudas y cargas de la herencia salvo pacto en contrario (artículo 1534). Frente a los acreedores, en cambio, sigues respondiendo como heredero que ha aceptado. Por eso conviene revisar el pasivo antes de firmar."
+   ],
+   [
+    "¿Puedo ceder solo mi parte de un piso concreto de la herencia?",
+    "Antes de la partición no tienes una cuota sobre cada bien, sino sobre la herencia entera. Para vender la parte de un piso concreto hay que repartir antes la herencia o que todos los herederos lo acuerden. Lo habitual es ceder la cuota completa."
+   ],
+   [
+    "¿Compráis derechos hereditarios si los herederos no se hablan?",
+    "Sí. Compramos tu cuota de la herencia sin que firmen los demás y asumimos el posible retracto de los coherederos. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con los gastos de notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la cesión de derechos hereditarios",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Modelo de notificación de venta de cuota",
+    "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/"
+   ],
+   [
+    "Herencia yacente: vender antes de la partición",
+    "/blog/herencia-yacente-vender-antes-de-la-particion/"
+   ],
+   [
+    "Aceptar a beneficio de inventario y vender",
+    "/blog/aceptar-herencia-a-beneficio-de-inventario-y-vender/"
+   ]
+  ],
+  "cta_title": "Vende tu parte de la herencia sin esperar a la partición",
+  "cta_text": "Compramos tus derechos hereditarios con fondos propios. Oferta por escrito en 48 horas y cobro al contado en notaría.",
+  "yoast_title": "Modelo de cesión de derechos hereditarios: borrador en Word",
+  "meta_desc": "Modelo de cesión de derechos hereditarios en Word: precio, deudas, retracto de un mes e impuestos. O véndenos tu parte de la herencia con oferta en 48 h.",
+  "focus_kw": "modelo de cesión de derechos hereditarios",
+  "title_corto": "Cesión de derechos hereditarios",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of the quiet dining room of an inherited apartment in an old Spanish building, a heavy dark wood sideboard with a porcelain vase, lace curtains and a long table with six empty chairs, dust floating in soft window light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de cesión de derechos hereditarios: comedor antiguo de una casa familiar",
+  "modelo": {
+   "titulo": "Modelo de cesión de derechos hereditarios",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nDOCUMENTO PREVIO DE CESIÓN ONEROSA DE DERECHOS HEREDITARIOS\nPara elevar a escritura pública (artículo 1280.4.º del Código Civil)\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n\nComo CEDENTE, [NOMBRE Y APELLIDOS DEL CEDENTE], con DNI [DNI] y domicilio en [DOMICILIO].\nComo CESIONARIO, [NOMBRE Y APELLIDOS O RAZÓN SOCIAL DEL CESIONARIO], con DNI o NIF [DNI O NIF] y domicilio en [DOMICILIO].\n\nEXPONEN\n\nI. Que [NOMBRE Y APELLIDOS DEL CAUSANTE] falleció en [LOCALIDAD] el [FECHA DE FALLECIMIENTO], con título sucesorio [TESTAMENTO O DECLARACIÓN DE HEREDEROS] de fecha [FECHA], ante el notario [NOMBRE DEL NOTARIO].\n\nII. Que el cedente es heredero en una cuota de [FRACCIÓN O PORCENTAJE] de la herencia, junto con [NOMBRES DE LOS DEMÁS COHEREDEROS], y que la herencia no se ha partido.\n\nIII. Que, según conocen las partes, la herencia comprende [INMUEBLES CON SU REFERENCIA CATASTRAL] y [OTROS BIENES], con estas deudas: [DEUDAS CONOCIDAS O NINGUNA].\n\nESTIPULACIONES\n\nPRIMERA. Objeto. El cedente cede al cesionario, que adquiere, la totalidad de los derechos que le corresponden en la herencia de [NOMBRE DEL CAUSANTE], sin reservarse nada, para que el cesionario ocupe su lugar en la comunidad hereditaria y en la partición.\n\nSEGUNDA. Precio. El precio es de [IMPORTE EN EUROS] euros, que se pagará al otorgar la escritura pública mediante [TRANSFERENCIA O CHEQUE BANCARIO]. [SOLO SI SE ADELANTA DINERO] En este acto se entregan [IMPORTE EN EUROS] euros como pago a cuenta del precio.\n\nTERCERA. Responsabilidad. Conforme al artículo 1531 del Código Civil, el cedente responde solo de su cualidad de heredero, y no de la existencia o el valor de cada bien. Declara que no ha dispuesto antes de su derecho ni de ningún bien de la herencia.\n\nCUARTA. Deudas, frutos y gastos. El cesionario asumirá, en la proporción de la cuota cedida, las deudas y cargas de la herencia, y reembolsará al cedente lo que este pague por ellas desde hoy (artículo 1534 del Código Civil). Las rentas y frutos percibidos por el cedente hasta hoy [QUEDARÁN PARA EL CEDENTE O SE ABONARÁN AL CESIONARIO] (artículo 1533).\n\nQUINTA. Retracto de coherederos. [SOLO SI EL CESIONARIO NO ES COHEREDERO] Las partes conocen que los coherederos pueden subrogarse en el lugar del cesionario, reembolsándole el precio, en el plazo de un mes desde que se les haga saber la cesión (artículo 1067 del Código Civil). El cesionario notificará la cesión de forma fehaciente. Si algún coheredero ejerce el retracto, el cedente no tendrá que devolver nada y el cesionario se dirigirá solo al retrayente.\n\nSEXTA. Escritura pública. Las partes otorgarán escritura pública de cesión ante el notario de [LOCALIDAD] antes del [FECHA LÍMITE]. Cualquiera de ellas podrá exigir a la otra su otorgamiento (artículo 1279 del Código Civil).\n\nSÉPTIMA. Gastos e impuestos. El Impuesto sobre Sucesiones de su cuota y, en su caso, la plusvalía municipal y el IRPF serán de cuenta del cedente. El Impuesto sobre Transmisiones Patrimoniales de la cesión será de cuenta del cesionario, y los gastos de notaría y Registro, de [EL CESIONARIO O AMBAS PARTES SEGÚN PACTO].\n\nY en prueba de conformidad, firman por duplicado.\n\nEL CEDENTE: [FIRMA]\nEL CESIONARIO: [FIRMA]",
+   "instrucciones": [
+    "Copia los datos del causante y del título sucesorio del testamento o de la declaración de herederos.",
+    "Enumera los inmuebles con su referencia catastral, aunque la ley no lo exija: evita discusiones sobre el precio.",
+    "Pacta por escrito quién asume las deudas y quién se queda las rentas cobradas antes de la cesión.",
+    "Si cedes a otro coheredero, borra la cláusula quinta: en ese caso no hay retracto.",
+    "Lleva el documento firmado al notario, que lo convertirá en escritura pública."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 1000, 1003, 1067, 1279, 1280.4.º, 1531, 1533 y 1534 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "Reglamento del Impuesto sobre Sucesiones, art. 67.1.a (seis meses desde el fallecimiento) y art. 68 (prórroga por un plazo igual, pedida dentro de los cinco primeros meses); comprobado en la API del BOE el 04/11/2026",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "TRLITPAJD: art. 2.1 (el impuesto se exige según la verdadera naturaleza jurídica del acto, cualquiera que sea su denominación) y art. 10 (base imponible; en inmuebles, valor de referencia)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359"
+   ]
+  ],
+  "dudas": [
+   "Plusvalía municipal de la propia cesión onerosa: se sigue el criterio de /vender-derechos-hereditarios/ (la paga quien cede por su parte de suelo urbano), con remisión a la ordenanza; no se ha verificado con una consulta de la DGT ni sentencia en esta tanda.",
+   "Derecho foral: no se detallan los plazos del derecho de adquisición preferente de los coherederos en Cataluña ni las reglas de otras comunidades; solo se remite a revisarlos."
+  ]
+ },
+ {
+  "slug": "modelo-contrato-de-arras-cuota-indivisa",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de contrato de arras de una cuota indivisa con aviso a los copropietarios",
+  "sub": "El modelo de contrato de arras de una cuota indivisa reserva la venta de tu parte con una señal. Además, fija la fecha para firmar en notaría. Usa arras penitenciales (artículo 1454 del Código Civil) y prevé qué pasa si otro copropietario ejerce el retracto. Si prefieres saltarte la espera, te compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Arras penitenciales del art. 1454",
+   "Con el retracto de comuneros",
+   "O te compramos la parte"
+  ],
+  "card_title": "¿Sin comprador para tu parte?",
+  "card_text": "Compramos tu cuota sin arras ni esperas. Oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Arras penitenciales",
+    "h2": "Qué son las arras penitenciales y por qué usarlas al vender tu parte",
+    "intro": [
+     "Las arras son la señal que el comprador entrega al firmar el compromiso de compra. Si son penitenciales, cualquiera puede echarse atrás con un coste fijo. Quien las dio las pierde y quien las recibió las devuelve duplicadas (artículo 1454 del Código Civil). Así nadie queda atado a la fuerza y el precio de arrepentirse está claro desde el principio.",
+     "Ojo, porque la jurisprudencia del Tribunal Supremo presume que las arras son confirmatorias, es decir, un simple pago a cuenta. Para que sean penitenciales, el contrato debe decirlo de forma expresa. Por eso el modelo de contrato de arras de una cuota indivisa cita el artículo 1454 en la cláusula de la señal.",
+     "La señal habitual se mueve entre el 5 % y el 10 % del precio, aunque la ley no fija ninguna cifra. Sin embargo, al vender una cuota hay un riesgo propio: que otro copropietario se quede con ella por el retracto. Por eso el contrato prevé ese escenario."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de contrato de arras de una cuota indivisa para copiar o descargar",
+    "type": "tool",
+    "intro": [
+     "Este modelo de contrato de arras de una cuota indivisa sirve tanto si vendes a un tercero como a otro copropietario. Si el comprador ya es copropietario, borra la cláusula del retracto."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-contrato-de-arras-cuota-indivisa\"]"
+   },
+   {
+    "overline": "El retracto",
+    "h2": "Qué pasa con el retracto de los demás copropietarios",
+    "intro": [
+     "El retracto de comuneros permite a los demás dueños quedarse la cuota en las mismas condiciones que el comprador (artículos 1521 y 1522). Su efecto depende de quién compra y de cuándo se ejerce."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Qué ocurre"
+     ],
+     [
+      "Compra un copropietario",
+      "No hay retracto. El artículo 1522 solo lo concede cuando se vende a un extraño, y un copropietario no lo es."
+     ],
+     [
+      "Compra un tercero",
+      "Los demás pueden retraer en nueve días desde la inscripción en el Registro o, si no se inscribe, desde que conocen la venta con todas sus condiciones (artículo 1524)."
+     ],
+     [
+      "Alguien quiere comprar antes de la escritura",
+      "Si lo pactáis, el contrato queda sin efecto y devuelves la señal sin duplicarla. Es una cláusula opcional, porque el Código Civil común no da tanteo a los comuneros."
+     ],
+     [
+      "Alguien retrae tras la escritura",
+      "El retrayente reembolsa al comprador el precio y los gastos (artículos 1518 y 1525). Tú ya has cobrado y no devuelves nada."
+     ]
+    ],
+    "outro": [
+     "Para que corra el plazo de nueve días, notifica la venta a todos con el precio y las condiciones. Para ello tienes un modelo de notificación de venta de cuota."
+    ]
+   },
+   {
+    "overline": "Cláusulas",
+    "h2": "Cláusulas clave del contrato de arras de una cuota indivisa",
+    "intro": [
+     "Revisa estas cláusulas antes de firmar el modelo de contrato de arras de una cuota indivisa. Son las que más discusiones evitan."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Cuota y finca exactas.</strong> Porcentaje, referencia catastral y finca registral según la nota simple. Vendes una parte indivisa, no una habitación ni una planta.",
+     "<strong>Precio, señal y resto.</strong> Importe total, cantidad entregada como arras penitenciales y forma de pago del resto en la notaría.",
+     "<strong>Fecha límite para escriturar.</strong> Un día concreto, no «cuanto antes». Si pasa sin firma, se aplica el régimen de las arras.",
+     "<strong>Cargas.</strong> Si hay una hipoteca sobre la finca entera, di quién la cancela y con qué dinero. El comprador debe saber que la carga sigue sobre el inmueble.",
+     "<strong>Gastos e impuestos.</strong> El comprador paga el ITP, o el AJD si con la compra se queda el 100 %. El vendedor paga la plusvalía municipal y su IRPF, y la notaría sigue el artículo 1455 salvo pacto.",
+     "<strong>Ocupación.</strong> Si otro copropietario vive en el inmueble, el comprador debe saberlo y aceptarlo por escrito."
+    ]
+   },
+   {
+    "overline": "Si alguien se echa atrás",
+    "h2": "Qué pasa si una parte desiste o no acude a la notaría",
+    "intro": [
+     "Si el comprador desiste, pierde la señal. En cambio, si desiste el vendedor, devuelve el doble. Conviene comunicarlo por escrito, con burofax, antes de la fecha límite, para que no haya dudas sobre quién se echó atrás.",
+     "Puede pasar que llegue la fecha y una parte no aparezca sin haber desistido. Entonces la otra debe citarla ante notario con un requerimiento. Lo normal es tratar la ausencia como desistimiento y aplicar el artículo 1454. Si prefieres exigir el cumplimiento en lugar de quedarte con las arras, consulta antes con un abogado.",
+     "Además, Cataluña regula la compraventa en su propio Código Civil y da a los cotitulares derechos de preferencia con otros plazos. También Aragón, Navarra, País Vasco, Galicia y Baleares tienen Derecho civil propio. Si el inmueble está allí, adapta el modelo de contrato de arras de una cuota indivisa con un profesional."
+    ]
+   },
+   {
+    "overline": "Sin esperas",
+    "h2": "Vende tu parte sin señal ni plazos",
+    "intro": [
+     "El modelo de contrato de arras de una cuota indivisa sirve si ya tienes comprador. Sin embargo, un particular que compre una cuota es raro y suele pedir financiación y tiempo. Si no lo tienes, nosotros compramos directamente, sin arras previas."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos la parte",
+     "p": "Compramos con fondos propios cuotas de pisos, casas, locales, garajes y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con la notaría a nuestro cargo.",
+     "cta": "Pedir oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto se suele dar de arras por la parte de un piso?",
+    "La ley no fija una cantidad. En la práctica se pacta entre el 5 % y el 10 % del precio, orientativamente. Ten en cuenta que, si las arras son penitenciales, esa cifra es lo que cuesta arrepentirse: el comprador la pierde y el vendedor la devuelve doble."
+   ],
+   [
+    "¿Qué pasa si el comprador de mi cuota se echa atrás?",
+    "Con arras penitenciales, el comprador pierde la señal que entregó y el contrato termina (artículo 1454 del Código Civil). No puedes exigirle además una indemnización, salvo que lo hayáis pactado. Si las arras fueran confirmatorias, podrías exigir el cumplimiento o resolver con daños."
+   ],
+   [
+    "¿Tengo que avisar a los demás copropietarios antes de firmar las arras?",
+    "En el Código Civil común no es obligatorio, porque los comuneros no tienen tanteo sino retracto, que nace con la venta. Aun así, avisar antes evita sorpresas. Lo imprescindible es notificar la venta con todas sus condiciones para que corra el plazo de nueve días."
+   ],
+   [
+    "¿Puede un copropietario quedarse mi cuota después de firmar las arras?",
+    "Sí, si el comprador es un extraño. Puede ejercer el retracto en nueve días desde la inscripción o desde que conozca la venta, reembolsando al comprador el precio y los gastos. Tú cobras igual, y el modelo prevé cómo se devuelve la señal si ocurre antes de la escritura."
+   ],
+   [
+    "¿Firmáis contrato de arras cuando compráis una parte?",
+    "Normalmente no hace falta. Te damos oferta por escrito en 48 horas y vamos directos a la notaría en 2-4 semanas, con pago al contado en la firma. Así no hay señal que perder ni plazos que vigilar."
+   ]
+  ],
+  "faq_title": "Preguntas sobre las arras al vender tu parte",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Modelo de notificación de venta de cuota",
+    "/modelos-documentos-proindiviso/modelo-notificacion-venta-cuota-retracto/"
+   ],
+   [
+    "Qué es un contrato de arras",
+    "/diccionario-del-proindiviso/contrato-de-arras/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ],
+   [
+    "Derecho de tanteo y retracto entre copropietarios",
+    "/blog/derecho-de-tanteo-y-retracto-entre-copropietarios/"
+   ]
+  ],
+  "cta_title": "Vende tu cuota sin señal ni esperas",
+  "cta_text": "Compramos tu parte con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Modelo de contrato de arras de una cuota indivisa en Word",
+  "meta_desc": "Modelo de contrato de arras de una cuota indivisa en Word, con arras penitenciales y retracto de comuneros. O te compramos la parte con oferta en 48 h.",
+  "focus_kw": "modelo de contrato de arras de una cuota indivisa",
+  "title_corto": "Arras de una cuota indivisa",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of the empty, quiet waiting room of a notary office in a classic Spanish building, two brown leather armchairs, a small walnut side table with a glass of water, dark wood wall panelling and a warm brass floor lamp, soft afternoon light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de contrato de arras de una cuota indivisa: sala de espera notarial",
+  "modelo": {
+   "titulo": "Modelo de contrato de arras de una cuota indivisa",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nCONTRATO DE ARRAS PENITENCIALES PARA LA COMPRAVENTA DE UNA CUOTA INDIVISA\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n\nComo VENDEDOR, [NOMBRE Y APELLIDOS DEL VENDEDOR], con DNI [DNI] y domicilio en [DOMICILIO].\nComo COMPRADOR, [NOMBRE Y APELLIDOS O RAZÓN SOCIAL DEL COMPRADOR], con DNI o NIF [DNI O NIF] y domicilio en [DOMICILIO].\n\nEXPONEN\n\nI. Que el vendedor es titular de una cuota indivisa del [PORCENTAJE] % del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE].\n\nII. Que el resto del inmueble pertenece a [NOMBRES Y PORCENTAJES DE LOS DEMÁS COPROPIETARIOS], y que el inmueble está [LIBRE DE OCUPANTES O USADO POR QUIEN CORRESPONDA].\n\nIII. Que sobre la finca pesan las cargas siguientes: [CARGAS O NINGUNA].\n\nESTIPULACIONES\n\nPRIMERA. Objeto y precio. El vendedor se compromete a vender y el comprador a comprar la cuota descrita por [IMPORTE EN EUROS] euros, libre de cargas salvo [CARGAS QUE ASUME EL COMPRADOR O NINGUNA].\n\nSEGUNDA. Arras penitenciales. En este acto el comprador entrega [IMPORTE EN EUROS] euros mediante [TRANSFERENCIA O CHEQUE BANCARIO], que el vendedor recibe. Las partes las pactan expresamente como arras penitenciales del artículo 1454 del Código Civil: si el comprador desiste, las perderá; si desiste el vendedor, las devolverá duplicadas. El desistimiento se comunicará por escrito antes de la fecha límite de la cláusula tercera. Si se firma la escritura, las arras se descontarán del precio.\n\nTERCERA. Escritura. La compraventa se formalizará ante el notario de [LOCALIDAD] que designe el comprador antes del [FECHA LÍMITE]. El resto del precio, [IMPORTE EN EUROS] euros, se pagará en ese acto, y el vendedor cancelará con él, si es necesario, las cargas que le correspondan.\n\nCUARTA. Retracto de los copropietarios. [SOLO SI EL COMPRADOR NO ES COPROPIETARIO] Las partes conocen el derecho de retracto de los demás copropietarios (artículos 1522 y 1524 del Código Civil). Otorgada la escritura, se les notificará la venta con todas sus condiciones. Si alguno lo ejerce, el comprador recibirá del retrayente el precio y los gastos (artículos 1518 y 1525) y no podrá reclamar nada al vendedor.\n\nQUINTA. Copropietario interesado antes de la escritura. [CLÁUSULA OPCIONAL] Si antes de la escritura un copropietario comunica por escrito su voluntad de comprar la cuota en las mismas condiciones y el vendedor se la vende, este contrato quedará sin efecto. En ese caso, el vendedor devolverá al comprador las arras recibidas, sin duplicar, en el plazo de [PLAZO] días.\n\nSEXTA. Gastos e impuestos. El impuesto que grave la compra será de cuenta del comprador. La plusvalía municipal y el IRPF, en su caso, serán de cuenta del vendedor. Los gastos de notaría y Registro se pagarán según el artículo 1455 del Código Civil, salvo que se pacte [OTRO REPARTO].\n\nSÉPTIMA. Información. El comprador declara conocer la situación de uso del inmueble y que adquiere una cuota indivisa, no una parte material concreta.\n\nY en prueba de conformidad, firman por duplicado.\n\nEL VENDEDOR: [FIRMA]\nEL COMPRADOR: [FIRMA]",
+   "instrucciones": [
+    "Mantén en la cláusula segunda que son arras penitenciales del artículo 1454: si no lo dices, se presumen confirmatorias.",
+    "Pon una fecha límite concreta para la escritura y deja margen si el comprador necesita hipoteca.",
+    "Borra la cláusula cuarta si el comprador ya es copropietario: entonces no hay retracto.",
+    "Usa la cláusula quinta solo si quieres dar preferencia a los demás copropietarios antes de firmar.",
+    "Tras la escritura, notifica la venta a cada copropietario con el modelo de notificación de venta de cuota."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 1124, 1454, 1455, 1518, 1521, 1522, 1524 y 1525 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "Retracto de comuneros: «si la transmisión es a un comunero, no cabe el derecho de retracto» (requisito de que el adquirente sea un extraño, art. 1522 CC)",
+    "https://blog.sepin.es/2019/02/derecho-retracto-comunero"
+   ],
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; acuse de recibo 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas); tarifas 2026 Península y Baleares, IVA incluido",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ]
+  ],
+  "dudas": [
+   "Presunción de arras confirmatorias y exigencia de pacto expreso de las penitenciales: doctrina del Tribunal Supremo citada sin sentencia concreta.",
+   "Momento en que nace el retracto cuando hay arras penitenciales previas a la escritura: el modelo opta por notificar tras la escritura y añade una cláusula opcional de preferencia previa; conviene que un abogado lo valide.",
+   "Señal del 5 % al 10 %: práctica de mercado, no cifra legal (así se dice en el texto).",
+   "Cataluña: se afirma de forma genérica que regula la compraventa en su Código Civil y que los cotitulares tienen derechos de preferencia con otros plazos (art. 552-4, según el blog del sitio); no verificado en el BOE en esta tanda."
+  ]
+ },
+ {
+  "slug": "modelo-reconocimiento-de-deuda-entre-copropietarios",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de reconocimiento de deuda entre copropietarios por gastos adelantados",
+  "sub": "El modelo de reconocimiento de deuda entre copropietarios fija cuánto te debe otro dueño por los gastos que adelantaste. Además, establece cómo y cuándo te lo devolverá. Se apoya en los artículos 393 y 395 del Código Civil e interrumpe la prescripción. Y si estás harto de adelantar dinero, te compramos tu parte con oferta por escrito en 48 horas.",
+  "checks": [
+   "Importe, desglose y plazos",
+   "Arts. 393, 395 y 1973 del Código Civil",
+   "Te compramos tu parte"
+  ],
+  "card_title": "¿Cansado de adelantar gastos?",
+  "card_text": "Te compramos tu parte y dejas de pagar recibos. Oferta por escrito en 48 horas.",
+  "sections": [
+   {
+    "overline": "Para qué sirve",
+    "h2": "Para qué sirve un reconocimiento de deuda entre copropietarios",
+    "intro": [
+     "Cada copropietario paga los gastos de la cosa común en proporción a su cuota (artículo 393 del Código Civil). Además, cualquiera puede obligar a los demás a contribuir a la conservación (artículo 395). Sin embargo, en la práctica uno adelanta el IBI o la derrama y el otro promete pagar más adelante.",
+     "El modelo de reconocimiento de deuda entre copropietarios convierte esa promesa en un documento firmado. Tiene tres ventajas. Primero, fija el importe para no discutirlo de nuevo. Segundo, interrumpe la prescripción, porque el reconocimiento del deudor pone el plazo a cero (artículo 1973). Y tercero, si no paga, te permite reclamar por el proceso monitorio con un documento que él mismo firmó (artículo 812 de la Ley de Enjuiciamiento Civil).",
+     "No sirve si el otro niega la deuda. En ese caso, primero reclámala por escrito con el modelo de burofax a un copropietario."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de reconocimiento de deuda entre copropietarios para descargar",
+    "type": "tool",
+    "intro": [
+     "Rellena el desglose con los recibos reales y adjunta copia de los justificantes. Después, firmad dos ejemplares y rubricad todas las páginas."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-reconocimiento-de-deuda-entre-copropietarios\"]"
+   },
+   {
+    "overline": "Qué incluir",
+    "h2": "Qué gastos se pueden reconocer y cuáles no",
+    "intro": [
+     "El desglose es la parte más importante del modelo de reconocimiento de deuda entre copropietarios. Incluye solo lo que la ley o un acuerdo permiten repercutir, cada partida por su porcentaje."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Gasto",
+      "¿Se reconoce?"
+     ],
+     [
+      "IBI, comunidad, seguro del continente y basuras",
+      "Sí, en proporción a la cuota de cada uno, aunque el recibo llegue a nombre de uno solo (artículo 393)."
+     ],
+     [
+      "Derramas y reparaciones necesarias",
+      "Sí. Son gastos de conservación y cualquiera puede exigir que contribuyan los demás (artículo 395)."
+     ],
+     [
+      "Mejoras o reformas",
+      "Solo si hubo acuerdo. Las alteraciones exigen el consentimiento de todos (artículo 397) y los actos de administración, la mayoría de cuotas (artículo 398)."
+     ],
+     [
+      "Cuotas de una hipoteca común",
+      "Sí, si firmasteis el préstamo como deudores solidarios. Quien paga puede reclamar al otro su parte con los intereses del anticipo (artículo 1145)."
+     ],
+     [
+      "Luz, agua y gas de quien vive dentro",
+      "No. Son consumo de quien usa la vivienda y no se reparten por cuotas."
+     ]
+    ],
+    "outro": [
+     "La calculadora de gastos entre copropietarios hace el reparto por porcentajes y te da la cifra que debes poner en el documento."
+    ]
+   },
+   {
+    "overline": "Plazos e intereses",
+    "h2": "Cómo pactar el pago de la deuda entre copropietarios",
+    "intro": [
+     "El modelo de reconocimiento de deuda entre copropietarios deja abiertas varias opciones. Elige las que encajen con vuestra relación y borra el resto."
+    ],
+    "type": "list",
+    "items": [
+     "<strong>Calendario realista.</strong> Mejor doce cuotas pequeñas que se pagan que un pago único que no llega. Pon fechas y cuenta bancaria.",
+     "<strong>Interés, solo si lo pactáis.</strong> Entre familiares lo normal es no cobrarlo. Si hay retraso, se debe el interés legal del dinero (artículos 1100 y 1108), y el modelo lo hace correr desde cada vencimiento.",
+     "<strong>Vencimiento anticipado.</strong> Si deja de pagar dos plazos, puedes reclamar de una vez todo lo pendiente.",
+     "<strong>Pago con la venta.</strong> Si se vende el inmueble o su cuota, lo pendiente se paga en la notaría con cargo a su parte del precio. En la práctica es la cláusula más útil.",
+     "<strong>Compensación.</strong> Si tú también le debes algo, por ejemplo por usar la vivienda, podéis compensar las cantidades y reconocer solo el saldo (artículos 1195 y 1196)."
+    ]
+   },
+   {
+    "overline": "Fuerza legal",
+    "h2": "Cómo firmarlo para que tenga fuerza y qué pasa si no paga",
+    "intro": [
+     "El modelo de reconocimiento de deuda entre copropietarios firmado por los dos ya obliga. Para que nadie discuta las firmas, podéis legitimarlas ante notario: el arancel parte de unos 6 € por la primera firma, más IVA. Si queréis más seguridad, firmadlo en escritura pública, porque su copia ejecutiva permite pedir directamente la ejecución (artículo 517 de la Ley de Enjuiciamiento Civil).",
+     "Si deja de pagar y solo tienes el documento privado, envía primero un burofax con lo pendiente. La Ley Orgánica 1/2025 exige un intento previo de negociación antes de demandar, y su letra incluye el monitorio. Después, la petición inicial del monitorio no necesita abogado ni procurador (artículos 23 y 31 de la Ley de Enjuiciamiento Civil). Con escritura pública, en cambio, la demanda ejecutiva no exige ese intento previo.",
+     "Ojo con los plazos. Cada pago impagado prescribe, en general, a los cinco años desde su vencimiento (artículo 1964), y cada burofax interrumpe el plazo. En Cataluña, con Derecho civil propio, los plazos de prescripción son distintos."
+    ]
+   },
+   {
+    "overline": "Corta la rueda",
+    "h2": "Si la deuda vuelve cada año",
+    "intro": [
+     "Un modelo de reconocimiento de deuda entre copropietarios arregla el pasado, pero no evita el próximo IBI ni la siguiente derrama. Si el otro dueño no paga nunca, vender tu parte corta el problema de raíz."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte",
+     "p": "Compramos con fondos propios cuotas de pisos, casas, locales y terrenos en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Desde la firma dejas de pagar recibos de ese inmueble.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Tiene validez un reconocimiento de deuda en documento privado?",
+    "Sí. Obliga a quien lo firma y prueba la deuda y su importe. Además, permite reclamar por el proceso monitorio si no paga (artículo 812 de la Ley de Enjuiciamiento Civil). Si lo elevas a escritura pública, podrás pedir directamente la ejecución."
+   ],
+   [
+    "¿Cuánto tiempo tengo para reclamar los gastos que adelanté?",
+    "En general, cinco años desde cada pago, según el artículo 1964 del Código Civil. El reconocimiento de deuda interrumpe la prescripción y el plazo vuelve a empezar (artículo 1973). Por eso conviene firmarlo antes de que pasen años."
+   ],
+   [
+    "¿Puedo incluir la hipoteca que pagué yo solo?",
+    "Sí, si los dos sois deudores solidarios del préstamo. Quien paga las cuotas del otro puede reclamarle su parte con los intereses del anticipo (artículo 1145 del Código Civil). Ponla en una línea aparte del desglose, separada de los gastos de la vivienda."
+   ],
+   [
+    "¿Puedo cobrar la deuda cuando se venda el piso?",
+    "Sí, si lo pactáis. El modelo incluye una cláusula para que lo pendiente se pague en la notaría con cargo a la parte del precio que corresponda al deudor. Así cobras en el mismo acto, sin tener que perseguirle después."
+   ],
+   [
+    "¿Me compráis la parte si el otro copropietario me debe dinero?",
+    "Sí. La deuda entre vosotros no impide vender tu cuota, y tu derecho a cobrarle sigue siendo tuyo después de la venta. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con la notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el reconocimiento de deuda",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Calculadora de gastos entre copropietarios",
+    "/calculadora-gastos-entre-copropietarios/"
+   ],
+   [
+    "Modelo de burofax a un copropietario",
+    "/modelos-documentos-proindiviso/modelo-burofax-copropietario/"
+   ],
+   [
+    "IBI y gastos en un proindiviso",
+    "/blog/ibi-y-gastos-en-un-proindiviso-quien-paga/"
+   ],
+   [
+    "El copropietario no paga la hipoteca",
+    "/blog/copropietario-no-paga-la-hipoteca-que-hacer/"
+   ]
+  ],
+  "cta_title": "Sal del proindiviso y olvídate de los recibos",
+  "cta_text": "Compramos tu parte con fondos propios. Oferta por escrito en 48 horas, firma en notaría y cobro al contado.",
+  "yoast_title": "Modelo de reconocimiento de deuda entre copropietarios en Word",
+  "meta_desc": "Modelo de reconocimiento de deuda entre copropietarios por IBI, comunidad o derramas, en Word. Si te cansas de adelantar, te compramos la parte en 48 h.",
+  "focus_kw": "modelo de reconocimiento de deuda entre copropietarios",
+  "title_corto": "Reconocimiento de deuda",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of the facade of a traditional Spanish apartment building partly covered by renovation scaffolding with a green safety net, balconies with wrought iron railings and terracotta-coloured walls, empty street, clear morning light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de reconocimiento de deuda entre copropietarios: andamio en la fachada de un edificio",
+  "modelo": {
+   "titulo": "Modelo de reconocimiento de deuda entre copropietarios",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nRECONOCIMIENTO DE DEUDA ENTRE COPROPIETARIOS\n\nEn [LOCALIDAD], a [FECHA].\n\nREUNIDOS\n\nComo ACREEDOR, [NOMBRE Y APELLIDOS DEL ACREEDOR], con DNI [DNI] y domicilio en [DOMICILIO].\nComo DEUDOR, [NOMBRE Y APELLIDOS DEL DEUDOR], con DNI [DNI] y domicilio en [DOMICILIO].\n\nEXPONEN\n\nI. Que son copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE], en la proporción del [PORCENTAJE] % el acreedor y del [PORCENTAJE] % el deudor.\n\nII. Que, conforme a los artículos 393 y 395 del Código Civil, cada copropietario debe contribuir a los gastos del inmueble en proporción a su cuota.\n\nIII. Que el acreedor ha pagado en solitario estos gastos, cuyos justificantes se adjuntan:\nIBI de los años [AÑOS]: [IMPORTE EN EUROS] euros.\nCuotas de la comunidad de propietarios de [PERIODO]: [IMPORTE EN EUROS] euros.\nSeguro del inmueble de [PERIODO]: [IMPORTE EN EUROS] euros.\nDerramas u obras necesarias: [CONCEPTO E IMPORTE EN EUROS].\n[SOLO SI AMBOS SON DEUDORES DEL PRÉSTAMO] Cuotas de la hipoteca con [ENTIDAD] de [PERIODO]: [IMPORTE EN EUROS] euros.\nTotal pagado: [IMPORTE EN EUROS] euros.\n\nACUERDAN\n\nPRIMERO. Reconocimiento. El deudor reconoce deber al acreedor [IMPORTE EN EUROS] euros, que corresponden a su [PORCENTAJE] % de los gastos anteriores, y declara conformes el importe y los justificantes.\n\nSEGUNDO. Pago. [ELIGE UNA OPCIÓN] El deudor pagará la deuda en un solo pago el [FECHA], o en [NÚMERO] plazos mensuales de [IMPORTE EN EUROS] euros, el día [DÍA] de cada mes desde el [FECHA]. Los pagos se harán por transferencia a la cuenta [IBAN DEL ACREEDOR].\n\nTERCERO. Intereses. [ELIGE UNA OPCIÓN] La deuda no devenga intereses, salvo retraso: en ese caso se aplicará el interés legal del dinero desde cada vencimiento, sin necesidad de requerimiento. O bien: la deuda devenga un interés del [PORCENTAJE] % anual.\n\nCUARTO. Vencimiento anticipado. Si el deudor deja de pagar [NÚMERO] plazos, el acreedor podrá exigir de una sola vez todo lo pendiente.\n\nQUINTO. Pago con la venta. Si antes de terminar los pagos se vende el inmueble o la cuota del deudor, lo pendiente se pagará al acreedor en el acto de la firma, con cargo a la parte del precio que corresponda al deudor, que lo autoriza expresamente.\n\nSEXTO. Gastos futuros. Desde hoy, cada copropietario pagará directamente su parte de los gastos [O EL ACREEDOR LOS ADELANTARÁ Y SE LIQUIDARÁN CADA AÑO].\n\nSÉPTIMO. Efectos. Este reconocimiento interrumpe la prescripción de la deuda (artículo 1973 del Código Civil) y no supone renuncia a otras cantidades no incluidas. Cualquiera de las partes podrá pedir que se eleve a escritura pública, con gastos a cargo de [QUIEN CORRESPONDA].\n\nY en prueba de conformidad, firman por duplicado.\n\nEL ACREEDOR: [FIRMA]\nEL DEUDOR: [FIRMA]",
+   "instrucciones": [
+    "Calcula cada partida por porcentajes con la calculadora de gastos entre copropietarios y adjunta los recibos.",
+    "Pon la hipoteca en una línea aparte y solo si los dos sois deudores del préstamo.",
+    "Elige una sola opción de pago y una de intereses, y borra la otra.",
+    "Mantén la cláusula de pago con la venta: es la que más ayuda a cobrar.",
+    "Si el importe es alto, legitimad las firmas ante notario o firmadlo en escritura pública."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 393, 395, 397, 398, 1100, 1108, 1145, 1195, 1196, 1964 y 1973 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LEC: art. 23.2.1.º y 31.2.1.º (petición inicial del monitorio sin procurador ni abogado), art. 517.2.4.º (copia de escritura pública como título ejecutivo) y art. 812.1 (monitorio para deuda dineraria de cualquier importe acreditada con documento firmado por el deudor)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "LO 1/2025: art. 5.1 y 5.2 (actividad negociadora previa como requisito de procedibilidad en los procesos declarativos del libro II y especiales del libro IV de la LEC, con las excepciones tasadas) y art. 5.3 (no hace falta para la demanda ejecutiva)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "Arancel notarial: legitimación de firma 6,010121 € y 3,005061 € por cada firma más",
+    "https://www.boe.es/eli/es/rd/1989/11/17/1426/con/20111117"
+   ]
+  ],
+  "dudas": [
+   "Requisito de negociación previa (LO 1/2025) en el monitorio: el art. 5.2 lo exige en los procesos especiales del libro IV de la LEC, donde está el monitorio, y por eso se dice «su letra incluye el monitorio»; hay práctica judicial discutida.",
+   "Cataluña: se dice solo que sus plazos de prescripción son distintos; no se dan cifras porque no se han verificado en el BOE en esta tanda. Navarra se ha quitado de esa frase porque no se ha podido confirmar su plazo actual.",
+   "Coste de legitimar firmas: el arancel (6,01 € y 3,01 € por firma más) no incluye IVA ni posibles copias o testimonios; se presenta como «parte de»."
+  ]
+ },
+ {
+  "slug": "modelo-reclamacion-rentas-copropietario",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de reclamación de rentas a un copropietario que cobra solo el alquiler",
+  "sub": "El modelo de reclamación de rentas a un copropietario es un burofax para exigir tu parte del alquiler. Sirve cuando otro dueño cobra solo la renta o usa el piso en exclusiva. Pide cuentas y fija un importe y un plazo. Se apoya en el artículo 393 del Código Civil, que reparte los frutos según la cuota. Si prefieres no pelear con él, te compramos tu parte en 48 horas.",
+  "checks": [
+   "Burofax listo para enviar",
+   "Arts. 393 y 399 del Código Civil",
+   "Te compramos la parte"
+  ],
+  "card_title": "¿Se queda él con el alquiler?",
+  "card_text": "Te compramos tu parte del piso alquilado. Oferta por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cuándo usarlo",
+    "h2": "Cuándo enviar una reclamación de rentas a un copropietario",
+    "intro": [
+     "Un piso en proindiviso alquilado produce frutos que pertenecen a todos los dueños según su cuota. Lo dice el artículo 393 del Código Civil. Además, el artículo 399 reconoce a cada condueño la propiedad de sus frutos. Por eso, si uno cobra la renta entera y no reparte, debe rendir cuentas y pagar al resto su parte.",
+     "Tu reclamación va contra tu copropietario, no contra el inquilino. Si el contrato lo firmó solo él, el inquilino cumple pagando a quien figura como arrendador. Te debe tu porcentaje de lo cobrado, menos tu parte de los gastos que haya pagado.",
+     "El modelo de reclamación de rentas a un copropietario sirve también sin alquiler. Por ejemplo, si él vive en el piso y te impide usarlo. Entonces reclamas una compensación por uso exclusivo, normalmente desde la fecha del burofax."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de reclamación de rentas a un copropietario para enviar por burofax",
+    "type": "tool",
+    "intro": [
+     "En el modelo de reclamación de rentas a un copropietario hay dos opciones. Elige la A si alquila y cobra solo, o la B si vive él solo en la vivienda."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-reclamacion-rentas-copropietario\"]"
+   },
+   {
+    "overline": "Qué reclamar",
+    "h2": "Qué puedes pedir en cada situación",
+    "intro": [
+     "El modelo de reclamación de rentas a un copropietario cambia según lo que haga el otro dueño con el inmueble."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Situación",
+      "Qué reclamar"
+     ],
+     [
+      "Alquila y cobra solo",
+      "Tu parte de las rentas, menos tu parte de los gastos. Cuentan el IBI, la comunidad, el seguro y las reparaciones necesarias. Además, debe rendir cuentas con el contrato y los recibos."
+     ],
+     [
+      "Alquila por habitaciones o por días",
+      "Lo mismo, con el detalle de cada ingreso. Si lo hace sin el acuerdo de la mayoría de cuotas, también puedes oponerte a ese uso (artículo 398)."
+     ],
+     [
+      "Vive él solo en el piso",
+      "Una compensación por uso exclusivo. Se calcula con la renta de mercado por tu porcentaje, normalmente desde la reclamación, y tienes una calculadora para hacerlo."
+     ],
+     [
+      "Dejó de pagarte tu parte",
+      "Los meses pendientes, con el mismo cálculo. Y que vuelva a transferirte tu parte cada mes."
+     ]
+    ],
+    "outro": [
+     "Guarda el anuncio del alquiler y cualquier mensaje en el que reconozca lo que cobra. Son la mejor prueba si no te enseña el contrato."
+    ]
+   },
+   {
+    "overline": "Cómo hacerlo",
+    "h2": "Cómo calcular la reclamación de rentas y enviarla",
+    "intro": [
+     "Antes de enviar el modelo de reclamación de rentas a un copropietario, haz las cuentas con números redondos."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Reúne los datos",
+      "p": "Renta mensual, fecha de inicio del alquiler y gastos anuales del inmueble. Si no tienes el contrato, pide que te lo entregue en el propio burofax."
+     },
+     {
+      "t": "Calcula tu parte",
+      "p": "Pongamos un piso alquilado por 900 € al mes y 1.200 € de gastos al año. Tienes la mitad. Al año son 10.800 € de renta menos 1.200 € de gastos, es decir, 9.600 € netos. Tu mitad son 4.800 € por año."
+     },
+     {
+      "t": "Envía el burofax",
+      "p": "Pide certificación de contenido y acuse de recibo. Con dos páginas cuesta unos 33 € online y 37 € en oficina, según las tarifas de Correos de 2026. Envía uno por destinatario."
+     },
+     {
+      "t": "Da un plazo razonable",
+      "p": "Entre 15 y 30 días para rendir cuentas y pagar. Así acreditas también el intento de negociación que exige la Ley Orgánica 1/2025 antes de demandar."
+     }
+    ]
+   },
+   {
+    "overline": "Plazos y después",
+    "h2": "Cuántos años puedes reclamar y qué pasa si no paga",
+    "intro": [
+     "Orientativamente, puedes reclamar los últimos cinco años. Es el plazo de las acciones personales (artículo 1964 del Código Civil). También es el de los pagos por años o en plazos más breves (artículo 1966). Como el burofax interrumpe la prescripción (artículo 1973), conviene enviarlo cuanto antes.",
+     "Si no contesta o no paga, queda la vía judicial. Hasta 15.000 € se tramita por juicio verbal (artículo 250 de la Ley de Enjuiciamiento Civil). Por encima, por juicio ordinario. Si el conflicto no tiene arreglo, puedes pedir la división de la cosa común (artículo 400) o vender tu parte.",
+     "Ojo con Hacienda. En principio, el IRPF atribuye las rentas a cada titular según su porcentaje (artículo 11.3 de su ley). Y eso vale aunque las cobre otro. Además, Cataluña, Aragón, Navarra, País Vasco, Galicia y Baleares tienen Derecho civil propio, con reglas o plazos que pueden cambiar. Consulta tu caso con un asesor."
+    ]
+   },
+   {
+    "overline": "Sin pleitos",
+    "h2": "Si prefieres no pleitear por el alquiler",
+    "intro": [
+     "Reclamar rentas a un familiar suele romper la relación y el cobro puede tardar años. Si el modelo de reclamación de rentas a un copropietario no funciona, vender tu parte te da liquidez ya."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos la parte alquilada",
+     "p": "Compramos con fondos propios cuotas de viviendas alquiladas o con otro copropietario dentro. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión a nuestro cargo, en toda España.",
+     "cta": "Pedir oferta por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Puede un copropietario alquilar el piso sin permiso de los demás?",
+    "Un alquiler ordinario es un acto de administración y se decide por la mayoría de cuotas (artículo 398 del Código Civil). Si quien alquila no tiene esa mayoría, los demás pueden oponerse, y los arrendamientos muy largos pueden exigir unanimidad. En cualquier caso, la renta se reparte entre todos según su porcentaje."
+   ],
+   [
+    "¿Cuántos años de alquiler puedo reclamar a mi hermano?",
+    "Orientativamente, los últimos cinco años, por los artículos 1964 y 1966 del Código Civil. Cada mensualidad tiene su propio plazo, y un burofax lo interrumpe. Por eso no conviene esperar a que el conflicto crezca."
+   ],
+   [
+    "¿Qué gastos puede descontar el que cobra el alquiler?",
+    "Tu porcentaje de los gastos del inmueble que haya pagado: IBI, comunidad, seguro y reparaciones necesarias. No puede descontar mejoras que no se acordaron ni sus gastos personales. Pídele los justificantes antes de aceptar ninguna cifra."
+   ],
+   [
+    "¿Puedo pedir al inquilino que me pague a mí mi parte?",
+    "No directamente, si el contrato lo firmó solo tu copropietario: el inquilino cumple pagando a quien figura como arrendador. Lo que sí podéis hacer es acordar entre todos que la renta se ingrese en una cuenta común o que se reparta en origen."
+   ],
+   [
+    "¿Tengo que declarar en la renta un alquiler que no cobro?",
+    "En principio, el IRPF atribuye las rentas a cada titular según su porcentaje, aunque las cobre otro. Si reclamas y no cobras, la situación es delicada, así que consulta a un asesor antes de presentar la declaración. Guarda el burofax como prueba de que reclamaste."
+   ],
+   [
+    "¿Compráis la parte de un piso alquilado?",
+    "Sí. Compramos cuotas de viviendas con inquilino o con otro copropietario dentro, en toda España. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con pago al contado."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la reclamación de rentas",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Calculadora de compensación por uso exclusivo",
+    "/calculadora-compensacion-uso-exclusivo/"
+   ],
+   [
+    "Modelo de reconocimiento de deuda entre copropietarios",
+    "/modelos-documentos-proindiviso/modelo-reconocimiento-de-deuda-entre-copropietarios/"
+   ],
+   [
+    "Alquilar un piso en proindiviso",
+    "/blog/alquilar-un-piso-en-proindiviso/"
+   ],
+   [
+    "Vender un proindiviso con inquilino u okupa",
+    "/vender-proindiviso-con-inquilino-u-okupa/"
+   ]
+  ],
+  "cta_title": "Convierte tu parte del alquiler en dinero hoy",
+  "cta_text": "Compramos tu cuota con fondos propios, con inquilino o sin él. Oferta por escrito en 48 horas y cobro al contado en notaría.",
+  "yoast_title": "Modelo de reclamación de rentas a un copropietario: burofax",
+  "meta_desc": "Modelo de reclamación de rentas a un copropietario que cobra solo el alquiler, en burofax y Word. O véndenos tu parte del piso con oferta en 48 horas.",
+  "focus_kw": "modelo de reclamación de rentas a un copropietario",
+  "title_corto": "Reclamación de rentas",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of a bright furnished rental flat in a Spanish city, a grey sofa with cushions, a small round dining table with two chairs and potted plants by an open balcony door with white curtains, late afternoon sun on the parquet floor, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de reclamación de rentas a un copropietario: salón de un piso de alquiler",
+  "modelo": {
+   "titulo": "Modelo de reclamación de rentas a un copropietario",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nREMITENTE: [NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO].\nDESTINATARIO: [NOMBRE Y APELLIDOS DEL COPROPIETARIO], con domicilio en [DOMICILIO DEL COPROPIETARIO].\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: reclamación de mi parte de las rentas del inmueble de [DIRECCIÓN DEL INMUEBLE]\n\nSomos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Soy titular del [PORCENTAJE] % y usted, del [PORCENTAJE] %.\n\nConforme a los artículos 393 y 399 del Código Civil, los beneficios de la cosa común corresponden a cada copropietario en proporción a su cuota, y cada uno es dueño de los frutos que le correspondan.\n\n[USA SOLO UNA DE LAS DOS OPCIONES Y BORRA LA OTRA]\n\nOPCIÓN A. ALQUILER COBRADO EN SOLITARIO. Me consta que desde el [FECHA] el inmueble está arrendado por una renta de [IMPORTE EN EUROS] euros al mes, que usted cobra en exclusiva. Por ello le requiero para que, en el plazo de [PLAZO] días naturales desde la recepción de este escrito:\n1. Me entregue copia del contrato de arrendamiento y la relación de rentas cobradas y gastos pagados desde el [FECHA].\n2. Me abone [IMPORTE EN EUROS] euros, que corresponden a mi [PORCENTAJE] % de las rentas cobradas entre el [FECHA] y el [FECHA], descontada mi parte de los gastos del inmueble, según el cálculo que adjunto.\n3. En adelante, me transfiera cada mes mi parte de la renta neta a la cuenta [IBAN].\n\nOPCIÓN B. USO EXCLUSIVO DE LA VIVIENDA. Usted ocupa en exclusiva la vivienda desde el [FECHA] y no me permite usarla conforme al artículo 394 del Código Civil. Le propongo, a su elección, [USO POR TURNOS, ALQUILARLA Y REPARTIR LA RENTA O VENDERLA]. En caso contrario, le reclamo desde la recepción de este escrito una compensación de [IMPORTE EN EUROS] euros al mes, equivalente a mi [PORCENTAJE] % de la renta de mercado, que estimo en [IMPORTE EN EUROS] euros mensuales.\n\nEsta comunicación interrumpe la prescripción de las cantidades reclamadas (artículo 1973 del Código Civil) y es mi propuesta para resolver el asunto de forma negociada. Quedo a su disposición para hablarlo en [TELÉFONO O CORREO ELECTRÓNICO].\n\nSi no recibo respuesta en el plazo indicado, me reservo las acciones que me correspondan, incluida la reclamación judicial de estas cantidades y, en su caso, la división de la cosa común (artículo 400 del Código Civil).\n\nAtentamente,\n[FIRMA]\n[NOMBRE Y APELLIDOS]",
+   "instrucciones": [
+    "Usa la opción A si cobra un alquiler y la B si vive él solo en la vivienda.",
+    "Adjunta una hoja con el cálculo: renta, meses, gastos descontados y tu porcentaje.",
+    "Reclama como máximo los últimos cinco años, salvo que hayas reclamado antes por escrito.",
+    "Envíalo por burofax con certificación de contenido y acuse de recibo, uno por destinatario.",
+    "Si llegáis a un acuerdo, fírmalo con el modelo de reconocimiento de deuda entre copropietarios."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 393, 394, 398, 399, 400, 1964, 1966 y 1973 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "LEC: art. 249.2 y 250.2 (juicio verbal hasta 15.000 €; ordinario por encima)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323"
+   ],
+   [
+    "Ley del IRPF, art. 11.3 (los rendimientos del capital se atribuyen a los titulares de los bienes según su titularidad jurídica)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ],
+   [
+    "LO 1/2025: art. 5.1 y 5.2 (actividad negociadora previa como requisito de procedibilidad en los procesos declarativos del libro II y especiales del libro IV de la LEC, con las excepciones tasadas) y art. 5.3 (no hace falta para la demanda ejecutiva)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+   ],
+   [
+    "Burofax Premium 12,72 € (oficina) y Premium Online 8,71 € con la primera página; 1,27 € por página adicional; acuse de recibo 5,75 €; copia certificada al imponer 17,55 € (hasta 3 páginas); tarifas 2026 Península y Baleares, IVA incluido",
+    "https://www.correos.es/content/dam/correos/documentos/atc/tarifas/2026/Tarifas_Correos_2026_Peninsula_y_Baleares.pdf"
+   ]
+  ],
+  "dudas": [
+   "IRPF de rentas que no se cobran: se dice «en principio» (art. 11.3 LIRPF) y se remite a un asesor; la tributación de quien reclama y no cobra no está cerrada.",
+   "Prescripción: tanto el art. 1964.2 (acciones personales) como el 1966.3 (pagos por años o plazos más breves) dan cinco años; se presenta como orientativo. Los plazos del Derecho foral no se han verificado.",
+   "Compensación por uso exclusivo «normalmente desde la reclamación»: criterio judicial mayoritario recogido también en la calculadora del sitio, sin sentencia concreta."
+  ]
+ },
+ {
+  "slug": "modelo-oferta-compra-parte-copropietario",
+  "kind": "page",
+  "category": null,
+  "kicker": "Modelo descargable",
+  "h1": "Modelo de oferta de compra de la parte de un copropietario con precio y plazos",
+  "sub": "El modelo de oferta de compra de la parte de un copropietario sirve para pedirle por escrito su cuota. Incluye el precio y cómo lo has calculado, la forma de pago, los impuestos y el plazo de validez. Si la acepta, el siguiente paso es la notaría. Y si al final quien quiere salir eres tú, te compramos la parte en 48 horas.",
+  "checks": [
+   "Precio razonado y forma de pago",
+   "Impuestos de cada parte",
+   "Plan B: te compramos la tuya"
+  ],
+  "card_title": "¿No acepta tu oferta?",
+  "card_text": "Si prefieres salir tú, te damos precio por tu parte en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cuándo usarlo",
+    "h2": "Cuándo hacer una oferta de compra a otro copropietario",
+    "intro": [
+     "Quieres quedarte con el inmueble y el otro dueño no sabe qué hacer con su parte. Nadie puede obligarle a vender, pero una propuesta concreta por escrito suele desbloquear meses de conversación. El modelo de oferta de compra de la parte de un copropietario fija precio, pago, gastos y plazo.",
+     "Es el documento del lado comprador. Si quieres vender tu cuota a los demás, usa el modelo de propuesta de venta de mi parte. Y si ya tenéis el acuerdo cerrado, pasad directamente a un contrato de compraventa o de arras.",
+     "No es un burofax ni un requerimiento. Conviene un tono cordial, sin amenazas ni avisos de demanda. Si no contesta, ya habrá tiempo de pasar a un escrito más formal."
+    ]
+   },
+   {
+    "overline": "Modelo",
+    "h2": "Modelo de oferta de compra de la parte de un copropietario en Word",
+    "type": "tool",
+    "intro": [
+     "Rellena los huecos del modelo de oferta de compra de la parte de un copropietario. Adjunta la valoración en la que basas el precio y guarda copia de lo que envíes."
+    ],
+    "shortcode": "[zp_modelo id=\"modelo-oferta-compra-parte-copropietario\"]"
+   },
+   {
+    "overline": "El precio",
+    "h2": "Cómo calcular un precio que el otro pueda aceptar",
+    "intro": [
+     "Calcula el precio antes de rellenar el modelo de oferta de compra de la parte de un copropietario. El ejemplo usa números redondos."
+    ],
+    "type": "steps",
+    "items": [
+     {
+      "t": "Valor del inmueble entero",
+      "p": "Parte de una tasación o de dos valoraciones de agencias de la zona. La calculadora de cuánto vale mi parte te da una primera referencia."
+     },
+     {
+      "t": "Aplica su porcentaje",
+      "p": "Con un piso de 200.000 € y el 50 %, su parte vale 100.000 € sobre el papel."
+     },
+     {
+      "t": "Resta las cargas que asumes",
+      "p": "Pongamos que queda una hipoteca de 40.000 € a nombre de los dos. Si tú asumes toda la deuda, resta su mitad, 20.000 €. Quedan 80.000 €."
+     },
+     {
+      "t": "Ajusta y explica",
+      "p": "Puedes proponer un pequeño descuento por pagar rápido y asumir los gastos. También puedes descontar lo que te deba por IBI y comunidad. Pon el cálculo en la carta, porque un precio razonado se discute menos."
+     }
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Quién paga los impuestos si acepta tu oferta de compra",
+    "intro": [
+     "Calcula los impuestos antes de enviar el modelo de oferta de compra de la parte de un copropietario. Cambian mucho el coste total, y las cifras son orientativas según la comunidad autónoma."
+    ],
+    "type": "table",
+    "items": [
+     [
+      "Quién",
+      "Qué paga"
+     ],
+     [
+      "Tú, si te quedas el 100 %",
+      "AJD de la extinción de condominio. En general, entre el 0,5 % y el 1,5 % del valor de la parte que adquieres. También la notaría y el Registro, si así lo ofreces."
+     ],
+     [
+      "Tú, si quedan más copropietarios",
+      "ITP de la compraventa de cuota. En general, entre el 6 % y el 10 % del valor de la parte, y la base mínima es el valor de referencia del Catastro."
+     ],
+     [
+      "El que vende",
+      "No paga ITP. Puede tener ganancia en el IRPF si cobra más de lo que le costó su parte. La plusvalía municipal depende de cómo se documente. En la extinción de condominio, el criterio general es que no se devenga."
+     ],
+     [
+      "Los dos",
+      "Lo que pactéis sobre notaría y Registro. Sin pacto, la escritura la paga el vendedor y la primera copia, el comprador (artículo 1455 del Código Civil)."
+     ]
+    ],
+    "outro": [
+     "El que vende puede calcular lo suyo con la calculadora de impuestos al vender tu parte. Saber lo que le queda limpio le ayuda a decidir."
+    ]
+   },
+   {
+    "overline": "Después",
+    "h2": "Qué pasa si acepta, si contraoferta o si no contesta",
+    "intro": [
+     "Si acepta por escrito dentro del plazo, el acuerdo sobre precio y condiciones queda cerrado. El contrato nace del encuentro de oferta y aceptación (artículo 1262 del Código Civil). Lo siguiente es fijar fecha en la notaría. Si necesitas hipoteca, pide antes la aprobación al banco o firmad un contrato de arras para ganar tiempo.",
+     "Una contraoferta es buena señal, porque ya estáis negociando cifras. Si no contesta, puedes insistir con un burofax. Y si quieres terminar con la copropiedad, puedes requerir la división de la cosa común (artículo 400).",
+     "Ojo si el otro vende a un tercero. Como copropietario, tienes nueve días para retraer desde la inscripción o desde que conoces la venta (artículos 1522 y 1524). Además, si el inmueble está en Cataluña, Aragón, Navarra, País Vasco, Galicia o Baleares, revisa su Derecho civil propio."
+    ]
+   },
+   {
+    "overline": "Plan B",
+    "h2": "Si no hay acuerdo y prefieres salir tú",
+    "intro": [
+     "A veces la oferta sirve para descubrir que el otro tampoco quiere vender. Si el modelo de oferta de compra de la parte de un copropietario no avanza, puedes vender la tuya. Nosotros la compramos."
+    ],
+    "type": "callout",
+    "items": {
+     "t": "Te compramos tu parte",
+     "p": "Con fondos propios y sin depender de que el otro firme. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Pagamos entre el 40 % y el 70 % del valor proporcional, con la notaría a nuestro cargo.",
+     "cta": "Pedir precio por mi parte"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿Es vinculante una oferta de compra por carta?",
+    "Si el otro la acepta por escrito dentro del plazo, el acuerdo sobre precio y condiciones queda cerrado, porque el contrato nace de la oferta y la aceptación (artículo 1262 del Código Civil). Aun así, la escritura y el pago llegan después. Por eso la carta debe ser clara en el precio, el pago y la fecha límite."
+   ],
+   [
+    "¿Cuánto ofrecer por la parte de mi hermano?",
+    "Parte del valor de mercado del inmueble entero, aplica su porcentaje y resta las cargas que asumas. Un descuento pequeño por pagar rápido es normal entre familiares. Si te pasas de descuento, puede preferir vender a un tercero o pedir la división."
+   ],
+   [
+    "¿Qué impuestos pago si compro la parte del otro copropietario?",
+    "Si con la compra te quedas el 100 %, se trata como extinción de condominio y pagas AJD, en general entre el 0,5 % y el 1,5 % del valor de la parte. Si quedan más copropietarios, suele ser ITP, entre el 6 % y el 10 %. Son cifras orientativas, según la comunidad autónoma."
+   ],
+   [
+    "¿Puedo obligar al otro copropietario a venderme su parte?",
+    "No. Cada copropietario decide si vende su cuota (artículo 399 del Código Civil). Lo que sí puede pedir cualquiera es la división de la cosa común, que en un piso suele acabar en venta o subasta (artículos 400 y 404)."
+   ],
+   [
+    "¿Qué hago si rechaza mi oferta?",
+    "Pregúntale qué precio aceptaría y por qué, porque a veces la diferencia está en los gastos o en la hipoteca. Si no hay forma de acercarse, quedan el burofax, la mediación y, como último paso, la división judicial."
+   ],
+   [
+    "¿Me compráis mi parte si mi copropietario no quiere vender la suya?",
+    "Sí. Compramos tu cuota sin necesidad de que el otro venda ni firme nada. Te damos oferta por escrito en 48 horas y firmamos en notaría en 2-4 semanas, con pago al contado y la notaría a nuestro cargo."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la oferta de compra a un copropietario",
+  "related": [
+   [
+    "Todos los modelos de documentos",
+    "/modelos-documentos-proindiviso/"
+   ],
+   [
+    "Modelo de propuesta de venta de tu parte",
+    "/modelos-documentos-proindiviso/modelo-propuesta-venta-de-mi-parte/"
+   ],
+   [
+    "Modelo de contrato de compraventa entre hermanos",
+    "/modelos-documentos-proindiviso/modelo-contrato-compraventa-entre-hermanos/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ]
+  ],
+  "cta_title": "Si no hay acuerdo, véndenos tu parte",
+  "cta_text": "Compramos tu cuota con fondos propios. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y cobro al contado.",
+  "yoast_title": "Modelo de oferta de compra de la parte de un copropietario",
+  "meta_desc": "Modelo de oferta de compra de la parte de un copropietario en Word: precio razonado, pago, impuestos y plazo. Si prefieres vender tú, te compramos en 48 h.",
+  "focus_kw": "modelo de oferta de compra de la parte de un copropietario",
+  "title_corto": "Oferta de compra a un copropietario",
+  "imagen_prompt": "Editorial real estate photograph, 16:9, of the front of a two-storey semi-detached house in a quiet Spanish residential street, a low white wall with a small iron garden gate left slightly open, a lemon tree and terracotta pots by the front path, soft morning light, muted palette with dark blue and terracotta accents, 35 mm lens. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Modelo de oferta de compra de la parte de un copropietario: cancela abierta",
+  "modelo": {
+   "titulo": "Modelo de oferta de compra a un copropietario",
+   "texto": "Modelo orientativo. Revísalo con un abogado antes de enviarlo si hay importes altos o conflicto.\n\nREMITENTE: [NOMBRE Y APELLIDOS], con DNI [DNI] y domicilio en [DOMICILIO].\nDESTINATARIO: [NOMBRE Y APELLIDOS DEL COPROPIETARIO], con domicilio en [DOMICILIO DEL COPROPIETARIO].\n\nEn [LOCALIDAD], a [FECHA].\n\nAsunto: oferta de compra de tu cuota del inmueble de [DIRECCIÓN DEL INMUEBLE]\n\n[SALUDO Y NOMBRE]:\n\nComo sabes, somos copropietarios del inmueble situado en [DIRECCIÓN DEL INMUEBLE], con referencia catastral [REFERENCIA CATASTRAL], finca registral n.º [FINCA REGISTRAL N.º] del Registro de la Propiedad de [REGISTRO DE LA PROPIEDAD DE]. Tú eres titular del [PORCENTAJE] % y yo, del [PORCENTAJE] %.\n\nTe escribo para ofrecerte la compra de tu cuota en estas condiciones:\n\n1. Precio: [IMPORTE EN EUROS] euros.\n\n2. Cómo lo he calculado: valor de mercado del inmueble de [IMPORTE EN EUROS] euros, según [TASACIÓN O VALORACIONES DE AGENCIAS], por tu [PORCENTAJE] %, menos [CARGAS QUE ASUMO, POR EJEMPLO TU PARTE DE LA HIPOTECA] y [OTROS AJUSTES O NINGUNO]. Te adjunto la valoración.\n\n3. Forma de pago: [ELIGE UNA OPCIÓN] pago íntegro al contado en la notaría, por transferencia o cheque bancario; o pago con hipoteca, en cuyo caso esta oferta queda condicionada a que el banco la apruebe antes del [FECHA].\n\n4. Hipoteca: [SOLO SI LA HAY] asumiré la deuda pendiente con [ENTIDAD] y tramitaré con el banco tu liberación como deudor, que se firmará antes de la escritura o en el mismo acto.\n\n5. Gastos e impuestos: pagaré la notaría, el Registro y el impuesto de la compra. Si con ella paso a ser titular del 100 %, se documentará como extinción de condominio, que tributa por actos jurídicos documentados. Tú no pagarías transmisiones patrimoniales; en su caso, te corresponderían el IRPF por la ganancia y, según cómo se documente, la plusvalía municipal.\n\n6. Uso y entrega: [LA VIVIENDA ESTÁ LIBRE O LA USA QUIEN CORRESPONDA], y la entrega se hará al firmar la escritura.\n\n7. Validez: esta oferta se mantiene hasta el [FECHA]. Si en esa fecha no tengo tu aceptación por escrito, quedará sin efecto.\n\n8. Siguiente paso: si la aceptas, firmaremos la escritura ante el notario de [LOCALIDAD] en un plazo máximo de [PLAZO] días desde tu aceptación. Si necesitamos más tiempo, firmaremos antes un contrato de arras.\n\nSi prefieres otra fórmula, como un pago en dos plazos o un precio distinto, dímelo y lo hablamos. Puedes contestarme en [TELÉFONO O CORREO ELECTRÓNICO].\n\n[DESPEDIDA],\n[FIRMA]\n[NOMBRE Y APELLIDOS]",
+   "instrucciones": [
+    "Adjunta la tasación o las valoraciones en las que basas el precio: es lo que más convence.",
+    "Si necesitas hipoteca, deja la condición de aprobación del banco con una fecha límite.",
+    "Pon una validez corta, de 15 a 30 días, para que la oferta no quede en el aire.",
+    "Envíala por correo electrónico o en mano y guarda su respuesta por escrito.",
+    "Si la acepta, pasad al modelo de contrato de compraventa entre hermanos o directamente a la notaría."
+   ]
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 399, 400, 404, 1262, 1455, 1522 y 1524 del Código Civil (texto consolidado vigente, comprobado el 04/11/2026 en la API de datos abiertos del BOE, bloques art{n}; la última actualización publicada del texto consolidado es del 03/01/2025)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+   ],
+   [
+    "TRLITPAJD: art. 2.1 (el impuesto se exige según la verdadera naturaleza jurídica del acto, cualquiera que sea su denominación) y art. 10 (base imponible; en inmuebles, valor de referencia)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359"
+   ],
+   [
+    "Ley del IRPF, art. 33.2 (división de la cosa común y disolución de comunidades sin alteración patrimonial; la compensación en dinero puede generar ganancia según el caso)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Plusvalía municipal en la extinción de condominio: «el criterio general es que no se devenga», coherente con el resto del sitio; no verificado con una resolución concreta.",
+   "IRPF del que vende en la extinción con compensación en dinero: se dice «puede tener ganancia»; el art. 33.2 LIRPF excluye la alteración patrimonial en la división, pero la DGT suele apreciarla por el exceso compensado. No se ha cerrado en esta tanda.",
+   "Revocabilidad de la oferta antes de la aceptación: no se trata en la página; la carta fija solo un plazo de validez."
+  ]
+ }
+]
