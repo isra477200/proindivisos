@@ -1,0 +1,1577 @@
+[
+ {
+  "slug": "impuesto-de-sucesiones-andalucia",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Andalucía",
+  "h1": "Impuesto de sucesiones en Andalucía: cuánto paga cada heredero en 2026",
+  "sub": "En el impuesto de sucesiones en Andalucía, hijos, cónyuge y padres apenas pagan: reducen 1.000.000 € y bonifican el 99 % de la cuota. En cambio, hermanos y sobrinos solo reducen 10.000 € y pueden pagar miles de euros. Si heredas una parte de un piso y no quieres cargar con ese gasto, compramos tu cuota con fondos propios.",
+  "checks": [
+   "Cifras de 2026 verificadas",
+   "Ejemplo con hijos y sobrinos",
+   "Compramos tu parte heredada"
+  ],
+  "card_title": "¿Heredas una parte en Andalucía?",
+  "card_text": "Dinos dónde está el inmueble y qué porcentaje te corresponde. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Andalucía",
+    "type": "text",
+    "intro": [
+     "Cada heredero tributa por lo que recibe, no por la herencia entera. La base es el valor de tu parte de los bienes, menos las deudas y los gastos deducibles, como el entierro. En los inmuebles manda el valor de referencia del Catastro, salvo que declares uno mayor. Además, Hacienda suma un ajuar doméstico del 3 % del caudal, que puedes rebatir con pruebas.",
+     "Después llegan las reducciones por parentesco, que en el impuesto de sucesiones en Andalucía son muy altas para la familia directa. Hijos, nietos, cónyuge y padres, es decir, los grupos I y II, reducen 1.000.000 € cada uno. Hermanos, sobrinos, tíos y familia política forman el grupo III y solo reducen 10.000 €. Por último, primos y personas sin parentesco, el grupo IV, no reducen nada.",
+     "Sobre lo que queda se aplica la tarifa andaluza, que va del 7 % al 26 %. Luego la cuota se multiplica por un coeficiente fijo: 1 para los grupos I y II, 1,5 para el grupo III y 1,9 para el grupo IV. Aquí el patrimonio previo del heredero no cambia ese coeficiente. Al final, los grupos I y II bonifican el 99 % de la cuota.",
+     "En resumen, un hijo o el cónyuge no pagan nada hasta 1.000.000 € de base y, por encima, solo el 1 % de la cuota. Un hermano o un sobrino, en cambio, pagan por todo lo que pase de 10.000 €. Todo esto vale si el fallecido vivió en Andalucía la mayor parte de sus últimos cinco años, aunque el piso esté en otra comunidad."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla del impuesto de sucesiones en Andalucía en 2026",
+    "type": "table",
+    "intro": [
+     "Estas son las cifras del impuesto de sucesiones en Andalucía vigentes en 2026, según la Ley 5/2021 de tributos cedidos. Son orientativas, porque cada caso tiene matices."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Andalucía en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21 años",
+      "Reducción de 1.000.000 € y bonificación del 99 % de la cuota."
+     ],
+     [
+      "Grupo II: descendientes de 21 o más, cónyuge y ascendientes",
+      "Reducción de 1.000.000 € y bonificación del 99 %. En la práctica, casi nunca hay cuota."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y familia política",
+      "Reducción de 10.000 €, tarifa del 7 % al 26 % y coeficiente 1,5. Sin bonificación."
+     ],
+     [
+      "Grupo IV: primos, parientes lejanos y extraños",
+      "Sin reducción por parentesco y coeficiente 1,9. Es el grupo que más paga."
+     ],
+     [
+      "Vivienda habitual del fallecido",
+      "Reducción del 99 % de su valor, sin límite de importe, si la conservas 3 años."
+     ],
+     [
+      "Plazo",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo",
+      "Agencia Tributaria de Andalucía. Modelo 650 por heredero y modelo 660 con la relación de bienes."
+     ]
+    ]
+   },
+   {
+    "overline": "Quién paga",
+    "h2": "Hijos y cónyuge frente a hermanos y sobrinos",
+    "type": "cards",
+    "intro": [
+     "La diferencia entre grupos es enorme. Por eso, antes de liquidar el impuesto de sucesiones en Andalucía, conviene saber en qué grupo estás."
+    ],
+    "items": [
+     {
+      "t": "Hijos, cónyuge y padres",
+      "p": "Con 1.000.000 € de reducción cada uno, la mayoría hereda sin pagar nada. Si la base supera esa cifra, la bonificación del 99 % deja la cuota en el 1 %. Las parejas de hecho inscritas cuentan como cónyuge."
+     },
+     {
+      "t": "Hermanos, sobrinos y tíos",
+      "p": "Aquí está el golpe. Solo reducen 10.000 € y el coeficiente 1,5 sube la cuota un 50 %. Con 100.000 € heredados, la cuota ronda los 16.500 €."
+     },
+     {
+      "t": "Primos y personas sin parentesco",
+      "p": "No reducen nada y su coeficiente es 1,9. Con 100.000 € heredados pagarían unos 24.000 €, casi la cuarta parte de lo recibido."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Reducción del 99 % de su valor, sin límite por heredero. La aplican cónyuge, descendientes, ascendientes y el colateral mayor de 65 años que conviviera con el fallecido dos años. Debes mantenerla 3 años.",
+      "url": "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/",
+      "cta": "Reducciones y bonificaciones →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo del impuesto de sucesiones en Andalucía con un piso de 200.000 €",
+    "type": "steps",
+    "intro": [
+     "Un piso en Málaga con un valor de referencia de 200.000 € pasa a dos herederos al 50 %, sin otros bienes. Suponemos que no era la vivienda habitual del fallecido y, para simplificar, dejamos fuera el <a href=\"/diccionario-del-proindiviso/ajuar-domestico/\">ajuar doméstico</a>. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base de cada heredero: 100.000 €",
+      "p": "Cada uno recibe la mitad del piso. Por tanto, su base imponible es de 100.000 €, no de 200.000 €."
+     },
+     {
+      "t": "Si son dos hijos: 0 €",
+      "p": "La reducción de 1.000.000 € deja la base liquidable en cero. Cada hijo presenta su modelo 650, pero no paga nada."
+     },
+     {
+      "t": "Si son dos sobrinos: base de 90.000 €",
+      "p": "Restan 10.000 € y quedan 90.000 €. Con la tarifa andaluza, la cuota íntegra es de 11.020 €: 7.820 € por los primeros 70.000 € y un 16 % del resto."
+     },
+     {
+      "t": "Cuota de cada sobrino: 16.530 €",
+      "p": "Multiplicamos 11.020 € por el coeficiente 1,5. Cada sobrino paga unos 16.530 €, es decir, 33.060 € entre los dos."
+     }
+    ],
+    "outro": [
+     "Así, en el impuesto de sucesiones en Andalucía el mismo piso cuesta cero euros a unos herederos y más de 33.000 € a otros. Por eso muchos sobrinos buscan liquidez antes de que acabe el plazo."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, modelo 650 y dónde se presenta",
+    "type": "list",
+    "intro": [
+     "Aunque salga a cero, el impuesto de sucesiones en Andalucía se presenta siempre, heredero por heredero. Estos son los pasos."
+    ],
+    "items": [
+     "<strong>Plazo.</strong> Tienes seis meses desde el fallecimiento. Puedes pedir una prórroga de otros seis con el modelo 659, siempre dentro de los cinco primeros meses. Si hay cuota, la prórroga genera intereses de demora.",
+     "<strong>Dónde.</strong> En la Agencia Tributaria de Andalucía, por internet o en sus oficinas. También la gestoría o la notaría pueden presentarlo por ti.",
+     "<strong>Qué modelo.</strong> Un <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> por cada heredero y un modelo 660 con la relación de bienes de la herencia.",
+     "<strong>Si te pasas.</strong> Pagas un <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo</a> del 1 % más otro 1 % por cada mes completo de retraso. Pasados 12 meses, el recargo sube al 15 % y se añaden intereses.",
+     "<strong>Si no tienes liquidez.</strong> Pide el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento o fraccionamiento</a> antes de que venza el plazo. Normalmente conlleva intereses y, según la cuantía, garantía."
+    ],
+    "outro": [
+     "Si quieres repasar los conceptos con calma, tienes la entrada del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> en nuestro diccionario."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si heredas una parte de un piso en Andalucía",
+    "type": "text",
+    "intro": [
+     "Cuando varios hermanos heredan un piso, cada uno paga el impuesto de sucesiones en Andalucía por el valor de su cuota. Pagado el impuesto, el piso no se reparte solo: quedáis en copropiedad, cada uno con su porcentaje. A partir de ahí hay dos salidas habituales.",
+     "La primera es la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-andalucia/\">extinción de condominio en Andalucía</a>: uno se queda el piso y compensa a los demás, con un AJD del 1,2 % sobre la parte que adquiere. La segunda es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> sin esperar a nadie. Si la herencia aún no está repartida, también puedes <a href=\"/vender-derechos-hereditarios/\">vender tus derechos hereditarios</a>.",
+     "Además, al heredar pagas la plusvalía municipal del ayuntamiento, con seis meses de plazo prorrogables hasta un año. Cuando vendas, el valor declarado en sucesiones será tu valor de adquisición en el IRPF, así que tributarás por la ganancia que haya. Puedes estimarlo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo conserva el usufructo, los hijos heredan la nuda propiedad y tributan solo por su valor. Puedes calcularlo con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Ojo: si aplicaste la reducción por vivienda habitual, vender antes de tres años puede obligarte a devolverla."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Andalucía",
+    "type": "callout",
+    "intro": [
+     "Le pasa sobre todo a hermanos y sobrinos: el impuesto de sucesiones en Andalucía les llega sin dinero para pagarlo. Tienes varias opciones. Primero, pedir aplazamiento o fraccionamiento antes de que acabe el plazo. Segundo, aceptar a beneficio de inventario si temes deudas ocultas. Tercero, vender tu parte y pagar con ese dinero.",
+     "En nuestra guía sobre <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> tienes cada vía en detalle. Incluso puedes <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en las ocho provincias, también en tu <a href=\"/vender-proindiviso/andalucia/\">provincia de Andalucía</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.juntadeandalucia.es/organismos/atrian.html\">Agencia Tributaria de Andalucía</a>. Presentación de los modelos 650 y 660, prórroga y consultas.",
+     "<a href=\"https://www.boe.es/eli/es-an/l/2021/10/20/5/con\">Ley 5/2021 de Tributos Cedidos de Andalucía (BOE, texto consolidado)</a>. Reducciones, tarifa, coeficientes y bonificación.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de lo vigente en cada comunidad.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones (BOE)</a>. Base imponible, valor de referencia y ajuar doméstico."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Andalucía?",
+    "En la mayoría de casos, nada. Cada hijo tiene una reducción de 1.000.000 € y, si la supera, una bonificación del 99 % de la cuota. Aun así, debe presentar su modelo 650 dentro del plazo."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí, porque los dos están en el grupo III. Tienen una reducción de 10.000 €, la tarifa del 7 % al 26 % y un coeficiente de 1,5. Con 100.000 € heredados, cada uno paga unos 16.530 €."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto?",
+    "Seis meses desde el fallecimiento. Si necesitas más, pide la prórroga en los cinco primeros meses y tendrás otros seis, con intereses de demora si hay cuota. Fuera de plazo se suman recargos."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto de sucesiones?",
+    "Puedes pedir aplazamiento o fraccionamiento a la Agencia Tributaria de Andalucía antes de que venza el plazo. Otra salida es vender tu parte del inmueble y pagar con ese dinero. Lo que no conviene es dejarlo pasar, porque el recargo crece cada mes."
+   ],
+   [
+    "¿La reducción por vivienda habitual tiene límite en Andalucía?",
+    "No. La ley andaluza fija una reducción del 99 % del valor de la vivienda habitual del fallecido, sin límite de importe. La aplican cónyuge, descendientes, ascendientes y ciertos colaterales mayores de 65, y exige conservarla tres años."
+   ],
+   [
+    "¿Puedo vender mi parte de la herencia antes de pagar sucesiones?",
+    "Sí. Puedes aceptar la herencia y vender tu cuota, incluso en el mismo acto ante notario, y destinar el precio a pagar el impuesto dentro del plazo. Te damos precio por escrito en 48 horas para que lo planifiques."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Andalucía",
+  "related": [
+   [
+    "Vender un proindiviso en Andalucía",
+    "/vender-proindiviso/andalucia/"
+   ],
+   [
+    "Sucesiones en cada comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Extinción de condominio en Andalucía",
+    "/impuestos-del-proindiviso/extincion-de-condominio-andalucia/"
+   ],
+   [
+    "No puedo pagar sucesiones",
+    "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/"
+   ]
+  ],
+  "cta_title": "¿Has heredado una parte en Andalucía y prefieres venderla?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Andalucía: cuánto se paga en 2026",
+  "meta_desc": "Impuesto de sucesiones en Andalucía 2026: hijos y cónyuge casi no pagan; hermanos y sobrinos, sí. Ejemplo real y, si no puedes pagar, compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Andalucía",
+  "title_corto": "Sucesiones en Andalucía",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: the cool entrance hall of an old Andalusian townhouse with patterned hydraulic floor tiles, white lime walls, a wrought iron inner gate and a glimpse of a small patio with a lemon tree, soft morning light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Andalucía: zaguán con suelo hidráulico y cancela de hierro",
+  "datos": {
+   "grupo_I": "Reducción de 1.000.000 € (art. 28 Ley 5/2021) y bonificación del 99 % de la cuota (art. 39)",
+   "grupo_II": "Reducción de 1.000.000 € (art. 28) y bonificación del 99 % de la cuota (art. 39); parejas de hecho inscritas equiparadas a cónyuges (art. 26)",
+   "grupo_III": "Reducción de 10.000 € (art. 28), tarifa autonómica 7-26 % y coeficiente 1,5 (art. 38); sin bonificación",
+   "grupo_IV": "Sin reducción por parentesco, tarifa 7-26 % y coeficiente 1,9 (art. 38); sin bonificación",
+   "vivienda_habitual": "Reducción del 99 % sin límite de importe (art. 27; Hacienda: se elimina el límite estatal); cónyuge, ascendientes, descendientes o equiparados y colateral mayor de 65 conviviente 2 años; mantenimiento 3 años",
+   "tarifa": "Propia (art. 37 Ley 5/2021): 7 % hasta 8.000 €, ..., 16 % de 70.000 a 100.000 €, ..., 26 % desde 800.000 €",
+   "patrimonio_preexistente": "No influye: coeficientes fijos 1,0 (grupos I y II), 1,5 (III) y 1,9 (IV) (art. 38)",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses solicitada en los 5 primeros (modelo 659), con intereses de demora",
+   "organismo": "Agencia Tributaria de Andalucía (ATRIAN)",
+   "modelo": "Modelo 650 por heredero y modelo 660 (relación de bienes); prórroga con modelo 659",
+   "url_organismo": "https://www.juntadeandalucia.es/organismos/atrian.html",
+   "ejemplo": "Piso con valor de referencia 200.000 €, 50 % por heredero, sin otros bienes, sin vivienda habitual ni ajuar. Base individual 100.000 €. Hijos (grupo II): 100.000 - 1.000.000 = base liquidable 0 -> cuota 0 €. Sobrinos (grupo III): 100.000 - 10.000 = 90.000 €; tarifa: 7.820 € (hasta 70.000) + 20.000 x 16 % = 3.200 € -> cuota íntegra 11.020 €; x 1,5 = 16.530 € por sobrino (33.060 € entre los dos). Primo (grupo IV, tarjeta): 100.000 € -> 12.620 € x 1,9 = 23.978 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Reducciones grupos I y II 1.000.000 € y grupo III 10.000 € (art. 28), vivienda habitual 99 % y 3 años con sus beneficiarios (art. 27), tarifa (art. 37), coeficientes 1,0/1,5/1,9 (art. 38) y bonificación 99 % grupos I y II (art. 39); texto consolidado, última actualización 31/12/2025",
+    "https://www.boe.es/eli/es-an/l/2021/10/20/5/con"
+   ],
+   [
+    "Resumen 2026: vivienda habitual 99 % sin límite máximo y 3 años; escala 7-26 %; coeficientes; bonificación 99 %",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 en Andalucía (Ley 8/2025, DL 1/2026 y DL 8/2026): en sucesiones solo cambia la bonificación de donaciones inter vivos",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Organismo, modelos 650 y 660, prórroga en los 5 primeros meses con modelo 659 y recargos (Guía de Sucesiones de la ATRIAN, junio de 2023)",
+    "https://www.juntadeandalucia.es/sites/default/files/inline-files/2023/06/Gu%C3%ADa%20Sucesiones%2014-06-2023%20def.pdf"
+   ],
+   [
+    "AJD de la extinción de condominio 1,2 % (art. 49 Ley 5/2021), ya verificado en la página fiscal",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro en inmuebles, salvo valor declarado mayor (art. 9.3 LISD); ajuar doméstico del 3 % del caudal relicto (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales (grupo III 7.993,46 €; vivienda habitual 95 % con límite 122.606,47 € por sujeto pasivo, cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años), tarifa estatal 7,65-34 % y coeficientes 1,0 / 1,5882 / 2,0 hasta 402.678,11 € (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Efectos de la falta de presentación: no se admiten documentos en registros sin la nota de presentación (art. 33 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses (art. 67 RISD) y prórroga de 6 meses pedida en los 5 primeros, con intereses de demora (art. 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento hasta 5 anualidades con garantía si no hay efectivo en la herencia (arts. 82 y 83 RISD); vivienda habitual (art. 85 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27.2 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Normativa aplicable: comunidad de residencia habitual del causante, días de los 5 años anteriores (arts. 28.1.1.º b y 32.2 a de la Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: 6 meses prorrogables hasta un año (art. 110.2 b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: valor de adquisición de lo heredado = valor según normas del ISD, sin exceder el de mercado, más gastos y tributos inherentes (arts. 35 y 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Modelo 659 para pedir la prórroga: lo confirma la Guía de Sucesiones de la ATRIAN de junio de 2023; no he encontrado una versión de 2026, aunque no consta cambio normativo"
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-aragon",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Aragón",
+  "h1": "Impuesto de sucesiones en Aragón: reducciones, ejemplo y plazos en 2026",
+  "sub": "En el impuesto de sucesiones en Aragón, cónyuge, hijos y padres reducen el 100 % de lo heredado hasta 500.000 € por persona, así que la mayoría no paga. Hermanos y sobrinos, en cambio, tributan con la tarifa estatal y pagan miles de euros. Si heredas una parte de un inmueble, también te la compramos con fondos propios.",
+  "checks": [
+   "Normativa de 2026 revisada",
+   "Ejemplo con hermanos y sobrinos",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Heredas una parte en Aragón?",
+  "card_text": "Cuéntanos dónde está el inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cómo funciona",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Aragón",
+    "type": "text",
+    "intro": [
+     "Cada heredero liquida su parte por separado. La base es el valor de lo que recibe, con el valor de referencia del Catastro como mínimo en los inmuebles, menos deudas y gastos deducibles. Hacienda añade además un 3 % de ajuar doméstico, salvo que pruebes que vale menos.",
+     "Aragón no tiene tarifa propia: usa la estatal, del 7,65 % al 34 %. Tampoco cambia los coeficientes por patrimonio preexistente, así que rigen los estatales. Por ejemplo, un sobrino con menos de 402.678,11 € de patrimonio previo multiplica su cuota por 1,5882.",
+     "Lo que sí mejora el impuesto de sucesiones en Aragón son las reducciones. El cónyuge, los ascendientes y los descendientes reducen el 100 % de su base, siempre que la suma de sus reducciones no pase de 500.000 €. Los hijos menores de edad pueden reducir hasta 3.000.000 €. Además, los descendientes menores de 21 años bonifican el 99 % de la cuota.",
+     "Para el resto la mejora es pequeña. Los hermanos reducen 15.000 €. En cambio, sobrinos, tíos y familia política se quedan con la reducción estatal de 7.993,46 €, y primos y extraños no reducen nada. Estas reglas del impuesto de sucesiones en Aragón se aplican si el fallecido vivió aquí la mayor parte de sus últimos cinco años."
+    ]
+   },
+   {
+    "overline": "Vivienda",
+    "h2": "La vivienda habitual del fallecido: reducción y bonificación",
+    "type": "list",
+    "intro": [
+     "Si el piso era la vivienda habitual del fallecido, el impuesto de sucesiones en Aragón suma dos ventajas para la familia directa."
+    ],
+    "items": [
+     "<strong>Reducción del 100 %.</strong> Se calcula sobre el valor de la vivienda, con un límite de 200.000 € por heredero. Pueden usarla el cónyuge, los ascendientes, los descendientes y el colateral mayor de 65 años que conviviera con el fallecido sus dos últimos años.",
+     "<strong>Bonificación del 65 %.</strong> Cónyuge, ascendientes y descendientes bonifican el 65 % de la cuota que corresponde a la vivienda. Solo se aplica si la vivienda vale 300.000 € o menos.",
+     "<strong>Cinco años de mantenimiento.</strong> Ambas ventajas exigen conservar la vivienda cinco años desde el fallecimiento. Si la vendes antes, tendrás que pagar lo ahorrado con intereses de demora."
+    ],
+    "outro": [
+     "Para la familia directa, la reducción del 100 % hasta 500.000 € suele bastar por sí sola. En cambio, a hermanos y sobrinos la vivienda habitual no les ayuda, salvo al colateral mayor de 65 que convivía. Tienes más detalle en la entrada sobre la <a href=\"/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/\">bonificación del impuesto de sucesiones</a>."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Impuesto de sucesiones en Aragón: tabla de 2026",
+    "type": "table",
+    "intro": [
+     "Son las cifras del impuesto de sucesiones en Aragón vigentes en 2026, según su texto refundido de tributos cedidos. En 2026 la comunidad no ha aprobado cambios. Tómalas como orientación."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Aragón en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21 años",
+      "Reducción del 100 % con el tope de 500.000 €; los hijos menores de edad, hasta 3.000.000 €. Bonificación del 99 % de la cuota."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y ascendientes",
+      "Reducción del 100 % de la base si el total de reducciones no supera 500.000 €. Por encima, tarifa estatal sin bonificación."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y familia política",
+      "Hermanos: reducción de 15.000 €. Resto: 7.993,46 €. Tarifa estatal del 7,65 % al 34 % y coeficiente desde 1,5882."
+     ],
+     [
+      "Grupo IV: primos y extraños",
+      "Sin reducción, tarifa estatal y coeficiente desde 2. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual",
+      "Reducción del 100 % hasta 200.000 € por heredero y bonificación del 65 % si vale 300.000 € o menos. Mantenimiento de 5 años."
+     ],
+     [
+      "Plazo",
+      "6 meses desde el fallecimiento. La prórroga de otros 6 se pide dentro de esos 6 meses."
+     ],
+     [
+      "Organismo y modelo",
+      "Administración Tributaria de Aragón, Dirección General de Tributos. Modelo 650 o programa de ayuda en línea."
+     ]
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo: un piso de 200.000 € que heredan hijos, hermanos o sobrinos",
+    "type": "steps",
+    "intro": [
+     "Un piso en Zaragoza con un valor de referencia de 200.000 € pasa a dos herederos al 50 %. No hay más bienes y no era la vivienda habitual del fallecido. Para simplificar, no sumamos el <a href=\"/diccionario-del-proindiviso/ajuar-domestico/\">ajuar doméstico</a>."
+    ],
+    "items": [
+     {
+      "t": "Base de cada heredero: 100.000 €",
+      "p": "Cada uno hereda la mitad. Por eso la base imponible es de 100.000 € por persona."
+     },
+     {
+      "t": "Dos hijos: 0 €",
+      "p": "La reducción del 100 % cubre toda la base, porque no llega a 500.000 €. Cada hijo presenta su autoliquidación y no paga nada."
+     },
+     {
+      "t": "Dos hermanos: unos 15.871 € cada uno",
+      "p": "Restan 15.000 € y queda una base de 85.000 €. La tarifa estatal da 9.992,86 €, y el coeficiente 1,5882 la eleva a 15.870,66 €."
+     },
+     {
+      "t": "Dos sobrinos: unos 17.668 € cada uno",
+      "p": "Restan 7.993,46 € y queda una base de 92.006,54 €. La cuota íntegra es de 11.124,41 €, y con el coeficiente 1,5882 sale en 17.667,79 €."
+     }
+    ],
+    "outro": [
+     "En resumen, el impuesto de sucesiones en Aragón cuesta cero a los hijos y más de 35.000 € a dos sobrinos por el mismo piso. Las cifras son orientativas: consulta tu caso con un asesor."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazos y trámites ante la Administración Tributaria de Aragón",
+    "type": "cards",
+    "intro": [
+     "En el impuesto de sucesiones en Aragón hay dos trámites que conviene vigilar. El primero es cuándo pedir la prórroga; el segundo, cómo elegir las reducciones."
+    ],
+    "items": [
+     {
+      "t": "Seis meses para presentar",
+      "p": "El plazo empieza al día siguiente del fallecimiento. Puedes presentar en línea o en los servicios provinciales de Huesca, Teruel y Zaragoza, con cita previa."
+     },
+     {
+      "t": "Prórroga dentro de los seis meses",
+      "p": "A diferencia de la regla estatal, la ley aragonesa permite pedirla mientras dure el plazo de seis meses. Te da otros seis, con intereses de demora si hay cuota."
+     },
+     {
+      "t": "Elige las reducciones aragonesas a tiempo",
+      "p": "La opción por las reducciones autonómicas debe ejercerse de forma expresa en el plazo voluntario. Si presentas tarde, puedes quedarte solo con las estatales, mucho menores."
+     },
+     {
+      "t": "Recargos por retraso",
+      "p": "Presentar tarde supone un recargo del 1 % más un 1 % por mes completo, y del 15 % pasado un año, más intereses.",
+      "url": "/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/",
+      "cta": "Recargos fuera de plazo →"
+     },
+     {
+      "t": "Modelo 650 y documentación",
+      "p": "Cada heredero presenta su modelo 650, con el certificado de defunción, el de últimas voluntades y el testamento o la declaración de herederos.",
+      "url": "/diccionario-del-proindiviso/modelo-650/",
+      "cta": "Qué es el modelo 650 →"
+     }
+    ],
+    "outro": [
+     "Si quieres repasar los conceptos básicos, tienes la entrada del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> en nuestro diccionario."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una cuota de un piso en Aragón",
+    "type": "text",
+    "intro": [
+     "Si heredáis entre varios, cada uno paga el impuesto de sucesiones en Aragón por el valor de su porcentaje. Después, el piso sigue siendo de todos: quedáis en proindiviso hasta que alguien mueva ficha.",
+     "Una opción es la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-aragon/\">extinción de condominio en Aragón</a>, en la que uno se queda el inmueble y compensa al resto. Otra es <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> a un comprador profesional, sin esperar acuerdo. Y si todavía no habéis hecho la partición, puedes <a href=\"/vender-derechos-hereditarios/\">vender tus derechos hereditarios</a>.",
+     "Ojo con dos impuestos más. Al heredar, el ayuntamiento cobra la plusvalía municipal, salvo bonificación local. Al vender, tu valor de adquisición en el IRPF es el que declaraste en sucesiones, y por eso conviene declarar un valor realista. Haz números con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo mantiene el usufructo, los hijos tributan solo por la nuda propiedad, que puedes estimar con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Además, si aplicaste la reducción por vivienda habitual, vender antes de cinco años puede obligarte a devolverla."
+    ]
+   },
+   {
+    "overline": "Sin dinero",
+    "h2": "No puedo pagar el impuesto de sucesiones en Aragón: qué hacer",
+    "type": "callout",
+    "intro": [
+     "Los sobrinos y los hermanos son quienes más sufren el impuesto de sucesiones en Aragón. Antes de que venza el plazo, puedes pedir el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento o fraccionamiento</a>, con intereses. También puedes aceptar a beneficio de inventario si dudas de las deudas del fallecido.",
+     "Y si prefieres no endeudarte, vende tu parte y paga con ese dinero. Lo explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en las tres provincias: mira cómo <a href=\"/vender-proindiviso/aragon/\">vender un proindiviso en Aragón</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.aragon.es/administracion-tributaria-de-aragon/gestiones-habituales/declarar-una-herencia\">Administración Tributaria de Aragón: declarar una herencia</a>. Autoliquidación, prórroga y guías por tipo de heredero.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOA-d-2005-90006\">Texto refundido de tributos cedidos de Aragón, Decreto Legislativo 1/2005 (BOE, consolidado)</a>. Reducciones, bonificaciones y plazos.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de lo vigente en cada comunidad.",
+     "<a href=\"https://www.aragon.es/tramitador/-/tramite/impuesto-sucesiones-donaciones/solicitud-de-prorroga\">Gobierno de Aragón: solicitud de prórroga del impuesto</a>. Plazo, efectos y forma de presentarla."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Aragón?",
+    "Normalmente nada. Los hijos reducen el 100 % de su base mientras la suma de reducciones no pase de 500.000 €. Por encima de esa cifra, el exceso tributa con la tarifa estatal y sin bonificación."
+   ],
+   [
+    "¿Por qué un hermano paga menos que un sobrino?",
+    "Porque Aragón eleva la reducción de los hermanos a 15.000 €, mientras que sobrinos y tíos mantienen la estatal de 7.993,46 €. En nuestro ejemplo de 100.000 € heredados, la diferencia ronda los 1.800 €."
+   ],
+   [
+    "¿Cuándo tengo que pedir la prórroga en Aragón?",
+    "Dentro de los seis meses siguientes al fallecimiento. La prórroga te da seis meses más, pero si hay cuota pagarás intereses de demora por ese tiempo. Si no te contestan en un mes, se entiende concedida."
+   ],
+   [
+    "¿Qué pasa si presento el impuesto de sucesiones fuera de plazo?",
+    "Pagas un recargo que empieza en el 1 % y sube un 1 % por mes completo, hasta el 15 % pasado un año. Además, en Aragón corres el riesgo de perder las reducciones autonómicas, que deben elegirse dentro del plazo voluntario."
+   ],
+   [
+    "¿Qué hago si no puedo pagar el impuesto?",
+    "Pide el aplazamiento o fraccionamiento antes de que acabe el plazo, o vende tu parte del inmueble para pagarlo. Nosotros te damos precio por escrito en 48 horas y firmamos en notaría en dos a cuatro semanas."
+   ],
+   [
+    "¿Hay que declarar aunque no salga nada a pagar?",
+    "Sí. Cada heredero debe presentar su autoliquidación aunque la cuota sea cero, porque las reducciones se aplican al declarar. Además, sin ese trámite no podrás inscribir tu parte en el Registro de la Propiedad."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Aragón",
+  "related": [
+   [
+    "Vender un proindiviso en Aragón",
+    "/vender-proindiviso/aragon/"
+   ],
+   [
+    "Sucesiones en cada comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Extinción de condominio en Aragón",
+    "/impuestos-del-proindiviso/extincion-de-condominio-aragon/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte de la herencia en Aragón?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Aragón: reducciones y ejemplo 2026",
+  "meta_desc": "Impuesto de sucesiones en Aragón 2026: reducción del 100 % hasta 500.000 € para hijos, cuánto pagan hermanos y sobrinos y plazos. Te compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Aragón",
+  "title_corto": "Sucesiones en Aragón",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a stone village house in the Aragonese countryside with a large semicircular arched stone doorway, a heavy wooden door painted dark blue, a small wooden balcony and terracotta roof tiles, golden cereal fields behind, clear autumn light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Aragón: casa de piedra con portada de arco",
+  "datos": {
+   "grupo_I": "Hijos menores de edad: reducción del 100 % hasta 3.000.000 € (art. 131-1); descendientes: reducción del 100 % de la base con límite conjunto de reducciones de 500.000 € (art. 131-5); bonificación del 99 % de la cuota para el grupo I (art. 131-12)",
+   "grupo_II": "Cónyuge, ascendientes y descendientes: reducción del 100 % de la base si el total de reducciones no supera 500.000 € (575.000 € con discapacidad del 33 al 65 %; +150.000 € al cónyuge por hijo menor conviviente) (art. 131-5); sin bonificación en mortis causa",
+   "grupo_III": "Hermanos: reducción de 15.000 € (art. 131-9); resto del grupo III: reducción estatal de 7.993,46 €; tarifa estatal y coeficiente 1,5882 (patrimonio hasta 402.678,11 €); sin bonificación",
+   "grupo_IV": "Sin reducción; tarifa estatal; coeficiente 2,0 (patrimonio hasta 402.678,11 €)",
+   "vivienda_habitual": "Reducción del 100 % con límite de 200.000 € por sujeto pasivo y 5 años (art. 131-8); beneficiarios estatales; bonificación adicional del 65 % de la cuota de la vivienda para cónyuge, ascendientes y descendientes si vale 300.000 € o menos, 5 años (art. 131-10)",
+   "tarifa": "Estatal (art. 21 LISD): 7,65 % a 34 %; Aragón no ha ejercido competencia",
+   "patrimonio_preexistente": "Coeficientes estatales (art. 22 LISD): grupos I y II 1,0-1,2; III 1,5882-1,9059; IV 2,0-2,4",
+   "plazo": "6 meses desde el día siguiente al devengo (art. 133-1.3 a); prórroga solicitada dentro de los 6 meses (art. 133-5 y trámite del Gobierno de Aragón), con intereses de demora; silencio positivo al mes",
+   "organismo": "Administración Tributaria de Aragón: Dirección General de Tributos; servicios provinciales de Hacienda y oficinas liquidadoras de distrito hipotecario (art. 133-1)",
+   "modelo": "Modelo 650 (Orden HAP/153/2016) o programa de ayuda telemático del portal de sucesiones",
+   "url_organismo": "https://www.aragon.es/administracion-tributaria-de-aragon/gestiones-habituales/declarar-una-herencia",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), 50 % por heredero, sin vivienda habitual ni ajuar. Base 100.000 €. Hijos: reducción estatal 15.956,87 € + reducción 131-5 hasta cubrir el 100 % de la base (total < 500.000 €) -> base liquidable 0 -> 0 €. Hermanos: 100.000 - 15.000 = 85.000 €; tarifa estatal: 9.166,06 € (hasta 79.880,52) + 5.119,48 x 16,15 % = 826,80 € -> 9.992,86 €; x 1,5882 = 15.870,66 €. Sobrinos: 100.000 - 7.993,46 = 92.006,54 €; 9.166,06 + 12.126,02 x 16,15 % = 1.958,35 € -> 11.124,41 €; x 1,5882 = 17.667,79 € por sobrino (35.335,58 € entre los dos)."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 131-1 (hijos menores 100 % hasta 3.000.000 €), 131-5 (100 % con límite de 500.000 €), 131-8 (vivienda 100 %, 200.000 €, 5 años), 131-9 (hermanos 15.000 €), 131-10 (bonificación 65 %, 300.000 €), 131-12 (bonificación 99 % grupo I), 133-1 (plazo y lugar), 133-4 (opción expresa en periodo voluntario) y 133-5 (prórroga dentro de los 6 meses); consolidado a 07/07/2025",
+    "https://www.boe.es/buscar/act.php?id=BOA-d-2005-90006"
+   ],
+   [
+    "Resumen 2026 de Aragón: tarifa y coeficientes estatales (no ha ejercido competencias)",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Aragón no aprueba medidas nuevas en tributos cedidos para 2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Prórroga: dentro de los 6 meses siguientes al fallecimiento, 6 meses más, intereses de demora, silencio positivo al mes",
+    "https://www.aragon.es/tramitador/-/tramite/impuesto-sucesiones-donaciones/solicitud-de-prorroga"
+   ],
+   [
+    "Organismo (Dirección General de Tributos) y opción expresa entre reducciones estatales y aragonesas en periodo voluntario",
+    "https://www.aragon.es/administracion-tributaria-de-aragon/gestiones-habituales/declarar-una-herencia"
+   ],
+   [
+    "Modelo 650 para la autoliquidación por sucesiones (Orden HAP/153/2016)",
+    "https://legado.elnotario.es/images/pdf/LAUT-N66-06-ARA-Orden-HAP-153-2016.pdf"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro en inmuebles, salvo valor declarado mayor (art. 9.3 LISD); ajuar doméstico del 3 % del caudal relicto (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales (grupo III 7.993,46 €; vivienda habitual 95 % con límite 122.606,47 € por sujeto pasivo, cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años), tarifa estatal 7,65-34 % y coeficientes 1,0 / 1,5882 / 2,0 hasta 402.678,11 € (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Efectos de la falta de presentación: no se admiten documentos en registros sin la nota de presentación (art. 33 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses (art. 67 RISD) y prórroga de 6 meses pedida en los 5 primeros, con intereses de demora (art. 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento hasta 5 anualidades con garantía si no hay efectivo en la herencia (arts. 82 y 83 RISD); vivienda habitual (art. 85 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27.2 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Normativa aplicable: comunidad de residencia habitual del causante, días de los 5 años anteriores (arts. 28.1.1.º b y 32.2 a de la Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: 6 meses prorrogables hasta un año (art. 110.2 b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: valor de adquisición de lo heredado = valor según normas del ISD, sin exceder el de mercado, más gastos y tributos inherentes (arts. 35 y 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Efecto exacto de presentar fuera de plazo sobre la reducción del 100 % del art. 131-5: el art. 133-4 exige optar expresamente en periodo voluntario y, si no, aplica la estatal; en la página lo formulo como riesgo («puedes quedarte solo con las estatales»)"
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-asturias",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Asturias",
+  "h1": "Impuesto de sucesiones en Asturias: qué pagan hijos, hermanos y sobrinos en 2026",
+  "sub": "En el impuesto de sucesiones en Asturias, hijos, cónyuge y padres no pagan si cada uno hereda menos de 300.000 €. Por encima, el exceso tributa desde el 21,25 %, y hermanos y sobrinos pagan con una tarifa que llega al 36,5 %. Si heredas una parte de un piso, te la compramos con fondos propios.",
+  "checks": [
+   "Tarifas de 2026 comprobadas",
+   "Ejemplo con un piso en Gijón",
+   "Compramos tu parte de la herencia"
+  ],
+  "card_title": "¿Heredas una parte en Asturias?",
+  "card_text": "Dinos la dirección del inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo funciona el impuesto de sucesiones en Asturias",
+    "type": "text",
+    "intro": [
+     "Cada heredero paga por su parte. La base es el valor de lo que recibe, con el valor de referencia del Catastro como mínimo en los inmuebles, menos deudas y gastos deducibles. Además, Hacienda presume un ajuar doméstico del 3 % del caudal.",
+     "Asturias sube la reducción de los grupos I y II, es decir, descendientes, cónyuge y ascendientes, hasta 300.000 € por persona. Lo que pase de ahí tributa con una tarifa específica que empieza en el 21,25 % y llega al 36,5 %. Por eso el impuesto de sucesiones en Asturias es casi nulo en herencias medias, pero caro en las grandes.",
+     "Los descendientes menores de 21 años, el grupo I, tienen además coeficiente cero si su patrimonio previo no supera 402.678,11 €. En la práctica, no pagan. El grupo II, en cambio, aplica los coeficientes estatales, que empiezan en 1.",
+     "Hermanos, sobrinos y tíos, el grupo III, solo tienen la reducción estatal de 7.993,46 €. Su cuota sale de la tarifa general asturiana, del 7,65 % al 36,5 %, y se multiplica por 1,5882 o más. Los primos y extraños no reducen nada y su coeficiente parte de 2. Tampoco hay bonificaciones por parentesco.",
+     "Estas reglas del impuesto de sucesiones en Asturias se aplican si el fallecido vivió en el Principado la mayor parte de sus últimos cinco años, aunque el piso esté en otra comunidad."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo del impuesto de sucesiones en Asturias con un piso de 200.000 €",
+    "type": "steps",
+    "intro": [
+     "Un piso en Gijón con un valor de referencia de 200.000 € se hereda al 50 % entre dos personas, sin otros bienes. Suponemos que no era la vivienda habitual del fallecido y dejamos fuera el <a href=\"/diccionario-del-proindiviso/ajuar-domestico/\">ajuar doméstico</a>. Son cifras orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base por heredero: 100.000 €",
+      "p": "Cada uno tributa por su mitad, no por el piso entero."
+     },
+     {
+      "t": "Dos hijos: 0 €",
+      "p": "La reducción de 300.000 € supera la base de 100.000 €. La base liquidable queda en cero y no hay cuota."
+     },
+     {
+      "t": "Dos sobrinos: base de 92.006,54 €",
+      "p": "Restan la reducción estatal de 7.993,46 €. Con la tarifa general asturiana, la cuota íntegra es de 11.119,06 €."
+     },
+     {
+      "t": "Cuota de cada sobrino: unos 17.659 €",
+      "p": "El coeficiente 1,5882 eleva la cuota a 17.659,29 € por sobrino. Entre los dos, más de 35.300 € por el mismo piso."
+     }
+    ],
+    "outro": [
+     "Ahora imagina que un hijo hereda 400.000 € en bienes, sin vivienda habitual ni otras reducciones. Resta 300.000 € y tributa por 100.000 € con la tarifa de los grupos I y II: unos 23.120 €. Es decir, en el impuesto de sucesiones en Asturias el límite de 300.000 € marca la diferencia."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Tabla 2026: grupos, vivienda habitual y plazo",
+    "type": "table",
+    "intro": [
+     "Resumen del impuesto de sucesiones en Asturias con las cifras vigentes en 2026, según el texto refundido de tributos cedidos. La ley de presupuestos para 2026 no toca las reducciones por parentesco ni la tarifa."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Asturias en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21 años",
+      "Reducción de 300.000 € y coeficiente cero si su patrimonio previo no supera 402.678,11 €."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y ascendientes",
+      "Reducción de 300.000 €. El exceso tributa del 21,25 % al 36,5 %. Sin bonificación."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y familia política",
+      "Reducción estatal de 7.993,46 €, tarifa del 7,65 % al 36,5 % y coeficiente desde 1,5882."
+     ],
+     [
+      "Grupo IV: primos y extraños",
+      "Sin reducción, la misma tarifa general y coeficiente desde 2."
+     ],
+     [
+      "Vivienda habitual",
+      "Reducción del 95 % al 99 % según el valor del inmueble, hasta 122.606,47 € por heredero. Mantenimiento de 3 años."
+     ],
+     [
+      "Plazo",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo",
+      "Ente Público de Servicios Tributarios del Principado de Asturias. Modelos 650 y 660."
+     ]
+    ]
+   },
+   {
+    "overline": "Vivienda",
+    "h2": "La vivienda habitual del fallecido en Asturias",
+    "type": "text",
+    "intro": [
+     "Asturias mejora el porcentaje estatal según lo que valga la vivienda. Hasta 90.000 € reduces el 99 %; hasta 120.000 €, el 98 %; hasta 180.000 €, el 97 %; hasta 240.000 €, el 96 %, y por encima, el 95 %.",
+     "El resto de requisitos son los estatales. Por tanto, la reducción tiene un tope de 122.606,47 € por heredero. Solo pueden aplicarla el cónyuge, los ascendientes, los descendientes y el colateral mayor de 65 años que conviviera con el fallecido los dos años anteriores. Además, debes mantener la adquisición tres años.",
+     "Para un hijo, esta reducción se suma a los 300.000 € y ayuda en herencias grandes. En cambio, a un sobrino menor de 65 o que no convivía no le sirve. Por eso, en el impuesto de sucesiones en Asturias, el sobrino que hereda la casa de su tío no suele poder aplicarla."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, prórroga y dónde presentar en Asturias",
+    "type": "cards",
+    "intro": [
+     "El impuesto de sucesiones en Asturias lo gestiona el Ente Público de Servicios Tributarios del Principado. Aunque no salga nada a pagar, hay que presentar."
+    ],
+    "items": [
+     {
+      "t": "Seis meses de plazo",
+      "p": "Cuentan desde el día del fallecimiento. Dentro de los cinco primeros meses puedes pedir una prórroga de otros seis en la sede electrónica, con intereses de demora si hay cuota."
+     },
+     {
+      "t": "Modelos 650 y 660",
+      "p": "El 660 recoge la relación de bienes y cada heredero presenta su 650. Puedes hacerlo en línea o en las oficinas de Servicios Tributarios.",
+      "url": "/diccionario-del-proindiviso/modelo-650/",
+      "cta": "Qué es el modelo 650 →"
+     },
+     {
+      "t": "Recargos si te retrasas",
+      "p": "Un 1 % más otro 1 % por cada mes completo de retraso. Pasados 12 meses, el 15 % más intereses de demora.",
+      "url": "/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/",
+      "cta": "Cómo funcionan los recargos →"
+     },
+     {
+      "t": "Aplazar o fraccionar",
+      "p": "Si en la herencia no hay dinero suficiente, puedes pedir aplazamiento o fraccionamiento antes de que venza el plazo. Normalmente hay intereses y, para fraccionar, garantía.",
+      "url": "/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/",
+      "cta": "Aplazamiento de sucesiones →"
+     }
+    ],
+    "outro": [
+     "Para repasar los conceptos básicos, tienes la entrada del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> en nuestro diccionario."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Si lo que heredas es una parte del piso",
+    "type": "text",
+    "intro": [
+     "En una herencia entre varios, cada heredero paga el impuesto de sucesiones en Asturias por el valor de su cuota. Liquidado el impuesto, el piso sigue siendo de todos y quedáis en copropiedad. Desde ese momento, alguien tiene que mover ficha.",
+     "Si uno quiere quedárselo, la vía es la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-asturias/\">extinción de condominio en Asturias</a>. Si no hay acuerdo ni dinero, puedes <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> sin depender de los demás. Y si la herencia está sin repartir, también puedes <a href=\"/vender-derechos-hereditarios/\">vender tus derechos hereditarios</a>.",
+     "Al heredar, el ayuntamiento cobra la plusvalía municipal, con seis meses de plazo prorrogables a un año. Al vender, el valor declarado en sucesiones es tu valor de adquisición en el IRPF. Calcula ambos con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo tiene el usufructo, los hijos heredan la nuda propiedad y tributan por su valor. Puedes estimarla con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Y recuerda que vender antes de tres años puede hacerte perder la reducción por vivienda habitual."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Asturias",
+    "type": "callout",
+    "intro": [
+     "Con cuotas de más de 17.000 € por sobrino, el impuesto de sucesiones en Asturias puede ser un problema real. Primero, pide el aplazamiento antes de que acabe el plazo. Después, valora aceptar a beneficio de inventario si temes deudas. Y si prefieres cerrar el tema, vende tu parte y paga con ese dinero.",
+     "Tienes las opciones en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a>. También puedes <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en todo el Principado: mira cómo <a href=\"/vender-proindiviso/asturias/\">vender un proindiviso en Asturias</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://sede.tributasenasturias.es/sites/epstpa/default/es_ES/tributos/sucesiones-y-donaciones\">Servicios Tributarios del Principado de Asturias: sucesiones y donaciones</a>. Modelos 650 y 660, prórroga y presentación.",
+     "<a href=\"https://www.boe.es/eli/es-as/dlg/2014/10/22/2/con\">Texto refundido de tributos cedidos de Asturias, Decreto Legislativo 2/2014 (BOE, consolidado)</a>. Reducciones, tarifas y coeficientes.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de lo vigente en cada comunidad.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141\">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones (BOE)</a>. Reducción estatal del grupo III y límite de la vivienda habitual."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Asturias?",
+    "Nada si su parte de la herencia no supera 300.000 €, porque esa es su reducción. Si la supera, el exceso tributa desde el 21,25 %. Con 400.000 € heredados, sin otras reducciones, pagaría unos 23.120 €."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí, los dos están en el grupo III. Tienen la reducción estatal de 7.993,46 €, la tarifa general asturiana y un coeficiente de 1,5882 si su patrimonio previo no supera 402.678,11 €. Con 100.000 € heredados, unos 17.659 € cada uno."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto de sucesiones en Asturias?",
+    "Seis meses desde el fallecimiento. Si pides la prórroga en los cinco primeros meses, tendrás otros seis, aunque con intereses de demora si hay cuota. Fuera de plazo se aplican recargos."
+   ],
+   [
+    "¿Qué reducción tiene la vivienda habitual?",
+    "Entre el 95 % y el 99 % de su valor, según lo que valga el inmueble, con un tope de 122.606,47 € por heredero. Exige mantenerla tres años y solo vale para cónyuge, ascendientes, descendientes y ciertos colaterales mayores de 65."
+   ],
+   [
+    "¿Qué pasa si no puedo pagarlo?",
+    "Puedes pedir aplazamiento o fraccionamiento antes de que venza el plazo, normalmente con intereses. Otra salida es vender tu parte del inmueble y pagar con ese dinero. Nosotros te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Tengo que presentar el modelo 650 aunque no pague nada?",
+    "Sí. Cada heredero presenta su modelo 650, junto con el 660 de relación de bienes, aunque la cuota salga a cero. Sin esa presentación tampoco podrás inscribir tu parte en el Registro de la Propiedad."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Asturias",
+  "related": [
+   [
+    "Vender un proindiviso en Asturias",
+    "/vender-proindiviso/asturias/"
+   ],
+   [
+    "Sucesiones en cada comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Extinción de condominio en Asturias",
+    "/impuestos-del-proindiviso/extincion-de-condominio-asturias/"
+   ],
+   [
+    "Vender mi parte de una casa heredada",
+    "/vender-parte-casa-heredada/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte heredada en Asturias?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Asturias: cuánto se paga en 2026",
+  "meta_desc": "Impuesto de sucesiones en Asturias 2026: reducción de 300.000 € para hijos, tarifa hasta el 36,5 % para sobrinos y ejemplo real. Te compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Asturias",
+  "title_corto": "Sucesiones en Asturias",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a traditional Asturian horreo granary raised on stone pillars next to an old stone farmhouse with a wooden balcony and a dark blue door, green meadows and low mist on the hills behind, soft overcast light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Asturias: hórreo junto a una casa de piedra",
+  "datos": {
+   "grupo_I": "Reducción de 300.000 € (art. 17 TR D.Leg. 2/2014), tarifa específica de los grupos I y II (art. 21.2) y coeficiente 0 con patrimonio preexistente hasta 402.678,11 € (0,02/0,03/0,04 en tramos superiores) (art. 22)",
+   "grupo_II": "Reducción de 300.000 € (art. 17); tarifa específica: 21,25 % hasta 56.000 €, 25,5 % hasta 216.000 €, 31,25 % hasta 616.000 €, 36,5 % el resto (art. 21.2); coeficientes estatales; sin bonificación desde 2017",
+   "grupo_III": "Reducción estatal de 7.993,46 € (art. 20.2 a LISD); tarifa general asturiana 7,65-36,5 % (art. 21.1); coeficiente estatal 1,5882 con patrimonio hasta 402.678,11 €",
+   "grupo_IV": "Sin reducción; tarifa general 7,65-36,5 %; coeficiente estatal 2,0 con patrimonio hasta 402.678,11 €",
+   "vivienda_habitual": "Escala según valor real del inmueble: 99 % hasta 90.000 €, 98 % hasta 120.000 €, 97 % hasta 180.000 €, 96 % hasta 240.000 €, 95 % más; mantenimiento 3 años; resto de límites y requisitos estatales (art. 17 bis): límite de 122.606,47 € por sujeto pasivo y beneficiarios estatales",
+   "tarifa": "Propia: general 7,65-36,5 % (art. 21.1) y específica para grupos I y II desde el 21,25 % (art. 21.2)",
+   "patrimonio_preexistente": "Grupo I: coeficientes 0 / 0,02 / 0,03 / 0,04 (art. 22.1); grupos II, III y IV: coeficientes estatales",
+   "plazo": "6 meses; prórroga de 6 meses pedida en los 5 primeros (régimen estatal, solicitud en la sede electrónica), con intereses de demora",
+   "organismo": "Ente Público de Servicios Tributarios del Principado de Asturias",
+   "modelo": "Modelos 660 + 650 (autoliquidación ordinaria de sucesiones)",
+   "url_organismo": "https://sede.tributasenasturias.es/sites/epstpa/default/es_ES/tributos/sucesiones-y-donaciones",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), 50 % por heredero, sin vivienda habitual ni ajuar. Base 100.000 €. Hijos: 100.000 - 300.000 -> base liquidable 0 -> 0 €. Sobrinos: 100.000 - 7.993,46 = 92.006,54 €; tarifa general: 9.180 € (hasta 80.000) + 12.006,54 x 16,15 % = 1.939,06 € -> 11.119,06 €; x 1,5882 = 17.659,29 € por sobrino (35.318,58 € los dos). Variante: hijo que hereda 400.000 € sin otras reducciones: 400.000 - 300.000 = 100.000 €; tarifa grupos I y II: 11.900 € (hasta 56.000) + 44.000 x 25,5 % = 11.220 € -> 23.120 €; coeficiente 1,0 -> 23.120 €."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 17 (300.000 €), 17 bis (escala 95-99 % y 3 años; «los restantes límites y requisitos serán los establecidos en la legislación estatal»), 21 (tarifas general y de grupos I y II) y 22 (coeficientes grupo I); texto consolidado, última actualización 31/12/2025",
+    "https://www.boe.es/eli/es-as/dlg/2014/10/22/2/con"
+   ],
+   [
+    "Resumen 2026 de Asturias: reducción 300.000 €, escalas, coeficientes grupo I, bonificación de grupo II suprimida desde 2017",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 en Asturias (Ley 5/2025): en sucesiones solo la reducción de empresa familiar para cuarto grado",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Organismo (Servicios Tributarios del Principado de Asturias), modelos 660 + 650 y solicitud telemática de prórroga",
+    "https://sede.tributasenasturias.es/sites/epstpa/default/es_ES/tributos/sucesiones-y-donaciones"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro en inmuebles, salvo valor declarado mayor (art. 9.3 LISD); ajuar doméstico del 3 % del caudal relicto (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales (grupo III 7.993,46 €; vivienda habitual 95 % con límite 122.606,47 € por sujeto pasivo, cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años), tarifa estatal 7,65-34 % y coeficientes 1,0 / 1,5882 / 2,0 hasta 402.678,11 € (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Efectos de la falta de presentación: no se admiten documentos en registros sin la nota de presentación (art. 33 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses (art. 67 RISD) y prórroga de 6 meses pedida en los 5 primeros, con intereses de demora (art. 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento hasta 5 anualidades con garantía si no hay efectivo en la herencia (arts. 82 y 83 RISD); vivienda habitual (art. 85 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27.2 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Normativa aplicable: comunidad de residencia habitual del causante, días de los 5 años anteriores (arts. 28.1.1.º b y 32.2 a de la Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: 6 meses prorrogables hasta un año (art. 110.2 b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: valor de adquisición de lo heredado = valor según normas del ISD, sin exceder el de mercado, más gastos y tributos inherentes (arts. 35 y 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": []
+ },
+ {
+  "slug": "impuesto-de-sucesiones-baleares",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Baleares",
+  "h1": "Impuesto de sucesiones en Baleares: bonificaciones por parentesco en 2026",
+  "sub": "En el impuesto de sucesiones en Baleares, hijos, cónyuge y padres tienen una bonificación del 100 % de la cuota, así que no pagan nada. Hermanos y sobrinos sí pagan, aunque bonifican el 60 % si no hay descendientes. Si heredas una parte de un piso y prefieres venderla, compramos tu cuota con fondos propios.",
+  "checks": [
+   "Cifras de 2026 por isla",
+   "Ejemplo con un piso en Palma",
+   "Compramos tu cuota heredada"
+  ],
+  "card_title": "¿Heredas una parte en las islas?",
+  "card_text": "Dinos en qué isla está el inmueble y tu porcentaje. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Cálculo",
+    "h2": "Cómo se calcula el impuesto de sucesiones en Baleares",
+    "type": "text",
+    "intro": [
+     "Cada heredero tributa por lo que recibe. En los inmuebles, la base parte del valor de referencia del Catastro, salvo que declares más, y se restan deudas y gastos deducibles. Hacienda suma también un ajuar doméstico del 3 % del caudal.",
+     "Después se aplican las reducciones de la ley balear. Hijos de 21 años o más, cónyuge y padres reducen 25.000 €; los menores de 21, hasta 50.000 €. Hermanos, sobrinos y tíos reducen 8.000 €, y primos y extraños, 1.000 €.",
+     "La tarifa también es propia. Para hijos, cónyuge y padres, el tipo es del 1 % hasta 700.000 € y sube por tramos hasta el 20 %. Para el resto, la escala general va del 7,65 % al 34 %. Luego se aplica un coeficiente: 1 para la familia directa, 1,2706 para hermanos, sobrinos y tíos y 1,70 para extraños, con patrimonio previo de hasta 400.000 €.",
+     "Por último llegan las bonificaciones. Los grupos I y II bonifican el 100 % de la cuota. Hermanos, sobrinos y tíos bonifican el 60 % si no concurren con descendientes del fallecido; el resto del grupo III, como la familia política, el 35 %. El grupo IV no bonifica nada.",
+     "Este régimen del impuesto de sucesiones en Baleares rige si el fallecido vivió en las islas la mayor parte de sus últimos cinco años."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Impuesto de sucesiones en Baleares: tabla resumen de 2026",
+    "type": "table",
+    "intro": [
+     "Cifras del impuesto de sucesiones en Baleares vigentes en 2026, según el texto refundido de tributos cedidos, actualizado en junio de 2026. Son orientativas."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Baleares en 2026"
+     ],
+     [
+      "Descendientes menores de 21 años (grupo I)",
+      "Reducción de 25.000 € más 6.250 € por año menos de 21, hasta 50.000 €. Bonificación del 100 %."
+     ],
+     [
+      "Hijos de 21 o más, cónyuge y ascendientes (grupo II)",
+      "Reducción de 25.000 €, tarifa desde el 1 % y bonificación del 100 % de la cuota."
+     ],
+     [
+      "Hermanos, sobrinos, tíos y familia política (grupo III)",
+      "Reducción de 8.000 €, tarifa del 7,65 % al 34 %, coeficiente desde 1,2706 y bonificación del 60 % o del 35 %."
+     ],
+     [
+      "Primos y extraños (grupo IV)",
+      "Reducción de 1.000 €, la misma tarifa y coeficiente desde 1,70. Sin bonificación."
+     ],
+     [
+      "Vivienda habitual",
+      "Reducción del 100 % hasta 270.151,20 € por heredero, con topes más altos por isla desde 2026. Mantenimiento de 5 años."
+     ],
+     [
+      "Plazo",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo",
+      "Agència Tributària de les Illes Balears (ATIB). Modelos 650 y 660."
+     ]
+    ]
+   },
+   {
+    "overline": "Requisitos",
+    "h2": "Vivienda habitual y valor declarado: dos detalles baleares",
+    "type": "list",
+    "intro": [
+     "Dos reglas del impuesto de sucesiones en Baleares afectan de lleno a quien hereda un piso."
+    ],
+    "items": [
+     "<strong>Vivienda habitual del fallecido.</strong> Reducción del 100 % de su valor, con un límite general de 270.151,20 € por heredero. Pueden aplicarla cónyuge, ascendientes, descendientes y el colateral mayor de 65 años que conviviera con el fallecido dos años.",
+     "<strong>Topes por isla en 2026.</strong> Una orden de junio de 2026 eleva el valor máximo a 331.859,70 € en Mallorca y Menorca y a 378.211,68 € en Ibiza y Formentera. Confirma con la ATIB qué límite se aplica a tu caso.",
+     "<strong>Cinco años de mantenimiento.</strong> Debes conservar la vivienda cinco años. Si la vendes antes, pagas lo ahorrado más intereses de demora.",
+     "<strong>Valor en la escritura.</strong> Para aplicar las bonificaciones, el valor de los inmuebles que declares no puede superar el valor de referencia más un 20 %. Es decir, no puedes inflarlo para reducir después la ganancia en el IRPF sin perder la bonificación."
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo con un piso de 200.000 € en Palma",
+    "type": "steps",
+    "intro": [
+     "Dos herederos reciben al 50 % un piso en Palma con un valor de referencia de 200.000 €, sin otros bienes. Suponemos que no era la vivienda habitual del fallecido y dejamos fuera el <a href=\"/diccionario-del-proindiviso/ajuar-domestico/\">ajuar doméstico</a>. Cifras orientativas."
+    ],
+    "items": [
+     {
+      "t": "Base por heredero: 100.000 €",
+      "p": "Cada uno tributa por su mitad del piso, no por el total."
+     },
+     {
+      "t": "Dos hijos: 0 €",
+      "p": "Restan 25.000 € y quedan 75.000 €. Al 1 % sale una cuota de 750 €, que la bonificación del 100 % deja en cero."
+     },
+     {
+      "t": "Dos sobrinos: cuota corregida de 14.126,53 €",
+      "p": "Restan 8.000 € y quedan 92.000 €. La tarifa general da 11.118 €, y el coeficiente 1,2706 la sube a 14.126,53 €."
+     },
+     {
+      "t": "Con la bonificación del 60 %: unos 5.651 €",
+      "p": "Si el fallecido no tenía descendientes, cada sobrino bonifica el 60 % y paga 5.650,61 €. Si fueran sobrinos políticos, la bonificación bajaría al 35 % y el coeficiente subiría."
+     }
+    ],
+    "outro": [
+     "En definitiva, en el impuesto de sucesiones en Baleares el mismo piso sale gratis a los hijos y a unos 11.300 € entre dos sobrinos. Consulta tu caso con un asesor antes de presentar."
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, modelo 650 y presentación ante la ATIB",
+    "type": "text",
+    "intro": [
+     "El impuesto de sucesiones en Baleares se presenta en la Agència Tributària de les Illes Balears, la ATIB. Tienes seis meses desde el fallecimiento y puedes pedir una prórroga de otros seis dentro de los cinco primeros. Eso sí, la prórroga genera intereses de demora si hay cuota.",
+     "Cada heredero presenta su <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a>, acompañado del modelo 660 con la relación de bienes. Hay que presentarlo aunque la cuota salga a cero, porque las bonificaciones no eximen de declarar.",
+     "Si te retrasas, pagas un <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo por presentación fuera de plazo</a>: el 1 % más otro 1 % por mes completo, y el 15 % pasado un año. Si te falta liquidez, pide el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento del impuesto</a> antes de que venza el plazo.",
+     "Para repasar conceptos, tienes la entrada del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> y la de la <a href=\"/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/\">bonificación del impuesto</a>."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte de un piso en las islas",
+    "type": "cards",
+    "intro": [
+     "Si heredáis entre varios, cada uno paga el impuesto de sucesiones en Baleares por el valor de su cuota. Después, el piso sigue en copropiedad. Estas son las salidas."
+    ],
+    "items": [
+     {
+      "t": "Extinción de condominio",
+      "p": "Uno se queda el piso y compensa a los demás. Es barata en impuestos, pero exige acuerdo y dinero.",
+      "url": "/impuestos-del-proindiviso/extincion-de-condominio-baleares/",
+      "cta": "Impuestos de la extinción →"
+     },
+     {
+      "t": "Vender tu parte",
+      "p": "Vendes tu porcentaje sin depender del resto y cobras al contado en notaría.",
+      "url": "/vender-parte-casa-heredada/",
+      "cta": "Vender mi parte heredada →"
+     },
+     {
+      "t": "Plusvalía e IRPF",
+      "p": "Al heredar pagas la plusvalía municipal. Al vender, tu valor de adquisición en el IRPF es el que declaraste en sucesiones.",
+      "url": "/calculadora-impuestos-vender-tu-parte/",
+      "cta": "Calcular impuestos →"
+     },
+     {
+      "t": "Usufructo del viudo",
+      "p": "Si el viudo conserva el usufructo, los hijos tributan solo por la nuda propiedad.",
+      "url": "/calculadora-nuda-propiedad/",
+      "cta": "Calcular la nuda propiedad →"
+     }
+    ],
+    "outro": [
+     "Si la herencia sigue sin repartir, puedes <a href=\"/vender-derechos-hereditarios/\">vender tus derechos hereditarios</a>. Y recuerda: si aplicaste la reducción por vivienda habitual, vender antes de cinco años puede costarte devolverla."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "Si no puedes pagar el impuesto de sucesiones en Baleares",
+    "type": "callout",
+    "intro": [
+     "La bonificación del 60 % ayuda, pero el impuesto de sucesiones en Baleares aún puede costar miles de euros a un sobrino. Y ese sobrino no puede vender el piso entero sin los demás. Tienes alternativas: aplazar o fraccionar, aceptar a beneficio de inventario si temes deudas o vender tu parte para pagar.",
+     "Las explicamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a> y en cómo <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en Mallorca, Menorca, Ibiza y Formentera: mira cómo <a href=\"/vender-proindiviso/baleares/\">vender un proindiviso en Baleares</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www.atib.es/\">Agència Tributària de les Illes Balears (ATIB)</a>. Modelos 650 y 660, plazos y oficinas.",
+     "<a href=\"https://www.boe.es/eli/es-ib/dlg/2014/06/06/1/con\">Texto refundido de tributos cedidos de las Illes Balears, Decreto Legislativo 1/2014 (BOE, consolidado)</a>. Reducciones, tarifas, coeficientes y bonificaciones.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de lo vigente en cada comunidad."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Baleares?",
+    "Nada en la práctica. Hijos, cónyuge y padres tienen una bonificación del 100 % de la cuota, sea cual sea el importe. Eso sí, deben presentar el modelo 650 y declarar un valor que no supere el de referencia más un 20 %."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí, si son parientes de sangre: los dos reducen 8.000 €, aplican el coeficiente 1,2706 y bonifican el 60 % cuando no hay descendientes. Con 100.000 € heredados, cada uno paga unos 5.650 €. La familia política solo bonifica el 35 %."
+   ],
+   [
+    "¿Cuánto tengo para presentar el impuesto?",
+    "Seis meses desde el fallecimiento. Si lo pides dentro de los cinco primeros meses, la ATIB puede darte una prórroga de otros seis, con intereses de demora si hay cuota a pagar."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto de sucesiones?",
+    "Pide aplazamiento o fraccionamiento antes de que venza el plazo, o vende tu parte para pagarlo. Si dejas pasar el plazo, el recargo empieza en el 1 % y llega al 15 % pasado un año."
+   ],
+   [
+    "¿La reducción por vivienda habitual depende de la isla?",
+    "En parte. La ley fija un límite general de 270.151,20 € por heredero y, desde 2026, una orden fija valores máximos más altos en Mallorca, Menorca, Ibiza y Formentera. Conviene confirmar con la ATIB el importe que te corresponde."
+   ],
+   [
+    "¿Puedo vender mi parte antes de que pasen cinco años?",
+    "Sí, la venta es libre. Pero si aplicaste la reducción por vivienda habitual, venderla antes de cinco años puede obligarte a pagar lo ahorrado más intereses. Si no la aplicaste, ese requisito no te afecta."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Baleares",
+  "related": [
+   [
+    "Vender un proindiviso en Baleares",
+    "/vender-proindiviso/baleares/"
+   ],
+   [
+    "Sucesiones en cada comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Extinción de condominio en Baleares",
+    "/impuestos-del-proindiviso/extincion-de-condominio-baleares/"
+   ],
+   [
+    "No puedo pagar sucesiones",
+    "/blog/no-puedo-pagar-el-impuesto-de-sucesiones/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "¿Has heredado una parte en Baleares?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Baleares: bonificaciones en 2026",
+  "meta_desc": "Impuesto de sucesiones en Baleares 2026: bonificación del 100 % para hijos, 60 % para hermanos y sobrinos, vivienda por isla y ejemplo. Compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Baleares",
+  "title_corto": "Sucesiones en Baleares",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a whitewashed traditional Ibizan country house with thick walls, small deep windows and a flat roof, surrounded by pine and juniper trees and a dry stone wall, a dark blue wooden door, warm late afternoon light. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Baleares: casa payesa encalada entre pinos y muro de piedra",
+  "datos": {
+   "grupo_I": "Reducción de 25.000 € + 6.250 € por año menos de 21, máximo 50.000 € (art. 21 a TR D.Leg. 1/2014); tarifa específica grupos I y II (art. 33.2); bonificación del 100 % de la cuota íntegra corregida (art. 36)",
+   "grupo_II": "Reducción de 25.000 € (art. 21 b); tarifa específica: 1 % hasta 700.000 €, 8 % hasta 1.000.000 €, 11 % hasta 2.000.000 €, 15 % hasta 3.000.000 €, 20 % el resto (art. 33.2); bonificación del 100 % con valor de inmuebles en escritura no superior al valor de referencia + 20 % (art. 36)",
+   "grupo_III": "Reducción de 8.000 € (art. 21 c); tarifa general 7,65-34 % (art. 33.1); coeficiente 1,2706 (colaterales 2.º y 3.º por consanguinidad, ascendientes y descendientes por afinidad) o 1,6575 (colaterales por afinidad) hasta 400.000 € (art. 34); bonificación del 60 % para colaterales 2.º y 3.º por consanguinidad que no concurran con descendientes y 35 % el resto del grupo III (art. 36 bis, redacción Ley 6/2025, desde 25/07/2025)",
+   "grupo_IV": "Reducción de 1.000 € (art. 21 d); tarifa general; coeficiente 1,70 hasta 400.000 €; sin bonificación",
+   "vivienda_habitual": "Reducción del 100 % con límite de 270.151,20 € por sujeto pasivo (art. 23); cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años; mantenimiento 5 años; DA 5.ª y Orden 13/2026 (desde 14/06/2026): valores máximos de 331.859,70 € en Mallorca y Menorca y 378.211,68 € en Ibiza y Formentera",
+   "tarifa": "Propia: general 7,65-34 % (art. 33.1) y específica grupos I y II del 1 % al 20 % (art. 33.2)",
+   "patrimonio_preexistente": "Coeficientes propios (art. 34): tramos 0-400.000 / 400.000-2.000.000 / 2.000.000-4.000.000 / más; grupos I-II 1,0-1,2; III consanguinidad 1,2706-1,5247; III afinidad 1,6575-1,9550; IV 1,70-2,04",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses pedida en los 5 primeros (régimen estatal), con intereses de demora",
+   "organismo": "Agència Tributària de les Illes Balears (ATIB)",
+   "modelo": "Modelo 650 por heredero y modelo 660 (relación de bienes)",
+   "url_organismo": "https://www.atib.es/",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), 50 % por heredero, sin vivienda habitual ni ajuar. Base 100.000 €. Hijos: 100.000 - 25.000 = 75.000 €; tarifa grupos I y II 1 % = 750 €; coeficiente 1; bonificación 100 % -> 0 €. Sobrinos (sin descendientes del causante): 100.000 - 8.000 = 92.000 €; tarifa general: 9.180 € (hasta 80.000) + 12.000 x 16,15 % = 1.938 € -> 11.118 €; x 1,2706 = 14.126,53 €; bonificación 60 % -> 5.650,61 € por sobrino (11.301,22 € los dos)."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 21 (reducciones por parentesco), 23 (vivienda habitual 100 %, 270.151,20 €, 5 años), 33 (tarifas), 34 (coeficientes), 36 (bonificación 100 % grupos I y II, valor de referencia + 20 %), 36 bis (60 % y 35 % grupo III) y DA 5.ª (incremento por islas); texto consolidado, última actualización 13/06/2026",
+    "https://www.boe.es/eli/es-ib/dlg/2014/06/06/1/con"
+   ],
+   [
+    "Resumen 2026 de Baleares: reducciones, escalas, coeficientes, bonificaciones y cuantías por isla",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 en Baleares (Orden 5/2026, Ley 4/2026, Orden 13/2026): valores máximos por isla desde 14/06/2026",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Orden 13/2026 (BOIB 25/06/2026): Mallorca y Menorca 331.859,70 €, Ibiza y Formentera 378.211,68 €; aplicable a los artículos de la DA 5.ª, entre ellos el 23",
+    "https://intranet.caib.es/eboibfront/es/2026/12293/717053/orden-13-2026-del-consejero-de-economia-hacienda-e/xml"
+   ],
+   [
+    "Plazo de 6 meses, modelos 650 y 660 y oficinas de la ATIB (instrucciones del modelo 650)",
+    "https://www.atib.es/DescargaDocs/MODELO650CASTELLANOInstrucciones2016.pdf"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro en inmuebles, salvo valor declarado mayor (art. 9.3 LISD); ajuar doméstico del 3 % del caudal relicto (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales (grupo III 7.993,46 €; vivienda habitual 95 % con límite 122.606,47 € por sujeto pasivo, cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años), tarifa estatal 7,65-34 % y coeficientes 1,0 / 1,5882 / 2,0 hasta 402.678,11 € (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Efectos de la falta de presentación: no se admiten documentos en registros sin la nota de presentación (art. 33 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses (art. 67 RISD) y prórroga de 6 meses pedida en los 5 primeros, con intereses de demora (art. 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento hasta 5 anualidades con garantía si no hay efectivo en la herencia (arts. 82 y 83 RISD); vivienda habitual (art. 85 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27.2 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Normativa aplicable: comunidad de residencia habitual del causante, días de los 5 años anteriores (arts. 28.1.1.º b y 32.2 a de la Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: 6 meses prorrogables hasta un año (art. 110.2 b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: valor de adquisición de lo heredado = valor según normas del ISD, sin exceder el de mercado, más gastos y tributos inherentes (arts. 35 y 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": [
+   "Límite de la reducción por vivienda habitual en 2026: el art. 23 fija 270.151,20 € por heredero y la Orden 13/2026 eleva los valores máximos por isla (331.859,70 € y 378.211,68 €) para los artículos de la DA 5.ª, entre ellos el 23; sin embargo, el resumen de Hacienda dice que esta reducción se aplica solo a los primeros 270.151,20 €. En la página doy el límite general y remito a la ATIB",
+   "Coeficiente y bonificación exactos de sobrinos políticos (colaterales por afinidad): 1,6575 y 35 % según la ley; en la página solo digo que la bonificación baja al 35 % y el coeficiente sube"
+  ]
+ },
+ {
+  "slug": "impuesto-de-sucesiones-canarias",
+  "kind": "page",
+  "category": null,
+  "kicker": "Herencias en Canarias",
+  "h1": "Impuesto de sucesiones en Canarias: bonificación del 99,9 % y quién paga en 2026",
+  "sub": "En el impuesto de sucesiones en Canarias, hijos, cónyuge, padres, hermanos y sobrinos bonifican el 99,9 % de la cuota, así que pagan cantidades simbólicas. Solo los primos y las personas sin parentesco pagan el impuesto completo. Si heredas una parte de un piso y prefieres venderla, compramos tu cuota con fondos propios.",
+  "checks": [
+   "Bonificación de 2026 verificada",
+   "Ejemplo con hijos, sobrinos y primos",
+   "Compramos tu parte en las islas"
+  ],
+  "card_title": "¿Heredas una parte en Canarias?",
+  "card_text": "Dinos en qué isla está el inmueble y qué porcentaje tienes. Te damos precio por escrito en 48 horas, sin compromiso.",
+  "sections": [
+   {
+    "overline": "Lo esencial",
+    "h2": "Cómo funciona el impuesto de sucesiones en Canarias",
+    "type": "text",
+    "intro": [
+     "Cada heredero tributa por su parte. La base es el valor de lo que recibe, con el valor de referencia del Catastro en los inmuebles salvo que declares más, menos deudas y gastos deducibles. Además, Hacienda presume un ajuar doméstico del 3 %, que puedes rebatir.",
+     "Canarias no tiene tarifa propia ni coeficientes propios. Por tanto, se aplican la tarifa estatal, del 7,65 % al 34 %, y los coeficientes estatales, que dependen del parentesco y del patrimonio previo. Por ejemplo, un sobrino con menos de 402.678,11 € de patrimonio multiplica su cuota por 1,5882.",
+     "La clave está en la bonificación. Desde septiembre de 2023, los grupos I, II y III bonifican el 99,9 % de la cuota, sin límite de importe. Es decir, descendientes, cónyuge, ascendientes, hermanos, sobrinos, tíos y familia política pagan solo el 0,1 % de lo que saldría.",
+     "Por eso el impuesto de sucesiones en Canarias solo pesa de verdad en el grupo IV. Primos, parientes lejanos y personas sin parentesco no tienen reducción ni bonificación, y su coeficiente parte de 2. Las parejas de hecho, en cambio, se equiparan al cónyuge.",
+     "El impuesto de sucesiones en Canarias sigue estas reglas si el fallecido vivió en las islas la mayor parte de sus últimos cinco años, aunque el piso esté en otra comunidad."
+    ]
+   },
+   {
+    "overline": "Reducciones",
+    "h2": "Reducciones por parentesco y vivienda habitual",
+    "type": "cards",
+    "intro": [
+     "Antes de la bonificación, el impuesto de sucesiones en Canarias resta a cada grupo una cantidad fija de su base. Estas son las reducciones de la ley canaria."
+    ],
+    "items": [
+     {
+      "t": "Hijos y nietos menores de 21",
+      "p": "Reducen el 100 % de la base, con un tope según la edad: 138.650 € si tienen menos de 10 años y 40.400 € entre los 18 y los 21."
+     },
+     {
+      "t": "Cónyuge, hijos mayores y padres",
+      "p": "El cónyuge reduce 40.400 €; los hijos de 21 o más, 23.125 €, y el resto de descendientes y los ascendientes, 18.500 €."
+     },
+     {
+      "t": "Hermanos, sobrinos y tíos",
+      "p": "Reducen 9.300 €. Lo que queda tributa con la tarifa estatal, pero la bonificación del 99,9 % deja la cuota en casi nada."
+     },
+     {
+      "t": "Primos y extraños",
+      "p": "No reducen nada ni bonifican. Pagan la cuota completa, con un coeficiente desde 2."
+     },
+     {
+      "t": "Vivienda habitual del fallecido",
+      "p": "Reducción del 99 % con un límite de 200.000 € de valor de la vivienda, repartido entre los herederos. Vale para cónyuge, descendientes y colaterales mayores de 65 que convivieran dos años. La vivienda debe estar en Canarias y mantenerse 5 años.",
+      "url": "/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/",
+      "cta": "Reducciones y bonificaciones →"
+     }
+    ]
+   },
+   {
+    "overline": "Ejemplo",
+    "h2": "Ejemplo del impuesto de sucesiones en Canarias con un piso de 200.000 €",
+    "type": "steps",
+    "intro": [
+     "Un piso en Santa Cruz de Tenerife con un valor de referencia de 200.000 € se hereda al 50 %, sin otros bienes. Suponemos que no era la vivienda habitual del fallecido y dejamos fuera el <a href=\"/diccionario-del-proindiviso/ajuar-domestico/\">ajuar doméstico</a>. Las cifras son orientativas."
+    ],
+    "items": [
+     {
+      "t": "Dos hijos: unos 8,71 € cada uno",
+      "p": "Cada hijo resta 23.125 € a su base de 100.000 € y queda en 76.875 €. La tarifa estatal da 8.706,22 €, y la bonificación del 99,9 % la deja en 8,71 €."
+     },
+     {
+      "t": "Dos sobrinos: unos 17,33 € cada uno",
+      "p": "Restan 9.300 € y quedan 90.700 €. La cuota íntegra es de 10.913,41 €, que con el coeficiente 1,5882 sube a 17.332,68 €. Tras la bonificación, pagan 17,33 €."
+     },
+     {
+      "t": "Dos primos: unos 24.831 € cada uno",
+      "p": "Sin reducción, la base es de 100.000 € y la cuota íntegra, de 12.415,36 €. Con el coeficiente 2 y sin bonificación, cada primo paga 24.830,72 €."
+     },
+     {
+      "t": "Si era la vivienda habitual",
+      "p": "Los hijos sumarían la reducción del 99 % sobre su mitad del valor y la cuota quedaría en cero. A los sobrinos no les ayuda, salvo que tuvieran más de 65 años y convivieran con el fallecido."
+     }
+    ],
+    "outro": [
+     "En resumen, en el impuesto de sucesiones en Canarias el parentesco lo decide casi todo: el mismo piso cuesta unos pocos euros a la familia y casi 50.000 € a dos primos."
+    ]
+   },
+   {
+    "overline": "Resumen",
+    "h2": "Impuesto de sucesiones en Canarias: tabla de 2026",
+    "type": "table",
+    "intro": [
+     "Cifras del impuesto de sucesiones en Canarias vigentes en 2026, según el texto refundido de tributos cedidos. Las medidas fiscales aprobadas en 2026 no lo tocan."
+    ],
+    "items": [
+     [
+      "Concepto",
+      "Canarias en 2026"
+     ],
+     [
+      "Grupo I: descendientes menores de 21 años",
+      "Reducción del 100 % con un tope de 40.400 € a 138.650 € según la edad. Bonificación del 99,9 %."
+     ],
+     [
+      "Grupo II: hijos de 21 o más, cónyuge y ascendientes",
+      "Reducción de 23.125 € para hijos, 40.400 € para el cónyuge y 18.500 € para el resto. Bonificación del 99,9 %."
+     ],
+     [
+      "Grupo III: hermanos, sobrinos, tíos y familia política",
+      "Reducción de 9.300 €, tarifa estatal y bonificación del 99,9 % de la cuota."
+     ],
+     [
+      "Grupo IV: primos y extraños",
+      "Sin reducción ni bonificación. Tarifa estatal del 7,65 % al 34 % y coeficiente desde 2."
+     ],
+     [
+      "Vivienda habitual",
+      "Reducción del 99 % con un límite de 200.000 € de valor conjunto. Vivienda en Canarias y 5 años de mantenimiento."
+     ],
+     [
+      "Plazo",
+      "6 meses desde el fallecimiento, prorrogables otros 6 si lo pides en los 5 primeros."
+     ],
+     [
+      "Organismo y modelo",
+      "Agencia Tributaria Canaria. Modelo 660 de declaración y un modelo 650 por heredero."
+     ]
+    ]
+   },
+   {
+    "overline": "Trámites",
+    "h2": "Plazo, modelos y dónde presentar en Canarias",
+    "type": "list",
+    "intro": [
+     "La bonificación no te libra de declarar el impuesto de sucesiones en Canarias. Cada heredero debe presentar, aunque pague unos pocos euros."
+    ],
+    "items": [
+     "<strong>Plazo.</strong> Seis meses desde el fallecimiento. Dentro de los cinco primeros puedes pedir una prórroga de otros seis, con intereses de demora si hay cuota.",
+     "<strong>Dónde.</strong> En la Agencia Tributaria Canaria, por su sede electrónica o en sus oficinas de atención tributaria y delegaciones insulares. Ojo: el registro electrónico general no sirve para presentarlo.",
+     "<strong>Qué modelos.</strong> El modelo 660 con la relación de bienes genera un <a href=\"/diccionario-del-proindiviso/modelo-650/\">modelo 650</a> para cada heredero. Puedes presentarlos todos juntos.",
+     "<strong>Si te retrasas.</strong> El <a href=\"/diccionario-del-proindiviso/recargo-por-presentacion-fuera-de-plazo/\">recargo</a> es del 1 % más un 1 % por mes completo, y del 15 % pasado un año. Con cuotas tan pequeñas pesa poco, pero en el grupo IV duele.",
+     "<strong>Sin liquidez.</strong> Si heredas como primo o extraño y no tienes dinero, pide el <a href=\"/diccionario-del-proindiviso/aplazamiento-del-impuesto-de-sucesiones/\">aplazamiento o fraccionamiento</a> antes de que acabe el plazo."
+    ],
+    "outro": [
+     "Tienes el resto de conceptos en la entrada del <a href=\"/diccionario-del-proindiviso/impuesto-de-sucesiones/\">impuesto de sucesiones</a> y en la de la <a href=\"/diccionario-del-proindiviso/bonificacion-del-impuesto-de-sucesiones/\">bonificación del impuesto</a>."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Heredar una parte de una casa en Canarias",
+    "type": "text",
+    "intro": [
+     "Si heredáis entre varios, cada uno tributa por el valor de su cuota. Con la bonificación, el impuesto de sucesiones en Canarias rara vez es el problema; el problema es qué hacer después con un piso compartido.",
+     "Si uno quiere quedárselo, la vía es la <a href=\"/impuestos-del-proindiviso/extincion-de-condominio-canarias/\">extinción de condominio en Canarias</a>, en la que compensa al resto. Si no hay acuerdo, puedes <a href=\"/vender-parte-casa-heredada/\">vender tu parte de la casa heredada</a> por tu cuenta. Y con la herencia sin repartir, también puedes <a href=\"/vender-derechos-hereditarios/\">vender tus derechos hereditarios</a>.",
+     "No olvides la plusvalía municipal, que pagas al heredar salvo bonificación de tu ayuntamiento. Además, cuando vendas, el valor declarado en sucesiones será tu valor de adquisición en el IRPF. Estímalo con la <a href=\"/calculadora-impuestos-vender-tu-parte/\">calculadora de impuestos al vender tu parte</a>.",
+     "Si el viudo conserva el usufructo, los hijos tributan por la nuda propiedad, que puedes calcular con la <a href=\"/calculadora-nuda-propiedad/\">calculadora de nuda propiedad</a>. Y si aplicaste la reducción por vivienda habitual, venderla antes de cinco años puede obligarte a devolverla."
+    ]
+   },
+   {
+    "overline": "Sin liquidez",
+    "h2": "¿Y si no puedes pagar el impuesto de sucesiones en Canarias?",
+    "type": "callout",
+    "intro": [
+     "Para la familia, la cuota suele ser simbólica, pero quedan la notaría, el Registro y la plusvalía. Para primos y extraños, en cambio, el impuesto de sucesiones en Canarias puede superar los 20.000 €. En ambos casos tienes salidas: aplazar o fraccionar, aceptar a beneficio de inventario o vender tu parte.",
+     "Las detallamos en <a href=\"/blog/no-puedo-pagar-el-impuesto-de-sucesiones/\">qué hacer si no puedes pagar sucesiones</a>. Incluso puedes <a href=\"/blog/aceptar-la-herencia-y-vender-mi-parte-en-el-mismo-acto/\">aceptar la herencia y vender tu parte en el mismo acto</a>. Compramos en todas las islas: mira cómo <a href=\"/vender-proindiviso/canarias/\">vender un proindiviso en Canarias</a>."
+    ],
+    "items": {
+     "t": "Compramos tu parte de la herencia con fondos propios",
+     "p": "Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado. Notaría y gestión corren de nuestra cuenta, sin exclusividad.",
+     "cta": "Pedir precio por mi parte"
+    }
+   },
+   {
+    "overline": "Fuentes",
+    "h2": "Fuentes oficiales",
+    "type": "list",
+    "items": [
+     "<a href=\"https://www3.gobiernodecanarias.org/tributos/atc/\">Agencia Tributaria Canaria</a>. Información, oficinas y sede electrónica.",
+     "<a href=\"https://sede.gobiernodecanarias.org/sede/tramites/6095\">Sede del Gobierno de Canarias: presentación del modelo 650</a>. Plazo, prórroga, documentación y modelo 660.",
+     "<a href=\"https://www.boe.es/buscar/act.php?id=BOC-j-2009-90008\">Texto refundido de tributos cedidos de Canarias, Decreto Legislativo 1/2009 (BOE, consolidado)</a>. Reducciones y bonificación del 99,9 %.",
+     "<a href=\"https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf\">Ministerio de Hacienda: Tributación Autonómica, medidas 2026</a>. Resumen oficial de lo vigente en cada comunidad."
+    ]
+   }
+  ],
+  "faqs": [
+   [
+    "¿Cuánto paga un hijo por heredar un piso en Canarias?",
+    "Casi nada. Tras la reducción y la bonificación del 99,9 %, un hijo que hereda 100.000 € paga unos 8,71 €. Si el piso era la vivienda habitual del fallecido, la cuota puede quedarse en cero."
+   ],
+   [
+    "¿Pagan lo mismo los hermanos y los sobrinos?",
+    "Sí, los dos están en el grupo III y bonifican el 99,9 % de la cuota. Con 100.000 € heredados, un sobrino o un hermano paga unos 17 €. Quien sí paga de verdad es el grupo IV."
+   ],
+   [
+    "¿Cuánto tiempo tengo para presentar el impuesto de sucesiones en Canarias?",
+    "Seis meses desde el fallecimiento. Si pides la prórroga en los cinco primeros meses, tendrás seis más, aunque con intereses de demora sobre la cuota. Después del plazo se aplican recargos."
+   ],
+   [
+    "¿Quién paga más sucesiones en Canarias?",
+    "Los primos, los parientes de cuarto grado o más lejanos y las personas sin parentesco. No tienen reducción ni bonificación, y su coeficiente parte de 2. Por 100.000 € heredados pagarían unos 24.830 €."
+   ],
+   [
+    "¿Qué pasa si no puedo pagar el impuesto?",
+    "Puedes pedir aplazamiento o fraccionamiento a la Agencia Tributaria Canaria antes de que venza el plazo. Si prefieres no endeudarte, vende tu parte del inmueble: te damos precio por escrito en 48 horas."
+   ],
+   [
+    "¿Tengo que presentar el impuesto aunque salga casi a cero?",
+    "Sí. Debes presentar el modelo 660 y tu modelo 650 en plazo, aunque la cuota sea de pocos euros. Sin esa presentación no podrás inscribir tu parte en el Registro de la Propiedad."
+   ]
+  ],
+  "faq_title": "Preguntas sobre el impuesto de sucesiones en Canarias",
+  "related": [
+   [
+    "Vender un proindiviso en Canarias",
+    "/vender-proindiviso/canarias/"
+   ],
+   [
+    "Sucesiones en cada comunidad",
+    "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/"
+   ],
+   [
+    "Extinción de condominio en Canarias",
+    "/impuestos-del-proindiviso/extincion-de-condominio-canarias/"
+   ],
+   [
+    "Vender derechos hereditarios",
+    "/vender-derechos-hereditarios/"
+   ],
+   [
+    "Impuestos del proindiviso",
+    "/impuestos-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "¿Prefieres vender tu parte heredada en Canarias?",
+  "cta_text": "Compramos tu cuota con fondos propios. Precio por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Impuesto de sucesiones en Canarias: quién paga en 2026",
+  "meta_desc": "Impuesto de sucesiones en Canarias 2026: bonificación del 99,9 % para hijos, hermanos y sobrinos; quién paga de verdad y ejemplo. Te compramos tu parte.",
+  "focus_kw": "impuesto de sucesiones en Canarias",
+  "title_corto": "Sucesiones en Canarias",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, natural daylight, muted palette with dark blue and terracotta accents: a low white cube house with dark green window frames on volcanic land in the Canary Islands, black lava gravel fields with semicircular dry stone walls sheltering vines, a dark blue door, bright Atlantic light and a clear sky. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Impuesto de sucesiones en Canarias: casa blanca sobre tierra volcánica con muros de piedra",
+  "datos": {
+   "grupo_I": "Reducción del 100 % de la base con tope por edad: 138.650 € (menos de 10), 92.150 € (10-14), 57.650 € (15-17), 40.400 € (18-20) (art. 20 TR D.Leg. 1/2009); bonificación del 99,9 % (art. 24 ter)",
+   "grupo_II": "Reducción: cónyuge 40.400 €, hijos 23.125 €, resto de descendientes 18.500 €, ascendientes 18.500 € (art. 20); bonificación del 99,9 % sin límite (art. 24 ter, DL 5/2023, desde 06/09/2023); parejas de hecho equiparadas (art. 41)",
+   "grupo_III": "Reducción de 9.300 € (art. 20); tarifa y coeficientes estatales (1,5882 hasta 402.678,11 €); bonificación del 99,9 % (art. 24 ter)",
+   "grupo_IV": "Sin reducción; tarifa estatal; coeficiente 2,0 hasta 402.678,11 €; sin bonificación",
+   "vivienda_habitual": "Reducción del 99 % con límite de 200.000 € de valor conjunto de la vivienda, prorrateado entre sujetos pasivos; cónyuge, descendientes o adoptados y colaterales mayores de 65 convivientes 2 años; vivienda en Canarias; mantenimiento 5 años; aplicable a la vivienda anterior si el causante vivía en un centro residencial (art. 22 ter)",
+   "tarifa": "Estatal (art. 21 LISD): 7,65-34 %; Canarias no ha ejercido competencia",
+   "patrimonio_preexistente": "Coeficientes estatales (art. 22 LISD)",
+   "plazo": "6 meses desde el fallecimiento; prórroga de 6 meses pedida en los 5 primeros, con intereses de demora",
+   "organismo": "Agencia Tributaria Canaria (Administraciones de Tributos Cedidos de Las Palmas y de Santa Cruz de Tenerife; oficinas de atención tributaria y delegaciones insulares)",
+   "modelo": "Modelo 660 (declaración) que genera un modelo 650 por heredero; presentación telemática en la sede (no por registro electrónico general) o presencial",
+   "url_organismo": "https://www3.gobiernodecanarias.org/tributos/atc/",
+   "ejemplo": "Piso de 200.000 € (valor de referencia), 50 % por heredero, sin vivienda habitual ni ajuar. Base 100.000 €. Hijos: 100.000 - 23.125 = 76.875 €; tarifa estatal: 7.943,98 € (hasta 71.893,07) + 4.981,93 x 15,30 % = 762,24 € -> 8.706,22 €; coeficiente 1; bonificación 99,9 % -> 8,71 €. Sobrinos: 100.000 - 9.300 = 90.700 €; 9.166,06 € (hasta 79.880,52) + 10.819,48 x 16,15 % = 1.747,35 € -> 10.913,41 €; x 1,5882 = 17.332,68 €; 0,1 % -> 17,33 €. Primos: 100.000 €; 9.166,06 + 20.119,48 x 16,15 % = 3.249,30 € -> 12.415,36 €; x 2 = 24.830,72 € (49.661,44 € los dos). Con vivienda habitual, cada hijo reduce 99 % x 100.000 = 99.000 € -> base liquidable 0."
+  },
+  "fuentes_verificacion": [
+   [
+    "Arts. 20 (reducciones por parentesco), 22 ter (vivienda habitual 99 %, 200.000 € conjunto, 5 años, beneficiarios) y 24 ter (bonificación 99,9 % grupos I, II y III, DL 5/2023); texto consolidado, última actualización 29/12/2025",
+    "https://www.boe.es/buscar/act.php?id=BOC-j-2009-90008"
+   ],
+   [
+    "Resumen 2026 de Canarias: reducciones, vivienda habitual, tarifa y coeficientes estatales, bonificación 99,9 % desde 06/09/2023 sin límite",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-iv-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Novedades 2026 en Canarias (DL 5/2026): solo AJD, nada en sucesiones",
+    "https://www.hacienda.gob.es/sgfal/financiacionterritorial/autonomica/capitulo-ii-tributacion-autonomica-2026.pdf"
+   ],
+   [
+    "Organismo, plazo de 6 meses, prórroga en los 5 primeros, modelos 660 + 650, presentación telemática (el registro electrónico no vale) o presencial",
+    "https://sede.gobiernodecanarias.org/sede/tramites/6095"
+   ],
+   [
+    "Base imponible: valor de referencia del Catastro en inmuebles, salvo valor declarado mayor (art. 9.3 LISD); ajuar doméstico del 3 % del caudal relicto (art. 15 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Reducciones estatales (grupo III 7.993,46 €; vivienda habitual 95 % con límite 122.606,47 € por sujeto pasivo, cónyuge, ascendientes, descendientes o colateral mayor de 65 conviviente 2 años), tarifa estatal 7,65-34 % y coeficientes 1,0 / 1,5882 / 2,0 hasta 402.678,11 € (arts. 20, 21 y 22 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Efectos de la falta de presentación: no se admiten documentos en registros sin la nota de presentación (art. 33 LISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141"
+   ],
+   [
+    "Plazo de 6 meses (art. 67 RISD) y prórroga de 6 meses pedida en los 5 primeros, con intereses de demora (art. 68 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Aplazamiento hasta 1 año y fraccionamiento hasta 5 anualidades con garantía si no hay efectivo en la herencia (arts. 82 y 83 RISD); vivienda habitual (art. 85 RISD)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1991-27678"
+   ],
+   [
+    "Recargos por presentación extemporánea: 1 % + 1 % por mes completo; 15 % e intereses pasados 12 meses (art. 27.2 LGT)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186"
+   ],
+   [
+    "Normativa aplicable: comunidad de residencia habitual del causante, días de los 5 años anteriores (arts. 28.1.1.º b y 32.2 a de la Ley 22/2009)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375"
+   ],
+   [
+    "Plusvalía municipal por causa de muerte: 6 meses prorrogables hasta un año (art. 110.2 b TRLRHL)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214"
+   ],
+   [
+    "IRPF: valor de adquisición de lo heredado = valor según normas del ISD, sin exceder el de mercado, más gastos y tributos inherentes (arts. 35 y 36 LIRPF)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+   ]
+  ],
+  "dudas": []
+ }
+]
