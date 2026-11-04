@@ -2,7 +2,7 @@
 /* Zona Proindiviso — calculadora de nuda propiedad (snippet nuevo del 04/11/2026, global).
  *   [zp_calculadora_n] → valor fiscal del usufructo y de la nuda propiedad con las reglas del art. 26 de la Ley 29/1987 del ISD (las mismas
  *   del art. 10.2 del TR del ITP): usufructo vitalicio = 89 − edad del usufructuario, mínimo 10 %, máximo 70 %; usufructo temporal = 2 %
- *   por cada año, máximo 70 %; nuda propiedad = 100 % − usufructo; tu parte = nuda propiedad × tu porcentaje.
+ *   por cada año completo (menos de un año: 2 %, art. 49 del Reglamento), máximo 70 %; nuda propiedad = 100 % − usufructo; tu parte = nuda propiedad × tu porcentaje.
  *   Valores por defecto: 200.000 €, vitalicio, 75 años, 100 % → usufructo 28.000 € (14 %), nuda propiedad 172.000 € (86 %).
  * Va aparte de las calculadoras 2 (snippets 224/225): raíz .zpcn, marcador [[ZP_CALCN]] y su propio JS. Reutiliza las clases zpc-* cuyo
  * CSS imprime el snippet 170 porque «zp_calculadora_n» contiene «zp_calculadora». Sin «<script»/«<style» literales (WAF de Hostinger).
@@ -24,7 +24,7 @@ function zp_calcn_html() {
 		. $campo( 'zpn-tipo', 'Tipo de usufructo', $sel, 'El del viudo o viuda suele ser vitalicio.' )
 		. $campo( 'zpn-edad', 'Edad del usufructuario', $num( 'zpn-edad', 75, 0, 1, 'años' ), 'Años cumplidos en la fecha que se valora: fallecimiento, donación o venta.', 'zpn-edad-c' )
 		. $campo( 'zpn-anos', 'Duración del usufructo', $num( 'zpn-anos', 10, 0, 1, 'años' ), 'Años completos que dura el usufructo.', 'zpn-anos-c' )
-		. $campo( 'zpn-pct', 'Tu porcentaje de la nuda propiedad', $num( 'zpn-pct', 100, 0, 1, '%' ), 'Si sois dos hermanos a partes iguales, pon 50.' );
+		. $campo( 'zpn-pct', 'Tu porcentaje de la nuda propiedad', $num( 'zpn-pct', 100, 0, 0.01, '%' ), 'Si sois dos hermanos a partes iguales, pon 50.' );
 	$res = $lt . 'div class="zpc-res">' . $r( 'zpn-usu', 'Valor del usufructo' ) . $r( 'zpn-nuda', 'Valor de la nuda propiedad', 'zpc-r-teo' ) . $r( 'zpn-tuya', 'Tu parte de la nuda propiedad', 'zpc-r-ok' ) . $lt . '/div>'
 		. $lt . 'p class="zpc-nota">Cálculo orientativo con las reglas del artículo 26 de la Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones, que también usa el ITP. Es el valor fiscal: el precio de mercado de una nuda propiedad depende de la esperanza de vida y del comprador, y suele ser menor. País Vasco y Navarra pueden tener reglas forales propias. Si quieres vender tu nuda propiedad o tu parte, ' . $lt . 'a href="' . $pop . '">pídenos oferta por escrito en 48 horas' . $lt . '/a>.' . $lt . '/p>';
 	return $lt . 'div class="zpcn" data-calcn="nuda">' . $lt . 'form class="zpc-form" onsubmit="return false" autocomplete="off">' . $form . $lt . '/form>' . $res . $lt . '/div>';
@@ -56,7 +56,7 @@ var q=function(id){return root.querySelector("#"+id)},num=function(id){var v=par
 function run(ev){
 var V=Math.max(0,num("zpn-valor")),tipo=q("zpn-tipo").value,pct=Math.min(100,Math.max(0,num("zpn-pct")))/100,u,fu;
 q("zpn-edad-c").hidden=tipo!=="vitalicio";q("zpn-anos-c").hidden=tipo!=="temporal";
-if(tipo==="temporal"){var a=Math.max(0,Math.floor(num("zpn-anos")));u=Math.min(70,2*a);fu=a+(a===1?" año":" años")+" × 2 % = "+(2*a)+" %"+(2*a>70?"; se aplica el máximo del 70 %":"")+".";}
+if(tipo==="temporal"){var a=Math.max(0,Math.floor(num("zpn-anos")));if(a<1){u=2;fu="Menos de un año: 2 % (las fracciones de año no cuentan; un usufructo de menos de un año vale el 2 %).";}else{u=Math.min(70,2*a);fu=a+(a===1?" año":" años")+" × 2 % = "+(2*a)+" %"+(2*a>70?"; se aplica el máximo del 70 %":"")+".";}}
 else{var ed=Math.max(0,Math.floor(num("zpn-edad"))),raw=89-ed;u=Math.min(70,Math.max(10,raw));fu="89 − "+ed+" años = "+raw+" %"+(raw>70?"; se aplica el máximo del 70 %":(raw<10?"; se aplica el mínimo del 10 %":""))+".";}
 var n=100-u,vn=V*n/100;
 set("zpn-usu",E(V*u/100)+" ("+u+" %)");set("zpn-usu-f",fu);

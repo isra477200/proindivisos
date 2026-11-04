@@ -1,0 +1,304 @@
+[
+ {
+  "slug": "calculadora-nuda-propiedad",
+  "kind": "page",
+  "category": null,
+  "kicker": "Calculadora fiscal",
+  "h1": "Calculadora de nuda propiedad: valor del usufructo por edad, tabla y ejemplos",
+  "sub": "La calculadora de nuda propiedad te da en segundos el valor fiscal del usufructo y de la nuda propiedad. El usufructo vitalicio vale 89 menos la edad del usufructuario y la nuda propiedad, el resto. Si quieres vender tu nuda propiedad o tu parte, te damos precio por escrito en 48 horas.",
+  "checks": [
+   "Regla legal del artículo 26",
+   "Usufructo vitalicio o temporal",
+   "Oferta en 48 horas"
+  ],
+  "card_title": "¿Quieres vender tu nuda propiedad?",
+  "card_text": "Te damos precio por escrito en 48 horas por la nuda propiedad entera o por tu parte. Sin compromiso y sin pedir permiso al usufructuario.",
+  "sections": [
+   {
+    "overline": "Herramienta",
+    "h2": "Usa la calculadora de nuda propiedad gratis",
+    "type": "tool",
+    "intro": [
+     "Pon el valor del inmueble, el tipo de usufructo, la edad o los años que dura y tu porcentaje. Al instante, la calculadora de nuda propiedad te da tres cifras: el usufructo, la nuda propiedad y tu parte. Debajo de cada una verás la cuenta."
+    ],
+    "shortcode": "[zp_calculadora_n]"
+   },
+   {
+    "overline": "La fórmula",
+    "h2": "Cómo se calcula el valor de la nuda propiedad",
+    "type": "list",
+    "intro": [
+     "La nuda propiedad se calcula por diferencia. Primero se valora el usufructo como un porcentaje del valor total. Después se resta, y lo que queda hasta el 100 % es la nuda propiedad. La calculadora de nuda propiedad aplica estas cuatro reglas."
+    ],
+    "items": [
+     "<strong>Usufructo vitalicio.</strong> Vale 89 menos la edad del usufructuario, en porcentaje. Nunca pasa del 70 %, que es su valor con menos de 20 años. Tampoco baja del 10 %, al que se llega a los 79.",
+     "<strong>Usufructo temporal.</strong> Vale un 2 % por cada año completo de duración, con un máximo del 70 %. Así, 10 años valen el 20 %, y 35 años o más, el 70 %.",
+     "<strong>Nuda propiedad.</strong> Es el valor total menos el usufructo. Por eso, entre los 20 y los 79 años, vale 11 más la edad: con 75 años, el 86 %.",
+     "<strong>Tu parte.</strong> Si la nuda propiedad es de varios, se multiplica por tu porcentaje. Con dos hermanos a medias, cada uno pone 50."
+    ],
+    "outro": [
+     "La base legal es el <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141#a26\">artículo 26.a de la Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones</a>. Dice que el vitalicio vale el 70 % «cuando el usufructuario cuente menos de veinte años». Luego baja un 1 % por año, «con el límite mínimo del 10 por 100». El ITP repite la regla en el <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359#a10\">artículo 10.5.a de su texto refundido (Real Decreto Legislativo 1/1993)</a>. Hasta julio de 2021 era el 10.2.",
+     "Además, el Reglamento de Sucesiones y Donaciones (artículo 49) no computa las fracciones de año. Eso sí, un usufructo de menos de un año vale el 2 %: en la calculadora, pon 1. Y si es vitalicio y temporal a la vez, se aplica la regla que da menos valor a la nuda propiedad."
+    ]
+   },
+   {
+    "overline": "Tabla por edades",
+    "h2": "Tabla de la nuda propiedad por edad: coeficientes y descuento",
+    "type": "table",
+    "intro": [
+     "Esta tabla aplica la regla del usufructo vitalicio a las edades más consultadas. El porcentaje del usufructo es el descuento que tiene la nuda propiedad sobre el pleno dominio. La última columna lo pasa a euros para un piso de 200.000 €."
+    ],
+    "items": [
+     [
+      "Edad del usufructuario",
+      "Usufructo",
+      "Nuda propiedad",
+      "Nuda propiedad de un piso de 200.000 €"
+     ],
+     [
+      "Menos de 20 años",
+      "70 %",
+      "30 %",
+      "60.000 €"
+     ],
+     [
+      "20 años",
+      "69 %",
+      "31 %",
+      "62.000 €"
+     ],
+     [
+      "30 años",
+      "59 %",
+      "41 %",
+      "82.000 €"
+     ],
+     [
+      "40 años",
+      "49 %",
+      "51 %",
+      "102.000 €"
+     ],
+     [
+      "50 años",
+      "39 %",
+      "61 %",
+      "122.000 €"
+     ],
+     [
+      "60 años",
+      "29 %",
+      "71 %",
+      "142.000 €"
+     ],
+     [
+      "65 años",
+      "24 %",
+      "76 %",
+      "152.000 €"
+     ],
+     [
+      "70 años",
+      "19 %",
+      "81 %",
+      "162.000 €"
+     ],
+     [
+      "75 años",
+      "14 %",
+      "86 %",
+      "172.000 €"
+     ],
+     [
+      "79 años o más",
+      "10 %",
+      "90 %",
+      "180.000 €"
+     ]
+    ],
+    "outro": [
+     "Para una edad intermedia, resta la edad a 89. Con 68 años, por ejemplo, el usufructo vale el 21 % y la nuda propiedad, el 79 %. Desde los 79 años la tabla se congela en el 10 % y el 90 %, porque la ley fija ese mínimo. Por eso, con 80 o con 95 años, la calculadora de nuda propiedad da lo mismo.",
+     "Ojo: esta es la regla del territorio común. País Vasco y Navarra tienen normas forales. En Navarra y en Bizkaia el vitalicio se valora igual; en cambio, Navarra fija un 10 % para todo usufructo temporal de hasta cinco años."
+    ]
+   },
+   {
+    "overline": "Ejemplos",
+    "h2": "Cuánto vale la nuda propiedad de tu casa: tres ejemplos",
+    "type": "cards",
+    "intro": [
+     "Tres casos con cifras redondas. Puedes repetirlos en la calculadora de nuda propiedad cambiando solo los campos que se indican."
+    ],
+    "items": [
+     {
+      "t": "Vitalicio: piso de 200.000 € y usufructuaria de 75 años",
+      "p": "Son los valores por defecto. Con ellos se abre la calculadora de nuda propiedad. El usufructo vale 89 menos 75, es decir, el 14 %: 28.000 €. La nuda propiedad vale el 86 %: 172.000 €. Como tu porcentaje es el 100 %, tu parte coincide con la nuda propiedad entera."
+     },
+     {
+      "t": "Temporal: usufructo de 10 años sobre el mismo piso",
+      "p": "Cambia el tipo a «Temporal» y deja 10 años. El usufructo vale 10 por 2, el 20 %: 40.000 €. La nuda propiedad vale el 80 %: 160.000 €. Aquí la edad del usufructuario no cuenta."
+     },
+     {
+      "t": "Dos hermanos y la madre viuda usufructuaria",
+      "p": "El padre tenía la mitad de un piso ganancial de 200.000 €. Deja a la madre, de 70 años, el usufructo de esa mitad. Ella ya es dueña de la otra, así que se valoran 100.000 €. El usufructo vale el 19 %: 19.000 €. La nuda propiedad vale 81.000 € y cada hermano, con su 50 %, tiene 40.500 €. Si el piso era solo del padre, pon 200.000 €: 81.000 € para cada uno."
+     }
+    ],
+    "outro": [
+     "En los tres casos hablamos de valores fiscales. Lo que pagaría un comprador es otra cifra, como verás más abajo."
+    ]
+   },
+   {
+    "overline": "Impuestos",
+    "h2": "Para qué sirve este valor: sucesiones, consolidación, ITP e IRPF",
+    "type": "list",
+    "intro": [
+     "Hacienda usa el valor que da la calculadora de nuda propiedad en cuatro momentos. Es orientativo: las reducciones y bonificaciones cambian por comunidad autónoma."
+    ],
+    "items": [
+     "<strong>Al heredar o recibir en donación la nuda propiedad.</strong> Pagas solo por el valor de la nuda propiedad. Eso sí, con el tipo medio que correspondería al pleno dominio (artículo 26.a).",
+     "<strong>Al fallecer el usufructuario.</strong> Su usufructo se extingue y pasas a tener el pleno dominio: es la <a href=\"/diccionario-del-proindiviso/consolidacion-del-dominio/\">consolidación del dominio</a>. No es una herencia suya, pero tributa. El artículo 26.c lo explica: «en la extinción del usufructo se exigirá el impuesto según el título de constitución». Es decir, pagas por el valor que se dio al usufructo al constituirse. El tipo medio es el mismo que te aplicaron con la nuda propiedad. Además, restas la reducción que no agotaste (artículo 51.2 del Reglamento). El plazo es de seis meses desde el fallecimiento.",
+     "<strong>Al comprar o vender una nuda propiedad.</strong> El comprador paga el ITP de su comunidad sobre el valor de la nuda propiedad. Si el precio es mayor, sobre el precio. Si se vende antes de la consolidación, tributará el nuevo nudo propietario cuando llegue. Lo hará con la escala del título que separó el dominio (artículo 51.3 del Reglamento).",
+     "<strong>Al vender, en el IRPF.</strong> Tu valor de adquisición es el que declaraste al heredar o en la donación, más el impuesto y los gastos. Si el usufructo ya se extinguió, se suma el valor por el que tributaste al consolidar."
+    ],
+    "outro": [
+     "Volvamos a los dos hermanos: el usufructo de la madre se valoró en 19.000 €. Cuando ella fallezca, cada uno tributará por 9.500 €, con el tipo medio de la herencia del padre. Da igual que el piso valga más. Su propia mitad, en cambio, será otra herencia."
+    ]
+   },
+   {
+    "overline": "Valor fiscal y precio",
+    "h2": "A qué edad se puede vender la nuda propiedad y por cuánto",
+    "type": "text",
+    "intro": [
+     "A cualquier edad del usufructuario. El artículo 489 del Código Civil permite al nudo propietario vender sin su permiso. Eso sí, sin perjudicar su derecho. El usufructo sigue intacto: quien vive en la casa sigue en ella. Y el comprador espera a la consolidación para tener el pleno dominio.",
+     "Otra cosa es el precio. La calculadora de nuda propiedad da el valor fiscal, una convención para liquidar impuestos. En cambio, quien compra calcula cuántos años esperará según la esperanza de vida del usufructuario. También calcula cuánto le cuesta inmovilizar el dinero con los tipos de interés actuales. Y mira el estado del inmueble, porque las reparaciones extraordinarias son del nudo propietario (artículo 501). El usufructuario, por su parte, paga las ordinarias y el IBI. Por eso el precio de mercado suele quedar por debajo del valor fiscal, sobre todo con usufructuarios jóvenes.",
+     "Si quieres verlo con más cifras, lo desarrollamos en <a href=\"/blog/cuanto-vale-la-nuda-propiedad-calculo/\">cuánto vale la nuda propiedad y cómo se calcula</a>. Y si ya lo tienes decidido, en <a href=\"/vender-nuda-propiedad/\">vender la nuda propiedad</a> te contamos cómo la compramos."
+    ]
+   },
+   {
+    "overline": "Proindiviso",
+    "h2": "Varios hermanos nudos propietarios y un viudo usufructuario",
+    "type": "cards",
+    "intro": [
+     "Es el caso más frecuente. Al morir un padre, el viudo recibe el <a href=\"/diccionario-del-proindiviso/usufructo-viudal/\">usufructo viudal</a> o el que le deje el testamento. Los hijos, mientras, comparten la nuda propiedad. Cada hijo puede calcular su parte con la calculadora de nuda propiedad. Para salir de esa situación hay cuatro vías."
+    ],
+    "items": [
+     {
+      "t": "Vender tu parte de la nuda propiedad",
+      "p": "Es la vía más rápida. El artículo 399 del Código Civil te deja vender tu cuota sin permiso de tus hermanos ni del usufructuario. Ellos tienen retracto de comuneros: pueden quedársela al mismo precio en nueve días (artículos 1522 y 1524).",
+      "url": "/blog/puedo-vender-la-casa-de-mi-madre-con-usufructo/",
+      "cta": "Vender con la madre usufructuaria →"
+     },
+     {
+      "t": "Vender la casa entera con el usufructuario",
+      "p": "Hace falta que firméis todos, incluido el viudo. Así se vende el pleno dominio y el precio se reparte. Lo habitual es repartir con la tabla. Con un viudo de 75 años, él cobra el 14 % de lo que estaba en usufructo, y los hijos, el 86 %.",
+      "url": "/blog/testamento-con-usufructo-universal-puede-vender-el-viudo/",
+      "cta": "¿Puede vender el viudo? →"
+     },
+     {
+      "t": "Conmutar el usufructo o renunciar a él",
+      "p": "Es una salida pactada. Los herederos pueden pagar al viudo su usufructo legal con una renta, unos bienes o dinero (artículo 839). Si el viudo renuncia después de aceptarlo, Hacienda lo trata como una donación (artículo 51.6 del Reglamento).",
+      "url": "/diccionario-del-proindiviso/conmutacion-del-usufructo/",
+      "cta": "Qué es la conmutación →"
+     },
+     {
+      "t": "Extinguir el condominio entre hermanos",
+      "p": "Un hermano compra a los demás su parte y se queda toda la nuda propiedad. El usufructo sigue igual. Hace falta acuerdo y dinero, y las partes se valoran con la misma regla."
+     }
+    ]
+   },
+   {
+    "overline": "Errores habituales",
+    "h2": "Errores frecuentes al hacer el cálculo",
+    "type": "list",
+    "intro": [
+     "Estos son los fallos que más vemos en las cifras que nos traen. Revísalos antes de usar la calculadora de nuda propiedad en una autoliquidación o en una negociación."
+    ],
+    "items": [
+     "<strong>Usar la edad equivocada.</strong> Cuenta la edad cumplida el día que se valora. Es el del fallecimiento, el de la donación o el de la venta. Si valoras una herencia de hace años, no uses la edad de hoy.",
+     "<strong>Aplicar la tabla de edades a un usufructo temporal.</strong> Si el usufructo dura unos años, la edad no cuenta: es un 2 % por año. Si es vitalicio y temporal a la vez, calcula los dos y quédate con el usufructo mayor.",
+     "<strong>Confundir valores.</strong> El valor catastral del recibo del IBI no sirve. Para sucesiones, donaciones e ITP se toma el valor de referencia del Catastro, o el declarado si es mayor. Lo dicen el artículo 9.3 de la Ley 29/1987 y el 10.2 del texto refundido del ITP. Y ninguno de los dos es el precio de mercado.",
+     "<strong>Olvidar a los demás nudos propietarios.</strong> Si sois tres hermanos, tu parte es un tercio: pon 33 en tu porcentaje, no 100.",
+     "<strong>Olvidar los gananciales.</strong> Si el piso era ganancial, el viudo ya es dueño de su mitad. Entonces el usufructo y la nuda propiedad recaen solo sobre la otra mitad. Ese es el valor que debes poner.",
+     "<strong>Confundir usufructo con uso o habitación.</strong> Estos derechos se valoran con la misma regla, pero sobre el 75 % del valor del bien (artículo 26.b)."
+    ]
+   },
+   {
+    "overline": "Te la compramos",
+    "h2": "Si quieres vender, te damos precio en 48 horas",
+    "type": "callout",
+    "intro": [
+     "Si la calculadora de nuda propiedad te anima a vender, no hace falta esperar ni poner a todos de acuerdo. Compramos nudas propiedades enteras y partes de nuda propiedad con fondos propios, en toda España. El usufructuario sigue en casa. Pagamos entre el 40 % y el 70 % del valor proporcional, según la edad del usufructuario, la ciudad y el inmueble."
+    ],
+    "items": {
+     "t": "Precio por escrito en 48 horas",
+     "p": "Dinos dónde está el inmueble, la edad del usufructuario y tu porcentaje. Te damos una oferta por escrito en 48 horas. Firmamos en notaría en 2 a 4 semanas y pagamos al contado. Sin exclusividad y sin compromiso.",
+     "cta": "Pedir precio por mi nuda propiedad"
+    }
+   }
+  ],
+  "faqs": [
+   [
+    "¿A qué edad se puede vender la nuda propiedad?",
+    "A cualquier edad del usufructuario. La ley no fija ninguna edad mínima: el artículo 489 del Código Civil permite al nudo propietario vender sin su permiso. La edad solo cambia el valor, porque con un usufructuario joven la nuda propiedad vale menos y el comprador espera más."
+   ],
+   [
+    "¿Qué coeficiente se aplica a la nuda propiedad?",
+    "No hay un coeficiente fijo: se calcula restando el usufructo al valor total. En un vitalicio, la nuda propiedad vale 11 más la edad del usufructuario, con un mínimo del 30 % y un máximo del 90 %. En un temporal, el 100 % menos un 2 % por cada año, nunca por debajo del 30 %."
+   ],
+   [
+    "¿Cuánto vale la nuda propiedad de un piso si mi madre tiene 80 años?",
+    "El 90 % del valor del piso. Con 80 años, 89 menos 80 da un 9 %, pero el usufructo nunca baja del 10 %, así que la nuda propiedad se queda en el 90 %. En un piso de 200.000 € son 180.000 €, y 90.000 € para cada uno si sois dos hermanos."
+   ],
+   [
+    "¿Qué descuento tiene la nuda propiedad por la edad del usufructuario?",
+    "El descuento fiscal es el valor del usufructo: 89 menos la edad, entre el 10 % y el 70 %. Con 60 años es un 29 %; con 75, un 14 %. En el mercado el descuento real es mayor, porque el comprador también descuenta la espera, el dinero inmovilizado y el estado del inmueble."
+   ],
+   [
+    "¿Cómo se calcula la nuda propiedad en un usufructo temporal?",
+    "Con un 2 % por cada año completo de duración, hasta un máximo del 70 %, y el resto es nuda propiedad. Un usufructo de 10 años vale el 20 % y la nuda propiedad, el 80 %. En la calculadora de nuda propiedad, elige «Temporal» y escribe los años en «Duración del usufructo»."
+   ],
+   [
+    "¿Qué se paga cuando fallece el usufructuario?",
+    "El nudo propietario consolida el pleno dominio y tributa por el usufructo que se extingue, según el título con el que se constituyó. La base es el valor que se dio al usufructo entonces, con el mismo tipo medio (artículo 26.c de la Ley 29/1987 y 51.2 de su Reglamento). Se presenta en seis meses y la cuota depende de tu comunidad autónoma."
+   ],
+   [
+    "¿Sirve la calculadora en País Vasco y Navarra?",
+    "Sirve como orientación, pero allí mandan las normas forales. El usufructo vitalicio se valora igual en Navarra y en Bizkaia; en cambio, Navarra fija un 10 % para todo usufructo temporal de hasta cinco años y grava la consolidación con el valor de ese momento. Consulta tu caso con un asesor de tu territorio."
+   ],
+   [
+    "¿Lo que da la calculadora es lo que me pagarán si vendo?",
+    "No. La calculadora de nuda propiedad da el valor fiscal, que sirve para los impuestos. Un comprador paga menos, sobre todo por una parte de nuda propiedad, porque no podrá usar el inmueble hasta la consolidación ni venderlo entero sin acuerdo. Nosotros te damos el precio real por escrito en 48 horas."
+   ]
+  ],
+  "faq_title": "Preguntas sobre la calculadora de nuda propiedad",
+  "related": [
+   [
+    "Calculadora de impuestos al vender tu parte",
+    "/calculadora-impuestos-vender-tu-parte/"
+   ],
+   [
+    "Cuánto vale mi parte de un piso",
+    "/cuanto-vale-mi-parte-de-un-piso/"
+   ],
+   [
+    "Simulador de extinción de condominio",
+    "/simulador-extincion-de-condominio/"
+   ],
+   [
+    "Vender la nuda propiedad",
+    "/vender-nuda-propiedad/"
+   ],
+   [
+    "Impuestos del proindiviso por comunidad",
+    "/impuestos-del-proindiviso/"
+   ]
+  ],
+  "cta_title": "Ya sabes cuánto vale tu nuda propiedad: pide precio en firme",
+  "cta_text": "Compramos nudas propiedades y partes de nuda propiedad con fondos propios en toda España. Oferta por escrito en 48 horas, firma en notaría en 2-4 semanas y pago al contado.",
+  "yoast_title": "Calculadora de nuda propiedad y usufructo: tabla por edad",
+  "meta_desc": "Calculadora de nuda propiedad gratis: valor del usufructo por edad, tabla y ejemplos con la regla legal. ¿Quieres vender tu parte? Precio en 48 horas.",
+  "focus_kw": "calculadora de nuda propiedad",
+  "title_corto": "Calculadora de nuda propiedad",
+  "imagen_prompt": "Editorial real estate photograph, Spain, 16:9, 35 mm lens, soft natural morning light, muted palette with dark blue and terracotta accents: the living room of a traditional Spanish apartment with an empty upholstered armchair beside a tall window with half-open wooden shutters and sheer curtains, a set of house keys resting on a solid wooden side table, a ceramic jug with dried olive branches, terracotta floor tiles, calm lived-in atmosphere. No people, no visible faces, no text, no letters, no numbers, no signs, no logos, no watermark, no documents, no calendars, no maps.",
+  "imagen_alt": "Calculadora de nuda propiedad: llaves, carpeta de escrituras y calculadora en el salón de una vivienda"
+ }
+]
