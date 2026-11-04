@@ -1283,9 +1283,9 @@
     "type": "text",
     "intro": [
      "Cada heredero tributa por su parte. La base es el valor de lo que recibe, con el valor de referencia del Catastro en los inmuebles salvo que declares más, menos deudas y gastos deducibles. Además, Hacienda presume un ajuar doméstico del 3 %, que puedes rebatir.",
-     "Canarias no tiene tarifa propia ni coeficientes propios. Por tanto, se aplican la tarifa estatal, del 7,65 % al 34 %, y los coeficientes estatales, que dependen del parentesco y del patrimonio previo. Por ejemplo, un sobrino con menos de 402.678,11 € de patrimonio multiplica su cuota por 1,5882.",
-     "La clave está en la bonificación. Desde septiembre de 2023, los grupos I, II y III bonifican el 99,9 % de la cuota, sin límite de importe. Es decir, descendientes, cónyuge, ascendientes, hermanos, sobrinos, tíos y familia política pagan solo el 0,1 % de lo que saldría.",
-     "Por eso el impuesto de sucesiones en Canarias solo pesa de verdad en el grupo IV. Primos, parientes lejanos y personas sin parentesco no tienen reducción ni bonificación, y su coeficiente parte de 2. Las parejas de hecho, en cambio, se equiparan al cónyuge.",
+     "Además, canarias no tiene tarifa propia ni coeficientes propios. Por tanto, se aplican la tarifa estatal, del 7,65 % al 34 %, y los coeficientes estatales, que dependen del parentesco y del patrimonio previo. Por ejemplo, un sobrino con menos de 402.678,11 € de patrimonio multiplica su cuota por 1,5882.",
+     "De hecho, la clave está en la bonificación. En concreto, desde septiembre de 2023, los grupos I, II y III bonifican el 99,9 % de la cuota, sin límite de importe. Es decir, descendientes, cónyuge, ascendientes, hermanos, sobrinos, tíos y familia política pagan solo el 0,1 % de lo que saldría.",
+     "Por eso el impuesto de sucesiones en Canarias solo pesa de verdad en el grupo IV. Asimismo, primos, parientes lejanos y personas sin parentesco no tienen reducción ni bonificación, y su coeficiente parte de 2. Las parejas de hecho, en cambio, se equiparan al cónyuge.",
      "El impuesto de sucesiones en Canarias sigue estas reglas si el fallecido vivió en las islas la mayor parte de sus últimos cinco años, aunque el piso esté en otra comunidad."
     ]
    },
@@ -1294,7 +1294,7 @@
     "h2": "Reducciones por parentesco y vivienda habitual",
     "type": "cards",
     "intro": [
-     "Antes de la bonificación, el impuesto de sucesiones en Canarias resta a cada grupo una cantidad fija de su base. Estas son las reducciones de la ley canaria."
+     "Antes de la bonificación, el impuesto de sucesiones en Canarias resta a cada grupo una cantidad fija de su base. Por otra parte, estas son las reducciones de la ley canaria."
     ],
     "items": [
      {
@@ -1307,11 +1307,11 @@
      },
      {
       "t": "Hermanos, sobrinos y tíos",
-      "p": "Reducen 9.300 €. Lo que queda tributa con la tarifa estatal, pero la bonificación del 99,9 % deja la cuota en casi nada."
+      "p": "Además, reducen 9.300 €. Lo que queda tributa con la tarifa estatal, pero la bonificación del 99,9 % deja la cuota en casi nada."
      },
      {
       "t": "Primos y extraños",
-      "p": "No reducen nada ni bonifican. Pagan la cuota completa, con un coeficiente desde 2."
+      "p": "De hecho, no reducen nada ni bonifican. Pagan la cuota completa, con un coeficiente desde 2."
      },
      {
       "t": "Vivienda habitual del fallecido",
