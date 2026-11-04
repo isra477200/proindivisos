@@ -14,8 +14,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 IMGDIR = os.environ.get('ZP_IMGDIR', '/tmp/claude-0/-home-claude/465a46cd-02da-53eb-bb5e-39c7569fb424/scratchpad/img')
 CFG = {
     'fiscal': {'hub': 'impuestos-del-proindiviso', 'files': ['fiscal_hub.json', 'fiscal_1.json', 'fiscal_2.json', 'fiscal_3.json'], 'pref': 'impuestos-proindiviso-'},
-    'modelos': {'hub': 'modelos-documentos-proindiviso', 'files': ['modelos.json'], 'pref': 'imagen-'},
-    'herramientas': {'hub': None, 'files': ['herramientas.json'], 'pref': 'imagen-'},
+    'modelos': {'hub': 'modelos-documentos-proindiviso', 'files': ['modelos.json', 'modelos2.json'], 'pref': 'imagen-'},
+    'herramientas': {'hub': None, 'files': ['herramientas.json', 'nuda.json'], 'pref': 'imagen-'},
+    'sucesiones': {'hub': 'impuesto-de-sucesiones-por-comunidad', 'parent': 'impuestos-del-proindiviso',
+                   'files': ['suc_hub.json', 'suc_1.json', 'suc_2.json', 'suc_3.json', 'suc_4.json'], 'pref': 'impuesto-sucesiones-'},
     'faq': {'hub': None, 'files': ['faq.json'], 'pref': 'imagen-'},
 }
 env = {}
@@ -75,6 +77,7 @@ def main():
             man.append({'key': s['slug'], 'kind': 'page', 'post_id': 0, 'filename': (c['pref'] + s['slug'])[:70] + '.webp', 'title': s['h1'][:120], 'alt': s['imagen_alt'], 'prompt': s['imagen_prompt']})
         json.dump(man, open(os.path.join(IMGDIR, MF), 'w'), ensure_ascii=False, indent=1)
         keys = [s['slug'] for s in S]
+        if '--solo-manifiesto' in args: print('manifiesto', MF, len(man)); return
         r = subprocess.run(['python3', 'gen.py'] + keys, cwd=IMGDIR, env={**os.environ, 'MANIFEST': MF}, capture_output=True, text=True); print(r.stdout[-400:])
         r = subprocess.run(['python3', 'upload.py'] + [k for k in keys if k not in json.load(open(MAP_F))] if os.path.exists(MAP_F) else ['python3', 'upload.py'] + keys,
                            cwd=IMGDIR, env={**os.environ, 'MANIFEST': MF}, capture_output=True, text=True); print(r.stdout[-400:])
@@ -85,7 +88,10 @@ def main():
         if not pid: print('SIN ID', s['slug']); continue
         es_hub = c['hub'] and s['slug'] == c['hub']
         if es_hub: hub_id = pid
-        elif c['hub']:
+        if c.get('parent'):  # sección plana: índice e hijas cuelgan todas del mismo padre (p. ej. /impuestos-del-proindiviso/)
+            par_id = ids.get(c['parent']) or b.ensure({'slug': c['parent'], 'kind': 'page', 'title_corto': c['parent']}, ids)
+            b.api('POST', f'/wp/v2/pages/{pid}', {'parent': par_id})
+        elif c['hub'] and not es_hub:
             if hub_id is None: hub_id = ids.get(c['hub']) or b.ensure({'slug': c['hub'], 'kind': 'page', 'title_corto': c['hub']}, ids)
             b.api('POST', f'/wp/v2/pages/{pid}', {'parent': hub_id})
         mid = mm.get(s['slug'], {}).get('media_id')
@@ -103,12 +109,12 @@ def main():
                 if m: option('zp_faq_bloque_' + m.group(1), [list(q) for q in x.get('preguntas', [])]); n = max(n, int(m.group(1)))
             for k in range(n + 1, 13): option('zp_faq_bloque_' + str(k), [])
         sp = b.normalize({k: v for k, v in s.items() if k not in ('datos', 'fuentes_verificacion', 'dudas', 'modelo')})
-        sp['post_id'] = pid; sp['dated'] = sec in ('fiscal', 'herramientas')
+        sp['post_id'] = pid; sp['dated'] = sec in ('fiscal', 'herramientas', 'sucesiones')
         if mid: sp['image_id'] = mid
         ok = run(sp)
         if ok:
             meta(pid, title=s['title_corto'], yt=s['yoast_title'].strip(), yd=s['meta_desc'], kw=s['focus_kw'], status='publish',
-                 parent=(None if es_hub or not c['hub'] else hub_id), ptype='pages', slug=s['slug'])
+                 parent=(par_id if c.get('parent') else (None if es_hub or not c['hub'] else hub_id)), ptype='pages', slug=s['slug'])
             hechos.append(s)
         print(pid, s['slug'], 'OK' if ok else 'FAIL', flush=True)
     if hechos and '--sin-yoastqa' not in args:

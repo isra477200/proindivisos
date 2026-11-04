@@ -94,6 +94,7 @@ if __name__=='__main__':
     if '--diccionario' in sys.argv: MODO.update({'min':550,'max':1100,'secs':(4,7),'faqs':(3,6)}); sys.argv.remove('--diccionario')
     if '--pagina' in sys.argv: MODO.update({'min':1000,'max':1600,'secs':(5,8),'faqs':(5,6)}); sys.argv.remove('--pagina')  # impuestos por comunidad
     if '--herramienta' in sys.argv: MODO.update({'min':650,'max':1250,'secs':(4,7),'faqs':(5,6)}); sys.argv.remove('--herramienta')  # calculadoras (la sección type=tool no cuenta)
+    if '--herramienta-plus' in sys.argv: MODO.update({'min':1300,'max':1900,'secs':(6,9),'faqs':(6,8)}); sys.argv.remove('--herramienta-plus')  # calculadora con página SEO completa (nuda propiedad)
     if '--modelo' in sys.argv: MODO.update({'min':650,'max':1250,'secs':(4,7),'faqs':(4,6)}); sys.argv.remove('--modelo')  # modelos descargables (el texto del modelo va aparte)
     specs=json.load(open(sys.argv[1]))
     planj=json.load(open(sys.argv[2])) if len(sys.argv)>2 else None

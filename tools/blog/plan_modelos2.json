@@ -1,0 +1,56 @@
+[
+ {
+  "slug": "modelo-contrato-compraventa-entre-hermanos",
+  "focus_kw": "modelo de contrato de compraventa entre hermanos",
+  "title_corto": "Compraventa entre hermanos",
+  "modelo": "Contrato privado de compraventa de la cuota indivisa (la parte) de una vivienda entre hermanos copropietarios: partes, inmueble y cuota, precio y forma de pago, cargas, gastos e impuestos (si con la compra uno se queda el 100 % tributa como extinción de condominio por AJD; si no, ITP), compromiso de elevar a escritura pública y entrega de posesión.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-contrato-compraventa-entre-hermanos/"
+ },
+ {
+  "slug": "modelo-cesion-de-derechos-hereditarios",
+  "focus_kw": "modelo de cesión de derechos hereditarios",
+  "title_corto": "Cesión de derechos hereditarios",
+  "modelo": "Contrato de cesión onerosa (venta) de los derechos hereditarios de un coheredero antes de la partición: herencia, cuota cedida, precio, retracto de coherederos (art. 1067 CC, un mes), deudas de la herencia, necesidad de escritura pública (art. 1280 CC) e impuestos. Es un documento previo para llevar a la notaría.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-cesion-de-derechos-hereditarios/"
+ },
+ {
+  "slug": "modelo-contrato-de-arras-cuota-indivisa",
+  "focus_kw": "modelo de contrato de arras de una cuota indivisa",
+  "title_corto": "Arras de una cuota indivisa",
+  "modelo": "Contrato de arras penitenciales (art. 1454 CC) para vender una cuota indivisa de un inmueble a un tercero o a un copropietario: cuota, precio, señal, plazo para escriturar, consecuencias del desistimiento, aviso a los demás comuneros por su derecho de retracto (arts. 1522 y 1524 CC, nueve días) y condición si lo ejercen.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-contrato-de-arras-cuota-indivisa/"
+ },
+ {
+  "slug": "modelo-reconocimiento-de-deuda-entre-copropietarios",
+  "focus_kw": "modelo de reconocimiento de deuda entre copropietarios",
+  "title_corto": "Reconocimiento de deuda",
+  "modelo": "Documento en el que un copropietario reconoce que debe a otro su parte de gastos adelantados (IBI, comunidad, seguro, derramas, hipoteca pagada por uno) según los arts. 393 y 395 CC, con importe, desglose, calendario de pago, compensación con el precio si se vende el inmueble e interés si se acuerda.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-reconocimiento-de-deuda-entre-copropietarios/"
+ },
+ {
+  "slug": "modelo-reclamacion-rentas-copropietario",
+  "focus_kw": "modelo de reclamación de rentas a un copropietario",
+  "title_corto": "Reclamación de rentas",
+  "modelo": "Requerimiento por burofax a un copropietario que cobra solo el alquiler (o usa el inmueble en exclusiva) para que rinda cuentas y pague la parte de rentas que corresponde al remitente (art. 393 CC: frutos en proporción a la cuota), descontando gastos, con plazo y aviso de acciones.",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-reclamacion-rentas-copropietario/"
+ },
+ {
+  "slug": "modelo-oferta-compra-parte-copropietario",
+  "focus_kw": "modelo de oferta de compra de la parte de un copropietario",
+  "title_corto": "Oferta de compra a un copropietario",
+  "modelo": "Carta de oferta para COMPRAR la parte de otro copropietario (lado comprador; distinta del modelo de propuesta de venta de mi parte): cuota, precio y cómo se ha calculado, forma de pago (con o sin hipoteca), quién paga gastos e impuestos (AJD de extinción si el comprador se queda el 100 %), plazo de validez y siguiente paso (notaría).",
+  "kind": "page",
+  "category": null,
+  "ruta": "/modelos-documentos-proindiviso/modelo-oferta-compra-parte-copropietario/"
+ }
+]

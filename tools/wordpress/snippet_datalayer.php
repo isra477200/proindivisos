@@ -1,7 +1,7 @@
 <?php
 /* Zona Proindiviso — capa de datos para GTM/GA4 (snippet 164, global).
  * Empuja un evento `zp_contexto` ANTES del contenedor GTM con:
- *   pagina_tipo  home | geo | intencion | guia | diccionario (5140 y sus términos) | herramienta (calculadoras) | fiscalidad (/impuestos-del-proindiviso/ y sus hijas; lugar = comunidad) | modelo | faq | entrada | blog | contacto | gracias | legal | otra
+ *   pagina_tipo  home | geo | intencion | guia | diccionario (5140 y sus términos) | herramienta (calculadoras) | fiscalidad (/impuestos-del-proindiviso/ y sus hijas: extinción y sucesiones por comunidad; lugar = comunidad, sacada del título «… en {comunidad}») | modelo | faq | entrada | blog | contacto | gracias | legal | otra
  *   lugar        nombre del lugar en las páginas geo (p. ej. "Getafe"); vacío en el resto
  *   lugar_nivel  ccaa | provincia | ciudad (profundidad bajo el hub 55)
  *   keyphrase    keyphrase de Yoast de la página
@@ -35,10 +35,10 @@ add_action( 'wp_head', function () {
 		elseif ( $id === 1359 ) { $tipo = 'gracias'; }
 		elseif ( in_array( $id, $guias, true ) ) { $tipo = 'guia'; }
 		elseif ( $id === 5140 || in_array( 5140, $anc, true ) ) { $tipo = 'diccionario'; }
-		elseif ( in_array( $id, [ 4917, 4920 ], true ) || in_array( get_post_field( 'post_name', $id ), [ 'calculadora-impuestos-vender-tu-parte', 'calculadora-compensacion-uso-exclusivo', 'calculadora-gastos-entre-copropietarios' ], true ) ) { $tipo = 'herramienta'; }
+		elseif ( in_array( $id, [ 4917, 4920 ], true ) || in_array( get_post_field( 'post_name', $id ), [ 'calculadora-impuestos-vender-tu-parte', 'calculadora-compensacion-uso-exclusivo', 'calculadora-gastos-entre-copropietarios', 'calculadora-nuda-propiedad' ], true ) ) { $tipo = 'herramienta'; }
 		else {
 			$rama = array_map( function ( $a ) { return get_post_field( 'post_name', $a ); }, array_merge( [ $id ], $anc ) );
-			if ( in_array( 'impuestos-del-proindiviso', $rama, true ) ) { $tipo = 'fiscalidad'; if ( $anc ) { $lugar = wp_strip_all_tags( get_the_title( $id ) ); $nivel = 'ccaa'; } }
+			if ( in_array( 'impuestos-del-proindiviso', $rama, true ) ) { $tipo = 'fiscalidad'; $sl = get_post_field( 'post_name', $id ); if ( preg_match( '/^(extincion-de-condominio|impuesto-de-sucesiones)-/', $sl ) && $sl !== 'impuesto-de-sucesiones-por-comunidad' ) { $t = wp_strip_all_tags( get_the_title( $id ) ); $lugar = preg_match( '/ en (el |la )?(.+)$/u', $t, $mm ) ? trim( $mm[2] ) : trim( $t ); $nivel = 'ccaa'; } }
 			elseif ( in_array( 'modelos-documentos-proindiviso', $rama, true ) ) { $tipo = 'modelo'; }
 			elseif ( in_array( 'preguntas-frecuentes-proindiviso', $rama, true ) ) { $tipo = 'faq'; }
 			else { $tipo = 'intencion'; }

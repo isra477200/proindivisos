@@ -1,0 +1,202 @@
+[
+ {
+  "slug": "impuesto-de-sucesiones-por-comunidad",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones por comunidad autónoma",
+  "title_corto": "Impuesto de sucesiones por comunidad",
+  "hub": true,
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-por-comunidad/",
+  "angulo": "Índice: cómo funciona el impuesto de sucesiones (ley estatal 29/1987 + normas de cada comunidad), TABLA comparativa de las 19 (bonificación o reducción para hijos y cónyuge, vivienda habitual del fallecido, hermanos y sobrinos) con enlace a cada página, plazos, qué pasa al heredar una parte de un inmueble y qué hacer si no puedes pagar."
+ },
+ {
+  "slug": "impuesto-de-sucesiones-andalucia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Andalucía",
+  "title_corto": "Sucesiones en Andalucía",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-andalucia/",
+  "geo": "/vender-proindiviso/andalucia/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-andalucia/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-aragon",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Aragón",
+  "title_corto": "Sucesiones en Aragón",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-aragon/",
+  "geo": "/vender-proindiviso/aragon/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-aragon/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-asturias",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Asturias",
+  "title_corto": "Sucesiones en Asturias",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-asturias/",
+  "geo": "/vender-proindiviso/asturias/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-asturias/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-baleares",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Baleares",
+  "title_corto": "Sucesiones en Baleares",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-baleares/",
+  "geo": "/vender-proindiviso/baleares/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-baleares/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-canarias",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Canarias",
+  "title_corto": "Sucesiones en Canarias",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-canarias/",
+  "geo": "/vender-proindiviso/canarias/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-canarias/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-cantabria",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Cantabria",
+  "title_corto": "Sucesiones en Cantabria",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-cantabria/",
+  "geo": "/vender-proindiviso/cantabria/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-cantabria/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-castilla-la-mancha",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Castilla-La Mancha",
+  "title_corto": "Sucesiones en Castilla-La Mancha",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-castilla-la-mancha/",
+  "geo": "/vender-proindiviso/castilla-la-mancha/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-castilla-la-mancha/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-castilla-y-leon",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Castilla y León",
+  "title_corto": "Sucesiones en Castilla y León",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-castilla-y-leon/",
+  "geo": "/vender-proindiviso/castilla-y-leon/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-castilla-y-leon/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-cataluna",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Cataluña",
+  "title_corto": "Sucesiones en Cataluña",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-cataluna/",
+  "geo": "/vender-proindiviso/cataluna/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-cataluna/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-comunidad-valenciana",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en la Comunidad Valenciana",
+  "title_corto": "Sucesiones en Comunidad Valenciana",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-comunidad-valenciana/",
+  "geo": "/vender-proindiviso/comunidad-valenciana/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-comunidad-valenciana/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-extremadura",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Extremadura",
+  "title_corto": "Sucesiones en Extremadura",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-extremadura/",
+  "geo": "/vender-proindiviso/extremadura/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-extremadura/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-galicia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Galicia",
+  "title_corto": "Sucesiones en Galicia",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-galicia/",
+  "geo": "/vender-proindiviso/galicia/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-galicia/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-la-rioja",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en La Rioja",
+  "title_corto": "Sucesiones en La Rioja",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-la-rioja/",
+  "geo": "/vender-proindiviso/la-rioja/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-la-rioja/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-madrid",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Madrid",
+  "title_corto": "Sucesiones en Madrid",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-madrid/",
+  "geo": "/vender-proindiviso/madrid/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-madrid/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-murcia",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Murcia",
+  "title_corto": "Sucesiones en Murcia",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-murcia/",
+  "geo": "/vender-proindiviso/murcia/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-murcia/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-navarra",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Navarra",
+  "title_corto": "Sucesiones en Navarra",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-navarra/",
+  "geo": "/vender-proindiviso/navarra/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-navarra/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-pais-vasco",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en el País Vasco",
+  "title_corto": "Sucesiones en País Vasco",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-pais-vasco/",
+  "geo": "/vender-proindiviso/pais-vasco/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-pais-vasco/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-ceuta",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Ceuta",
+  "title_corto": "Sucesiones en Ceuta",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-ceuta/",
+  "geo": "/vender-proindiviso/ceuta/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-ceuta/"
+ },
+ {
+  "slug": "impuesto-de-sucesiones-melilla",
+  "kind": "page",
+  "category": null,
+  "focus_kw": "impuesto de sucesiones en Melilla",
+  "title_corto": "Sucesiones en Melilla",
+  "ruta": "/impuestos-del-proindiviso/impuesto-de-sucesiones-melilla/",
+  "geo": "/vender-proindiviso/melilla/",
+  "fiscal": "/impuestos-del-proindiviso/extincion-de-condominio-melilla/"
+ }
+]
